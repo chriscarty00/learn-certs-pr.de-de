@@ -1,0 +1,75 @@
+### YamlMime:Examination
+title: Microsoft Azure Administrator
+metadata:
+  title: 'Pr�fung AZ-103: Microsoft Azure Administrator'
+  description: 'Pr�fung AZ-103: Microsoft Azure Administrator'
+uid: exam.az-103
+displayName: AZ-103
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>Der Inhalt dieser Pr�fung wurde am Mittwoch, 4. Dezember 2019 aktualisiert. Bitte laden Sie das untenstehende Dokument �Skills measured� herunter, um zu sehen, was sich ge�ndert hat.<br/></div>
+
+  Ab dem 1. Mai 2019 m�ssen Sie nur noch die Pr�fung AZ-103 ablegen, um diese Zertifizierung zu erhalten. Diese neue Pr�fung kombiniert die Kompetenzen von AZ-100 und AZ-101 (die am 1. Mai 2019 aus dem Programm genommen wurden), w�hrend der Gro�teil der neuen Pr�fung aus AZ-100 stammt.
+
+  Kandidaten f�r diese Pr�fung sind Azure-Administratoren, die Cloud-Services verwalten, die Speicher-, Sicherheits-, Netzwerk- und Cloud-Funktionen umfassen. Kandidaten haben ein tiefes Verst�ndnis f�r jeden Service �ber den gesamten IT-Lebenszyklus hinweg und nehmen Anfragen f�r Infrastrukturdienste, Anwendungen und Umgebungen entgegen. Sie geben Empfehlungen zur Nutzung von Diensten f�r eine optimale Leistung und Skalierung sowie zur Bereitstellung, Gr��e, �berwachung und Anpassung von Ressourcen.
+
+  Die Kandidaten f�r diese Pr�fung sollten �ber Kenntnisse in der Verwendung von PowerShell, der Befehlszeilenschnittstelle, dem Azure Portal, ARM-Vorlagen, Betriebssystemen, Virtualisierung, Cloud-Infrastruktur, Speicherstrukturen und Netzwerken verf�gen.
+subTitle: 'Ab dem 1. Mai 2019 m�ssen Sie nur noch die Pr�fung AZ-103 ablegen, um diese Zertifizierung zu erhalten. Diese neue Pr�fung kombiniert die Kompetenzen von AZ-100 und AZ-101 (die am 1. Mai 2019 aus dem Programm genommen wurden), w�hrend der Gro�teil der neuen Pr�fung aus AZ-100 stammt. Diese Pr�fung misst Ihre F�higkeit, die folgenden technischen Aufgaben zu erf�llen: Verwalten von Azure-Abonnements und -Ressourcen, Implementieren und Verwalten von Speicher, Bereitstellen und Verwalten von virtuellen Maschinen (VMs), Konfigurieren und Verwalten virtueller Netzwerke und Verwalten von Identit�ten.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUR
+practiceTestUrl: https://us.mindhub.com/p/MU-AZ-103?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-103&examname=Exam%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fde-de%2Flearn%2Fcertifications%2Fexams%2Faz-103
+locales:
+- en
+- ja
+- zh-cn
+- ko
+levels:
+- intermediate
+skills:
+- Der Inhalt dieser Pr�fung wurde am Mittwoch, 4. Dezember 2019 aktualisiert. Bitte laden Sie das untenstehende Dokument �Skills measured� herunter, um zu sehen, was sich ge�ndert hat.
+- Verwaltung von Azure-Abonnements und Ressourcen (15-20%)
+- Implementieren und Verwalten von Speicherplatz (15-20%)
+- Bereitstellen und Verwalten von virtuellen Maschinen (VMs) (15-20%)
+- Virtuelle Netzwerke konfigurieren und verwalten (30-35%)
+- Identit�ten verwalten (15-20%)
+roles:
+- administrator
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-virtual-network
+- azure-resource-manager
+courses:
+- uid: course.az-103t00
+paths:
+- uid: learn.secure-your-cloud-data
+- uid: learn.administer-infrastructure-resources-in-azure
+- uid: learn.manage-resources-in-azure
+- uid: learn.administer-containers-in-azure
+relatedCertifications:
+- related:
+    uid: certification.azure-administrator
+resources:
+- title: Zertifikat Lernpfad
+  description: 'Entdecken Sie die Schulungsressourcen, um ein Microsoft zertifizierter: Azure Administrator Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
+- title: Schulungs- und Zertifizierungsleitfaden
+  description: Informieren Sie sich �ber die Zertifizierungen in einem �bersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Pr�fung erneut durchf�hren
+  description: Sehen Sie sich zwei gro�artige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erh�hen.
+  href: ../deals.md
+- title: Unterst�tzung bei Zertifizierungspr�fungen
+  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Werktags (Motag-Freitag) wird Ihnen ein Forenmoderator antworten.
+  href: ../help.md
+- title: Dashboard zur Zertifizierung
+  description: �berpr�fen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/de-de/learning/dashboard.aspx
+- title: Unterk�nfte anfordern
+  description: Erfahren Sie mehr �ber die Anforderung einer Unterkunft f�r Ihre Pr�fung.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Pr�fungsrichtlinien und FAQs
+  description: Lesen Sie die Pr�fungsrichtlinien und die h�ufig gestellten Fragen.
+  href: ../certification-exam-policies.md

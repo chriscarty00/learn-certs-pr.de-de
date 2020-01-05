@@ -1,21 +1,21 @@
 ### YamlMime:Examination
-title: Microsoft Azure DevOps-L�sungen
+title: Microsoft Azure DevOps Solutions
 metadata:
-  title: 'Pr�fung AZ-400: Microsoft Azure DevOps-L�sungen'
-  description: 'Pr�fung AZ-400: Microsoft Azure DevOps-L�sungen'
-uid: exam.ai-400
+  title: 'Prüfung AZ-400: Microsoft Azure DevOps-Lösungen'
+  description: 'Prüfung AZ-400: Microsoft Azure DevOps-Lösungen'
+uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>Der Inhalt dieser Pr�fung wurde am Dienstag, 3. den Dezember 2019 aktualisiert. Bitte laden Sie das untenstehende Dokument �Skills measured� herunter, um zu sehen, was sich ge�ndert hat.<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>Der Inhalt dieser Prüfung wurde am Dienstag, 3. den Dezember 2019 aktualisiert. Bitte laden Sie das untenstehende Dokument Skills measured herunter, um zu sehen, was sich geändert hat.<br/><br/></div>
 
-  Kandidaten f�r diese Pr�fung sind DevOps-Profis, die Menschen, Prozesse und Technologien kombinieren, um kontinuierlich wertvolle Produkte und Dienstleistungen zu liefern, die den Bed�rfnissen der Endbenutzer und den Unternehmenszielen entsprechen. Die Fachleute von DevOps optimieren die Bereitstellung, indem sie die Abl�ufe optimieren, die Kommunikation und Zusammenarbeit verbessern und die Automatisierung realisieren. Sie entwickeln und implementieren Strategien f�r Anwendungscode und Infrastruktur, die kontinuierliche Integration, Tests, Bereitstellung,  �berwachung und R�ckmeldung erm�glichen.
+  Kandidaten für diese Prüfung sind DevOps-Profis, die Menschen, Prozesse und Technologien kombinieren, um kontinuierlich wertvolle Produkte und Dienstleistungen zu liefern, die den Bedürfnissen der Endbenutzer und den Unternehmenszielen entsprechen. Die Fachleute von DevOps optimieren die Bereitstellung, indem sie die Abläufe optimieren, die Kommunikation und Zusammenarbeit verbessern und die Automatisierung realisieren. Sie entwickeln und implementieren Strategien für Anwendungscode und Infrastruktur, die kontinuierliche Integration, Tests, Bereitstellung,  Überwachung und Rückmeldung ermöglichen.
 
-  Die Kandidaten m�ssen mit agilen Praktiken vertraut sein. Sie m�ssen sowohl mit der Azure-Administration als auch mit der Azure-Entwicklung vertraut sein und Experten in mindestens einem dieser Bereiche sein. Azure DevOps-Profis m�ssen in der Lage sein, DevOps-Praktiken f�r Versionskontrolle, Compliance, Infrastruktur als Code, Konfigurationsmanagement, Build, Release und Testing unter Verwendung von Azure-Technologien zu entwickeln und umzusetzen.
-subTitle: 'Diese Pr�fung misst Ihre F�higkeit, eine DevOps-Strategie zu entwickeln und die folgenden Punkte umzusetzen: DevOps Entwicklungsprozesse, Abh�ngigkeitsmanagement, Anwendungsinfrastruktur und kontinuierliche Integration, Bereitstellung und Feedback.'
+  Die Kandidaten müssen mit agilen Praktiken vertraut sein. Sie müssen sowohl mit der Azure-Administration als auch mit der Azure-Entwicklung vertraut sein und Experten in mindestens einem dieser Bereiche sein. Azure DevOps-Profis müssen in der Lage sein, DevOps-Praktiken für Versionskontrolle, Compliance, Infrastruktur als Code, Konfigurationsmanagement, Build, Release und Testing unter Verwendung von Azure-Technologien zu entwickeln und umzusetzen.
+subTitle: 'Diese Prüfung misst Ihre Fähigkeit, eine DevOps-Strategie zu entwickeln und die folgenden Punkte umzusetzen: DevOps Entwicklungsprozesse, Abhängigkeitsmanagement, Anwendungsinfrastruktur und kontinuierliche Integration, Bereitstellung und Feedback.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
-practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-400&examname=Exam%20AZ-400:%20Microsoft%20Azure%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fde-de%2Flearn%2Fcertifications%2Fexams%2Faz-400
+practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-400&examname=Prüfung%20AZ-400:%20Microsoft%20Azure%20DevOps-Lösungen&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fde-de%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
 - ja
@@ -24,7 +24,7 @@ locales:
 levels:
 - advanced
 skills:
-- Der Inhalt dieser Pr�fung wurde am Dienstag, den 3. Dezember 2019 aktualisiert. Bitte laden Sie das untenstehende Dokument �Skills measured� herunter, um zu sehen, was sich ge�ndert hat.
+- Der Inhalt dieser Prüfung wurde am Dienstag, den 3. Dezember 2019 aktualisiert. Bitte laden Sie das untenstehende Dokument Skills measured herunter, um zu sehen, was sich geändert hat.
 - Entwurf einer DevOps Strategie (20-25%)
 - Implementieren von DevOps Entwicklungsprozessen (20-25%)
 - Implementieren von kontinuierlicher Integration (10-15%)
@@ -44,6 +44,7 @@ paths:
 - uid: learn.azdo.evolve-your-devops-practices
 - uid: learn.azdo.build-applications-with-azure-devops
 - uid: learn.azdo.deploy-applications-with-azure-devops
+- uid: learn.azdo.automate-deployments-azure-devops
 courses:
 - uid: course.az-400t01
 - uid: course.az-400t02
@@ -60,20 +61,20 @@ resources:
   description: 'Entdecken Sie die Schulungsressourcen, um ein Microsoft zertifizierter Azure DevOps Engineering Experte zu werden'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich �ber alle Zertifizierungen in einem �bersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Pr�fung wiederholen
-  description: Sehen Sie sich zwei gro�artige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erh�hen.
+- title: Prüfung wiederholen
+  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
-- title: Unterst�tzung bei Zertifizierungspr�fungen
+- title: Unterstützung bei Zertifizierungsprüfungen
   description: Erhalten Sie Hilfe in Microsoft Support-Foren. Werktags (Montag-Freitag) wird Ihnen ein Forenmoderator antworten.
   href: ../help.md
 - title: Dashboard zur Zertifizierung
-  description: �berpr�fen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/de-de/learning/dashboard.aspx
-- title: Unterk�nfte anfordern
-  description: Erfahren Sie mehr �ber die Anforderung einer Unterkunft f�r Ihre Pr�fung.
+- title: Unterkünfte anfordern
+  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Pr�fungsrichtlinien und FAQs
-  description: Lesen Sie die Pr�fungsrichtlinien und die h�ufig gestellten Fragen.
+- title: Prüfungsrichtlinien und FAQs
+  description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md

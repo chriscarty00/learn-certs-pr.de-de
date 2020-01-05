@@ -1,0 +1,120 @@
+### YamlMime:CertificationHome
+
+title: Microsoft-Zertifizierungen
+summary: Erwerben Sie sich Zertifizierungen, die zeigen, dass Sie mit den heutigen technischen Anforderungen und Aufgaben Schritt halten. Wählen Sie eine Tätigkeit aus, um Ihre Zertifizierungspfade zu ermitteln.
+
+roles:
+  - name: developer
+    summary: Entwickler entwerfen, erstellen, testen und warten Cloud-Lösungen.
+    url: /learn/certifications/roles/developer
+  - name: administrator
+    summary: Administratoren implementieren, überwachen und warten Microsoft-Lösungen.
+    url: /learn/certifications/roles/administrator
+  - name: solution-architect
+    summary: Lösungsarchitekten verfügen über Expertise in den Bereichen Computing, Netzwerk, Storage und Sicherheit.
+    url: /learn/certifications/roles/solutions-architect
+  - name: data-engineer
+    summary: Datentechniker entwerfen und implementieren das Management, die Überwachung, die Sicherheit und den Schutz von Daten unter Verwendung sämtlicher verfügbarer Datendienste.
+    url: /learn/certifications/roles/data-engineer
+  - name: data-scientist
+    summary: Datenwissenschaftler wenden Methoden des maschinellen Lernens  an, um Modelle zur Lösung von Geschäftsproblemen zu entwickeln, zu bewerten und einzusetzen.
+    url: /learn/certifications/roles/data-scientist
+  - name: ai-engineer
+    summary: KI-Ingenieure nutzen Cognitive Services, maschinelles Lernen und Wissensmanagement, um Microsoft KI-Lösungen zu entwickeln und zu implementieren.
+    url: /learn/certifications/roles/ai-engineer
+  - name: devops-engineer
+    summary: DevOps-Techniker kombinieren Menschen, Prozesse und Technologien, und stellen kontinuierlich wertvolle Produkte und Dienstleistungen bereit, die den Bedürfnissen der Endverbraucher und den Unternehmenszielen entsprechen.
+    url: /learn/certifications/roles/devops-engineer
+  - name: security-engineer
+    summary: Sicherheitstechniker implementieren Sicherheitskontrollen und Bedrohungsschutz, verwalten Identitäten und Zugriffe und schützen Daten, Anwendungen und Netzwerke.
+    url: /learn/certifications/roles/security-engineer
+  - name: functional-consultant
+    summary: Funktionale Berater nutzen Microsoft Dynamics 365, um Kundenbedürfnisse zu antizipieren und zu planen.
+    url: /learn/certifications/roles/functional-consultant
+
+
+certificationsSection:
+  title: Werden Sie Microsoft-zertifiziert
+  summary: "Microsoft hat Zertifizierungspfade für viele technische Stellenangebote. Jede dieser Zertifizierungen erfordert das Bestehen einer Reihe von Prüfungen."
+  tiers:
+    - title: Basiszertifizierungen
+      summary: Empfohlener Start. Ideal für Menschen, die gerade erst in die Technik einsteigen oder über einen beruflichen Wechsel nachdenken.
+      certifications:
+        - uid: certification.azure-fundamentals
+        - uid: certification.microsoft-365-fundamentals
+        - uid: certification.power-platform-fundamentals
+      browseLink:
+        text: Basiszertifizierungen durchsuchen
+        url: /learn/certifications/browse?levels=beginner&term=fundamentals 
+    - title: Funktionsbasierte Zertifizierungen
+      summary: Wählen Sie eine aufgabenspezifische Zertifizierung, um wertvolle berufliche Funktionskenntnisse zu erwerben.
+      certifications:
+        - uid: certification.azure-developer
+        - uid: certification.power-apps-and-d365-developer-associate
+        - uid: certification.d365-functional-consultant-sales
+      browseLink:
+        text: Aufgabenbasierte Zertifizierungen durchsuchen
+        url: /learn/certifications/browse?resource_type=certification
+    - title: Zusätzliche Zertifizierungen
+      summary: Informieren Sie sich über die technischen Zertifizierungen von Specialty, Microsoft Certified Educator und Microsoft Office.
+      certifications:
+        - uid: certification.azure-for-sap-workloads-specialty
+        - uid: certification.microsoft-certified-educator
+        - uid: certification.mos-word-expert-2019
+      browseLink:
+        text: Weitere Zertifizierungen einsehen
+        url: /learn/certifications/browse?resource_type=certification
+
+trainingSection:
+  title: Wie man sich auf die Zertifizierung vorbereitet
+  summary: Microsoft ist sich bewusst, dass jeder Mensch unterschiedliche Lernpräferenzen hat, deshalb bieten wir Zertifizierungen und Schulungsmöglichkeiten während Ihres gesamten Zertifizierungsvorhabens an.
+  items:
+  - image:
+      alt: Frau beim Betrachten eines Microsoft-Surface
+      src: /learn/certifications/images/image-working-lady-laptop.jpg
+    title: Free learning paths to prepare
+    summary: Mit Microsoft Learn kann jeder die Kernkonzepte in ihrer Geschwindigkeit und ihrem Zeitplan beherrschen. Ob es sich um ein einzelnes Modul handelt, um mehr über eine Kernaufgabe zu erfahren, oder um die vollständige Aufarbeitung eines Themas durch eine Sammlung von verwandten Modulen.
+    browseLinks:
+    - text: Alle Lernpfade durchsuchen
+      url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
+  - image:
+      alt: Präsentation vor vier Personen, die an einem Tisch sitzen.
+      src: /learn/certifications/images/image-working-group.jpg
+    title: Vorbereitung mit einer vom Instruktor geleiteten Schulung
+    summary: Microsoft Learning Partner bieten eine breite Palette von Lösungen, die Ihren Lernbedürfnissen entsprechen und Sie in die Lage versetzen, Ihre Schulungsziele zu erreichen. Microsoft-zertifizierte Trainer (MCTs) haben eine strenge Schulung absolviert und strenge technische Zertifizierungsanforderungen erfüllt.
+    browseLinks:
+    - text: Durchsuchen Sie alle Präsenzschulungen.
+      url: /learn/certifications/courses/browse/
+
+resourcesSection:
+  title: Lernmittel
+  items:
+    - title: Finden Sie einen Microsoft Learning Partner
+      summary: Unser weltweites Partnernetzwerk bietet flexible, lösungsorientierte und maßgeschneiderte Schulungen zu Microsoft-Technologien.
+      url: https://www.microsoft.com/de-de/learning/partners.aspx
+    - title: Unterstützung bei Zertifizierungen und Prüfungen
+      summary: Holen Sie sich Hilfe in den Support-Foren. Ein Forenmoderator wird an einem Werktag, Montag-Freitag, antworten.
+      url: /learn/certifications/help
+    - title: Alle Zertifizierungen und Prüfungen durchsuchen
+      summary: Informieren Sie sich über alle Zertifizierungen, um Ihre Karriere voranzubringen.
+      url: /learn/certifications/browse
+
+statisticsSection:
+  title: Warum eine Zertifizierung?
+  summary: Zertifizierungen geben Ihnen  durch den Nachweis branchenweit anerkannter, aufgabenbasierter Kompetenzen einen beruflichen Vorteil.
+  video:
+    pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
+    iframeTitle: Microsoft-Zertifizierungen
+    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    title: Vorteile von Microsoft-Zertifizierungen
+    summary: Nach Erhalt einer Zertifizierung berichteten 23% ammer von Microsoft zertifizierten Techniker eine Steigerung von bis zu 20% des Gehalts. Zudem werden zertifizierte angestellte oft damit beauftragt, Ihre Kollegen zu überwachen - eine ideale Position für eine schnelle Beförderung. —2017 Pearson VUE-Leitfaden zum Wert der Zertifizierung.
+  items:
+    - title: 38%
+      summary: aller IT-Positionen werden bis 2021 einenCloud-Bezug haben.
+      note: IDC/Microsoft, Cloud-Skills und deren Einfluss auf Organisationen* Wie Cloud-Skills die Karriere von IT-Profis beschleunigen, Mai 2017
+    - title: 35%
+      summary: der IT-Experten glauben dass sie bei Cloud-Implementierungen mehr Einfluss haben, als ihre Kollegen bei der Bereitstellung anderer Technologien.
+      note: IDC/Microsoft, Cloud-Skills und deren Einfluss auf Organisationen* Wie Cloud Skills die Karriere von IT-Profis beschleunigen, Mai 2017
+    - title: 36.9%
+      summary: der IT-Profis gaben an, Zertifizierungen erleichterten ihnen komplexe Aufgaben souveräner zu erledigen.
+      note: Pearson VUE, The Value of IT Certification Survey, Januar 2017

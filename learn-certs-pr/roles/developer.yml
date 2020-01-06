@@ -1,0 +1,78 @@
+### YamlMime:Role 
+title: Entwickler 
+metadata: 
+  title: Entwickler 
+  description: Entwickler entwerfen, erstellen, testen und warten Lösungen. Entwickler implementieren Anwendungen und Services in Zusammenarbeit mit Lösungsarchitekten und Kunden.
+uid: role.developer 
+summary: | 
+  Entwickler entwerfen, erstellen, testen und warten Lösungen. Entwickler implementieren Anwendungen und Services in Zusammenarbeit mit Lösungsarchitekten und Kunden.  
+subTitle: Entwickler entwerfen, erstellen, testen und warten Cloud-Lösungen.
+certificationPaths: 
+- title: Azure-Entwickler
+  linkedInKeywords: Azure-Entwickler
+  uid: certification-path.developer 
+  prerequisites: 
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-developer
+    levels:
+    - intermediate 
+- title: Dynamics 365 Entwickler von Finance and Operations Apps
+  linkedInKeywords: Dynamics 365 Entwickler von Finance and Operations Apps
+  uid: certification.d365-finance-and-operations-apps-developer-associate
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-finance-and-operations-apps-developer-associate
+    levels:
+    - intermediate 
+- title: Microsoft 365 Entwickler
+  linkedInKeywords: Microsoft 365 Entwickler
+  uid: certification.m365-developer-associate
+  prerequisites: 
+  - uid: certification.microsoft-365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.m365-developer-associate
+    levels:
+    - intermediate 
+- title: Power Apps + Dynamics 365 Entwickler
+  linkedInKeywords: Power Apps + Dynamics 365 Entwickler
+  uid: certification.power-apps-and-d365-developer-associate
+  prerequisites: 
+  - uid: certification.power-platform-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.power-apps-and-d365-developer-associate
+    levels:
+    - intermediate 
+certifications:
+- uid: certification.azure-developer
+  requiredExams:
+  - uid: exam.az-203
+- uid: certification.d365-finance-and-operations-apps-developer-associate
+  requiredExams:
+  - uid: exam.mb-300
+  - uid: exam.mb-500
+- uid: certification.m365-developer-associate
+  requiredExams:
+  - uid: exam.ms-600
+- uid: certification.power-apps-and-d365-developer-associate
+  requiredExams:
+  - uid: exam.pl-900
+resources:
+- title: Microsoft Leitfaden für Schulungen und Zertifizierungen
+  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster für Schulungen und Zertifizierungen
+  description: Wählen Sie mit diesem Poster für Schulungen und Zertifizierungen Ihren Weg zum Erfolg.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Unterstützung fur Zertifizierung
+  href: ../help.md
+  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird an einem Werktag, Montag-Freitag, antworten.

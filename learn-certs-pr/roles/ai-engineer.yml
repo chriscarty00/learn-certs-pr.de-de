@@ -1,0 +1,35 @@
+### YamlMime:Role 
+title: KI-Techniker
+metadata: 
+  title: KI-Techniker 
+  description: KI-Ingenieure nutzen Cognitive Services, maschinelles Lernen und Wissensmanagement, um Microsoft KI-Lösungen zu entwickeln und zu implementieren.
+uid: role.ai-engineer 
+summary: | 
+  KI-Ingenieure nutzen Cognitive Services, maschinelles Lernen und Wissensmanagement, um Microsoft KI-Lösungen zu entwickeln und zu implementieren.
+subTitle: KI-Ingenieure nutzen Cognitive Services, maschinelles Lernen und Wissensmanagement, um Microsoft KI-Lösungen zu entwickeln und zu implementieren.
+certificationPaths: 
+- title: Azure KI-Techniker
+  linkedInKeywords: Azure KI-Techniker
+  uid: certification-path.azure-ai-engineer 
+  prerequisites: 
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-ai-engineer
+    levels:
+    - intermediate  
+certifications:
+- uid: certification.azure-ai-engineer
+  requiredExams:
+  - uid: exam.ai-100
+resources:
+- title: Microsoft Leitfaden für Schulungen und Zertifizierungen
+  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster für Schulungen und Zertifizierungen
+  description: Wählen Sie mit diesem Poster für Schulungen und Zertifizierungen Ihren Weg zum Erfolg.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Unterstützung fur Zertifizierung
+  href: ../help.md
+  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird an einem Werktag, Montag-Freitag, antworten.

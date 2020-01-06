@@ -1,0 +1,35 @@
+### YamlMime:Role 
+title: Datenwissenschaftler
+metadata: 
+  title: Datenwissenschaftler 
+  description: Datenwissenschaftler wenden Methoden des maschinellen Lernens  an, um Modelle zur Lösung von Geschäftsproblemen zu entwickeln, zu bewerten und einzusetzen. 
+uid: role.data-scientist 
+summary: | 
+  Datenwissenschaftler wenden Methoden des maschinellen Lernens  an, um Modelle zur Lösung von Geschäftsproblemen zu entwickeln, zu bewerten und einzusetzen.
+subTitle: Datenwissenschaftler wenden Methoden des maschinellen Lernens  an, um Modelle zur Lösung von Geschäftsproblemen zu entwickeln, zu bewerten und einzusetzen.
+certificationPaths: 
+- title: Azure Data Scientist
+  linkedInKeywords: Azure Data Scientist
+  uid: certification-path.azure-data-scientist 
+  prerequisites: 
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-data-scientist
+    levels:
+    - intermediate  
+certifications:
+- uid: certification.azure-data-scientist
+  requiredExams:
+    - uid: exam.dp-100
+resources:
+- title: Microsoft Leitfaden für Schulungen und Zertifizierungen
+  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster für Schulungen und Zertifizierungen
+  description: Wählen Sie mit diesem Poster für Schulungen und Zertifizierungen Ihren Weg zum Erfolg.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Unterstützung fur Zertifizierung
+  href: ../help.md
+  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird an einem Werktag, Montag-Freitag, antworten.

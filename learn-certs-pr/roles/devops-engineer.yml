@@ -1,0 +1,35 @@
+### YamlMime:Role 
+title: DevOps-Techniker 
+metadata: 
+  title: DevOps-Techniker 
+  description: DevOps-Techniker kombinieren Menschen, Prozesse und Technologien, und stellen kontinuierlich wertvolle Produkte und Dienstleistungen bereit, die den Bedürfnissen der Endverbraucher und den Unternehmenszielen entsprechen.
+uid: role.devops-engineer 
+summary: | 
+  DevOps-Techniker kombinieren Menschen, Prozesse und Technologien, und stellen kontinuierlich wertvolle Produkte und Dienstleistungen bereit, die den Bedürfnissen der Endverbraucher und den Unternehmenszielen entsprechen.
+subTitle: DevOps-Techniker kombinieren Menschen, Prozesse und Technologien, und stellen kontinuierlich wertvolle Produkte und Dienstleistungen bereit, die den Bedürfnissen der Endverbraucher und den Unternehmenszielen entsprechen.
+certificationPaths: 
+- title: Azure DevOps Engineer
+  linkedInKeywords: Azure DevOps Engineer
+  uid: certification-path.devops 
+  prerequisites: 
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-devops
+    levels:
+    - advanced    
+certifications:
+- uid: certification.azure-devops
+  requiredExams:
+  - uid: exam.az-400
+resources:
+- title: Microsoft Leitfaden für Schulungen und Zertifizierungen
+  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster für Schulungen und Zertifizierungen
+  description: Wählen Sie mit diesem Poster für Schulungen und Zertifizierungen Ihren Weg zum Erfolg.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Unterstützung fur Zertifizierung
+  href: ../help.md
+  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird an einem Werktag, Montag-Freitag, antworten.

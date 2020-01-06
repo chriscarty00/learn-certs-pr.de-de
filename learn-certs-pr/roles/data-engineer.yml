@@ -1,0 +1,36 @@
+### YamlMime:Role 
+title: Datentechniker  
+metadata: 
+  title: Datentechniker  
+  description: Datentechniker entwerfen und implementieren das Management, die Überwachung, die Sicherheit und den Schutz von Daten unter Verwendung sämtlicher verfügbarer Datendienste.
+uid: role.data-engineer 
+summary: | 
+  Datentechniker entwerfen und implementieren das Management, die Überwachung, die Sicherheit und den Schutz von Daten unter Verwendung sämtlicher verfügbarer Datendienste.
+subTitle: Datentechniker entwerfen und implementieren das Management, die Überwachung, die Sicherheit und den Schutz von Daten unter Verwendung sämtlicher verfügbarer Datendienste.
+certificationPaths: 
+- title: Azure Datentechniker
+  linkedInKeywords: Azure Datentechniker
+  uid: certification-path.azure-data-engineer 
+  prerequisites: 
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-data-engineer
+    levels:
+    - intermediate  
+certifications:
+- uid: certification.azure-data-engineer
+  requiredExams:
+  - uid: exam.dp-200
+  - uid: exam.dp-201
+resources:
+- title: Microsoft Leitfaden für Schulungen und Zertifizierungen
+  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster für Schulungen und Zertifizierungen
+  description: Wählen Sie mit diesem Poster für Schulungen und Zertifizierungen Ihren Weg zum Erfolg.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Unterstützung fur Zertifizierung
+  href: ../help.md
+  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird an einem Werktag, Montag-Freitag, antworten.

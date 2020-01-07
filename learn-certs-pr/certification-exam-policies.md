@@ -1071,7 +1071,7 @@ Wenn Sie allgemeine Fragen zur Prüfungsanmeldung haben, wenden Sie sich bitte a
 
 **Wie kann ich eine Unterkunft buchen?**
 
-Wenn Sie während einer Prüfung spezielle Materielien oder eine andere Unterkunft benötigen, können Sie über[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) mit dem "Reasonable Adjustments Request System"[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) eine Unterkunft anfordern. Weitere Informationen finden Sie im Abschnitt [Spezielle Unterkünfte bei Prüfungen](#special-accommodations-when-taking-exams) oben.
+Wenn Sie während einer Prüfung spezielle Materielien oder eine andere Unterkunft benötigen, können Sie über[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) mit dem "Reasonable Adjustments Request System"[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) eine Unterkunft anfordern. Weitere Informationen finden Sie im Abschnitt Spezielle Unterkünfte bei Prüfungen oben.
 
 **Warum muss ich Unterlagen einreichen?**
 

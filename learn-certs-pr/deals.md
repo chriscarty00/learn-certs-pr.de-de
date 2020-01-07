@@ -44,7 +44,7 @@ Nutzen Sie umfassende Preisnachlässe für Microsoft Certified Professional (MCP
 
 [**Mehr erfahren**](/learn/certifications/certification-exam-policies)
 
-## <a name="frequently-ask-questions"></a> Häufig gestellte Fragen
+## <a name="frequently-asked-questions"></a> Häufig gestellte Fragen
 
 **Frage: Frage: Was bedeutet die Exam Replay?**
 

@@ -1,0 +1,67 @@
+### YamlMime:Examination
+title: Bereitstellung von SharePoint Server Hybrid
+metadata:
+  title: 'Prüfung MS-301: Bereitstellung von SharePoint Server Hybrid'
+  description: 'Prüfung MS-301: Bereitstellung von SharePoint Server Hybrid'
+uid: exam.ms-301
+displayName: MS-301
+summary: |-
+  Kandidaten für diese Prüfung sind Teamwork Administratoren, die verantwortlich sind für die Konfiguration, Bereitstellung und Verwaltung von Office 365 und Azure Workloads, die den Schwerpunkt legen auf Effizienz und effiziente Zusammenarbeit und Übernahme. Teamwork Administratoren verwalten Apps, Dienste und die unterstützende Infrastruktur, um die Anforderungen des jeweiligen Business zu erfüllen. Der Teamwork Administrator sollte in der Lage sein, SharePoint (online, vor Ort und hybrid), OneDrive und Teams bereitzustellen, zu verwalten, zu übertragen und zu sichern.
+  <br/>
+
+  Der Teamwork-Administrator ist an Entscheidungen über die Governance beteiligt und arbeitet mit anderen Administratoren zusammen, um viele der Entscheidungen der Führungsgremien umzusetzen. Der Teamwork Administrator arbeitet mit dem Message Administrator zusammen, um Optionen und Sicherheit im Emailbereich zu konfigurieren, und mit dem Voice Administrator, um Sprachfunktionen in den Organisationen einzubinden, sowie dem Sicherheits-Administrator, um die End-to-End Sicherheit zu gewährleisten.
+
+  Die Kandidaten für diese Prüfung haben ein grundlegendes Verständnis für Integrationspunkte mit den folgenden Anwendungen und Diensten&#58; Office, Power Apps, Flow, Yammer, Microsoft Graph, Stream, Planner und Project. Der Administrator kann Drittanbieter-Apps und Dienste inklusive Line-of-Business Apps einbinden. Kandidaten haben ebenfalls Kenntnisse in SQL Servermanagement-Konzepten, Azure Archive Directory, PowerShell, Networking, Windows Server Administration, dem DNS Domain Name System, Active Directory Mobilgerätverwaltung und alternativen Betriebssystemen.
+subTitle: 'Diese Prüfung misst Ihre Kompetenz, folgende technische Aufgaben zu erfüllen: SharePoint On-Premises konfigurieren und verwalten; hybride Szenarien konfigurieren und verwalten; und zu SharePoint Online übertragen.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8S
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MS-301&examname=Prüfung%20MS-301:%20Bereitstellung%20von%20SharePoint%20Server%20Hybrid&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fde-de%2Flearn%2Fcertifications%2Fexams%2Fms-301
+locales:
+- en
+- ja
+levels:
+- intermediate
+skills:
+- SharePoint On-Premises konfigurieren und verwalten (55-60%)
+- Hybrid-Szenarien konfigurieren und verwalten (30-35%)
+- Zu SharePoint Online migrieren(5-10%)
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-300
+courses:
+- uid: course.ms-301t01
+- uid: course.ms-301t02
+- uid: course.ms-301t03
+- uid: course.ms-301t04
+relatedCertifications:
+- related:
+    uid: certification.m365-teamwork-administrator
+resources:
+- title: Zertifikat Lernpfad
+  description: 'Entdecken Sie die Schulungsressourcen, um ein Microsoft zertifizierter: Teamwork Administrator Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
+- title: Schulungs- und Zertifizierungsleitfaden
+  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+  href: ../deals.md
+- title: Unterstützung bei Zertifizierungsprüfungen
+  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird an einem Werktag, Montag-Freitag, antworten.
+  href: ../help.md
+- title: Dashboard zur Zertifizierung
+  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/de-de/learning/dashboard.aspx
+- title: Unterkünfte anfordern
+  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Prüfungsrichtlinien und FAQs
+  description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
+  href: ../certification-exam-policies.md

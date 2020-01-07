@@ -1,0 +1,83 @@
+### YamlMime:Examination
+title: Design einer Azure-Datenlösung
+metadata:
+  title: 'Prüfung DP-201: Design einer Azure-Datenlösung'
+  description: 'Prüfung DP-201: Design einer Azure-Datenlösung'
+uid: exam.dp-201
+displayName: DP-201
+summary: |-
+  Kandidaten für diese Prüfung sind Microsoft Azure-Dateningenieure, die mit Geschäftsinteressenten zusammenarbeiten, um die Datenanforderungen für die Design von Datenlösungen zu ermitteln und zu erfüllen, die Azure-Datendienste verwenden.
+  <br/>
+
+  Die Azure-Datentechniker sind für datenbezogene Aufgaben verantwortlich, einschließlich der Entwicklung von Azure-Datenspeicherlösungen, die relationale und nicht-relationale Datenspeicher, Batch- und Echtzeit-Datenverarbeitungslösungen sowie Datensicherheits- und Konformität-Lösungen verwenden.
+
+  Die Kandidaten für diese Prüfung müssen Datenlösungen entwickeln, die die folgenden Azure-Dienste verwenden&#58; Azure Cosmos DB, Azure SQL Database, Azure SQL Data Warehouse, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks und Azure Blob Storage.
+subTitle: 'Diese Prüfung misst Ihre Kompetenz, die folgenden technischen Aufgaben zu erfüllen: Design von Azure-Datenspeicherlösungen, Design von Datenverarbeitungslösungen und Design für Datensicherheit und Konformität.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
+practiceTestUrl: https://us.mindhub.com/p/MU-DP-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=DP-201&examname=Prüfung%20DP-201:%20Design%20einer%20Azure-Datenlösung&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fde-de%2Flearn%2Fcertifications%2Fexams%2Fdp-201
+locales:
+- en
+- ja
+- zh-cn
+- ko
+levels:
+- intermediate
+skills:
+- Entwickeln von Azure-Datenspeicherlösungen (40-45%)
+- Design von Datenverarbeitungslösungen (25-30%)
+- Design für Datensicherheit und Konformität (25-30%)
+roles:
+- data-engineer
+products:
+- azure
+- azure-cosmos-db
+- azure-data-lake
+- azure-sql-data-warehouse
+- azure-databricks
+- azure-notebooks
+- azure-stream-analytics
+- azure-sql-database
+- azure-storage
+- azure-monitor
+- azure-hdinsight
+exams:
+- uid: exam.dp-200
+courses:
+- uid: course.dp-201t01
+paths:
+- uid: learn.data-ai.azure-for-the-data-engineer
+- uid: learn.store-data-in-azure
+- uid: learn.work-with-relational-data-in-azure
+- uid: learn.work-with-nosql-data-in-azure-cosmos-db
+- uid: learn.data-ai.data-processing-with-azure-adls
+- uid: learn.data-ai.implement-data-streaming-with-asa
+- uid: learn.data-ai.implement-sql-data-warehouse
+- uid: learn.modern-data-warehouse
+- uid: learn.data-science
+relatedCertifications:
+- related:
+    uid: certification.azure-data-engineer
+resources:
+- title: Zertifikat Lernpfad
+  description: 'Entdecken Sie die Schulungsressourcen, um ein Microsoft zertifizierter: Azure Data Engineer Associate zu werden.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
+- title: Schulungs- und Zertifizierungsleitfaden
+  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+  href: ../deals.md
+- title: Unterstützung bei Zertifizierungsprüfungen
+  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird an einem Werktag, Montag-Freitag, antworten.
+  href: ../help.md
+- title: Dashboard zur Zertifizierung
+  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/de-de/learning/dashboard.aspx
+- title: Unterkünfte anfordern
+  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Prüfungsrichtlinien und FAQs
+  description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
+  href: ../certification-exam-policies.md

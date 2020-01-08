@@ -29,11 +29,11 @@ Darüber hinaus haben Sie Zugang zu [MCT Central](https://www.microsoft.com/en-u
 
 [Informieren Sie sich über alle Vorteile, die MCTs bieten.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE23o0Z)
 
-### Anforderungen
+### <a name="mctinfoheading-3"></a> Anforderungen
 
 The MCT program is for educators around the world who actively deliver training on Microsoft technologies. Wenn Sie über eine entsprechende Zertifizierung oder Qualifizierung verfügen und leidenschaftlich gern Schulungen zu Microsoft-Technologien geben, sollten Sie darüber nachdenken, sich für das Programm zu bewerben.
 
-Detaillierte Informationen zu den Anforderungen an das MCT-Programm finden Sie im MCT-Programmleitfaden und in der MCT-Programmvereinbarung im Abschnitt [Antragsverfahren](https://www.microsoft.com/de-de/learning/mct-certification.aspx#mctinfoheading-4) auf dieser Seite.
+Detaillierte Informationen zu den Anforderungen an das MCT-Programm finden Sie im MCT-Programmleitfaden und in der MCT-Programmvereinbarung im Abschnitt [Antragsverfahren](https://www.microsoft.com/de-de/learning/mct-certification.aspx#mctinfoheading-3) auf dieser Seite.
 
 ### Einstiegsanforderungen für das MCT-Programm
 

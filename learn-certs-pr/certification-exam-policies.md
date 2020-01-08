@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 Auf der ganzen Welt erwarten Partner und Kunden von Microsoft Prüfungen und Zertifizierungen von höchster Qualität. Die Microsoft-Zertifizierungsprüfungsrichtlinien wurden entwickelt, um die Ziele des Zertifizierungsprogramms zu unterstützen, darunter:
 
-## Sicherheits- und Wiederholungsrichtlinien
+## <a name="security-policies"></a> Sicherheits- und Wiederholungsrichtlinien
 
 Bei Microsoft gelten bestimmte Richtlinien für die Sicherheitsbereiche im Hinblick auf MCP-Prüfungen (Microsoft Certified Professional).
 
@@ -518,7 +518,7 @@ Weitere Informationen finden Sie unter: [NCCRS credit for Microsoft certificatio
 
 Download: [Transcript Service Application](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-### Übermitteln eines Prüfungselements einer Microsoft-Zertifizierung zur Überprüfung
+### <a name="policies-5"></a> Übermitteln eines Prüfungselements einer Microsoft-Zertifizierung zur Überprüfung
 
 [Jede Prüfungsfrage wird sorgfältig geprüft](https://www.microsoft.com/de-de/learning/certification-exams.aspx) von einem Gremium aus technischen und berufsbezogenen Experten, die jede Frage: auf technische Genauigkeit, Klarheit und Relevanz prüfen. Wenn Sie der Meinung sind, dass eine bestimmte Frage, die Sie in einer Microsoft-Zertifizierungsprüfung gesehen haben, ungültig ist, können Sie eine Bewertung der Frage: mithilfe der unten beschriebenen Schritte anfordern. Sie müssen innerhalb von 30 Tagen nach Ablegen der Prüfung ein Formular zur Prüfung der Prüfungsaufgabe einreichen.
 
@@ -556,8 +556,9 @@ Wenn Sie zusätzliche Zeit benötigen, weil die Prüfung nicht in Ihrer Muttersp
 
 ### Stornierungs- und Neuterminierungsrichtlinie:
 
-### Die Stornierung oder Neuterminierung Ihrer Prüfung innerhalb von mindestens 6 Werktagen vor Ihrem Termin ist kostenfrei.
+### <a name="cancellation-and-reschedule-policy"></a> Die Stornierung oder Neuterminierung 
 
+- Ihrer Prüfung innerhalb von mindestens 6 Werktagen vor Ihrem Termin ist kostenfrei.
 - Die Stornierung oder Neuterminierung Ihrer Prüfung innerhalb von 5 Werktagen vor der registrierten Prüfungszeit ist kostenpflichtig.
 - Wenn Sie Ihre Prüfungstermine nicht einhalten oder nicht neu vereinbaren oder Ihren Termin nicht mindestens 24 Stunden vor Ihrem vereinbaren Termin stornieren, verfällt Ihre gesamte Prüfungsgebühr. Arbeitstage sind Montag-Freitag, Pearson VUE Urlaubstage sind nicht enthalten.
 

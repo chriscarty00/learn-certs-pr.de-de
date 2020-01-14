@@ -1,0 +1,118 @@
+### YamlMime:Course
+title: Implementieren von SharePoint 2019-Serviceanwendungen
+metadata:
+  title: 'Kurs MS-301T02-A: Implementieren von SharePoint 2019-Serviceanwendungen'
+  description: 'Kurs MS-301T02-A: Implementieren von SharePoint 2019-Serviceanwendungen'
+uid: course.ms-301t02
+courseNumber: 'MS-301T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Bereitstellen einer BDC-Service-Anwendungsinstanz.
+- skill: Secure Store Service-Anwendungen planen und konfigurieren.
+- skill: Beschreiben, wie man My Sites in SharePoint 2019 konfiguriert.
+- skill: Beschreiben, wie die Benutzerprofildienst-Anwendung konfiguriert wird.
+- skill: Beschreiben, wie der SharePoint Active Directory-Import und die Synchronisierung geplant werden.
+- skill: Erklären, wie ein Inhaltstyp für mehrere Websitesammlungen erstellt und veröffentlicht wird.
+- skill: Die Funktionen des verwalteten Metadatendienstes identifizieren.
+- skill: Konfigurieren von Begriffssätzen und Begriffen für die verwaltete Navigation.
+- skill: Die Funktion von Suchkomponenten beschreiben.
+- skill: Erklären, wie eine Suchtopologie geplant und konfiguriert wird.
+- skill: Beschreiben, wie das Suchcenter konfiguriert wird.
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-301
+summary: |-
+  SharePoint Server 2019 wurde entwickelt, um die Anforderungen moderner Arbeitsstile zu erfüllen. Er bietet Benutzern die neuen modernen Funktionen, die in SharePoint Online sowohl intuitiv als auch vertraut sind. In diesem Kurs lernen Sie, wie Sie Dienstanwendungen in SharePoint 2019 planen, konfigurieren und verwalten, z. B. verwaltete Metadaten, Unternehmenskonnektivitätsdienste und Unternehmenssuche.
+  
+  Dieser Kurs richtet sich an IT-Experten, die die Teamwork-Infrastruktur in ihrer Organisation bereitstellen und verwalten.
+  
+  Dies ist der zweite von vier Kursen für den Teamwork-Administrator. Diese Kurse helfen bei der Vorbereitung auf die Prüfung MS-301&#58; Bereitstellen des SharePoint Server Hybrid.
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an Microsoft 365-Teamwork-Administratoren. Die Rolle ist für das Konfigurieren, Bereitstellen und Verwalten von Office 365- und Azure-Arbeitspensum verantwortlich, bei denen eine effiziente und effektive Zusammenarbeit und Übernahme im Vordergrund steht. Sie verwalten Apps, Dienste und die unterstützende Infrastruktur zur Erfüllung der Geschäftsanforderungen. Der Administrator ist sich der Produkte und Dienstleistungen bewusst und kann sie unterscheiden, verwaltet jedoch möglicherweise nicht jedes Produkt oder jede Dienstleistung direkt.
+  
+  Der Teamwork Administrator sollte in der Lage sein, SharePoint (online, vor Ort und hybrid), OneDrive und Teams bereitzustellen, zu verwalten, migrieren und sichern.
+  
+  Der Teamwork-Administrator verfügt über grundlegende Kenntnisse zu Integrationspunkten mit den folgenden Apps und Diensten&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planer und Projekt. Der Administrator kann Drittanbieter-Apps und Dienste inklusive Line-of-Business Apps einbinden.
+prerequisitesSection: |-
+  Die Lernenden sollten diesen Kurs bereits mit den folgenden Fähigkeiten beginnen&#58;
+  - Erfahrung mit Windows PowerShell.
+  - Grundlegendes Verständnis der SQL Server-Verwaltung.
+  - Grundlegendes Verständnis von Netzwerken, einschließlich DNS.
+  - Grundkenntnisse der Windows Server-Administration.
+  - Grundlegendes Verständnis von Active Directory und Azure AD.
+  - Grundlegendes Verständnis der Verwaltung mobiler Geräte und alternativer Betriebssysteme (Android und macOS).
+outlineSection: |-
+  ### Modul 1&#58; SharePoint Service-Anwendungen
+  In diesem Modul dreht sich alles um SharePoint-Dienstanwendungen und -Arbeitsabläufe. Es wird beschrieben, wie eine BCS-Dienstanwendung und eine Benutzerprofildienstanwendung bereitgestellt und verwaltet werden. Insbesondere wird erläutert, wie BDC-Modelle importiert und exportiert werden und wie Benutzereigenschaften in SharePoint importiert werden.
+  #### Lektionen
+  - SharePoint Service-Anwendungen und Arbeitsabläufe
+  Planen und Konfigurieren von Business Connectivity Services (BCS) und Secure Store
+  - Planen und Konfigurieren von Benutzerprofilen
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Die wichtigsten Komponenten eines BDC-Modells erläutern.
+  - Beschreiben der allgemeinen Architektur von BCS.
+  - Bereitstellen einer BDC-Service-Anwendungsinstanz.
+  - Secure Store Service-Anwendungen planen und konfigurieren.
+  - Den Zweck des Secure Store-Dienstes erläutern.
+  - Verwalten von Berechtigungen für eine BDC-Dienstanwendungsinstanz.
+  - Beschreiben, wie Benutzerprofileigenschaften konfiguriert werden.
+  - Beschreiben, wie Benutzergruppen in SharePoint 2019 verwaltet werden.
+  - Beschreiben, wie man My Sites in SharePoint 2019 konfiguriert.
+  - Beschreiben, wie die Benutzerprofildienst-Anwendung konfiguriert wird.
+  - Beschreiben, wie der SharePoint Active Directory-Import und die Synchronisierung geplant werden.
+
+
+  ### Modul 2&#58; Planen und konfigurieren verwalteter Metadaten
+  Dieses Modul befasst sich mit integralen Funktionen wie dem verwalteten Metadata-Service, Inhaltstypen und Ausdruckssätzen, mit denen Sie eine Informationsarchitektur erstellen und verbreiten können. Hier werden der Zweck von Inhaltstypen sowie die Konzepte für den verwalteten Metadatendienst vorgestellt, einschließlich Taxonomien, Begriffssätzen und Unternehmensschlüsselwörtern.
+
+  #### Lektionen
+  - Inhaltstypen verwalten
+  - Verwaltete Metadaten
+  - Den verwalteten Metadatendienst konfigurieren
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Die Funktion und Verwendung von Inhaltstypen erläutern.
+  - Die Funktionen des verwalteten Metadatadienstes beschreiben.
+  - Erklären, wie ein Inhaltstyp für mehrere Websitesammlungen erstellt und veröffentlicht wird.
+  - Die Funktionen des verwalteten Metadatendienstes identifizieren.
+  - Begriffsgruppen, Begriffssätzen und Begriffen erstellen und verwalten
+  - Konfigurieren von Begriffssätzen und Begriffen für die verwaltete Navigation.
+
+
+  ### Modul 3&#58; Suche planen und konfigurieren
+  In diesem Modul geht es um die Anwendung des Suchdienstes für das Unternehmen. Es enthält Details zum Planen und Konfigurieren von Inhaltsquellen, Durchforstungszeitplänen und Durchforstungsregeln. Außerdem wird erläutert, wie Sie die Suchverwaltung für eine Reihe von Suchkomponenten wie Abfrageregeln, Ergebnistypen und Anzeigevorlagen bereitstellen.
+  #### Lektionen
+  - Unternehmenssuche planen
+  - Konfigurieren der Unternehmenssuche
+  - Verwalten der Unternehmenssuche
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Die Funktion von Suchkomponenten beschreiben.
+  - Erklären, wie eine Suchtopologie geplant und konfiguriert wird.
+  - Beschreiben, wie Inhaltsquellen geplant und konfiguriert werden.
+  - Beschreiben, wie Crawlzeitpläne geplant und konfiguriert werden.
+  - Beschreiben, wie Crawlregeln geplant und konfiguriert werden.
+  - Beschreiben, wie das Suchschema verwaltet wird.
+  - Beschreiben, wie das Suchcenter konfiguriert wird.
+  - Erläutern der Verwendung und Bereitstellung von Abfrageregeln.
+  - Die Verwendung und Bereitstellung der Ergebnisquelle erläutern.
+
+
+  ### Modul 4&#58; Abschluss des Kurses
+
+  #### Labor&#58; Unternehmenssuche konfigurieren

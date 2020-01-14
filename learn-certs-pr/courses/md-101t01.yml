@@ -1,0 +1,107 @@
+### YamlMime:Course
+title: Bereitstellen des modernen Desktops
+metadata:
+  title: 'Kurs MD-101T01-A: Bereitstellen des modernen Desktops'
+  description: 'Kurs MD-101T01-A: Bereitstellen des modernen Desktops'
+uid: course.md-101t01
+courseNumber: 'MD-101T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Entwicklung einer Strategie für die Bereitstellung und Aktualisierung des Betriebssystems
+- skill: Verstehen der verschiedenen Einsatzmethoden
+- skill: Verstehen, welche Szenarien für lokale und Cloud-basierte Lösungen verwendet werden können
+- skill: Bereitstellen und Migrieren von Desktops auf Windows 10
+- skill: Planen und Konfigurieren von Windows Update-Richtlinien
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-101
+summary: |-
+  Mit der Entwicklung der Desktops haben sich auch die Methoden zu ihrer Bereitstellung und Aktualisierung weiterentwickelt. In diesem Kurs lernen Sie, wie Sie eine Betriebssystem-Bereitstellungsstrategie planen und implementieren. Dieser Kurs hilft den Teilnehmern, die verschiedenen verfügbaren Methoden zu verstehen, die Szenarien, für die sie geeignet sind, sowie die Bereitstellung von Windows mit modernen Methoden. In diesem Kurs wird auch die Planung und Implementierung einer Update-Strategie für Windows behandelt.
+
+  #### Zielgruppenprofil
+  Der Modern Desktop Administrator (MDA) stellt Geräte und Client-Anwendungen in einer Unternehmensumgebung bereit, konfiguriert, sichert, verwaltet und überwacht sie. Zu den Aufgaben gehört die Verwaltung von Identität, Zugriff, Richtlinien, Updates und Anwendungen. Der MDA arbeitet mit dem M365 Enterprise Administrator zusammen, um eine Gerätestrategie zu entwickeln und zu implementieren, die den Geschäftsanforderungen eines modernen Unternehmens entspricht. Die (MDA) muss mit M365-Arbeitslasten vertraut sein und über umfassende Fähigkeiten und Erfahrungen mit der Bereitstellung, Konfiguration und Wartung von Windows 10 und Nicht-Windows-Geräten verfügen. Die Rolle des MDA konzentriert sich auf Cloud Services und nicht auf Technologien für das lokale Management.
+prerequisitesSection: |-
+  Der moderne Desktop-Administrator (MDA) muss mit M365-Workloads vertraut sein und über umfassende Kenntnisse und Erfahrungen bei der Bereitstellung, Konfiguration und Wartung von Windows 10 und Nicht-Windows-Geräten verfügen. Die Rolle des MDA konzentriert sich auf Cloud Services
+  und nicht auf Technologien für das lokale Management.
+outlineSection: |-
+  ### Modul 1&#58; Planung einer Strategie für die Betriebssystemeinführung
+  In diesem Modul wird erklärt, wie eine Einsatzstrategie geplant und umgesetzt werden kann. Es deckt verschiedene Methoden und Szenarien für die Bereitstellung von Windows ab. Es werden sowohl Vor-Ort- und Cloud-Technologien als auch Überlegungen zu neuen Implementierungen, Upgrades und Migrationen erörtert.
+  #### Lektionen
+  - Übersicht über Windows as a Service
+  - Windows 10 Bereitstellungsoptionen
+  - Überlegungen zur Bereitstellung unter Windows 10
+
+
+  #### Labor&#58; Praxislab - Planung der Windows 10-Bereitstellung
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreiben von Windows as a Service.
+  - Beschreiben der verschiedenen Methoden zur Bereitstellung.
+  - Verstehen der Unterschiede zwischen lokalen und Cloud-basierten Lösungen.
+  - Beschreiben der Methoden zur dynamischen Bereitstellung.
+  - Beschreiben der verschiedenen Tools, die im Windows Assessment and Deployment Kit verfügbar sind.
+  - Beschreiben der Szenarien und Einschränkungen für Upgrades und Migrationen vor Ort.
+
+
+  ### Modul 2&#58; Implementierung von Windows 10
+  Dieses Modul deckt neue moderne Methoden zur Bereitstellung von Windows 10 ab, wie z.B. Windows Autopilot und Bereitstellungspakete. Dieses Modul deckt auch Werkzeuge ab, die bei der Planung von Upgrades, Anwendungskompatibilität und Migrationsmethoden verwendet werden.
+  #### Lektionen
+  - Implementierung von Windows 10 mit Hilfe der dynamischen Bereitstellung
+  - Implementierung von Windows 10 mit Hilfe des Windows-Autopiloten
+  - Upgrade von Geräten auf Windows 10
+
+
+  #### Labor&#58; Praxislab - Implementierung von Windows 10
+  - Erstellen und Bereitstellen von Bereitstellungspaketen.
+  - Migration von Benutzereinstellungen
+  - Bereitstellen von Windows 10 mit AutoPilot
+
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Entwicklung einer Strategie für die Bereitstellung und Aktualisierung des Betriebssystems
+  - Verstehen der verschiedenen Einsatzmethoden
+  - Verstehen, welche Szenarien für lokale und Cloud-basierte Lösungen verwendet werden können
+  - Bereitstellen und Migrieren von Desktops auf Windows 10
+  - Planen und Konfigurieren von Windows Update-Richtlinien
+
+
+  ### Modul 3&#58; Verwaltung von Updates für Windows 10
+  Dieses Modul deckt die Verwaltung von Updates für Windows ab. Dieses Modul stellt die Service-Optionen für Windows 10 vor. Die Teilnehmer lernen die verschiedenen Methoden zur Bereitstellung von Updates kennen und erfahren, wie die Update-Richtlinien von Windows konfiguriert werden.
+  #### Lektionen
+  - Aktualisierung von Windows 10
+  - Windows Update für Unternehmen
+  - Einführung in die Windows-Analytik
+
+
+  #### Labor&#58; Praxislab - Verwaltung von Updates für Windows 10
+  - Manuelles Konfigurieren der Windows Update-Einstellungen
+  - Konfigurieren von Windows Update mit Hilfe von GPOs
+
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreiben der Windows 10-Wartungskanäle.
+  - Konfigurieren einer Windows-Update-Richtlinie mithilfe von Gruppenrichtlinieneinstellungen.
+  - Konfigurieren von Windows Update für Unternehmen zur Bereitstellung von Betriebssystem-Updates.
+  - Verwenden von Windows Analytics, um die Upgrade-Bereitschaft und die Konformität mit Updates zu bewerten.
+
+
+  ### Modul 4&#58; Abschluss des Kurses
+  #### Lektionen
+  - Abschlussprüfung
+
+
+  #### Labor&#58; Abgestuftes Lab
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Erstellen eines Bereitstellungspakets.
+  - Konfigurieren einer Autopilot-Bereitstellung.
+  - Beschreiben der Werkzeuge, die für die Planung von Upgrades und Migrationen verwendet werden.
+  - Beschreiben der Methoden zur Migration von Benutzerdaten.

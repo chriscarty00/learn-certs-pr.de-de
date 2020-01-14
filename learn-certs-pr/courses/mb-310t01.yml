@@ -1,0 +1,202 @@
+### YamlMime:Course
+title: Konfigurieren und Verwenden wesentlicher Komponenten des Finanzmanagements in Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Kurs MB-310T01-A: Konfigurieren und Verwenden wesentlicher Komponenten des Finanzmanagements in Dynamics 365 für Finanzen und Betrieb'
+  description: 'Kurs MB-310T01-A: Konfigurieren und Verwenden wesentlicher Komponenten des Finanzmanagements in Dynamics 365 für Finanzen und Betrieb'
+uid: course.mb-310t01
+courseNumber: 'MB-310T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+exams:
+- uid: exam.mb-310
+summary: |-
+  Unternehmen setzen Dynamics 365 for Finance und Operations zur Steigerung ihrer finanziellen Performance ein, weil es die Rentabilität steigern, die Produktivität ihrer Mitarbeiter optimieren, die Betriebskosten senken, sich schnell an geänderte Anforderungen anpassen und das Asset-Management optimieren kann.
+
+  In diesem Kurs wird erläutert, wie wichtige Komponenten des Finanzmanagements in Dynamics 365 for Finance and Operations konfiguriert und verwendet werden.
+
+  #### Zielgruppenprofil
+  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von Bedürfnissen, sowie Lösungen und Anwendungen zu konfigurieren. Der Modulbetreuer implementiert eine Lösung mit Hilfe von gebrauchsfertigen Funktionen, codefreier Erweiterungsmöglichkeit sowie Anwendungs- und Service-Integrationen.
+prerequisitesSection: |-
+  Grundlegendes Verständnis von ERP- und CRM-Konzepten.
+outlineSection: |-
+  ### Modul 1&#58; Finanzverwaltung
+  In diesem Modul lernen die Studenten einige der Vorteile des Finanzmanagements von Dynamics 365 for Finance and Operations kennen.
+  #### Lektionen
+  - Vorteile des Finanzmanagements
+  - Finnzverwaltung
+  - Modulübersicht
+
+  Die Studenten lernten die Module in Finance and Operations im Zusammenhang mit Finanzverwaltung sowie deren allgemeinen Eigenschaften und Funktionen kennen.
+
+  ### Modul 2&#58; Zahlungsmittel konfigurieren
+  Einer der ersten und wichtigsten Schritte zur Implementierung des Finanzmanagements in Dynamics 365 for Finance and Operations ist das Einrichten von Zahlungsmitteln. Das Einrichten von Zahlungsmitteln ist ein erforderlicher Schritt in der Konfiguration des Systems und wird zur Erfassung von Finanztransaktionen verwendet. In diesem Modul wird das Zahlungsmittelmanagement in Finance and Operations erläutert.
+  #### Lektionen
+  - Einführung
+  - Einrichten von Zahlungsmitteln und Umrechnungen für juristische Einheiten
+  - Konfigurieren und Importieren von Wechselkursen
+  - Übungslabor
+  - Modulübersicht
+
+  Die Studenten haben nun verschiedene Arten von Zahlungsmitteln in Finanzen und Operations kennengelernt. Sie sind jetzt auch mit dem Konzept der Triangulationswährung, der Einrichtung von Währungen für juristische Personen sowie der Umrechnung vertraut. In dem Video lernten die Schüler, Wechselkursanbieter zu konfigurieren und diese zum Importieren von Wechselkursen in einen Wechselkurstyp zu verwenden.
+
+  ### Modul 3&#58; Steuerkalender, Jahre und Perioden erstellen
+  Vor dem Buchen von Transaktionen muss ein neues Geschäftsjahr in Perioden unterteilt werden. Dies liegt daran, dass Transaktionen nur gebucht werden können, wenn ein Zeitraum für das Buchungsdatum erstellt und von mehreren juristischen Einheiten gemeinsam genutzt wird. Die gemeinsame Nutzung von Steuerkalendern hat den Vorteil, dass für jede Rechtsperson mehrere Steuerkalender unterstützt werden. Das Geschäftsjahr in Finance and Operations kann auf eine beliebige Länge festgelegt und in eine beliebige Anzahl von Perioden unterteilt werden. In diesem Modul werden die Steuer- und Hauptbuchkalenderverwaltung in Finance and Operations erläutert.
+  #### Lektionen
+  - Einführung
+  - Erstellen von Steuerkalendern, Jahren und Perioden
+  - Erstellen von Datumsintervallen
+  - Übungslabor
+  - Modulübersicht
+
+  In diesem Modul lernen die Studenten, wie man&#58
+  - Zwischen Hauptbuch- und Steuerkalendern unterscheidet
+  - Steuerkalendern, Jahre und Perioden konfiguriert und einrichtet
+  - Datumsintervalle erstellt und verwendet
+
+
+  ### Modul 4&#58; Kontenplan konfigurieren
+  Ein Kontenplan besteht aus einer Reihe von Hauptkonten in Finance and Operations, die beim Buchen eines Journals Finanzinformationen erfassen. Jedem Konto wird eine Kontonummer als eindeutige Kennung zugewiesen.
+  #### Lektionen
+  - Einführung
+  - Kontenplan zu definieren und konfigurieren
+  - Finanziellen Dimensionen definieren und konfigurieren
+  - Kontostrukturen und Regeln definieren und konfigurieren
+  - Übungslabore
+  - Modulübersicht
+
+  In diesem Modul lernen die Studenten, wie man&#58
+  - Erforderlichen Komponenten für den Kontenplan zu identifizieren
+  - Kontenplan zu definieren und konfigurieren
+  - Die finanziellen Dimensionen und Dimensionssätze zu definieren und konfigurieren
+  - Kontenplan, Hauptkonten, Kategorien, Vorlagen, Hauptbuch-Alias und Kontostandskontrolle zu konfigurieren
+  - Kontostrukturen und erweiterte Regeln konfiguriert
+
+
+  ### Modul 5&#58; Hauptbuch und Journale konfigurieren
+  Ein Journal ist ein Arbeitsblatt, das Sie verwenden können, bevor Sie Buchungen manuell in das System eingeben. Bei korrekter Einrichtung ermöglichen Journale eine schnelle und effiziente Verwaltung der Buchung. Zur Verwendung eines Journals muss man einen Journalnamen vergeben, und die Konfiguration des Hauptbuchs, des Journals und der Buchung des Hauptbuchmoduls sollte abgeschlossen sein. Wenn man das Hauptbuchjournal direkt oder über den Arbeitsbereich für die Hauptbuchverarbeitung verwendet, kann jemand die täglichen Aktivitäten ausführen, dem die entsprechende Sicherheitsrolle für den Zugriff auf das Hauptbuch zugewiesen wurde. Mit einem Journalnamen können Verantwortliche im Finanzbereich die Validierung der Dateneingabe steuern und das Buchen eines Journalnamens für Benutzer unterschiedlich einschränken.
+  #### Lektionen
+  - Journale und deren Einrichtung
+  - Hauptbuch- und Journalerstellung konfigurieren
+  - Benutzerjournale
+  - Übungslabor
+  - Modulübersicht
+
+  In diesem Modul lernten die Schüler etwas über&#58;
+  - Verschiedene Arten von Journalen und deren Aufbau
+  - Konfiguration der Einrichtung von Hauptbuch und Buchung
+  - Konfigurieren und Verwenden von Journalen
+
+
+  ### Modul 6&#58; Cash- und Bank-Management konfigurieren
+  In Dynamics 365 for Finance and Operations verwenden Unternehmen das Modul „Cash and bank management " zur Erstellung und Verwaltung von Bankkonten. Die Bankkontentabelle enthält einen Datensatz für jedes Bankkonto. Jeder Datensatz enthält Bankkonteninformationen wie z.B.&#58; Registrations- und Kontonummer, Adresse; weitere Kontaktinformationen; Währung; Einrichtung von Schecks und Hauptkonto für die Buchung. Finance and Operations verwendet diese Informationen, um Bankgeschäfte wie z.B. Zahlungen und Einzahlungen zu verarbeiten.
+  #### Lektionen
+  - Einführung
+  - Arten und Gruppen von Bankgeschäften
+  - Einrichten von Parametern für die Cash- und Bankverwaltung
+  - Banken und Bankschecks konfigurieren
+  - Einzahlungs- und Rückerstattungsschecks
+  - Cashflow
+  - Übungslabore
+  - Modulübersicht
+
+  In diesem Modul lernen die Studenten, wie man&#58
+  - Banken erstellt und konfiguriert
+  - Banklayouts erstellt und konfiguriert
+  - Cash- und Bankverwaltungsparameter konfiguriert
+  - Lieferanten- und Kundenbanken konfiguriert
+  - Cashflow-Prognosen und Berichte konfiguriert
+
+
+  ### Modul 7&#58; Cash- and Bank-Management nutzen
+  In diesem Modul werden die Hauptverfahren des Moduls Cash- und Bankmanagement in Finance and Operations behandelt. Die Studenten lernten den Umgang mit Cash- und Bankmanagement-Arbeitsbereichen wie z.B. Bankmanagement und Cash-Übersichten. Die Studenten lernten auch Abläufe und Verfahren für das Cash- und Bankmanagement kennen, z. B. Einzahlungen vornehmen und Zahlungen stornieren (Einzahlungen). Finance and Operations bietet Funktionen zum Verwalten von Scheckzahlungen sowie Verfahren zum Beheben spezieller Situationen mit Schecks. Sie können Schecks löschen, erstatten und stornieren sowie Schecks gemäß Unternehmensspezifikationen erstellen und ausstellen. Da in Finance and Operations alle Finanztransaktionen erfasst werden, können Unternehmen mit Hilfe der Funktion zum Kontenabgleich interne Firmendatensätze von Transaktionen mit Kontoauszügen abgleichen.
+  #### Lektionen
+  - Einzahlungen vornehmen und Zahlungsstornierungen durchführen
+  - Cash- und Bankverwaltungsarbeitsbereiche nutzt
+  - Übungslabore
+  - Modulübersicht
+
+  In diesem Modul lernen die Studenten, wie man&#58
+  - Mit Cash- und Bankverwaltungsprozessen arbeitet
+  - Cash- und Bankverwaltungsarbeitsbereiche nutzt
+  - Einzahlungen macht
+  - Zahlungen storniert
+
+
+  ### Modul 8&#58; Akkreditive und Garantien konfiguriert
+  Die Studenten haben jetzt gelernt, was Bankbriefe sind; wie man Akkreditive zur Erstellung von Bankdokumente einrichtet, die üblicherweise für den Kauf und Verkauf von Waren über internationale Grenzen hinweg verwendet werden. Und etwas über Bürgschaftserklärungen, wobei sich eine Bank bereit erklärt, einer Person einen bestimmten Geldbetrag zu zahlen, wenn einer der Kunden der Bank mit einer Zahlung oder einer Verpflichtung gegenüber dieser Person in Verzug gerät.
+  #### Lektionen
+  - Einführung
+  - Akkreditive konfigurieren
+  - Garantieerklärungen konfigurieren
+  - Modulübersicht
+
+  Die Studenten lernen etwas über Bankbriefe, Akkreditive und Garantien.
+
+  ### Modul 9&#58; Tägliche Prozeduren durchführen
+  Jede in Finanzen und Betrieb eingegebene manuelle Buchung wird über ein Journal erfasst. Ein Journal ist eine Art Arbeitsblatt, in dem Einträge nicht sofort verbucht werden. Sie können abgeschlossene Journale durchsehen, ändern und überprüfen, bis sie zum Verbuchen bereit sind. Eine Belegvorlage ist ein Beleg, der als Grundlage für zukünftige Belege in anderen Journaleinträgen verwendet werden kann. Sie können Belegvorlagen für ein allgemeines Journal oder eines der Finanzunterjournale verwenden, z. B. Kreditoren- und Debitorenjournale. Sie können Einschränkungen für Unternehmen, Kontotyp und Segmentwerte festlegen.
+  #### Lektionen
+  - Mehr erfahren über Hauptbuchprozesse
+  - Erstellen von Belegvorlagen
+  - Einrichten von Journal-Steuerelementen
+  - Übungslabor
+  - Modulübersicht
+
+  Die Studenten haben nun gelernt, wie sie die täglichen Aktivitäten im Hauptbuch verarbeiten und mit Hilfe der Journalsteuerung Regeln bei der Dateneingabe anwenden. Sie haben mit Saldenkontrollkonten gearbeitet, um die Salden von Banken oder Liquiditätskonten anzuzeigen. 
+  
+  Die Studenten haben auch gelernt, dass man die Saldenkontrolle nur vor dem Buchen verwenden kann, um sicherzustellen, dass die Eingaben korrekt sind.
+  
+  Schließlich lernten sie auch, wie sie von Belegvorlagen für Beträge profitieren, bei denen einfach der genaue Betrag der Vorlage als neue Zeile oder in Prozent einkopiert wird, wobei dann die Beträge im Beleg in Prozent umgewandelt werden. Auf diese Weise kann ein beliebiger Betrag für die Belegvorlage gewählt werden.
+
+  ### Modul 10&#58; Konzerninterne Buchhaltung
+  Die konzerninterne Buchhaltung kann Organisationen durch Bereitstellung eines zentralen Einstiegspunkts für Transaktionen, die für mehrere Unternehmen aufgezeichnet werden müssen, helfen. Das Durchführen von Transaktionen von einem einzelnen Unternehmen aus spart Zeit bei der Dateneingabe und stellt sicher, dass Transaktionen, die mehrere Unternehmen betreffen, in jedem Unternehmen erfasst werden. Finance and Operations hilft auch dabei, die konzerninternen Einträge durch das ganze System zu verfolgen. Es verfügt über die Funktion, konzerninterne Transaktionen zu verarbeiten, die von den meisten Unternehmen benötigt wird. Dazu gehört die Möglichkeit, konzerninterne Kundenaufträge, Bestellungen und Barauszahlungen effizient zu erfassen.
+  #### Lektionen
+  - Einrichtung und Nutzung der konzerninternen Buchhaltung
+  - Übungslabor
+  - Modulübersicht
+
+  Die Studenten sind in der Lage, eine konzerninterne Buchhaltung einzurichten und anzuwenden.
+
+  ### Modul 11&#58; Hauptbuchzuordnungen und -Rückstellungen konfigurieren
+  Finance and Operations bietet die Möglichkeit, Rückstellungsprogramme zu unterstützen.
+  #### Lektionen
+  - Einführung
+  - Konfigurieren und Anwenden von Rückstellungsprogrammen
+  - Regeln für die Hauptbuchzuordnung konfigurieren
+  - Übungslabore
+  - Modulübersicht
+
+  Die Teilnehmer haben gelernt, wie man Zuordnungsregeln sowie Rückstellungsprogramme konfiguriert und anwendet. Finance and Operations bietet die folgenden Funktionen zur Unterstützung dieses Prozesses&#58;
+  - Zuweisen von Transaktionsbeträgen mit Hilfe der Aufteilungsoption bei Kontenverteilungen oder durch Anwenden von Standardvorlagen für Finanzdimensionen für einen Beleg.
+  - Automatische Zuweisung von Transaktionsbeträgen auf der Grundlage von Zuweisungsbedingungen, die auf dem Hauptkonto individuell festgelegt wurden. Die Zuweisung von Buchungseinträgen wird für jedes Journal auf der Grundlage des Prozentsatzes und des Zielkontos generiert, wenn ein Buchungseintrag die als Ursprungskonto definierten Kriterien erfüllt.
+  - Automatische Zuordnung von Hauptbuchsalden oder festen Beträgen auf der Grundlage von Hauptbuchregeln. Die Hauptbuchregeln für die Zuweisung werden periodisch über Zuweisungsjournale abgearbeitet.
+
+
+  ### Modul 12&#58; Umsatzsteuer konfigurieren
+  Die Anforderungen an die Steuerberechnung und Steuererklärung unterscheiden sich für verschiedene Länder oder Regionen erheblich. Daher ist das Steuermodul von Dynamics 365 for Finance and Operations äußerst umfangreich.
+  #### Lektionen
+  - Steuermodellkomponenten verstehen
+  - Übungslabor
+  - Modulübersicht
+
+  Die Studenten haben nun Informationen zu regionalen und landespezifischen Steuererklärungen in Finance and Operations erhalten.
+  
+  In diesem Modul haben die Studenten gelernt, wie man Steuerkomponenten wie Steuerbehörden, Abrechnungszeiträume und Umsatzsteuerkennzeichen konfiguriert. Darüber hinaus haben sie erfahren, dass Umsatzsteuercodes die Hauptkomponente für Steuerberechnungen und die Verknüpfung aller anderen Steuerkomponenten sind, damit Finance and Operations Transaktionen zur Abrechnung automatisch auf Grundlage des von einer Behörde zugewiesenen Zeitraums berechnen und buchen kann.
+
+  ### Modul 13&#58; Abschluss des Kurses
+  Abschließende Bewertung und Kurszusammenfassung sowie eine Umfrage nach dem Kurs.
+  #### Lektionen
+  - Abschließende Bewertung
+  - Kurszusammenfassung
+  - Umfrage nach dem Kurs
+
+  Die Kursteilnehmer haben den Kurs abgeschlossen.

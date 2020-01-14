@@ -1,0 +1,118 @@
+### YamlMime:Course
+title: Verwalten der integrierten Microsoft 365-Kompatibilität
+metadata:
+  title: 'Kurs MS-500T04-A: Administering Microsoft 365 Built-in Compliance'
+  description: 'Kurs MS-500T04-A: Administering Microsoft 365 Built-in Compliance'
+uid: course.ms-500t04
+courseNumber: 'MS-500T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planen und Bereitstellen eines Datenarchivierungs- und Aufbewahrungssystems.
+- skill: Bewertungen im Compliance-Manager durchführen.
+- skill: Verwalten der E-Mail-Aufbewahrung über Exchange.
+- skill: Durchführen einer Audit-Log-Untersuchung.
+- skill: Erstellen und verwalten einer eDiscovery-Untersuchung.
+- skill: Anfragen von GDPR-Datensubjekten verwalten.
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-500
+summary: |-
+  Internal policies and external requirements for data retention and investigation may be necessary for your organization. In this course you will learn about archiving and retention in Microsoft 365 as well as data governance and how to conduct content searches and investigations. Specifically, this course covers data retention policies and tags, in-place records management for SharePoint, email retention, and how to conduct content searches that support eDiscovery investigations. The course also helps your organization prepare for Global Data Protection Regulation (GDPR).
+
+  #### Audience profile
+  This course is for the Microsoft 365 security administrator role. This role collaborates with the Microsoft 365 Enterprise Administrator, business stakeholders and other workload administrators to plan and implement security strategies and ensures that the solutions comply with the policies and regulations of the organization. 
+  
+  This role proactively secures Microsoft 365 enterprise environments. Responsibilities include responding to threats, implementing, managing and monitoring security and compliance solutions for the Microsoft 365 environment. They respond to incidents, investigations and enforcement of data governance. 
+  
+  The Microsoft 365 Security administrator is familiar with Microsoft 365 workloads and has strong skills and experience with identity protection, information protection, threat protection, security management and data governance. This role focuses on the Microsoft 365 environment and includes hybrid environments.
+prerequisitesSection: |-
+  Die Lernenden sollten diesen Kurs bereits mit den folgenden Fähigkeiten beginnen&#58;
+  - Grundlegendes konzeptionelles Verständnis von Microsoft Azure
+  - Erfahrung mit Windows 10-Geräten
+  - Erfahrung mit Office 365
+  - Grundlegendes Verständnis von Autorisierung und Authentifizierung
+  - Grundlegendes Verständnis von Computernetzwerken
+  - Grundkenntnisse in der Verwaltung mobiler Geräte
+outlineSection: |-
+  ### Modul 1&#58; Archivierung und Aufbewahrung
+  In diesem Modul werden Konzepte zur Aufbewahrung und Archivierung von Daten für Microsoft 365 einschließlich Exchange und SharePoint erläutert.
+
+  #### Lektionen
+  - Archivierung in Microsoft 365
+  - Aufbewahrung in Microsoft 365
+  - Aufbewahrungsrichtlinien im Sicherheits- and Compliance-Center
+  - Archivierung und Aufbewahrung im Austausch
+  - In-Place Dokumentenverwaltung in SharePoint
+
+
+  #### Labor&#58; Archivierung und Aufbewahrung
+  - Erstellen und lizenzieren von Benutzern in Ihrer Organisation
+  - Konfigurieren von Aufbewahrungstags und Richtlinien
+  Aufbewahrungsrichtlinien
+
+  Nach Abschluss dieses Moduls sollten Sie in der Lage sein&#58;
+  - Beschreiben der Datenverwaltung in Microsoft 365.
+  - Den Unterschied zwischen In-Place-Archivierung und Datensatzverwaltung beschreiben.
+  - Erläutern, wie Daten in Exchange archiviert werden.
+  - Vorteile von In-Place Dokumentenmanagement in SharePoint.
+  - Den Unterschied zwischen Nachrichtendokumentverwaltung (MRM) in Exchange und Aufbewahrung im Sicherheits- und Compliance Center.
+  - Erklären, wie eine Aufbewahrungsrichtlinie funktioniert.
+  - Erstellen einer Aufbewahrungsrichtlinie.
+  - Aktivieren und Deaktivieren der direkten Archivierung.
+  - Erstellen nützlicher Aufbewahrungstags.
+
+
+  ### Modul 2&#58; Verwalten von Data Governance in Microsoft 365
+  Dieses Modul befasst sich mit der Datenverwaltung in Microsoft 365. Das Modul führt Sie in den Compliance-Manager ein und erläutert die DSGVO.
+  #### Lektionen
+  - Planung Ihrer Sicherheits- und Compliance-Anforderungen
+  - Aufbau ethischer Mauern in Exchange Online
+  - Aufbewahrung in E-Mails verwalten
+  - Problembehebung bei Data Governance
+  - Analytik und Telemetrie
+
+  Nach Abschluss dieses Moduls sollten Sie in der Lage sein&#58;
+  - Planen von Sicherheits- und Compliance-Rollen.
+  - Beschreiben, was Sie für die DSGVO beachten müssen.
+  - Beschreiben, was eine ethische Mauer in Exchange ist und wie sie funktioniert.
+  - Arbeiten Sie mit Aufbewahrungstags in Postfächern
+  - Beschreiben von Aufbewahrungsrichtlinien mit E-Mail-Nachrichten und E-Mail-Ordnern
+  - Erläutern, wie das Aufbewahrungsalter von Elementen berechnet wird.
+  - Reparieren von Aufbewahrungsrichtlinien, die nicht wie erwartet ausgeführt werden.
+
+
+  ### Modul 3&#58; Suche und Ermittlungen verwalten
+  Dieses Modul konzentriert sich auf die Suche und Untersuchung von Inhalten.  Insbesondere wird erläutert, wie mit eDiscovery erweiterte Untersuchungen von Microsoft 365-Daten durchgeführt werden. Außerdem werden Audit-Protokolle behandelt und Anfragen von DSGVO-Betroffenen erörtert.
+  #### Lektionen
+  - Suchen nach Inhalten im Sicherheits- und Compliance-Center
+  - Audit Log-Untersuchungen
+  - Erweitertes eDiscovery
+
+
+  #### Labor&#58; eDiscovery
+  - Erstellen und lizenzieren von Benutzern in Ihrer Organisation
+  - Untersuchen Ihrer Microsoft 365-Daten
+
+  Nach Abschluss dieses Moduls sollten Sie in der Lage sein&#58;
+  - Verwendung der Inhaltssuche beschreiben.
+  - Ihre Inhaltssuche gestalten.
+  - Konfigurieren der Filterung von Suchberechtigungen.
+  - Beschreiben des Überwachungsprotokolls und der Berechtigungen, die zum Durchsuchen des Office 365-Überwachungsprotokolls erforderlich sind.
+  - Konfigurieren von Überwachungsrichtlinien.
+  - Kriterien für die Suche im Überwachungsprotokoll eingeben.
+  - Exportieren von Suchergebnissen in eine CSV-Datei.
+  - Beschreiben, was erweitertes eDiscovery ist und welche Anforderungen erforderlich sind.
+  - Analysieren von Daten in erweitertem eDiscovery.
+  - Anzeigen des erweiterten eDiscovery-Ereignisprotokolls.
+  - Verwenden von Express Analytics.

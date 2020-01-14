@@ -1,0 +1,250 @@
+### YamlMime:Course
+title: Konfigurieren und Verwenden von Supply Chain Management in Dynamics 365 für Finance and Operations
+metadata:
+  title: 'Kurs MB-330T01-A: Konfigurieren und Verwenden von Lieferkettenmanagement in Dynamics 365 für Finanzen und Betrieb'
+  description: 'Kurs MB-330T01-A: Konfigurieren und Verwenden von Lieferkettenmanagement in Dynamics 365 für Finanzen und Betrieb'
+uid: course.mb-330t01
+courseNumber: 'MB-330T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-330
+summary: |-
+  Unternehmen verwenden Dynamics 365 for Finance and Operations, um ihre Lieferkette zu automatisieren und zu rationalisieren, indem sie die Geschäftslogistik modernisieren, zeitnahe Kundenreaktionen liefern, vorausschauende Erkenntnisse erhalten, die Beschaffung optimieren und Prozesse vom Verkauf bis zur Ausführung vereinheitlichen. In diesem Kurs wird erläutert, wie man das Supply Chain Management in Dynamics 365 for Finance and Operations konfiguriert und verwendet.
+
+  #### Zielgruppenprofil
+  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von Bedürfnissen, sowie Lösungen und Anwendungen zu konfigurieren. Der Modulbetreuer implementiert eine Lösung mit gebrauchsfertigen Funktionen, codefreier Erweiterungsmöglichkeit, sowie Anwendungs- und Service-Integrationen.
+prerequisitesSection: |-
+  Grundlegendes Verständnis von ERP- und CRM-Konzepten.
+outlineSection: |-
+  ### Modul 1&#58; Versorgungsmanagement
+  Um das Inventar zu konfigurieren, sollte man zuerst den täglichen Betrieb des Inventars verstehen. In dieser Lektion werden zunächst eingehende und ausgehende Inventarisierungsvorgänge erläutert.
+
+  In diesem Modul wird erläutert, wie Inventarkomponenten für Supply-Chain-Management-Prozesse in Finance and Operations konfiguriert werden.
+  #### Lektionen
+  - Einführung
+  - Konfigurieren von Serien- und Chargennummern
+  - Konfigurieren der Bestandsaufteilung
+  - Konfigurieren der Inventar- und Lagerberichte
+  - Konfigurieren der Inventardimensionen
+  - Inventarabschluss und Anpassung
+  - Übungslabore
+  - Modulübersicht
+
+
+  In diesem Modul lernen die Studenten, wie man&#58;
+  - Eingehende und ausgehende Inventarisierungsvorgänge ausführen
+  - Konfigurieren der Inventarparameter
+  - Konfigurieren der Verfolgungsnummerngruppen
+  - Konfigurieren der Bestandsaufteilung
+  - Konfigurieren der Inventar- und Lagerberichte
+  - Einheiten konfigurieren
+  - Konfigurieren der Inventardimensionen
+  - Bestandskalkulation konfigurieren
+  - Setup-Verteilung
+  - Bestandsabschluss und Anpassungen verstehen
+
+
+  ### Modul 2&#58; Verwenden von Inventarberichten
+  In diesem Abschnitt wird die Verwendung von Inventarjournalen in Finance and Operations erläutert.
+  #### Lektionen
+  - Einführung
+  - Verwenden von Inventarberichten
+  - Übungslabore
+  - Modulübersicht
+
+
+  In diesem Modul lernten die Studenten etwas über&#58;
+  - Verwenden von Bewegungsjournalen
+  - Verwenden von Bestandskorrektur-Journalen
+  - Verwenden von Transferjournalen
+  - Verwenden von Zähl- und Tag-Zähljournalen
+  - Verwenden von Artikelankunftsberichten
+  - Verwenden von Versandjournalen
+
+
+  ### Modul 3&#58; Verwenden von Inventarberichten
+  In diesem Thema wird die Verwendung von Bestandsberichten für Supply-Chain-Management-Prozesse in Finance and Operations erläutert.
+  #### Lektionen
+  - Einführung
+  - ABC-Klassifikation verstehen
+  - Verwenden anderer Bestandsabfragen und Berichte
+  - Übungslabore
+  - Modulübersicht
+
+
+  In diesem Modul lernten die Studenten etwas über&#58;
+  - ABC-Klassifikation verstehen
+  - Verwenden der Inventaranfragen und Berichte
+
+
+  ### Modul 4&#58; Erstellen von Produkten und Produktstämmen
+  Das Produktinformationsmanagement in Dynamics 365 für Finance and Operations dient zum Erstellen und Verwalten eines Produkt-Repository fur ein Unternehmen. Es unterstützt größere Organisationen in einem zentralisierten, strukturierten Ansatz bei Erstellung und Verwaltung von Stammdaten wie Produktdefinitionen. Kleinere Organisationen, die einen dezentraleren Ansatz benötigen, können mit gewissen Einschränkungen ihre jeweiligen Produkte erstellen und verwalten, während ihre Produkte automatisch zum gemeinsam genutzten Produktrepository hinzugefügt werden.
+
+  In diesem Thema wird erläutert, wie Produkte für Supply-Chain-Management-Prozesse in Finance and Operations konfiguriert werden.
+  #### Lektionen
+  - Einführung
+  - Produkte erstellen
+  - Legen Sie Produktstämme mit Varianten an
+  - Erstellen und Konfigurieren von Attributen und Kategoriehierarchien
+  - Konfigurieren von Artikelpreisen
+  - Übungslabore
+  - Modulübersicht
+
+
+  In diesem Modul lernen die Studenten, wie man&#58;
+  - Produkte als Typartikel und Dienstleistung anlegt
+  - Standardauftragseinstellungen konfiguriert
+  - Produktstämme mit Varianten anlegt
+  - Attribute und Kategoriehierarchien erstellt und konfiguriert
+  - Erstellen von Produktattributen
+
+
+  ### Modul 5&#58; Stückliste erstellen
+  Eine Stückliste ist eine umfassende Liste aller Komponenten, Teile, Rohstoffe, Baugruppen und deren Mengen, die zur Herstellung eines fertigen Produkts erforderlich sind. In diesem Modul wird erläutert, wie Sie Stücklisten und Stücklistenversionen mit dem Stücklisten-Designer in Finance and Operations erstellen.
+  #### Lektionen
+  - Einführung
+  - Verwenden des Stücklisten-Designers (BOM)
+  - Übungslabor
+  - Modulübersicht
+
+
+  In diesem Modul lernen die Studenten, wie man&#58;
+  - Stücklisten und Stücklistenversionen mit dem Stücklisten-Designer erstellt
+
+
+  ### Modul 6&#58; Konfigurieren und Durchführen des Prozesses zur Auftragserteilung
+  In diesem Thema wird erläutert, wie man den Kaufbeschaffungsprozess in Finance and Operations konfiguriert und ausführt.
+  #### Lektionen
+  - Einführung
+  - Geschäftsszenario Beschaffung und Beschaffung
+  - Erstellen eines Bestellanforderungs-Arbeitsflusses
+  - Bestellanforderungen anlegt
+  - Erstellen einer Angebotsanfrage
+  - Beschaffungsgrundsätze verwenden
+  - Übungslabore
+  - Modulübersicht
+
+
+  In diesem Modul lernen die Studenten, wie man&#58;
+  - Beschaffungs- und Beschaffungsprozesse in einem Geschäftsszenario anwendet
+  - Beschaffungsgrundsätze verwenden
+  - Lieferanten erstellen und verwalten
+  - Bestellanforderungen anlegt
+  - Eine Angebotsanfrage erstellt
+
+
+  ### Modul 7&#58; Herstellerzusammenarbeit konfigurieren
+  In diesem Abschnitt wird erläutert, wie Sie die Zusammenarbeit von Anbietern in Finance and Operations konfigurieren.
+  #### Lektionen
+  - Einführung
+  - Konfigurieren der Zusammenarbeit von Anbietern
+  - Zusammenarbeit von Anbietern verwenden
+  - Übungslabore
+  - Modulübersicht
+
+
+  In diesem Modul lernten die Studenten etwas über&#58;
+  - Konfigurieren der Zusammenarbeit mit Anbietern
+  - Arbeiten mit dem Arbeitsbereich für die Zusammenarbeit mit Anbietern
+  - Verwenden Sie die Zusammenarbeit mit Lieferanten als Teil des Prozesses zum Beschaffen und Bezahlen
+
+
+  ### Modul 8&#58; Konfigurieren und Ausführen  eines Prozesses zum Beschaffen und Bezahlen
+  Das Modul „Bestellungen" überprüft den Prozess, der zum Erstellen und Verwalten von Bestellungen in Dynamics 365 for Finance and Operations erforderlich ist. Ein Unternehmen verwendet Bestellungen, um Informationen zu den Waren und Dienstleistungen zu erfassen, die es von verschiedenen Anbietern kauft.
+  #### Lektionen
+  - Einführung
+  - Erstellen von Bestellungen
+  - Verwenden des Bestelländerungsmanagements
+  - Artikelbestellungen und Ankunft verwenden
+  - Mehr- und Minderlieferung und Gebühren verwalten
+  - Lieferantenretouren anlegen
+  - Übungslabore
+  - Modulübersicht
+
+
+  In diesem Modul lernten die Studenten etwas über&#58;
+  - Überblick über das Szenario zum Beschaffen und Bezahlen verstehen
+  - Verwenden des Bestelländerungsmanagements
+  - Erstellen einer Bestellung
+  - Verwenden von Artikelankünften und Ankunftsübersicht
+  - Rechnung erstellt und bucht
+  - Erstellen eines Rechnungsjournals
+  - Kreditorenzahlungen generieren und buchen
+  - Lieferantenretouren anlegen
+
+
+  ### Modul 9&#58; Konfigurieren und Verwenden von Vereinbarungen
+  In diesem Thema wird das Konfigurieren und Verwenden der Vereinbarung in Finance and Operations erläutert.
+  #### Lektionen
+  - Einführung
+  - Handelsabkommen pflegt
+  - Erstellen von Verkaufsverträgen
+  - Erstellen von Kaufverträgen
+  - Handelsrabatt konfigurieren
+  - Vermittlung konfigurieren
+  - Lizenzgebühren konfigurieren
+  - Rabatte konfigurieren
+  - Übungslabore
+  - Modulübersicht
+
+
+  In diesem Modul lernen die Studenten, wie man&#58;
+  - Handelsabkommen pflegt
+  - Intelligente Rundung konfiguriert
+  - Erstellen von Verkaufsverträgen
+  - Beschaffungsgrundsätze verwenden
+  - Erstellen von Kaufverträgen
+  - Handelsrabatt konfigurieren
+  - Vermittlung konfigurieren
+  - Lizenzgebühren konfigurieren
+  - Rabatte konfigurieren
+
+
+  ### Modul 10&#58; Konfigurieren und Verwenden des Vertriebs- und Distributionsprozesses
+  In diesem Thema wird erläutert, wie Sie den Vertriebs- und Distributionsprozesses in Finance and Operations konfigurieren und verwenden.
+  #### Lektionen
+  - Einführung
+  - Verstehen Sie des Vertriebs- und Distributionsszenarios
+  - Provisionen konfiguriert und verwendet
+  - Kunden- und Artikelsuche Konfiguriert
+  - Erstellen und bestätigen von Angeboten und Bestellungen
+  - Auftragszusage konfigurieren
+  - Auftragsbestätigungscodes konfiguriert
+  - Auswahllisten drucken und buchen
+  - Kundenretouren bearbeiten
+  - Übungslabor
+  - Modulübersicht
+
+
+  In diesem Modul lernen die Studenten, wie man&#58;
+  - Vertriebs- und Distributionsprozesse durchführt
+  - Provisionen konfiguriert und verwendet
+  - Kunden- und Artikelsuche Konfiguriert
+  - Angebote erstellt und bestätigt
+  - Bestellungen erstellt und bestätigt
+  - Auswahllisten drucken und buchen
+  - Rechnung erstellt und bucht
+  - Auftragsbestätigungscodes konfiguriert
+  - Kundenretouren bearbeiten
+
+
+  ### Modul 11&#58; Abschluss des Kurses
+  Abschließende Bewertung und Kurszusammenfassung sowie eine Umfrage nach dem Kurs.
+  #### Lektionen
+  - Abschließende Bewertung
+  - Kurszusammenfassung
+  - Umfrage nach dem Kurs
+
+
+  Die Kursteilnehmer haben den Kurs abgeschlossen.

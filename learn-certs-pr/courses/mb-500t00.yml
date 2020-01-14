@@ -1,0 +1,96 @@
+### YamlMime:Course
+title: 'Microsoft Dynamics 365: Finanzen und Betrieb Apps Entwickler'
+metadata:
+  title: 'Kurs MB-500T00-A: Microsoft Dynamics 365: Finanzen und Betrieb Apps Entwickler'
+  description: 'Kurs MB-500T00-A: Microsoft Dynamics 365: Finanzen und Betrieb Apps Entwickler'
+uid: course.mb-500t00
+courseNumber: 'MB-500T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-500
+summary: |-
+  Entwickler-Schulung. Microsoft Dynamics 365 Finance and Operations App-Entwickler implementieren und erweitern Anwendungen, um die Anforderungen des Unternehmens zu erfüllen. Die Kandidaten bieten vollständig realisierte Lösungen durch standardisierte Anwendungscodierungsmuster, erweiterbare Funktionen und externe Integrationen.
+
+  #### Zielgruppenprofil
+  
+  Microsoft Dynamics 365 App-Entwickler für Finance and Operations 
+
+outlineSection: |-
+  ### Kursinhalte
+  
+  ### Modul 1&#58; Überblick & Architektur
+  
+  Beschreiben des Dynamics 365-Ökosystems und der Hauptkomponenten der Dynamics 365- Finance and Operations-Software (FO), Beschreiben der Architektur der D365FO, Beschreiben der relevanten Überlegungen zum Enturf und zur Bereitstellung von D365FO
+  
+  #### Labor&#58; Konfiguration der Entwicklungsumgebung und Projekt- / Modellerstellung
+  
+  ### Modul 2&#58; Entwicklertools
+
+  Verwalten von Systemimplementierungen mit Hilfe von Lifecycle-Diensten, Anpassen der D365FO mit Hilfe von Visual Studio, Verwalten von Quellcode und Artefakten mit Hilfe der Versionskontrolle, Ausführen von Aufgaben mit anderen Entwicklungstools
+  
+  #### Labor&#58; Quellcodeverwaltung mit DevOps
+
+  ### Modul 3&#58; Lösungskonzept
+  Bestimmen der erforderlichen Anwendungslkomponenten und Serverarchitektur. Implementieren der LifecycleManagementanwendung (ALM). Entwerfen einer Lösung für D365FO
+
+  #### Labor&#58; Datenstrukturentwicklung
+  
+  ### Modul 4&#58; AOT-Elementen
+  
+  Formulare erstellen, Tabellen erstellen und erweitern, erweiterte Datentypen (EDT) und Aufzählungen erstellen, Klassen erstellen und AOT-Elemente erweitern
+  
+  #### Labor&#58; Metadatenerweiterung und -entwicklung
+  
+  ### Modul 5&#58; Codeentwicklung & Testen
+  
+  Entwickeln eines X ++ - Code, Entwickeln eines objektorientiertem Codes, Erweitern der D365-FO-Funktionalität, beschreiben des Testrahmens und der Tools, Durchführen von Komponententests
+  
+  #### Labor&#58; Code-Erweiterung und -Entwicklung
+  
+  ### Modul 6&#58; Datenmigration
+  
+  Beschreiben von Migrationstools und -methoden, Planen der Migrationsstrategie, Vorbereiten von Daten für die Migration und Migrieren von Daten
+
+  #### Labor&#58; Datenexport / -import mit Data Entity
+  
+  #### Labor&#58; Wiederkehrende Datenübertragung
+  
+  ### Modul 7&#58; Rahmenpläne
+  
+  Implementieren der D365-FO-Funktionalität
+  
+  #### Labor&#58; SysExtension Rahmenwerk
+  
+  ### Modul 8&#58; Integration
+  
+  Identifizieren von Datenintegrationsmustern und -szenarien, Implementieren von Datenintegrationskonzepten und -lösungen, Implementieren von wiederkehrenden Integrationen, Integrieren von D365FO in Microsoft Azure, Beheben von Integrationsfehlern, Implementieren des Datenverwaltungspakets API
+  
+  #### Labor&#58; OData-Integration
+
+  #### Labor&#58; Logic-App-Integration
+  
+  #### Labor&#58; Aufrufen eines externen Webdienstes
+
+  ### Modul 9&#58; Reporting
+  
+  Beschreiben der Funktionen und Einschränkungen der Berichterstellungstools in D365FO, Entwerfen, Erstellen und Überarbeiten von Dynamics-Berichten, Entwerfen, Erstellen und Überarbeiten
+  Dynamics-Arbeitsbereiche, Entwerfen, Erstellen und Überarbeiten von Datenquellen, die eine Verbindung zu externen Datenspeichern von D365FO herstellen
+
+  #### Labor&#58; Power BI-Berichterstellung von F & O
+  
+  ### Modul 10&#58; Sicherheit und Leistung
+  
+  Beschreiben und Implementieren von leistungsfähigen Tools und LCS Umgebungsüberwachungs-Tools, Implementieren von rollenbasierten Sicherheitsrichtlinien und -anforderungen, Anwenden grundlegender Techniken zur Leistungsoptimierung, Optimieren der Leistung für Chargeprozesse, Optimieren der Benutzerschnittstellenleistung, Verbessern der Integrationsleistung, Optimieren der Berichtsleistung
+  
+  #### Labor&#58; Asynchrone & Sandbox-Funktionalität

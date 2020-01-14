@@ -1,0 +1,83 @@
+### YamlMime:Course
+title: Verwalten des Kundenzugriffs und des Emailflusses
+metadata:
+  title: 'Kurs MS-200T02-A: Verwalten des Clientzugriffs und der Nachrichtenübermittlung'
+  description: 'Kurs MS-200T02-A: Verwalten des Clientzugriffs und der Nachrichtenübermittlung'
+uid: course.ms-200t02
+courseNumber: 'MS-200T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Implementieren von Kundenzugriffsdiensten
+- skill: Verwalten von Kundengeräten
+- skill: Outlook Web konfigurieren
+- skill: Problembehebung bei Kundenzugriffsdiensten
+- skill: Mobilgeräte-Mailboxrichtlinien konfigurieren
+- skill: Postfachrichtlinien für mobile Geräte verwalten
+- skill: Nachrichtenübermittlung konfigurieren
+- skill: Übermittlungsregeln verwalten
+- skill: Verwalten des Mailflows
+- skill: Problembehebung beim E-Mailfluss
+- skill: Problembehebung bei Übermittlungsproblemen
+- skill: Problembehebung bei Logs
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-200
+summary: |-
+  In diesem Kurs erfahren Sie, wie Microsoft Exchange Server den Zugriff auf Benutzerpostfächer für viele verschiedene Kunden ermöglicht. Da alle Messaging-Kunden über Kundenzugriffsdienste auf Exchange Server-Postfächer zugreifen, wird untersucht, wie Kundenzugriffsdienste in Exchange Server geplant, konfiguriert und verwaltet werden. Da die Verwendung von Smartphones und Tablets für die Nachrichtenübermittlung sehr beliebt geworden ist und viele Smartphone-Benutzer ihre Geräte intensiv für E-Mail-, Kalender-, Aufgaben- und andere Zwecke der Zusammenarbeit verwenden, lernen Sie auch, wie man mobile Geräte verwaltet. In diesem Kurs wird auch das Planen und Konfigurieren des Nachrichtentransports in einer Exchange Server-Organisation beschrieben. Sie erfahren, wie Sie Übermittlungsdienste planen, konfigurieren und verwalten, um eine effiziente Kommunikation zwischen Ihren Exchange-Servern, Exchange Online und anderen E-Mail-Servern im Internet sicherzustellen. Schließlich erfahren Sie, wie Sie Übermittlungsdienste bei Problemen in verschiedenen Szenarien beheben, damit Sie Ihrem Unternehmen eine funktionsfähige und zuverlässige Infrastruktur zur Nachrichtenübermittlung zur Verfügung stellen können.
+
+  #### Zielgruppenprofil
+  Der Nachrichtenadministrator stellt bereit, konfiguriert, verwaltet und erledigt die Problembehebung bei Empfängern, Berechtigungen, E-Mail-Schutz, E-Mailfluss und öffentliche Ordner in lokalen und Cloud-Unternehmensumgebungen. Zu den Aufgaben gehören die Verwaltung der Nachrichtenreinhaltung, der Infrastruktur zur Nachrichtenübermittlung sowie der Hybridkonfiguration und -migration. Der Nachrichten-Administrator implementiert und verwaltet auch die Notfallwiederherstellung, die hohe Verfügbarkeit und den Kundenzugriff. Um eine sichere Hybridtopologie zu implementieren, die den Geschäftsanforderungen einer modernen Organisation entspricht, muss der Nachrichten-Administrator mit dem Sicherheitsadministrator und Microsoft 365 Enterprise Administrator zusammenarbeiten. Der Messaging-Administrator sollte über gute Kenntnisse in den Bereichen Authentifizierung, Lizenzierung und Integration mit Microsoft 365-Anwendungen verfügen.
+prerequisitesSection: |-
+  - Kompetentes Verständnis von DNS.
+  - Grundlegendes Verständnis von Nachrichtenübermittlung in Exchange Server oder Exchange Online.
+  - Grundlegendes Verständnis der Active Directory- und Domaincontroller-Infrastruktur zusammen mit der Identitätsverwaltung.
+  - Grundlegende fachspezifische Erfahrung mit Microsoft 365-Diensten und Verzeichnissynchronisierung.
+  - Mindestens 5 Jahre allgemeine IT-Erfahrung.
+outlineSection: |-
+  ### Modul 1&#58; Kundenzugriff  verwalten
+  #### Lektionen
+  - Implementieren von Kundenzugriffsdiensten
+  - Verwalten von Kundengeräten
+  - Outlook Web konfigurieren
+  - Problembehebung bei Kundenzugriffsdiensten
+
+
+  ### Modul 2&#58; Mobile Geräte verwalten
+  #### Lektionen
+  - Postfachrichtlinien für mobile Geräte
+  - Verwalten des Zugriffs auf mobile Geräte
+
+
+  ### Modul 3&#58; Übermittlungspipeline verwalten
+  #### Lektionen
+  - Übersicht über Übermittlungsdienste
+  - Nachrichtentransport konfigurieren
+  - Transportregeln verwalten
+
+
+  ### Modul 4&#58; Problembehebung und Verwaltung des E-Mailflusses
+  #### Lektionen
+  - Verwalten des E-Mailflusses
+  - Problembehebung beim E-Mailfluss
+  - Problembehebung bei Übermittlungsproblemen
+  - Problembehebung bei Logs
+
+
+  ### Modul 5&#58; Abschluss des Kurses
+
+  #### Labor&#58; Kundenzugriff und E--Mailfluss verwalten
+  - Erstellen eines benutzerdefinierten Empfangs-Connectors
+  - Erstellen eines benutzerdefinierten Sende-Connectors
+  - Aktivieren und Deaktivieren von ActiveSync für ein einzelnes Postfach
+  - Aktivieren und Deaktivieren von ActiveSync für mehrere Postfächer
+  - Aktivieren und Deaktivieren des MAPI-Zugriffs auf ein einzelnes Postfach
+  - Aktivieren und Deaktivieren des MAPI-Zugriffs auf mehrere Postfächer

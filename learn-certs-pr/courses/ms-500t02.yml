@@ -1,0 +1,126 @@
+### YamlMime:Course
+title: Implementing Microsoft 365 Threat Protection
+metadata:
+  title: 'Kurs MS-500T02-A: Implementing Microsoft 365 Threat Protection'
+  description: 'Kurs MS-500T02-A: Implementing Microsoft 365 Threat Protection'
+uid: course.ms-500t02
+courseNumber: 'MS-500T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Beschreiben der Bedrohungsvektoren für Cyberangriffe.
+- skill: Beschreiben von Sicherheitslösungen für Microsoft 365
+- skill: Microsoft Secure Score verwenden, um Ihre Sicherheitslage zu bewerten.
+- skill: Das Sicherheits-Dashboard im Microsoft-Sicherheit- und Compliance Center verwenden.
+- skill: Verschiedene erweiterte Bedrohungsschutzdienste für Microsoft 365.
+- skill: Konfigurieren fortgeschrittener Bedrohungsanalysen.
+- skill: Mobilgerätemanagement bereitstellen.
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-500
+summary: |-
+  Der Bedrohungsschutz verhindert schädliche Angriffe durch integrierte und automatisierte Sicherheit. In diesem Kurs erfahren Sie mehr über Informationsschutztechnologien, mit denen Sie Ihre Microsoft 365-Umgebung schützen können. Insbesondere lernen Sie Bedrohungsvektoren und deren Sicherheitslösungen von Microsoft kennen. Sie erhalten Informationen zu Secure Score, Exchange Online-Schutz, Azure Advanced Threat Protection und Windows Defender Advanced Threat Protection sowie zur Verwendung von Microsoft 365 Threat Intelligence. Außerdem wird das Sichern mobiler Geräte und Anwendungen erläutert. Ziel dieses Kurses ist es, Sie bei der Konfiguration Ihrer Microsoft 365-Bereitstellung zu unterstützen, um die gewünschte Sicherheitslage zu erreichen.
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an die Microsoft 365-Sicherheitsadministratorrolle. Diese Rolle arbeitet mit dem Microsoft 365 Enterprise Administrator, Geschäftsinteressenten und anderen Workload-Administratoren zusammen, um Sicherheitsstrategien zu planen und umzusetzen und um sicherzustellen, dass die Lösungen den Richtlinien und Vorschriften des Unternehmens entsprechen. 
+  
+  Diese Rolle sichert proaktiv Microsoft 365-Unternehmensumgebungen. Zu den Aufgaben gehören das Reagieren auf Bedrohungen, das Implementieren, Verwalten und Überwachen von Sicherheits- und Compliance-Lösungen für die Microsoft 365-Umgebung. Sie reagieren auf Vorfälle, Untersuchungen und die Durchsetzung von Data Governance.
+  
+  Der Microsoft 365-Sicherheitsadministrator ist mit Microsoft 365-Arbeitsabläufen vertraut und verfügt über umfassende Kenntnisse und Erfahrungen in den Bereichen Identitätsschutz, Informationsschutz, Bedrohungsschutz, Sicherheitsverwaltung und Datenverwaltung. Die Funktion legt den Schwerpunkt auf Microsoft 365 Umgebungen und umfasst hybride Umgebungen.
+prerequisitesSection: |-
+  Die Lernenden sollten diesen Kurs bereits mit den folgenden Fähigkeiten beginnen&#58;
+  - Grundlegendes konzeptionelles Verständnis von Microsoft Azure.
+  - Erfahrung mit Windows 10-Geräten.
+  - Erfahrung mit Office 365.
+  - Grundlegendes Verständnis von Autorisierung und Authentifizierung.
+  - Grundlegendes Verständnis von Computernetzwerken.
+  - Grundkenntnisse in der Verwaltung mobiler Geräte.
+outlineSection: |-
+  ### Modul 1&#58; Sicherheit bei Microsoft 365
+  In diesem Modul werden zunächst die verschiedenen Bedrohungen durch Cyberangriffe erläutert.  Anschließend werden Sie mit den Microsoft-Lösungen vertraut gemacht, um diese Bedrohungen zu vereiteln.  Das Modul endet mit einer Erläuterung von Microsoft Secure Score und der Verwendung dieses Moduls zur Bewertung und Meldung der Sicherheitslage Ihres Unternehmens.
+  #### Lektionen
+  - Bedrohungsvektoren und Datenverletzungen
+  - Sicherheitslösungen für Microsoft 365
+  - Microsoft Secure Score
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Verschiedene Techniken beschreiben, die Hacker anwenden, um Benutzerkonten per E-Mail zu gefährden.
+  - Techniken beschreiben, mit denen Hacker die Kontrolle über Ressourcen erlangen.
+  - Die Arten von Bedrohungen auflisten, die mit Exchange Online Protection und Office 365 ATP vermieden werden können.
+  - Beschreiben, wie Microsoft 365 Threat Intelligence die Sicherheitsbeauftragten und Administratoren Ihres Unternehmens unterstützen kann.
+  - Die Vorteile von Secure Score beschreiben und welche Arten von Diensten analysiert werden können.
+  - Beschreiben, wie Sie mit dem Tool Lücken zwischen Ihrem aktuellen Status und dem Punkt identifizieren, an dem Sie sich in Bezug auf die Sicherheit befinden möchten.
+
+
+  ### Modul 2&#58; Erweiterter Bedrohungsschutz
+  In diesem Modul werden die verschiedenen Bedrohungsschutztechnologien und -dienste erläutert, die in Microsoft 365 verfügbar sind. Insbesondere deckt das Modul den Nachrichtenschutz von Exchange Online Protection, Azure Advanced Threat Protection und Windows Defender Advanced Threat Protection ab.
+  #### Lektionen
+  - Exchange Online-Schutz
+  Office 365 Advanced Threat Protection
+  - Verwalten sicherer Anhänge
+  - Verwalten sicherer Links
+  - Azure Advanced Threat Protection
+  - Windows Defender Advanced Threat Protection
+
+
+  #### Labor&#58; Advanced Threat Protection
+  - Einrichten Ihrer Laborumgebung
+  - Bearbeiten einer ATP Safe Links-Richtlinie und Erstellen einer Richtlinie für sichere Anhänge
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Die Anti-Malware-Pipeline beschreiben, während E-Mails von Exchange Online Protection analysiert werden.
+  - Beschreiben, wie sichere Anhänge verwendet werden, um Zero-Day-Malware in E-Mail-Anhängen und Dokumenten zu blockieren.
+  - Beschreiben, wie sichere Links Benutzer vor schädlichen URLs schützen, die in E-Mails und Dokumenten eingebettet sind, die auf schädliche Websites verweisen.
+  - Erweiterten Bedrohungsschutz in konfigurieren.
+  - Konfigurieren von Windows Defender ATP.
+  - Integrieren von Windows Defender ATP in Azure ATP.
+
+
+  ### Modul 3&#58; Bedrohungsanalyse
+  In diesem Modul wird die Microsoft Bedrohungsanalyse erläutert, mit deren Hilfe Sie Cyber-Bedrohungen bewerten und angehen können. Sie erfahren, wie man das Sicherheits- Dashboard im Microsoft 365 Sicherheits- und Compliance-Center verwendet. Außerdem wird die erweiterte Bedrohungsanalyse in Microsoft erläutert und konfiguriert.
+  #### Lektionen
+  - Microsoft 365 Bedrohungsanalyse
+  - Verwenden des Sicherheits-Dashboards
+  - Konfigurieren der erweiterten Bedrohungsanalyse
+
+
+  #### Labor&#58; Erweiterte Bedrohungsanalyse
+  - Aktivieren und Installieren des ATA Centers
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreiben, wie Bedrohungsdaten in Microsoft 365 von Microsoft Intelligent Security Graphunterstützt werden.
+  - Beschreiben, wie man mit dem Threat Explorer Bedrohungen untersuchen und Ihren Mandanten schützen können.
+  - Beschreiben, wie das Sicherheits-Dashboard Führungskräften auf C-Ebene Einblicke in die wichtigsten Risiken, globalen Trends, die Schutzqualität und die Gefährdung des Unternehmens bietet.
+  - Beschreiben, wie das Sicherheits-Dashboard als Ausgangspunkt verwendet werden kann, damit Sicherheitsanalysten mit Hilfe des Threat -Explorers einen Drilldown für weitere Details durchführen können.
+  - Beschreiben, was die erweiterte Bedrohungsanalyse (ATA) ist und welche Anforderungen für die Bereitstellung erforderlich sind.
+  - Konfigurieren fortgeschrittener Bedrohungsanalysen.
+
+
+  ### Modul 4&#58; Mobilität
+  In diesem Modul dreht sich alles um die Sicherung mobiler Geräte und Anwendungen. Die Studenten lernen etwas über die Verwaltung mobiler Geräte und deren Funktionsweise mit Intune. Sie erfahren auch, wie Intune und Azure AD zum Sichern mobiler Anwendungen verwendet werden können.
+  #### Lektionen
+  - Verwaltung mobiler Anwendungen planen
+  -Verwaltung mobiler Anwendungen planen
+  - Mobilgerätemanagement bereitstellen
+  - Geräte für das Mobilgerätemanagement registrieren
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Überlegungen zu mobilen Anwendungen beschreiben.
+  - Intune verwenden, um mobile Anwendungen zu verwalten.
+  - Geräte mit MDM verwalten.
+  - MDM für Office 365 und Intune vergleichen.
+  - Domänen für MDM konfigurieren.
+  - Verwalten von Gerätesicherheitsrichtlinien.
+  - Registrierungsrichtlinie für Unternehmensgeräte definieren.
+  - Geräte bei MDM registrieren Sie.
+  - Konfigurieren einer Manager-Rolle für die Geräteanmeldung.

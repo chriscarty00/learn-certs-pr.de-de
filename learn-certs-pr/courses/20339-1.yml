@@ -1,0 +1,371 @@
+### YamlMime:Course
+title: Planung und Verwaltung von SharePoint 2016
+metadata:
+  title: 'Kurs 20339-1-A: Planung und Verwaltung von SharePoint 2016'
+  description: 'Kurs 20339-1-A: Planung und Verwaltung von SharePoint 2016'
+uid: course.20339-1
+courseNumber: '20339-1A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Key features von SharePoint 2016 beschreiben.
+- skill: Informations Architektur in SharePoint 2016 Einrichtungen etwerfen.
+- skill: Entwerfen einer logischen Architektur für SharePoint 2016.
+- skill: Entwerfen einer physischen Architektur für SharePoint 2016.
+- skill: Installation und Konfiguration SharePoint 2016.
+- skill: Erstellen und Konfigurieren von Webanwendungen und Websitesammlungen.
+- skill: Planung und Konfiguration von Dienstanwendungen für SharePoint 2016.
+- skill: Berechtigungs- und Benutzerverwaltung und Inhaltssicherung in SharePoint 2016.
+- skill: Konfigurieren der Authentifizierung für SharePoint 2016.
+- skill: Platform und Farm Sicherheit in SharePoint 2016 konfigurieren.
+- skill: Informationstaxonomie in SharePoint Web applications und Websitesammlungen verwalten.
+- skill: Konfiguration und Verwaltung von User Profilen und Zielgruppen.
+- skill: Konfiguration und Verwaltung von Suchexperimenten in SharePoint 2016.
+- skill: Monitoring, Erhaltung und Fehlerbehebung für SharePoint 2016.
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.70-339
+summary: |-
+  Dieser fünftägige Kurs lehrt das benötigte Wissen und die Fähigkeiten um ein Microsoft SharePoint 2016 Umgebung zu planen und zu verwalten. Es wird gezeigt, wie Sie Ihre SharePoint-Umgebung bereitstellen, verwalten und Fehler beheben. Dieser Kurs enthält außerdem Richtlinien, Best Practices und Überlegungen, die Ihnen helfen, Ihre SharePoint-Bereitstellung zu optimieren.
+  
+  Dies ist der Erste aus zwei Kursen für IT-Experten und geht einher mit der SharePoint 2016 IT Pro certification.
+
+  #### Zielgruppenprofil
+  Der Kurs ist für erfahrene IT-Experten gedacht, die lernen möchten, SharePoint 2016 in einem Rechenzentrum oder einer Cloud installieren, konfigurieren, bereitstellen und verwalten zu können.
+  
+  Teilnehmer haben in der Regel mehr als ein Jahr Erfahrung in der Planung und Erhaltung von SharePoint und zwei Jahre Erfahrung mit anderen Kerntechnologien von denen SharePoint abhängig ist, dazu gehörten Windows Server 2012 R2 oder später, Internet Information Services (IIS), Microsoft SQL Server 2014 oder später, Active Directory Domain Services (AD DS) und Netzwerk Infrastruktur Services.
+  
+  Mindestqualifizierte Bewerber sollten normalerweise&#58;
+  - IT-Experten sein die Multi-Server Einrichtungen von SharePoint 2016 planen, ausführen und erhalten
+  - Arbeitswissen und am besten -Erfahrung mit SharePoint Online haben.
+  - Weite Vertrautheit mit SharePoint Arbeitsweisen besitzen.
+  - Erfahrung mit betrieblichem Kontinuitätsmanagement inklusive Datenbackup, Wiederaufbereitung und Hoher Verfügbarkeit besitzen.
+  - Erfahrung mit Authentifizierung und Sicherheitstechnologien haben.
+  - Erfahrung mit Windows PowerShell haben.
+
+  *Praktische Erfahrung oder Arbeitserfahrung sollte aus einer lösungsbasierten Rolle stammen, in der der Kandidat an mehreren Lösungen im SharePoint-Bereich gearbeitet hat, zu denen Dokumentenmanagement, Content Management und Suche gehören.
+prerequisitesSection: |-
+  Vor Teilnahme an diesem Kurs, Benötigen die Teilnehmer Kenntnis über&#58;
+  - Software Management in einem Windows Server 2012 oder Windows Server 2012 R2 Enterprise Server Environment.
+  - Anwendungen nnativ, virtuell und in der Cloud einrichten und verwalten.
+  - IIS Verwaltung.
+  - Konfiguration von AD/DS für Authentofozierung, Autorisation und als Benutzerdatenbank.
+  - Verwaltung einer fernbedienten Anwendung durch Windwows PowerShell 4.0.
+  - Verwaltung von Datenbanken und Server Rollen im SQL Server.
+  - Verknüpfung von Applikation zum SQL Server.
+  - Implementation von Claims-basierter Sicherheit.
+  - Nutzung von Microsoft Hyper-V virtuellen Maschinen.
+
+  Ein idealer Bewerber für diesen Kurs sollte mindestens ein Jahr Erfahrung mit der Anwendung und Verwaltung von multiplen SharePoint 2013 Farmen in einem großen Unternehmen mitbringen. Da viele Kunden noch nicht von Sharepoint 2010 upgegradet haben kann ein Bewerber auch mindestens zwei Jahre Erfahrung mit SharePoint 2010 haben. Allerdings muss der Bewerber die Unterschiede zwischen SharePoint 2010 und SharePoint 2013 vorallem bei der Hybridisation verstehen.
+outlineSection: |-
+  ### Modul 1&#58; Einführung in SharePoint 2016
+  Dieses Modul beschreibt die Struktur und Möglichkeiten einer SharePoint Umgebung und die Hauptänderungen für IT-Experten in SharePoint 2016. Außerdem werden die möglichen Optionen für die Einführung von SharePoint 2016 beschrieben.
+  #### Lektionen
+  - Hauptbestandteile ener SharePoint Einrichtung
+  - Neue Features in SharePoint 2016
+  - SharePoint 2016 Einrichtungsoptionen
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Die Architektur und Möglichkeiten von SharePoint 2016 identifizieren.
+  - Neue und überholte Features in SharePoint 2016 identifizieren.
+  - Einrichtungsoptionen für SharePoint 2016 identifizieren.
+
+
+  ### Modul 2&#58; Eine Informationsarchitektur entwerfen.
+  Dieses Modul beschreibt wie man Unternehmensanforderungen und die Kernelemente eines erfolgreichen Informationsarchitektur-Projekts erfasst. Es wird erklärt wie die Information innerhalb einer SharePoint 2016 Einrichtung strukturiert, und leicht gefunden und abgerufen wird.
+  #### Lektionen
+  - Identifizieren von betrieblichen Anforderungen
+  - Betriebliche Anforderungen verstehen
+  - Information in SharePoint 2016 organisieren
+  - Auffindbarkeit planen
+
+
+  #### Labor &#58; Entwerfen einer Informationsarchitektur - Teil Eins
+  - Websitespalten und Inhaltstypen identifizieren
+
+
+  #### Labor &#58; Entwerfen einer Informationsarchitektur - Teil Zwei
+  - Entwurf einer betrieblichen Taxonomie
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - erklären, warum es den Entwurf einer organisatiorischen Informationsarchitektur beschleunigt, Wenn man betriebliche Anforderungen versteht.
+  - die vorhandenen Schlüsselkomponenten in SharePoint
+  2016 für eine Informationsarchitektur beschreiben.
+  - Abdeckung als Teil der Informationsarchitektur
+  Anwendung planen.
+
+
+  ### Modul 3&#58; Entwerfen einer logischen Architektur
+  Dieses Modul erklärt wie man eine Logische Architektur entwerfen und dokumentieren kann.
+  #### Lektionen
+  - Überblick über die logische Architektur in Sharepoint 2016
+  - Eine logische Architektur dokumentieren
+
+
+  #### Labor&#58; Entwerfen einer logischen Architektur
+  - Planung einer logischen Architektur
+  - Erstellung eines logischen Architekturdiagramms
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - betriebliche Anforderungen in SharePoint 2016 Architekturkomponenten aufzeichnen.
+  - die Wichtigkeit der dokumentation erklären und die optionen
+  Für die Dokumentation einer logischen Architektur beschreiben.
+
+
+  ### Modul 4&#58; Entwerfen einer physischen Architektur
+  Dieses Modul beschreibt die physikalischen Designanforderungen für SharePoint 2016 und die benötigten physischen Komponenten um das physische Architekturdesign zu erfüllen. Außerdem werden die SharePoint Topologien erklärt und beschrieben, wie logische Architekturentwürfe zu einem physischen Architekturdesign aufgezeichnet werden.
+  #### Lektionen
+  - physische Komponenten für SharePoint Anwendungen entwerfen
+  - unterstützende Komponenten für SharePoint Anwendungen entwerfen
+  - SharePoint Farm-Topologien
+  - Logische Architekturdesigns to phyischen Architekturdesigns aufzeichnen
+
+
+  #### Labor&#58; Entwerfen einer physischen Architektur
+  - Entwerfen einer physischen Architektur
+  - physische Architekturdesign-Diagramme entwickeln
+
+  Nach Abschluss dieses Moduls können die Teilnehmer to&#58;
+  - Die Anforderungen für physische Komponenten die für die SharePoint 2016 Einstellung benötigt sind, beschreiben.
+  - Die Anforderungen für unterstützende Komponenten die für eine erfolgreiche SharePoint 2016 Einführung benötigt sind, beschreiben.
+  - SharePoint Farm-Topologien identifizieren
+  - logische Architekturdesigns für physische Architekturdesigns aufzeichnen.
+
+
+  ### Modul 5&#58;  Installation und Konfiguration von SharePoint 2016
+  Dieses Modul erklärt, wie man SharePoint 2016 in verschiedenen Topologien installiert, die Installation skriptet und die SharePoint 2016 Umgebung konfiguriert. Außerdem wird erklärt, wie man Kern-Farm-Level Einstellungen in einer SharePoint 2016 Anwendung konfiguriert.
+  #### Lektionen
+  - SharePoint 2016 installieren
+  - Installation und Konfiguration von SharePoint schreiben
+  - SharePoint 2016 Farm-Einstellungen konfigurieren
+
+
+  #### Labor&#58; Einrichtung und Konfiguration von SharePoint 2016 – Teil Eins
+  - Bereitstellen einer SharePoint 2016 Farm
+
+
+  #### Labor&#58; Einrichtung und Konfiguration von SharePoint 2016 – Teil Zwei
+  - Eingehende Emails konfigurieren
+  - Ausgehende Emails konfigurieren
+  - Integration mit dem Office Online Server konfigurieren
+
+  Nach Abschluss dieses Moduls können die Teilnehmer to&#58;
+  - SharePoint 2016 installieren.
+  - SharePoint 2016 einrichten und konfigurieren.
+  - Installation und Konfiguration von SharePoint 2016.
+  - SharePoint 2016 Farm-Settings konfigurieren.
+
+
+  ### Modul 6&#58; Web applications und Webseitsammlungen erstellen
+  Dieses Modul erklärt wie man Web applications in SharePoint 2016 kreiert und sies applications konfiguriert. Außerdem wird erklärt, wie man Websitesammlungen in SharePoint 2016 und SharePoint Online konfiguriert und erstellt.
+  #### Lektionen
+  - Web applications erstellen
+  - Web applications konfigurieren
+  - Websitesammlungen erstellen und konfigurieren
+
+
+  #### Labor &#58; web applications erstellen und konfigurieren
+  - Erstellen einer Webanwendung
+  - Konfiguration einer Webanwendung
+
+
+  #### Labor &#58; Websites erstellen und konfigurieren
+  - Erstellen und Konfigurieren von Websitesammlungen
+  - Websitesammlungen in neuen Content-Datenbanken erstellen
+  - Fast-Site- Collection Erstellung benutzen
+
+  Nach Abschluss dieses Moduls können die Teilnehmer to&#58;
+  - Web applications entwerfen.
+  - Web applications konfigurieren.
+  - Websitesammlungen erstellen und konfigurieren.
+
+
+  ### Modul 7&#58; Planung und Konfiguration von service applications
+  Dieses Modul beschreibt die Architektur von Serviceanwendungen in SharePoint 2016 und wie Serviceanwendungen verwaltet und vorbereitet werden.
+  #### Lektionen
+  - Einführung in die Serviceanwendungsarchitektur
+  - Erstellen und Konfigurieren von Serviceanwendungen
+
+
+  #### Labor&#58; Planung und Konfiguration von Serviceanwendungen
+  - Bereitstellung einer Managed Metadata Serviceanwendung mit Central Administration
+  - Bereitstellung einer Managed Metadata Serviceanwendung mit Windows PowerShell
+  - Konfiguration des Word Automation Services Serviceanwendung für Dokumentkonvertierung
+  - Konfiguration von Serviceanwendung Proxy-Groups
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - die Schlüsselkomponenten und Topologien für eine SharePoint 2016 Serviceanwendungsarchitektur erklären.
+  - Service Accounts und Serviceanwendungs abhängigkeiten planen.
+  - Den Nutzen einer Mapping Serviceanwendung für betriebliche Anforderungen verstehen.
+  - Beschreiben, wie SharePoint 2016 Serviceanwendungen verwaltet und bereitgestellt werden.
+
+
+  ### Modul 8&#58; Nutzerberechtigungen verwalten und Inhalt sichern
+  Dieses Modul erklärt wie Autorisierung in SharePoint 2016 konfiguriert wird. Außerdem wird erklärt wie Sicherheit von Websitesammlungen in SharePoint 2016 konfiguriert wird.
+  #### Lektionen
+  - Konfiguration der Autorisierung in SharePoint 2016
+  - Zugriffsverwaltung für Inhalte
+
+
+  #### Labor&#58; Benutzer und Gruppen verwalten
+  - Web Applications Richtlinien erstellen
+  - SharePoint-Gruppen erstellen und verwalten
+  - Erstellen von Berechtigungsstufen
+
+
+  #### Labor&#58; Datensicherheit in SharePoint Websites
+  - Berechtigungen und Vererbung verwalten
+  - Sicherheit von Websitesammlungen verwalten
+  - Anonymen Zugriff auf eine Seite ermöglichen
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - User und Berechtigungen in SharePoint 2016 verwalten.
+  - Zugriffsverwaltung auf Inhalte in SharePoint 2016.
+
+
+  ### Modul 9&#58; Authentifizierung in SharePoint 2016 konfigurieren
+  Dieses Modul erklärt die Infrastruktur von SharePoint 2016 Autentifizierung und die Konfiguration von Ansprüchen, Anbietern und Identity Federation für SharePoint 2016. Außerdem wird erklärt, wie man Server-to-Server Authentifizierung in SharePoint 2016 konfiguriert.
+  #### Lektionen
+  - Überblick über Autentifizierung
+  - Konfigurieren der Föderierten Authentifizierung
+  - Konfigurieren Server-to-Server Autentifizierung
+
+
+  #### Labor&#58; SharePoint 2016 erweitern um Secure Sockets Layer (SSL) zu unterstützen
+  - Konfiguration von Microsoft SharePoint 2016 für die Nutzung von Föderierte Identitäten
+  - Konfiguration von Active Directory Federation Services (AD FS) um Web Applications zu ermöglichen.
+  - Konfiguration von SharePoint um AD FS als Identitätsprovider zu vertrauen
+  - Konfiguration einer Web Application um AD FS als Identitätsprovider zu nutzen
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Die Autentifizierungs Infrastruktur von SharePoint 2016 erklären.
+  - Konfiguration von Anspruchsanbietern und Identity Federation für SharePoint 2016.
+  - Server-to-Server Autentifizierung für SharePoint 2016 konfigurieren.
+
+
+  ### Modul 10&#58; Sicherung von SharePoint 2016
+  Dieses Modul erklärt die Sicherheit von SharePoint 2016 Anwendungen auf Plattformevene und wie man Farm-level Sicherheitseinstellungen für SharePoint 2016 konfiguriert.
+  #### Lektionen
+  - Plattform Sicherung
+  - Konfigurieren der Sicherheit auf Farm-level
+
+
+  #### Labor&#58; Sicherung von SharePoint 2016
+  - SharePoint Server Kommunikationssicherheit konfigurieren
+  - SharePoint Server Farmen verfestigen
+  - blockierte Dokumentenformen konfigurieren
+  - Web Part Sicherheit konfigurieren
+  - Sicherheit Auditing implementieren
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - SharePoint 2016 Auf Platformebene sichern.
+  - Farm-Level Sicherheitseinstellungen für SharePoint 2016 konfigurieren.
+
+
+  ### Modul 11&#58; Taxonomie verwalten
+  Dieses Modul erklärt wie man Content-typen und IContent-Typs Verbreitung erstellt und verwaltet Außerdem wird erklärt, wie man Managed Metadata in SharePoint Web applications und Websitesammlungen implementiert Es wird auch erklärt, wie Managed Metadata Serviceanwendungen in SharePoint 2016 konfiguriert werden.
+  #### Lektionen
+  - Verwalten von Inhaltstypen
+  - Managed Metadata verstehen
+  - Managed Metadata Service konfigurieren
+
+
+  #### Labor&#58; Inhaltstyp Verbreitung konfigurieren
+  - Inhaltstypen zur Verbreitung erstellen
+  - Inhaltstypen über Websitesammlungen veröffentlichen
+
+
+  #### Labor&#58; managed metadata service konfigurieren und nutzen
+  - Managed Metadata Service konfigurieren
+  - Ausdrücke und Ausdruckssätze erstellen
+  - Ausdruckssätze nutzen
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Inhaltstypen und Inhaltstyp Verbreitung erstellen und verwalten.
+  - erklären, wie managed Metadata in SharePoint Web applications und Websitesammlungen implementiert werden.
+  - Managed Metadata Serviceanwendungen in SharePoint 2016 verwalten.
+
+
+  ### Modul 12&#58; Konfiguration von Nutzerprofilen
+  Dieses Modul erklärt das Nutzerprofilmanagement als Serviceanwendung und wie Nutzerprofile und Zielgruppen verwaltet werden.
+  #### Lektionen
+  - Konfiguration der Nutzerprofil Serviceanwendung
+  - Verwaltung von Nutzerprofilen und Zielgruppen
+
+
+  #### Labor&#58; Konfiguration von Nutzerprofilen
+  - Konfiguration der Nutzerprofil Serviceanwendung
+  - Directory Import und Synchronisation konfigurieren
+
+
+  #### Labor&#58; My Sites and Zielgruppen konfigurieren
+  - My Sites konfigurieren
+  - Zielgruppen konfigurieren
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Nutzerprofil Serviceanwendungen konfigurieren.
+  - Nutzerprofile und Zielgruppen verwalten.
+
+
+  ### Modul 13&#58; Unternehmenssuche konfigurieren
+  Dieses Modul beschreibt die Such Serviceanwendung und erklärt, wie man die Suchanwendung in SharePoint 2016 konfiguriert. Außerdem wird erklärt, wie mach Suchexperimente in SharePoint 2016 verwaltet.
+  #### Lektionen
+  - Such-Serviceanwendungsarchitektur verstehen
+  - Unternehmens-Suche konfigurieren
+  - Unternehmens-Suche verwalten
+
+
+  #### Labor&#58; Unternehmenssuche konfigurieren
+  - Such Serviceanwendung konfigurieren
+  - File-Share Inhaltssuche konfigurieren
+  - locale SharePoint Inhaltssuche konfigurieren
+  - Suchcenter erstellen
+
+
+  #### Labor&#58; Sucherfahrung optimieren
+  - Ergebnissuche und Anfrageregeln konfigurieren
+  - Sucherfahrung anpassen
+  - Thesaurus erstellen und einführen
+  - Entitätsextraktionsfunktionen und Einschränkungen konfigurieren
+  - Anfragerechtautokorrektur verwalten
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Such Serviceanwendungsarchitektur in SharePoint 2016 beschreiben.
+  - Such Serviceanwendung in SharePoint 2016 konfigurieren.
+  - Sucherfahrung in SharePoint 2016 verwalten.
+
+
+  ### Modul 14&#58; SharePoint 2016 Umgebung überwachen und erhalten
+  Dieses Modul erklärt wie man einen Monitoringplan für SharePoint 2016 implementiert und die Leistund con SharePoint 2016 optimiert. Außerdem wird erklärt wie man SharePoint Caching plant und konfiguriert. Es wird eklärt wie man Probleme in der SharePoint 2016 Umgebung identifiziert und löst.
+  #### Lektionen
+  - Überwachen einer SharePoint 2016 Umgebung
+  - Optimierung und Verbesserung einer SharePoint 2016 Umgebung
+  - Planung und Konfiguration von Caching
+  - Fehlersuche in einer SharePoint 2016-Umgebung
+
+
+  #### Labor&#58; SharePoint 2016 Überwachung
+  - Nutzung und Identitäts Datensammlung konfigurieren
+  - SharePoint Diagnostik Logging konfigurieren
+  - Regeln für die Integritätsanalyse konfigurieren
+  - Nutzung und Integritätsdaten überprüfen
+
+
+  #### Labor&#58; Seiten-Ladezeiten überprüfen
+  - Netzwerkdatenverkehr analysieren
+  - SharePoint Seitenleistung analysieren
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Überwachungspläne für die SharePoint 2016 Umgebung entwickeln und implementieren.
+  - SharePoint 2016Server-Farmen auf laufender Basis Verbessern und optimieren.
+  - Caching planen und konfigurieren und die Leistung von sharePoint 2016 verbessern.
+  
+  Fehlerbehebung und Probleme in SharePoint 2016 lösen

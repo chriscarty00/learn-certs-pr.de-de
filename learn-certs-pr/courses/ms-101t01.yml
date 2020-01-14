@@ -1,0 +1,70 @@
+### YamlMime:Course
+title: Microsoft 365 Security Management
+metadata:
+  title: 'Kurs MS-101T01-A: Microsoft 365 Security Management'
+  description: 'Kurs MS-101T01-A: Microsoft 365 Security Management'
+uid: course.ms-101t01
+courseNumber: 'MS-101T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Verwalten von Sicherheitsvorgängen
+- skill: Implementieren von Sicherheitslösungen in Microsoft 365
+- skill: Planen und Konfigurieren des Azure AD-Identitätsschutzes
+- skill: Implementieren von Microsoft Secure Score
+- skill: Implementieren des Austausch-Online-Schutzes
+- skill: Erweiterten Bedrohungsschutz implementieren
+- skill: Anhänge und sichere Links verwalten
+- skill: Implementieren von Microsoft 365 Threat Intelligence
+- skill: Verwenden des Microsoft 365 Security Dashboards
+- skill: Konfigurieren fortgeschrittener Bedrohungsanalysen.
+- skill: Implementieren von Sicherheitsmaßnahmen für Cloud-Anwendungen
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  Erfahren Sie mehr über Microsoft 365 Security Management, einschließlich der Verwaltung Ihrer Sicherheitsmetriken, der Aktivierung von Azure AD Identitätsschutz, der Konfiguration von Microsoft 365-Sicherheitsdiensten und der Verwendung von Microsoft 365 Gefahrenerkennung.
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an Personen, die die Microsoft 365 Enterprise-Administratorrolle anstreben und einen der Microsoft 365-Zertifizierungspfade für rollenbasierte Administratoren abgeschlossen haben.
+prerequisitesSection: |-
+  - Abschluss eines rollenbasierten Administratorkurses wie z.B. Nachrichtenvermittlung, Teamwork, Sicherheit und Compliance oder Zusammenarbeit.
+  - Ein fundiertes Verständnis von DNS und grundlegenden Funktionserfahrungen mit Microsoft 365-Diensten.
+  - Ein fundiertes Verständnis allgemeiner IT-Praktiken.
+outlineSection: |-
+  ### Modul 1&#58; Entwerfen Ihres Microsoft 365-Tenant
+  #### Lektionen
+  - Planen einer lokalen Microsoft 365-Infrastruktur
+  - Planung Ihrer Identitäts- und Authentifizierungslösung
+
+
+  ### Modul 2&#58; Konfigurieren Ihres Microsoft 365-Tenant
+  #### Lektionen
+  - Planen Ihres Microsoft 365-Erlebnisses
+  - Konfigurieren Ihres Microsoft 365 Erlebnisses
+  - Nutzung von FastTrack- und Partnerdiensten
+  - Implementieren Ihrer Domaindienste
+
+
+  ### Modul 3&#58; Verwalten Ihres Microsoft 365-Tenants
+  #### Lektionen
+  - Konfigurieren von Mandanten-Rollen
+  - Tenant Health and Services verwalten
+
+
+  ### Modul 4&#58; Praktisches Labor
+
+  #### Labor&#58; Verwalten der Microsoft 365-Sicherheit
+  - Übung 1&#58; Einrichten Ihrer Laborumgebung
+  - Übung 2&#58; Bearbeiten einer ATP Richtlinie für ungefährliche Links und Erstellen einer Richtlinie zum sicheren Anhang
+  - Übung 3&#58; Aktivieren und Installieren des ATA Centers

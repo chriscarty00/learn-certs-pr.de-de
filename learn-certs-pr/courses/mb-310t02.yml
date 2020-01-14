@@ -1,0 +1,155 @@
+### YamlMime:Course
+title: Konfigurieren und Verwenden von Kreditoren, Forderungen und Inkasso in Finanzen und Betrieb
+metadata:
+  title: 'Kurs MB-310T02-A: Konfigurieren und Verwenden von Kreditoren, Forderungen und Inkasso in Finanzen und Betrieb'
+  description: 'Kurs MB-310T02-A: Konfigurieren und Verwenden von Kreditoren, Forderungen und Inkasso in Finanzen und Betrieb'
+uid: course.mb-310t02
+courseNumber: 'MB-310T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+exams:
+- uid: exam.mb-310
+summary: |-
+  Unternehmen setzen Dynamics 365 for Finance und Operations zur Steigerung ihrer finanziellen Performance ein, weil es die Rentabilität steigern, die Produktivität ihrer Mitarbeiter optimieren, die Betriebskosten senken, sich schnell an geänderte Anforderungen anpassen und das Asset-Management optimieren kann.
+  
+  In diesem Kurs wird erläutert, wie Sie Kreditoren, Forderungen und Sammlungen in Dynamics 365 for Finance and Operations konfigurieren und verwenden.
+
+  #### Zielgruppenprofil
+  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von Bedürfnissen, sowie Lösungen und Anwendungen zu konfigurieren. Der Modulbetreuer implementiert eine Lösung mit gebrauchsfertigen Funktionen, codefreier Erweiterungsmöglichkeit, sowie Anwendungs- und Service-Integrationen.
+prerequisitesSection: |-
+  Grundlegendes Verständnis von ERP- und CRM-Konzepten.
+outlineSection: |-
+  ### Modul 1&#58; Kreditorenbuchhaltung konfigurieren
+  Dynamics 365 for Finance und Operations bietet umfangreiche Funktionen zum Einrichten verschiedener Zahlungsoptionen für Kreditoren.
+  #### Lektionen
+  - Die Funktionsweise des Task-Rekorders verstehen
+  - Konfigurieren der Kreditorenparameter
+  - Lieferanten erstellen und verwalten
+  - Kreditorenbuchhaltung konfigurieren
+  - Positive Zahlung konfigurieren und verwenden
+  - Übungslabor
+  - Modulübersicht
+
+  In diesem Modul lernen die Studenten, wie man&#58
+  - Kreditorenkomponenten konfiguriert
+  - Das Erstellen und verwalten einen Lieferanten
+  - Kreditorenzahlungen konfigurieren
+  - Kreditorenbuchungsprofile einrichten
+  - Kreditorenbuchhaltung konfigurieren
+
+
+  ### Modul 2&#58; Tägliche  Abläufe in der Kreditorenbuchhaltung durchführen
+  Der Einkauf von Waren zum Wiederverkauf, als Material für die Herstellung oder für Dienstleistungen ist eine große Verantwortung. Die Nachverfolgung dieser Einkäufe und die Bezahlung der Lieferanten, die die Waren liefern, ist ebenso anspruchsvoll. Unternehmen müssen die Kreditorenbuchhaltung genau überwachen und Verfahren implementieren, damit das Management auf einfache Weise Finanzinformationen abrufen kann, die sie benötigen, um über Änderungen der Warenkosten informiert zu bleiben. Um einen genauen Überblick über die Finanzlage des Geschäfts zu erhalten, werden alle erfolgswirksamen Aufwendungen in die Verbindlichkeiten einbezogen. In diesem Modul wird erläutert, wie man Vorauszahlungen verwaltet und anwende, Rechnungen erfasst und Zahlungen verarbeitet.
+  #### Lektionen
+  - Einführung
+  - Bestellungen, Rechnungen und Zahlungen bearbeiten
+  - Verwalten und Anwenden von Vorauszahlungen
+  - Übungslabore
+  - Modulübersicht
+
+  In diesem Modul lernten die Studenten, dass man Lieferantenrechnungen manuell eingeben oder elektronisch über eine Dateneinheit empfangen kann. Nachdem die Rechnungen eingegeben oder empfangen wurden, können Sie die Rechnungen mit Hilfe eines Rechnungsgenehmigungsjournals oder mit der Lieferantenrechnung überprüfen und genehmigen. Darüber hinaus haben sie gelernt, wie der Rechnungsabgleich, die Kreditorenrechnungsrichtlinien und der Arbeitsfluss verwendet werden, um den Überprüfungsprozess zu automatisieren, sodass Rechnungen, die bestimmte Kriterien erfüllen, automatisch genehmigt und die verbleibenden Rechnungen zur Überprüfung durch einen autorisierten Benutzer gekennzeichnet werden. Die Studenten lernten auch den Umgang mit Vorauszahlungen an Lieferanten.
+
+  ### Modul 3&#58; Kostenzuordnung und Rechnungsbestätigung verwenden
+  In diesem Modul erfahren Sie, wie Sie Transaktionen abwickeln und die Abwicklung und Verteilung von Geldern mit Hilfe von Kostenzuordnung rückgängig machen. Die Studenten lernen auch, wie ein Rechnungsabgleich durchgeführt wird. Kostenzuordnung wird verwendet, um zu definieren, wie ein Betrag verbucht wird, z. B. wie die Ausgaben, Steuern oder Gebühren auf einer Lieferantenrechnung verbucht werden. Jeder Betrag, der bei der Erfassung der Kreditorenrechnung verbucht werden muss, weist eine oder mehrere Kostenzuordnungen auf.
+
+  #### Lektionen
+  - Einführung
+  - Transaktion abwickeln und Abrechnungen rückgängig machen
+  - Mittel verteilen
+  - Rechnungsprüfungsrichtlinien konfigurieren
+  - Übungslabore
+  - Modulübersicht
+
+  In diesem Modul lernen die Studenten, wie man&#58
+  - Transaktionen abwickeln und Abrechnungen rückgängig machen
+  - Gelder mittels Kostenzuordnung verteilen
+  - Rechnungsprüfungsrichtlinien konfigurieren
+
+
+  ### Modul 4&#58; Debitorenbuchhaltung konfigurieren
+  Das Modul Debitorenbuchhaltung muss so konfiguriert werden, dass Kundenrechnungen erstellt, Lieferscheine gebucht, freie Textrechnungen verwendet werden können, die sich nicht auf Kundenaufträge beziehen, und dass schließlich Zahlungen mit verschiedenen Zahlungsarten wie Bargeld, Schecks, Kreditkarten und elektronische Zahlungen von Kunden geleistet werden können. Dieses Modul enthält Informationen zur Konfiguration wesentlicher Komponenten des Moduls „Debitoren" und zum Kunden-Setup für eine effiziente Verwaltung von Kunden und Kundentransaktionen in Finance and Operations.
+
+  #### Lektionen
+  - Debitoren konfigurieren
+  - Kundenkonten anlegen und warten
+  - Kundenbuchungsprofile einrichten
+  - Konfiguration der Debitorengebühren
+  - Übungslabor
+  - Modulübersicht
+
+  In diesem Modul lernen die Studenten, wie man&#58
+  - Debitoren konfiguriert
+  - Kundenkonten anlegt und wartet
+  - Kundenzahlungen konfiguriert
+  - Kundenbuchungsprofile einrichtet
+  - Konfiguration der Debitorengebühren
+
+
+  ### Modul 5&#58; Tägliche Abläufe in der Debitorenbuchhaltung durchführen
+  Erfahren Sie, wie Sie freie Textrechnungen erstellen, Zahlungen von Kunden erhalten und bei der Bank einzahlen. Die Studenten lernen auch, wie man einem Kunden einen überzahlten Betrag oder eine Summe aus anderem Grund erstatten kann z. B. ein Kundenrückgabeszenario, bei dem dem Kunden nicht nur die Zahlung, sondern auch die eingezogene Steuer erstattet werden muss, und zwar unter Verwendung von Stornierungen und Verwendung von Transaktionsstornierungen in der Debitorenbuchhaltung. Die Studenten lernen auch, wie sie Gelder mit Hilfe von Kostenzuordnung in einer freien Textrechnung verteilen.
+
+  #### Lektionen
+  - Erstellen freier Textrechnungen und erfassen von Kundenzahlungen
+  - Transaktionen abwickeln und die Abwicklung rückgängig machen
+  - Übungslabor
+  - Modulübersicht
+
+  In diesem Modul lernten die Studenten etwas über&#58;
+  - Gelder mittels Kostenzuordnung verteilen
+  - Erstellen freier Textrechnungen und erfassen von Kundenzahlungen
+  - Konfigurieren wiederkehrender Rechnungen
+  - Stornos in der Debitorenbuchhaltung verwenden
+  - Bestellungen bearbeiten, Rechnungen erfassen und Zahlungen bearbeiten
+
+
+  ### Modul 6&#58; Kredit und Inkasso konfigurieren
+  Obwohl die meisten Kunden ihre Rechnungen pünktlich bezahlen, muss es möglich sein, Rechnungen zu verarbeiten, die nicht bis zu ihrem jeweiligen Fälligkeitsdatum bezahlt werden. In diesem Abschnitt wird erläutert, wie Sie überfällige Kunden verwalten, indem Sie das Modul „Guthaben und Inkasso" in Dynamics 365 for Finance and Operations konfigurieren. Um das Modul Guthaben und Inkasso nutzen zu können, muss die Konfiguration der Forderungen bereits abgeschlossen sein.
+
+  #### Lektionen
+  - Einführung
+  - Kredit- und Inkassokomponenten konfiguriert
+  - Einrichten und Verwalten von Interessen
+  - Aufheben, wiedereinsetzen oder umkehren
+  - Einrichten und Verwalten von Inkassoschreiben
+  - Übungslabor
+  - Modulübersicht
+
+  In diesem Modul lernen die Studenten, wie man&#58
+  - Kredit- und Inkassokomponenten konfiguriert
+  - Konfigurieren Sie Restantenlisten, Kundenpools, Inkassoagenten und definition von Restantenzeiträumen
+  - Interessen einrichten und verwalten
+  - Einrichten und Verwalten von Inkassobriefen
+
+
+  ### Modul 7&#58; Kredit und Inkasso bearbeiten
+  Obwohl die meisten Kunden ihre Rechnungen pünktlich bezahlen, muss es möglich sein, Rechnungen zu verarbeiten, die nicht bis zu ihrem jeweiligen Fälligkeitsdatum bezahlt werden. In diesem Abschnitt wird die Verarbeitung von Gutschriften und Sammlungen erläutert.
+  #### Lektionen
+  - Einführung
+  - Verstehen, wie Sammlungen verarbeitet werden
+  - Verwalten von Kundenkrediten und -sammlungen
+  - Übungslabore
+  - Modulübersicht
+
+  In diesem Modul lernten die Schüler&#58;
+  - Kundenstatements
+  - Wie man ein Inkasso verarbeitet
+
+
+  ### Modul 8&#58; Abschluss des Kurses
+  Abschließende Bewertung und Kurszusammenfassung sowie eine Umfrage nach dem Kurs.
+  #### Lektionen
+  - Abschließende Bewertung
+  - Kurszusammenfassung
+  - Umfrage nach dem Kurs
+
+  Die Kursteilnehmer haben den Kurs abgeschlossen.

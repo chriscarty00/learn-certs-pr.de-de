@@ -1,0 +1,86 @@
+### YamlMime:Course
+title: Entwickeln von Azure Platform als Service Lösungen
+metadata:
+  title: 'Kurs AZ-203T02-A: Entwickeln von Azure Platform als Service Lösungen'
+  description: 'Kurs AZ-203T02-A: Entwickeln von Azure Platform als Service Lösungen'
+uid: course.az-203t02
+courseNumber: 'AZ-203T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  In diesem Kurs erlangen die Teilnehmer das Wissen und die benötigten Fähigkeiten um AzurePlatform als Service Funktion und Dienste in der Entwicklungslösung zu implementieren. Teilnehmer lernen wie Azure App Service Resourcen erstellt und verwaltet werden, wie push und offline sync in den mobilen Apps integriert wird und wie API dokumentiert wird. Die Teilnehmer lernen außerdem wie Azure-functions erstellt und getestet wird.
+
+  #### Zielgruppenprofil
+  - Teilnehmer des Kurses sind an der Azure Entwicklung oder dem Bestehen der Microsoft Azure Entwickler-Mitarbeiter Zertifizierungsprüfungen interessiert.
+  - Teilnehmer sollten 1-2 Jahre Erfahrung als Entwickler haben Der Kurs geht davon aus, dass die Teilnehmer das Kodieren beherrschen und ein fundamentales Wissen über Azure besitzen.
+prerequisitesSection: |-
+  - Teilnehmer sollten 1-2 Jahre Erfahrung als Entwickler haben Der Kurs geht davon aus, dass die Teilnehmer das Kodieren beherrschen und ein fundamentales Wissen über Azure besitzen.
+  - Es wird empfohlen, dass die Teilnehmer auch Erfahrung mit PowerSehll oder Azure CLI haben, mit der Arbeit in dem Azure Portal und mit mindestens einer Azure gestützten Programmiersprache. Die meisten Prüfungen in diesem Kurs sie in C# NET vorgestellt.
+outlineSection: |-
+  ### Modul 1&#58; App Service web apps erstellen
+  Azure App Service Wepp Apps (oder einfach Web Apps) ist ein Dienst für Hosting Web Apps, REST APIs und mobile Backends. Web Apps fügt die Kraft von Microsoft Azure zu Ihrer Anwendung durch security, Load Balancing, Autoscaling und automated management hinzu.
+  #### Lektionen
+  - Azure App Service Kernkonzepte
+  - Azure App Service Web Apps erstellen
+  - Hintergrund tasks durch WebJobs in Azure App Service erstellen
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - App Service Kernkonzepte und Möglichkeiten verstehen
+  - App Services Web Apps durch Azure CLI Azure Portal und PowerShell erstellen.
+  - Durchgehende und triggered WebJobs erstellen
+
+
+  ### Modul 2&#58; Azure App Service mobile apps erstellen
+  Diese Mobile Apps Funktion von Azure App Service bietet Unternehmensentwicklern und Systemintegratoren eine mobile App Entwicklungs Plattform die hochskalierbar und weltweit verfügbar ist.
+  #### Lektionen
+  - Anfang von mobile Apps in App Service
+  - Push-Benachrichtigungen für Ihre Anwendungen zulassen
+  - Offline-Synchronisation für Ihr Anwendungen zulassen
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Die App auf den Mobile Apps Service pushen
+  - Apps für Push-Benachrichtigungen registrieren
+
+
+  ### Modul 3&#58; Azure App Service API Apps erstellen
+  Dieses Modul wie die Erstellung und Dokumentation von Azure App Service API erklärt.
+  #### Lektionen
+  - APIs erstellen
+  - Swagger für API Dokumentation nutzen
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - APIM-Instanz erstellen und neue API erstellen
+  - Swashbuckle nutzen um Swagger objekte in ASP.NET Core zu erstellen
+
+
+  ### Modul 4&#58; Azure Functions implementieren
+  Azure-functions ist eine Lösung um einfach kleine CodeStücke, oder „functions“ in der Cloud auszuführen. Sie können nur den Code den man für ein Problem benötigt schreiben, ohne sich über die gesamte Anwendung oder Infrastruktur gedanken zu machen.
+  #### Lektionen
+  - Überblick über Azure-functions
+  Azure-functions über Visual Studio entwickeln
+  - dauerhafte Funktionen implementieren
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - die Kernfunktionen und Funktionalität von Azure-functions verstehen
+  - functions, Bindings und Trigger erstellen
+  - bekannte Muster für Durable Functions kennen und diese Erstellen können.

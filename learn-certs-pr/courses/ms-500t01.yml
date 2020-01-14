@@ -1,0 +1,131 @@
+### YamlMime:Course
+title: Verwalten von Microsoft 365-Identität und -Zugriff
+metadata:
+  title: 'Kurs MS-500T01-A: Managing Microsoft 365 Identity and Access'
+  description: 'Kurs MS-500T01-A: Managing Microsoft 365 Identity and Access'
+uid: course.ms-500t01
+courseNumber: 'MS-500T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Verwalten der Benutzer- und Gruppensicherheit in Microsoft 365.
+- skill: Passwörter in Microsoft 365 verwalten.
+- skill: Beschreiben der Azure Identitätsschutz-Funktionen.
+- skill: Planen und Implementieren von Azure AD Connect
+- skill: Verwalten synchronisierter Identitäten
+- skill: Planen der Implementierung von Verbundidentitäten.
+- skill: Beschreiben und Verwenden des bedingten Zugriffs.
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-500
+summary: |-
+  Schützen Sie sich mit der Identitäts- und Zugriffsverwaltung vor der Gefährdung von Anmeldeinformationen. In diesem Kurs lernen Sie, wie Sie den Benutzerzugriff auf die Ressourcen Ihrer Organisation sichern. Dieser Kurs behandelt insbesondere den Schutz von Benutzerkennwörtern, die mehrstufige Authentifizierung, das Aktivieren von Azure Identitätsschutz, das Konfigurieren von Active Directory-Verbunddiensten, das Einrichten und Verwenden von Azure AD Connect sowie die Einführung in Zwangsberechtigung. Sie erfahren auch, wie Sie den externen Zugriff auf Ihr Microsoft 365-System verwalten können.
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an die Microsoft 365-Sicherheitsadministratorrolle. Diese Rolle arbeitet mit dem Microsoft 365 Enterprise Administrator, Geschäftsinteressenten und anderen Workload-Administratoren zusammen, um Sicherheitsstrategien zu planen und umzusetzen und um sicherzustellen, dass die Lösungen den Richtlinien und Vorschriften des Unternehmens entsprechen. 
+  
+  Diese Rolle sichert proaktiv Microsoft 365-Unternehmensumgebungen. Zu den Aufgaben gehören das Reagieren auf Bedrohungen, das Implementieren, Verwalten und Überwachen von Sicherheits- und Compliance-Lösungen für die Microsoft 365-Umgebung. Sie reagieren auf Vorfälle, Untersuchungen und die Durchsetzung von Data Governance. 
+  
+  Der Microsoft 365-Sicherheitsadministrator ist mit Microsoft 365-Arbeitsabläufen vertraut und verfügt über umfassende Kenntnisse und Erfahrungen in den Bereichen Identitätsschutz, Informationsschutz, Bedrohungsschutz, Sicherheitsverwaltung und Datenverwaltung. Die Funktion legt den Schwerpunkt auf Microsoft 365 Umgebungen und umfasst hybride Umgebungen.
+prerequisitesSection: |-
+  Die Lernenden sollten diesen Kurs bereits mit den folgenden Fähigkeiten beginnen&#58;
+  - Grundlegendes konzeptionelles Verständnis von Microsoft Azure
+  - Erfahrung mit Windows 10-Geräten
+  - Erfahrung mit Office 365.
+  - Grundlegendes Verständnis von Autorisierung und Authentifizierung
+  - Grundlegendes Verständnis von Computernetzwerken
+  - Grundkenntnisse in der Verwaltung mobiler Geräte
+outlineSection: |-
+  ### Modul 1&#58; Benutzer- und Gruppensicherheit
+  In diesem Modul wird das Verwalten von Benutzerkonten und Gruppen in Microsoft 365 erläutert. Es führt Sie in das privilegierte Identitätsmanagement in Azure AD sowie in den Identitätsschutz ein. Das Modul legt den Grundstein für den weiteren Verlauf des Kurses.
+  #### Lektionen
+  - Benutzerkonten in Microsoft 365
+  - Verwalten von Administratorrollen und Sicherheitsgruppen in Microsoft 365
+  - Passwortverwaltung in Microsoft 365
+  - Azure AD Identitätsschutz
+
+
+  #### Labor&#58; Verwalten Ihrer Microsoft 365 Identitätsumgebung
+  - Einrichten Ihrer Laborumgebung
+  - Verwalten Ihrer Microsoft 365-Identitätsumgebung mit dem Microsoft 365-Verwaltungscenter
+  - Weisen Sie Dienstadministratoren zu
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Die Benutzeridentitäten in Microsoft 365 beschreiben
+  - Benutzerkonten sowohl im Microsoft 365 Admin-Center als auch in Windows PowerShell erstellen
+  - Beschreiben und Verwenden von Microsoft 365-Administratorrollen
+  - Beschreiben der verschiedenen in Microsoft 365 verfügbaren Gruppentypen
+  - Kennwortrichtlinien und Authentifizierung planen
+  - Implementieren der Multifaktorauthentifizierung in Office 365
+  - Beschreiben des Azure-Identitätsschutzes und der Art der Identitäten, die geschützt werden können
+  - Beschreiben, wie der Azure-Identitätsschutz aktiviert wird
+  - Identifizieren der Schwachstellen und Risikoereignisse
+
+
+  ### Modul 2&#58; Identitätssynchronisation
+  In diesem Modul werden Konzepte zum Synchronisieren von Identitäten erläutert.  Insbesondere konzentriert es sich auf Azure AD Connect und das Verwalten der Verzeichnissynchronisierung, um sicherzustellen, dass die richtigen Personen eine Verbindung zu Ihrem Microsoft 365-System herstellen.
+  #### Lektionen
+  - Einführung in die Identitätssynchronisierung
+  - Planen von Azure AD Connect
+  - Azure AD Connect Implementieren
+  - Verwalten synchronisierter Identitäten
+
+
+  #### Labor&#58; Implementieren der Identitätssynchronisierung
+  - Einrichten Ihrer Organisation für die Identitätssynchronisierung
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Microsoft 365-Authentifizierungsoptionen beschreiben
+  - Die Verzeichnissynchronisierung erläutern
+  - Die Verzeichnissynchronisierung planen
+  - Beschreiben und Planen von Azure AD Connect
+  - Voraussetzungen für Azure AD Connect konfigurieren
+  - Azure AD Connect einrichten
+  - Benutzer mit Verzeichnissynchronisierung verwalten
+  - Gruppen mit Verzeichnissynchronisierung verwalten
+  - Azure AD Connect Sync-Sicherheitsgruppen verwenden
+  
+
+  ### Modul 3&#58; Verbundene Identitäten
+  In diesem Modul dreht sich alles um Active Directory-Verbunddienste (ADFS). Im Einzelnen erfahren Sie, wie Sie AD FS so planen und verwalten, dass die Zugriffsebene erreicht wird, die Sie Benutzern aus anderen Verzeichnissen bereitstellen möchten.
+  #### Lektionen
+  - Einführung in Verbundidentitäten
+  - Planen einer AD FS-Bereitstellung
+  - Implementieren von AD FS
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Anspruchsbasierte Authentifizierungs- und Verbundvertrauensstellungen beschreiben
+  - Beschreiben der Funktionsweise von AD FS
+  - Eine AD FS-Umgebung mit bewährten Praktiken, hoher Verfügbarkeit und Kapazitätsplanung planen
+  - Active Directory-Verbunddiensten in Microsoft Azure planen
+  - Ein Webanwendungsproxy für AD FS installieren und konfigurieren
+  - AD FS mit Hilfe von Azure AD Connect konfigurieren
+
+
+  ### Modul 4&#58; Zugriffsverwaltung
+  In diesem Modul wird der bedingte Zugriff für Microsoft 365 beschrieben und wie er zum Steuern des Zugriffs auf Ressourcen in Ihrer Organisation verwendet werden kann. Das Modul erklärt auch die rollenbasierte Zugriffskontrolle (RBAC) und Lösungen für den externen Zugriff.
+  #### Lektionen
+  Zugangskontrolle
+  - Verwalten des Gerätezugriffs
+  - Rollenbasierte Zugriffskontrolle (RBAC)
+  - Lösungen für den externen Zugriff
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreiben Sie das Konzept des bedingten Zugriffs
+  - Beschreiben von Richtlinien für den bedingten Zugriff
+  - Planen der Gerätekonformität
+  - Bedingte Benutzer und Gruppen konfigurieren
+  - RBAC konfigurieren
+  - Unterscheiden zwischen Administratorrollen für Azure RBAC und Azure AD
+  - Externen Zugriff verwalten
+  - Erläutern der Lizenzierungsrichtlinien für Azure AD B2B-Kollaboration

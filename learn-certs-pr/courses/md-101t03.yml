@@ -1,0 +1,110 @@
+### YamlMime:Course
+title: Moderne Desktops und Geräte schützen
+metadata:
+  title: 'Kurs MD-101T03-A: Moderne Desktops und Geräte schützen'
+  description: 'Kurs MD-101T03-A: Moderne Desktops und Geräte schützen'
+uid: course.md-101t03
+courseNumber: 'MD-101T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Die Vorteile und Möglichkeiten von Azure AD beschreiben.
+- skill: Verwaltung von Benutzern mit Azure AD mit Active Directory DS.
+- skill: Windows Hello for Business implementieren.
+- skill: Konfiguration von Zugangskontrollregeln auf der Grundlage von Konformitätsrichtlinien.
+- skill: Beschreibung der verschiedenen Werkzeuge zur Sicherung von Geräten und Daten.
+- skill: Windows Defender Erweiterter Bedrohungsschutz implementieren.
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-101
+summary: |-
+  Jeden Tag verlangen mehr Unternehmen von der IT, die Mobilität der Mitarbeiter zu unterstützen. In modernen Umgebungen muss der Desktop-Administrator in der Lage sein, Telefone, Tablets und Computer zu verwalten und zu unterstützen, unabhängig davon, ob sie sich im Besitz des Unternehmens oder des Mitarbeiters befinden. Gleichzeitig muss die IT-Abteilung in der Lage sein, die Daten, auf die diese Geräte zugreifen, zu schützen. In diesem Kurs werden die Teilnehmer in die Schlüsselkonzepte der Sicherheit im modernen Management eingeführt. Dieser Kurs behandelt Authentifizierung, Identitäten und Zugriff sowie den Schutz dieser Kategorien. Der Teilnehmer wird in Azure Active Directory eingeführt und lernt, wie Microsoft Intune zum Schutz von Geräten und Daten mit Compliance-Richtlinien eingesetzt werden kann. Schließlich behandelt dieser Kurs die wichtigsten Funktionen von Azure Informationsschutz und Windows Defender Fortgeschrittener Bedrohungsschutz und wie diese Funktionen implementiert werden können.
+
+  #### Zielgruppenprofil
+  Der Modern Desktop Administrator (MDA) stellt Geräte und Client-Anwendungen in einer Unternehmensumgebung bereit, konfiguriert, sichert, verwaltet und überwacht sie. Zu den Aufgaben gehört die Verwaltung von Identität, Zugriff, Richtlinien, Updates und Anwendungen. Der MDA arbeitet mit dem M365 Enterprise Administrator zusammen, um eine Gerätestrategie zu entwickeln und zu implementieren, die den Geschäftsanforderungen eines modernen Unternehmens entspricht. Die MDA muss mit M365-Arbeitslasten vertraut sein und über umfassende Fähigkeiten und Erfahrungen der Bereitstellung, Konfiguration und Wartung von Windows 10 und Nicht-Windows-Geräten verfügen. Die Rolle des MDA konzentriert sich auf Cloud Services und nicht auf Technologien für das lokale Management.
+prerequisitesSection: |-
+  Der moderne Desktop-Administrator MDA muss mit M365-Workloads vertraut sein und über umfassende Kenntnisse und Erfahrungen bei der Bereitstellung, Konfiguration und Wartung von Windows
+  10 und Nicht-Windows-Geräten verfügen. Die Rolle des MDA konzentriert sich auf Cloud Services und nicht auf Technologien für das lokale Management.
+outlineSection: |-
+  ### Modul 1&#58; Verwaltung der Authentifizierung in Azure AD
+  In diesem Modul werden die Studenten in das Konzept des Directory in the Cloud mit Azure Active Directory (Azure AD) eingeführt. Die Teilnehmer lernen die Ähnlichkeiten und Unterschiede zwischen Azure AD und Active Directory DS kennen und erfahren, wie man zwischen beiden synchronisiert. Die Teilnehmer lernen das Identitätsmanagement in Azure AD kennen und erfahren etwas über den Identitätsschutz mit Windows Hello for Business sowie über den Azure AD Identitätsschutz und die Multi-Faktor-Authentifizierung. Das Modul schließt mit dem sicheren Zugriff auf Unternehmensressourcen ab und stellt Konzepte wie Always On VPN und Remote-Konnektivität in Windows 10 vor.
+  #### Lektionen
+  - Azure AD Übersicht
+  - Identitätsmanagement in Azure AD
+  - Identitätsschutz bei Azure AD
+  - Verwaltung der Geräteauthentifizierung
+  - Ermöglichung des Unternehmenszugangs
+
+
+  #### Labor&#58; Praxislab - Verwaltung von Objekten und Authentifizierung in Azure AD
+  - Aktivierung und Konfiguration von Azure AD Premium mit Enterprise Mobility + Security (EMS)-Mieter
+  - Erstellen von Benutzer- und Gruppenobjekten mit der Benutzeroberfläche und Windows PowerShell
+  - Konfigurieren der Selbstbedienungs-Kennwortzurücksetzung (SSPR) für Benutzerkonten in Azure AD
+  - Verbinden eines Gerätes mit Azure AD
+
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreibung der Fähigkeiten von Azure AD.
+  - Verwaltung von Benutzern mit Azure AD mit Active Directory DS.
+  - Implementieren von Windows Hello for Business.
+  - Geräte mit Azure AD verbinden.
+  - Beschreibung der Methoden zur Ermöglichung des Zugriffs von externen Netzwerken.
+
+
+  ### Modul 2&#58; Verwalten von Geräten und Geräterichtlinien
+  In diesem Modul werden die Teilnehmer in die Verwaltung der Gerätesicherheit mit Intune eingeführt. Die Teilnehmer erfahren, wie Intune Geräteprofile zur Verwaltung der Konfiguration von Geräten zum Schutz von Daten auf einem Gerät verwenden kann. Die Teilnehmer lernen, wie man Compliance-Richtlinien erstellt und einsetzt und wie man Konformitätsrichtlinien für die Zugangskontrolle verwendet. Das Modul schließt mit der Überwachung von Geräten ab, die bei Intune angemeldet sind.
+  #### Lektionen
+  - Microsoft Intune-Übersicht
+  - Geräte mit Intune verwalten
+  - Implementierung von Richtlinien zur Gerätekonformität.
+
+
+  #### Labor&#58; Praxislab - Geräteverwaltung
+  - Konfigurieren von Microsoft Intune für die Geräteverwaltung
+  - Konfigurieren von Konformitätsrichtlinien und Geräteprofilen
+  - Registrierung von Windows 10-Geräten und Einhaltung der Richtlinien
+
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - die Verwaltung mobiler Geräte mit Intune beschreiben.
+  - Geräteprofile zum Schutz der Daten auf den Geräten erstellen und zuweisen.
+  - Richtlinien für Konformität und Zugriffsbeschränkungen implementieren.
+  - Intune zur Überwachung der Konformität von Geräten verwenden.
+
+
+  ### Modul 3&#58; Sicherheitsverwaltung
+  In diesem Modul lernen die Teilnehmer den Datenschutz kennen. Zu den Themen gehören der Schutz von Windows & Azure Information und verschiedene Verschlüsselungstechnologien, die in Windows 10 unterstützt werden. In diesem Modul werden auch die wichtigsten Funktionen von Windows Defender Erweiterter Bedrohungsschutz (Windows Defender ATP) und die Implementierung dieser Funktionen auf Geräten in der Organisation behandelt. Das Modul schließt die Verwendung von Windows Defender und die Verwendung von Funktionen wie Antivirus, Firewall und Credential Guard ab.
+  #### Lektionen
+  - Schutz der Gerätedaten implementieren
+  - Verwalten von Windows Defender ATP
+  - Verwalten des Windows Defender in Windows 10
+
+
+  #### Labor&#58; Praxislab - Verwaltung der Sicherheit in Windows 10
+  - Konfigurieren des verschlüsselnden Dateisystems (EFS)
+  - Konfigurieren von BitLocker
+  - Konfigurieren einer WIP-Richtlinie in Intune
+  - Windows Defender konfigurieren
+
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreibung der Methoden zum Schutz der Gerätedaten.
+  - Beschreibung der Funktionen und Vorteile von Windows Defender ATP
+  - Bereitstellen und Verwalten von Einstellungen für Windows Defender-Clients.
+
+
+  ### Modul 4&#58; Abschluss des Kurses
+  #### Lektionen
+  - Abschlussprüfung
+
+
+  #### Labor&#58; Abgestuftes Lab

@@ -1,0 +1,151 @@
+### YamlMime:Course
+title: Konfigurieren und Verwenden von lehnen Fertigung in Dynamics 365 für Finanzen und Betrieb
+metadata:
+  title: 'Kurs MB-320T02-A: Konfigurieren und Verwenden von lehnen Fertigung in Dynamics 365 für Finanzen und Betrieb'
+  description: 'Kurs MB-320T02-A: Konfigurieren und Verwenden von lehnen Fertigung in Dynamics 365 für Finanzen und Betrieb'
+uid: course.mb-320t02
+courseNumber: 'MB-320T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-320
+summary: |-
+  Unternehmen verwenden Dynamics 365 for Finance und Operations, um mit verknüpften Abläufen intelligenter zu arbeiten, und dabei die am besten geeigneten Fertigungsprozesse auswählen, Betriebsabläufe verbessern, das Ressourcenmanagement vereinfachen, die Produktlieferung beschleunigen und Qualität und Kundenzufriedenheit steigern. 
+
+  In diesem Kurs wird erläutert, wie man die Prozessverarbeitung in Dynamics 365 for Finance and Operations konfiguriert und verwendet.
+
+  #### Zielgruppenprofil
+  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von Bedürfnissen, sowie Lösungen und Anwendungen zu konfigurieren. Der Modulbetreuer implementiert eine Lösung mit gebrauchsfertigen Funktionen, codefreier Erweiterungsmöglichkeit, sowie Anwendungs- und Service-Integrationen.
+prerequisitesSection: |-
+  Grundlegendes Verständnis von ERP- und CRM-Konzepten.
+outlineSection: |-
+  ### Modul 1&#58; Erste Schritte in der Prozessverarbeitung
+  Dieses Thema behandelt den Einstieg in die Prozessverarbeitung in Finance and Operations.
+
+  #### Lektionen
+  - Einführung
+  - Konzepte und Terminologie
+  - Modulübersicht
+
+
+  In dieser Lektion lernten die Studenten&#58;
+  - schlanke Produktion verstehen
+  - Schlanke Konzepte und -Terminologie verstehen
+
+
+  ### Modul 2&#58; Konfigurieren einer schlanken Produktion
+  In diesem Artikel wird erläutert, wie Sie eine schlanke Produktion in Finance and Operations konfigurieren. Ein schlankes Produktions-Szenario ist in der Regel mehr als eine Ansammlung von Kanban-Regeln oder Materialversorgungsrichtlinien, die nichts miteinander zu tun haben. Der Material- und Produktfluss durch Arbeitszellen und Standorte für ein bestimmtes Produktions- oder Versorgungsszenario kann als eine Abfolge oder ein kleines Netzwerk von Prozess- oder Transferaktivitäten, auch als Produktionsfluss bezeichnet, beschrieben werden. Die aktivitätsbasierten Produktionsabläufe werden in Finance and Operations eingeführt, um einen Produktions- und Kostenkontext für verschiedene Kanban-Szenarien zu erstellen. Alle Kanban-Regeln sind direkt mit dieser vordefinierten Struktur verbunden. Mit dem aktivitätsbasierten Modell können Benutzer eine größere Bandbreite von Szenarien einrichten, als dies in früheren Versionen der schlanken Produktion für Finance and Operations möglich war, ohne dass die Mitarbeiter im Fertigungsbereich zusätzliche Komplexität benötigen, da alle Szenarien dieselbe aktivitätsbasierte Benutzeroberfläche verwenden.
+  #### Lektionen
+  - Einführung
+  - Parameter konfigurieren
+  - Wertströme und Produktionsflussmodelle erstellen
+  - Produktionsabläufe erstellen
+  - Übungslabore
+  - Modulübersicht
+
+
+  In diesem Modul lernten die Studenten etwas über&#58;
+  - Parameter konfigurieren
+  - Wertströme konfigurieren
+  - Produktionsabläufe erstellen
+  - Arbeitszellen für schlanke Produktion konfigurieren
+
+
+  ### Modul 3&#58; Erstellen und Verarbeiten von festen Kanban-Regeln
+  In Dynamics 365 für Finance and Operations wird ein Kanban als Rahmenwerk implementiert, um auf Pull-Signalen basierend zu planen zu verfolgen und zu verarbeiten. Ein Kanban ist ein wesentlicher Bestandteil eines Pull-Systems in der Versorgung, das ein kritisches Element der schlanken Produktion/ Versorgung ist. Wenn ein Kanban verbraucht wurde, sollte es an die Bezugsquelle weitergeleitet (ausgelöst) werden, um wieder aufgefüllt zu werden. Diese Bezugsquelle wird durch die Produktionsflussaktivitäten definiert, mit denen das Kanban verknüpft ist. Kanban-Regeln in Finance and Operations sind an Produktionsabläufe gebunden und bilden die Grundlage für die Aktivitäten eines Kanbans. Kanban-Regeln können eingerichtet werden, um eine Vielzahl von Lagerfertigungs- und Bestellfertigungsszenarien zu unterstützen.
+  #### Lektionen
+  - Einführung
+  - Kanbantafeln
+  - Konfigurieren einer festen Kanban-Regel
+  - Feste Kanbans verarbeiten
+  - Übungslabore
+  - Modulübersicht
+
+
+  Die Teilnehmer haben eine Übersicht über Kanbans und Kanbantypen verstanden und gelernt, wie feste Kanban-Regeln konfiguriert und verarbeitet werden.
+
+
+  Die Schüler lernten, wie man diese konfiguriert und damit arbeitet&#58;
+  - Kanbanregeln
+  - Herstellung von Kanbans
+  - Rücknahme von Kanbans
+  - Feste Menge Kanbans
+
+
+  ### Modul 4&#58; Erstellen und Verarbeiten von Event-Kanban-Regeln
+  In diesem Modul diskutieren wir die Event-Kanbans und verschiedene Möglichkeiten, sie auszulösen.
+  #### Lektionen
+  - Einführung
+  - Konfigurieren der Kanban-Regeln für Events
+  - Konfigurieren von Events für Verkauf, Kanban, Bestandsauffüllung und Stücklistenposition
+  - Übungslabore
+  - Modulübersicht
+
+
+  Die Schüler lernten, wie Kanban-Regeln für Ereignisse konfiguriert und verarbeitet werden.
+
+
+  Die Schüler lernten, wie man diese konfiguriert und damit arbeitet&#58;
+  - Kanbanregeln
+  - Herstellung von Kanbans
+  - Rücknahme von Kanbans
+  - Erstellen und Verwalten von Kanban für Vertriebslinienereignisse
+  - Erstellen und Verwalten von Kanbans für Stücklistenevents
+  - Die Studenten verstehen auch Beispielszenarien für Event-Kanbans-Prozesse und verschiedene Event-Kanban-Typen.
+
+
+  ### Modul 5&#58; Erstellen und Verarbeiten von geplanten Kanbanregeln
+  Die Planaufträge vom Typ Kanban werden auf der Grundlage der Kanban-Regel erstellt und folgen der Standardlogik und den Standardhorizonten der Masterplanung. Die Einstellungen zur Deckung von Planungspositionen legen fest, wie die Planaufträge erstellt werden und ob sie automatisch oder manuell fixiert werden. In diesem Modul wird das geplante Kanban in Dynamics 365 für Finance and Operations erläutert.
+  #### Lektionen
+  - Einführung
+  - Konfigurieren geplanter Kanban-Regeln
+  - Kanbanmengenberechnung und Zirkulationskanbans verstehen
+  - Übungslabore
+  - Modulübersicht
+
+
+  Die Schüler lernten, wie man diese konfiguriert und damit arbeitet&#58;
+  - Kanbanregeln
+  - Herstellung von Kanbans
+  - Rücknahme von Kanbans
+  - Erstellen und Verwalten von geplanten Kanban
+  - Lieferplan
+  - Kanbanmengenberechnung
+
+
+  ### Modul  6&#58; Konfigurieren von aktivitätsbasierter Lohnaufstellung und Produktionsflusskalkulation
+  Das Grundprinzip eines Produktionsflusses ändert sich nicht, wenn Aktivitäten über Finance and Operations vergeben werden. Material fließt immer noch zwischen Standorten, Prozessaktivitäten konvertieren Material in Produkte und Transferaktivitäten verschieben Material oder Produkte von einem Standort zu einem anderen. In Dynamics 365 für Finance and Operations gibt es zwei Ansätze für die Vergabe von Unteraufträgen&#58; Fertigungsaufträge und schlanke Produktion. Der erste Ansatz modelliert die Lohnbearbeitungsarbeit als Dienstleistung, die sich auf eine Aktivität eines Produktionsflusses bezieht. Der Kostengruppentyp „Direktes Outsourcing" muss konfiguriert werden, damit die Lohnbearbeitungsdienste nicht Teil einer Stückliste sind. Die Kostenrechnung für Lohnarbeiten ist in Microsoft Dynamics 365 for Finance and Operations vollständig in die neue Fertigungskostenrechnung integriert.
+  #### Lektionen
+  - Einführung
+  - Eine aktivitätsbasierte Vergabe von Unteraufträgen konfiguriert
+  - Verstehen der Produktionsflusskosten
+  - Übungslabore
+  - Modulübersicht
+
+
+  In dieser Lektion lernten die Studenten, wie man&#58;
+  - Eine aktivitätsbasierte Vergabe von Unteraufträgen konfiguriert
+  - Die Produktionsplanung und die Vergabe von Unteraufträgen konfiguriert
+  - Lieferanten als Subunternehmer bestimmt
+  - Die Produktionsflusskalkulation konfiguriert
+
+
+  ### Modul 7&#58; Abschluss des Kurses
+  Abschließende Bewertung und Kurszusammenfassung sowie eine Umfrage nach dem Kurs.
+  #### Lektionen
+  - Abschließende Bewertung
+  - Kurszusammenfassung
+  - Umfrage nach dem Kurs
+
+
+  Die Kursteilnehmer haben den Kurs abgeschlossen.

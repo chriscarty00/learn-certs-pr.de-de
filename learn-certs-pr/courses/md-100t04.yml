@@ -1,0 +1,123 @@
+### YamlMime:Course
+title: Wartung von Windows 10
+metadata:
+  title: 'Kurs MD-100T04-A: Wartung von Windows 10'
+  description: 'Kurs MD-100T04-A: Wartung von Windows 10'
+uid: course.md-100t04
+courseNumber: 'MD-100T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Verwenden von Windows-Tools zur Fehlerbehebung und Überwachung.
+- skill: Fehlerbehebung bei Windows-Installationen.
+- skill: Beheben Sie Probleme bei der Installation der Anwendung.
+- skill: Fehlerbehebung bei den Einstellungen des Webbrowsers.
+- skill: Fehlerbehebung bei der Windows-Authentifizierung.
+- skill: Problembehandlung bei Hardwareproblemen in Verbindung mit Windows-Maschinen.
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-100
+summary: |-
+  In diesem Kurs lernen die Teilnehmer, wie sie Windows 10 verwalten und Fehler beheben können. Dieser Kurs vertieft sich in die Architektur und die Tools zur Verwaltung, Überwachung und Fehlerbehebung des Betriebssystems, der Apps und der Hardware. Die Teilnehmer werden über proaktive und Fehlerbehebungsmethodik lernen und lernen, wie häufige Probleme identifiziert und gemildert werden können.
+
+  #### Zielgruppenprofil
+  Die Prüfung wird von IT-Fachleuten abgelegt, die Installation, Konfiguration, allgemeine lokale Verwaltung und Wartung der Windows 10-Kerndienste durchführen. Die Kandidaten können auch mit Unternehmensszenarien und Cloud-integrierten Diensten vertraut sein.
+prerequisitesSection: |-
+  Die Lernenden sollten diesen Kurs bereits mit den folgenden Fähigkeiten beginnen&#58;
+  - Grundlegendes Verständnis von Computernetzwerken und Hardwarekonzepten.
+  - Grundlegendes Verständnis von OS- und Anwendungskonzepten.
+  - Erfahrung im Umgang mit dem Windows-Betriebssystem.
+outlineSection: |-
+  ### Modul 1&#58; Unterstützung der Windows 10- Umgebung
+  Dieses Modul wird die Windows 10-Architektur und gängige Umgebungen abdecken. Die Teilnehmer werden in die verschiedenen Tools zur Wartung von Windows eingeführt. In diesem Modul werden auch Methoden zur effektiven Problembehandlung und zur proaktiven Verwaltung und Optimierung von Windows 10 besprochen.
+  #### Lektionen
+  - Fehlerbehebung unter Windows
+  - Werkzeuge zur Fehlersuche
+
+
+  #### Labor&#58; Praxislab&#58; Monitoring von Windows 10
+  - Monitoring von Events
+  - Überwachung von Zuverlässigkeit und Leistung
+
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreibung der Windows-Architektur
+  - Beschreibung der wichtigsten Schritte bei der Fehlerbehebung
+  - Beschreibung des Zwecks und der Vorteile der verschiedenen Tools in Windows
+  - Verwenden von Überwachungstools, um eine Leistungsbasis zu erstellen.
+  - Optimieren der Leistung auf Windows 10 Clients
+
+
+  ### Modul 2&#58; Problembehandlung des Windows-Betriebssystems
+  In diesem Modul lernen die Teilnehmer, wie sie Start- und Serviceprobleme im Zusammenhang mit dem Betriebssystem beheben können.  In diesem Modul werden die verschiedenen Start- und Wiederherstellungsoptionen sowie die Fehlerbehebung bei verschiedenen Windows-Diensten vermittelt.
+  #### Lektionen
+  - Problembehandlung beim Windows-Start
+  - Fehlerbehebung bei Betriebssystemproblemen
+  - Fehlerbehebung bei Anmeldungsproblemen
+
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreibung der verschiedenen Methoden zur Identifizierung und Behebung von Startproblemen
+  - Beschreibung, wann die verschiedenen erweiterten Startoptionen verwendet werden sollen
+  - Identifizierung und Deaktivierung eines fehlgeschlagenen Dienstes
+  - Identifizierung und Abschwächung gängiger gesperrter Kontoszenarien
+
+
+  ### Modul 3&#58; Fehlerbehebung Dateien & Anwendungen
+  Dieses Modul hilft den Teilnehmern bei der Planung der Sicherung und Wiederherstellung von Dateien.  Die Teilnehmer lernen, wie man Datensicherungsstrategien plant und konfiguriert und wie man verschiedene Datei- und Systemwiederherstellungsmethoden durchführt.  Dieses Modul umfasst auch allgemeine Methoden zur Fehlerbehebung bei Problemen bei der Anwendungsinstallation, bei Kompatibilitätsproblemen und bei der Lösung von Browserproblemen.
+  #### Lektionen
+  - Dateiwiederherstellung unter Windows 10
+  - Fehlerbehebung in der Anwendung
+
+
+  #### Labor&#58; Fehlerbehebung bei Desktop-Apps
+  - Fehlerbehebung bei AppLocker-Richtlinienanwendungen
+  - Fehlerbehebung bei Problemen mit der Anwendungskompatibilität
+  - Fehlerbehebung bei Problemen mit dem Microsoft Internet Explorer
+  - Fehlerbehebung bei Microsoft Edge-Problemen
+
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreibung der verschiedenen Methoden der Dateiwiederherstellung
+  - Konfigurieren von Windows 10, um die Wiederherstellung einzelner Dateien und Systeme zu unterstützen
+  - Wiederherstellen eines Geräts mit der Funktion Diesen PC zurücksetzen
+  - Probleme mit der Anwendungskompatibilität mit dem Anwendungskompatibilitäts-Toolkit lösen
+  - Fehlerbehebung bei häufigen Browserproblemen
+
+
+  ### Modul 4&#58; Fehlerbehebung bei Hardware und Treibern
+  Dieses Modul führt in die Hardware-Fehlerbehebung ein.  Die Teilnehmer lernen die Treiberverwaltung und die Fehlerbehebung bei Geräten kennen. Die Teilnehmer lernen außerdem Schritte zur Fehlerbehebung bei Systemhardware und externen Peripheriegeräten wie USB-Laufwerken und Druckern, einschließlich Diagnosemethoden und Abhilfemaßnahmen.
+  #### Lektionen
+  - Fehlersuche und -behebung Gerätetreiberausfälle
+  - Übersicht über die Hardware-Fehlerbehebung
+  - Fehlerbehebung bei physischen Ausfällen
+
+
+  #### Labor&#58; Fehlerbehebung bei Gerätetreiberproblemen
+  - Fehlerbehebung eines fehlenden Gerätetreibers
+  - Lösung von Hardware-Problemen
+  - Behebung des Gerätetreiberproblems
+  - Konfigurieren von Gruppenrichtlinieneinstellungen zur Steuerung der Geräteinstallation
+
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Fehlersuche und Behebung von Treiberproblemen
+  - Fehlerbehebung bei Peripheriegeräten
+  - Hardware diagnostizieren und ersetzen
+
+
+  ### Modul 5&#58; Abschluss des Kurses
+  #### Lektionen
+  - Abschlussprüfung
+
+
+  #### Labor&#58; Abgestuftes Lab

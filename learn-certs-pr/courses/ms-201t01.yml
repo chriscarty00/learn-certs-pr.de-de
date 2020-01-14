@@ -1,0 +1,71 @@
+### YamlMime:Course
+title: Definieren einer hybriden Messaging-Strategie (Englisch)
+metadata:
+  title: 'Kurs MS-201T01-A: Definieren einer hybriden Messaging-Strategie (Englisch)'
+  description: 'Kurs MS-201T01-A: Definieren einer hybriden Messaging-Strategie (Englisch)'
+uid: course.ms-201t01
+courseNumber: 'MS-201T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planen von Postfachmigrationen
+- skill: IMAP-Migrationen planen
+- skill: Umstellung und gestufte Migration planen
+- skill: Durchführen erweiterter Migrationen
+- skill: Anforderungen für die Bereitstellung von Exchange-Hybriden verstehen
+- skill: Hybridkonfigurations-Assistent betreiben
+- skill: Bereitstellen und Verwalten eines Edge-Übermittlungs-Servers
+- skill: Konfigurieren einer Hybridbereitstellung mit Hilfe der HCW
+- skill: Implementierung erweiterter Hybridfunktionen
+- skill: Problembehebung bei Hybridbereitstellungen
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-201
+summary: |-
+  Dieser Kurs führt die Teilnehmer in die Welt der Hybrid-Nachrichtenübermittlung ein. Die Teilnehmer lernen, wie eine Hybridumgebung für eine Exchange-Organisation bereitgestellt wird und wie Postfächer zu Exchange Online migriert werden. Sie werden zunächst die verfügbaren Optionen für die Postfachmigration untersuchen und sich dann auf die Planung einer Hybridbereitstellung konzentrieren. Abschließend lernen die Teilnehmer, wie eine Hybridbereitstellung implementiert und Probleme behoben werden können.
+
+  #### Zielgruppenprofil
+  Der Nachrichtenadministrator stellt bereit, konfiguriert, verwaltet und
+  erledigt die Problembehebung bei Empfängern, Berechtigungen, E-Mail-Schutz, E-Mailfluss und öffentliche Ordner in lokalen und Cloud-Unternehmensumgebungen. Zu den Aufgaben gehören die Verwaltung der Nachrichtenreinhaltung, der Infrastruktur zur Nachrichtenübermittlung sowie der Hybridkonfiguration und -migration. Der Nachrichten-Administrator implementiert und verwaltet auch die Notfallwiederherstellung, die hohe Verfügbarkeit und den Kundenzugriff. Um eine sichere Hybridtopologie zu implementieren, die den Geschäftsanforderungen einer modernen Organisation entspricht, muss der Nachrichten-Administrator mit dem Sicherheitsadministrator und Microsoft 365 Enterprise Administrator zusammenarbeiten. Der Messaging-Administrator sollte über gute Kenntnisse in den Bereichen Authentifizierung, Lizenzierung und Integration mit Microsoft 365-Anwendungen verfügen.
+prerequisitesSection: |-
+  - Kompetentes Verständnis von DNS.
+  - Grundlegendes Verständnis von Nachrichtenübermittlung in Exchange Server oder Exchange Online.
+  - Grundlegendes Verständnis der Active Directory- und Domaincontroller-Infrastruktur zusammen mit der Identitätsverwaltung.
+  - Grundlegende fachspezifische Erfahrung mit Microsoft 365-Diensten und Verzeichnissynchronisierung.
+  - Mindestens 5 Jahre allgemeine IT-Erfahrung.
+outlineSection: |-
+  ### Modul 1&#58; Durchführen von Postfachmigrationen
+  #### Lektionen
+  - Planen von Postfachmigrationen
+  - Durchführen von IMAP-Migrationen
+  - Umstellung und gestufte Migrationen durchführen
+  - Durchführen erweiterter Migrationen
+
+
+  ### Modul 2&#58; Planen einer hybriden Umgebung
+  #### Lektionen
+  - Anforderungen für die Bereitstellung von Exchange-Hybriden
+  - Planen der Ausführung des Assistenten für die Hybridkonfiguration
+
+
+  ### Modul 3&#58; Bereitstellen einer hybriden Umgebung und das Beheben von Problemen
+  #### Lektionen
+  - Bereitstellen und Verwalten eines Edge-Übermittlungs-Servers
+  - Konfigurieren einer Hybridbereitstellung mit Hilfe der HCW
+  - Implementierung erweiterter Hybridfunktionen
+  - Problembehebung bei Hybridbereitstellungen
+
+
+  ### Modul 4&#58; Labor- Hybridbereitstellung und -verwaltung
+
+  #### Labor&#58; Hybridbereitstellung und -verwaltung
+  - Übung 1&#58; Eine Postfachmigration zu Microsoft 365 durchführen
+  - Übung 2&#58; Verwalten von hybriden Szenarien

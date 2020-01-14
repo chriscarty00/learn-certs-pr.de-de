@@ -1,0 +1,79 @@
+### YamlMime:Course
+title: Entwickeln von Azure Infrastructure als Service- Rechenlösungen
+metadata:
+  title: 'Kurs AZ-203T01-A: Entwickeln von Azure Infrastruktur als Service- Rechenlösung'
+  description: 'Kurs AZ-203T01-A: Entwickeln von Azure Infrastruktur als Service- Rechenlösung'
+uid: course.az-203t01
+courseNumber: 'AZ-203T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  In diesem Kurs lernen die Teilnehmer die Fähigkeiten und das Wissen, das benötigt ist um Azure IaaS Dienste und Funktionen in ihren Bereitstellungslösungen zu implementieren. Der Kurs deckt die bereitstellung von virtuellen Maschinen mit Batch Service um Resourcen einzurichten/zu erhalten und wie man containerlösungen durch Azure-Kubernetes-Service erstellt.
+
+  #### Zielgruppenprofil
+  - Teilnehmer des Kurses sind an der Azure Entwicklung oder dem Bestehen der Microsoft Azure Entwickler-Mitarbeiter Zertifizierungsprüfungen interessiert.
+prerequisitesSection: |-
+  - Teilnehmer sollten 1-2 Jahre Erfahrung als Entwickler haben Der Kurs geht davon aus, dass die Teilnehmer das Kodieren beherrschen und ein fundamentales Wissen über Azure besitzen.
+  - Es wird empfohlen, dass die Teilnehmer auch Erfahrung mit PowerSehll oder Azure CLI haben, mit der Arbeit in dem Azure Portal und mit mindestens einer Azure gestützten Programmiersprache. Die meisten Prüfungen in diesem Kurs sie in C# NET vorgestellt.
+outlineSection: |-
+  ### Modul 1&#58; Implementieren von Lösungen, die virtuelle Maschinen verwenden
+  Teilnehmer lernen die genaue VM Planung. Die VM Erstellung durch Nutzung vom Azure Portal, PowerShell und durch Kodierung wird abgedeckt. Außerdem wie die Erstellung und Nutzung einer Azure Resource Manager (ARM)-Vorlage für wiederholbare Anwendungen abgedeckt, und wie Azure Disk Encyption genutzt werden kann um Informationen auf VM zu sichern.
+  #### Lektionen
+  - Bereitstellung von VMs
+  - ARM-Vorlagen erstellen
+  - Azure Disk Encryption für VMs konfigurieren
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - lernen, wie man virtuelle Maschinen durch das Azure Portal, PowerShell und Kodierung erstellt.
+  - Lernen, wie ARM durch Nutzung des Azure Portals und Visual Studio erstellt werden kann.
+  - die verschiedenen Verschlüsselungsoptionen verstehen und lernen, wie existierrende und neue Anwendugnen verschlüsselt werden.
+
+
+  ### Modul 2&#58; Implementierung von Stapelverarbeitungsaufträgen mit Hilfe von Azure Batch Services
+  Azure Batch erstellet und verwaltet einen Pool von Rechenknoten (virtuelle Maschine), installiert die Anwendugn die laufen soll und plant die Jobs die auf dem Knoten ausgeführt werden sollen.
+  #### Lektionen
+  - Überblick über Azure Batch
+  - Stapelverarbeitungsaufträge mithilfe von Azure CLI und Azure Portal laufen lassen
+  - Stapelverarbeitungsaufträge mithilfe von Code laufen lassen
+  - Verwaltung von Stapelverarbeitungsaufträgen über die Batch Service API
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - verstehen, wie Azure Batch Service funktioniert
+  - Lernen, wie Stapelverarbeitungsaufträge mithilfe von Azure CLI erstellt und durchgeführt werden
+  - Lernen, wie Stapelverarbeitungsaufträge mithilfe von Code erstellt und durchgeführt werden
+  - Lernen, wie mithilfe von Azure Batch Service API Aufträge verwaltet werden
+
+
+  ### Modul 3&#58; Create containerized solutions
+  Sie können moderne, portable mikroservice-basierte Anwendungen bauen und ausführen, die von der orchestrierung und Verwaltung von Verfügbarkeiten dieser Anwendungskomponenten über Kubernetes profitieren Kubernetes unterstützt sowohl stateless als auf stateful Anwendungen während ie Teams durch die einführung von mikroservice-basierten Anwendungen fortschritt erlangen.
+  #### Lektionen
+  - Erstellen eines Azure Managed Kubernetes Service (AKS) Clusters
+  - Erstellen von Container-Images für Lösungen
+  - Ein Bild in der Azure Container Registry veröffentlichen
+  - Ausführen von Containern unter Verwendung von Azure Container Instance oder AKS
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Kernkonzepte von AKS lernen
+  - Einrichtung von AKS clustern
+  - Ein Bild in der Azure Container Registry veröffentlichen
+  - Azure-Container-Iinstances kennen und wissen wie sie angewendet werden

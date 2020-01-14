@@ -1,0 +1,109 @@
+### YamlMime:Course
+title: Implementieren von DevOps Entwicklungsprozessen
+metadata:
+  title: 'Kurs AZ-400T01-A: Implementieren von DevOps Entwicklungsprozessen'
+  description: 'Kurs AZ-400T01-A: Implementieren von DevOps Entwicklungsprozessen'
+uid: course.az-400t01
+courseNumber: 'AZ-400T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Die Vorteile von der Nutzung einer Lösungskontrolle beschreiben
+- skill: Von TFVC zu Git Migrieren
+- skill: Git für Enterprise DevOps Skalieren
+- skill: Implementierung und Verwaltung von Build-Infrastrukturen
+- skill: Verwaltung von Anwendungskonfiguration und Geheimnissen
+- skill: Implementierung einer mobilen DevOps-Strategie
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Dieser Kurs bietet das Wissen und die benötigten Fähigkeiten um DevOpbs Prozesse zu implementieren. Die Teilnehmer lernen wie man Source Control verwendet, Git für ein Unternehmen Skaliert und Build-Infrastrukturen implementiert und verwaltet.
+
+  #### Zielgruppenprofil
+  Teilnehmer des Kurses interessieren sich für die Implementation von DevOps-Prozessen oder möchten die Microsoft Azure DevOps-Lösungen Zertifizierungsprüfung bestehen.
+prerequisitesSection: |-
+  Fundamentales Wissen über Azure, Version Control, Agile Software Development und KernSoftware Entwicklungsprinzipen. Erfahrung in einer Organisation die Software liefert ist hilfreich.
+outlineSection: |-
+  ### Modul 1&#58; Source Control Anfänge
+  #### Lektionen
+  - Was ist Source Control?
+  - Vorteile von Source Control
+  - Arten von Source Control Systemen
+  - Einführung zu Azure Repos
+  - Migration von Team Foundation Version Control (TFVC) zu Git
+  - Autentifizierung für Ihren Git Repos
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Die Vortiele von der Vwerwendung von Source Control beschreiben
+  - von TFVC zu Git Migrieren
+
+
+  ### Modul 2&#58; git for enterprise DevOps skalieren
+  #### Lektionen
+  - Wie Git Repo strukturiert wird
+  - Gir Branching Workflows
+  - Kollaboration mit Pull Requests
+  - warum über GitHooks Gedanken machen
+  - Interne Open Source pflegen
+  - Git Version
+  - Öffentliche Projekte
+  - Dokumente in Git
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Git für Enterprise DevOps skalieren
+
+
+  ### Modul 3&#58; Build Infrastructure implementieren und Verwalten
+  #### Lektionen
+  - Das Konzept von Pipelines in DevOps
+  - Azure Pipelines
+  - Nutzen von Hosted vs Private Agents bewerten
+  - Agent Pools
+  - Pipelines und Parallelität
+  - Azure-Devops und Open Source Projekte
+  - Azure Pipelines YAML vs Visual Designer
+  - Setup privater Agents
+  - Jenkins mit Azure Pipelines integrieren
+  - Externe Soure Control mit Azure Pipelines integrieren
+  - Analyse und Integration von Docker Multi-Stage Builds.
+
+  Nach Abschluss dieses Moduls können die Teilnehmer &#58;
+  - Implementierung und Verwaltung von Build-Infrastrukturen
+
+
+  ### Modul 4&#58; Managing application config & secrets
+  #### Lektionen
+  - einführung in die Sicherheit
+  - Implementieren eines sicheren und konformen Entwicklungsprozesses
+  - Applikation config Daten überdenken
+  - Management von Secrets, Tokens und Zertifikaten
+  - Implementieren von Tools für Sicherheits- und Compliancemanagement in der Pipeline
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Verwaltung von application config und Geheimnissen
+
+
+  ### Modul 5&#58; Implementierung einer mobilen DevOps-Strategie
+  #### Lektionen
+  - Einführung in Mobile DevOps
+  - Einführung in Visual Studio App Center
+  - Management von Mobilen Target Device Sets und Verteilergruppen
+  - Management von Target UI Test Device Sets
+  - Bereitstellen von Testgerät
+  - Erstellen von öffentlichen und privaten Verteilergruppen erstellen
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Implementierung einer mobilen DevOps-Strategie

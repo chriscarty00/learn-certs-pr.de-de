@@ -1,0 +1,76 @@
+### YamlMime:Course
+title: Microsoft Azure Security Technologies
+metadata:
+  title: 'Kurs AZ-500T00-A: Microsoft Azure Security Technologies'
+  description: 'Kurs AZ-500T00-A: Microsoft Azure Security Technologies'
+uid: course.az-500t00
+courseNumber: 'AZ-500T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Spizielle Datenklassifikationen in Azure beschreiben
+- skill: Azure Datenschutzmechanismen identifizieren
+- skill: Azure Datenverschlüsselungsmethoden implementieren
+- skill: Internetprotokolle schützen und wie man sie in Azure implementiert
+- skill: Beschreiben von Azure Security Diensten und Funktionen
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-policy
+- azure-virtual-network
+- azure-monitor
+- azure-key-vault
+exams:
+- uid: exam.az-500
+summary: |-
+  In diesem Kurs lernen die Studenten die Kenntnisse und
+  Die Fähigkeiten um Sicherheitskontrolle hu implementieren, Sciherheit zu erhalten Und Schwächen zu identifizieren und beheben druch verschiedene sicherheits Tools. Der Kurs deckt Skripting und Automatisierung, Virtualisierung und Cloud
+  N-Tier Architektur ab.
+
+  #### Zielgruppenprofil
+  Die Teilnehmer sollten mindestens ein Jahr praktische Erfahrung in der Sicherung von Azure-Workloads und Erfahrung mit Sicherheitskontrollen für Azure-Workloads haben.
+prerequisitesSection: |-  
+  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/de-de/learn/certifications/azure-administrator)
+outlineSection: |-
+  ### Modul 1&#58; Identität und Zugriff
+  #### Lektionen
+  - Azure Active Directory für Azure workloads und subscriptions konfigurieren
+  - Implementierung von Azure AD Privilegiertes Identitätsmanagement
+  - Sicherheit für eine Azure Subscription konfigurieren
+
+
+  ### Modul 2&#58; Platform Protection
+  #### Lektionen
+  - Verstehen der Cloud-Architektur
+  - Netzwerk bauen
+  - Netzwerk sichern
+  - Implementieren der Host-Sicherheit
+  - Implementieren der Plattform-Sicherheit
+  - Implementieren der Azure-Sicherheit
+
+
+  ### Modul 3&#58; Security Operations
+  #### Lektionen
+  - Konfigurieren von Sicherheitsdiensten
+  - Konfigurieren von Sicherheitsrichtlinien durch Azure Security Center
+  - Verwalten von Sicherheitswarnungen
+  - Auf sicheheitsprobleme reagieren
+  - Sicherheitsgrundlagen erstellen
+
+
+  ### Modul 4&#58; Daten und Anwendungen
+  #### Lektionen
+  - Konfigurieren von Sicherheitsrichtlinien zur Datenverwaltung
+  - Sicherheit für die Dateninfrastruktur konfigurieren
+  - Konfigurieren der Verschlüsselung für Daten im Ruhezustand
+  - Sicherheit der Anwendung verstehen
+  - Sicherheit für die Bereitstellung von Anwendungen implementieren
+  - Anwendungen sichern
+  - Konfigurieren und Verwalten von Azure-Key-Vault

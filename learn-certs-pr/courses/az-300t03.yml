@@ -1,0 +1,79 @@
+### YamlMime:Course
+title: Verstehen von Cloud Architekt-Technologielösungen
+metadata:
+  title: 'Kurs AZ-300T03-A: Verstehen von Cloud Architekt-Technologielösungen'
+  description: 'Kurs AZ-300T03-A: Verstehen von Cloud Architekt-Technologielösungen'
+uid: course.az-300t03
+courseNumber: 'AZ-300T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Design und Verbindungsmuster
+- skill: Hybrid Networking
+- skill: Dauerhaftigkeit der Daten ansprechen
+- skill: Throughput und Struktur von Datenzugriff messen
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  Dieser Kurs unterrichten IT-Experten wie Vorgänge parallel und asynchron durchgeführt werden können. Und, wie ganze Unternehmenssysteme beständig sein müssen, wenn Fehler auftreten und genauso wichtig, wie Bereitstellungen automatisiert und voraussehbar werden. Durch die Nutzung von Azure Application Architecture Guide und Azure Reference Architectures als Grundlage können Sie verstehen, wie wichtig Überwachung und Telemetrie für Einblicke in das System sind. 
+
+  Die Teilnehmer tauchen in die wichtigen Cloud-Design-Muster ein, wie z.B. die Partitionierung von Workloads, bei der eine modulare Anwendung in funktionale Einheiten aufgeteilt wird, die in eine größere Anwendung integriert werden können. In solchen Fällen kümmert sich jedes Modul um einen Ter Der gesamten Funktionalität der Anwendung und repräsentiert ein Set an zusammenhängenden Anliegen. 
+  
+  Load Balancing ist wenn der Anwendungsverkehr, oder „Load“, zwischen verschiedenen Endpunktien durch Algorithmen aufgeteilt wird. Load Balancer ermöglichen, dass multiple Instanzen Ihrer Webseite erstellt werden, so dass diese sich in einer vorhersehbaren Art und Weise verhalten. InAzure ist es möglich, virtuelle Load Balancer einzusetzen, die in virtuellen Maschinen eingefügt sind wenn eine Firma eine sehr bestimmte Load Balancer Konfiguration benötigt.
+
+  Die Bewältigung von vorrübergehenden Fehlern hilft dabei die priären Unterschiede zwischen Anwendungen on-premises um diese Fehler zu beheben. Vorübergehende Fehler sind Fehler, die auf Grund von temporären Unterbrechungen im Service oder durch überschrittene Wartezeit auftreten. 
+
+  Letztlich beinhaltet dieser Kurs eine Diskussion von hybriden Netzwerken die einen Überblick über site-to-site Verbindungen, point-to-site Verbindungen und einer Kombination aus beidem gibt.
+
+  #### Zielgruppenprofil
+  Erfolgreiche Azure Solutions Architects beginnen diese Rolle mit Betriebssystemen, Virtualisierung, Cloud-Infrastruktur, speicherstruktur, billing und Networking.
+outlineSection: |-
+  ### Modul 1&#58; Betriebs und Speicherlösunge auswählen.
+  Dieses Modul beinhaltet die folgenden Themen&#58; Azure Architecture Center, Cloud Design Muster, Konsumentenmuster, Cache-aside Muster, so wie sharding Patterns um einen Datenspeicher horizontal in Shard teilt. Jeder Shard hat das selbe Schema aber enthält einen eigenen Teilsatz der Daten.
+
+  Nach Abschluss dieses Modul verstehen die Teilnehmer&#58;
+  - Design und Verbindungsmuster
+
+
+  ### Modul 2&#58; Hybrid Networking
+  Das Modul beinhaltet die folgenden Theme&#58; site-to-site Konnektivität; point-to-site Konnektivität; Kombination von site-to-site und point-to-site Konnektivität; virtual network–to–virtual network Konnektivität; so wie verbindung zwischen providern für failover, backup, oder sogar die Migration zwischen providern wie AWS.
+  
+  Nach Abschluss dieses Modul verstehen die Teilnehmer&#58;
+  - Hybrid networking
+
+
+  ### Modul 3&#58; Throughput und Struktur von Datenzugriff messen
+  Das Modul beinhaltet die folgenden Themen&#58; DTUs – Azure SQL Database; RUs – Azure Cosmos DB; strukturierte und unstrukturierte Daten; Und verwendung strukturierter Datenbanken
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Dauerhaftigkeit der Daten und caching ansprechen
+  - Throughput und Struktur des Datenzugriffs messen

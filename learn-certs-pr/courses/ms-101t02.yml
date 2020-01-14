@@ -1,0 +1,114 @@
+### YamlMime:Course
+title: Microsoft 365 Compliance Management
+metadata:
+  title: 'Kurs MS-101T02-A: Microsoft 365 Compliance Management'
+  description: 'Kurs MS-101T02-A: Microsoft 365 Compliance Management'
+uid: course.ms-101t02
+courseNumber: 'MS-101T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 'Beschreiben der Datenverwaltung in Microsoft 365: Archivierung, Aufbewahrung, Verwaltung von Informationsrechten, sichere Mehrzweck-Internet-Mail-Erweiterung (S / MIME), Office 365-Nachrichtenverschlüsselung und Prävention vor Datenverlust'
+- skill: In-Place Dokumentenverwaltung in SharePoint
+- skill: Archivierung und Aufbewahrung in Exchange implementieren
+- skill: Erstelle Aufbewahrungsrichtlinien im Sicherheits- and Compliance-Center
+- skill: Planen ihrer Sicherheits- und Compliance-Anforderungen
+- skill: Aufbau ethischer Mauern in Exchange Online
+- skill: Erstellen eine DLP-Richtlinie aus einer integrierten Vorlage
+- skill: Erstellen einer benutzerdefinierten DLP-Richtlinie
+- skill: Erstellen eine DLP-Richtlinie zum Schutz von Dokumenten
+- skill: Hinweise zu Richtlinien implementieren
+- skill: Aufbewahrung in E-Mails verwalten
+- skill: Problembehebung bei Data Governance
+- skill: Implementierung des Informationsschutzes
+- skill: Erweiterten Implementierungsschutz implementieren
+- skill: Verstehen von Windows Information Protection
+- skill: Suchen nach Inhalten im Sicherheits- und Compliance-Center
+- skill: Audit Log-Untersuchungen
+- skill: Verwalten des erweiterten eDiscovery
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  Informieren Sie sich über Microsoft 365 Compliance-Management, einschließlich Lösungen zur Vorratsdatenspeicherung und Verhinderung von Datenverlust in Microsoft 365, Archivierung und Aufbewahrung in Microsoft 365, Implementierung und Verwaltung der Datenverwaltung sowie Verwaltung von Such- und Nachforschungen.
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an Personen, die die Microsoft 365 Enterprise-Administratorrolle anstreben und einen der Microsoft 365-Zertifizierungspfade für rollenbasierte Administratoren abgeschlossen haben.
+prerequisitesSection: |-
+  - Abschluss eines rollenbasierten Administratorkurses wie z.B. Nachrichtenvermittlung, Teamwork, Sicherheit und Compliance oder Zusammenarbeit.
+  - Ein fundiertes Verständnis von DNS und grundlegenden Funktionserfahrungen mit Microsoft 365-Diensten.
+  - Ein fundiertes Verständnis allgemeiner IT-Praktiken.
+outlineSection: |-
+  ### Modul 1&#58; Einführung in Data-Governance in Microsoft 365
+  #### Lektionen
+  - Einführung in die Archivierung in Microsoft 365
+  - Einführung in die Aufbewahrung in Microsoft 365
+  - Einführung in die Verwaltung von Informationsrechten
+  - Einführung in die sichere Mehrzweck-Internet-Mail-Erweiterung
+  - Einführung in die Office 365-Nachrichtenverschlüsselung
+  - Einführung in den Schutz vor Datenverlust
+
+
+  ### Modul 2&#58; Archivierung und Aufbewahrung in Microsoft 365
+  #### Lektionen
+  - In-Place Dokumentenverwaltung in SharePoint
+  - Archivierung und Aufbewahrung im Austausch
+  - Retentionsrichtlinien im SCC
+  - Implementieren Ihrer Domaindienste
+
+
+  ### Modul 3&#58; Implementierung von Data-Governance in Microsoft 365 Intelligence
+  #### Lektionen
+  - Planung Ihrer Sicherheits- und Compliance-Anforderungen
+  - Aufbau ethischer Mauern in Exchange Online
+  - Erstellen einer einfachen DLP-Richtlinie aus einer integrierten Vorlage
+  - Erstellen einer benutzerdefinierten DLP-Richtlinie
+  - Erstellen einer DLP-Richtlinie zum Schutz von Dokumenten
+  - Arbeiten mit Richtlinientipps
+
+
+  ### Modul 4&#58; Verwalten von Data Governance  in Microsoft 365
+  #### Lektionen
+  - Verwalten der Aufbewahrung in E-Mails
+  - Problembehebung bei Data Governance
+  - Implementierung des Informationsschutzes
+  - Implementieren des erweiterten Informationsschutzes
+  - Einführung in den Windows-Informationsschutz
+
+
+  ### Modul 5&#58; Suche und Ermittlungen verwalten
+  #### Lektionen
+  - Suchen nach Inhalten im Sicherheits- und Compliance-Center
+  - Prüfung von Log-Untersuchungen
+  - Verwalten des erweiterten eDiscovery
+
+
+  ### Modul 6&#58; Praktisches Labor
+
+  #### Labor&#58; Einrichten Ihrer Laborumgebung
+  - Übung 1&#58; Initialisieren der Compliance in Ihrer Organisation
+
+
+  #### Labor&#58; Archivierung und Aufbewahrung in Microsoft 365
+  - Übung 1&#58; Konfigurieren von Aufbewahrungstags und Richtlinien
+  - Übung 2&#58; Konfigurieren von AIP und WIP
+
+
+  #### Labor&#58; Implementierung von Data Governance
+  - Übung 1&#58; DLP-Richtlinien testen
+  - Übung 2&#58; Verwenden von Azure Informationsschutz
+  - Übung 3&#58; Verwenden des Windows-Informationsschutzes
+
+
+  #### Labor&#58; Überprüfen Ihrer Data Governance-Richtlinien
+  - Übung 1&#58; Untersuchen Ihrer Microsoft 365-Daten

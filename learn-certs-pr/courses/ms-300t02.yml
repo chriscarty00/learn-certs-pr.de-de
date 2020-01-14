@@ -1,0 +1,99 @@
+### YamlMime:Course
+title: Verwaltung von SharePoint Online
+metadata:
+  title: 'Kurs MS-300T02-A: Verwaltung von SharePoint Online'
+  description: 'Kurs MS-300T02-A: Verwaltung von SharePoint Online'
+uid: course.ms-300t02
+courseNumber: 'MS-300T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Beschreiben, wie Benutzerprofileigenschaften konfiguriert werden
+- skill: Beschreiben, wie Zielgruppen verwaltet werden
+- skill: Beschreiben, wie man mit dem App-Katalog benutzerdefinierte Apps erstellt
+- skill: Begriffsgruppen, Begriffssätzen und Begriffen erstellen und verwalten
+- skill: Den Unterschied zwischen modernen und klassischen Sucherlebnissen beschreiben
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-300
+summary: |-
+  In diesem Kurs lernen Sie, wie Sie Benutzerprofile und Apps mit den richtigen Berechtigungseinstellungen verwalten. Außerdem wird erläutert, wie verwaltete Metadaten, Geschäfts-Konnectivitätsdienstes und Suchvorgänge geplant und konfiguriert werden, damit Inhalte in Office 365 gefunden, verwendet und verwaltet werden können.
+
+  Dieser Kurs richtet sich an IT-Experten, die die Teamwork-Infrastruktur in ihrer Organisation bereitstellen und verwalten.
+
+  Dies ist der zweite von vier Kursen für den Teamwork-Administrator. Diese Kurse helfen bei der Vorbereitung auf die Prüfung MS-300&#58; Bereitstellen von Microsoft 365 Teamwork.
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an Microsoft 365-Teamwork-Administratoren. Die Rolle ist für das Konfigurieren, Bereitstellen und Verwalten von Office 365- und Azure-Arbeitspensum verantwortlich, bei denen eine effiziente und effektive Zusammenarbeit und Übernahme im Vordergrund steht. Sie verwalten Apps, Dienste und die unterstützende Infrastruktur zur Erfüllung der Geschäftsanforderungen. Der Administrator ist sich der Produkte und Dienstleistungen bewusst und kann sie unterscheiden, verwaltet jedoch möglicherweise nicht jedes Produkt oder jede Dienstleistung direkt.
+
+  Der Teamwork Administrator sollte in der Lage sein, SharePoint (online, vor Ort und hybrid), OneDrive und Teams bereitzustellen, zu verwalten, migrieren und sichern. 
+  
+  Der Teamwork-Administrator verfügt über grundlegende Kenntnisse zu Integrationspunkten mit den folgenden Apps und Diensten&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planer und Projekt. Der Administrator kann Drittanbieter-Apps und Dienste inklusive Line-of-Business Apps einbinden.
+prerequisitesSection: |-
+  Die Lernenden sollten diesen Kurs bereits mit den folgenden Fähigkeiten beginnen&#58;
+  - Erfahrung mit Windows PowerShell
+  - Grundlegendes Verständnis von Active Directory und Azure AD
+  - Grundlegendes Verständnis der Verwaltung mobiler Geräte und alternativer Betriebssysteme (Android und macOS)
+outlineSection: |-
+  ### Modul 1&#58; Benutzerprofile und Apps verwalten
+  In diesem Modul werden Benutzerprofile und Anpassungen in SharePoint Online behandelt. Es wird erläutert, wie Benutzerprofile in SharePoint Online verwaltet werden. Außerdem wird beschrieben, wie Sie mit Hilfe des App-Katalogs benutzerdefinierte Geschäftsanwendungen für SharePoint Online verfügbar machen.
+
+  #### Lektionen
+  - Benutzerprofile verwalten
+  - Planen und Konfigurieren von individuellen Einstellungen und Apps
+
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreiben, wie Benutzerprofileigenschaften konfiguriert werden
+  - Beschreiben, wie Zielgruppen verwaltet werden
+  - Beschreiben, wie man mit dem App-Katalog benutzerdefinierte Apps erstellt
+
+
+  ### Modul 2&#58; Planen und Konfigurieren von verwalteten Metadaten und Geschäftsverbindungen
+  In diesem Modul geht es um die verwalteten Metadata und Geschaftskonnetivitätsdienste. Es werden die Konzepte verwalteter Metadaten sowie der Vorgang zum Importieren von Ausdruckssätzen vorgestellt. Außerdem wird beschrieben, wie man Geschaftskonnetivitätsdienste verwalten und externe Listen erstellen kann.
+
+
+  #### Lektionen
+  - Planen und konfigurieren verwalteter Metadaten
+  - Planen und Konfigurieren von Unternehmenskonnektivitätsdiensten (BCS) und Secure Store
+
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Die Funktionen des verwalteten Metadatadienstes beschreiben
+  - Begriffsgruppen, Begriffssätzen und Begriffen erstellen und verwalten
+  - Die wichtigsten Komponenten eines BDC-Modells erläutern
+  - Die allgemeine Architektur von BCS beschreiben
+  - Den Zweck des Secure Store-Dienstes erläutern
+
+
+  ### Modul 3&#58; Suche planen und konfigurieren
+  In diesem Modul geht es um die Anwendung des Suchdienstes für das Unternehmen. Es enthält Details zum Planen und Konfigurieren von Inhaltsquellen, Durchforstungszeitplänen und Durchforstungsregeln. Außerdem wird erläutert, wie Sie die Suchverwaltung für eine Reihe von Suchkomponenten wie Abfrageregeln, Ergebnistypen und Anzeigevorlagen bereitstellen.
+
+  #### Lektionen
+  - Übersicht über die Suche in SharePoint Online
+  - Suche verwalten
+
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Den Unterschied zwischen modernen und klassischen Sucherlebnissen beschreiben
+  - Beschreiben, wie Inhaltsquellen geplant und konfiguriert werden
+  - Beschreiben, wie das Suchschema verwaltet wird
+  - Die Verwendung und Bereitstellung von Abfrageregeln erläutern
+  - Die Verwendung und Bereitstellung der Ergebnisquelle erläutern
+
+
+  ### Modul 4&#58; Abschluss des Kurses
+
+  #### Labor&#58; Begriffssätze importieren

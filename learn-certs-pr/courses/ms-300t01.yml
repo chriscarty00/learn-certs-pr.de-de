@@ -1,0 +1,101 @@
+### YamlMime:Course
+title: Managing Office 365 Content Services
+metadata:
+  title: 'Kurs MS-300T01-A: Managing Office 365 Content Services'
+  description: 'Kurs MS-300T01-A: Managing Office 365 Content Services'
+uid: course.ms-300t01
+courseNumber: 'MS-300T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Konfigurieren von SharePoint-Websitesammlungen
+- skill: Verwalten von Speicherbeschränkungen für Websitesammlungen
+- skill: OneDrive für Business sync client bereitstellen
+- skill: Gruppenrichtlinien verwenden, um die Einstellungen des OneDrive-sync client zu steuern
+- skill: Externe Freigabe von Daten in SharePoint Online und OneDrive for Business verwalten
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-300
+summary: |-
+  Inhalt ist das wichtigste digitale Asset für jedes Unternehmen. In diesem Kurs lernen Sie, wie Sie SharePoint Site Collection und OneDrive for Business planen, konfigurieren und verwalten, um moderne Inhaltsdienste zu ermöglichen, die den Inhaltslebenszyklus transformieren. In diesem Kurs wird insbesondere die moderne SharePoint-Websitestruktur erläutert, z. B. SharePoint-Hubwebsites. Es enthält bewährte Praktiken für die Einführung und Bereitstellung von OneDrive for Business in Ihrem Unternehmen. Darüber hinaus werden Freigabe, Sicherheit und Überwachung in SharePoint Online und OneDrive for Business behandelt.
+
+  Dieser Kurs richtet sich an IT-Experten, die die Teamwork-Infrastruktur in ihrer Organisation bereitstellen und verwalten. 
+
+  Dies ist der erste von vier Kursen für den Teamwork-Administrator. Diese Kurse helfen bei der Vorbereitung auf die Prüfung MS-300&#58; Bereitstellen von Microsoft 365 Teamwork.
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an Microsoft 365-Teamwork-Administratoren. Die Rolle ist für das Konfigurieren, Bereitstellen und Verwalten von Office 365- und Azure-Arbeitspensum verantwortlich, bei denen eine effiziente und effektive Zusammenarbeit und Übernahme im Vordergrund steht. Sie verwalten Apps, Dienste und die unterstützende Infrastruktur zur Erfüllung der Geschäftsanforderungen. Der Administrator ist sich der Produkte und Dienstleistungen bewusst und kann sie unterscheiden, verwaltet jedoch möglicherweise nicht jedes Produkt oder jede Dienstleistung direkt.
+
+  Der Teamwork Administrator sollte in der Lage sein, SharePoint (online, vor Ort und hybrid), OneDrive und Teams bereitzustellen, zu verwalten, migrieren und sichern.
+
+  Der Teamwork-Administrator verfügt über grundlegende Kenntnisse zu Integrationspunkten mit den folgenden Apps und Diensten&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planer und Projekt. Der Administrator kann Drittanbieter-Apps und Dienste inklusive Line-of-Business Apps einbinden.
+prerequisitesSection: |-
+  Die Lernenden sollten diesen Kurs bereits mit den folgenden Fähigkeiten beginnen&#58;
+  - Erfahrung mit Windows PowerShell
+  - Grundlegendes Verständnis von Active Directory und Azure AD
+  - Grundlegendes Verständnis der Verwaltung mobiler Geräte und alternativer Betriebssysteme (Android und macOS)
+outlineSection: |-
+  ### Modul 1&#58; Planen und Konfigurieren der SharePoint-Websitesammlung
+  In diesem Modul geht es um das Planen, Konfigurieren und Verwalten von SharePoint-Websitesammlungen. Es wird erläutert, wie SharePoint-Administratoren mit Hilfe des administrativen Centers von SharePoint den Lebenszyklus von Websitesammlungen in Ihrer Organisation verwalten.
+  #### Lektionen
+  - SharePoint Online-Übersicht
+  - Konfigurieren der Websitesammlung
+  - Verwalten der Websitesammlung
+
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Websitesammlungskonzepte erläutern
+  - Websitesammlungen erstellen
+  - Verwalten von Speicherbeschränkungen für Websitesammlungen
+  - Erstellen und Konfigurieren von SharePoint-Hubs
+  - Beschreiben der Verwendung des administrativen Centers von SharePoint zum Verwalten von Websitesammlungen
+
+
+  ### Modul 2&#58; Konfigurieren und Verwalten von OneDrive for Business
+  In diesem Modul wird erläutert, wie Sie die Bereitstellung von OneDrive for Business planen. Es werden verschiedene Ansätze für die Bereitstellung von OneDrive for Business anhand verschiedener Szenarien erläutert. Außerdem werden die Funktionen zum Verwalten von Inhalten in OneDrive for Business vorgestellt.
+
+  #### Lektionen
+  - OneDrive für den Geschäftsüberblick
+  - Bereitstellen von OneDrive for Business
+  - OneDrive for Business verwalten
+
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Die Speichergrenzen der Benutzer verwalten
+  - Datenaufbewahrung in OneDrive for Business konfigurieren
+  - Gruppenrichtlinien verwenden, um die Einstellungen des OneDrive-sync client zu steuern
+  - Beschreiben der verschiedenen Methoden zum Bereitstellen von OneDrive for Business
+  - Beschreiben der Verwendung des administrativen Centers von OneDrive zum Verwalten von OneDrive for Business
+
+
+  ### Modul 3&#58; Freigabe, Sicherheit und Überwachung in SharePoint und OneDrive
+  Dieses Modul konzentriert sich auf die Freigabe, Sicherheit und Überwachung in SharePoint und OneDrive.  Insbesondere werden Planung und Verwaltung der externen Freigabe sowie Zugriffssteuerung in SharePoint und OneDrive erläutert.  Außerdem wird erläutert, wie Sie mit dem administrativen Center von Office 365 die Aktivitäten in SharePoint Online und OneDrive for Business überwachen.
+
+
+  #### Lektionen
+  - Verwalten der Freigabe in SharePoint und OneDrive
+  - Verwalten der Sicherheit in SharePoint und OneDrive
+  - Überwachen von SharePoint und OneDrive
+
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Die externe Freigabe in SharePoint Online und OneDrive for Business beschreiben
+  - Optionen zum Verwalten des Gerätezugriffs auf SharePoint Online und OneDrive for Business beschreiben
+  - Zeigen Sie Office 365-Berichte an, die SharePoint Online und OneDrive für die geschäftliche Nutzung messen
+
+
+  ### Modul 4&#58; Abschluss des Kurses
+
+  #### Labor&#58; Erstellen und Konfigurieren von Websitesammlungen

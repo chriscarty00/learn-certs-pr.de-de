@@ -1,0 +1,129 @@
+### YamlMime:Course
+title: Datenmigration und Vorbereitung auf den Produktivstart mit Dynamics 365 für Finanzen und Betrieb
+metadata:
+  title: 'Kurs MB-300T03-A: Datenmigration und Vorbereitung auf den Produktivstart mit Dynamics 365 für Finanzen und Betrieb'
+  description: 'Kurs MB-300T03-A: Datenmigration und Vorbereitung auf den Produktivstart mit Dynamics 365 für Finanzen und Betrieb'
+uid: course.mb-300t03
+courseNumber: 'MB-300T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+summary: |-
+  Unternehmen verwenden Dynamics 365 for Finance and Operations, um Betriebskosten zu senken und schnell auf sich ändernde Geschäftsanforderungen reagieren zu können. Mit dieser Lösung können Unternehmen diese Ziele erreichen.
+
+  In diesem Kurs werden die Datenmigration und die Inbetriebnahme von Microsoft Dynamics 365 for Finance and Operations erläutert.
+
+  #### Zielgruppenprofil
+  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von Bedürfnissen, sowie Lösungen und Anwendungen zu konfigurieren. Der Modulbetreuer implementiert eine Lösung mit Hilfe von gebrauchsfertigen Funktionen, codefreier Erweiterungsmöglichkeit sowie Anwendungs- und Service-Integrationen.
+prerequisitesSection: |-
+  Grundlegendes Verständnis von ERP- und CRM-Konzepten.
+outlineSection: |-
+  ### Modul 1&#58; Daten für die Migration vorbereiten und dann Daten migrieren
+  Diese Einheit untersucht Integrationsmuster, -szenarien und -lösungen für Finance and Operations. Obwohl diese Einheit keine technischen Details zur Verwendung oder Einrichtung eines jeglichen Integrationsmusters oder zur Arbeit mit einem Beispielcode enthält, ist es immer ratsam, die verfügbaren Integrationstools zu kennen.
+  #### Lektionen
+  - Einführung
+  - BYOD-Funktion verstehen
+  - Eine Testmigration durchführen und den Ausgang validieren
+  - Modulübersicht
+  
+
+  Wenn es Zeit für Datenmigration ist, ist es umso einfacher, die Komplexität des Betriebs zu kontrollieren und die Kosten zu senken, je mehr man davon weiß. Die Kontinuität des Geschäfts des Kunden muss Vorrang haben. In diesem Modul lernen die Teilnehmer, wie man Daten für eine erfolgreiche Migration vorbereitet, indem man wichtige Faktoren wie vorhandene Systeme, sowie statische und allgemeine Daten identifiziert.
+  
+  
+  In diesem Modul lernen die Studenten, wie man&#58
+  - Eine Datenintegrationsstrategie (Import / Export) auswählt
+  - Identifizieren gängiger Migrationsszenarien und -tools in Finance and Operations
+  - Verstehen der Funktion „Einbringen der eigenen Datenbank (BYOD)"
+  - Identifizieren relevanter (vorhandener) Systeme
+  - Identifizieren und importieren statischer Daten, die branchenweit verbreitet sind
+  - Erstellen und überprüfen von Testplänen für die Datenmigration
+  - Identifizieren und extrahieren von Quelldaten
+  - Identifizieren relevanter Datenentitäten und -elemente
+  - Feldzuordnung zwischen Quell- und Zieldatenstrukturen generieren
+  - Eine Testmigration durchführen und den Ausgang validieren
+  - Unterstützung des Übergangs zwischen vorhandenen und migrierten Systemen
+
+
+  ### Modul 2&#58; Datenverwaltung verwenden
+  In diesem Modul erhalten die Studenten einen Überblick über die Grundkonzepte der Datenverwaltungsplattform. Die Teilnehmer lernen außerdem, wie sie Daten in Dynamics 365 for Finance and Operations mit Hilfe des Datenverwaltungsarbeitsbereichs im- und exportieren.
+
+  Schließlich lernen sie die asynchronen Integrationsfunktionen der Datenverwaltungsplattform kennen. Das Rahmenwerk zur Datenverwaltung kann zum Verwalten von Datenentitäten und Datenentitätspaketen in Finance and Operations verwendet werden.
+  #### Lektionen
+  - Einführung
+  - Datenverwaltung und -integration verstehen
+  - Datenverwaltungsarbeitsbereich
+  - Vorlagen in der Datenverwaltung
+  - Daten importieren, exportieren und in eine juristische Einheit kopieren
+  - Übungslabore
+  - Modulübersicht
+  
+
+  In diesem Modul lernen die Studenten, wie man&#58
+  - Das richtige Muster für ein bestimmtes Szenario identifizieren, um die Datenverwaltungsplattform für die Integration mit Hilfe von Datenentitäten zu verwenden zu können
+  - Arbeiten mit dem Arbeitsbereich Datenverwaltung
+  - Daten aus einer juristischen Einheit kopieren
+  - Daten in eine juristische Einheit kopieren
+  - Mit Datenimport- und -Exportaufträgen arbeiten
+  - Bereinigen der Aufbereitungstabellen
+
+
+  ### Modul 3&#58; Durchführen eines Benutzerakzeptanztests
+  Um die Kundenlösung vor Inbetriebnahme zu testen und zu evaluieren, muss eine Umgebung von Dynamics 365 for Finance and Operations vorhanden sein, die alle Konfigurationen und möglichen Anpassungen über Erweiterungen enthält.
+
+  Es ist immer von Vorteil, über eine Methodik zu verfügen, die sicherstellt, dass Erstellung und Testen für kurze, effiziente und rollenorientierte Testfallszenarien ordnungsgemäß organisiert und geplant sind.
+  #### Lektionen
+  - Einführung
+  - Erstellen und Ausführen von Testfällen für die Benutzerakzeptanz
+  - Übungslabor
+  - Modulübersicht
+  
+
+  In diesem Modul lernten die Schüler&#58;
+  - Wie man die Korrelation zwischen Testfällen und Geschäftsanforderungen versteht
+  - Bewährte Taktiken für die Aufzeichnung von Testfällen
+  Task-Rekorder
+  - Wie man eine BPM-Bibliothek für Szenarienakzeptanztests erteilt
+  - Wie man ihren Testplan in Azure DevOps synchronisiert und konfiguriert
+  - Ausführen von Tests
+
+
+  ### Modul 4&#58; Vorbereitung auf die Inbetriebnahme
+  Die harte Arbeit wird zum Erfolg, wenn die in Dynamics 365 for Finance and Operations implementierte Lösung in die Produktionsumgebung verschoben wird. Dies ist eine entscheidende und letzte Phase dieser aufregenden Erfahrung zum Abschluss einer Umsetzung.
+
+  Das Ziel ist ein zufriedener Kunde, eine Qualitätslösung und ein beruhigendes Gefühl in dieser wichtigen Phase der Inbetriebnahme, die auch als „Go-Live" bezeichnet wird. Man kann den Erfolg nicht garantieren, ohne zu wissen, wie man sich auf die Inbetriebnahme von Finance and Operations und die letzte Phase der Umsetzung vorbereitet.
+
+  #### Lektionen
+  - Einführung
+  - Machen Sie sich bereit zur Inbetriebnahme
+  - Modulübersicht
+  
+
+  In diesem Modul lernen die Studenten, wie man&#58;
+  - Sich auf die Inbetriebnahme vorbereitet
+  - Die Lifecycle Services (LCS) -Methode
+  - Einen Benutzerakzeptanztest (User Acceptance Testing, UAT) für Ihre Lösung durchführt
+  - Die Go-Live-Bewertung von FastTrack versteht
+  - Die Produktionsumgebung abruft
+
+
+  ### Modul 5&#58; Abschluss des Kurses
+  Abschließende Bewertung und Kurszusammenfassung sowie eine Umfrage nach dem Kurs.
+  #### Lektionen
+  - Abschließende Bewertung
+  - Kurszusammenfassung
+  - Umfrage nach dem Kurs
+  
+
+  Die Kursteilnehmer haben den Kurs abgeschlossen.

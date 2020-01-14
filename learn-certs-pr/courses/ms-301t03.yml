@@ -1,0 +1,97 @@
+### YamlMime:Course
+title: Implementieren von SharePoint-Hybridszenarien
+metadata:
+  title: 'Kurs MS-301T03-A: Implementieren von SharePoint-Hybridszenarien'
+  description: 'Kurs MS-301T03-A: Implementieren von SharePoint-Hybridszenarien'
+uid: course.ms-301t03
+courseNumber: 'MS-301T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Verfügbare SharePoint-Hybridszenarien beschreiben.
+- skill: Anforderungen für die SharePoint-Hybridkonfiguration beschreiben.
+- skill: Für den SharePoint Server-Hybrid planen.
+- skill: SharePoint-Hybridszenarien konfigurieren.
+- skill: Lokale Daten-Gateways konfigurieren.
+- skill: Den Unterschied zwischen Cloud Hybridsuche und hybridverbundener Suche beschreiben.
+- skill: Verschiedene Arten der Hybridsuche bewerten.
+- skill: Die Cloud-Hybridsuche konfigurieren.
+- skill: Hybride Suchergebnisse konfigurieren.
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-301
+summary: |-
+  Das Geschäftsklima hat sich verändert. Menschen wollen ohne kollaborative Barrieren kommunizieren. Unternehmen wünschen sich kostengünstige und flexible Lösungen. In einer hybriden Umgebung können Unternehmensbenutzer von nahezu jedem Ort aus auf die von ihnen benötigten Ressourcen und Inhalte zugreifen. In diesem Kurs lernen Sie, wie Sie SharePoint-Hybridszenarien planen und implementieren, die eine nahtlose Benutzererfahrung ermöglichen. Wir werden auch die SharePoint-Hybridsuche näher erläutern, mit der Benutzer einfach auf die benötigten Dateien zugreifen können.
+  
+  Dieser Kurs richtet sich an IT-Experten, die die Teamwork-Infrastruktur in ihrer Organisation bereitstellen und verwalten.
+  
+  Dies ist der dritte von vier Kursen für den Teamwork-Administrator. Diese Kurse helfen bei der Vorbereitung auf die Prüfung MS-301&#58; Bereitstellen des SharePoint Server Hybrid.
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an Microsoft 365-Teamwork-Administratoren. Die Rolle ist für das Konfigurieren, Bereitstellen und Verwalten von Office 365- und Azure-Arbeitspensum verantwortlich, bei denen eine effiziente und effektive Zusammenarbeit und Übernahme im Vordergrund steht. Sie verwalten Apps, Dienste und die unterstützende Infrastruktur zur Erfüllung der Geschäftsanforderungen. Der Administrator ist sich der Produkte und Dienstleistungen bewusst und kann sie unterscheiden, verwaltet jedoch möglicherweise nicht jedes Produkt oder jede Dienstleistung direkt.
+  
+  Der Teamwork Administrator sollte in der Lage sein, SharePoint (online, vor Ort und hybrid), OneDrive und Teams bereitzustellen, zu verwalten, migrieren und sichern.
+  
+  Der Teamwork-Administrator verfügt über grundlegende Kenntnisse zu Integrationspunkten mit den folgenden Apps und Diensten&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planer und Projekt. Der Administrator kann Drittanbieter-Apps und Dienste inklusive Line-of-Business Apps einbinden.
+prerequisitesSection: |-
+  Die Lernenden sollten diesen Kurs bereits mit den folgenden Fähigkeiten beginnen&#58;
+  - Erfahrung mit Windows PowerShell.
+  - Grundlegendes Verständnis der SQL Server-Verwaltung.
+  - Grundlegendes Verständnis von Netzwerken, einschließlich DNS.
+  - Grundkenntnisse der Windows Server-Administration.
+  - Grundlegendes Verständnis von Active Directory und Azure AD.
+  - Grundlegendes Verständnis der Verwaltung mobiler Geräte und alternativer Betriebssysteme (Android und macOS).
+outlineSection: |-
+  ### Modul 1&#58; Übersicht über SharePoint-Hybridszenarien
+  In diesem Modul dreht sich alles um die Planung von SharePoint Server-Hybriden. Es bietet einen Überblick über SharePoint-Hybridszenarien sowie die Anforderungen für die Konfiguration.
+
+  #### Lektionen
+  - Übersicht über SharePoint-Hybridszenarien
+  - SharePoint Server-Hybrid planen
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Verfügbare SharePoint-Hybridszenarien beschreiben.
+  - Anforderungen für die SharePoint-Hybridkonfiguration beschreiben.
+  - Für den SharePoint Server-Hybrid planen.
+
+
+  ### Modul 2&#58; Implementieren von SharePoint-Hybridszenarien
+  Dieses Modul konzentriert sich auf die Implementierung von SharePoint-Hybridszenarien. Insbesondere werden die Roadmaps für die Hybridkonfiguration erläutert, einschließlich der Konfiguration von Hybrid-Infrastruktur und Hybrid-Picker. Außerdem wird das lokale Datengateway eingeführt, um die Verwendung von Office 365-Funktionen im SharePoint Server 2019 zu ermöglichen.
+
+  #### Lektionen
+  - Implementieren von SharePoint-Hybridszenarien
+  - Konfiguriere eines lokales Daten-Gateways
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - SharePoint-Hybridszenarien konfigurieren.
+  - Lokale Daten-Gateways konfigurieren.
+
+
+  ### Modul 3&#58; Implementieren der SharePoint-Hybridsuche
+  Dieses Modul konzentriert sich auf die SharePoint-Hybridsuche. Es werden verschiedene Arten der Hybridsuche eingeführt, darunter die Cloud-Hybridsuche und die Hybridsuche mit zusammengeschlossenen Datenbanken. Es wird erläutert, wie die Hybridsuche eingerichtet und die Suchergebnisse konfiguriert werden.
+  #### Lektionen
+  - Übersicht über die SharePoint-Hybridsuche
+  - Konfigurieren der SharePoint-Hybridsuche
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Den Unterschied zwischen Cloud Hybridsuche und hybridverbundener Suche beschreiben.
+  - Verschiedene Arten der Hybridsuche bewerten.
+  - Die Cloud-Hybridsuche konfigurieren.
+  - Hybride Suchergebnisse konfigurieren.
+
+
+  ### Modul 4&#58; Abschluss des Kurses
+
+  #### Labor&#58; Das SharePoint Hybrid konfigurieren

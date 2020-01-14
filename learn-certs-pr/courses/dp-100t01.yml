@@ -1,0 +1,58 @@
+### YamlMime:Course
+title: Planen und Implementieren einer Data Scientist Lösung unter Azure
+metadata:
+  title: 'Kurs DP-100T01-A: Entwerfen und Implementieren einer Data Scientist Lösung unter Azure'
+  description: 'Kurs DP-100T01-A: Entwerfen und Implementieren einer Data Scientist Lösung unter Azure'
+uid: course.dp-100t01
+courseNumber: 'DP-100T01-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-scientist
+products:
+- azure
+- azure-data-science-vm
+exams:
+- uid: exam.dp-100
+summary: |-
+  Erhalten Sie wichtige Kenntnisse über die Verwendung von Azure Services um Machine Learning Lösungen zu entwickeln, trainieren und bereitzustellen. Der Kurs beginnt mit einem Überblcik über Azure Dienste die Data Science unterstützen. Von hier an konzentriert er sich auf Azure‘s ersten Data Science Service, Azure-machine-learning-service, um Data Science Pipelines zu automatisieren. Der Kurs konzentriert sich auf Azure und lehrt die Teilnehmer nicht, wie Data Science erledigt wird. Es wird davon ausgegangen, dass die Studenten das wissen.
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an Datenwissenschaftler und Personen mit erheblicher Verantwortung für die Ausbildung und den Einsatz von Machine Learning.
+prerequisitesSection: |-
+  Vor Teilnahme an disesem Kurs benötigen die Teilnehmer&#58;
+  - Earned [Azure Fundamentals certification](https://docs.microsoft.com/de-de/learn/certifications/azure-fundamentals).
+  - Verständnis von Data Science, Vorbereitung von Daten, trainingsmodellen und der Evaluation von verschiedenen Modellen um das besten auszuwählen.
+  - Wie mit der Python Programmiersprache programmiert wird und die Python Bibliotheken genutzt werden&#58; pandas, scikit-learn, matplotlib, und seaborn.
+outlineSection: |-
+  ### Modul 1&#58; Data Science in Azure
+  Der Teilnehmer lernt etwas über die Data Science Prozesse und die Rolle des Datenwissenschaftler.  Dies wird dann darauf angewendet, die Azure Services, die Data Science Prozesse unterstützen und ergänzen, zu verstehen
+  #### Lektionen
+  - Einführung in den Data Science Prozess
+  - Überblick über Azure Data Science Optionen
+  - Einführung in Azure-notebooks
+
+
+  ### Modul 2&#58; Data Science mit Azure Machine Learning service
+  Der Teilnehmer lernt, wie man den Azure Machine Learning Service (AML) nutzt, um den datenwissenschaftlichen Prozess von Anfang bis Ende zu automatisieren.
+  #### Lektionen
+  - Einführung von AML Service
+  - ML Modelle mit AML Service registrieren und bereitstellen
+
+
+  ### Modul 3&#58; Machine Learning mit AML service automatisieren
+  In diesem Modul lernt der Teilnehmer die Machine Learning pipeline kennen und wie die AML-Dienste AutoML und HyperDrive einige der mühsamen Teile davon automatisieren können.
+  #### Lektionen
+  - Machine Learning Model Selection automatisieren
+  - Hyperparameter Tuning mit HyperDrive automatisieren
+
+
+  ### Modul 4&#58; Machine Learning Models mit dem AML service verwalten und überwachen
+  In diesem Modul lernt der Teilnehmer wie Machine Learning Modelle im AML Service automatisch verwaltet und Überwacht werden.
+  #### Lektionen
+  - Machine Learning Models verwalten und überwachen

@@ -1,0 +1,314 @@
+### YamlMime:Course
+title: Windows 10
+metadata:
+  title: 'Kurs MD-100T00-A: Windows 10'
+  description: 'Kurs MD-100T00-A: Windows 10'
+uid: course.md-100t00
+courseNumber: 'MD-100T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Installieren und Anpassen von Windows 10
+- skill: Konfigurieren von Updates für Windows.
+- skill: Konfigurieren von Geräten und Treibern für Windows.
+- skill: Konfigurieren des Speichers für Windows.
+- skill: Konfigurieren von Netzwerk- und Fernverwaltungseinstellungen in Windows.
+- skill: Konfigurieren und Verwalten von Browsern und Anwendungen in Windows.
+- skill: Konfigurieren des Kontozugriffs und der Authentifizierung.
+- skill: Konfigurieren von Datei- und Ordnerberechtigungen.
+- skill: Beschreiben Sie Methoden zur Sicherung von Windows 10, gängige Bedrohungen und Methoden zur Abschwächung dieser Bedrohungen.
+- skill: Fehlerbehebung bei Windows- und Anwendungsinstallationen.
+- skill: Fehlerbehebung bei Hardware- und Treiberproblemen.
+- skill: Beheben Sie Dateiprobleme und führen Sie Wiederherstellungen durch.
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-100
+summary: |-
+  In diesem Kurs lernen die Teilnehmer, wie sie Windows 10-Desktops in einer Organisationsumgebung unterstützen und konfigurieren können. Die Teilnehmer werden Fähigkeiten entwickeln, die das Installieren, Anpassen und Aktualisieren von Windows 10-Betriebssystemen beinhalten. Die Teilnehmer lernen, wie sie Speicher, Dateien und Geräte verwalten und die Netzwerkkonnektivität für Windows 10 konfigurieren können. Die Teilnehmer lernen auch, wie sie das Windows 10 Betriebssystem sichern und die Daten auf dem Gerät schützen können. Schließlich werden die Teilnehmer lernen, wie sie Windows 10 verwalten und Fehler beheben können.
+
+  #### Zielgruppenprofil
+  Die Prüfung wird von IT-Fachleuten abgelegt, die Installation, Konfiguration, allgemeine lokale Verwaltung und Wartung der Windows 10-Kerndienste durchführen. Die Kandidaten können auch mit Unternehmensszenarien und Cloud-integrierten Diensten vertraut sein.
+prerequisitesSection: |-
+  - Grundlegendes Verständnis von Computernetzwerken und Hardwarekonzepten.
+  - Grundlegendes Verständnis von OS- und Anwendungskonzepten.
+  - Erfahrung im Umgang mit dem Windows-Betriebssystem.
+outlineSection: |-
+  ### Modul 1&#58; Installation von Windows
+  Dieses Modul deckt die Installation von Windows 10 OS ab.  Die Teilnehmer lernen die verschiedenen Editionen von Windows 10, die Anforderungen und die neu eingeführten Features kennen. Dieses Modul behandelt sowohl die Installation des Betriebssystems als auch Methoden für Migrationen und Upgrades. Die Teilnehmer lernen auch die gängigen Tools kennen, die im Bereitstellungsprozess verwendet werden.
+  #### Lektionen
+  - Einführung in Windows 10
+  - Windows 10-Editionen und Anforderungen
+  - Einsatzoptionen
+  - Upgrade auf Windows 10
+  - Einsatz-Tools
+
+
+  #### Labor&#58; Vor-Ort-Upgrade von Win7 auf Win 10
+
+  #### Labor&#58; Benutzereinstellungen mit USMT migrieren
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Die verschiedenen Editionen und Funktionen von Windows 10 verstehen
+  - Die Installationsoptionen des Windows 10-Clients verstehen.
+  - Die Installation von Windows 10 praktizieren.
+  - Inhalte mit dem User State Migration Tool migrieren.
+
+
+  ### Modul 2&#58; Konfiguration und Personalisierung nach der Installation
+  Dieses Modul deckt allgemeine Aufgaben nach der Installation in Windows 10 ab. Die Teilnehmer lernen, wie die Benutzeroberfläche angepasst werden kann, sowie die Verwendung des Bedienfelds und der Einstellungsapplikation, um allgemeine Betriebssystemeinstellungen zu konfigurieren. In diesem Kurs werden die Teilnehmer auch in Windows PowerShell eingeführt.  Dieses Modul behandelt, wie Gerätetreiber funktionieren und wie sie funktionieren. Die Teilnehmer werden auch in die Verwaltung und Konfiguration von Hardware-Peripheriegeräten wie z.B. Druckern eingeführt.
+  #### Lektionen
+  - Konfigurieren und Anpassen des Windows-Startmenüs
+  - Allgemeine Konfigurationsoptionen
+  - Erweiterte Konfigurationsmethoden
+  - Verwaltung von Treibern und Geräten
+
+
+  #### Labor&#58; Verwendung der Einstellungen App & Bedienfeld
+
+  #### Labor&#58; Verwendung von Gruppenrichtlinienobjekten
+
+  #### Labor&#58; Verwenden von PowerShell zum Konfigurieren von Windows
+
+  #### Labor&#58; Verwaltung von lokalen und Netzwerkdruckern
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Die Windows 10-Benutzeroberfläche anpassen
+  - Gerätespezifische Einstellungen wie z. B. Energiepläne und Optionen für mobile Geräte konfigurieren.
+  - Systemsteuerung und Einstellungsprogramm von Windows verwenden, um Einstellungen zu konfigurieren.
+  - Aufgaben mit Windows PowerShell ausführen.
+  - Konzepte in Bezug auf Treiber beschreiben.
+  - Konzepte zur Druckerverwaltung beschreiben.
+  - Client-seitiges Drucken und die Verwaltung der Druckserver-Eigenschaften konfigurieren.
+
+
+  ### Modul 3&#58; Aktualisierung von Windows in Windows 10
+  In diesem Modul lernen die Teilnehmer, Windows 10 auf dem neuesten Stand zu halten. Die Teilnehmer werden in das neue Windows-Servicemodell und dessen Anwendung auf verschiedene Szenarien eingeführt. Die Teilnehmer lernen die verschiedenen Methoden zum Aktualisieren von Windows und Anwendungen sowie die Verwaltung von Updates mithilfe von Tools wie Gruppenrichtlinien und Windows Update for Business kennen.
+  #### Lektionen
+  - Windows-Servicemodell
+  - Aktualisierung von Windows
+
+
+  #### Labor&#58; Aktualisierung von Windows 10
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Das Windows-Servicemodell beschreiben.
+  - Die Windows-Update-Einstellungen konfigurieren.
+  - Die Aktualisierung von Windows mit WSUS beschreiben.
+  - Das Aktualisieren von Windows mit Windows Update for Business beschreiben.
+  - Windows Update mithilfe von Gruppenrichtlinien konfigurieren.
+
+
+  ### Modul 4&#58; Vernetzung konfigurieren
+  In diesem Modul lernen die Teilnehmer die Konzepte der Vernetzung kennen. Dieses Modul führt in IPv4 und IPv6 und in Konzepte wie DNS ein.  Die Teilnehmer lernen, wie die Netzwerkeinstellungen in Windows konfiguriert werden, und erfahren etwas über drahtlose Netzwerktechnologien. Das Modul schließt mit Methoden zur Fernverwaltung von Windows.
+  #### Lektionen
+  - Konfigurieren der IP-Netzwerkkonnektivität
+  - Namensauflösung umsetzen
+  - Implementierung einer drahtlosen Netzwerkverbindung
+  - Fernzugriff-Übersicht
+  - Fernverwaltung
+
+
+  #### Labor&#58; Konfigurieren der Netzwerkkonnektivität
+
+  #### Labor&#58; Konfigurieren und Testen der Namensauflösung
+
+  #### Labor&#58; Fernverwaltung
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Die IP-Netzwerkkonnektivität konfigurieren.
+  - Beschreiben, wie die Namensauflösung funktioniert.
+  - Fernzugriff-Technologien wie VPNs beschreiben.
+  - Windows für die Fernverwaltung und den Fernzugriff konfigurieren.
+
+
+  ### Modul 5&#58; Konfigurieren der Speicherung
+  Dieses Modul deckt die Speicherkonfiguration und -verwaltung in Windows 10 ab.  Die Teilnehmer werden in lokale, Cloud- und virtuelle Speicheroptionen eingeführt. Dieser Kurs behandelt auch die Konfiguration von Speicherplatz auf Client-Geräten und stellt Speicherplätze vor.
+  #### Lektionen
+  - Übersicht der Speichermöglichkeiten
+  - Verwaltung des lokalen Speichers
+  - Datenträger und Volumen pflegen
+  - Verwaltung der Speicherplätze
+
+
+  #### Labor&#58; Speicher verwalten
+
+  #### Labor&#58; Ordner komprimieren
+
+  #### Labor&#58; Datenträgerquoten aktivieren
+
+  #### Labor&#58; Speicherplatz erstellen
+
+  #### Labor&#58; Dateien mit OneDrive synchronisieren
+
+  - Beschreiben der Optionen und Vorteile von lokalem, Cloud- und virtuellem Speicher.
+  - OneDrive konfigurieren.
+  - Lokale Festplattenpartitionen und Volumen konfigurieren.
+  - Die Fähigkeiten und Vorteile von Speicherplätzen beschreiben.
+
+
+  ### Modul 6&#58; Apps in Windows 10 verwalten
+  In diesem Modul werden die Teilnehmer in die App-Verwaltung in Windows 10 eingeführt. Dieses Modul deckt die verschiedenen Arten von Anwendungen und unterstützten Installationsmethoden ab.  Die Teilnehmer lernen, wie man Apps mit manuellen und automatisierten Methoden installiert und die Bereitstellung von Apps über den Windows-Store verwaltet. Schließlich wird dieses Modul die Unterschiede zwischen Internet Explorer und Microsoft Edge behandeln.
+
+  #### Lektionen
+  - Bereitstellung von Apps für Benutzer
+  - Verwaltung von Universal Windows Anwendungen
+  - Web-Browser unter Windows 10
+
+
+  #### Labor&#58; Seitenladen einer App
+
+  #### Labor&#58; Installieren und Aktualisieren von Microsoft Store Apps
+
+  #### Labor&#58; Konfigurieren des Internet Explorer Enterprise-Modus
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Die verschiedenen Arten von Anwendungen beschreiben.
+  - Anwendungen manuell und mit automatisierten Methoden installieren.
+  - Verwalten der Anwendungsbereitstellung über den Windows-Store.
+  - Weitere Informationen zu den Webbrowser-Funktionen in Windows 10 erhalten.
+
+
+  ### Modul 7&#58; Konfigurieren von Autorisierung & Authentifizierung
+  Dieses Modul stellt die Tools und Funktionen von Windows 10 für die Autorisierung des Zugriffs auf Windows 10-Clients vor. Die Teilnehmer lernen Methoden für die Anmeldung von Benutzern bei Windows 10 kennen.  Dieses Modul deckt auch die Einschränkung dessen ab, was Benutzer auf einem Gerät durch Methoden wie UAC und Kontotypen durchführen können oder nicht.
+  #### Lektionen
+  - Authentifizierung
+  - Konfigurieren der Benutzerkontenkontrolle
+  - Implementierung der Geräteregistrierung
+
+
+  #### Labor&#58; Einer Domain beitreten
+
+  #### Labor&#58; Erstellen von Sicherheitsrichtlinien
+
+  #### Labor&#58; UAC konfigurieren
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreibung der verschiedenen Methoden zur Sicherung von Daten und des Windows 10 OS.
+  - Beschreibung der verschiedenen Arten von Benutzer- und Servicekonten.
+  - Windows Hallo konfigurieren.
+  - Konfigurieren der Benutzerkontenkontrolle.
+
+
+  ### Modul 8&#58; Datenzugriff und -nutzung konfigurieren
+  In diesem Modul werden die Teilnehmer über Berechtigungen informiert. Dieses Modul behandelt Überlegungen zu unterschiedlichen Dateisystemen. Die Teilnehmer lernen, wie Datei- und Ordnerberechtigungen sowie gemeinsame Ordner konfiguriert werden. Das Modul schließt mit der Konfiguration von Einstellungen durch Methoden wie lokalen und Gruppenrichtlinien ab.
+  #### Lektionen
+  - Übersicht über die Dateisysteme
+  - Konfigurieren und Verwalten des Dateizugriffs
+  - Konfigurieren und Verwalten von gemeinsamen Ordnern
+
+
+  #### Labor&#58; Erstellen, Verwalten und Freigeben eines Ordners
+
+  #### Labor&#58; Verwendung von Bedingungen zur Kontrolle des Zugangs und der effektiven Berechtigungen
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreibung der Unterschiede und Vorteile der unterstützten Dateisysteme.
+  - Konfigurieren von Datei- und Ordnerberechtigungen.
+  - Konfigurieren von freigegebenen Ordnern.
+  - Sicherung von Windows durch lokale Richtlinieneinstellungen.
+
+
+  ### Modul 9&#58; Konfigurieren von Bedrohungsschutz und erweiterter Sicherheit
+  Dieses Modul führt die Teilnehmer in den sicheren Umgang mit Geräten gegen externe Bedrohungen ein. Die Teilnehmer lernen die verschiedenen Arten von allgemeinen Bedrohungen kennen. In diesem Modul lernen die Teilnehmer den Einsatz von Verschlüsselung, Firewalls und IPSec zum Schutz vor Bedrohungen kennen. Das Modul schließt mit der Konfiguration und Verwendung von Windows Defender und AppLocker.
+  #### Lektionen
+  - Schutz vor Malware und Bedrohungen
+  - Windows Defender
+  - Verbindungssicherheitsregeln
+  - Erweiterte Schutzmaßnahmen
+
+
+  #### Labor&#58; Konfigurieren von Windows Defender
+
+  #### Labor&#58; Firewall-Regeln erstellen
+
+  #### Labor&#58; Verbindungssicherheitsregeln erstellen
+
+  #### Labor&#58; Verwendung von EFS
+
+  #### Labor&#58; Verwendung von Bitlocker
+
+  #### Labor&#58; AppLocker konfigurieren
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Gemeinsame Sicherheitsbedrohungen erkennen.
+  - Beschreibung der Methoden, mit denen Sie diese häufigen Sicherheitsbedrohungen abschwächen können.
+  - Beschreibung der verschiedenen Methoden der Verschlüsselung.
+  - Beschreibung, wie die Windows-Firewall das Gerät schützen kann.
+  - Beschreibung der Vorteile der Verwendung von IPSec.
+  - Beschreibung der verschiedenen Funktionen von Windows Defender.
+  - Beschreibung der Vorteile der Verwendung von AppLocker.
+
+
+  ### Modul 10&#58; Unterstützung der Windows 10- Umgebung
+  Dieses Modul wird die Windows 10-Architektur und gängige Umgebungen abdecken. Die Teilnehmer werden in die verschiedenen Tools zur Wartung von Windows eingeführt. In diesem Modul werden auch Methoden zur effektiven Problembehandlung und zur proaktiven Verwaltung und Optimierung von Windows 10 besprochen.
+
+  #### Lektionen
+  - Windows-Architektur
+  - Unterstützungs- und Diagnose-Tools
+  - Überwachung und Fehlerbehebung der Computerleistung
+
+
+  #### Labor&#58; Überwachung von Ereignissen
+
+  #### Labor&#58; Überwachung von Zuverlässigkeit und Leistung
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreibung der Windows-Architektur.
+  - Beschreibung der wichtigsten Schritte bei der Fehlerbehebung.
+  - Beschreibung des Zwecks und der Vorteile der verschiedenen Tools in Windows.
+  - Verwenden von Überwachungstools, um eine Leistungsbasis zu erstellen.
+  - Optimieren der Leistung auf Windows 10 Clients.
+
+
+  ### Modul 11&#58; Fehlerbehebung Dateien & Anwendungen
+  Dieses Modul hilft den Teilnehmern bei der Planung der Sicherung und Wiederherstellung von Dateien.  Die Teilnehmer lernen, wie man Datensicherungsstrategien plant und konfiguriert und wie man verschiedene Datei- und Systemwiederherstellungsmethoden durchführt.  Dieses Modul umfasst auch allgemeine Methoden zur Fehlerbehebung bei Problemen bei der Anwendungsinstallation, bei Kompatibilitätsproblemen und bei der Lösung von Browserproblemen.
+  #### Lektionen
+  - Dateiwiederherstellung unter Windows 10
+  - Fehlerbehebung in der Anwendung
+
+
+  #### Labor&#58; Verwenden des Dateiverlaufs zum Wiederherstellen von Dateien
+
+  #### Labor&#58; Fehlerbehebung bei Desktop-Apps
+
+  #### Labor&#58; Fehlerbehebung bei Problemen mit der Anwendungskompatibilität
+
+  #### Labor&#58; Fehlerbehebung bei Microsoft Edge-Problemen
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreibung der verschiedenen Methoden der Dateiwiederherstellung.
+  - Konfigurieren von Windows 10, um die Wiederherstellung einzelner Dateien und Systeme zu unterstützen.
+  - Wiederherstellen eines Geräts mit der Funktion Diesen PC zurücksetzen.
+  - Probleme mit der Anwendungskompatibilität mit dem Anwendungskompatibilitäts-Toolkit lösen.
+  - Fehlerbehebung bei häufigen Browserproblemen.
+
+
+  ### Modul 12&#58; Fehlerbehebung im OS
+  In diesem Modul lernen die Teilnehmer, wie sie Start- und Serviceprobleme im Zusammenhang mit dem Betriebssystem beheben können.  In diesem Modul werden die verschiedenen Start- und Wiederherstellungsoptionen sowie die Fehlerbehebung bei verschiedenen Windows-Diensten vermittelt.
+  #### Lektionen
+  - Problembehandlung beim Windows-Start
+  - Fehlerbehebung bei Betriebssystemproblemen
+
+
+  #### Labor&#58; Wiederherstellen mit diesem PC zurücksetzen
+
+  #### Labor&#58; Wiederherstellen mit einem Wiederherstellungspunkt
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreibung der verschiedenen Methoden zur Identifizierung und Behebung von Startproblemen.
+  - Beschreibung, wann die verschiedenen erweiterten Startoptionen verwendet werden sollen.
+  - Identifizierung und Deaktivierung eines fehlgeschlagenen Dienstes.
+  - Identifizierung und Abschwächung gängiger gesperrter Kontoszenarien.
+
+
+  ### Modul 13&#58; Fehlerbehebung bei Hardware und Treibern
+  Dieses Modul führt in die Hardware-Fehlerbehebung ein.  Die Teilnehmer lernen die Treiberverwaltung und die Fehlerbehebung bei Geräten kennen. Die Teilnehmer lernen außerdem Schritte zur Fehlerbehebung bei Systemhardware und externen Peripheriegeräten wie USB-Laufwerken und Druckern, einschließlich Diagnosemethoden und Abhilfemaßnahmen.
+  #### Lektionen
+  - Fehlersuche und -behebung Gerätetreiberausfälle
+  - Übersicht über die Hardware-Fehlerbehebung
+  - Fehlerbehebung bei physischen Ausfällen
+
+
+  #### Labor&#58; Wiederherstellung mit Driver Rollback
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Fehlersuche und Behebung von Treiberproblemen.
+  - Fehlerbehebung bei Peripheriegeräten
+  - Hardware diagnostizieren und ersetzen.

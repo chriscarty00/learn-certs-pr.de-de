@@ -1,0 +1,82 @@
+### YamlMime:Course
+title: Entwurf und Implementieren einer Azure AI Lösung
+metadata:
+  title: 'Kurs AI-100T01-A: Entwurf und Implementieren einer Azure AI Lösung'
+  description: 'Kurs AI-100T01-A: Entwurf und Implementieren einer Azure AI Lösung'
+uid: course.ai-100t01
+courseNumber: 'AI-100T01-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- ai-engineer
+products:
+- azure
+- azure-cognitive-services
+- azure-bot-service
+- azure-machine-learning-service
+- azure-machine-learning-studio
+- azure-search
+exams:
+- uid: exam.ai-100
+summary: |-
+  Erlangen Sie das benötigte Wissen um Azure AI Lösungen zu entwerfen indem Sie Kundenservice Chat-Bots mit Künstlicher Intelligenz von der Microsoft Azure Plattform inklusive Spracherkennung und vorher errichteter AI Funktionalität in den Azure-cognitive-services, bauen.
+
+  #### Zielgruppenprofil
+  Der Kurs ist für Cloud Service Architekten, Designern von Künstlicher Intelligenz in Azure und AI Developer ausgerichtet.
+prerequisitesSection: |-
+  Vor Teilnahme an disesem Kurs benötigen die Teilnehmer&#58;
+  - Azure Grundlagen
+  - Verständnis von Azure-storage Technologien
+  - C# Verständnis
+outlineSection: |-
+  ### Modul 1&#58; Einführung in Azure-cognitive-services
+  Der Teilnehmer wird etwas über die cognitive-services von Microsoft Azure und ihre Rolle in der Bildung von KI-Lösungen lernen.
+  #### Lektionen
+  - Überblick über Azure-cognitive-services
+  - Erstellung von Kognitiven Dienstleistungen in dem Azure Portal
+  - Zugang und Test der Kognitiven Dienstleistungen
+
+
+  ### Modul 2&#58; Bots Erstellen
+  Der Teilnehmer wir etwas über die Microsoft Bot-Frameworks und Bot Dienstleistungen lernen.
+  #### Lektionen
+  - Einführung in die Bot-Dienste
+  - Erstellung eines grundlegenden Chat Bots
+  - Tests mit dem Bot Emulator
+
+
+  ### Modul 3&#58; Bots mit QnA Maker verbessern
+  Der Teilnehmer lernt etwas über den QnA Maker und wie Bots in den QnA Maker integriert werden um nützliches Basiswissen für Nutzerinteraktion aufzubauen.
+  #### Lektionen
+  - Vorstellung des QnA Makers
+  - Wissensgrundlage mit dem QnA Maker implementieren
+  - QnA mit einem Bot integrieren
+
+
+  ### Modul 4&#58; Lernen, wie man mit LUIS Language Understanding Funktionalität erschafft
+  Der Teilnehmer lernt etwas über Language Understanding mit Intents und Utterances (LUIS) und wie Absicht und Ausdruck erstellt wird um eine Natürliche Sprachverarbeitungslösung zu unterstützen.
+  #### Lektionen
+  - Einführung in die Spracherkennung
+  - Neue LUIS Dienste erstellen
+  - LUIS Bauen
+
+
+  ### Modul 5&#58; Ihre Bots mit LUIS verbessern
+  Der Teilnehmer lernt die Integration von LUIS mit einem Bot um die Absichten des Nutzers bei der Interaktion mit dem Bot besser verstehen zu können.
+  #### Lektionen
+  - Überblick über Language Unterstanding für alle KI Anwendungen
+  - Intagration von LUIS und einem Bot um Ki-basierte Lösungen zu erstellen
+
+
+  ### Modul 6&#58; Kognitive Dienstleistungen Bots und Agents Integrieren
+  Der Teilnehmer lernt die Integration von Bots und Agents mit Azure-cognitive-services für fortgeschrittene Funktionen wie Sentiment Detection, Bild und Text Analyse und OCR und Objekterkennung kennen.
+  #### Lektionen
+  - Kognitive Dienstleistungen für Bot Interaktionen verstehen
+  - Sentiment Analyse für Ihren Bot mit Textanalyse ausführen
+  - Spracherkennung in einem Bot mit den Kognitiven Sprach-Dienstleistungen
+  - Computervision mit Bots integrieren

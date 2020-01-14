@@ -1,0 +1,86 @@
+### YamlMime:Course
+title: Entwerfen einer Datenplattformlösung
+metadata:
+  title: 'Kurs AZ-301T02-A: Entwerfen einer Datenplattformlösung'
+  description: 'Kurs AZ-301T02-A: Entwerfen einer Datenplattformlösung'
+uid: course.az-301t02
+courseNumber: 'AZ-301T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Die idealen Pricing Optionen für Azure-storage anhand von Lösungsanforderunen festlegen.
+- skill: Leistungs-Schwellen für den Azure-storage Dienst identifizieren.
+- skill: Die Art von Storage Blob festlegen der für bestimmte Lösungskomponenten zu verwenden ist.
+- skill: Azure Files Dienst für SMB Operationen Verwenden.
+- skill: Lösungen, die von der Nutzung von StorSimple physischen oder virtuellen Geräten profitieren könnten, erkennen.
+- skill: Kontrastmonitoring Dienste für Anwendungen, die Azure Platform und Netzwerke vergleichen.
+- skill: Ein Warnungsschema für eine in Azure gehostete Lösung entwerfen.
+- skill: Angemessene Backup-optionen für Infrastruktur und Daten in Azure auswählen.
+- skill: Entwicklung von zukünfitgen Resourcen für Backup Recovery oder Skaling Zwecke automatisieren.
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-301
+summary: |-
+  Lernen Sie, verschiedene Datenbankoptionen in Azure zu vergleichen, Datenstreamingoptionen für large-scale Datenaufnahme zu erkennen und langzeit Datenspeicheroptionen zu identifizieren.
+
+  #### Zielgruppenprofil
+  Erfolgreiche Cloud Lösung-Architekten die mit praktischer Erfahrung mit Betriebssystemen, Virtualisierung, Cloud-Infrastruktur, Speicherstruktur, Billing und Networking in diese Rolle einsteigen.
+outlineSection: |-
+  ### Modul 1&#58; Azure Solutions mit Azure Storage sichern
+  Dieses Modul beschreibt, wie viele Azure Dienstleistungen den Azure-storage Service als Sicherungsspeicher für andere Anwendungslösungen in Azure nutzen. Das Modul geht auf die wichtigsten Überlegungen für die Nutzung von Azure-storage als zusätzlichen Service für eine alles eingerechnete Azure Lösung ein.
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Die idealen Pricing-optionen für Azure-storage anhand von Lösungsanforderungen festlegen.
+  - Leistungs-Schwellen für den Azure-storage Dienst erkennen.
+  - Die Art von Storage Blob für spezielle Lösungskomponenten festlegen.
+  - Azure Files Dienstleisung für SMB Operationen Verwenden.
+  - Lösungen, die von der Verwendung von StorSimple physischen oder virtuellen Geräten profitieren könnten, erkennen.
+
+
+  ### Modul 2&#58; Datenbank-optionen in Azure vergleichen
+  Dieses Modul vergleicht die verschiedenen relationalen und nicht-relationalen Speicheroptionen die in Azure verfügbar sind. Optionen sind als Gruppen zusammengefasst, zum Beispiel relationale Datenbanken (Azure SQL Datenbank, MySQL on Azure), nicht-relational (Azure Cosmos DB und Storage Tables), Streaming (Stream Analytics), uns Speicher (Data Factory, Data Warehouse und Data Lake).
+
+  #### Labor &#58; Datenbank Instanzen in Azure Bereitstellen
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Monitoring Dienstleistungen für Anwendungen, die Azure Platform und Netzwerke vergleichen.
+  - Daten Streamingoptionen für Large-scale Datenaufnahme erkennen.
+  - Langzeit Datenspeicheroptionen identifizieren.
+
+
+  ### Modul 3&#58; Azure Lösungen Überwachen und Automatisieren
+  Dieses Modul deckt die Überwachungs- und Automatisierungslösungen die verfügbar sind, nachdem eine Azure Solution aufgebaut, entworfen und eventuell bereitgestellt wurde, ab. Das Modul wiederholt Dienste die genutzt werden um individuelle Anwendungen, die Azure Plattform und Netzwerkkomponenten zu überwachen. Das Modul deckt die Automations- und Backupoptionen die Business-Konnektivitäts-Szenarien für Lösungen, die in Azure eingebette sind, ab.
+
+  #### Labor&#58; Konfigurations Verwaltungslösungen in Azure Einrichten
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Monitoring Dienstleistungen für Anwendungen, die Azure Platform und Netzwerke vergleichen.
+  - Ein Warnsystems-schema für eine in Azure eingebettete Lösung entwerfen.
+  - die richtige Backup-option für Infrastruktur und Daten in Azure auswählen.
+  - Die Bereitstellung von zukünftigen Backup Recovery oder Scaling Zwecke automatisieren.

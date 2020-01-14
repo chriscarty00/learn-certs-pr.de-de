@@ -1,0 +1,71 @@
+### YamlMime:Course
+title: Implementieren des Abhängigkeitsmanagements
+metadata:
+  title: 'Kurs AZ-400T04-A: Implementieren des Abhängigkeitsmanagements'
+  description: 'Kurs AZ-400T04-A: Implementieren des Abhängigkeitsmanagements'
+uid: course.az-400t04
+courseNumber: 'AZ-400T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Empfehlen der Artefakt Managementtools und Praktiken
+- skill: Abstrahieren von common packages zur aktivierung von sharing und wiederverwendung
+- skill: Inspizieren von Codebase, um Code Dependencies zu identifizieren, die in Packages konvertiert werden können
+- skill: Identifizieren und Empfehlen von standardisierten Package-Typen und Versionen für alle Aspekte der Lösung
+- skill: Neuberechnen von bestehenden Build Pipelines zur Implementierung der Versionsstrategie, die Packages veröffentlicht
+- skill: Verwalten von Sicherheit und Compliance
+- skill: Prüfen von Open Source Software-Paketen auf Sicherheit und Lizenzen für Übereinstimmung mit Firmenstandards
+- skill: Konfigurieren einer Build Pipeline um zugriff auf Package Sicherheit und Lizenz Rating zu haben
+- skill: Konfigurieren von sicherem Zugriff auf Package-Feeds
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Dieser Kurs bietet die Kenntnisse und Fähigkeiten um Abhängigkeitsmanagements zu implementieren. Die Teilnehmer lernen das Enwerfen einer Strategie für das Abhängigkeitsmanagement und Sicherheit und Compliance zu verwalten.
+
+  #### Zielgruppenprofil
+  Teilnehmer interessieren sich für die Implementierung des Abhängigkeitsmanagements oder dafür die Microsoft Azure DevOps-Lösungen Zertifizierungsprüfungen zu bestehen.
+prerequisitesSection: |-
+  Fundamentales Wissen über Azure, Version Control, Agile Software Development und KernSoftware Entwicklungsprinzipen. Erfahrung in einer Organisation die Software liefert ist hilfreich.
+outlineSection: |-
+  ### Modul 1&#58; Einer Strategie für das Abhängigkeitsmanagement
+  #### Lektionen
+  - Einführung
+  - Package Abhängigkeiten
+  - Package Verwaltung
+  - Implementieren einer Version-Strategie
+
+
+  #### Labor&#58; Updating packages
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Artefakt Managementtools und Praktiken empfehlen
+  - common packages zur aktivierung von sharing und wiederverwendung abstrahieren
+  - Codebase, um Code Dependencies zu identifizieren, die in Packages konvertiert werden können, inspizieren
+  - das Identifizieren und Empfehlen von standardisierten Package-Typen und Versionen für alle Aspekte der Lösung
+  - das Neuberechnen von bestehenden Build Pipelines zur Implementierung der Versionsstrategie, die Packages veröffentlicht
+  - das Verwalten von Sicherheit und Compliance
+
+
+  ### Modul 2&#58; Verwalten von Sicherheit und Compliance
+  #### Lektionen
+  - Einführung
+  - Package Sicherheit
+  - Open source software
+  - Lizenzen und Verletztlichkeitsscans integrieren
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - das Prüfen von Open Source Software-Paketen auf Sicherheit und Lizenzen für Übereinstimmung mit Firmenstandards
+  - Build Piplenine für Zugriff auf Package Sicherheit und Licence Rating konfigurieren
+  - das Konfigurieren von sicherem Zugriff auf Package-Feeds

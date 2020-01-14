@@ -1,0 +1,85 @@
+### YamlMime:Course
+title: Erstellen und Bereitstellen von Apps
+metadata:
+  title: 'Kurs AZ-300T04-A: Erstellen und Bereitstellen von Apps'
+  description: 'Kurs AZ-300T04-A: Erstellen und Bereitstellen von Apps'
+uid: course.az-300t04
+courseNumber: 'AZ-300T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Shell commands verwenden um App Services Web Apps zu erstellen
+- skill: background tasks erstellen
+- skill: Swagger verwenden, um API aufzuzeichen
+- skill: Verlässlichen Service erstellen
+- skill: Reliable Actors App erstellen
+- skill: Praxis mit Reliable Collections
+- skill: Azure Container Registrierung verstehen
+- skill: Azure Container Instanzen verwenden
+learningPartnersLink: https://www.microsoft.com/de-de/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  Dieser Kurs bringt It-Experten bei, wie Logic App Lösungen die Apps, Daten, Systeme und Services in Betrieben oder organisationen durch automatisierte tasks und Geschäftsprozesse als Workflows integrieren, erstellt werden. Logic Apps ist der Cloud Service in Azure, der die Erstellung und konfiguration von skalierbaren Lösungen für die App-Integration, Datenintegration, Systemintegration, Unternehmens Anwendungsintegration (EAI), und business-to-business (B2B) Kommunikation, vereinfachen - entweder in der Cloud, vor Ort oder beides.
+
+  Die Teilnehmer erfahren, dass Azure Service Fabric eine Distributed Systems Platform ist, die eseinfach macht, verlässliche und skalierbare mikroservices und container zu verpacken, bereitzustellen und zu verwalten. Service Fabric spricht auch die signifikanten Herausforderungen bei der entwicklung und verwaltung von Cloud-nativen Anwendungen an. Developer und Administratoren können komplexe Infrastrukturprobleme vermeiden und auf die wichtigen Arbeitsabläufe, die skalierbar, verlässlichnund verwaltbar sind, eingehen. Service Fabric representiert die next-generation Platform umd diese Enterprise-class, Tier-1-cloud-scale Anwendungen, die in den containern laufen, zu erstellen und zu verwalten.
+
+  Die Teilnehmer erfahren wie Azure-Kubernetes-Service (AKS) es einfach macht, verwaltete Kubernetes Cluster in Azure anzuwenden. AKS verringert die Komplexität und den operativen Aufwand von der Verwaltung von Kubernetes durch die übertragung vieler Verantwortlichkeiten an Azure. Als gehosteter Kubernetes Dienst, übernimmt Azure alle wichtigen Aufgaben wie Gesundheitsüberwachung und Wartung für Sie.
+
+  #### Zielgruppenprofil
+  Erfolgreiche Cloud Lösung-Architekten die mit praktischer Erfahrung mit Betriebssystemen, Virtualisierung, Cloud-Infrastruktur, Speicherstruktur, Billing und Networking in diese Rolle einsteigen.
+outlineSection: |-
+  ### Modul 1&#58; Web Applications mit PaaS erstellen
+  Dieses Modul bietet einen Überblick über Azure App Service Web Apps um Web applications, REST APIs und mobilen Back End zu hosten. Die folgenden Themen gehören dazu&#58; Shell Commands verwenden um App Services Web Apps zu erstellen, Background Tasks erstellen, Swagger um API zu erstellen verwenden; so wie die Erklärung warum Logic Apps dabei hilft, Lösungen zu bauen, die Apps, dAten, Systeme und Dienste im gesamten Unternehmen oder einer Organisation durch automisierte Tasks und Geschäftsprozessen als Worklflows, integrieren.
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Shell Commands verwenden um App Services Web Apps zu erstellen
+  - background tasks erstellen
+  - Swagger nutzen um API aufzuzeichnen
+
+
+  ### Modul 2&#58; Apps und Services, die auf Service Fabric laufen, erstellen
+  Dieses Modul bietet einen Überblick über Azure Service Fabric als Distributed Systems Plattform die es einfach macht, skalierbare und verlässliche Mikrodaten und Container zu verpacken, bereitstellen und zu verwalten. Dieses Modul spricht auch die Herausforderungen bei der Bereitstellung und Verwaltung von Cloud-nativen Anwendungen an.
+  Zusätzliche Themen beinhalten&#58; reliable Service erstellen, Reliable Actors App erstellen und Arbeit mit Reliable Collections.
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Reliable Service erstellen
+  - Reliable Actors App erstellen
+  - Praktisch mit Reliable Collections arbeiten
+
+
+  ### Modul 3&#58; Azure Kubernetes Service nutzen. Dieses Modul konzentriert sich auf den Azure
+  Kubernetes Service (AKS) um Kubernetes Cluster in Azure zu verwalten und bereitzustellen. Die Themen beinhalten die Verringerung von betrieblichem Aufwand der Kubernetes Verwaltung durch Abgabe vieler Verantwortlichkeiten an Azure, zum Beispiel Gesundheitsüberwachung und Wartung.
+  Zusätzliche Themen beinhalten&#58; Azure-Container-Registrierung und Azure-Container-Iinstances
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Azure Container Registrierung verstehen
+  - Azure-Container-Iinstances verwenden

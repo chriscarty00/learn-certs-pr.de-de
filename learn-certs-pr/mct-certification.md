@@ -23,7 +23,7 @@ Das [MCT Support Team](https://aka.ms/mctforum) kann Fragen zum MCT-Zertifizieru
 
 ## Vorteile des MCT-Programms
 
-Als Microsoft Certified Trainer erhalten Sie Zugang zu einem personalisierten[Dashboard](https://www.microsoft.com/de-de/learning/dashboard.aspx), in dem Sie eine Vielzahl nützlicher MCT-Ressourcen finden, Ihr MCT-Zertifikat herunterladen und Rabatte einsehen können.
+Als Microsoft Certified Trainer erhalten Sie Zugang zu einem personalisierten [Dashboard](https://www.microsoft.com/de-de/learning/dashboard.aspx), in dem Sie eine Vielzahl nützlicher MCT-Ressourcen finden, Ihr MCT-Zertifikat herunterladen und Rabatte einsehen können.
 
 Darüber hinaus haben Sie Zugang zu [MCT Central](https://www.microsoft.com/en-us/learning/mct-central.aspx), das MCTs hilft, über die neuesten Nachrichten auf dem Laufenden zu bleiben, einen Job zu finden, mit anderen MCTs auf der ganzen Welt in Kontakt zu treten oder sich an Ihren MCT Regional Lead zu wenden.
 
@@ -182,7 +182,7 @@ MCT-Alumni sind bei einer Rückkehr in eine aktive Trainertätigkeit herzlich ei
 
 So werden Sie wieder MCT:
 
-- **Stellen Sie sicher, dass Sie die Anforderungen des MCT-Programms** erfüllen, die im Abschnitt[Anforderungen](https://www.microsoft.com/de-de/learning/mct-certification.aspx#mctinfoheading-3) auf dieser Seite beschrieben sind. Vergleichen Sie Ihr Transkript mit dem aktuellen Stand der für das MCT-Programm berechtigenden Microsoft-Zertifizierungen und -Qualifizierungen.
+- **Stellen Sie sicher, dass Sie die Anforderungen des MCT-Programms** erfüllen, die im Abschnitt [Anforderungen](https://www.microsoft.com/de-de/learning/mct-certification.aspx#mctinfoheading-3) auf dieser Seite beschrieben sind. Vergleichen Sie Ihr Transkript mit dem aktuellen Stand der für das MCT-Programm berechtigenden Microsoft-Zertifizierungen und -Qualifizierungen.
 - **Beantragen Sie die Aufnahme in das MCT-Programm.** MCT-Alumni können entweder den Nachweis über die Zertifizierung der didaktischen Fähigkeiten erbringen, die sie zur Unterstützung ihrer früheren Bewerbung für das MCT-Programm erhalten haben, oder sie können eine Referenz vorlegen, die mindestens ein Jahr Unterrichtserfahrung bestätigt. Als Referenz können ehemalige Kunden, Vorgesetzte oder Kollegen angegeben werden.
 
 ## MCT-Support

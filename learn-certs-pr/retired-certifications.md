@@ -30,7 +30,7 @@ Nach dem Auslaufen einer Zertifizierung kann diese nicht mehr erreicht werden, a
 
 HINWEIS: Nach dem Auslaufen einer Zertifizierung prüft Microsoft weiterhin die entsprechenden Technologien, um festzustellen, ob sie noch relevant sind. Sollte die entsprechende Technologie als nicht mehr relevant gelten, so werden die zugehörigen Zertifikate in den Verlaufsbereich der Zertifizierungen im Transkript verschoben.
 
-Klappen Sie die Sektion unten auf, um eine Liste eingestellter Zertifizierungen zu sehen, nach Typ und mit dem Einstellungsdatum..
+Klappen Sie die Sektion unten auf, um eine Liste eingestellter Zertifizierungen zu sehen, nach Typ und mit dem Einstellungsdatum.
 
 | Microsoft Certified Solutions Developer                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |

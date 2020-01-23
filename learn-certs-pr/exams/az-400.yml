@@ -6,8 +6,6 @@ metadata:
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>Der Inhalt dieser Prüfung wurde am Dienstag, 3. den Dezember 2019 aktualisiert. Bitte laden Sie das untenstehende Dokument Skills measured herunter, um zu sehen, was sich geändert hat.<br/><br/></div>
-
   Kandidaten für diese Prüfung sind DevOps-Profis, die Menschen, Prozesse und Technologien kombinieren, um kontinuierlich wertvolle Produkte und Dienstleistungen zu liefern, die den Bedürfnissen der Endbenutzer und den Unternehmenszielen entsprechen. Die Fachleute von DevOps optimieren die Bereitstellung, indem sie die Abläufe optimieren, die Kommunikation und Zusammenarbeit verbessern und die Automatisierung realisieren. Sie entwickeln und implementieren Strategien für Anwendungscode und Infrastruktur, die kontinuierliche Integration, Tests, Bereitstellung,  Überwachung und Rückmeldung ermöglichen.
 
   Die Kandidaten müssen mit agilen Praktiken vertraut sein. Sie müssen sowohl mit der Azure-Administration als auch mit der Azure-Entwicklung vertraut sein und Experten in mindestens einem dieser Bereiche sein. Azure DevOps-Profis müssen in der Lage sein, DevOps-Praktiken für Versionskontrolle, Compliance, Infrastruktur als Code, Konfigurationsmanagement, Build, Release und Testing unter Verwendung von Azure-Technologien zu entwickeln und umzusetzen.
@@ -24,7 +22,6 @@ locales:
 levels:
 - advanced
 skills:
-- Der Inhalt dieser Prüfung wurde am Dienstag, den 3. Dezember 2019 aktualisiert. Bitte laden Sie das untenstehende Dokument Skills measured herunter, um zu sehen, was sich geändert hat.
 - Entwurf einer DevOps Strategie (20-25%)
 - Implementieren von DevOps Entwicklungsprozessen (20-25%)
 - Implementieren von kontinuierlicher Integration (10-15%)
@@ -45,6 +42,7 @@ paths:
 - uid: learn.azdo.build-applications-with-azure-devops
 - uid: learn.azdo.deploy-applications-with-azure-devops
 - uid: learn.azdo.automate-deployments-azure-devops
+- uid: learn.azdo.capture-feedback-monitoring
 courses:
 - uid: course.az-400t01
 - uid: course.az-400t02

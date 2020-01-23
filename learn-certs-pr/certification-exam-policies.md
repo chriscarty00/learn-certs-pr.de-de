@@ -120,7 +120,7 @@ Auf der Grundlage von Sicherheits- und Integritätsbedenken behält Microsoft si
 
 Etwa 400 Personen können die Beta-Prüfung zu einem reduzierten Preis ablegen. Um diesen ermäßigten Tarif nutzen zu können, benötigen Sie einen Beta-Code, der bei der Registrierung als Teil Ihrer Zahlung eingegeben werden muss. Um diesen Code zu erhalten, können Sie:
 
-1. Mitglied werden in unserer SME-Profile-Datenbank. Mitglieder, deren Kompetenzen zu den Prüfungsinhalten passen, erhalten eine E-Mail mit diesem Code, der für diese Gruppe einzigartig ist. Stand März 2018: das SME-Profile-Datenbankprogramm wird jetzt gehostet auf [Microsoft Collaborate](https://aka.ms/collaborate). Besuchen Sie den Blog-Post [Helfen Sie uns, Prüfungen und Lerninhalte zu erstellen!](https://borntolearn.mslearn.net/b/weblog/posts/help-us-create-exams-and-learning-content-join-our-sme-database-today)Lassen Sie sich noch heute in unsere SME-Datenbank aufnehmen!)
+1. Mitglied werden in unserer SME-Profile-Datenbank. Mitglieder, deren Kompetenzen zu den Prüfungsinhalten passen, erhalten eine E-Mail mit diesem Code, der für diese Gruppe einzigartig ist. Stand März 2018: das SME-Profile-Datenbankprogramm wird jetzt gehostet auf [Microsoft Collaborate](https://aka.ms/collaborate). Besuchen Sie den Blog-Post [Helfen Sie uns, Prüfungen und Lerninhalte zu erstellen!](https://borntolearn.mslearn.net/b/weblog/posts/help-us-create-exams-and-learning-content-join-our-sme-database-today) Lassen Sie sich noch heute in unsere SME-Datenbank aufnehmen!)
 2. In unserem Community-Blog finden Sie Informationen zu den bevorstehenden Beta-Prüfungen. Diese Beiträge enthalten einen Code, mit dem Sie einen Rabatt auf die Prüfung erhalten können. Die Beiträge werden in der Regel an dem Tag veröffentlicht, an dem die Registrierung für eine Beta-Prüfung beginnt. Dieser Code ist anders als der, der an SMEs gesendet wird, die bereits in unserer Datenbank sind.
 
 Bitte beachten Sie, dass die Plätze begrenzt sind und nach der Reihenfolge des Eintreffens der Bewerbungen vergeben werden.
@@ -194,7 +194,7 @@ Diese Vereinbarung wird zum Zeitpunkt Ihrer Zustimmung zwischen Ihnen (**Sie** o
 
 3. **PRÜFUNGSRICHTLINIEN**
 
-    Sie sind allein verantwortlich für das Verständnis und die Einhaltung der Prüfungsrichtlinien und -verfahren der Microsoft-Zertifizierung unter[https://www.microsoft.com/de-de/learning/certification-exam-policies.aspx](https://www.microsoft.com/de-de/learning/certification-exam-policies.aspx), sowie der Richtlinien und Verfahren des Prüfungsanbieters.
+    Sie sind allein verantwortlich für das Verständnis und die Einhaltung der Prüfungsrichtlinien und -verfahren der Microsoft-Zertifizierung unter [https://www.microsoft.com/de-de/learning/certification-exam-policies.aspx](https://www.microsoft.com/de-de/learning/certification-exam-policies.aspx), sowie der Richtlinien und Verfahren des Prüfungsanbieters.
 
     Sie können die Richtlinien für die Wiederholung von Microsoft-Prüfungen sowie andere Prüfungs- und Testverfahren einsehen unter [https://www.microsoft.com/de-de/learning/certification-exam-policies.aspx](https://www.microsoft.com/de-de/learning/certification-exam-policies.aspx). Sie können mehr über die Richtlinien und Verfahren des Prüfungsanbieters auf dessen Website erfahren.
 
@@ -250,12 +250,12 @@ Diese Microsoft-Zertifizierungsprogramm-Vereinbarung (**"Vereinbarung"**) ist ei
 2. MICROSOFT-ZERTIFIZIERUNG
    1. *Erlangung und Aufrechterhaltung einer Microsoft-Zertifizierung*: Um eine Microsoft-Zertifizierung zu erlangen und aufrechtzuerhalten, müssen Sie alle der folgenden Voraussetzungen erfüllen:
 
-        1. Bestehen aller erforderlichen Prüfungen und Erfüllen aller Zertifizierungs- und Rezertifizierungsanforderungen für die jeweilige[Microsoft-Zertifizierung](https://www.microsoft.com/de-de/learning/browse-all-certifications.aspx?certificationtype=role-based),
+        1. Bestehen aller erforderlichen Prüfungen und Erfüllen aller Zertifizierungs- und Rezertifizierungsanforderungen für die jeweilige [Microsoft-Zertifizierung](https://www.microsoft.com/de-de/learning/browse-all-certifications.aspx?certificationtype=role-based),
         2. Akzeptieren der Nutzungsbedingungen dieser Vereinbarung,
         3. Einhaltung der Bedingungen der gültigen Version dieser Vereinbarung, aller Programmanforderungen und
         4. Einhaltung aller zusätzlichen Anforderungen für die entsprechende Microsoft-Zertifizierung.
 
-   2. *Änderungen der Anforderungen für die Microsoft-Zertifizierung*: Microsoft kann nach eigenem Ermessen die Microsoft-Zertifizierungsanforderungen (sowohl anfänglich als auch fortlaufend) jederzeit ändern, indem es diese Änderungen auf der Website[Microsoft Training and Certification Website](https://www.microsoft.com/de-de/learning/browse-all-certifications.aspx?certificationtype=role-based) veröffentlicht. or on the [Microsoft Certification website](https://www.microsoft.com/de-de/learning/browse-all-certifications.aspx?certificationtype=role-based). Sie haben drei (3) volle Kalendermonate Zeit ab dem Zeitpunkt der Veröffentlichung der Änderungen durch Microsoft, die zusätzlichen Anforderungen zu erfüllen. Ihr Recht, eine bestimmte Zertifizierung zu verwenden, kann erlöschen, wenn Sie zusätzliche Zertifizierungs- oder Rezertifizierungsanforderungen im Zusammenhang mit einer bestimmten Zertifizierung nicht erfüllen.
+   2. *Änderungen der Anforderungen für die Microsoft-Zertifizierung*: Microsoft kann nach eigenem Ermessen die Microsoft-Zertifizierungsanforderungen (sowohl anfänglich als auch fortlaufend) jederzeit ändern, indem es diese Änderungen auf der Website [Microsoft Training and Certification Website](https://www.microsoft.com/de-de/learning/browse-all-certifications.aspx?certificationtype=role-based) veröffentlicht. or on the [Microsoft Certification website](https://www.microsoft.com/de-de/learning/browse-all-certifications.aspx?certificationtype=role-based). Sie haben drei (3) volle Kalendermonate Zeit ab dem Zeitpunkt der Veröffentlichung der Änderungen durch Microsoft, die zusätzlichen Anforderungen zu erfüllen. Ihr Recht, eine bestimmte Zertifizierung zu verwenden, kann erlöschen, wenn Sie zusätzliche Zertifizierungs- oder Rezertifizierungsanforderungen im Zusammenhang mit einer bestimmten Zertifizierung nicht erfüllen.
 
    3. *Verstöße gegen die Prüfungsvereinbarung*
 
@@ -297,7 +297,7 @@ Diese Microsoft-Zertifizierungsprogramm-Vereinbarung (**"Vereinbarung"**) ist ei
 
 7. ÄNDERUNGEN
 
-   Microsoft behält sich das Recht vor, (a) die Vereinbarung und die Richtlinien zu aktualisieren und zu ändern, (b) das Programm oder einen Teil davon jederzeit zu ändern, einschließlich dem Recht, Qualifikationsnachweise zurückzunehmen, die Zertifizierungsanforderungen, Anforderungen und Programmleistungen zu ändern sowie (c) das Programm einzustellen. Microsoft wird Änderungen auf der[Microsoft Certification Website](https://www.microsoft.com/de-de/learning/program-membership.aspx) veröffentlichen. Sie sind dafür verantwortlich, diese Microsoft- Certified-Professional-Websites regelmäßig auf Änderungen zu überprüfen. Änderungen werden an dem Tag wirksam, an dem sie veröffentlicht werden. Sie gelten nicht rückwirkend.
+   Microsoft behält sich das Recht vor, (a) die Vereinbarung und die Richtlinien zu aktualisieren und zu ändern, (b) das Programm oder einen Teil davon jederzeit zu ändern, einschließlich dem Recht, Qualifikationsnachweise zurückzunehmen, die Zertifizierungsanforderungen, Anforderungen und Programmleistungen zu ändern sowie (c) das Programm einzustellen. Microsoft wird Änderungen auf der [Microsoft Certification Website](https://www.microsoft.com/de-de/learning/program-membership.aspx) veröffentlichen. Sie sind dafür verantwortlich, diese Microsoft- Certified-Professional-Websites regelmäßig auf Änderungen zu überprüfen. Änderungen werden an dem Tag wirksam, an dem sie veröffentlicht werden. Sie gelten nicht rückwirkend.
 
 8. KEINE GEWÄHRLEISTUNG
 
@@ -474,7 +474,7 @@ Microsoft Professional-Programm: Certificate in [Cybersecurity](https://academy.
 
 Um ein Guthaben zu beantragen, gehen Sie wie folgt vor:
 
-Schritt 1: Füllen Sie den[Antrag](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU) and **email it to** [Excelsior](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU) mit der Überprüfung Ihrer Zugangsdaten (Optionen finden Sie unten) aus. **Senden Sie die Bewerbung oder die E-Mail NICHT an Microsoft**.
+Schritt 1: Füllen Sie den [Antrag](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU) and **email it to** [Excelsior](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU) mit der Überprüfung Ihrer Zugangsdaten (Optionen finden Sie unten) aus. **Senden Sie die Bewerbung oder die E-Mail NICHT an Microsoft**.
 
 **Überprüfung der Zertifizierungsoption 1 - Teilen Sie ein Badge:**
 
@@ -540,9 +540,9 @@ Wir schätzen und vertrauen auf Ihr Feedback, damit Microsoft-Zertifizierungspr�
 
 ### Bei Prüfungen, die über Pearson VUE durchgeführt werden:
 
-Wenn Sie zusätzliche Zeit benötigen, weil die Prüfung nicht in Ihrer Muttersprache verfügbar ist, können Sie dies mit dem Formular [Englisch as a Second Language beantragen.](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx). Befolgen Sie die Anweisungen auf dem Formular. 
+Wenn Sie zusätzliche Zeit benötigen, weil die Prüfung nicht in Ihrer Muttersprache verfügbar ist, können Sie dies mit dem Formular [Englisch as a Second Language beantragen](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx). Befolgen Sie die Anweisungen auf dem Formular. 
 
-Wenn Sie während einer Prüfung spezielle Materialien oder eine andere Unterkunft benötigen, können Sie eine Unterkunft über[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) mit dem “Reasonable Adjustments Request System” anfordern [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Das Reasonable Adjustments Request System ist ein sicheres Online-System zur Beantragung von Unterkünften und zur Einreichung von Belegen.
+Wenn Sie während einer Prüfung spezielle Materialien oder eine andere Unterkunft benötigen, können Sie eine Unterkunft über [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) mit dem “Reasonable Adjustments Request System” anfordern [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Das Reasonable Adjustments Request System ist ein sicheres Online-System zur Beantragung von Unterkünften und zur Einreichung von Belegen.
 
 - Wenn Sie zum ersten Mal Benutzer des Anforderungssystems sind, müssen Sie einen Benutzernamen und ein Passwort erstellen. Um einen Benutzernamen zu erstellen, klicken Sie auf den Link „Registrieren” auf dem Anmeldebildschirm. Bitte beachten Sie: Das System erfordert, dass Sie über ein aktives E-Mail-Konto verfügen.
 - Pearson VUE verwendet dieses sichere System, da Sie zusätzliche Unterlagen hochladen müssen. Wenn Sie dies nicht bereits getan haben, geben Sie Ihrem Gutachter (Arzt, Psychologen) eine Kopie der [Leitlinien für Gutachter](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) für Ihre Behinderung. Ihr Gutachter sollte sicherstellen, dass die von ihm zur Verfügung gestellte Dokumentation unseren Richtlinien entspricht. In den meisten Fällen wird Ihr Gutachter ein Psychologe oder Arzt sein, der eine Reihe von psychologischen, pädagogischen oder medizinischen Tests durchgeführt hat und Ihnen eine Kopie eines Diagnoseberichts oder ein detailliertes Schreiben zur Verfügung gestellt hat.
@@ -851,7 +851,7 @@ Wenn Sie für die Wiederholung der Prüfung bereit sind, planen Sie einen Termin
 
 Obwohl Microsoft-Zertifizierungsprüfungen Feedback zu den Bereichen bieten, in denen die Prüfungsteilnehmer weiter an der Entwicklung ihrer Kompetenzen arbeiten müssen, sind die Prüfungen nicht dafür ausgelegt, eine detaillierte Diagnose oder detailliertes Feedback zu geben. Wir empfehlen Ihnen, den Abschnitt „Bewertete Kompetenzen“ auf der Seite mit den Prüfungsdetails zu überprüfen und Ihre Kompetenzen ehrlich im Hinblick darauf einzuschätzen, was in der Prüfung bewertet wird. Der beste Weg, dies zu tun, ist die aufgelisteten Kompetenzen zu üben und sich alle Schwierigkeiten zu notieren. Üben Sie, bis diese Schwierigkeiten beseitigt sind. Sie könnten auch andere fragen, wie sie diese Aufgaben durchführen. Gehen diese dabei anders vor? Verstehen Sie warum. Lesen Sie White Papers, konsultieren Sie Docs etc. um zusätzliche Informationen zu erhalten in Bezug auf die Aufgaben in der Prüfung. Nutzen Sie die Ressourcen im Abschnitt „Vorbereitungsoptionen“ der Übersichtsseite der Prüfung und die Study Groups, die Sie jeweils unten auf den Seiten finden.
 
-Schließlich stehen[Microsoft Official Practice Tests](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) für einige unserer Zertifizierungsprüfungen zur Verfügung. Diese können Ihnen mehr Informationen über Ihre speziellen Stärken und Schwächen liefern. Allerdings ist das Bestehen eines Praxistests keine Garantie dafür, dass Sie die Zertifizierungsprüfung bestehen werden.
+Schließlich stehen [Microsoft Official Practice Tests](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) für einige unserer Zertifizierungsprüfungen zur Verfügung. Diese können Ihnen mehr Informationen über Ihre speziellen Stärken und Schwächen liefern. Allerdings ist das Bestehen eines Praxistests keine Garantie dafür, dass Sie die Zertifizierungsprüfung bestehen werden.
 
 **Wie sieht die Richtlinie für die Prüfungswiederholung aus?**
 
@@ -1072,7 +1072,7 @@ Wenn Sie allgemeine Fragen zur Prüfungsanmeldung haben, wenden Sie sich bitte a
 
 **Wie kann ich eine Unterkunft buchen?**
 
-Wenn Sie während einer Prüfung spezielle Materielien oder eine andere Unterkunft benötigen, können Sie über[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) mit dem "Reasonable Adjustments Request System"[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) eine Unterkunft anfordern. Weitere Informationen finden Sie im Abschnitt Spezielle Unterkünfte bei Prüfungen oben.
+Wenn Sie während einer Prüfung spezielle Materielien oder eine andere Unterkunft benötigen, können Sie über [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) mit dem "Reasonable Adjustments Request System" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) eine Unterkunft anfordern. Weitere Informationen finden Sie im Abschnitt Spezielle Unterkünfte bei Prüfungen oben.
 
 **Warum muss ich Unterlagen einreichen?**
 

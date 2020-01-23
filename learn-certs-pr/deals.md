@@ -12,7 +12,7 @@ ms.author: micsullivan
 
 ## Exam Replay
 
-Überprüfen Sie Ihre Kompetenzen, verschaffen Sie sich einen beruflichen Vorsprung und stärken Sie Ihr Selbstvertrauen. Exam Replaysgutscheine verfallen zwölf (12) Monate nach dem Kaufdatum und können nicht mit anderen Angeboten kombiniert werden. Sie müssen die Prüfung (und ihre Wiederholung) innerhalb von zwölf Monaten nach dem Kauf einplanen und absolvieren. Siehe [Häufig gestellte Fragen](#frequently-asked-questions) zu weiteren Informationen. Wenn Sie Probleme beim Kauf oder bei der Einlösung des Exam Replaysangebots haben, senden Sie bitte eine E-Mail an das[Pearson VUE-Team](mailto:mindhub@pearson.com).
+Überprüfen Sie Ihre Kompetenzen, verschaffen Sie sich einen beruflichen Vorsprung und stärken Sie Ihr Selbstvertrauen. Exam Replaysgutscheine verfallen zwölf (12) Monate nach dem Kaufdatum und können nicht mit anderen Angeboten kombiniert werden. Sie müssen die Prüfung (und ihre Wiederholung) innerhalb von zwölf Monaten nach dem Kauf einplanen und absolvieren. Siehe [Häufig gestellte Fragen](#frequently-asked-questions) zu weiteren Informationen. Wenn Sie Probleme beim Kauf oder bei der Einlösung des Exam Replaysangebots haben, senden Sie bitte eine E-Mail an das [Pearson VUE-Team](mailto:mindhub@pearson.com).
 
 ### Wählen Sie zwischen zwei verschiedenen Angeboten für die Exam Replay:
 

@@ -2,7 +2,6 @@
 title: Softwareschulung für Volumenlizenzkunden | Microsoft Docs
 description: Softwareschulung für Volumenlizenzkunden
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

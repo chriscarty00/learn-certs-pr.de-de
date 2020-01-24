@@ -1,7 +1,6 @@
 ---
 title: Angebote | Microsoft Docs
 description: Angebote 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

@@ -2,7 +2,6 @@
 title: Microsoft Eingestellt am Certifications | Microsoft Docs
 description: Microsoft Eingestellte Zertifizierungen
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

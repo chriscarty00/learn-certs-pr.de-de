@@ -2,7 +2,6 @@
 title: Microsoft Eingestellte Kurse | Microsoft Docs
 description: Microsoft Eingestellte Kurse
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

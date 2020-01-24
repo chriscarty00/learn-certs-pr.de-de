@@ -2,7 +2,6 @@
 title: Microsoft-Schulungs- und Zertifizierungshilfe | Microsoft Docs
 description: Hilfe zu Microsoft-Schulungen und -Zertifizierungen
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

@@ -2,7 +2,6 @@
 title: Microsoft Eingestellte Prüfung | Microsoft Docs
 description: Microsoft Eingestellte Prüfung
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

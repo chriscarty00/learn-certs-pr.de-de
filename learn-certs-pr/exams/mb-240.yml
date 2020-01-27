@@ -5,18 +5,20 @@ metadata:
   description: 'Prüfung MB-240: Microsoft Dynamics 365 Field Service'
 uid: exam.mb-240
 displayName: MB-240
-summary: |-
+summary: >-
   Kandidaten für diese Prüfung sind Microsoft Dynamics 365 Customer Engagement Funktionsberater mit Field Service Expertise. Die Kandidaten sind für die Implementierung von Lösungen verantwortlich, die Ressourcen verwalten, die den Lebenszyklus des Außendienstes abschließen.
 
+
   Die Kandidaten implementieren die Außendienstprozesse, die in Zusammenarbeit mit internen und externen Teams konzipiert wurden. Diese Zusammenarbeit umfasst die Konfiguration der Standard-Administrationsbereiche der Field Service-Anwendung, die Bereitstellung der Connected Field Service (IoT)-Lösung und der mobilen Anwendung sowie die Implementierung zusätzlicher notwendiger Anpassungen. Die Kandidaten sind für die Konfiguration und den Einsatz der Außendienstanwendung in Verbindung mit der zentralen Kundendienstanwendung verantwortlich.
+
 
   Die Kandidaten müssen über Kenntnisse in der Konfiguration und Anpassung von Komponenten der Außendienstanwendung verfügen, einschließlich der Konfiguration von Diensten, Ressourcen, Merkmalen, Vorfällen, Bestandsintegration, Servicevereinbarungen, Ressourcenplanung, Arbeitsaufträgen, Serviceaufgaben, Benutzerfunktionen im Außendienst, Außendiensteinstellungen, der Lösung Connected Field Service (IoT) und der Konfiguration der Field Service Mobile App.
 subTitle: 'Diese Prüfung misst Ihre Kompetenz, die folgenden technischen Aufgaben zu erfüllen: Konfigurieren von Außendienstanwendungen, Verwalten von Arbeitsaufträgen, Planen und Versenden von Arbeitsaufträgen, Verwalten der Mobilität im Außendienst, Verwalten von Bestand und Einkauf sowie Verwalten von Anlagen und Vereinbarungen.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MB-240&examname=Prüfung%20MB-240:%20Microsoft%20Dynamics%20365%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MB-240&examname=Prüfung%20MB-240:%20Microsoft%20Dynamics%20365%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 levels:
 - intermediate
 skills:
@@ -28,11 +30,11 @@ skills:
 - Verwaltung von Vermögenswerten und Vereinbarungen (10-15%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-field-service
 exams:
 - uid: exam.mb-200
+products:
+- dynamics
+- dynamics-field-service
 courses:
 - uid: course.mb-240t01
 - uid: course.mb-240t02

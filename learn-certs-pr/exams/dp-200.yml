@@ -1,26 +1,28 @@
 ### YamlMime:Examination
-title: Implementierung einer Azure-Datenlösung
+title: Implementing an Azure Data Solution
 metadata:
-  title: 'Prüfung DP-200: Implementierung einer Azure-Datenlösung'
-  description: 'Prüfung DP-200: Implementierung einer Azure-Datenlösung'
+  title: 'Prüfung DP-200: Implementing an Azure Data Solution'
+  description: 'Prüfung DP-200: Implementing an Azure Data Solution'
 uid: exam.dp-200
 displayName: DP-200
-summary: |-
+summary: >-
   Kandidaten für diese Prüfung sind Microsoft Azure-Dateningenieure, die mit Geschäftsinteressenten zusammenarbeiten, um die Datenanforderungen für die Implementierung von Datenlösungen zu ermitteln und zu erfüllen, die Azure-Datendienste verwenden.
 
+
   Die Datentechniker von Azure sind für datenbezogene Aufgaben verantwortlich, wie die Bereitstellung von Datenspeicherdiensten, die Aufnahme von Streaming- und Batchdaten, die Transformation von Daten, die Implementierung von Sicherheitsanforderungen, die Implementierung von Datenhaltungsrichtlinien, die Identifizierung von Leistungsengpässen und den Zugriff auf externe Datenquellen.
+
 
   Die Kandidaten für diese Prüfung müssen in der Lage sein, Datenlösungen zu implementieren, die die folgenden Azure Services verwenden&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics (ehemals Azure SQL DW), Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks und Azure Blob Storage.
 subTitle: 'Diese Prüfung misst Ihre Kompetenz, die folgenden technischen Aufgaben zu erfüllen: Datenspeicherlösungen implementieren, Datenverarbeitung verwalten und entwickeln sowie Datenlösungen überwachen und optimieren.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
 practiceTestUrl: https://us.mindhub.com/p/MU-DP-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=DP-200&examname=Prüfung%20DP-200:%20Implementierung%20einer%20Azure-Datenlösung&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=DP-200&examname=Prüfung%20DP-200:%20Implementierung%20einer%20Azure-Datenlösung&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 levels:
 - intermediate
 skills:
@@ -29,6 +31,8 @@ skills:
 - Überwachen und Optimieren von Datenlösungen (30-35%)
 roles:
 - data-engineer
+exams:
+- uid: exam.dp-201
 products:
 - azure
 - azure-cosmos-db
@@ -41,8 +45,6 @@ products:
 - azure-storage
 - azure-monitor
 - azure-hdinsight
-exams:
-- uid: exam.dp-201
 courses:
 - uid: course.dp-200t01
 paths:

@@ -5,20 +5,21 @@ metadata:
   description: 'Prüfung AZ-400: Microsoft Azure DevOps-Lösungen'
 uid: exam.az-400
 displayName: AZ-400
-summary: |-
+summary: >-
   Kandidaten für diese Prüfung sind DevOps-Profis, die Menschen, Prozesse und Technologien kombinieren, um kontinuierlich wertvolle Produkte und Dienstleistungen zu liefern, die den Bedürfnissen der Endbenutzer und den Unternehmenszielen entsprechen. Die Fachleute von DevOps optimieren die Bereitstellung, indem sie die Abläufe optimieren, die Kommunikation und Zusammenarbeit verbessern und die Automatisierung realisieren. Sie entwickeln und implementieren Strategien für Anwendungscode und Infrastruktur, die kontinuierliche Integration, Tests, Bereitstellung,  Überwachung und Rückmeldung ermöglichen.
+
 
   Die Kandidaten müssen mit agilen Praktiken vertraut sein. Sie müssen sowohl mit der Azure-Administration als auch mit der Azure-Entwicklung vertraut sein und Experten in mindestens einem dieser Bereiche sein. Azure DevOps-Profis müssen in der Lage sein, DevOps-Praktiken für Versionskontrolle, Compliance, Infrastruktur als Code, Konfigurationsmanagement, Build, Release und Testing unter Verwendung von Azure-Technologien zu entwickeln und umzusetzen.
 subTitle: 'Diese Prüfung misst Ihre Fähigkeit, eine DevOps-Strategie zu entwickeln und die folgenden Punkte umzusetzen: DevOps Entwicklungsprozesse, Abhängigkeitsmanagement, Anwendungsinfrastruktur und kontinuierliche Integration, Bereitstellung und Feedback.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-400&examname=Prüfung%20AZ-400:%20Microsoft%20Azure%20DevOps-Lösungen&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-400&examname=Prüfung%20AZ-400:%20Microsoft%20Azure%20DevOps-Lösungen&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-400
 levels:
 - advanced
 skills:
@@ -37,12 +38,6 @@ products:
 - azure-kubernetes-service
 - azure-container-instances
 - azure-automation
-paths:
-- uid: learn.azdo.evolve-your-devops-practices
-- uid: learn.azdo.build-applications-with-azure-devops
-- uid: learn.azdo.deploy-applications-with-azure-devops
-- uid: learn.azdo.automate-deployments-azure-devops
-- uid: learn.azdo.capture-feedback-monitoring
 courses:
 - uid: course.az-400t01
 - uid: course.az-400t02
@@ -51,12 +46,18 @@ courses:
 - uid: course.az-400t05
 - uid: course.az-400t06
 - uid: course.az-400t07
+paths:
+- uid: learn.azdo.evolve-your-devops-practices
+- uid: learn.azdo.build-applications-with-azure-devops
+- uid: learn.azdo.deploy-applications-with-azure-devops
+- uid: learn.azdo.automate-deployments-azure-devops
+- uid: learn.azdo.capture-feedback-monitoring
 relatedCertifications:
 - related:
     uid: certification.azure-devops
 resources:
 - title: Zertifikat Lernpfad
-  description: 'Entdecken Sie die Schulungsressourcen, um ein Microsoft zertifizierter Azure DevOps Engineering Experte zu werden'
+  description: Entdecken Sie die Schulungsressourcen, um ein Microsoft zertifizierter Azure DevOps Engineering Experte zu werden
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.

@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft-zertifiziert: Azure DevOps Engineering Experte'
+title: 'Microsoft Certified: Azure DevOps Engineer Expert'
 metadata:
-  title: 'Microsoft-zertifiziert: Azure DevOps Engineering Experte'
-  description: 'Die Experten von Azure DevOps kombinieren Menschen, Prozesse und Technologien, um kontinuierlich wertvolle Produkte und Dienstleistungen bereitzustellen, die den Bedürfnissen der Endverbraucher und den Geschäftszielen entsprechen.'
+  title: 'Microsoft Certified: Azure DevOps Engineer Expert'
+  description: Die Experten von Azure DevOps kombinieren Menschen, Prozesse und Technologien, um kontinuierlich wertvolle Produkte und Dienstleistungen bereitzustellen, die den Bedürfnissen der Endverbraucher und den Geschäftszielen entsprechen.
 uid: certification.azure-devops
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Die Experten von Azure DevOps kombinieren Menschen, Prozesse und Technologien, um kontinuierlich wertvolle Produkte und Dienstleistungen bereitzustellen, die den Bedürfnissen der Endverbraucher und den Geschäftszielen entsprechen.
+summary: Die Experten von Azure DevOps kombinieren Menschen, Prozesse und Technologien, um kontinuierlich wertvolle Produkte und Dienstleistungen bereitzustellen, die den Bedürfnissen der Endverbraucher und den Geschäftszielen entsprechen.
 subTitle: Die Experten von Azure DevOps kombinieren Menschen, Prozesse und Technologien, um kontinuierlich wertvolle Produkte und Dienstleistungen bereitzustellen, die den Bedürfnissen der Endverbraucher und den Geschäftszielen entsprechen.
 levels:
 - advanced
@@ -27,11 +26,6 @@ products:
 - azure-kubernetes-service
 - azure-container-instances
 - azure-automation
-paths:
-- uid: learn.azdo.evolve-your-devops-practices
-- uid: learn.azdo.build-applications-with-azure-devops
-- uid: learn.azdo.deploy-applications-with-azure-devops
-- uid: learn.azdo.automate-deployments-azure-devops
 courses:
 - uid: course.az-400t01
 - uid: course.az-400t02
@@ -45,12 +39,17 @@ prerequisites:
   isOptional: false
 - uid: certification.azure-developer
   isOptional: false
+paths:
+- uid: learn.azdo.evolve-your-devops-practices
+- uid: learn.azdo.build-applications-with-azure-devops
+- uid: learn.azdo.deploy-applications-with-azure-devops
+- uid: learn.azdo.automate-deployments-azure-devops
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP84
 exams:
 - uid: exam.az-400
 resources:
 - title: Zertifikat Lernpfad
-  description: 'Entdecken Sie die Schulungsressourcen, um Microsoft Certified: Azure DevOps Engineering Experte zu werden.'
+  description: Entdecken Sie die Schulungsressourcen, um Microsoft Certified: Azure DevOps Engineering Experte zu werden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.

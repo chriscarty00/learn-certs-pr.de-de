@@ -1,22 +1,23 @@
 ### YamlMime:Examination
-title: Microsoft 365 Identität und Services
+title: Microsoft 365 Identity and Services
 metadata:
   title: 'Prüfung MS-100: Microsoft 365 Identity and Services'
   description: 'Prüfung MS-100: Microsoft 365 Identity and Services'
 uid: exam.ms-100
 displayName: MS-100
-summary: |-
+summary: >-
   Kandidaten für diese Prüfung sind Microsoft 365 Enterprise Administratoren, die an der Bewertung, Design, Migration, Bereitstellung und Verwaltung von Microsoft 365 Diensten mitwirken. Sie führen Verwaltungsaufgaben im Bereich der Microsoft 365 Mietverhältnisse für Unternehme durch, inkl. Identitäten, Sicherheit, Konformität und unterstützenden Technologien.
+
 
   Kandidaten haben Erfahrung in der praktischen Nutzung von Microsoft 365 Workloads und sollten seit mindestens einem Jahr als Microsoft 365 Workload Administrator gearbeitet haben (Exchange, SharePoint, Skype for Business, oder Windows as a Service) Kandidaten sollten auch Erfahrung haben im Networking, Server Administration und IT Grundlagen wie DNS, Active Directory und PowerShell.
 subTitle: 'Diese Prüfung misst Ihre Kompetenz, folgende technische Aufgaben zu erfüllen: Design und Implementierung von Microsoft 365-Diensten, Verwaltung von Benutzeridentität und -funktionen, Verwaltung von Zugriff und Authentifizierung, und Design von Office 365-Workloads und -Anwendungen.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVE
 practiceTestUrl: https://us.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MS-100&examname=Prüfung%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-100
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MS-100&examname=Prüfung%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-100
 levels:
 - advanced
 skills:
@@ -26,12 +27,12 @@ skills:
 - Office 365 Workloads und Anwendungen planen (10-15%)
 roles:
 - administrator
+exams:
+- uid: exam.ms-101
 products:
 - m365
 - azure-active-directory
 - office-365
-exams:
-- uid: exam.ms-101
 courses:
 - uid: course.ms-100t01
 - uid: course.ms-100t02

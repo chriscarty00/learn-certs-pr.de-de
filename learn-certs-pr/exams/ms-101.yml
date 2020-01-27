@@ -1,22 +1,23 @@
 ### YamlMime:Examination
-title: Microsoft 365 Mobilität und Sicherheit
+title: Microsoft 365 Mobility and Security
 metadata:
   title: 'Prüfung MS-101: Microsoft 365 Mobility and Security'
   description: 'Prüfung MS-101: Microsoft 365 Mobility and Security'
 uid: exam.ms-101
 displayName: MS-101
-summary: |-
+summary: >-
   Kandidaten für diese Prüfung sind Microsoft 365 Enterprise Administratoren, die an Bewertung, Design, Migration, Bereitstellung und Verwaltung von Microsoft 365-Diensten mitwirken. Sie führen Verwaltungsaufgaben im Bereich der Microsoft 365 Mietverhältnisse für Unternehme durch, inkl. Identitäten, Sicherheit, Konformität und unterstützenden Technologien.
+
 
   Kandidaten haben Erfahrung in der praktischen Nutzung von Microsoft 365 Workloads und sollten seit mindestens einem Jahr als Microsoft 365 Workload Administrator gearbeitet haben (Exchange, SharePoint, Skype for Business, oder Windows as a Service) Kandidaten sollten auch Erfahrung haben im Networking, Server Administration und IT Grundlagen wie DNS, Active Directory und PowerShell.
 subTitle: 'Diese Prüfung misst Ihre Kompetenz, folgende technische Aufgaben zu erfüllen: Implementierung moderner Gerätedienste; Implementierung von Microsoft 365 Sicherheits- und Bedrohungsmanagement; und Management von Microsoft 365 Governance und Konformität.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
 practiceTestUrl: https://us.mindhub.com/p/MU-MS-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MS-101&examname=Prüfung%20MS-101:%20Microsoft%20365%20Mobility%20and%20Security&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-101
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MS-101&examname=Prüfung%20MS-101:%20Microsoft%20365%20Mobility%20and%20Security&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-101
 levels:
 - advanced
 skills:
@@ -25,12 +26,12 @@ skills:
 - Verwalten von Microsoft 365 Governance und Konformität (35-40%)
 roles:
 - administrator
+exams:
+- uid: exam.ms-100
 products:
 - m365
 - azure-active-directory
 - office-365
-exams:
-- uid: exam.ms-100
 courses:
 - uid: course.ms-101t01
 - uid: course.ms-101t02

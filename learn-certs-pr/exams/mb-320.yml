@@ -5,22 +5,27 @@ metadata:
   description: 'Prüfung MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
 uid: exam.mb-320
 displayName: MB-320
-summary: |-
+summary: >-
   Kandidaten für diese Prüfung sind Functional Consultants, die Geschäftsanforderungen analysieren und diese in vollständig realisierte Geschäftsprozesse und Lösungen umsetzen, die branchenspezifische Best Practices implementieren. Kandidaten dienen als Schlüsselressource bei der Implementierung und Konfiguration von Anwendungen zur Erfüllung der Geschäftsanforderungen.
+
   <br/>
+
 
   Die Kandidaten für diese Prüfung verfügen über ein grundlegendes Verständnis der Buchhaltungsgrundsätze und der finanziellen Abläufe von Unternehmen, Kundenservice, Außendienst, Fertigung, Einzelhandel und Lieferkettenmanagement.
+
   <br/>
 
+
   Die Kandidaten für diese Prüfung spezialisieren sich in der Regel auf einen oder mehrere Funktionsbereiche von Microsoft Dynamics 365 Finance and Operations, einschließlich Finanzen, Fertigung und Lieferkettenmanagement.
+
 
   Die Kandidaten müssen über Kenntnisse der grundlegenden Rechnungslegungsgrundsätze und -praktiken verfügen.
 subTitle: 'Diese Prüfung misst Ihre Kompetenz, die folgenden technischen Aufgaben zu erfüllen: Einrichtung und Konfiguration der Fertigung, Erstellung und Verwaltung von Produktions- und Lean-Aufträgen sowie Erstellung, Bearbeitung und Verwaltung von Produktionschargenaufträgen.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVs
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MB-320&examname=Prüfung%20MB-320:%20Microsoft%20Dynamics%20365%20Supply%20Chain%20Management,%20Manufacturing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-320
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MB-320&examname=Prüfung%20MB-320:%20Microsoft%20Dynamics%20365%20Supply%20Chain%20Management,%20Manufacturing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-320
 levels:
 - intermediate
 skills:
@@ -29,11 +34,11 @@ skills:
 - Erstellung, Bearbeitung und Verwaltung von Produktionschargenaufträgen (40-45%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-finance-operations
 exams:
 - uid: exam.mb-300
+products:
+- dynamics
+- dynamics-finance-operations
 courses:
 - uid: course.mb-320t01
 - uid: course.mb-320t02

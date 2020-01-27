@@ -1,28 +1,33 @@
 ### YamlMime:Examination
-title: 'Microsoft Dynamics 365: Finance and Operations Apps Entwickler (Beta)'
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
 metadata:
-  title: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Entwickler (Beta)'
-  description: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Entwickler (Beta)'
+  title: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
+  description: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
 uid: exam.mb-500
 displayName: MB-500
-summary: |-
+summary: >-
   Kandidaten für diese Prüfung sind Entwickler, die Anwendungen mit Finance and Operations Apps in Microsoft Dynamics 365 implementieren und erweitern, die den Unternehmensanforderungen entsprechen. Die Kandidaten bieten vollständig realisierte Lösungen durch standardisierte Anwendungscodierungsmuster, erweiterbare Funktionen und externe Integrationen.
+
 
   Die Kandidaten sind verantwortlich für die Entwicklung der Geschäftslogik unter Verwendung von X++, für die Erstellung und Änderung von Finanz- und Betriebsberichten und Arbeitsbereichen, für die Anpassung von Benutzeroberflächen, für die Bereitstellung von Endpunkten und APIs zur Unterstützung von Power Platform-Anwendungen und externen Systemen, für die Durchführung von Tests, für die Überwachung der Leistung, für die Analyse und Manipulation von Daten, für die Erstellung von technischen Designs und Implementierungsdetails sowie für die Implementierung von Berechtigungsrichtlinien und Sicherheitsanforderungen.
 
+
   Die Kandidaten beteiligen sich an der Migration von Daten und Objekten aus Alt- und Fremdsystemen, an der Integration von Finanz- und Betriebsanwendungen mit anderen Systemen, an der Implementierung des Application Lifecycle Management Prozesses, an der Planung des funktionalen Designs für Lösungen und an der Verwaltung von Finanz- und Betriebsumgebungen mit Hilfe von Lifecycle Services (LCS).
-  
+
+
   Die Kandidaten sollen über fundierte Kenntnisse und Erfahrungen im Umgang mit dem zugrunde liegenden Framework, mit den Datenstrukturen und den mit den Finanz- und Betriebslösungen verbundenen Objekten verfügen.
-  
+
+
   Die Kandidaten sollten Erfahrung mit folgenden Produkten haben&#58; Visual Studio, Azure DevOps, LCS-Tools und SQL Server Management Studio.
-  
+
+
   Die Kandidaten sollen Erfahrung in der Entwicklung von Code mit objektorientierten Programmiersprachen, in der Analyse und Manipulation von Daten mit Transact-SQL-Code, sowie in der Erstellung und Ausführung von Windows PowerShell-Befehlen und -Skripten haben.
 subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Planen der Architektur und Design der Lösung, Anwenden von Entwicklerwerkzeugen, Design und Entwickeln von AOT-Elementen, Entwickeln und Testen von Code, Implementieren  der Berichterstellung, Integrieren und Verwalten von Datenlösungen, Implementieren von Sicherheit und Optimieren der Leistung.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42pBB
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MB-500&examname=MB-500:%20Microsoft%20Dynamics%20365:%20Finance%20and%20Operations%20Apps%20Entwickler&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-500
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MB-500&examname=Prüfung%20MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-500
 levels:
 - intermediate
 skills:
@@ -35,11 +40,11 @@ skills:
 - Implementieren der Sicherheit und Leistungsoptimierung (10-15%)
 roles:
 - developer
+exams:
+- uid: exam.mb-300
 products:
 - dynamics
 - dynamics-finance-operations
-exams:
-- uid: exam.mb-300
 courses:
 - uid: course.mb-500t00
 paths:

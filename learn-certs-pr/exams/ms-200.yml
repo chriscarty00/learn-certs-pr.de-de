@@ -1,25 +1,28 @@
 ### YamlMime:Examination
-title: Planung und Konfiguration einer Messaging-Plattform
+title: Planning and Configuring a Messaging Platform
 metadata:
-  title: 'Prüfung MS-200: Planung und Konfiguration einer Messaging-Plattform'
-  description: 'Prüfung MS-200: Planung und Konfiguration einer Messaging-Plattform'
+  title: 'Prüfung MS-200: Planning and Configuring a Messaging Platform'
+  description: 'Prüfung MS-200: Planning and Configuring a Messaging Platform'
 uid: exam.ms-200
 displayName: MS-200
-summary: |-
+summary: >-
   Kandidaten für diese Prüfung sind Messaging-Administratoren, die Empfänger, Berechtigungen, E-Mail-Schutz, E-Mail-Fluss und öffentliche Ordner sowohl in lokalen als auch in Cloud-Umgebungen bereitstellen, konfigurieren, verwalten, fehlerbeheben und überwachen.
+
 
   Messaging-Administratoren sind für die Verwaltung von Hygiene, Messaging-Infrastruktur, Hybridkonfiguration, Migration, Disaster Recovery, Hochverfügbarkeit und Client-Zugriff verantwortlich.
 
+
   Messaging-Administratoren arbeiten gemeinsam mit dem Security Administrator und Microsoft 365 Enterprise Administrator an der Implementierung einer sicheren Hybrid-Topologie, die den Geschäftsanforderungen eines modernen Unternehmens entspricht.
+
 
   Der Messaging-Administrator sollte über gute Kenntnisse in den Bereichen Authentifizierung, Lizenzierung und Integration mit Microsoft 365-Anwendungen verfügen.
 subTitle: 'Diese Prüfung misst Ihre Fähigkeit, folgende technische Aufgaben zu erfüllen: Verwaltung einer modernen Messaging-Infrastruktur, Verwaltung der Mail-Flow-Topologie, und Verwaltung von Empfängern und Geräten.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk7
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MS-200&examname=Prüfung%20MS-200:%20Planung%20und%20Konfiguration%20einer%20Messaging-Plattform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-200
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MS-200&examname=Prüfung%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-200
 levels:
 - intermediate
 skills:
@@ -28,10 +31,10 @@ skills:
 - Verwalten von Empfängern und Geräten (15-20%)
 roles:
 - administrator
-products:
-- m365
 exams:
 - uid: exam.ms-201
+products:
+- m365
 courses:
 - uid: course.ms-200t01
 - uid: course.ms-200t02

@@ -5,15 +5,20 @@ metadata:
   description: 'Prüfung AZ-900: Microsoft Azure Fundamentals'
 uid: exam.az-900
 displayName: AZ-900
-summary: |-
+summary: >-
   Diese Prüfung richtet sich an Kandidaten, die grundlegende Kenntnisse über Cloud Services und deren Bereitstellung mit Microsoft Azure nachweisen möchten. Die Prüfung richtet sich an Kandidaten mit nicht-technischem Hintergrund, die beispielsweise mit dem Vertrieb oder der Beschaffung von Cloud-basierten Lösungen und Services zu tun haben oder sich mit Cloud-basierten Lösungen und Services beschäftigen, sowie an Kandidten mit technischem Hintergrund, die ihre grundlegenden Kenntnisse über Cloud Services überprüfen müssen. Technische IT-Erfahrung ist nicht erforderlich, jedoch sind allgemeine IT-Kenntnisse und Erfahrungen von Vorteil.
+
 
   Diese Prüfung kann als optionaler erster Schritt unternommen werden, um mehr über Cloud Services zu erfahren und wie diese Konzepte von Microsoft Azure veranschaulicht werden. Sie kann als Vorstufe zu Microsoft Azure oder Microsoft Cloud Services Prüfungen verwendet werden. Obwohl es ein vorteilhafter erster Schritt wäre, das Wissen auf grundlegendem Niveau zu überprüfen, ist die Teilnahme an dieser Prüfung keine Voraussetzung für die Teilnahme an anderen Zertifizierungen auf Grundlage von Azure.
 subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden Konzepte zu verstehen: Cloud-Konzepte; Core Azure Services; Sicherheit, Datenschutz, Compliance, Trust und Azure-Preisgestaltung und -Support.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-900&examname=Prüfung%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-900&examname=Prüfung%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2Faz-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
@@ -39,7 +44,7 @@ relatedCertifications:
     uid: certification.azure-fundamentals
 resources:
 - title: Zertifikat Lernpfad
-  description: 'Entdecken Sie die Schulungsressourcen, um von Microsoft in Azure Fundamentals zertifiziert zu werden.'
+  description: 'Entdecken Sie die Schulungsressourcen, um von Microsoft Certified: Azure Fundamentals zu werden.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.

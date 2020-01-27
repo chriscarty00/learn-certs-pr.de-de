@@ -1,27 +1,18 @@
 ### YamlMime:Examination
-title: Microsoft 365 Teamwork Administrator Zertifikatsübertragung
+title: Microsoft 365 Teamwork Administrator Certification Transition
 metadata:
   title: 'Prüfung MS-302: Microsoft 365 Teamwork Administrator Certification Transition'
   description: 'Prüfung MS-302: Microsoft 365 Teamwork Administrator Certification Transition'
 uid: exam.ms-302
 displayName: MS-302
-summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>DIESE PRÜFUNG WURDE AM 30. SEPTEMBER 2019 EINGESTELLT. Hinweis&#58; Prüfungen werden um 23:59 Uhr Central Standard Time eingestellt.</div> 
-  <br/>
-  
-  Diese Prüfung ist nur für Bewerber gedacht, die die [Prüfung 70-339&#58;](https://www.microsoft.com/learning/exam-70-339.aspx) abgelegt haben Managing Microsoft SharePoint Server 2016. Wenn Sie die Prüfung 339 nicht abgelegt haben, erhalten Sie mit dieser Prüfung keine Zertifizierung.
-
-  Kandidaten für diese Prüfung sind Teamwork Administratoren, die verantwortlich sind für die Konfiguration, Bereitstellung und Verwaltung von Office 365 und Azure Workloads, die den Schwerpunkt legen auf Effizienz und effiziente Zusammenarbeit und Übernahme. Teamwork Administratoren verwalten Apps, Dienste und die unterstützende Infrastruktur, um die Anforderungen des jeweiligen Business zu erfüllen. Der Teamwork Administrator sollte in der Lage sein, SharePoint (online, vor Ort und hybrid), OneDrive und Teams bereitzustellen, zu verwalten, zu übertragen und zu sichern.
-
-  Der Teamwork-Administrator ist an Entscheidungen über die Governance beteiligt und arbeitet mit anderen Administratoren zusammen, um viele der Entscheidungen der Führungsgremien umzusetzen. Der Teamwork Administrator arbeitet mit dem Message Administrator zusammen, um Optionen und Sicherheit im Emailbereich zu konfigurieren, und mit dem Voice Administrator, um Sprachfunktionen in den Organisationen einzubinden, sowie dem Sicherheits-Administrator, um die End-to-End Sicherheit zu gewährleisten.
-
-  Die Kandidaten für diese Prüfung haben ein grundlegendes Verständnis für Integrationspunkte mit den folgenden Anwendungen und Diensten&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner und Project. Der Administrator kann Drittanbieter-Apps und Dienste inklusive Line-of-Business Apps einbinden. Kandidaten haben ebenfalls Kenntnisse in SQL Servermanagement-Konzepten, Azure Archive Directory, PowerShell, Networking, Windows Server Administration, dem DNS Domain Name System, Active Directory Mobilgerätverwaltung und alternativen Betriebssystemen.
+summary: "<div style='color&#58; red; font-weight&#58; bold;'>DIESE PRÜFUNG WURDE AM 30. SEPTEMBER 2019 EINGESTELLT. Hinweis&#58; Prüfungen werden um 23:59 Uhr Central Standard Time eingestellt.</div> \n<br/>\n\nDiese Prüfung ist nur für Bewerber gedacht, die die [Prüfung 70-339&#58;](https://www.microsoft.com/learning/exam-70-339.aspx) abgelegt haben Managing Microsoft SharePoint Server 2016. Wenn Sie die Prüfung 339 nicht abgelegt haben, erhalten Sie mit dieser Prüfung keine Zertifizierung.\n\nKandidaten für diese Prüfung sind Teamwork Administratoren, die verantwortlich sind für die Konfiguration, Bereitstellung und Verwaltung von Office 365 und Azure Workloads, die den Schwerpunkt legen auf Effizienz und effiziente Zusammenarbeit und Übernahme. Teamwork Administratoren verwalten Apps, Dienste und die unterstützende Infrastruktur, um die Anforderungen des jeweiligen Business zu erfüllen. Der Teamwork Administrator sollte in der Lage sein, SharePoint (online, vor Ort und hybrid), OneDrive und Teams bereitzustellen, zu verwalten, zu übertragen und zu sichern.\n\nDer Teamwork-Administrator ist an Entscheidungen über die Governance beteiligt und arbeitet mit anderen Administratoren zusammen, um viele der Entscheidungen der Führungsgremien umzusetzen. Der Teamwork Administrator arbeitet mit dem Message Administrator zusammen, um Optionen und Sicherheit im Emailbereich zu konfigurieren, und mit dem Voice Administrator, um Sprachfunktionen in den Organisationen einzubinden, sowie dem Sicherheits-Administrator, um die End-to-End Sicherheit zu gewährleisten.\n\nDie Kandidaten für diese Prüfung haben ein grundlegendes Verständnis für Integrationspunkte mit den folgenden Anwendungen und Diensten&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner und Project. Der Administrator kann Drittanbieter-Apps und Dienste inklusive Line-of-Business Apps einbinden. Kandidaten haben ebenfalls Kenntnisse in SQL Servermanagement-Konzepten, Azure Archive Directory, PowerShell, Networking, Windows Server Administration, dem DNS Domain Name System, Active Directory Mobilgerätverwaltung und alternativen Betriebssystemen."
 subTitle: 'Diese Prüfung ist nur für Kandidaten bestimmt, die Prüfung 70-339 abgelegt haben: Managing Microsoft SharePoint Server 2016. Wenn Sie die Prüfung 339 nicht abgelegt haben, erhalten Sie mit dieser Prüfung keine Zertifizierung.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC7x
-scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/
+retirementDate: 09/30/2019
 levels:
 - intermediate
 skills:
@@ -31,14 +22,13 @@ skills:
 - Workload Integration konfigurieren und verwalten (15-20%)
 - Hybrid-Szenarien konfigurieren und verwalten (5-10%)
 - Zu SharePoint Online migrieren (5-10%)
-retirementDate: 09/30/2019
 roles:
 - administrator
-products:
-- m365
 exams:
 - uid: exam.ms-300
 - uid: exam.ms-301
+products:
+- m365
 relatedCertifications:
 - related:
     uid: certification.m365-teamwork-administrator

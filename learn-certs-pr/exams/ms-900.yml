@@ -18,10 +18,10 @@ locales:
 - en
 - ja
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MS-900&examname=Prüfung%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-900
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-900&examname=Prüfung%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2Fms-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
@@ -44,7 +44,7 @@ relatedCertifications:
     uid: certification.microsoft-365-fundamentals
 resources:
 - title: Zertifikat Lernpfad
-  description: 'Entdecken Sie die Schulungsressourcen, um ein Microsoft zertifizierter: Fundamentals zu werden.'
+  description: 'Entdecken Sie die Schulungsressourcen, um ein Microsoft Certified: Fundamentals zu werden.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.

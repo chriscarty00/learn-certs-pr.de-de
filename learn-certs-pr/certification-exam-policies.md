@@ -58,7 +58,7 @@ Nachstehend finden Sie einige Beispiele für solches Fehlverhalten, einschließl
         - Name
         - E-Mail
         - Prüfungsnummer
-    4. Wenn ein Kandidat bei einer Prüfung einen ausreichenden Punktwert zum Bestehen erzielt, darf er die Prüfung nicht wiederholen. Microsoft behält sich das Recht vor, einige Prüfungen zur Wiederholung zur Verfügung zu stellen. Eine vollständige Liste der Prüfungen, die jährlich wiederholt werden können, finden Sie [hier](https://www.microsoft.com/de-de/learning/exam-certification-retakes.aspx).
+    4. Wenn ein Kandidat bei einer Prüfung einen ausreichenden Punktwert zum Bestehen erzielt, darf er die Prüfung nicht wiederholen. Microsoft behält sich das Recht vor, einige Prüfungen zur Wiederholung zur Verfügung zu stellen. Eine vollständige Liste der Prüfungen, die jährlich wiederholt werden können, finden Sie [hier](https://www.microsoft.com/learning/exam-certification-retakes.aspx).
 
 2. Richtlinie zur Wiederholung der Prüfungen für Microsoft Technology Associate (MTA) und Microsoft Certified Educator (MCE)
     1. Wenn ein Kandidat bei der erstmaligen Prüfung keinen ausreichenden Punktwert erzielt, muss er 24 Stunden warten, bevor er die Exam Replay kann.
@@ -79,7 +79,7 @@ Nachstehend finden Sie einige Beispiele für solches Fehlverhalten, einschließl
     2. Diese Richtlinien ersetzen die allgemeinen Wiederholungsrichtlinien.
 5. Prüfungsspezifische Ausnahmen bei den Wiederholungsrichtlinien
     1. In einigen Fällen gelten bei Microsoft spezielle Richtlinien für bestimmte Prüfungen.
-    2. Microsoft behält sich das Recht vor, einige Prüfungen zur Wiederholung zur Verfügung zu stellen. Klicken Sie [hier](https://www.microsoft.com/de-de/learning/exam-certification-retakes.aspx) für eine Liste aller jährlich wiederholbaren Prüfungen .
+    2. Microsoft behält sich das Recht vor, einige Prüfungen zur Wiederholung zur Verfügung zu stellen. Klicken Sie [hier](https://www.microsoft.com/learning/exam-certification-retakes.aspx) für eine Liste aller jährlich wiederholbaren Prüfungen .
 
 ### Schließungen der Testcenter aus Gründen der Sicherheit
 
@@ -193,9 +193,9 @@ Diese Vereinbarung wird zum Zeitpunkt Ihrer Zustimmung zwischen Ihnen (**Sie** o
 
 3. **PRÜFUNGSRICHTLINIEN**
 
-    Sie sind allein verantwortlich für das Verständnis und die Einhaltung der Prüfungsrichtlinien und -verfahren der Microsoft-Zertifizierung unter [https://www.microsoft.com/de-de/learning/certification-exam-policies.aspx](https://www.microsoft.com/de-de/learning/certification-exam-policies.aspx), sowie der Richtlinien und Verfahren des Prüfungsanbieters.
+    Sie sind allein verantwortlich für das Verständnis und die Einhaltung der Prüfungsrichtlinien und -verfahren der Microsoft-Zertifizierung unter [https://www.microsoft.com/learning/certification-exam-policies.md](https://www.microsoft.com/learning/certification-exam-policies.aspx), sowie der Richtlinien und Verfahren des Prüfungsanbieters.
 
-    Sie können die Richtlinien für die Wiederholung von Microsoft-Prüfungen sowie andere Prüfungs- und Testverfahren einsehen unter [https://www.microsoft.com/de-de/learning/certification-exam-policies.aspx](https://www.microsoft.com/de-de/learning/certification-exam-policies.aspx). Sie können mehr über die Richtlinien und Verfahren des Prüfungsanbieters auf dessen Website erfahren.
+    Sie können die Richtlinien für die Wiederholung von Microsoft-Prüfungen sowie andere Prüfungs- und Testverfahren einsehen unter [https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx). Sie können mehr über die Richtlinien und Verfahren des Prüfungsanbieters auf dessen Website erfahren.
 
     Sie haben dreißig (30) Tage nach einer Prüfung Zeit, um Ihre Prüfungsergebnisse für diese Prüfung anzufechten.
 
@@ -242,19 +242,19 @@ Diese Microsoft-Zertifizierungsprogramm-Vereinbarung (**"Vereinbarung"**) ist ei
    1. Ein ***Verbundenes Unternehmen*** ist jede juristische Person, die als Eigentümer oder als abhängiges Unternehmen bzw. wechselseitig beteiligtes Unternehmen mit einer der Parteien in Verbindung steht. „Eigentümer“ bedeutet einen Besitzanteil von mehr als 50 % oder die Leitung des Unternehmensmanagements.
    2. "***Microsoft Certified Website***" bezeichnet die Microsoft-Website ausschließlich für die Microsoft Certified Professionals.
    3. “***Microsoft***” steht für das Unternehmen „Microsoft” wie in Abschnitt 12.4 definiert.
-   4. "***Microsoft Certification***" bezieht sich auf das Bestehen der erforderlichen Prüfungen und die Erfüllung und Einhaltung aller Zertifizierungs- und Rezertifizierungs-Anforderungen zur Verwendung des entsprechenden Qualifizierungsnachweises oder Logos. Die aktuelle Liste von [Microsoft-Zertifizierungen](https://www.microsoft.com/de-de/learning/browse-all-certifications.aspx?certificationtype=role-based) können Sie einsehen unter.
+   4. "***Microsoft Certification***" bezieht sich auf das Bestehen der erforderlichen Prüfungen und die Erfüllung und Einhaltung aller Zertifizierungs- und Rezertifizierungs-Anforderungen zur Verwendung des entsprechenden Qualifizierungsnachweises oder Logos. Die aktuelle Liste von [Microsoft-Zertifizierungen](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based) können Sie einsehen unter.
    5. "***Microsoft Certification Credential***" oder "***Credential***" bezeichnet den vollständigen oder abgekürzten Titel einer bestimmten Microsoft-Zertifizierung, der verwendet wird, um die Übereinstimmung einer Person mit den Anforderungen für eine bestimmte Microsoft-Zertifizierung zu dokumentieren.
    6. "***Microsoft Zertifizierungsprüfung***" oder "***Prüfung***" bezeichnet eine Microsoft Zertifizierungsprüfung, die dazu dient, die Kompetenzen einer Person für eine bestimmte Microsoft-Technologie, die Gegenstand der Prüfung ist, zu überprüfen.
 
 2. MICROSOFT-ZERTIFIZIERUNG
    1. *Erlangung und Aufrechterhaltung einer Microsoft-Zertifizierung*: Um eine Microsoft-Zertifizierung zu erlangen und aufrechtzuerhalten, müssen Sie alle der folgenden Voraussetzungen erfüllen:
 
-        1. Bestehen aller erforderlichen Prüfungen und Erfüllen aller Zertifizierungs- und Rezertifizierungsanforderungen für die jeweilige [Microsoft-Zertifizierung](https://www.microsoft.com/de-de/learning/browse-all-certifications.aspx?certificationtype=role-based),
+        1. Bestehen aller erforderlichen Prüfungen und Erfüllen aller Zertifizierungs- und Rezertifizierungsanforderungen für die jeweilige [Microsoft-Zertifizierung](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based),
         2. Akzeptieren der Nutzungsbedingungen dieser Vereinbarung,
         3. Einhaltung der Bedingungen der gültigen Version dieser Vereinbarung, aller Programmanforderungen und
         4. Einhaltung aller zusätzlichen Anforderungen für die entsprechende Microsoft-Zertifizierung.
 
-   2. *Änderungen der Anforderungen für die Microsoft-Zertifizierung*: Microsoft kann nach eigenem Ermessen die Microsoft-Zertifizierungsanforderungen (sowohl anfänglich als auch fortlaufend) jederzeit ändern, indem es diese Änderungen auf der Website [Microsoft Training and Certification Website](https://www.microsoft.com/de-de/learning/browse-all-certifications.aspx?certificationtype=role-based) veröffentlicht. or on the [Microsoft Certification website](https://www.microsoft.com/de-de/learning/browse-all-certifications.aspx?certificationtype=role-based). Sie haben drei (3) volle Kalendermonate Zeit ab dem Zeitpunkt der Veröffentlichung der Änderungen durch Microsoft, die zusätzlichen Anforderungen zu erfüllen. Ihr Recht, eine bestimmte Zertifizierung zu verwenden, kann erlöschen, wenn Sie zusätzliche Zertifizierungs- oder Rezertifizierungsanforderungen im Zusammenhang mit einer bestimmten Zertifizierung nicht erfüllen.
+   2. *Änderungen der Anforderungen für die Microsoft-Zertifizierung*: Microsoft kann nach eigenem Ermessen die Microsoft-Zertifizierungsanforderungen (sowohl anfänglich als auch fortlaufend) jederzeit ändern, indem es diese Änderungen auf der Website [Microsoft Training and Certification Website](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based) veröffentlicht. or on the [Microsoft Certification website](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based). Sie haben drei (3) volle Kalendermonate Zeit ab dem Zeitpunkt der Veröffentlichung der Änderungen durch Microsoft, die zusätzlichen Anforderungen zu erfüllen. Ihr Recht, eine bestimmte Zertifizierung zu verwenden, kann erlöschen, wenn Sie zusätzliche Zertifizierungs- oder Rezertifizierungsanforderungen im Zusammenhang mit einer bestimmten Zertifizierung nicht erfüllen.
 
    3. *Verstöße gegen die Prüfungsvereinbarung*
 
@@ -296,7 +296,7 @@ Diese Microsoft-Zertifizierungsprogramm-Vereinbarung (**"Vereinbarung"**) ist ei
 
 7. ÄNDERUNGEN
 
-   Microsoft behält sich das Recht vor, (a) die Vereinbarung und die Richtlinien zu aktualisieren und zu ändern, (b) das Programm oder einen Teil davon jederzeit zu ändern, einschließlich dem Recht, Qualifikationsnachweise zurückzunehmen, die Zertifizierungsanforderungen, Anforderungen und Programmleistungen zu ändern sowie (c) das Programm einzustellen. Microsoft wird Änderungen auf der [Microsoft Certification Website](https://www.microsoft.com/de-de/learning/program-membership.aspx) veröffentlichen. Sie sind dafür verantwortlich, diese Microsoft- Certified-Professional-Websites regelmäßig auf Änderungen zu überprüfen. Änderungen werden an dem Tag wirksam, an dem sie veröffentlicht werden. Sie gelten nicht rückwirkend.
+   Microsoft behält sich das Recht vor, (a) die Vereinbarung und die Richtlinien zu aktualisieren und zu ändern, (b) das Programm oder einen Teil davon jederzeit zu ändern, einschließlich dem Recht, Qualifikationsnachweise zurückzunehmen, die Zertifizierungsanforderungen, Anforderungen und Programmleistungen zu ändern sowie (c) das Programm einzustellen. Microsoft wird Änderungen auf der [Microsoft Certification Website](https://www.microsoft.com/learning/program-membership.aspx) veröffentlichen. Sie sind dafür verantwortlich, diese Microsoft- Certified-Professional-Websites regelmäßig auf Änderungen zu überprüfen. Änderungen werden an dem Tag wirksam, an dem sie veröffentlicht werden. Sie gelten nicht rückwirkend.
 
 8. KEINE GEWÄHRLEISTUNG
 
@@ -431,23 +431,23 @@ Möglicherweise haben Sie Anspruch auf College Credits über das Excelsior Colle
 
 **Microsoft Zertifizierungsprüfungen**
 
-[AZ-100: Microsoft Azure Infrastructure and Deployment](https://www.microsoft.com/de-de/learning/exam-AZ-100.aspx)
+[AZ-100: Microsoft Azure Infrastructure and Deployment](https://www.microsoft.com/learning/exam-AZ-100.aspx)
 
-[AZ-101: Microsoft Azure Integration and Security](https://www.microsoft.com/de-de/learning/exam-AZ-101.aspx)
+[AZ-101: Microsoft Azure Integration and Security](https://www.microsoft.com/learning/exam-AZ-101.aspx)
 
-[AZ-103: Microsoft Azure Administrator](https://www.microsoft.com/de-de/learning/exam-az-103.aspx)
+[AZ-103: Microsoft Azure Administrator](https://www.microsoft.com/learning/exam-az-103.aspx)
 
 AZ-200: Microsoft Azure Entwickler Kernlösungen
 
 AZ-201: Microsoft Azure Entwickler Erweiterte Lösungen
 
-[AZ-203: Developing Solutions for Microsoft Azure](https://www.microsoft.com/de-de/learning/exam-AZ-203.aspx)
+[AZ-203: Developing Solutions for Microsoft Azure](https://www.microsoft.com/learning/exam-AZ-203.aspx)
 
-[AZ-300: Microsoft Azure Architect Technologies](https://www.microsoft.com/de-de/learning/exam-AZ-300.aspx)
+[AZ-300: Microsoft Azure Architect Technologies](https://www.microsoft.com/learning/exam-AZ-300.aspx)
 
-[AZ-301: Microsoft Azure Architect Design](https://www.microsoft.com/de-de/learning/exam-AZ-301.aspx)
+[AZ-301: Microsoft Azure Architect Design](https://www.microsoft.com/learning/exam-AZ-301.aspx)
 
-[AZ-400: Microsoft Azure DevOps Solutions](https://www.microsoft.com/de-de/learning/exam-AZ-400.aspx)
+[AZ-400: Microsoft Azure DevOps Solutions](https://www.microsoft.com/learning/exam-AZ-400.aspx)
 
 **Microsoft Professional-Programme**
 
@@ -477,17 +477,17 @@ Schritt 1: Füllen Sie den [Antrag](https://query.prod.cms.rt.microsoft.com/cms/
 
 **Überprüfung der Zertifizierungsoption 1 - Teilen Sie ein Badge:**
 
-- Schritt 2: Melden Sie sich in Ihrem [Microsoft Certification Dashboard](https://www.microsoft.com/de-de/learning/dashboard.aspx)
+- Schritt 2: Melden Sie sich in Ihrem [Microsoft Certification Dashboard](https://www.microsoft.com/learning/dashboard.aspx)
 
 - Schritt 3: Gehen Sie zum Abschnitt Badge im Dashboard und folgen Sie den Schritten, um Ihren Badge in Anspruch zu nehmen (falls Sie dies noch nicht getan haben).
 
 - Schritt 4: Führen Sie die folgenden Schritte aus, um Ihren Badge per E-Mail an folgende Personen weiterzugeben [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)
 
-- Weitere Informationen finden Sie unter: [Microsoft Exam and Certification Badges](https://www.microsoft.com/de-de/learning/badges.aspx)
+- Weitere Informationen finden Sie unter: [Microsoft Exam and Certification Badges](https://www.microsoft.com/learning/badges.aspx)
 
 **Überprüfung der Zertifizierungsoption 2 - Freigeben einer Übertragung:**
 
-- Schritt 2: Melden Sie sich in Ihrem [Microsoft Certification Dashboard](https://www.microsoft.com/de-de/learning/dashboard.aspx)
+- Schritt 2: Melden Sie sich in Ihrem [Microsoft Certification Dashboard](https://www.microsoft.com/learning/dashboard.aspx)
 
 - Schritt 3: Gehen Sie zum Abschnitt Transkript und wählen Sie „Teilen oder Herunterladen”.
 
@@ -519,7 +519,7 @@ Download: [Transcript Service Application](https://query.prod.cms.rt.microsoft.c
 
 ### <a name="policies-5"></a> Übermitteln eines Prüfungselements einer Microsoft-Zertifizierung zur Überprüfung
 
-[Jede Prüfungsfrage wird sorgfältig geprüft](https://www.microsoft.com/de-de/learning/certification-exams.aspx) von einem Gremium aus technischen und berufsbezogenen Experten, die jede Frage: auf technische Genauigkeit, Klarheit und Relevanz prüfen. Wenn Sie der Meinung sind, dass eine bestimmte Frage, die Sie in einer Microsoft-Zertifizierungsprüfung gesehen haben, ungültig ist, können Sie eine Bewertung der Frage: mithilfe der unten beschriebenen Schritte anfordern. Sie müssen innerhalb von 30 Tagen nach Ablegen der Prüfung ein Formular zur Prüfung der Prüfungsaufgabe einreichen.
+[Jede Prüfungsfrage wird sorgfältig geprüft](https://www.microsoft.com/learning/certification-exams.aspx) von einem Gremium aus technischen und berufsbezogenen Experten, die jede Frage: auf technische Genauigkeit, Klarheit und Relevanz prüfen. Wenn Sie der Meinung sind, dass eine bestimmte Frage, die Sie in einer Microsoft-Zertifizierungsprüfung gesehen haben, ungültig ist, können Sie eine Bewertung der Frage: mithilfe der unten beschriebenen Schritte anfordern. Sie müssen innerhalb von 30 Tagen nach Ablegen der Prüfung ein Formular zur Prüfung der Prüfungsaufgabe einreichen.
 
 **Hinweis:** Bitte verwenden Sie nicht den Prüfungsanforderungsprozess, um Feedback zu Beta-Prüfungsfragen zu geben. Beta-Prüfungsfragen werden oft auf Grundlage des während dieses Prozesses erhaltenen Feedbacks modifiziert und können aus dem Fragenpool entfernt werden. Wenn Sie zusätzliches Feedback zu einer Beta-Prüfung haben, das Sie während des Kommentierungszeitraums nicht geben konnten, senden Sie Ihr Feedback bitte an folgende Adresse [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
 
@@ -582,7 +582,7 @@ Die Anzahl an Fragen in einer Prüfung kann sich ändern, da wir die Prüfungen 
 
 **Welche Prüfungsformate und Fragentypen werden in der Prüfung vorkommen, an der ich teilnehme?**
 
-Da Microsoft stets neue, innovative Testtechnologien und Fragentypen verwendet, geben wir keine spezifischen Informationen zu Formaten und Typen einer bestimmten Prüfung. Um ein Gefühl dafür zu bekommen, was Sie in einer Prüfung erwarten können, empfehlen wir Ihnen, einige mögliche [Prüfungsformate und Fragentypen](https://www.microsoft.com/de-de/learning/certification-exams.aspx) zu überprüfen .
+Da Microsoft stets neue, innovative Testtechnologien und Fragentypen verwendet, geben wir keine spezifischen Informationen zu Formaten und Typen einer bestimmten Prüfung. Um ein Gefühl dafür zu bekommen, was Sie in einer Prüfung erwarten können, empfehlen wir Ihnen, einige mögliche [Prüfungsformate und Fragentypen](https://www.microsoft.com/learning/certification-exams.aspx) zu überprüfen .
 
 **Wie viel Zeit steht für die Prüfung zur Verfügung?**
 
@@ -612,11 +612,11 @@ Alle Lernmaterialien im Zusammenhang mit den Aufgaben eines bestimmten Jobprofil
 
 **Wie bereite ich mich auf eine Prüfung vor?**
 
-Der beste Weg, sich auf eine Prüfung vorzubereiten, besteht darin, die auf der Seite „Prüfungsdetails” aufgeführten Kompetenzen zu üben. [Durchsuchen Sie alle Prüfungen](https://www.microsoft.com/de-de/learning/exam-list.aspx) um die Prüfung zu finden, die Sie interessiert. Um Prüfungen für Microsoft-Zertifizierungen erfolgreich zu bestehen, ist praktische Erfahrung mit der Technologie erforderlich. Die zugeordneten Mikrolernen-, Online-, und Präsenz-Kurse zielen darauf ab, die notwendigen Kenntnisse zu vermitteln, die für eine erfolgreiche Lösung der Aufgaben der jeweiligen Tätigkeit nötig sind; ein Teil wird in der Prüfung getestet. Da die Prüfungen den Schwerpunkt jedoch auf die Anwendung der Kenntnisse und Kompetenzen legen, die über die Schulungsinhalte hinaus gehen, werden weiterreichende Erfahrungen und Praxis ausdrücklich empfohlen, bevor Sie an einer Prüfung teilnehmen. Starten Sie zur Vorbereitung mit dem Abschnitt „Getestete Kompetenzen” auf der Seite mit den Prüfungsdetails. Am besten führen Sie die aufgeführten Aufgaben real aus und notieren sich alle Unklarheiten, auf die Sie dabei stoßen. Üben Sie, bis diese Schwierigkeiten beseitigt sind.
+Der beste Weg, sich auf eine Prüfung vorzubereiten, besteht darin, die auf der Seite „Prüfungsdetails” aufgeführten Kompetenzen zu üben. [Durchsuchen Sie alle Prüfungen](https://www.microsoft.com/learning/exam-list.aspx) um die Prüfung zu finden, die Sie interessiert. Um Prüfungen für Microsoft-Zertifizierungen erfolgreich zu bestehen, ist praktische Erfahrung mit der Technologie erforderlich. Die zugeordneten Mikrolernen-, Online-, und Präsenz-Kurse zielen darauf ab, die notwendigen Kenntnisse zu vermitteln, die für eine erfolgreiche Lösung der Aufgaben der jeweiligen Tätigkeit nötig sind; ein Teil wird in der Prüfung getestet. Da die Prüfungen den Schwerpunkt jedoch auf die Anwendung der Kenntnisse und Kompetenzen legen, die über die Schulungsinhalte hinaus gehen, werden weiterreichende Erfahrungen und Praxis ausdrücklich empfohlen, bevor Sie an einer Prüfung teilnehmen. Starten Sie zur Vorbereitung mit dem Abschnitt „Getestete Kompetenzen” auf der Seite mit den Prüfungsdetails. Am besten führen Sie die aufgeführten Aufgaben real aus und notieren sich alle Unklarheiten, auf die Sie dabei stoßen. Üben Sie, bis diese Schwierigkeiten beseitigt sind.
 
 Microsoft Certified Trainer arbeiten mit vielen Kandidaten bei der Vorbereitung auf Zertifizierungen zusammen. Sie empfehlen den Kandidaten die folgenden Schritte für ihr Studium:
 
-- [Alle Prüfungen durchsuchen](https://www.microsoft.com/de-de/learning/exam-list.aspx), um die Prüfung zu finden, die Sie interessiert.
+- [Alle Prüfungen durchsuchen](https://www.microsoft.com/learning/exam-list.aspx), um die Prüfung zu finden, die Sie interessiert.
 - Drucken Sie den Abschnitt „Gemessene Kompetenzen” auf der Seite aus. 
 - Überprüfen Sie die gesamte Liste. Denken Sie über jedes Thema nach. Wenn Sie sehr gut über ein bestimmtes Thema Bescheid wissen, markieren Sie es oder streichen es durch. 
 - Sehen Sie sich an, was übrig ist. Beginnen Sie nun mit der zielgerichteten Recherche. Für jedes Thema, das Sie nicht hervorgehoben haben, suchen Sie im Web nach entsprechenden Publikationen.
@@ -630,7 +630,7 @@ Wenn Sie die Prüfung abgelegt und nicht bestanden haben, priorisieren Sie die K
 
 **Wie melde ich mich für eine Microsoft-Zertifizierungsprüfung an?**
 
-Besuchen Sie die [Prüfungsanmeldeseite](https://www.microsoft.com/de-de/learning/certification-exams.aspx) um eine vollständige Anleitung zu finden.
+Besuchen Sie die [Prüfungsanmeldeseite](https://www.microsoft.com/learning/certification-exams.aspx) um eine vollständige Anleitung zu finden.
 
 **Muss ich die Prüfung auf Englisch ablegen?**
 
@@ -646,7 +646,7 @@ Experten und Mitarbeiterprüfungen kosten üblicherweise US$165, der Preis wird 
 
 - Für genaue Preisangaben für Microsoft Office Specialist (MOS) Prüfungen kontaktieren Sie bitte [Certiport](http://www.certiport.com/).
 
-- Für alle anderen Prüfungen finden Sie unter [Alle Prüfungen durchsuchen](https://www.microsoft.com/de-de/learning/exam-list.aspx) die Prüfungsseite, die den Preis der Prüfung enthält.
+- Für alle anderen Prüfungen finden Sie unter [Alle Prüfungen durchsuchen](https://www.microsoft.com/learning/exam-list.aspx) die Prüfungsseite, die den Preis der Prüfung enthält.
 
 **Wie kann ich Feedback zu Studienmaterialien oder zum Training für die Prüfung geben?**
 
@@ -654,11 +654,11 @@ Wenn Sie Feedback zu einem Microsoft-Präsenzkurs haben, wenden Sie sich direkt 
 
 **Wie kann ich Feedback zu einer Prüfungsfrage oder der Prüfungserfahrung geben?**
 
-Wenn Sie Bedenken hinsichtlich der technischen Genauigkeit eines bestimmten Elements haben, folgen Sie bitte dem Prozess [Prüfungsaufgabenanforderung](https://www.microsoft.com/de-de/learning/certification-exam-policies.aspx#policies-5).
+Wenn Sie Bedenken hinsichtlich der technischen Genauigkeit eines bestimmten Elements haben, folgen Sie bitte dem Prozess [Prüfungsaufgabenanforderung](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5).
 
 Um ein Anliegen über ein Prüfzentrum oder technische Schwierigkeiten während Ihrer Prüfung zu melden, wenden Sie sich bitte an den Kundendienst unter folgender Adresse [Pearson VUE](http://www.pearsonvue.com/microsoft/) or [Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm).
 
-Um andere Arten von Feedback anzubieten, wenden Sie sich bitte an Ihr [Microsoft Regional Service Center](https://www.microsoft.com/de-de/learning/help.aspx).
+Um andere Arten von Feedback anzubieten, wenden Sie sich bitte an Ihr [Microsoft Regional Service Center](https://www.microsoft.com/learning/help.aspx).
 
 Um ein Sicherheitsproblem zu melden, wenden Sie sich bitte an [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 
@@ -666,7 +666,7 @@ Um ein Sicherheitsproblem zu melden, wenden Sie sich bitte an [mlsecure@microsof
 
 ***Welche Arten von Fragen kommen in Microsoft-Zertifizierungsprüfungen vor?***
 
-Da Microsoft stets neue, innovative Testtechnologien und Fragentypen verwendet, geben wir keine spezifischen Informationen zu Formaten und Typen einer bestimmten Prüfung. Um ein Gefühl dafür zu bekommen, was Sie in einer Prüfung erwarten können, empfehlen wir Ihnen, einige mögliche [Prüfungsformate und Fragentypen](https://www.microsoft.com/de-de/learning/certification-exams.aspx) zu überprüfen.
+Da Microsoft stets neue, innovative Testtechnologien und Fragentypen verwendet, geben wir keine spezifischen Informationen zu Formaten und Typen einer bestimmten Prüfung. Um ein Gefühl dafür zu bekommen, was Sie in einer Prüfung erwarten können, empfehlen wir Ihnen, einige mögliche [Prüfungsformate und Fragentypen](https://www.microsoft.com/learning/certification-exams.aspx) zu überprüfen.
 
 **Warum werden Fallstudien als Prüfungsformat verwendet?**
 
@@ -752,7 +752,7 @@ Wenn Sie die Beta-Prüfung bestehen, werden Ihnen diese Prüfung und eine daraus
 
 **An wen wende ich mich, wenn ich Fragen zu den Ergebnissen der Beta-Prüfung habe?**
 
-Wenn Sie Ihren Bewertungsbericht nicht online finden oder innerhalb von zwei Wochen nach dem Tag erhalten, an dem die endgültige Prüfung veröffentlicht wurde, wenden Sie sich an den Prüfungsanbieter, um weitere Informationen dazu zu erhalten, wann Ihre Ergebnisse verarbeitet werden. Wenn Sie Fragen zu Ihrem Transkript haben, wenden Sie sich an Ihr[Microsoft Regional Service Center](https://www.microsoft.com/de-de/learning/help.aspx).
+Wenn Sie Ihren Bewertungsbericht nicht online finden oder innerhalb von zwei Wochen nach dem Tag erhalten, an dem die endgültige Prüfung veröffentlicht wurde, wenden Sie sich an den Prüfungsanbieter, um weitere Informationen dazu zu erhalten, wann Ihre Ergebnisse verarbeitet werden. Wenn Sie Fragen zu Ihrem Transkript haben, wenden Sie sich an Ihr[Microsoft Regional Service Center](https://www.microsoft.com/learning/help.aspx).
 
 **An wen kann ich mich wenden, wenn ich meinen 25%-Gutschein für eine Beta-Prüfung nicht erhalte?**
 
@@ -838,7 +838,7 @@ Nein. Die Befragung am Anfang der Prüfung hat keine Auswirkungen auf den Prüfu
 
 **Ich habe meine erste Microsoft-Zertifizierungsprüfung (bei Pearson VUE) bestanden. Was kann ich jetzt tun?**
 
-Herzlichen Glückwunsch! Um die nächsten Schritte und verfügbaren Vorteile zu erfahren, sehen Sie sich Ihr Übersichtsfenster für [Leistungen und Prüfungen](https://www.microsoft.com/de-de/learning/dashboard.aspx) an. Melden Sie sich mit demselben Microsoft-Konto an, mit dem Sie sich für die Prüfung registriert haben.
+Herzlichen Glückwunsch! Um die nächsten Schritte und verfügbaren Vorteile zu erfahren, sehen Sie sich Ihr Übersichtsfenster für [Leistungen und Prüfungen](https://www.microsoft.com/learning/dashboard.aspx) an. Melden Sie sich mit demselben Microsoft-Konto an, mit dem Sie sich für die Prüfung registriert haben.
 
 **Was kann ich tun, wenn ich die Prüfung nicht bestehe?**
 
@@ -854,7 +854,7 @@ Schließlich stehen [Microsoft Official Practice Tests](http://www.measureup.com
 
 **Wie sieht die Richtlinie für die Prüfungswiederholung aus?**
 
-Bitte lesen Sie die [Sicherheits- und Wiederholungsrichtlinien](https://www.microsoft.com/de-de/learning/certification-exam-policies.aspx#security-policies), um die Wiederholungsrichtlinien für die Prüfung einzusehen.
+Bitte lesen Sie die [Sicherheits- und Wiederholungsrichtlinien](https://www.microsoft.com/learning/certification-exam-policies.aspx#security-policies), um die Wiederholungsrichtlinien für die Prüfung einzusehen.
 
 **Kann ich eine Neubewertung meiner Bewertung fordern?**
 
@@ -862,7 +862,7 @@ Eine Neubewertung ist nicht sehr wahrscheinlich, da dies selten ändert, ob die 
 
 **Wie kann ich eine Prüfungsfrage zur Überprüfung übermitteln?**
 
-Wenn Sie der Meinung sind, dass eine Frage zu einer Microsoft-Zertifizierungsprüfung ungenau ist, können Sie eine Bewertung dieser Frage mit dem [Exam Item Challenge process](https://www.microsoft.com/de-de/learning/certification-exam-policies.aspx#policies-5) innerhalb von 30 Kalendertagen nach der Prüfung anfordern. Der Evaluierungsprozess hilft uns, problematische Fragen zu identifizieren und zu korrigieren und die Prüfungen entsprechend zu aktualisieren.
+Wenn Sie der Meinung sind, dass eine Frage zu einer Microsoft-Zertifizierungsprüfung ungenau ist, können Sie eine Bewertung dieser Frage mit dem [Exam Item Challenge process](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5) innerhalb von 30 Kalendertagen nach der Prüfung anfordern. Der Evaluierungsprozess hilft uns, problematische Fragen zu identifizieren und zu korrigieren und die Prüfungen entsprechend zu aktualisieren.
 
 **Überprüft und bewertet ein Microsoft-Mitarbeiter die Prüfungsfrage, die ich zur Überprüfung übermittle?**
 
@@ -1024,7 +1024,7 @@ Nein. Die bewerteten Kompetenzen bleiben unabhängig vom Format der Frage gleich
 
 **Gibt es spezifische Anforderungen an das Testzentrum für Prüfungen mit Laboren? Viele Testzentren sind nicht aufgelistet, wenn ich versuche, die Prüfungen mit Labors zu planen, aber dieselben Testzentren sind für Prüfungen aufgelistet, die dies nicht tun.**
 
-Prüfungen, zu denen auch Labors gehören, erfordern Testzentren, die bestimmte Anforderungen an die Internetkonnektivität erfüllen, so dass eine kleinere Anzahl von Testzentren zur Verfügung steht. Da die Labore zu weiteren der neuen funktionsspezifischen Prüfungen hinzukommen, werden sie auch den gleichen Testzentren angehören. Sie können diese Prüfung jedoch auch über das Online-Proctoring ablegen; weitere Details finden Sie unter https://www.microsoft.com/de-de/learning/online-proctored-exams.aspx. Wenn Sie bestimmte Testzentren im Sinn haben, wenden Sie sich an das jeweilige Testzentrum, um zu erfahren, ob es Labore liefern kann; alternativ werden sie nach Auswahl der Prüfung nicht mehr als verfügbare Testzentren aufgeführt. In diesem Fall empfehlen wir, ein anderes Prüfungszentrum zu finden oder die Prüfung durch Online-Proctoring abzulegen.
+Prüfungen, zu denen auch Labors gehören, erfordern Testzentren, die bestimmte Anforderungen an die Internetkonnektivität erfüllen, so dass eine kleinere Anzahl von Testzentren zur Verfügung steht. Da die Labore zu weiteren der neuen funktionsspezifischen Prüfungen hinzukommen, werden sie auch den gleichen Testzentren angehören. Sie können diese Prüfung jedoch auch über das Online-Proctoring ablegen; weitere Details finden Sie unter https://www.microsoft.com/learning/online-proctored-exams.aspx. Wenn Sie bestimmte Testzentren im Sinn haben, wenden Sie sich an das jeweilige Testzentrum, um zu erfahren, ob es Labore liefern kann; alternativ werden sie nach Auswahl der Prüfung nicht mehr als verfügbare Testzentren aufgeführt. In diesem Fall empfehlen wir, ein anderes Prüfungszentrum zu finden oder die Prüfung durch Online-Proctoring abzulegen.
 
 ### Rollenbasierte Zertifizierungen
 
@@ -1065,7 +1065,7 @@ Ja. Sie müssen den gleichen Ablauf wie Studenten befolgen. Das heißt, Sie müs
 
 An wen wende ich mich bei Fragen zur akademischen Überprüfung für Microsoft-Zertifizierungsprüfungen?
 
-Wenn Sie allgemeine Fragen zur Prüfungsanmeldung haben, wenden Sie sich bitte an Ihr [Microsoft Regional Service Center](https://www.microsoft.com/de-de/learning/help.aspx). Für Fragen, die sich speziell auf eine neue oder ausstehende Überprüfungsanforderung beziehen, können Sie sich an den Support wenden [contact Support](https://academic.getmicrosoftkey.com/default/support).
+Wenn Sie allgemeine Fragen zur Prüfungsanmeldung haben, wenden Sie sich bitte an Ihr [Microsoft Regional Service Center](https://www.microsoft.com/learning/help.aspx). Für Fragen, die sich speziell auf eine neue oder ausstehende Überprüfungsanforderung beziehen, können Sie sich an den Support wenden [contact Support](https://academic.getmicrosoftkey.com/default/support).
 
 ### Unterkunftsbedarf
 

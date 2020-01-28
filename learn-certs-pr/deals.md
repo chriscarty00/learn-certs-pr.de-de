@@ -67,11 +67,11 @@ Nutzen Sie umfassende Preisnachlässe für Microsoft Certified Professional (MCP
 
 **Frage: Kann ich eine Online-Prüfung mit dem Prüfungsgutschein in einer Exam Replay ablegen?**
 
-**Antwort:** Ja, wenn Online-Prüfungen verfügbar sind, können diese mit einem Exam Replaysgutschein abgelegt werden. [Erfahren Sie mehr über Online-Prüfungen](https://www.microsoft.com/de-de/learning/online-proctored-exams.aspx) for Microsoft certification.
+**Antwort:** Ja, wenn Online-Prüfungen verfügbar sind, können diese mit einem Exam Replaysgutschein abgelegt werden. [Erfahren Sie mehr über Online-Prüfungen](https://www.microsoft.com/learning/online-proctored-exams.aspx) for Microsoft certification.
 
 **Frage: Kann ich meine Erstprüfung und die Wiederholung gleichzeitig planen?**
 
-**Antwort:** Nein, Sie können sich erst für die Wiederholungsprüfung anmelden, wenn Sie die Erstprüfung abgelegt und nicht bestanden haben. Weitere Details in der [Microsoft-Richtlinie für Wiederholungen von Zertifizierungsprüfungen](https://www.microsoft.com/de-de/learning/certification-exam-policies.aspx).
+**Antwort:** Nein, Sie können sich erst für die Wiederholungsprüfung anmelden, wenn Sie die Erstprüfung abgelegt und nicht bestanden haben. Weitere Details in der [Microsoft-Richtlinie für Wiederholungen von Zertifizierungsprüfungen](https://www.microsoft.com/learning/certification-exam-policies.aspx).
 
 **Frage: Wie aktiviere ich einen Praxistest und wie lange ist er gültig?**
 

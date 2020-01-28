@@ -64,7 +64,7 @@ Dieses Angebot umfasst alle Microsoft-Grundlagen, rollenbasierten und spezialisi
 - Dieses Prüfungsangebot ist nicht übertragbar und entfällt, wenn Sie es in irgendeiner Weise ändern, überarbeiten oder übertragen.
 - Dieses Prüfungsangebot richtet sich nur an Personen, die sich bei einer offiziellen Veranstaltung von Microsoft Ignite 2019 oder Microsoft Ignite The Tour 2019-2020 angemeldet haben.
 
-Weitere Informationen finden Sie in den vollständigen [Microsoft-Nutzungsbedingungen](https://www.microsoft.com/de-de/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1)
+Weitere Informationen finden Sie in den vollständigen [Microsoft-Nutzungsbedingungen](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1)
 
 ## Exter FAQ - kostenloses Prüfungsangebot von MS Ignite und The Tour
 
@@ -111,7 +111,7 @@ Weitere Informationen finden Sie in den vollständigen [Microsoft-Nutzungsbeding
 **Fr.: Habe Ich die Option, die geplante Prüfung persönlich oder online abzulegen?**
 
 **A:** Ja, Sie haben die Möglichkeit die geplante Prüfung entweder Persönlich durch Pearson Vue in einem örtlichen Prüfungszentrum abzulegen oder über online proctored (OP). Wenn Sie mehr über Online-Prüfungen wissen möchten, gehen Sie zu
-[https://www.microsoft.com/de-de/learning/online-exams.aspx](https://www.microsoft.com/de-de/learning/online-exams.aspx)
+[https://www.microsoft.com/learning/online-exams.aspx](https://www.microsoft.com/learning/online-exams.aspx)
 
 ### Stornierungs- und Neuterminierungsrichtlinie
 
@@ -121,14 +121,14 @@ Weitere Informationen finden Sie in den vollständigen [Microsoft-Nutzungsbeding
 
 **Fr.: Gibt es Gebühren wenn ich einen Prüfungstermin ändern oder stornieren will?**
 
-**A:** Die Stornierung oder Neuterminierung Ihrer Prüfung innerhalb von mind 6 Werktagen vor Ihrem Termin ist kostenfrei. Wenn Sie innerhalb von fünf Werktagen vor dem Prüfungstermin eine Terminänderung vornehmen müssen, müssen Sie eine Gebühr zahlen. Innerhalb von zwei Tagen vor dem Prüfungstermin können Sie die Prüfung nicht mehr ändern oder stornieren. Wenn Sie zur Prüfung nicht erscheinen, verfällt das Angebot auf eine kostenlose Prüfung. Für mehr Informationen, gehen Sie unter [Cancellation and Reschedule Policy](https://docs.microsoft.com/de-de/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy)
+**A:** Die Stornierung oder Neuterminierung Ihrer Prüfung innerhalb von mind 6 Werktagen vor Ihrem Termin ist kostenfrei. Wenn Sie innerhalb von fünf Werktagen vor dem Prüfungstermin eine Terminänderung vornehmen müssen, müssen Sie eine Gebühr zahlen. Innerhalb von zwei Tagen vor dem Prüfungstermin können Sie die Prüfung nicht mehr ändern oder stornieren. Wenn Sie zur Prüfung nicht erscheinen, verfällt das Angebot auf eine kostenlose Prüfung. Für mehr Informationen, gehen Sie unter [Cancellation and Reschedule Policy](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy)
 
 **Fr.: Was passiert, wenn ich meinen Prüfungstermin verpasse und diesen nicht geändert oder storniert habe?**
 
-**A:** Wenn Sie Ihre Prüfungstermine nicht einhalten oder nicht neu vereinbaren oder Ihren Termin mindestens 24 Stunden vor Ihrem vereinbaren Termin stornieren, verfällt der Anspruch auf eine kostenlose Prüfung in diesem Angebot. Für mehr Informationen, gehen Sie unter [Cancellation and Reschedule Policy](https://docs.microsoft.com/de-de/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy)
+**A:** Wenn Sie Ihre Prüfungstermine nicht einhalten oder nicht neu vereinbaren oder Ihren Termin mindestens 24 Stunden vor Ihrem vereinbaren Termin stornieren, verfällt der Anspruch auf eine kostenlose Prüfung in diesem Angebot. Für mehr Informationen, gehen Sie unter [Cancellation and Reschedule Policy](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy)
 
 ### Wiederholungsrichtlinie
 
 **Fr.: Kann ich erneut kostenlos an einer Prüfung teilnehmen, wenn ich es beim ersten mal verpasst habe das kostenlose Angebot für die Zertifizierungsprüfung wahrzunehmen?**
 
-**A:** Nein, das Angebot ist nur für einen Versuch gültig und Wiederholungen müssen separat geplant werden. Für mehr Information über die Wiederholung von Zertifizierungsprüfungen gehen Sie zu [Prüfungswiederholungsrichtlinie](https://www.microsoft.com/de-de/learning/certification-exam-policies.aspx#policies-1).
+**A:** Nein, das Angebot ist nur für einen Versuch gültig und Wiederholungen müssen separat geplant werden. Für mehr Information über die Wiederholung von Zertifizierungsprüfungen gehen Sie zu [Prüfungswiederholungsrichtlinie](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1).

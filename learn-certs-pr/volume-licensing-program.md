@@ -15,7 +15,7 @@ Die Schulungs- und Zertifizierungslösungen von Microsoft unterstützen Unterneh
 Microsoft-Schulungs- und Zertifizierungslösungen sind über die folgenden Microsoft-Volumenlizenzprogramme erhältlich:
 
 * **Microsoft-Volumenlizenzierung**. Ein anpassbares Kaufprogramm für Microsoft-Software, das vergünstigten Zugang zu Microsoft-Schulungs- und Zertifizierungslösungen gewährt.
-* **[Microsoft Volumenlizenzierung für die Software Assurance](https://www.microsoft.com/de-de/learning/software-assurance-benefits.aspx)**. Ein kostengünstiges Programm, das den Zugang zu spezifischem Software Assurance E-Learning und von Trainern geleiteten Schulungen über Ihren bestehenden Software Assurance-Schutz ermöglicht.
+* **[Microsoft Volumenlizenzierung für die Software Assurance](https://www.microsoft.com/learning/software-assurance-benefits.aspx)**. Ein kostengünstiges Programm, das den Zugang zu spezifischem Software Assurance E-Learning und von Trainern geleiteten Schulungen über Ihren bestehenden Software Assurance-Schutz ermöglicht.
 
 Durch die Konsolidierung des Kaufs, der Budgetierung und der Verfolgung der auf dieser Seite beschriebenen Microsoft-Produkte für Trainings- und Zertifizierungslösungen mit anderen Microsoft-Technologiekäufen durch Volumenlizenzierung kann Ihr Unternehmen  20 bis 80 Prozent Kosteneinsparungen erzielen (je nach Produkt und Volumenlizenzvertragsstufe).
 
@@ -94,7 +94,7 @@ Durch die Konsolidierung des Kaufs, der Budgetierung und der Verfolgung der auf 
 
 ## Häufig gestellte Fragen
 
-Die folgenden Fragen beziehen sich speziell auf die Volumenlizenzierung für Microsoft Schulungs- und Zertifizierungslösungen. Besuchen Sie die [Zertifizierungsübersicht](https://www.microsoft.com/de-de/learning/certification-overview.aspx) or [exam policies and FAQ](https://www.microsoft.com/de-de/learning/certification-exam-policies.aspx) Seiten mit den Antworten auf generelle Fragen zu den Microsoft-Zertifizierungen und Prüfungen.
+Die folgenden Fragen beziehen sich speziell auf die Volumenlizenzierung für Microsoft Schulungs- und Zertifizierungslösungen. Besuchen Sie die [Zertifizierungsübersicht](https://www.microsoft.com/learning/certification-overview.aspx) or [exam policies and FAQ](https://www.microsoft.com/learning/certification-exam-policies.aspx) Seiten mit den Antworten auf generelle Fragen zu den Microsoft-Zertifizierungen und Prüfungen.
 
 ### **Microsoft Schulungs- und Zertifizierungslösungen**
 
@@ -154,7 +154,7 @@ Die Schulungs- und Zertifizierungslösungen von Microsoft bieten einstufige, ein
 Je mehr Codes Ihre Organisation erwirbt, desto größer ist der Mengenrabatt, den Sie erhalten. Wir empfehlen Ihnen, eine der folgenden Ressourcen zu verwenden, um den Schulungsbedarf Ihres Unternehmens zu ermitteln und einen Lernplan zu entwickeln, der zu den Geschäftszielen Ihres Unternehmens passt.
 
 - [Senden Sie eine E-Mail an die Microsoft Schulungs- und Zertifizierungslösungen Hilfe zur Volumenlizenzierung](mailto:mslvlhlp@microsoft.com)
-- [Finden Sie Ihren lokalen Microsoft zertifizierten Partner für Microsoft Schulungs- und Zertifizierungslösungen](https://www.microsoft.com/de-de/learning/find-partner.aspx)
+- [Finden Sie Ihren lokalen Microsoft zertifizierten Partner für Microsoft Schulungs- und Zertifizierungslösungen](https://www.microsoft.com/learning/find-partner.aspx)
 
 **Fr.: Wie viele Prüfungsgutscheine sollte ich bestellen?**
 
@@ -172,7 +172,7 @@ Denken Sie daran, dass es für Ihre Mitarbeiter wichtig ist, praktische Erfahrun
 
 **Fr.: Welche Lehrplanoptionen stehen zur Vorbereitung auf die Prüfungen zur Verfügung, die im Microsoft Certified Professional (MCP) Class Pack, Microsoft Office Specialist (MOS) Site Pack und Microsoft Technology Associate (MTA) Site Pack enthalten sind?**
 
-Für jede Prüfung stehen Vorbereitungsunterlagen zur Verfügung. Wählen Sie die Prüfung aus der Liste [neue Prüfungen](https://www.microsoft.com/de-de/learning/exam-list.aspx), und suchen Sie dann nach den verfügbaren Vorbereitungsmöglichkeiten für die Prüfung.
+Für jede Prüfung stehen Vorbereitungsunterlagen zur Verfügung. Wählen Sie die Prüfung aus der Liste [neue Prüfungen](https://www.microsoft.com/learning/exam-list.aspx), und suchen Sie dann nach den verfügbaren Vorbereitungsmöglichkeiten für die Prüfung.
 
 **Fr.: Muss meine Einrichtung eine Microsoft Imagine Academy sein, um eine Microsoft Zertifizierungsprüfung oder ein Webpaket über Volumenlizenzen zu bestellen?**
   

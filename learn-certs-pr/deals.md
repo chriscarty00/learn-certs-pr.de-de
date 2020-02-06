@@ -22,7 +22,7 @@ ms.author: micsullivan
                 <img src="images/exam-replay-thumbnail.png">
             </td>
             <td>                
-                <p><strong>Microsoft Exam Replay</strong><br/>Includes: Ein (1) Microsoft Certified Professional (MCP) Zertifizierungsprüfungsgutschein + eine (1) Wiederholung, falls erforderlich.</p>
+                <p><strong>Microsoft Exam Replay</strong><br/>Inklusive: Ein (1) Microsoft Certification Prüfungsgutschein + eine (1) Wiederholung, falls erforderlich.</p>
                 <p><a href="https://us.mindhub.com/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3"><strong>Buy now</strong></a></p>
             </td>
         </tr>
@@ -31,7 +31,7 @@ ms.author: micsullivan
                 <img src="images/exam-replay-with-practice-test-thumbnail.png">
             </td>
             <td>
-               <p><strong>Microsoft-Exam Replay mit Praxistest</strong><br/>Inklusive: Ein (1) Microsoft Certified Professional (MCP) Zertifizierungsprüfungsbeleg + eine (1) Wiederholung, falls erforderlich, und ein (1) Microsoft Official Praxistest.</p>
+               <p><strong>Microsoft-Exam Replay mit Praxistest</strong><br/>Inklusive: Ein (1) Microsoft Certification Prüfungsgutschein + eine (1) Wiederholung, falls erforderlich, und ein (1) Microsoft Official Praxistest.</p>
                <p><a href="https://us.mindhub.com/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink"><strong>Buy now</strong></a></p>
             </td>
         </tr>
@@ -39,7 +39,7 @@ ms.author: micsullivan
 </div>
 
 ## Sparen Sie Geld mit Studentenermäßigungen
-Nutzen Sie umfassende Preisnachlässe für Microsoft Certified Professional (MCP)-Prüfungen, indem Sie Ihren Studentenstatus vor der Registrierung für eine Prüfung nachweisen. Wenn Ihre Schule Mitglied des Microsoft Imagine Academy-Programms ist, können Sie möglicherweise weitere Preisnachlässe in Anspruch nehmen. *Hinweis: Studentenermäßigungen für MCP-Prüfungen sind in Indien und China nicht verfügbar.*
+Nutzen Sie umfassende Preisnachlässe für Microsoft Certified-Prüfungen, indem Sie Ihren Studentenstatus vor der Registrierung für eine Prüfung nachweisen. Wenn Ihre Schule Mitglied des Microsoft Imagine Academy-Programms ist, können Sie möglicherweise weitere Preisnachlässe in Anspruch nehmen. *Hinweis: Studentenermäßigungen für MCP-Prüfungen sind in Indien und China nicht verfügbar.*
 
 [**Mehr erfahren**](/learn/certifications/certification-exam-policies)
 

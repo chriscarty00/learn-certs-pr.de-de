@@ -14,7 +14,7 @@ Auf der ganzen Welt erwarten Partner und Kunden von Microsoft Prüfungen und Zer
 
 ## <a name="security-policies"></a> Sicherheits- und Wiederholungsrichtlinien
 
-Bei Microsoft gelten bestimmte Richtlinien für die Sicherheitsbereiche im Hinblick auf MCP-Prüfungen (Microsoft Certified Professional).
+Bei Microsoft gelten bestimmte Richtlinien für die Sicherheitsbereiche im Hinblick auf Microsoft Certification-Prüfungen.
 
 ### Sperren von Kandidaten
 
@@ -26,7 +26,7 @@ Nachstehend finden Sie einige Beispiele für solches Fehlverhalten, einschließl
 - Schummeln während der Prüfung (beispielsweise durch Lesen der Bildschirminhalte anderer Prüfungsteilnehmer oder der eigenen Notizen sowie Benutzung eines unzulässigen Geräts)
 - Bereitstellen oder Annehmen unerlaubter Hilfe
 - Mitbringen unzulässiger Elemente in das Testcenter während der Prüfung (beispielsweise Notizen oder unzulässige Unterlagen und elektronische Geräte wie Mobiltelefone)
-- Verwendung von unzulässige Material bei dem Versuch, Zertifizierungsanforderungen zu erfüllen (dies beinhaltet die Verwendung von Gedächtnisprotokollen („Braindump”-Material) und/oder unzulässige Veröffentlichungen der Prüfungsfragen mit oder ohne Antworten)
+- Verwendung von unzulässigem Material bei dem Versuch, Zertifizierungsanforderungen zu erfüllen (dies beinhaltet die Verwendung von Gedächtnisprotokollen („Braindump”-Material) und/oder unzulässige Veröffentlichungen der Prüfungsfragen mit oder ohne Antworten)
 - Fälschung der Identität oder Vorgeben einer falschen Identität, um Zugang zu einer Prüfung zu erhalten
 - Durch statistische Analyse festgestelltes Fehlverhalten
 - Vervielfältigung, Veröffentlichung, Weitergabe, Übermittlung, Verkauf, Angebot zum Verkauf, Bekanntmachung, Herunterladen, Verbreitung auf beliebige Weise oder jedwede anderweitige Übertragung, Änderung, Herstellung abgeleiteter Werke, Reverse Engineering, Dekompilierung, Disassemblierung oder Übersetzung von Prüfungen in ihrer Gesamtheit oder in Teilen in irgendeiner Form oder auf irgendeine Weise, mündlich oder schriftlich, elektronisch oder mechanisch für beliebige Zwecke
@@ -50,7 +50,7 @@ Nachstehend finden Sie einige Beispiele für solches Fehlverhalten, einschließl
 
 ### Richtlinien für die Prüfungswiederholung
 
-1. Allgemeine Richtlinien zur Wiederholung der Prüfung zum Microsoft Certified Professional (MCP)
+1. Allgemeine Richtlinien zur Wiederholung der Microsoft Certification-Prüfung
     1. Wenn ein Kandidat bei der erstmaligen Prüfung keinen ausreichenden Punktwert erzielt, muss er mindestens 24 Stunden warten, bevor er die Exam Replay kann.
     2. Wenn ein Kandidat beim zweiten Prüfungsversuch keinen ausreichenden Punktwert erzielt, muss er mindestens 14 Tage warten, bevor er die Prüfung ein drittes Mal ablegt.
     3. Eine 14-tägige Wartezeit gilt auch für die vierte und fünfte Prüfungswiederholung. Ein Kandidat darf jede Prüfung maximal fünf Mal pro Jahr (12 Monate) ablegen. Der 12-Monatszeitraum beginnt am Tag der fünften erfolglosen Wiederholungsprüfung. Der Kandidat kann dann 12 Monate nach diesem Datum die Exam Replay. Um eine bestimmte Prüfung mehr als fünfmal im Jahr abzulegen oder auf die Zeit zwischen den Versuchen zu verzichten, muss ein Kandidat einen Antrag stellen und die vorherige Genehmigung von Microsoft einholen. Anfragen sind zu richten an [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com). Diese Anfragen sollten die folgenden Informationen enthalten:
@@ -74,7 +74,7 @@ Nachstehend finden Sie einige Beispiele für solches Fehlverhalten, einschließl
     4. Es gibt keine jährliche Begrenzung der Anzahl der Versuche der gleichen Prüfung.
     5. Wenn ein Kandidat bei einer Office-Prüfung eine bestandene Punktzahl erreicht, kann er diese erneut ablegen.
 
-4. Richtlinie zur Wiederholung der MCP-Beta-Prüfung
+4. Richtlinie zur Wiederholung der Microsoft Certification-Beta-Prüfung
     1. Beta-Prüfungen dürfen nur einmal während des Beta-Zeitraums abgelegt werden. Wenn der Kandidat die Prüfung besteht, zählt sie zur Anrechnung auf die Zertifizierung. Wenn der Kandidat die Prüfung nicht besteht, kann sie gemäß den oben genannten Richtlinien wiederholt werden.
     2. Diese Richtlinien ersetzen die allgemeinen Wiederholungsrichtlinien.
 5. Prüfungsspezifische Ausnahmen bei den Wiederholungsrichtlinien
@@ -115,7 +115,7 @@ Wenn ein Kandidat gegen eine Prüfungsvorschrift, eine Prüfungsrichtlinie oder 
 
 Auf der Grundlage von Sicherheits- und Integritätsbedenken behält Microsoft sich das Recht vor, bestimmte Regionen, Länder und Testcenter insgesamt aus dem Microsoft-Zertifizierungsprogramm auszuschließen.
 
-### Beta-Prüfungen
+## Beta-Prüfungen
 
 Etwa 400 Personen können die Beta-Prüfung zu einem reduzierten Preis ablegen. Um diesen ermäßigten Tarif nutzen zu können, benötigen Sie einen Beta-Code, der bei der Registrierung als Teil Ihrer Zahlung eingegeben werden muss. Um diesen Code zu erhalten, können Sie:
 
@@ -126,9 +126,9 @@ Bitte beachten Sie, dass die Plätze begrenzt sind und nach der Reihenfolge des 
 
 Als Dankeschön für die Teilnahme am Beta-Prozess erhalten Sie ca. 6 Wochen nach dem Start der Prüfung einen 25% Rabattgutschein von Pearson VUE. Diese Gutscheine werden vom VUE zur Verfügung gestellt und an die E-Mail-Adresse gesendet, die Sie bei der Anmeldung zur Prüfung angegeben haben. Wenn Sie Ihren 25% Rabatt-Gutschein nicht innerhalb von 6 Wochen nach dem Prüfungstermin erhalten, senden Sie bitte eine E-Mail an [pvamericascustomerservice@pearson.com](mailto:pvamericascustomerservice@pearson.com).
 
-### Sonderpreise für Ausbildungseinrichtungen
+## Sonderpreise für Ausbildungseinrichtungen
 
-Sonderpreise für MCP-Prüfungen (Microsoft Certified Professional) sind in den meisten Ländern (außer Indien und China) verfügbar.
+Sonderpreise für Microsoft Certification-Prüfungen sind in den meisten Ländern (außer Indien und China) verfügbar
 
 Sie müssen Ihren Status als Schüler/Student bestätigen, bevor Sie die Prüfung planen, damit Sie in den Genuss der Sonderpreise kommen.
 
@@ -155,7 +155,7 @@ Wählen Sie die Methode aus, mit der Sie Ihren Status überprüfen möchten. Fol
 4. Überprüfungscode von einem Microsoft-Vertreter oder dem Administrator Ihrer Einrichtung
 5. Dokumentation
 
-### Geheimhaltungsvereinbarung
+## Geheimhaltungsvereinbarung
 
 Aktualisiert: Mai 2018
 
@@ -240,7 +240,7 @@ Diese Microsoft-Zertifizierungsprogramm-Vereinbarung (**"Vereinbarung"**) ist ei
 1. DEFINITIONEN
 
    1. Ein ***Verbundenes Unternehmen*** ist jede juristische Person, die als Eigentümer oder als abhängiges Unternehmen bzw. wechselseitig beteiligtes Unternehmen mit einer der Parteien in Verbindung steht. „Eigentümer“ bedeutet einen Besitzanteil von mehr als 50 % oder die Leitung des Unternehmensmanagements.
-   2. "***Microsoft Certified Website***" bezeichnet die Microsoft-Website ausschließlich für die Microsoft Certified Professionals.
+   2. "***Microsoft Certified Website***" bezeichnet die Microsoft-Website ausschließlich für die Microsoft Certified.
    3. “***Microsoft***” steht für das Unternehmen „Microsoft” wie in Abschnitt 12.4 definiert.
    4. "***Microsoft Certification***" bezieht sich auf das Bestehen der erforderlichen Prüfungen und die Erfüllung und Einhaltung aller Zertifizierungs- und Rezertifizierungs-Anforderungen zur Verwendung des entsprechenden Qualifizierungsnachweises oder Logos. Die aktuelle Liste von [Microsoft-Zertifizierungen](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based) können Sie einsehen unter.
    5. "***Microsoft Certification Credential***" oder "***Credential***" bezeichnet den vollständigen oder abgekürzten Titel einer bestimmten Microsoft-Zertifizierung, der verwendet wird, um die Übereinstimmung einer Person mit den Anforderungen für eine bestimmte Microsoft-Zertifizierung zu dokumentieren.
@@ -267,7 +267,7 @@ Diese Microsoft-Zertifizierungsprogramm-Vereinbarung (**"Vereinbarung"**) ist ei
    2. *Zusätzliche Bedingungen*: Für die Programmleistungen können weitere Bestimmungen, Bedingungen und Lizenzen gelten. Sie müssen alle zusätzlichen Bedingungen im Zusammenhang mit einer Programmleistung akzeptieren und erfüllen, bevor Sie eine solche Leistung nutzen können. Sie dürfen eine Programmleistung nicht nutzen, wenn Sie die jeweiligen zusätzlichen Bestimmungen, Bedingungen und Lizenzen nicht erfüllen.
 
 4. VERWENDUNG VON ZERTIFIZIERUNGSDATEN
-   1. *Gewährung von Rechten*: Vorbehaltlich (a) der Einhaltung der Nutzungsbedingungen dieser Vereinbarung und der Richtlinien, (b) der erfolgreichen Erfüllung aller derzeitigen Anforderungen für die Microsoft-Zertifizierung, (c) der fortwährenden Einhaltung aller derzeitigen und geltenden Zertifizierungs- und Rezertifizierungsanforderungen und (d) Ihrer Akzeptanz der Richtlinien gewährt Ihnen Microsoft hiermit das Recht zur Nutzung des Qualifikationsnachweises zur Microsoft-Zertifizierung wie in Ihrem aktuellen Transkript (nicht dem Legacy-Transkript) auf der Microsoft Certified Professional Website in Übereinstimmung mit den Richtlinien angegeben.
+   1. *Gewährung von Rechten*: Vorbehaltlich (a) der Einhaltung der Nutzungsbedingungen dieser Vereinbarung und der Richtlinien, (b) der erfolgreichen Erfüllung aller derzeitigen Anforderungen für die Microsoft-Zertifizierung, (c) der fortwährenden Einhaltung aller derzeitigen und geltenden Zertifizierungs- und Rezertifizierungsanforderungen und (d) Ihrer Akzeptanz der Richtlinien gewährt Ihnen Microsoft hiermit das Recht zur Nutzung des Qualifikationsnachweises zur Microsoft-Zertifizierung wie in Ihrem aktuellen Transkript (nicht dem Legacy-Transkript) auf der Microsoft Certification Website in Übereinstimmung mit den Richtlinien angegeben.
 
    2. *Einschränkungen*: Sie dürfen den Qualifikationsnachweis nicht auf andere Weise verwenden als in dieser Vereinbarung und den Richtlinien und in der entsprechenden, von Microsoft zur Verfügung gestellten Grafik beschrieben. Sie müssen die Qualifikationsnachweise auf eine Art und Weise verwenden, die den Rechten von Microsoft an den Qualifikationsnachweisen nicht schadet, und Sie werden nichts unternehmen, das die Rechte von Microsoft an den Qualifikationsnachweisen mindert oder dem Ruf oder dem geschäftlichen Ansehen von Microsoft bezüglich der Qualifikationsnachweise Schaden zufügt. Sie dürfen die Qualifikationsnachweise nicht auf eine Art und Weise verwenden, die zu Verwechselung von Ihnen angebotener Produkte oder Services mit Microsoft-Produkten oder -Services führen könnte.
 
@@ -296,7 +296,7 @@ Diese Microsoft-Zertifizierungsprogramm-Vereinbarung (**"Vereinbarung"**) ist ei
 
 7. ÄNDERUNGEN
 
-   Microsoft behält sich das Recht vor, (a) die Vereinbarung und die Richtlinien zu aktualisieren und zu ändern, (b) das Programm oder einen Teil davon jederzeit zu ändern, einschließlich dem Recht, Qualifikationsnachweise zurückzunehmen, die Zertifizierungsanforderungen, Anforderungen und Programmleistungen zu ändern sowie (c) das Programm einzustellen. Microsoft wird Änderungen auf der [Microsoft Certification Website](https://www.microsoft.com/learning/program-membership.aspx) veröffentlichen. Sie sind dafür verantwortlich, diese Microsoft- Certified-Professional-Websites regelmäßig auf Änderungen zu überprüfen. Änderungen werden an dem Tag wirksam, an dem sie veröffentlicht werden. Sie gelten nicht rückwirkend.
+   Microsoft behält sich das Recht vor, (a) die Vereinbarung und die Richtlinien zu aktualisieren und zu ändern, (b) das Programm oder einen Teil davon jederzeit zu ändern, einschließlich dem Recht, Qualifikationsnachweise zurückzunehmen, die Zertifizierungsanforderungen, Anforderungen und Programmleistungen zu ändern sowie (c) das Programm einzustellen. Microsoft wird Änderungen auf der [Microsoft Certification Website](https://www.microsoft.com/learning/program-membership.aspx) veröffentlichen. Sie sind dafür verantwortlich, diese Microsoft Certification-Websites regelmäßig auf Änderungen zu überprüfen. Änderungen werden an dem Tag wirksam, an dem sie veröffentlicht werden. Sie gelten nicht rückwirkend.
 
 8. KEINE GEWÄHRLEISTUNG
 
@@ -517,7 +517,7 @@ Weitere Informationen finden Sie unter: [NCCRS credit for Microsoft certificatio
 
 Download: [Transcript Service Application](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-### <a name="policies-5"></a> Übermitteln eines Prüfungselements einer Microsoft-Zertifizierung zur Überprüfung
+## <a name="policies-5"></a> Übermitteln eines Prüfungselements einer Microsoft-Zertifizierung zur Überprüfung
 
 [Jede Prüfungsfrage wird sorgfältig geprüft](https://www.microsoft.com/learning/certification-exams.aspx) von einem Gremium aus technischen und berufsbezogenen Experten, die jede Frage: auf technische Genauigkeit, Klarheit und Relevanz prüfen. Wenn Sie der Meinung sind, dass eine bestimmte Frage, die Sie in einer Microsoft-Zertifizierungsprüfung gesehen haben, ungültig ist, können Sie eine Bewertung der Frage: mithilfe der unten beschriebenen Schritte anfordern. Sie müssen innerhalb von 30 Tagen nach Ablegen der Prüfung ein Formular zur Prüfung der Prüfungsaufgabe einreichen.
 
@@ -535,16 +535,16 @@ Der Anforderungsprozess besteht darin, problematische Fragen zu identifizieren u
 
 Wir schätzen und vertrauen auf Ihr Feedback, damit Microsoft-Zertifizierungsprüfungen so gültig und relevant wie möglich sind.
 
-### Spezielle Einrichtung bei Prüfungen
+## Spezielle Einrichtung bei Prüfungen
 
 ### Bei Prüfungen, die über Pearson VUE durchgeführt werden:
 
 Wenn Sie zusätzliche Zeit benötigen, weil die Prüfung nicht in Ihrer Muttersprache verfügbar ist, können Sie dies mit dem Formular [Englisch as a Second Language beantragen](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx). Befolgen Sie die Anweisungen auf dem Formular. 
 
-Wenn Sie während einer Prüfung spezielle Materialien oder eine andere Unterkunft benötigen, können Sie eine Unterkunft über [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) mit dem “Reasonable Adjustments Request System” anfordern [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Das Reasonable Adjustments Request System ist ein sicheres Online-System zur Beantragung von Unterkünften und zur Einreichung von Belegen.
+Wenn Sie während einer Prüfung spezielle Materialien oder eine andere Unterkunft benötigen, können Sie eine Unterkunft über [Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) mit dem “Reasonable Adjustments Request System” anfordern [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Das Reasonable Adjustments Request System ist ein sicheres Online-System zur Beantragung von Unterkünften und zur Einreichung von Belegen.
 
 - Wenn Sie zum ersten Mal Benutzer des Anforderungssystems sind, müssen Sie einen Benutzernamen und ein Passwort erstellen. Um einen Benutzernamen zu erstellen, klicken Sie auf den Link „Registrieren” auf dem Anmeldebildschirm. Bitte beachten Sie: Das System erfordert, dass Sie über ein aktives E-Mail-Konto verfügen.
-- Pearson VUE verwendet dieses sichere System, da Sie zusätzliche Unterlagen hochladen müssen. Wenn Sie dies nicht bereits getan haben, geben Sie Ihrem Gutachter (Arzt, Psychologen) eine Kopie der [Leitlinien für Gutachter](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) für Ihre Behinderung. Ihr Gutachter sollte sicherstellen, dass die von ihm zur Verfügung gestellte Dokumentation unseren Richtlinien entspricht. In den meisten Fällen wird Ihr Gutachter ein Psychologe oder Arzt sein, der eine Reihe von psychologischen, pädagogischen oder medizinischen Tests durchgeführt hat und Ihnen eine Kopie eines Diagnoseberichts oder ein detailliertes Schreiben zur Verfügung gestellt hat.
+- Pearson VUE verwendet dieses sichere System, da Sie zusätzliche Unterlagen hochladen müssen. Wenn Sie dies nicht bereits getan haben, geben Sie Ihrem Gutachter (Arzt, Psychologen) eine Kopie der [Leitlinien für Gutachter](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) für Ihre Behinderung. Ihr Gutachter sollte sicherstellen, dass die von ihm zur Verfügung gestellte Dokumentation unseren Richtlinien entspricht. In den meisten Fällen wird Ihr Gutachter ein Psychologe oder Arzt sein, der eine Reihe von psychologischen, pädagogischen oder medizinischen Tests durchgeführt hat und Ihnen eine Kopie eines Diagnoseberichts oder ein detailliertes Schreiben zur Verfügung gestellt hat.
 - **Bitte gewähren Sie Pearson VUE 10 Werktage Zeit, um Ihre Materialien zu überprüfen. Bitte planen Sie Ihren Antrag entsprechend.**
 - Nachdem Ihre Anfrage geprüft wurde, erhalten Sie eine E-Mail des Inhalts, dass eine Entscheidung getroffen wurde. Das Genehmigungsschreiben wird im Abschnitt „Meine Dokumente” im Reasonable Adjustments Request System angezeigt. Falls genehmigt, enthält das Genehmigungsschreiben Anweisungen zum Design Ihrer angepassten Prüfung.
 - Wenn Sie mit der Entscheidung über die Prüfungsanpassungen nicht zufrieden sind, können Sie gegen die Entscheidung Einspruch einlegen, indem Sie auf die Schaltfläche „Einspruch einlegen” im gleichen Abschnitt klicken, in dem das Genehmigungsschreiben im Reasonable Adjustments Request System erscheint.” Bitte füllen Sie das Einspruchsformular aus und laden Sie es hoch, wenn Sie auf die Schaltfläche klicken. Behindertenexperten prüfen alle Rechtsmittelanträge.
@@ -553,9 +553,7 @@ Wenn Sie während einer Prüfung spezielle Materialien oder eine andere Unterkun
 
 Wenn Sie zusätzliche Zeit benötigen, weil die Prüfung nicht in Ihrer Muttersprache verfügbar ist, spezielle Ausrüstung benötigen oder eine andere Unterkunft anfordern möchten, wenn Sie eine Prüfung ablegen, können Sie eine Unterkunft bei Certiport nach dem beschriebenen Verfahren [hier](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations) anfordern .
 
-### Stornierungs- und Neuterminierungsrichtlinie:
-
-### <a name="cancellation-and-reschedule-policy"></a> Die Stornierung oder Neuterminierung 
+### <a name="cancellation-and-reschedule-policy"></a> Stornierungs- und Neuterminierungsrichtlinie:
 
 - Ihrer Prüfung innerhalb von mindestens 6 Werktagen vor Ihrem Termin ist kostenfrei.
 - Die Stornierung oder Neuterminierung Ihrer Prüfung innerhalb von 5 Werktagen vor der registrierten Prüfungszeit ist kostenpflichtig.
@@ -624,7 +622,7 @@ Microsoft Certified Trainer arbeiten mit vielen Kandidaten bei der Vorbereitung 
 
 Sie können auch andere Teilnehmer fragen, wie Sie diese Aufgaben bewältigen. Lesen Sie White Papers, MSDN-Artikel, und TechNet Infos, um zusätzliche Informationen zu den Prüfungsaufgaben zu erhalten. Nutzen Sie auch Ressourcen wie die Vorbereitungsmaterialien im entsprechenden Abschnitt der Seite mit den Prüfungsdetails. Sie bieten unter anderem Links zu verfügbaren Onlinekursen, Mikrolern-Einheiten und zu einem Portal, auf dem Sie Präsenzkurse  in Ihrer Region finden.
 
-Zusätzlich werden [Microsoft Official Practice Tests](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) für einige unserer Zertifizierungsprüfungen durchgeführt. Diese können Ihnen mehr Informationen über Ihre speziellen Stärken und Schwächen liefern. Allerdings ist das Bestehen eines Praxistests keine Garantie dafür, dass Sie die Zertifizierungsprüfung bestehen werden.
+Zusätzlich werden [Microsoft Official Practice Tests](https://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) für einige unserer Zertifizierungsprüfungen durchgeführt. Diese können Ihnen mehr Informationen über Ihre speziellen Stärken und Schwächen liefern. Allerdings ist das Bestehen eines Praxistests keine Garantie dafür, dass Sie die Zertifizierungsprüfung bestehen werden.
 
 Wenn Sie die Prüfung abgelegt und nicht bestanden haben, priorisieren Sie die Kompetenzen, die Sie üben sollten, indem Sie sich auf die Inhalte konzentrieren, in denen Ihre Prüfungsleistung am schwächsten war und auf die Inhalte, die den höchsten Prozentsatz an Fragen haben.
 
@@ -634,17 +632,17 @@ Besuchen Sie die [Prüfungsanmeldeseite](https://www.microsoft.com/learning/cert
 
 **Muss ich die Prüfung auf Englisch ablegen?**
 
-Microsoft Zertifizierungsprüfungen stehen in verschiedenen Sprachen zur Verfügung. Bewerber, die Prüfung auf Englisch statt in ihrer Muttersprache ablegen müssen, können eine Verlängerung der Prüfungszeit beantragen. Die Entscheidung, ob eine Verlängerung der Prüfungszeit gewährt wird, hängt vom jeweiligen Einzelfall ab. Anfordern von Prüfungsunterkünften bei [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) or [Certiport](http://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm).
+Microsoft Zertifizierungsprüfungen stehen in verschiedenen Sprachen zur Verfügung. Bewerber, die Prüfung auf Englisch statt in ihrer Muttersprache ablegen müssen, können eine Verlängerung der Prüfungszeit beantragen. Die Entscheidung, ob eine Verlängerung der Prüfungszeit gewährt wird, hängt vom jeweiligen Einzelfall ab. Anfordern von Prüfungsunterkünften bei [Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) or [Certiport](https://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm).
 
 **Welche Unterkünfte stehen für Behinderte zur Verfügung?**
 
-Microsoft hat es sich zum Ziel gesetzt, dass unsere Prüfungen für jedermann zugänglich sind, einschließlich Menschen mit Behinderungen. Für eine Liste der verfügbaren Unterkünfte besuchen Sie bitte die Seite [Unterkünfte](http://www.pearsonvue.com/accommodations/).
+Microsoft hat es sich zum Ziel gesetzt, dass unsere Prüfungen für jedermann zugänglich sind, einschließlich Menschen mit Behinderungen. Für eine Liste der verfügbaren Unterkünfte besuchen Sie bitte die Seite [Unterkünfte](https://www.pearsonvue.com/accommodations/).
 
 **Wie viel kosten die Prüfungen?**
 
 Experten und Mitarbeiterprüfungen kosten üblicherweise US$165, der Preis wird jedoch an den jeweiligen Wert der Währung in den verschiedenen Ländern und Regionen angepasst. Die Preise für Prüfungen können sich ändern. In einigen Ländern und Regionen können zusätzliche Steuern anfallen.
 
-- Für genaue Preisangaben für Microsoft Office Specialist (MOS) Prüfungen kontaktieren Sie bitte [Certiport](http://www.certiport.com/).
+- Für genaue Preisangaben für Microsoft Office Specialist (MOS) Prüfungen kontaktieren Sie bitte [Certiport](https://www.certiport.com/).
 
 - Für alle anderen Prüfungen finden Sie unter [Alle Prüfungen durchsuchen](https://www.microsoft.com/learning/exam-list.aspx) die Prüfungsseite, die den Preis der Prüfung enthält.
 
@@ -656,7 +654,7 @@ Wenn Sie Feedback zu einem Microsoft-Präsenzkurs haben, wenden Sie sich direkt 
 
 Wenn Sie Bedenken hinsichtlich der technischen Genauigkeit eines bestimmten Elements haben, folgen Sie bitte dem Prozess [Prüfungsaufgabenanforderung](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5).
 
-Um ein Anliegen über ein Prüfzentrum oder technische Schwierigkeiten während Ihrer Prüfung zu melden, wenden Sie sich bitte an den Kundendienst unter folgender Adresse [Pearson VUE](http://www.pearsonvue.com/microsoft/) or [Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm).
+Um ein Anliegen über ein Prüfzentrum oder technische Schwierigkeiten während Ihrer Prüfung zu melden, wenden Sie sich bitte an den Kundendienst unter folgender Adresse [Pearson VUE](https://www.pearsonvue.com/microsoft/) or [Certiport](https://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm).
 
 Um andere Arten von Feedback anzubieten, wenden Sie sich bitte an Ihr [Microsoft Regional Service Center](https://www.microsoft.com/learning/help.aspx).
 
@@ -850,7 +848,7 @@ Wenn Sie für die Wiederholung der Prüfung bereit sind, planen Sie einen Termin
 
 Obwohl Microsoft-Zertifizierungsprüfungen Feedback zu den Bereichen bieten, in denen die Prüfungsteilnehmer weiter an der Entwicklung ihrer Kompetenzen arbeiten müssen, sind die Prüfungen nicht dafür ausgelegt, eine detaillierte Diagnose oder detailliertes Feedback zu geben. Wir empfehlen Ihnen, den Abschnitt „Bewertete Kompetenzen“ auf der Seite mit den Prüfungsdetails zu überprüfen und Ihre Kompetenzen ehrlich im Hinblick darauf einzuschätzen, was in der Prüfung bewertet wird. Der beste Weg, dies zu tun, ist die aufgelisteten Kompetenzen zu üben und sich alle Schwierigkeiten zu notieren. Üben Sie, bis diese Schwierigkeiten beseitigt sind. Sie könnten auch andere fragen, wie sie diese Aufgaben durchführen. Gehen diese dabei anders vor? Verstehen Sie warum. Lesen Sie White Papers, konsultieren Sie Docs etc. um zusätzliche Informationen zu erhalten in Bezug auf die Aufgaben in der Prüfung. Nutzen Sie die Ressourcen im Abschnitt „Vorbereitungsoptionen“ der Übersichtsseite der Prüfung und die Study Groups, die Sie jeweils unten auf den Seiten finden.
 
-Schließlich stehen [Microsoft Official Practice Tests](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) für einige unserer Zertifizierungsprüfungen zur Verfügung. Diese können Ihnen mehr Informationen über Ihre speziellen Stärken und Schwächen liefern. Allerdings ist das Bestehen eines Praxistests keine Garantie dafür, dass Sie die Zertifizierungsprüfung bestehen werden.
+Schließlich stehen [Microsoft Official Practice Tests](https://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) für einige unserer Zertifizierungsprüfungen zur Verfügung. Diese können Ihnen mehr Informationen über Ihre speziellen Stärken und Schwächen liefern. Allerdings ist das Bestehen eines Praxistests keine Garantie dafür, dass Sie die Zertifizierungsprüfung bestehen werden.
 
 **Wie sieht die Richtlinie für die Prüfungswiederholung aus?**
 
@@ -892,7 +890,7 @@ Betrügerisches Verhalten ist jede betrügerische Aktivität, die es einem nicht
 
 **Was sind gefälschte Bewertungsberichte?**
 
-Gefälschte Bewertungsberichte sind Berichte, die Microsoft als ungültig erachtet oder die das Microsoft Certified Professional-Programm in irgendeiner Weise hintergehen.
+Gefälschte Bewertungsberichte sind Berichte, die Microsoft als ungültig erachtet oder die das Microsoft Certification-Programm in irgendeiner Weise hintergehen.
 
 **Was passiert, wenn ein Kandidat einen Bewertungsbericht fälscht?**
 
@@ -1071,7 +1069,7 @@ Wenn Sie allgemeine Fragen zur Prüfungsanmeldung haben, wenden Sie sich bitte a
 
 **Wie kann ich eine Unterkunft buchen?**
 
-Wenn Sie während einer Prüfung spezielle Materielien oder eine andere Unterkunft benötigen, können Sie über [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) mit dem "Reasonable Adjustments Request System" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) eine Unterkunft anfordern. Weitere Informationen finden Sie im Abschnitt Spezielle Unterkünfte bei Prüfungen oben.
+Wenn Sie während einer Prüfung spezielle Materialien oder eine andere Unterkunft benötigen, können Sie über [Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) mit dem "Reasonable Adjustments Request System" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) eine Unterkunft anfordern. Weitere Informationen finden Sie im Abschnitt Spezielle Unterkünfte bei Prüfungen oben.
 
 **Warum muss ich Unterlagen einreichen?**
 

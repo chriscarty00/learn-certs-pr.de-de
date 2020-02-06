@@ -10,11 +10,11 @@ ms.author: micsullivan
 ---
 # Informationen über eingestellte Zertifizierungen
 
-Um das Microsoft Certified Professional Programm auf dem neuesten Stand zu halten, überprüft Microsoft Learning kontinuierlich unsere aktuellen und geplanten Zertifizierungen, um sicherzustellen, dass unsere Zertifizierungen die neuesten Microsoft-Technologien sowie die Technologien widerspiegeln, die Microsoft Certified Professionals täglich verwenden.
+Um das Microsoft Certification Programm auf dem neuesten Stand zu halten, überprüft Microsoft Learning kontinuierlich unsere aktuellen und geplanten Zertifizierungen, um sicherzustellen, dass unsere Zertifizierungen die neuesten Microsoft-Technologien sowie die Technologien widerspiegeln, die Microsoft Certified täglich verwenden.
 
 ## Zur Einstellung geplante Zertifizierungen
 
-Suchen zertifizierungen, die in den nächsten 12 Monaten aus dem Programm genommen werden, (Die folgenden Informationen können sich ändern.)
+Zertifizierungen, die in den nächsten 12 Monaten aus dem Programm genommen werden, (Die folgenden Informationen können sich ändern.)
 
 [MCSA: Dynamics 365 for Operations](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wird eingestellt am 30. Juni 2020  
 
@@ -24,7 +24,7 @@ MCSA: CRM Dynamics Technical&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 ## Eingestellte Zertifizierungen
 
-Finden Sie Zertifizierungen, die im letzten Jahr eingestellt wurden. Sollte eine Zertifizierung vor über einem Jahr eingestellt worden sein, so wird sie aus deiser Liste entfernt. Wenn eine Zertifizierung vor mehr als einem Jahr eingestellt wurde, wird sie von dieser Seite entfernt.
+Finden Sie Zertifizierungen, die im letzten Jahr eingestellt wurden. Sollte eine Zertifizierung vor über einem Jahr eingestellt worden sein, so wird sie aus dieser Liste entfernt. Wenn eine Zertifizierung vor mehr als einem Jahr eingestellt wurde, wird sie von dieser Seite entfernt.
 Nach dem Auslaufen einer Zertifizierung kann diese nicht mehr erreicht werden, aber wenn sie bereits erworben wurde, verbleibt sie auf den Kopien im Abschnitt Aktiv.
 
 HINWEIS: Nach dem Auslaufen einer Zertifizierung prüft Microsoft weiterhin die entsprechenden Technologien, um festzustellen, ob sie noch relevant sind. Sollte die entsprechende Technologie als nicht mehr relevant gelten, so werden die zugehörigen Zertifikate in den Verlaufsbereich der Zertifizierungen im Transkript verschoben.

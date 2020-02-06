@@ -103,7 +103,7 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | [MB6-895](https://www.microsoft.com/learning/exam-MB6-895.aspx) | Financial Management in Microsoft Dynamics 365 for Finance and Operations | 31. August 2019
 | [MB6-896](https://www.microsoft.com/learning/exam-MB6-896.aspx) | Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations | 31. August 2019
 
-## Sonstige eingestellte Kurse
+## Sonstige eingestellte Prüfungen
 
 | ITPro/Developer | | |
 | --- | --- | --- |

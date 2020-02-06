@@ -64,7 +64,7 @@ Detaillierte Informationen zu den Anforderungen an das MCT-Programm finden Sie i
 - Besitz einer aktuellen, für das MCT-Programm infrage kommenden Microsoft-Zertifizierung oder -Qualifizierung
 (Siehe unten zur Liste der Qualifizierungszertifikate)
 
-- Erfüllen der Mindestanforderungen für „Teaching at least one Class”, geprüft von [Metrics that Matter (MTM)](http://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) ODER durch ein anderes anerkanntes Umfrage-Tool.
+- Erfüllen der Mindestanforderungen für „Teaching at least one Class”, geprüft von [Metrics that Matter (MTM)](https://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) ODER durch ein anderes anerkanntes Umfrage-Tool.
 
 **Hinweis** Die Verlängerungsbedingungen können sich ändern.
 

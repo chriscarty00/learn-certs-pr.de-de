@@ -2,19 +2,20 @@
 title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Administrator Associate'
-  description: Azure-Administratoren implementieren, überwachen und verwalten Microsoft Azure-Lösungen, einschließlich wichtiger Dienste im Zusammenhang mit Datenverarbeitung, Speicher, Netzwerk und Sicherheit.
+  description: Azure-Administratoren implementieren, überwachen und warten Microsoft Azure-Lösungen, einschließlich wichtiger Dienste in den Bereichen Computer, Speicher, Netzwerk und Sicherheit.
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Azure-Administratoren implementieren, überwachen und verwalten Microsoft Azure-Lösungen, einschließlich wichtiger Dienste im Zusammenhang mit Datenverarbeitung, Speicher, Netzwerk und Sicherheit. [a może Erfahren Sie mehr über diese Zertifizierung nach den Änderungen vom 1. Mai 2019.](/learn/certifications/posts/simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate)
-subTitle: Azure-Administratoren implementieren, überwachen und verwalten Microsoft Azure-Lösungen, einschließlich wichtiger Dienste im Zusammenhang mit Datenverarbeitung, Speicher, Netzwerk und Sicherheit.
+summary: |-
+  Azure-Administratoren implementieren, überwachen und warten Microsoft Azure-Lösungen, einschließlich wichtiger Dienste in den Bereichen Computer, Speicher, Netzwerk und Sicherheit.
+subTitle: Azure-Administratoren implementieren, überwachen und warten Microsoft Azure-Lösungen, einschließlich wichtiger Dienste in den Bereichen Computer, Speicher, Netzwerk und Sicherheit.
 levels:
 - intermediate
 skills:
-- Verwaltung von Azure-Abonnements und Ressourcen
-- Implementieren und Verwalten von Speicherplatz
+- Azure-Abonnements und Ressourcen verwalten
+- Speicherplatz implementieren und verwalten
 - Bereitstellen und Verwalten von virtuellen Maschinen (VMs)
-- Virtuelle Netzwerke konfigurieren und verwalten
-- Identitäten verwalten
+- Konfiguration und Verwaltung virtueller Netzwerke
+- Identitäten verwalten Kommentar
 roles:
 - administrator
 type: role-based
@@ -28,16 +29,23 @@ products:
 courses:
 - uid: course.az-103t00
 paths:
-- uid: learn.secure-your-cloud-data
 - uid: learn.administer-infrastructure-resources-in-azure
+- uid: learn.architect-storage-infrastructure
+- uid: learn.architect-network-infrastructure
+- uid: learn.architect-infrastructure-operations
+- uid: learn.architect-compute-infrastructure
+- uid: learn.architect-migration-bcdr
 - uid: learn.manage-resources-in-azure
+- uid: learn.security.manage-identity-and-access
+- uid: learn.security.manage-security-operations
+- uid: learn.security.implement-resource-mgmt-security
 - uid: learn.administer-containers-in-azure
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF
 exams:
 - uid: exam.az-103
 resources:
-- title: Lernpfad zur Zertifizirung
-  description: 'Entdecken Sie die Schulungsressourcen, um Microsoft Certified: Azure Administrator Associate zu werden.'
+- title: Lernpfad zur Zertifizierung
+  description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Azure Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
@@ -45,11 +53,11 @@ resources:
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Prüfungswiederholung
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: deals.md
 - title: Unterstützung von Zertifizierungen
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: help.md
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.

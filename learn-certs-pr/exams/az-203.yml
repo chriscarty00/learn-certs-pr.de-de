@@ -1,43 +1,45 @@
 ### YamlMime:Examination
 title: Developing Solutions for Microsoft Azure
 metadata:
-  title: 'Prüfung AZ-203: Developing Solutions for Microsoft Azure'
-  description: 'Prüfung AZ-203: Developing Solutions for Microsoft Azure'
+  title: 'Exam AZ-203: Developing Solutions for Microsoft Azure'
+  description: 'Exam AZ-203: Developing Solutions for Microsoft Azure'
 uid: exam.az-203
 displayName: AZ-203
-summary: >-
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'> EINE NEUE VERSION DIESES EXAMENS, <a href="/learn/certifications/exams/az-204">AZ-204</a>, WURDE AM 24. FEBRUAR BEREITGESTELLT. Sie können dieses Examen ablegen, bis es am 31. Mai 2020 eingestellt wird. Hinweis: Prüfungen werden um 23:59 Uhr Central Standard Time eingestellt.<br/><br/></div>
+  
   Kandidaten für diese Prüfung sind Azure Entwickler, die Cloud-Lösungen wie Anwendungen und Services entwerfen und bauen. Sie nehmen an allen Phasen der Entwicklung teil, vom Lösungsdesign über die Entwicklung und Bereitstellung bis hin zu Test und Wartung. Sie arbeiten mit Cloud Solution Architects, Cloud DBAs, Cloud Administratoren und Clients zusammen, um die Lösung zu implementieren.
-
   <br/>
-
 
   Die Kandidaten sollten in der Entwicklung von Anwendungen und Diensten unter Verwendung von Azure-Tools und -Technologien, einschließlich Speicherung, Sicherheit, Berechnung und Kommunikation, versiert sein.
 
-
   Die Kandidaten müssen über mindestens ein Jahr Erfahrung im Entwickeln skalierbarer Lösungen in allen Phasen der Softwareentwicklung verfügen und über Kenntnisse in mindestens einer Cloud-gestützten Programmiersprache verfügen.
+
+  <div style='color&#58; red; font-weight&#58; bold;'><br/>HINWEIS&#58; Wenn Sie dieses Examen bestehen, erhalten Sie die folgende Zertifizierung: <a href="https://docs.microsoft.com/learn/certifications/azure-developer">Microsoft Certified&#58; Azure Developer Associate</a>.</div>
 subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Entwickeln von Azure Infrastructure as a Service Compute-Lösungen; Entwickeln von Azure Platform as a Service Compute-Lösungen; Entwickeln für Azure Storage; Implementieren von Azure Security; Überwachung, Fehlerbehebung und Optimieren von Lösungen; Verbinden mit Azure Services und Drittanbieter-Diensten.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
-practiceTestUrl: https://us.mindhub.com/p/MU-AZ-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-203&examname=Prüfung%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-203
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-203&examname=Exam%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-203
 levels:
 - intermediate
 skills:
-- Entwicklung von Azure Infrastructure as a Service Computing-Lösungen (10-15%)
-- Entwickeln von Azure Platform as a  Service-Computing-Lösungen (20-25%)
+- EINE NEUE VERSION DIESES EXAMENS, AZ -204, WURDE AM 24. FEBRUAR BEREITGESTELLT. Sie können dieses Examen ablegen, bis es am 31. Mai 2020 eingestellt wird. Bitte laden Sie das untenstehende Dokument „Skills measured” herunter, um zu sehen, sich geändert hat.
+- Entwickeln von Azure Infrastructure als Service Computing-Lösungen (10-15%)
+- Entwickeln von Azure Platform als Service Computing-Lösungen (20-25%)
 - Entwickeln für Azure-Storage (15-20%)
-- Implementieren der Azure-Security(10-15%)
-- Überwachung, Fehlerbehebung und Optimierung von Azure-Lösungen (10-15%)
-- Verbindung zu Azure-Diensten und Diensten von Drittanbietern herstellen und nutzen (20-25%)
+- Implementieren der Azure-Sicherheit(10-15%)
+- Überwachen, Fehlerbehebung und Optimierung von Lösungen (10-15%)
+- Verbindung zu Azure- und Drittanbieter-Diensten herstellen und nutzen (20-25%)
+retirementDate: 05/31/2020
 roles:
 - developer
-exams:
-- uid: exam.az-202
 products:
 - azure
 - azure-virtual-machines
@@ -66,31 +68,31 @@ paths:
 - uid: learn.deploy-a-website-with-azure-app-service
 - uid: learn.data-science
 - uid: learn.secure-your-cloud-data
-- uid: learn.modern-data-warehouse
-- uid: learn.work-with-nosql-data-in-azure-cosmos-db
-- uid: learn.data-ai.intro-to-ml-with-python
 relatedCertifications:
 - related:
-    uid: certification.azure-developer
+    uid: none
 resources:
-- title: Lernpfad zur Zertifizirung
-  description: 'Entdecken Sie die Schulungsressourcen, um ein Microsoft Certified: Azure Developer Associate zu werden.'
+- title: Lernpfad zur Zertifizierung
+  description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Azure Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Prüfung wiederholen
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Werktags (Montg-Freitag) wird Ihnen ein Forenmoderatorantworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
   description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md

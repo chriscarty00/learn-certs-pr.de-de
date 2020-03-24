@@ -1,0 +1,190 @@
+### YamlMime:Course
+title: Managing Modern Desktops
+metadata:
+  title: 'Course MD-101T00-A: Managing Modern Desktops'
+  description: 'Course MD-101T00-A: Managing Modern Desktops'
+uid: course.md-101t00
+courseNumber: 'MD-101T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planung, Entwicklung und Einrichtung einer Strategie zur Bereitstellung, Aktualisierung und Aktualisierung des Betriebssystems.
+- skill: Die Vorteile und Methoden von Co-Management-Strategien zu verstehen.
+- skill: Planung und Einrichtung der Geräteregistrierung und -konfiguration.
+- skill: Verwalten und Bereitstellen von Anwendungen und Planen einer Strategie zur Verwaltung mobiler Anwendungen.
+- skill: Verwalten von Benutzern und Authentifizierung mit Azure AD und Active Directory DS.
+- skill: Beschreiben und Einrichten von Methoden zum Schutz von Geräten und Daten.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-101
+summary: |-
+  In diesem Kurs lernen die Teilnehmer, wie sie eine Strategie zur Bereitstellung eines Betriebssystems unter Verwendung moderner Bereitstellungsmethoden planen und einrichten, sowie eine Aktualisierungsstrategie einrichten können. Die Teilnehmer werden in die Schlüsselkomponenten moderner Management- und Co-Management-Strategien eingeführt. Dieser Kurs behandelt auch, was es braucht, um Microsoft Intune in Ihre Organisation zu integrieren. Die Teilnehmer lernen auch Methoden für die Bereitstellung und Verwaltung von Anwendungen und browserbasierten Anwendungen kennen. Die Teilnehmer werden in die Schlüsselkonzepte der Sicherheit im modernen Management eingeführt, einschließlich Authentifizierung, Identitäten, Zugriff und Konformitäts-Richtlinien. Die Teilnehmer werden mit Technologien wie Azure Active Directory, Azure Information Protection und Windows Defender Advanced Threat Protection vertraut gemacht und lernen, wie sie zum Schutz von Geräten und Daten eingesetzt werden können.
+
+  #### Zielgruppenprofil
+  Der Modern Desktop Administrator verteilt, konfiguriert, sichert, verwaltet und überwacht Geräte und Client-Anwendungen in einer Unternehmensumgebung. Zu den Aufgaben gehört die Verwaltung von Identität, Zugriff, Richtlinien, Updates und Anwendungen. Der MDA arbeitet mit dem M365 Enterprise Administrator zusammen, um eine Gerätestrategie zu entwickeln und zu implementieren, die den Geschäftsanforderungen eines modernen Unternehmens entspricht. 
+  
+  Der Modern Desktop Administrator muss mit M365-Arbeitslasten vertraut sein und über umfassende Fähigkeiten und Erfahrungen bei der Bereitstellung, Konfiguration und Wartung von Windows 10 und Nicht-Windows-Geräten verfügen. Die Rolle des MDA konzentriert sich auf Cloud Services und nicht auf Technologien für das lokale Management.
+prerequisitesSection: |-
+  Der Modern Desktop Administrator muss mit M365-Arbeitslasten vertraut sein und über umfassende Fähigkeiten und Erfahrungen bei der Bereitstellung, Konfiguration und Wartung von Windows 10 und Nicht-Windows-Geräten verfügen. Die Rolle des MDA konzentriert sich auf Cloud Services und nicht auf Technologien für das lokale Management. Es wird empfohlen, den Kurs MD-100, Windows 10, vor der Teilnahme an diesem Kurs zu absolvieren.
+outlineSection: |-
+  ### Modul 1&#58; Planung einer Strategie für die Betriebssystemeinführung
+  In diesem Modul wird erklärt, wie eine Einsatzstrategie geplant und umgesetzt werden kann. Die Teilnehmer lernen die Konzepte der Unterstützung des Desktops während seines gesamten Lebenszyklus kennen. In diesem Modul werden auch die Bewertung einer bestehenden Umgebung und die Tools zur Vorbereitung einer Bereitstellungsstrategie behandelt. Schließlich werden die Teilnehmer mit den Werkzeugen und Strategien für den Desktop-Einsatz vertraut gemacht.
+  #### Lektionen
+  - Der Unternehmens-Desktop
+  - Beurteilung der Einsatzbereitschaft
+  - Werkzeuge und Strategien zur Bereitstellung
+
+
+  #### Labor &#58; Praxislab - Planung der Windows 10-Bereitstellung
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreiben des Lebenszyklus des Unternehmensdesktops.
+  - Beschreiben, wie eine bestehende Umgebung bewertet wird.
+  - Beschreiben von Methoden zur Minderung von Bereitstellungsblockern.
+  - Beschreiben der verschiedenen Werkzeuge und Methoden für die Bereitstellung.
+
+
+  ### Modul 2&#58; Implementierung von Windows 10
+  Dieses Modul deckt die modernen Methoden der Windows-Bereitstellung ab, die in allgemeinen Szenarien wie der Aufrüstung und Migration auf Windows 10 sowie der Bereitstellung neuer Geräte und der Aktualisierung vorhandener Geräte verwendet werden.  Die Teilnehmer lernen auch alternative Methoden der Betriebssystembereitstellung sowie Überlegungen bei der Wahl der Bereitstellungsmethoden kennen.
+  #### Lektionen
+  - Upgrade von Geräten auf Windows 10
+  - Bereitstellung neuer Geräte und Auffrischung
+  - Geräte auf Windows 10 migrieren
+  - Alternative Einsatzmethoden
+  - Überlegungen zur Bildgebung
+
+
+  #### Labor &#58; Praxislab - Implementierung von Windows 10
+  - Erstellen und Bereitstellen von Bereitstellungspaketen.
+  - Migration von Benutzereinstellungen
+  - Bereitstellen von Windows 10 mit AutoPilot
+
+  Nach Abschluss dieses Kurses sollten die Lernenden dazu in der Lage sein&#58;
+  - Entwicklung einer Strategie für die Bereitstellung und Aktualisierung des Betriebssystems.
+  - Verstehen der verschiedenen Einsatzmethoden
+  - Verstehen, welche Szenarien für lokale und Cloud-basierte Lösungen verwendet werden können
+  - Bereitstellen und Migrieren von Desktops auf Windows 10
+
+
+  ### Modul 3&#58; Verwaltung von Updates für Windows 10
+  Dieses Modul deckt die Verwaltung von Updates für Windows ab. Dieses Modul stellt die Service-Optionen für Windows 10 vor. Die Teilnehmer lernen die verschiedenen Methoden zur Bereitstellung von Updates kennen und erfahren, wie die Update-Richtlinien von Windows konfiguriert werden. Schließlich werden die Teilnehmer lernen, wie sie die Einhaltung von Updates mit Hilfe von Windows Analytics sicherstellen und überwachen können.
+  #### Lektionen
+  - Aktualisierung von Windows 10
+  - Windows Update für Unternehmen
+  - Einführung in die Windows-Analytik
+
+
+  #### Labor &#58; Praxislab - Verwaltung von Updates für Windows 10
+  - Manuelles Konfigurieren der Windows Update-Einstellungen
+  - Konfigurieren von Windows Update mit Hilfe von GPOs
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreiben der Windows 10-Wartungskanäle.
+  - Konfigurieren einer Windows-Update-Richtlinie mithilfe von Gruppenrichtlinieneinstellungen.
+  - Konfigurieren von Windows Update für Unternehmen zur Bereitstellung von Betriebssystem-Updates.
+  - Verwenden von Windows Analytics, um die Upgrade-Bereitschaft und die Konformität mit Updates zu bewerten.
+
+
+  ### Modul 4&#58; Geräte-Registrierung
+  In diesem Modul werden die Teilnehmer die Vorteile und Voraussetzungen für das Co-Management untersuchen und lernen, wie man es plant. Dieses Modul behandelt auch den Azure AD-Join und wird in Microsoft Intune eingeführt. Außerdem lernen sie, wie man Richtlinien für die Anmeldung von Geräten konfiguriert. Das Modul schließt mit einem Überblick über die Geräteinventarisierung in Intune und die Berichterstattung mit der Intune Konsole, Power BI und Microsoft Graph.
+  #### Lektionen
+  - Optionen für die Geräteverwaltung
+  - Microsoft Intune-Übersicht
+  - Intune Geräteanmeldung und Inventar verwalten
+  - Geräte mit Intune verwalten
+
+
+  #### Labor &#58; Praxislab - Geräteerfassung und -verwaltung
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Vorteile und Methoden für den Übergang zum Co-Management beschreiben.
+  - Bereitstellung eines MDMs mit Microsoft Intune.
+  - Konfigurieren der Geräteregistrierung.
+  - Registrierung von Desktop- und Mobilgeräten in Windows Intune.
+  - Konfigurieren und Herunterladen von Bestandsberichten.
+
+
+  ### Modul 5&#58; Konfigurieren von Profilen
+  Dieses Modul taucht tiefer in die Intune-Geräteprofile ein, einschließlich der Arten von Geräteprofilen und dem Unterschied zwischen eingebauten und benutzerdefinierten Profilen. Der Kursteilnehmer lernt, wie man Azure AD-Gruppen Profile zuweist und Geräte und Profile in Intune überwacht. Das Modul schließt mit einem Überblick über die Verwendung von Windows Analytics für die Gesundheits- und Konformitätsberichterstattung.
+  #### Lektionen
+  - Konfigurieren von Geräteprofilen
+  - Benutzerprofile verwalten
+  - Überwachung von Geräten
+
+
+  #### Labor &#58; Praxislab - Profile verwalten
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - die Arten von Geräteprofilen beschreiben.
+  - Geräteprofile erstellen und zuordnen.
+  - Benutzerprofil und Ordnerumleitung konfigurieren.
+  - Geräte mit Intune und Windows Analytics überwachen und Berichte erstellen.
+
+
+  ### Modul 6&#58; Anwendungsmanagement
+  In diesem Modul lernen die Teilnehmer das Anwendungsmanagement von On-Premise- und Cloud-basierten Lösungen kennen. In diesem Modul wird die Verwaltung von Office 365 ProPlus-Bereitstellungen in Intune sowie die Verwaltung von Anwendungen auf nicht angemeldeten Geräten behandelt. Das Modul schließt mit einem Überblick über den Enterprise-Modus mit Internet Explorer und Microsoft Edge und der Verfolgung Ihrer installierten Anwendungen, Lizenzen und zugewiesenen Apps mit Intune.
+  #### Lektionen
+  Mobile Application Management implementieren (MAM)
+  - Bereitstellung und Aktualisierung von Anwendungen
+  - Anwendungen verwalten
+
+
+  #### Labor &#58; Praxislab - Anwendungen verwalten
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - die Methoden für das Applikationsmanagement beschreiben.
+  - Anwendungen mit Intune und Gruppenrichtlinien bereitstellen.
+  - Microsoft Store für Unternehmen konfigurieren.
+  - Office365 ProPlus mit Intune bereitstellen.
+  - Verwaltung und Berichterstellung für Anwendungsverzeichnis und Lizenzen.
+
+
+  ### Modul 7&#58; Verwaltung der Authentifizierung in Azure AD
+  In diesem Modul werden die Teilnehmer gut in das Konzept von Directory in the Cloud mit Azure AD eingeführt. Die Teilnehmer lernen die Ähnlichkeiten und Unterschiede zwischen Azure AD und Active Directory DS kennen und erfahren, wie man zwischen beiden synchronisiert. Die Teilnehmer lernen das Identitätsmanagement in Azure AD kennen und erfahren etwas über den Identitätsschutz mit Windows Hello for Business sowie über den Azure AD Identitätsschutz und die Multi-Faktor-Authentifizierung.
+  #### Lektionen
+  - Azure AD Übersicht
+  - Identitätsmanagement in Azure AD
+  - Identitätsschutz bei Azure AD
+  - Verwaltung der Geräteauthentifizierung
+
+
+  #### Labor &#58; Praxislab - Verwaltung von Objekten und Authentifizierung in Azure AD
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreibung der Fähigkeiten von Azure AD.
+  - Verwaltung von Benutzern mit Azure AD mit Active Directory DS.
+  - Windows Hello for Business implementieren.
+  - Geräte mit Azure AD verbinden.
+
+
+  ### Modul 8&#58; Verwaltung des Gerätezugriffs und Konformität
+  In diesem Modul werden die Studierenden in die Verwaltung der Gerätesicherheit eingeführt. Das Modul behandelt den sicheren Zugriff auf Unternehmensressourcen und stellt Konzepte wie Always On VPN und Remote-Konnektivität in Windows 10 vor. Die Teilnehmer lernen, wie man Compliance-Richtlinien erstellt und einsetzt und wie man Konformitätsrichtlinien für die Zugangskontrolle verwendet. Das Modul schließt mit der Überwachung von Geräten ab, die bei Intune angemeldet sind.
+  #### Lektionen
+  - Microsoft Intune-Übersicht
+  - Implementierung von Richtlinien zur Gerätekonformität.
+
+
+  #### Labor &#58; Übungslabor - Verwaltung von Zugriff und Konformität
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreibung der Methoden zur Ermöglichung des Zugriffs von externen Netzwerken.
+  - Richtlinien für Konformität und Zugriffsbeschränkungen implementieren.
+  - Intune zur Überwachung der Konformität von Geräten verwenden.
+
+
+  ### Modul 9&#58; Sicherheitsverwaltung
+  In diesem Modul lernen die Teilnehmer den Datenschutz kennen. Zu den Themen gehören der Schutz von Windows & Azure Information und verschiedene Verschlüsselungstechnologien, die in Windows 10 unterstützt werden. In diesem Modul werden auch die wichtigsten Funktionen von Windows Defender Advanced Threat Protection und die Einrichtung dieser Funktionen auf Geräten in Ihrem Unternehmen behandelt. Das Modul schließt die Verwendung von Windows Defender und die Verwendung von Funktionen wie Antivirus, Firewall und Credential Guard ab.
+  #### Lektionen
+  - Schutz der Gerätedaten implementieren
+  - Verwalten von Windows Defender ATP
+  - Verwalten des Windows Defender in Windows 10
+
+
+  #### Labor &#58; Praxislab - Verwaltung der Sicherheit in Windows 10
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Beschreibung der Methoden zum Schutz der Gerätedaten.
+  - Beschreiben Sie die Fähigkeiten und Vorteile von Windows ATP.
+  - Bereitstellen und Verwalten von Einstellungen für Windows Defender-Clients.

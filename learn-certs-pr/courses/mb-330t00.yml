@@ -1,0 +1,373 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Supply Chain Management
+metadata:
+  title: 'Course MB-330T00-A: Microsoft Dynamics 365 Supply Chain Management'
+  description: 'Course MB-330T00-A: Microsoft Dynamics 365 Supply Chain Management'
+uid: course.mb-330t00
+courseNumber: 'MB-330T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Verwalten Sie Inventar und Lagerhaltung in Dynamics 365
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-330
+summary: |-
+  In diesem Kurs wird das Supply Chain Management in der Dynamics 365-App-Suite erläutert
+
+  #### Zielgruppenprofil
+  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von Bedürfnissen, sowie Lösungen und Anwendungen zu konfigurieren. Der Modulbetreuer implementiert eine Lösung mit gebrauchsfertigen Funktionen, codefreier Erweiterungsmöglichkeit, sowie Anwendungs- und Service-Integrationen.
+outlineSection: |-
+  ### Modul 1&#58; Versorgungsmanagement
+  Um das Inventar zu konfigurieren, sollte man zuerst den täglichen Betrieb des Inventars verstehen. In dieser Lektion werden zunächst eingehende und ausgehende Inventarisierungsvorgänge erläutert.
+
+  In diesem Modul wird erläutert, wie Inventarkomponenten für Supply-Chain-Management-Prozesse in Finance and Operations konfiguriert werden.
+  #### Lektionen
+  - Einführung
+  - Konfigurieren von Serien- und Chargennummern
+  - Konfigurieren der Bestandsaufteilung
+  - Konfigurieren der Inventar- und Lagerberichte
+  - Konfigurieren der Inventardimensionen
+  - Inventarabschluss und Anpassung
+  - Übungslabore
+  - Modulübersicht
+
+  Eingehende und ausgehende Inventarisierungsvorgänge ausführen
+  - Konfigurieren der Inventarparameter
+  - Konfigurieren der Verfolgungsnummerngruppen
+  - Konfigurieren der Bestandsaufteilung
+  - Konfigurieren der Inventar- und Lagerberichte
+  - Einheiten konfigurieren
+
+
+  ### Modul 2&#58; Verwenden von Inventarberichten
+  In diesem Abschnitt wird die Verwendung von Inventarjournalen in Finance and Operations erläutert.
+  #### Lektionen
+  - Einführung
+  - Verwenden von Inventarberichten
+  - Übungslabore
+  - Modulübersicht
+
+  Verwenden von Bewegungsjournalen
+  - Verwenden von Bestandskorrektur-Journalen
+  - Verwenden von Transferjournalen
+  - Verwenden von Zähl- und Tag-Zähljournalen
+  - Verwenden von Artikelankunftsberichten
+  - Verwenden von Versandjournalen
+
+
+  ### Modul 3&#58; Verwenden von Inventarberichten
+  In diesem Thema wird die Verwendung von Bestandsberichten für Supply-Chain-Management-Prozesse in Finance and Operations erläutert.
+  #### Lektionen
+  - Einführung
+  - ABC-Klassifikation verstehen
+  - Verwenden anderer Bestandsabfragen und Berichte
+  - Übungslabore
+  - Modulübersicht
+
+  ABC-Klassifikation verstehen
+  - Verwenden der Inventaranfragen und Berichte
+
+
+  ### Modul 4&#58; Erstellen von Produkten und Produktstämmen
+  Das Produktinformationsmanagement in Dynamics 365 für Finance and Operations dient zum Erstellen und Verwalten eines Produkt-Repository fur ein Unternehmen. Es unterstützt größere Organisationen in einem zentralisierten, strukturierten Ansatz bei Erstellung und Verwaltung von Stammdaten wie Produktdefinitionen. Kleinere Organisationen, die einen dezentraleren Ansatz benötigen, können mit gewissen Einschränkungen ihre jeweiligen Produkte erstellen und verwalten, während ihre Produkte automatisch zum gemeinsam genutzten Produktrepository hinzugefügt werden.
+
+  In diesem Thema wird erläutert, wie Produkte für Supply-Chain-Management-Prozesse in Finance and Operations konfiguriert werden.
+  #### Lektionen
+  - Einführung
+  - Produkte erstellen
+  - Legen Sie Produktstämme mit Varianten an
+  - Erstellen und Konfigurieren von Attributen und Kategoriehierarchien
+  - Konfigurieren von Artikelpreisen
+  - Übungslabore
+  - Modulübersicht
+
+  Produkte als Typartikel und Dienstleistung anlegt
+  - Standardauftragseinstellungen konfiguriert
+  - Produktstämme mit Varianten anlegt
+  - Attribute und Kategoriehierarchien erstellt und konfiguriert
+  - Erstellen von Produktattributen
+
+
+  ### Modul 5&#58; Stückliste erstellen
+  Eine Stückliste ist eine umfassende Liste aller Komponenten, Teile, Rohstoffe, Baugruppen und deren Mengen, die zur Herstellung eines fertigen Produkts erforderlich sind.
+
+  In diesem Modul wird erläutert, wie Sie Stücklisten und Stücklistenversionen mithilfe des Stücklisten-Designers in Finanzen und Betrieb erstellen.
+  #### Lektionen
+  - Einführung
+  - Verwenden des Stücklisten-Designers (BOM)
+  - Übungslabor
+  - Modulübersicht
+
+  Erstellen Sie Stücklisten und Stücklistenversionen mit dem Stücklistendesigner
+
+  ### Modul 6&#58; Konfigurieren und Durchführen des Prozesses zur Auftragserteilung
+  In diesem Thema wird erläutert, wie man den Kaufbeschaffungsprozess in Finance and Operations konfiguriert und ausführt.
+  #### Lektionen
+  - Einführung
+  - Procurement and sourcing business scenario
+  - Erstellen eines Bestellanforderungs-Arbeitsflusses
+  - Bestellanforderungen anlegt
+  - Erstellen einer Angebotsanfrage
+  - Beschaffungsgrundsätze verwenden
+  - Übungslabore
+  - Modulübersicht
+
+  Beschaffungs- und Beschaffungsprozesse in einem Geschäftsszenario anwendet
+  - Beschaffungsgrundsätze verwenden
+  - Lieferanten erstellen und verwalten
+  - Bestellanforderungen anlegt
+  - Eine Angebotsanfrage erstellt
+
+
+  ### Modul 7&#58; Herstellerzusammenarbeit konfigurieren
+  In diesem Abschnitt wird erläutert, wie Sie die Zusammenarbeit von Anbietern in Finance and Operations konfigurieren.
+  #### Lektionen
+  - Einführung
+  - Konfigurieren der Zusammenarbeit von Anbietern
+  - Zusammenarbeit von Anbietern verwenden
+  - Übungslabore
+  - Modulübersicht
+
+  Konfigurieren der Zusammenarbeit mit Anbietern
+  - Arbeiten mit dem Arbeitsbereich für die Zusammenarbeit mit Anbietern
+  - Verwenden Sie die Zusammenarbeit mit Lieferanten als Teil des Prozesses zum Beschaffen und Bezahlen
+
+
+  ### Modul 8&#58; Konfigurieren und Ausführen eines Prozesses zum Beschaffen und Bezahlen
+  Das Modul „Bestellungen" überprüft den Prozess, der zum Erstellen und Verwalten von Bestellungen in Dynamics 365 for Finance and Operations erforderlich ist. Ein Unternehmen verwendet Bestellungen, um Informationen zu den Waren und Dienstleistungen zu erfassen, die es von verschiedenen Anbietern kauft.
+  #### Lektionen
+  - Einführung
+  - Erstellen von Bestellungen
+  - Verwenden des Bestelländerungsmanagements
+  - Artikelbestellungen und Ankunft verwenden
+  - Mehr- und Minderlieferung und Gebühren verwalten
+  - Lieferantenretouren anlegen
+  - Übungslabore
+  - Modulübersicht
+
+  Überblick über das Szenario zum Beschaffen und Bezahlen verstehen
+  - Verwenden des Bestelländerungsmanagements
+  - Erstellen einer Bestellung
+  - Verwenden von Artikelankünften und Ankunftsübersicht
+  - Rechnung erstellt und bucht
+  - Erstellen eines Rechnungsjournals
+  - Kreditorenzahlungen generieren und buchen
+  - Lieferantenretouren anlegen
+
+
+  ### Modul 9&#58; Konfigurieren und Verwenden von Vereinbarungen
+  In diesem Thema wird das Konfigurieren und Verwenden der Vereinbarung in Finance and Operations erläutert.
+  #### Lektionen
+  - Einführung
+  - Handelsabkommen pflegt
+  - Erstellen von Verkaufsverträgen
+  - Erstellen von Kaufverträgen
+  - Handelsrabatt konfigurieren
+  - Vermittlung konfigurieren
+  - Lizenzgebühren konfigurieren
+  - Rabatte konfigurieren
+  - Übungslabore
+  - Modulübersicht
+
+  Handelsabkommen pflegt
+  - Intelligente Rundung konfiguriert
+  - Erstellen von Verkaufsverträgen
+  - Beschaffungsgrundsätze verwenden
+  - Erstellen von Kaufverträgen
+  - Handelsrabatt konfigurieren
+  - Vermittlung konfigurieren
+  - Lizenzgebühren konfigurieren
+  - Rabatte konfigurieren
+
+
+  ### Modul 10&#58; Konfigurieren und Verwenden des Vertriebs- und Distributionsprozesses
+  In diesem Thema wird erläutert, wie Sie den Vertriebs- und Distributionsprozesses in Finance and Operations konfigurieren und verwenden.
+  #### Lektionen
+  - Einführung
+  - Verstehen Sie des Vertriebs- und Distributionsszenarios
+  - Provisionen konfiguriert und verwendet
+  - Kunden- und Artikelsuche Konfiguriert
+  - Erstellen und bestätigen von Angeboten und Bestellungen
+  - Auftragszusage konfigurieren
+  - Auftragsbestätigungscodes konfiguriert
+  - Auswahllisten drucken und buchen
+  - Kundenretouren bearbeiten
+  - Übungslabor
+  - Modulübersicht
+
+  Vertriebs- und Distributionsprozesse durchführt
+  - Provisionen konfiguriert und verwendet
+  - Kunden- und Artikelsuche Konfiguriert
+  - Angebote erstellt und bestätigt
+  - Bestellungen erstellt und bestätigt
+  - Auswahllisten drucken und buchen
+  - Rechnung erstellt und bucht
+  - Auftragsbestätigungscodes konfiguriert
+  - Kundenretouren bearbeiten
+
+
+  ### Modul 11&#58; Konfigurieren und Verwenden von Qualitätskontroll- und Verwaltungsprozessen
+  In diesem Modul wird beschrieben, wie Sie die Qualitätskontrolle in Finance and Operations konfigurieren und verwenden, wie Sie die Qualitätskontrollfunktionen verwenden, Abweichungen definieren und pflegen und wie Sie mit Korrekturen umgehen.
+
+  Machen wir uns aber zunächst mit den Gesamtprozessen des Qualitätsmanagements vertraut.
+  #### Lektionen
+  - Einführung
+  - Führen Sie Qualitätskontroll- und Managementprozesse durch
+  - Bestandssperrung anwenden
+  - Quarantäneverwaltung durchführen
+  - Übungslabore
+  - Modulübersicht
+
+  Qualitätskontroll- und Managementprozesse durchführen
+  - Bestandssperrung anwenden
+  - Quarantäneverwaltung durchführen
+
+
+  ### Modul 12&#58; Konfigurieren und Verwenden von firmeninternen-Handelsbeziehungen
+  Die firmeninterne Funktionalität in Dynamics 365 for Finance and Operations bietet einen Mechanismus für die Konsolidierung statischer und dynamischer Daten mehrerer Unternehmen als separate juristische Einheiten in einer einzigen Datenbank.
+
+  Firmeninterner Handel ermöglicht es, das global verteilte Produktionsstätten, Vertriebszentren und Vertriebsniederlassungen als eine Organisation agieren.
+
+  In diesem Abschnitt wird das Konfigurieren und Verwenden der firmeninternenHandelsbeziehungen und das Verarbeiten von firmeninternen Aufträgen in Finance and Operations erläutert.
+  #### Lektionen
+  - Einführung
+  - Firmeninternen Handel verstehen
+  - Aufbau firmeninterner Handelsbeziehungen
+  - Firmeninterne Kettenbestellungen bearbeiten
+  - Firmeninterne Vereinbarungen und Direktlieferungen einrichten
+  - Übungslabore
+  - Modulübersicht
+
+  Produkte für firmeninterne Handelsbeziehungen konfiguriert
+  - Firmeninterne Handelsbeziehungen konfigurieren
+  - Firmeninterne Vereinbarungen konfigurieren
+  - Firmeninterne Kettenbestellungen abwickeln
+  - Firmeninterne Direktlieferungen abwickeln
+  - Firmeninterne Gebühren abwickeln
+  - Firmeninterne Rückgabeauftragskette verstehen
+
+
+  ### Modul 13&#58; Konfigurieren und Verwenden der Masterplanung
+  In diesem Abschnitt wird erläutert, wie man die Masterplanung in Finance and Operations konfiguriert und verwendet.
+  #### Lektionen
+  - Einführung
+  - Überlegungen und Einrichtung der Masterplanung
+  - Masterpläne erstellen
+  - Etwas über Angebot- und Nachfrageprognosen erfahren
+  - Artikelerfassung konfigurieren
+  - Kurze Einführung in die firmeninterne Planung
+  - Pläne und fest geplante Aufträge ausführen
+  - Übungslabore
+  - Modulübersicht
+
+  Masterplanungsrichtlinien definieren
+  - Etwas über Angebot- und Nachfrageprognosen erfahren
+  - Berechenbare Verzögerungen konfigurieren
+  - Artikelerfassung konfigurieren
+  - Kurze Einführung in die firmeninterne Masterplanung verstehen
+  - Pläne und fest geplante Aufträge ausführen
+
+
+  ### Modul 14&#58; Lagerverwaltung konfigurieren
+  Das Lagerverwaltungsmodul für Dynamics 365 for Finance and Operations unterstützt Sie bei der Verwaltung von Lagerprozessen in Produktions-, Distributions- und Einzelhandelsunternehmen.
+
+  Es verfügt über eine Vielzahl von Funktionen, um die Lagereinrichtung jederzeit auf optimalem Niveau zu unterstützen. Die Lagerverwaltung ist vollständig in andere Geschäftsprozesse in Finance and Operations, wie z. B. Transport, Fertigung, Qualitätskontrolle, Einkauf, Transfer, Verkauf und Retouren integriert.
+  #### Lektionen
+  - Einführung
+  - Einrichtung der Lagerverwaltung konfigurieren
+  - Reservierungshierarchien verstehen
+  - Standortanweisungen und Arbeitsvorlagen
+  - Übungslabore
+  - Modulübersicht
+
+  Lagerverwaltungsparameter konfiguriert
+  - Lager und Standorte erstellt
+  - Arbeitsbereiche, Zonen, Standortformate und Profile konfiguriert
+  - Reservierungshierarchien erstellt
+  - Standortanweisungen konfiguriert
+  - Wellen konfiguriert
+  - Ladungen konfiguriert
+  - Den Inventarstatus konfiguriert
+  - Die Zyklusberechnung konfiguriert
+  - Verpackung und Verladung in Container konfiguriert
+  - Etiketten einrichtet und generiert
+
+
+  ### Modul 15&#58; Mobile Geräte für die Lagerverwaltung konfigurieren
+  In diesem Abschnittt wird erläutert, wie man die Einrichtung mobiler Geräte für die Lagerverwaltung in Finance and Operations konfiguriert.
+  #### Lektionen
+  - Einführung
+  - Mobile Geräte konfigurieren
+  - Übungslabor
+  - Modulübersicht
+
+  Erstellen neuer Arbeitsklassen
+  - Mobile Geräte konfigurieren
+  - Menüelemente für Aktivitäten und Anfragen konfigurieren
+  - Menüelemente konfigurieren, um Arbeit für einen anderen Mitarbeiter oder Prozess zu erstellen
+  - Menüelemente konfigurieren, um vorhandene Arbeit abzuwickeln
+  - Definieren des Layouts der Menüs für mobile Geräte
+  - Das grundlegende Erscheinungsbild mobiler Geräte konfigurieren
+  - Benutzer für mobile Geräte erstellen
+  - Etikettenlayouts einrichten und Einstellungen zum Drucken von Etiketten definieren
+
+
+  ### Modul 16&#58; Lagerverwaltung verwenden
+  Bevor Sie das mobile Gerät für die Lagerverwaltung verwenden können, müssen Sie die Anwendung installieren. In diesem Abschnitt wird die Verwendung von Lagerverwaltungsprozessen in Finance and Operations erläutert.
+  #### Lektionen
+  - Einführung
+  - Mobiles Gerät konfigurieren
+  - Eingehende Vorgänge
+  - Zyklus-Berechnung
+  - Transfers und Nachschub
+  - Ausgehende Vorgänge
+  - Clusterauswahl
+  - Verpackung und Verladung in Container
+  - Übungslabore
+  - Modulübersicht
+
+  Eingehende Vorgänge
+  - Ausgehende Vorgänge
+  - Clusterauswahl
+  - Verpackung und Verladung in Container
+  - Zyklus-Berechnung
+  - Transfers und Nachschub
+
+
+  ### Modul 17&#58; Transportmanagement konfigurieren
+  Dieses Modul bietet einen Überblick über die Funktionen zur Transportverwaltung in Microsoft Dynamics 365 for Finance and Operations und zeigt, wie die Transportverwaltung konfiguriert und verwendet wird.
+  #### Lektionen
+  - Einführung
+  - Planung und Konfiguration des Transportmanagements
+  - Verfahren
+  - Routing- und Transportflüsse
+  - Transportmittel und Frachtmanagement
+  - Übungslabore
+  - Modulübersicht
+
+  Transportplanung
+  - Routing
+  - Bewertung
+  - Eingehende Vorgänge
+  - Prozesse laden
+  - Ausgehende Vorgänge
+
+
+  ### Modul 18&#58; Abschluss des Kurses
+  Abschließende Bewertung und Kurszusammenfassung sowie eine Umfrage nach dem Kurs.
+  #### Lektionen
+  - Abschließende Bewertung
+  - Kurszusammenfassung
+  - Umfrage nach dem Kurs
+
+  Du wirst haben den Kurs abgeschlossen.

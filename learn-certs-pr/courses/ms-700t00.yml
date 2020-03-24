@@ -1,0 +1,114 @@
+### YamlMime:Course
+title: Managing Microsoft Teams
+metadata:
+  title: 'Course MS-700T00-A: Managing Microsoft Teams'
+  description: 'Course MS-700T00-A: Managing Microsoft Teams'
+uid: course.ms-700t00
+courseNumber: 'MS-700T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Was sind Microsoft-Teams und wie arbeiten die Komponenten zusammen?
+- skill: Wie man Governance, Sicherheit und Konformität für Microsoft Teams implementiert
+- skill: Wie Sie eine Unternehmensumgebung für eine Microsoft Teams-Bereitstellung vorbereiten
+- skill: Wie man Teams einsetzt und verwaltet
+- skill: Möglichkeiten zur Verwaltung der Zusammenarbeit in Microsoft Teams
+- skill: Techniken zur Verwaltung und Fehlerbehebung bei der Kommunikation in Microsoft Teams
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-700
+summary: |-
+  Der Kurs Managing Microsoft Teams richtet sich an Personen, die die Rolle des Microsoft 365 Teams Admin anstreben.
+  Der Microsoft Teams Administrator konfiguriert, implementiert und verwaltet Office 365-Workloads für Microsoft Teams, die effizient und effektiv zusammenarbeiten und in einer Unternehmensumgebung kommunizieren.
+  Dieser Kurs umfasst sechs zentrale Elemente - Überblick über Microsoft Teams, Implementierung von Governance, Sicherheit und Konformität für Microsoft Teams, Vorbereitung der Umgebung für eine Microsoft Teams-Bereitstellung, Bereitstellung und Verwaltung von Teams, Verwaltung der Zusammenarbeit und Verwaltung der Kommunikation in Microsoft Teams.
+  In Microsoft Teams-Übersicht erhalten Sie einen Überblick über Microsoft Teams, einschließlich der Teams-Architektur und der damit verbundenen Office 365-Arbeitslasten. Sie erhalten einen Überblick über die Sicherheit und Konformität in Microsoft Teams und schließlich einen Überblick über die Verwaltung von Microsoft Teams.
+  Bei der Implementierung von Governance, Sicherheit und Konformität für Microsoft Teams planen und konfigurieren Sie die Governance für Office 365-Gruppen, einschließlich Ablauf- und Namensrichtlinien. Anschließend implementieren Sie die Sicherheit durch die Konfiguration von Zugriffsbeschränkungen, MFA oder Threat Management für Microsoft Teams. Schließlich implementieren Sie die Konformität für Teams, indem Sie DLP-Richtlinien, eDiscovery-Fälle oder Überwachungsrichtlinien verwenden.
+  Bei der Vorbereitung der Umgebung für eine MicrosoftTeams-Bereitstellung planen Sie ein Upgrade von Skype für Unternehmen auf Microsoft-Teams, indem Sie Upgrade-Pfade mit Koexistenz- und Upgrade-Modi evaluieren, Migrationen von Meetings verwalten und Koexistenz- und Upgrade-Einstellungen konfigurieren. Dann planen und konfigurieren Sie die Netzwerkeinstellungen für Microsoft Teams, und schließlich werden Sie die Endgeräte von Microsoft Teams bereitstellen und verwalten.
+  Bei der Bereitstellung und Verwaltung von Teams lernen Sie, wie Sie Teams erstellen und verwalten, die Mitgliedschaft und den Zugriff für interne und externe Benutzer verwalten.
+  Bei der Verwaltung der Zusammenarbeit in Microsoft-Teams verwalten Sie Chat- und Kooperationserfahrungen wie z.B. Team-Einstellungen oder Richtlinien zur Erstellung privater Kanäle. Schließlich verwalten Sie Einstellungen für Team-Anwendungen wie Richtlinien für die Einrichtung von Anwendungen, Apps, Bots und Konnektoren in Microsoft Teams oder veröffentlichen eine benutzerdefinierte Anwendung in Microsoft Teams.
+  Dieser Kurs schließt mit der Verwaltung der Kommunikation in Microsoft Teams ab. Sie lernen, wie Sie Live-Veranstaltungen und Besprechungen verwalten, Telefonnummern oder die Telefonanlage für Microsoft Teams verwalten und schließlich, wie Sie Audio-, Video- und Kundenprobleme beheben können.
+
+  #### Zielgruppenprofil
+  Die Teilnehmer dieses Kurses sind an Microsoft Teams oder am Bestehen der Zertifizierungsprüfung zum Microsoft Teams Administrator Associate interessiert.
+prerequisitesSection: |-
+  - Ein fundiertes Verständnis von grundlegenden Funktionserfahrungen mit Microsoft 365-Diensten.
+  - Ein kompetentes Verständnis der allgemeinen IT-Praktiken, einschließlich der Verwendung von PowerShell.
+outlineSection: |-
+  ### Modul 1&#58; Übersicht über Microsoft Teams
+  In Microsoft Teams-Übersicht erhalten Sie einen Überblick über Microsoft Teams, einschließlich der Teams-Architektur und der damit verbundenen Office 365-Arbeitslasten. Sie erhalten einen Überblick über die Sicherheit und Konformität in Microsoft Teams und schließlich einen Überblick über die Verwaltung von Microsoft Teams.
+  #### Lektionen
+  - Übersicht der Microsoft-Teams
+  - Überblick über Sicherheit und Konformität in Microsoft-Teams
+  - Überblick über die Verwaltung von Microsoft-Teams
+
+  #### Labor &#58; Rollen verwalten und Teams erstellen
+  - Teamrollen und Lizenzen vorbereiten
+  - Neues Team erstellen
+
+  ### Modul 2&#58; Implementierung von Microsoft Teams Governance, Sicherheit und Konformität
+  Bei der Implementierung von Governance, Sicherheit und Konformität für Microsoft Teams planen und konfigurieren Sie die Governance für Office 365-Gruppen, einschließlich Ablauf- und Namensrichtlinien. Anschließend implementieren Sie die Sicherheit durch die Konfiguration von Zugriffsbeschränkungen, MFA oder Threat Management für Microsoft Teams. Schließlich implementieren Sie die Konformität für Teams, indem Sie DLP-Richtlinien, eDiscovery-Fälle oder Überwachungsrichtlinien verwenden.
+  #### Lektionen
+  - Implementierung von Governance und Lebenszyklus-Management für Microsoft Teams
+  - Implementierung von Sicherheit für Microsoft Teams
+  - Implementierung von Compliance für Microsoft Teams
+
+  #### Labor &#58; Sicherheit und Konformität für Teams und Inhalte konfigurieren
+  - Implementierung von Governance und Lebenszyklus-Management für Microsoft Teams
+  - Implementierung von Sicherheit für Microsoft Teams
+  - Implementierung von Compliance für Microsoft Teams
+
+  ### Modul 3&#58; Vorbereitung der Umgebung für eine Microsoft-Team-Bereitstellung
+  Bei der Vorbereitung der Umgebung für eine MicrosoftTeams-Bereitstellung planen Sie ein Upgrade von Skype für Unternehmen auf Microsoft-Teams, indem Sie Upgrade-Pfade mit Koexistenz- und Upgrade-Modi evaluieren, Migrationen von Meetings verwalten und Koexistenz- und Upgrade-Einstellungen konfigurieren. Dann planen und konfigurieren Sie die Netzwerkeinstellungen für Microsoft Teams, und schließlich werden Sie die Endgeräte von Microsoft Teams bereitstellen und verwalten.
+  #### Lektionen
+  - Upgrade von Skype für Unternehmen auf Microsoft-Teams
+  - Planen und Konfigurieren von Netzwerkeinstellungen für Microsoft-Teams
+  - Bereitstellen und Verwalten von Microsoft-Team-Endpunkten
+
+  #### Labor &#58; Umweltvorbereitung für Teams
+  - Netzwerkfähigkeiten berechnen
+  - Konfigurationsprofile auswerten
+  - Bereitstellung von Teamressourcen
+
+  ### Modul 4&#58; Teams einsetzen und verwalten
+  Bei der Bereitstellung und Verwaltung von Teams lernen Sie, wie Sie Teams erstellen und verwalten, die Mitgliedschaft und den Zugriff für interne und externe Benutzer verwalten.
+  #### Lektionen
+  - Teams erstellen und verwalten
+  - Mitgliedschaft verwalten
+  - Zugriff für externe Benutzer verwalten
+
+  #### Labor &#58; Teams verwalten
+  - Team-Ressourcen verwalten
+  - Gemeinsame Nutzung und Zugriff verwalten
+
+  ### Modul 5&#58; Verwalten der Zusammenarbeit in Microsoft Teams
+  Bei der Verwaltung der Zusammenarbeit in Microsoft-Teams verwalten Sie Chat- und Kooperationserfahrungen wie z.B. Team-Einstellungen oder Richtlinien zur Erstellung privater Kanäle. Schließlich verwalten Sie Einstellungen für Team-Anwendungen wie Richtlinien für die Einrichtung von Anwendungen, Apps, Bots und Konnektoren in Microsoft Teams oder veröffentlichen eine benutzerdefinierte Anwendung in Microsoft Teams.
+  #### Lektionen
+  - Verwalten von Chat- und Zusammenarbeitserfahrungen
+  - Einstellungen für Teams-Apps verwalten
+
+  #### Labor &#58; Ändern Sie die Einstellungen zur Zusammenarbeit für Teams
+  - Konfigurieren von Kanal- und Nachrichtenrichtlinien
+  - Verwalten der App-Einstellungen für das Team
+
+  ### Modul 6&#58; Verwaltung der Kommunikation in Microsoft Teams
+  Dieser Kurs schließt mit der Verwaltung der Kommunikation in Microsoft Teams ab. Sie lernen, wie Sie Live-Veranstaltungen und Besprechungen verwalten, Telefonnummern oder die Telefonanlage für Microsoft Teams verwalten und schließlich, wie Sie Audio-, Video- und Kundenprobleme beheben können.
+  #### Lektionen
+  - Verwalten von Live-Veranstaltungen und Meetings
+  - Verwalten von Telefonnummern
+  - Telefonanlage für Microsoft-Teams verwalten
+  - Fehlerbehebung bei Audio-, Video- und Kundenproblemen
+
+  #### Labor &#58; Kommunikationseinstellungen für Teams ändern
+  - Konfigurieren von Besprechungsrichtlinien
+  - Telefonanlage für Microsoft-Teams verwalten
+  - Fehlerbehebung bei Audio-, Video- und Kundenproblemen

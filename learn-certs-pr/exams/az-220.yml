@@ -1,0 +1,64 @@
+### YamlMime:Examination
+title: Microsoft Azure IoT Developer (beta)
+metadata:
+  title: 'Exam AZ-220: Microsoft Azure IoT Developer (beta)'
+  description: 'Exam AZ-220: Microsoft Azure IoT Developer (beta)'
+uid: exam.az-220
+displayName: AZ-220
+summary: |-
+  Der Azure IoT-Entwickler ist für die Implementierung und die Codierung verantwortlich, die zum Erstellen und Verwalten des Cloud- und Edge-Teils einer IoT-Lösung erforderlich sind. Neben der Konfiguration und Wartung der Geräte mit Hilfe von Cloud-Diensten richtet der IoT-Entwickler auch die physischen Geräte ein. Der IoT-Entwickler ist für die Wartung der Geräte während des gesamten Lebenszyklus verantwortlich.
+
+  Der IoT-Entwickler implementiert Entwürfe für IoT-Lösungen, einschließlich Gerätetopologie, Konnektivität, Debugging und Sicherheit. Der IoT-Entwickler stellt Computer / Container bereit und konfiguriert die Gerätenetzwerke. Der IoT-Entwickler implementiert Entwürfe für Lösungen zur Verwaltung von Datenpipelines, einschließlich Überwachung und Datentransformation in Bezug auf IoT. Der IoT-Entwickler arbeitet mit Dateningenieuren und anderen Interessengruppen zusammen, um eine erfolgreiche Geschäftsintegration sicherzustellen.
+
+  IoT-Entwickler sollten ein gutes Verständnis für die Implementierung der Azure-Dienste haben, die eine IoT-Lösung bilden, einschließlich Datenspeicheroptionen, Datenanalyse, Datenverarbeitung und Plattform-als-Service-Optionen. IoT-Entwickler müssen in der Lage sein, die Konfigurationseinstellungen des Azure IoT-Dienstes im Codeteil einer IoT-Lösung zu erkennen und bestimmte IoT-Codierungsaufgaben in mindestens einer von Azure unterstützten Sprache auszuführen, einschließlich C#, Node, C oder Python.
+  
+  <div style='color&#58; red;'><br/>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. Um mehr zu erfahren <a href="/learn/certifications/certification-exams#participating-in-beta-exams">about the value and importance of beta exams</a>.</div>
+subTitle: 'Dieses Examen misst Ihre Fähigkeit, die IoT-Lösungsinfrastruktur zu implementieren. Bereitstellung und Verwaltung von Geräten; Implementieren von Lösungen auf Azure IoT Edge-Geräten; Daten verarbeiten und verwalten; Überwachung, Fehlerbehebung und Optimierung von IoT-Lösungen; und Sicherheit implementieren. '
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-220&examname=Exam%20AZ-220:%20Microsoft%20Azure%20IoT%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-220
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 'HINWEIS: Die Aufzählungszeichen, die unter den im folgenden Dokument gemessenen Fähigkeiten angezeigt werden, sollen veranschaulichen, wie wir diese Fähigkeiten bewerten. Diese Liste ist nicht endgültig oder vollständig.'
+- Implementierung der IoT-Lösungsinfrastruktur (15-20%)
+- Bereitstellung und Verwaltung von Geräten (20-25%) 
+- Implementieren von Edge (15-20%)
+- Daten verarbeiten und verwalten (15-20%)
+- Überwachung, Fehlerbehebung und Optimierung von IoT-Lösungen (15-20%)
+- Sicherheit implementieren (15-20%)
+roles:
+- developer
+products:
+- azure
+- azure-iot-central
+- azure-iot-hub
+courses:
+- uid: course.az-220t00
+relatedCertifications:
+- related:
+    uid: certification.azure-iot-developer-specialty
+resources:
+- title: Schulungs- und Zertifizierungsleitfaden
+  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+  href: ../deals.md
+- title: Unterstützung bei Zertifizierungsprüfungen
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  href: ../help.md
+- title: Zertifizierungsdashboard
+  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Unterkünfte anfordern
+  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Prüfungsrichtlinien und FAQs
+  description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
+  href: ../certification-exam-policies.md

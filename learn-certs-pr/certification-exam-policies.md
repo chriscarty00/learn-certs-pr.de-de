@@ -6,14 +6,14 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 14.10.2019
+ms.date: 10/14/2019
 ms.author: micsullivan
 ---
 # Prüfungsrichtlinien und FAQs
 
 Auf der ganzen Welt erwarten Partner und Kunden von Microsoft Prüfungen und Zertifizierungen von höchster Qualität. Die Microsoft Certification exam richtlinien wurden entwickelt, um die Ziele des Zertifizierungsprogramms zu unterstützen, darunter:
 
-## Sicherheits- und Wiederholungsrichtlinien
+## <a name="security-policies"></a> Sicherheits- und Wiederholungsrichtlinien
 
 Bei Microsoft gelten bestimmte Richtlinien für die Sicherheitsbereiche im Hinblick auf MCP-Prüfungen (Microsoft Certified Professional).
 
@@ -491,7 +491,7 @@ Weitere Informationen finden Sie unter: [NCCRS credit for Microsoft certificatio
 
 Download: [Transcript Service Application](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-### Übermitteln eines Prüfungselements einer Microsoft Certification exam zur Überprüfung
+## <a name="policies-5"></a> Übermitteln eines Prüfungselements einer Microsoft Certification exam zur Überprüfung
 
 [Jede Prüfungsfrage wird sorgfältig geprüft](https://www.microsoft.com/learning/certification-exams.aspx) von einem Gremium aus technischen und berufsbezogenen Experten, die jede Frage: auf technische Genauigkeit, Klarheit und Relevanz prüfen. Wenn Sie der Meinung sind, dass eine bestimmte Frage, die Sie in einer Microsoft Certification exam gesehen haben, ungültig ist, können Sie eine Bewertung der Frage: mithilfe der unten beschriebenen Schritte anfordern. Sie müssen innerhalb von 30 Tagen nach Ablegen der Prüfung ein Formular zur Prüfung der Prüfungsaufgabe einreichen.
 
@@ -509,7 +509,7 @@ Der Anforderungsprozess besteht darin, problematische Fragen zu identifizieren u
 
 Wir schätzen und vertrauen auf Ihr Feedback, damit Microsoft Certification exams so gültig und relevant wie möglich sind.
 
-## Spezielle Einrichtung bei Prüfungen
+## <a name="#special-accommodations-when-taking-exams"></a> Spezielle Einrichtung bei Prüfungen
 
 ### Bei Prüfungen, die über Pearson VUE durchgeführt werden:
 
@@ -527,7 +527,7 @@ Wenn Sie während einer Prüfung spezielle Materialien oder eine andere Unterkun
 
 Wenn Sie zusätzliche Zeit benötigen, weil die Prüfung nicht in Ihrer Muttersprache verfügbar ist, spezielle Ausrüstung benötigen oder eine andere Unterkunft anfordern möchten, wenn Sie eine Prüfung ablegen, können Sie eine Unterkunft bei Certiport nach dem beschriebenen Verfahren [hier](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations) anfordern.
 
-### Stornierungs- und Neuterminierungsrichtlinie:
+### <a name="cancellation-and-reschedule-policy"></a> Stornierungs- und Neuterminierungsrichtlinie:
 
 - Die Stornierung oder Neuterminierung Ihrer Prüfung innerhalb von mindestens 6 Werktagen vor Ihrem Termin ist kostenfrei.
 - Die Stornierung oder Neuterminierung Ihrer Prüfung innerhalb von 5 Werktagen vor der registrierten Prüfungszeit ist kostenpflichtig.
@@ -626,7 +626,7 @@ Wenn Sie Feedback zu einem Microsoft-Präsenzkurs haben, wenden Sie sich direkt 
 
 **Wie kann ich Feedback zu einer Prüfungsfrage oder der Prüfungserfahrung geben?**
 
-Wenn Sie Bedenken hinsichtlich der technischen Genauigkeit eines bestimmten Elements haben, folgen Sie bitte dem Prozess [Prüfungsaufgabenanforderung](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5).
+Wenn Sie Bedenken hinsichtlich der technischen Genauigkeit eines bestimmten Elements haben, folgen Sie bitte dem Prozess [Prüfungsaufgabenanforderung](#policies-5).
 
 Um ein Anliegen über ein Prüfzentrum oder technische Schwierigkeiten während Ihrer Prüfung zu melden, wenden Sie sich bitte an den Kundendienst unter folgender Adresse [Pearson VUE](http://www.pearsonvue.com/microsoft/) oder [Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm).
 
@@ -830,7 +830,7 @@ Schließlich stehen [Microsoft Official Practice Tests](http://www.measureup.com
 
 **Wie sieht die Richtlinie für die Prüfungswiederholung aus?**
 
-Bitte lesen Sie die [Sicherheits- und Wiederholungsrichtlinien](https://www.microsoft.com/learning/certification-exam-policies.aspx#security-policies) um die Wiederholungsrichtlinien für die Prüfung einzusehen.
+Bitte lesen Sie die [Sicherheits- und Wiederholungsrichtlinien](#security-policies) um die Wiederholungsrichtlinien für die Prüfung einzusehen.
 
 **Kann ich eine Neubewertung meiner Bewertung fordern?**
 
@@ -838,7 +838,7 @@ Eine Neubewertung ist nicht sehr wahrscheinlich, da dies selten ändert, ob die 
 
 **Wie kann ich eine Prüfungsfrage zur Überprüfung übermitteln?**
 
-Wenn Sie der Meinung sind, dass eine Frage zu einer Microsoft-Zertifizierungsprüfung ungenau ist, können Sie eine Bewertung dieser Frage mit dem [Exam Item Challenge process](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5) innerhalb von 30 Kalendertagen nach der Prüfung anfordern. Der Evaluierungsprozess hilft uns, problematische Fragen zu identifizieren und zu korrigieren und die Prüfungen entsprechend zu aktualisieren.
+Wenn Sie der Meinung sind, dass eine Frage zu einer Microsoft-Zertifizierungsprüfung ungenau ist, können Sie eine Bewertung dieser Frage mit dem [Exam Item Challenge process](#policies-5) innerhalb von 30 Kalendertagen nach der Prüfung anfordern. Der Evaluierungsprozess hilft uns, problematische Fragen zu identifizieren und zu korrigieren und die Prüfungen entsprechend zu aktualisieren.
 
 **Überprüft und bewertet ein Microsoft-Mitarbeiter die Prüfungsfrage, die ich zur Überprüfung übermittle?**
 
@@ -994,7 +994,7 @@ Wenn Ihr Labor mit einem leeren weißen Bildschirm startet, öffnen Sie eine neu
 
 **Ich hatte Probleme mit meinen Laboren. Wie kann ich Microsoft informieren?**
 
-Wenn Sie auf Probleme mit Laboren stoßen, senden Sie diese bitte über unseren [Prüfungsanforderungsprozess](https://www.microsoft.com/learning/certification-exam-policies.aspx#dt-policies-5). Obwohl wir keine konkrete Begründung für Ihre Erfahrung geben können, wird uns unsere Untersuchung Ihrer Erfahrung helfen, die Ursachen zu identifizieren und Lösungen zu finden, die die Erfahrung für alle verbessern.
+Wenn Sie auf Probleme mit Laboren stoßen, senden Sie diese bitte über unseren [Prüfungsanforderungsprozess](#policies-5). Obwohl wir keine konkrete Begründung für Ihre Erfahrung geben können, wird uns unsere Untersuchung Ihrer Erfahrung helfen, die Ursachen zu identifizieren und Lösungen zu finden, die die Erfahrung für alle verbessern.
 
 **Ich hatte Probleme mit meinen Laboren. Wie fordere ich eine Neubewertung an?**
 

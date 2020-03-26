@@ -6,7 +6,7 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 04.11.2019
+ms.date: 11/04/2019
 ms.author: micsullivan
 ---
 # Microsoft Ignite and Microsoft Ignite The Tour: Kostenloses Angebot für die Zertifizierungsprüfung
@@ -19,7 +19,7 @@ Vielen Dank für die Teilnahme an Microsoft Ignite 2019 oder einer Microsoft Ign
 
 Wenn Sie an der Microsoft Ignite 2019 oder einer Microsoft Ignite The Tour 2019-2020 Veranstaltung teilgenommen haben, haben Sie möglicherweise Anspruch auf eine kostenlose Microsoft-Grundlagen, rollenbasierte oder spezielle Zertifizierungsprüfung. Das kostenlose Prüfungsangebot ist ab Beginn der Veranstaltung, an der Sie teilnehmen, zur Einlösung verfügbar und gilt 180 Tage nach dem letzten Tag der Veranstaltung. Wenn Sie innerhalb dieses Zeitraums keine Prüfung planen, können Sie Ihr Angebot nicht einlösen.  
 
-## So können Sie Ihre kostenlose Prüfung in Anspruch nehmen
+## <a name="how-to-claim-your-free-exam"></a> So können Sie Ihre kostenlose Prüfung in Anspruch nehmen
 
 Da dies ein digitales Angebot ist, müssen Sie Ihre Teilnahme a´n der Veranstaltung dadurch bestätigen, dass Sie den selben Account nutzen, der auch für die Registrierung für die Veranstaltung (sehen Schritt 7 unten) wenn Sie sich für die Prüfung anmelden. Wenn Sie durch eine Gruppenanmeldung registriert wurden, stellen Sie bitte sicher, dass Sie Ihr Profil für die Veranstaltungsanmeldung vervollständigt haben. Als MS Ignite 2019 Teilnehmer, gehen Sie zu: [https://register.ignite.microsoft.com/](https://register.ignite.microsoft.com/); als Teilnehmer von The Tour gehen Sie bitte gehen Sie zu [https://register.msignite-the-tour.microsoft.com/](https://register.msignite-the-tour.microsoft.com/)Städtename, z.B. [https://register.msignite-the-tour.microsoft.com/london](https://register.msignite-the-tour.microsoft.com/london) um Ihr Event-Profil zu vervollständigen.
 
@@ -31,8 +31,8 @@ Schritt für Schritt-Screenshots finden finden Sie [unter](https://query.prod.cm
 2. Sobald Sie die gewünschte Prüfungsdetailseite aufgerufen haben, klicken Sie auf die Schaltfläche "Prüfung planen", um den Online-Registrierungsprozess zu starten.
 3. Melden Sie sich mit dem Microsoft-Konto an, das Ihrem Microsoft Certification profil zugeordnet ist.  Wenn Sie kein Microsoft-Zertifizierungskonto haben, müssen Sie ein solches erstellen.
 4. Wennsie in Ihr Microsoft-Zertifizierungsprofil eingeloggt sind, bestätigen Sie, dass die Informationen in Ihrem Zertifizierungsprofil korrekt sind.
-5. Klicken Sie auf „Speichern & Fortfahren“ am ende der Zertifizierungsprofil Seite um weiter zu der ‚Exam Discounts‘ Seite zu gelangen.
-6. Auf der ‚Exam Discounts‘ Seite wählen Sie die Veranstaltung an der Sie Teilgenommen haben und klicken auf „Account bestätigen“.
+5. Klicken Sie auf „Speichern & Fortfahren" am ende der Zertifizierungsprofil Seite um weiter zu der ‚Exam Discounts' Seite zu gelangen.
+6. Auf der ‚Exam Discounts' Seite wählen Sie die Veranstaltung an der Sie Teilgenommen haben und klicken auf „Account bestätigen".
 7. Wenn Sie Ihren Account bestätigen, müssen Sie authentifizieren, dass Sie den selben Account nutzen wie für die Anmeldung für die Veranstaltung. (Beachten Sie: Wenn Sie einen Microsoft Account für die Veranstaltungsanmeldung verwendet haben, müssen Sie den selben Microsoft Account für nutzen um sich in Ihr Zertifizierungsprofil einzuloggen, wenn Sie die Prüfung planen. Wenn dies dazu führt, dass Sie zwei Zertifizierungsprofile haben, kontaktieren Sie [Microsoft Certification supportforen](https://trainingsupport.microsoft.com/de-de/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) um Ihre beiden Profile miteinander zu verbinden nachdem Sie die Zertifizierungsprüfung abgeschlossen haben.)
 8. Folgen Sie den Schritten auf den folgenden Bildschirmen und geben Sie die erforderlichen Details an, um Ihre Prüfung zu planen.
 9. Vergewissern Sie sich beim bezahlen, dass der gesamte Betrag $0.00 beträgt und reichen Sie die Bestellung ein.  Hinweis: The 'My Order' page should show the following discount at the bottom of the page:  ***Microsoft Ignite 2019-2020 100% Rabatt***.  Auf den vorherigen Seiten im Ablauf der Prüfungsplanung wird der volle Preis angezeigt.
@@ -41,7 +41,7 @@ Schritt für Schritt-Screenshots finden finden Sie [unter](https://query.prod.cm
 
 Bei Problemen, die die Planung Ihrer Prüfung betreffen, erhalten Sie Hilfe in den [Support-Foren der Microsoft-Zertifizierung](https://trainingsupport.microsoft.com/de-de/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1). Innerhalb eines Werktages wird Ihnen ein Forenmoderator antworten.
 
-## Teilnahmeberechtigte Prüfungen für dieses Angebot
+## <a name="eligible-exams-for-this-offer"></a> Teilnahmeberechtigte Prüfungen für dieses Angebot
 
 Dieses Angebot umfasst alle Microsoft-Grundlagen, rollenbasierten und spezialisierten Zertifizierungsprüfungen. Die zulässigen Prüfungen sind unten aufgeführt.
 
@@ -77,7 +77,7 @@ Weitere Informationen finden Sie in den vollständigen [Microsoft-Nutzungsbeding
 
 **Fr.: Für welche Zertifizierungsprüfungen gilt dieses Angebot?**
 
-**A:** Dieses Angebot umfasst alle Microsoft-Grundlagen, rollenbasierten und spezialisierten Zertifizierungsprüfungen. Für eine Liste der zugelassenen Zertifizierungsprüfungen, schauen Sie unter der „Zugelassene Prüfungen für dieses Angebot“ Sektion auf unserer Seite mit den Angebotsdetails: [https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer).
+**A:** Dieses Angebot umfasst alle Microsoft-Grundlagen, rollenbasierten und spezialisierten Zertifizierungsprüfungen. Für eine Liste der zugelassenen Zertifizierungsprüfungen, schauen Sie unter der „Zugelassene Prüfungen für dieses Angebot" Sektion auf unserer Seite mit den Angebotsdetails: [https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer).
 
 **Fr.: Wenn ich mich für eine zutreffende Veranstaltung registriert, aber nicht persönlich daran teilgenommen habe, kann ich das Angebot trotzdem nutzen?**
 
@@ -107,7 +107,7 @@ Weitere Informationen finden Sie in den vollständigen [Microsoft-Nutzungsbeding
 
 **Fr.: Wenn Ich meinen Anspruch auf Prüfungsrabatt bestätige, tritt eine Fehlermeldung auf, in der steht, dass Ich nich zugelassen bin weil ich ein Regierungsbeamter bin, aber das trifft nicht zu. Was kann ich tun?**
 
-**A:** Wenn Sie fälschlicherweise als Regierungsbeamter identifiziert wurden, müssen Sie das Feld „Regierung“ in Ihrem Registrierungsprofil der Veranstaltung ändern und warten, bis die Veranstaltung vorbei ist um den Anspruch zu sehen. Sie können auch das [Microsoft Certification Supportforum](https://trainingsupport.microsoft.com/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) kontaktieren ([https://aka.ms/CertificationSupport](https://aka.ms/CertificationSupport)) für mehr Unterstützung.
+**A:** Wenn Sie fälschlicherweise als Regierungsbeamter identifiziert wurden, müssen Sie das Feld „Regierung" in Ihrem Registrierungsprofil der Veranstaltung ändern und warten, bis die Veranstaltung vorbei ist um den Anspruch zu sehen. Sie können auch das [Microsoft Certification Supportforum](https://trainingsupport.microsoft.com/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) kontaktieren ([https://aka.ms/CertificationSupport](https://aka.ms/CertificationSupport)) für mehr Unterstützung.
 
 **Fr.: Ich habe Probleme bei der Planung meiner kostenlosen Prüfung. Wo bekomme Ich Hilfe?**
 
@@ -136,4 +136,4 @@ Weitere Informationen finden Sie in den vollständigen [Microsoft-Nutzungsbeding
 
 **Fr.: Kann ich erneut kostenlos an einer Prüfung teilnehmen, wenn ich es beim ersten mal verpasst habe das kostenlose Angebot für die Zertifizierungsprüfung wahrzunehmen?**
 
-**A:** Nein, das Angebot ist nur für einen Versuch gültig und Wiederholungen müssen separat geplant werden. Für mehr Information über die Wiederholung von Zertifizierungsprüfungen gehen Sie zu [Prüfungswiederholungsrichtlinie](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1).
+**A:** Nein, das Angebot ist nur für einen Versuch gültig und Wiederholungen müssen separat geplant werden. Für mehr Information über die Wiederholung von Zertifizierungsprüfungen gehen Sie zu [Prüfungswiederholungsrichtlinie](/learn/certifications/certification-exam-policies#security-policies).

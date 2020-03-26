@@ -509,7 +509,7 @@ Der Anforderungsprozess besteht darin, problematische Fragen zu identifizieren u
 
 Wir schätzen und vertrauen auf Ihr Feedback, damit Microsoft Certification exams so gültig und relevant wie möglich sind.
 
-## <a name="#special-accommodations-when-taking-exams"></a> Spezielle Einrichtung bei Prüfungen
+## <a name="special-accommodations-when-taking-exams"></a> Spezielle Einrichtung bei Prüfungen
 
 ### Bei Prüfungen, die über Pearson VUE durchgeführt werden:
 

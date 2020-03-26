@@ -1,0 +1,64 @@
+### YamlMime:Examination
+title: Administering Relational Databases on Microsoft Azure (beta)
+metadata:
+  title: 'DP-300: Administering Relational Databases on Microsoft Azure (beta)'
+  description: 'DP-300: Administering Relational Databases on Microsoft Azure (beta)'
+uid: exam.dp-300
+displayName: DP-300
+summary: |-
+  Kandidaten für dieses Examen sind Datenbankadministratoren und Datenverwaltungsspezialisten, die vor Ort und in Beziehung zu Cloud stehende Datenbanken verwalten, die auf Microsoft SQL Server- und Microsoft Azure-Datendiensten basieren.
+  
+  'Der Azure-Database Administrator implementiert und verwaltet die betrieblichen Aspekte von Cloud-nativen und hybriden Datenplattformlösungen, die auf Microsoft Azure Data Services und Microsoft SQL Server basieren. Der Azure-Datenbankadministrator verwendet eine Vielzahl von Methoden und Tools, um alltägliche Vorgänge auszuführen, einschließlich der Anwendung von Kenntnissen über die Verwendung von T-SQL für Verwaltungsverwaltungszwecke.
+  
+  Diese Rolle ist verantwortlich für die Verwaltung, Verfügbarkeit, Sicherheit und Leistungsüberwachung sowie die Optimierung moderner relationaler Datenbanklösungen. Diese Rolle arbeitet mit der Azure Data Engineer-Rolle zusammen, um betriebliche Aspekte von Datenplattformlösungen zu verwalten.
+  
+  <div style='color&#58; red;'><br/><strong>Hinweis&#58; Dieses Beta-Examen ist erst ab 2. April 2020 verfügbar.</strong> Diese Informationen sind nicht endgültig und es kann zu geringfügigen Änderungen kommen, nachdem das beta Examen veröffentlicht wurde.</div>
+subTitle: 'Dieses Examen misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Planen und Implementieren von Datenplattformressourcen; eine sichere Umgebung implementieren; Überwachung und Optimierung der Betriebsressourcen; Abfrageleistung optimieren; Automatisierung von Aufgaben durchführen; Planen und Implementieren einer HADR-Umgebung (High Availability and Disaster Recovery); und die Verwaltung mit T-SQL durchführen. '
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=DP-300&examname=Exam%20DP-300:%20Administering%20Relational%20Databases%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-300
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Planen und Implementieren Sie Datenplattformressourcen (15-20%)
+- Implementieren Sie eine sichere Umgebung (15-20%)
+- Überwachung und Optimieren Sie die Betriebsressourcen (15-20%)
+- Optimieren Sie die Abfrageleistung (5-10%)
+- Automatisieren Sie Durchführung von Aufgaben (10-15%)
+- Planen und Implementieren Sie eine HADR-Umgebung (High Availability and Disaster Recovery) (15-20%)
+- Führen Sie die Administration mit T-SQL durch (10-15%)
+roles:
+- administrator
+products:
+- azure
+- azure-automation
+- azure-sql-database
+- azure-storage
+- azure-virtual-machines
+relatedCertifications:
+- related:
+    uid: certification.azure-database-administrator-associate
+resources:
+- title: Schulungs- und Zertifizierungsleitfaden
+  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+  href: ../deals.md
+- title: Unterstützung bei Zertifizierungsprüfungen
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  href: ../help.md
+- title: Zertifizierungsdashboard
+  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Unterkünfte anfordern
+  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Prüfungsrichtlinien und FAQs
+  description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
+  href: ../certification-exam-policies.md

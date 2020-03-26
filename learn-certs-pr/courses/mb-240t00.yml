@@ -1,0 +1,184 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Field Service
+metadata:
+  title: 'Course MB-240T00-A: Microsoft Dynamics 365 Field Service'
+  description: 'Course MB-240T00-A: Microsoft Dynamics 365 Field Service'
+uid: course.mb-240t00
+courseNumber: 'MB-240T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identifizieren von Schlüsselkomponenten, die an der Implementierung des Field Services beteiligt sind.
+- skill: Produkte und Dienstleistungen definieren, die an Kunden geliefert werden.
+- skill: Festlegen, welche Preisoptionen in bestimmten Szenarien verwendet werden sollen.
+- skill: Bestimmen, welche Ressourcen benötigt werden.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  Dynamics 365 Field Service unterstützt Unternehmen, sich besser auf dem Markt zu positionieren, indem verschiedene Tools bereitgestellt werden, mit denen Ressourcen identifiziert und geplant sowie Arbeitslasten für mobile Mitarbeiter verwaltet werden können. In diesem Kurs werden die Teilnehmer mit den erforderlichen Fähigkeiten ausgestattet, um Schlüsselkomponenten zu identifizieren und zu konfigurieren, die für die Bereitstellung von Außendienst- und mobilen Lösungen verwendet werden. Zu den Hauptthemen gehört die Identifizierung organisatorischer Überlegungen, die zu Konfigurationsentscheidungen und allgemeinen Konfigurationsaspekten führen.
+  Dieser Kurs hilft den Studenten, das Gesamtbild und die Endziele zu verstehen, die sich auf Implementierungen konzentrieren, die beim Entwerfen effizienterer Lösungen helfen, die mit Kunden- und Organisationszielen in Einklang stehen.
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an IT-Experten mit Erfahrung oder Interesse an der Bereitstellung von Field Service-Lösungen für Großkunden.
+outlineSection: |-
+  ### Modul 1&#58; Field Service konfigurieren
+  In diesem Einführungsmodul werden Schlüsselkonzepte des Dynamics 365 Field Service vorgestellt, einschließlich Produkte, Dienstleistungen und Steuercodes.
+  #### Lektionen
+  - Einführung in das Konfigurieren des Field Services
+  - Definieren von Produkten und Dienstleistungen
+  - Steuerkennzeichen definieren
+
+  Sie werden in der Lage sein&#58;
+  - Produkte und Dienstleistungen zu erstellen und verwalten
+  - Steuerkennzeichen für Ihre Organisation zu konfigurieren
+
+
+  ### Modul 2&#58; Ressourcenplanung konfigurieren
+  In diesem Modul werden wir das Konzept der Ressourcenplanung untersuchen und lernen, wie Sie das System so konfigurieren, dass Ressourcen effizient geplant werden.
+  #### Lektionen
+  - Mapping- und Standortinformationen
+  - Konfigurieren von Ressourcenkomponenten
+  - Definieren von Kontoeinstellungen
+
+  Sie werden in der Lage sein&#58;
+  - Konfigurieren Sie die Ressourcenplanung für Ihre Organisation
+  - Definieren sie Kontoeinstellungen
+  - Aktivieren Sie Location-Mapping
+
+
+  ### Modul 3&#58; Definieren und Konfigurieren von buchbaren Ressourcen
+  In diesem Modul erfahren Sie, wie Sie buchbare Ressourcen erstellen und verwalten, einschließlich Ressourcenpools und Crews.
+  #### Lektionen
+  - Buchbare Ressourcen definieren
+  - Ressourcenpools, Crews und Einrichtungen
+
+  Sie werden in der Lage sein&#58;
+  - Definieren Sie buchbare Ressourcen
+  - Erstellen Sie Pools und Crews
+  - Verwalten SIE Einrichtungsdatensätze
+
+
+  ### Modul 4&#58; Vorfälle konfigurieren
+  In diesem Modul lernen wir, wie Vorfälle die Planungseffizienz und -konsistenz Ihres Unternehmens verbessern können.
+  #### Lektionen
+  - Erstellen eines Ereignisses
+  - Verwenden von Dienstleistungsaufgaben
+
+  Sie werden in der Lage sein&#58;
+  - Erstellen Sie ein Ereignis für allgemeine Serviceaufgaben
+  - Planen Sie anhand von Ereignissen
+
+
+  ### Modul 5&#58; Bestands- und Arbeitsauftragsverwaltung
+  In diesem Modul erfahren wir, wie man Arbeitsaufträge erstellt und verwendet, um Ressourcen zu planen.
+  #### Lektionen
+  - Konfigurieren sie Field Service-Arbeitsaufträge
+  - Erstellen von Arbeitsaufträgen
+  - Arbeitsaufträge verwalten
+
+  Sie werden in der Lage sein&#58;
+  - Arbeitsaufträge konfigurieren
+  - Planen Sie Ressourcen mit Hilfe von Arbeitsaufträgen
+
+
+  ### Modul 6&#58; Field Service-Vereinbarungen
+  In diesem Modul werden wir Vereinbarungen vorstellen und lernen, wie man sie für Ihre Organisation konfiguriert.
+  #### Lektionen
+  - Verwendung von Field Service-Vereinbarungen
+  - Buchungen einrichten
+  - Rechnungen erstellen
+
+  Sie werden in der Lage sein&#58;
+  - Verwenden Sie eine Vereinbarung, um Arbeitsaufträge zu planen
+  - Erstellen sie Rechnungen für Kunden
+
+
+  ### Modul 7&#58; Bestand und Einkauf
+  In diesem Modul lernen wir die Verwaltung von Kundenvermögen kennen.
+  #### Lektionen
+  - Kunden-Assets verwalten
+  - Bestand verwalten
+  - Einkauf und Rückgabe
+
+  Sie werden in der Lage sein&#58;
+  - Erstellen sie Kundendatensätze
+  - Verwalten Sie Inventar, Einkauf und Retouren
+
+
+  ### Modul 8&#58; Field Service mobil
+  In diesem Modul erfahren wir, wie man die Field Service Mobil-Anwendung für mobile Mitarbeiter verwendet und konfiguriert.
+  #### Lektionen
+  - Übersicht über Mobile-Clients
+  - Installieren und Bereitstellen von mobilen Field-Service - Projekten
+  - Mobile Projekte verwalten
+  - Den Mobilkunde bereitstellen
+
+  Sie werden in der Lage sein&#58;
+  - Mobile Projekte verwalten
+  - Installieren und implementieren Sie den mobilen Client
+  - Beschreiben Sie den Wert der mobilen App für eine mobile Belegschaft
+
+
+  ### Modul 9&#58; Universelle Ressourcenplanung
+  In diesem Modul werden wir das Konzept der universellen Ressourcenplanung vorstellen und beschreiben, wie es für eine Organisation genutzt werden kann.
+  #### Lektionen
+  -URS-Übersicht und Konfiguration
+  - Entitäten für URS aktivieren
+  - Passen Sie Entitäten für URS an
+
+  Sie werden in der Lage sein&#58;
+  - Beschreiben sie die universelle Ressourcenplanung
+  - Aktivieren Sie eine Entität für URS
+
+
+  ### Modul 10&#58; Verwalten von Planungsoptionen
+  In diesem Modul erfahren wir, wie man mit Hilfe der Zeitplantafel neue Ressourcen planen, ersetzen und Pools und Crews planen kann.
+  #### Lektionen
+  - Verwenden der Planungstafel
+  - Planen Sie Elemente
+  - Neuplanung und Ressourcen austauschen
+  - Crew- und Poolplanung
+
+  Sie werden in der Lage sein&#58;
+  - Konfigurieren und verwenden Sie die Zeitplantafel, um Ressourcen zu planen
+  - Arbeitsaufträge neu planen
+  - Ersetzen sie Ressourcen
+
+
+  ### Modul 11&#58; Anpassen der Planungstafel
+  In diesem Modul erfahren wir, wie man den Zeitplan so konfiguriert, dass er den Anforderungen der Organisation oder des Planers am besten entspricht.
+  #### Lektionen
+  - Konfigurieren Sie die Tafel
+  - Erstellen zusätzlicher Planungstafeln
+  - Verwenden Sie Ansichten, um den Zeitplan zu erweitern
+  - Konfigurieren sie Abfragen und Filtern für Zeitplanplatinen
+  - Arbeiten mit Anforderungsgruppen
+
+  Sie werden in der Lage sein&#58;
+  - Passen Sie die Zeitplantafel an
+  - Erstellen sie zusätzlicher Zeiplanungstafeln
+  - Fügen Sie einer Zeitplantafel Ansichten hinzu
+
+
+  ### Modul 12&#58; Erweiterte Planungsoptionen
+  In diesem Modul werden wir uns eingehender mit den Optionen zum Anpassen der Planung von Arbeitsaufträgen auf der Grundlage einzigartiger Geschäftsanforderungen befassen.
+  #### Lektionen
+  - Arbeiten mit der Optimierung der Ressourcenplanung
+  - Definition von Optimierungszielen
+  - Definition von Optimierungsrahmen
+  - Definieren von Optimierungsprofilen
+  - Einzelressourcenplanung
+
+  Sie werden in der Lage sein&#58;
+  - Definieren Sie die Optimierung für eine Organisation
+  - Planen Sie einzelne Ressourcen

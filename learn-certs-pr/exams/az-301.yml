@@ -1,29 +1,29 @@
 ### YamlMime:Examination
 title: Microsoft Azure Architect Design
 metadata:
-  title: 'Prüfung AZ-301: Microsoft Azure Architect Design'
-  description: 'Prüfung AZ-301: Microsoft Azure Architect Design'
+  title: 'Exam AZ-301: Microsoft Azure Architect Design'
+  description: 'Exam AZ-301: Microsoft Azure Architect Design'
 uid: exam.az-301
 displayName: AZ-301
-summary: >-
-  <div style='color&#58; red; font-weight&#58; bold;'>Der Inhalt dieser Prüfung wurde am Mittwoch, den 4. Dezember 2019 aktualisiert. Bitte laden Sie das untenstehende Dokument Skills measured herunter, um zu sehen, was sich geändert hat.<br/><br/></div>
-
-
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>EINE NEUE VERSION DIESES EXAMENS, AZ-304, WIRD AM ODER UM DEN Dienstag, 28. April 2020 VERFÜGBAR SEIN. Sie können dieses Examen ablegen, bis es am oder um den Dienstag, 28. Juli 2020 eingestellt wird. Bitte laden Sie das unten stehende Dokument zu den gemessenen Fähigkeiten herunter, um zu sehen, was sich ändern wird.<br/><br/></div>
+  
   Kandidaten für diese Prüfung sind Azure Solution Architects, die Interessenvertreter beraten und Geschäftsanforderungen in sichere, skalierbare und zuverlässige Lösungen umsetzen. Die Kandidaten sollten über umfangreiche Erfahrungen und Kenntnisse in verschiedenen Aspekten des IT-Betriebs verfügen, einschließlich Netzwerk, Virtualisierung, Identität, Sicherheit, Business Continuity, Disaster Recovery, Datenmanagement, Budgetierung und Governance. Diese Position erfordert die Verwaltung der Auswirkungen von Entscheidungen in den einzelnen Bereichen auf eine Gesamtlösung. Die Kandidaten müssen über gute Kenntnisse in den Bereichen Azure-Administration, Azure-Entwicklung und DevOps verfügen und über Kenntnisse auf Expertenebene in mindestens einem dieser Bereiche verfügen.
-subTitle: 'Diese Prüfung misst Ihre Fähigkeit, folgende technische Aufgaben zu erfüllen: Ermitteln der Workload-Anforderungen; Design für Identität und Sicherheit; Design einer Datenbankplattformlösung; Design einer Strategie für Geschäftskontinuität; Design für Bereitstellung, Migration und Integration;  Design einer Infrastrukturstrategie.'
+subTitle: 'Diese Prüfung misst Ihre Fähigkeit, folgende technische Aufgaben zu erfüllen: Ermitteln der Workload-Anforderungen; Design für Identität und Sicherheit; Design einer Datenbankplattformlösung; Design einer Strategie für Geschäftskontinuität; Design für Bereitstellung, Migration und Integration; Design einer Infrastrukturstrategie.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-301?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-301&examname=Exam%20AZ-301:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-301
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-301&examname=Prüfung%20AZ-301:%20Microsoft%20Azure%20Architect-Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-301
 levels:
 - advanced
 skills:
-- Der Inhalt dieser Prüfung wurde am Mittwoch, den 4. Dezember 2019 aktualisiert. Bitte laden Sie das untenstehende Dokument Skills measured herunter, um zu sehen, was sich geändert hat.
+- EINE NEUE VERSION DIESES EXAMENS, AZ-304, WIRD AM ODER UM DEN Dienstag, 28. April 2020 VERFÜGBAR SEIN. Sie können dieses Examen ablegen, bis es am oder um den Dienstag, 28. Juli 2020 eingestellt wird. Bitte laden Sie das unten stehende Dokument zu den gemessenen Fähigkeiten herunter, um zu sehen, was sich ändern wird.
+- 'HINWEIS: Die Aufzählungszeichen, die unter den im folgenden Dokument gemessenen Fähigkeiten angezeigt werden, sollen veranschaulichen, wie wir diese Fähigkeiten bewerten. Diese Liste ist nicht endgültig oder vollständig.'
 - Ermittlung des Arbeitsaufwands (10-15%)
 - Entwurf für Identität und Sicherheit (20-25%)
 - Entwurf einer Datenbankplattformlösung (15-20%)
@@ -32,8 +32,6 @@ skills:
 - Entwurf einer Infrastrukturstrategie (15-20%)
 roles:
 - solution-architect
-exams:
-- uid: exam.az-300
 products:
 - azure
 - azure-active-directory
@@ -56,6 +54,8 @@ products:
 - azure-cosmos-db
 - azure-sql-database
 - azure-event-hubs
+exams:
+- uid: exam.az-300
 courses:
 - uid: course.az-301t01
 - uid: course.az-301t02
@@ -76,24 +76,27 @@ relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
-- title: Lernpfad zur Zertifizirung
-  description: 'Entdecken Sie die Schulungsressourcen, um ein Microsoft Certified: Azure Solutions Architect Expert zu werden.'
+- title: Lernpfad zur Zertifizierung
+  description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Azure Solutions Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Prüfung wiederholen
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Werktags (Montag-Freitag) wird Ihnen ein Forenmoderator antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
   description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md

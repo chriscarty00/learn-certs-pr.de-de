@@ -1,4 +1,4 @@
----
+﻿---
 title: Microsoft Eingestellte Zertifizierungen | Microsoft Docs
 description: Microsoft Eingestellte Zertifizierungen
 documentationcenter: NA
@@ -77,6 +77,6 @@ Klappen Sie die Sektion unten auf, um eine Liste eingestellter Zertifizierungen 
 
 | Microsoft Technology Associate                                                     |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| MTA: 98-369: Cloud Fundamentals                                                                                             | 30. September 2018 |
+| MTA: 98-369: Cloud Fundamentals                                                                                             | Montag, 30. September 2019 |
 | MTA: 98-380: Einführung in die Programmierung mit blockbasierten Sprachen (Touch Develop)                                       | 7. August 2019     |
 ___

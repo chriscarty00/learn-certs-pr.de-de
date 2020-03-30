@@ -1,15 +1,15 @@
-### YamlMime:Course
+﻿### YamlMime:Course
 title: Open Source Daten Workloads nach Azure übertragen
 metadata:
-  title: 'Kurs DP-070T00-A: Open Source Daten Workloads nach Azure übertragen'
-  description: 'Kurs DP-070T00-A: Open Source Daten Workloads nach Azure übertragen'
+  title: 'Course DP-070T00-A: Open Source Daten Workloads nach Azure übertragen'
+  description: 'Course DP-070T00-A: Open Source Daten Workloads nach Azure übertragen'
 uid: course.dp-070t00
 courseNumber: 'DP-070T00-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: lokale MySQL nach Azure SQL DB für MySQL übertragen
-- skill: lokale PostgreSQL nach Azure SQL DB für PostgreSQL übertragenPostgreSQL
+- skill: lokale PostgreSQL nach Azure SQL DB für PostgreSQL übertragen
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -23,8 +23,7 @@ summary: |-
   Dieser Kurs ermöglciht es den Teilnehmern, die Azure SQL Datenbank zu verstehen und vermittelt den Teilnehmern, was für die Migration von MySQL und PostgreSQL Workloads zur Azure SQL Datenbank erforderlich ist.
 
   #### Zielgruppenprofil
-  Die primäre Zielgruppe für diesen Kurs sind Datenbankentwickler, die planen, ihre MySQL- oder Postgres-DB-Workloads auf Azure SQL DB zu migrieren.
-  Die sekundäre Zielgruppe für diesen Kurs sind MySQL/Postgres-Administratoren, um das Bewusstsein für die Features und Vorteile von Azure SQL DB zu erhöhen.
+  Die primäre Zielgruppe für diesen Kurs sind Datenbankentwickler, die planen, ihre MySQL- oder Postgres-DB-Workloads auf Azure SQL DB zu migrieren. Die sekundäre Zielgruppe für diesen Kurs sind MySQL/Postgres-Administratoren, um das Bewusstsein für die Features und Vorteile von Azure SQL DB zu erhöhen.
 prerequisitesSection: |-
   Zusätzlich zu ihrer Berufserfahrung sollten Kandidaten, die den Kurs besuchen, bereits über die folgenden technischen Kenntnisse verfügen&#58;
   - Einige Erfahung mit Open Source relationalen Datenbankverwaltungssystem wie Postgres und/oder MySQL, SQL administration, Backup und Recovery Techniken z.B. Taple Data löschen
@@ -52,22 +51,22 @@ outlineSection: |-
   ### Modul 2&#58; on-premises MySQL nach Azure SQL DB für MySQL übertragen
   Dieses Modul beschreibt die Vorteile und Prozesse der MySQL workloads Migration anch Azure SQL DB
   #### Lektionen
-  - Azure SQL DB for MySQL konfigurieren und verwalten
+  -  Azure SQL DB for MySQL konfigurieren und verwalten
   - lokale MySQL to SQL DB for MySQL migrieren
   ­- Anwendungsmigration
   - Überlegungen zur Migration
 
 
   #### Labor&#58; Migrating MySQL DB Workloads to Azure SQL DB
-  - MySQL DB Workloads nach Azure SQL DB
+  -  MySQL DB Workloads nach Azure SQL DB
   - Source und Target DBS definieren
   - Migration durchführen
   - Migration verifizieren
 
   Am Ende dieses Moduls können die Teilnehmer&#58;
-  - Azure SQL DB for MySQL konfigurieren und verwalten
+  -  Azure SQL DB for MySQL konfigurieren und verwalten
   - lokale MySQL to SQL DB for MySQL migrieren
-  ­- Anwendungsmigration
+  -­ Anwendungsmigration
   - Überlegungen zur Migration
 
 
@@ -81,7 +80,7 @@ outlineSection: |-
 
 
   #### Labor&#58; PostgreSQL DB Workloads nach Azure SQL DB übertragen
-  - Azure SQL DB for PostgreSQL konfigurieren
+  -  Azure SQL DB for PostgreSQL konfigurieren
   - Source und Target DBS definieren
   - Migration durchführen
   - Migration verifizieren
@@ -93,4 +92,4 @@ outlineSection: |-
   - Überlegungen zur Migration
 
   #### Additional Reading&#58;
-  - Keine Extraliteratur ist für diesen Kurs nötig
+  Keine Extraliteratur ist für diesen Kurs nötig

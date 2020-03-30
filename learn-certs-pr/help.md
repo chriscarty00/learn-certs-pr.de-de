@@ -1,4 +1,4 @@
----
+﻿---
 title: Hilfe zu Microsoft-Schulungen und -Zertifizierungen | Microsoft Docs
 description: Hilfe zu Microsoft-Schulungen und -Zertifizierungen
 documentationcenter: NA
@@ -14,6 +14,8 @@ ms.author: micsullivan
 Haben Sie Fragen zu Schulungen und Zertifizierungen von Microsoft-Produkten? Besuchen Sie [Microsoft Learn](/learn/certifications/), wo Sie Antworten auf die meisten Ihrer Fragen zu Microsoft Training, Zertifizierung, Prüfungen, Microsoft Official Courses (MOC) und mehr finden.
 
 Haben Sie noch Fragen? Bitte beachten Sie unsere Support-Optionen unten.
+
+Bitte beachten Sie, dass wir für Kunden, die Unterstützung bei Zertifizierung und Schulung benötigen, längere Antwortzeiten als erwartet haben. Wir bedanken uns für Ihre Geduld und bemühen uns, alle Anfragen so schnell wie möglich zu bearbeiten.
 
 ## Zertifizierungshilfe
 

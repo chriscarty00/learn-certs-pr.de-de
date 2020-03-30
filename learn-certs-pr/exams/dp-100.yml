@@ -1,4 +1,4 @@
-### YamlMime:Examination
+﻿### YamlMime:Examination
 title: Designing and Implementing a Data Science Solution on Azure
 metadata:
   title: 'Exam DP-100: Designing and Implementing a Data Science Solution on Azure'
@@ -6,11 +6,13 @@ metadata:
 uid: exam.dp-100
 displayName: DP-100
 summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>Phase 1&#58; Der Inhalt dieser Prüfung wird am 22. Mai 2020 aktualisiert. Bitte laden Sie das unten stehende Dokument zu den gemessenen Fähigkeiten herunter, um zu sehen, was sich ändern wird.<br/><br/></div>
+  
   Azure Data Scientists wenden ihre Kenntnisse in Datenwissenschaften und maschinellem Lernen an, um Workloads für maschinelles Lernen in Azure zu implementieren und auszuführen, insbesondere mit Hilfe des Azure Machine Learning Service. Dies umfasst das Planen und Erstellen einer geeigneten Arbeitsumgebung für datenwissenschaftliche Workloads in Azure, das Ausführen von Datenexperimenten und das Trainieren von Vorhersagemodellen, das Verwalten und Optimieren von Modellen sowie das Bereitstellen von Modellen für maschinelles Lernen in der Produktion.
-subTitle: 'Dieses Examen misst Ihre Fähigkeit, die folgenden technischen Aufgaben auszuführen: Einrichten eines Azure-Arbeitsbereichs; Experimente durchführen und Modelle trainieren; Modelle optimieren und verwalten; und Modelle bereitstellen und konsumieren. '
+subTitle: 'Dieses Examen misst Ihre Fähigkeit, die folgenden technischen Aufgaben auszuführen: Einrichten eines Azure-Arbeitsbereichs; Experimente durchführen und Modelle trainieren; Modelle optimieren und verwalten; und Modelle bereitstellen und konsumieren.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 locales:
 - en
 - ja
@@ -19,9 +21,9 @@ locales:
 levels:
 - intermediate
 skills:
-- 'HINWEIS: Die Aufzählungszeichen, die unter den im folgenden Dokument gemessenen Fähigkeiten angezeigt werden, sollen veranschaulichen, wie wir diese Fähigkeiten bewerten. Diese Liste ist nicht endgültig oder vollständig.'
+- Der Inhalt dieser Prüfung wird am Freitag, 22. Mai 2020 aktualisiert. Bitte laden Sie das unten stehende Dokument zu den gemessenen Fähigkeiten herunter, um zu sehen, was sich ändern wird.
 - Einrichten eines Azure-Arbeitsbereichs für maschinelles Lernen (30-35%) 
-- Experimente durchführen und Modelle trainieren (25 -30%) 
+- Experimente durchführen und Modelle trainieren (25-30%) 
 - Modelle optimieren und verwalten (20-25%) 
 - Modelle bereitstellen und verwenden (20-25%)
 roles:
@@ -32,21 +34,13 @@ products:
 courses:
 - uid: course.dp-100t01
 paths:
-- uid: learn.data-ai.explore-data-science-tools-in-azure
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
-- uid: learn.data-ai.get-started-with-azure-dsvm
-- uid: learn.modern-data-warehouse
-- uid: learn.data-science
-- uid: learn.data-ai.intro-to-ml-with-python
 relatedCertifications:
 - related:
     uid: certification.azure-data-scientist
 resources:
-- title: Lernpfad zur Zertifizierung
-  description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Azure Data Scientist Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.

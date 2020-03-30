@@ -1,35 +1,32 @@
-### YamlMime:Examination
+﻿### YamlMime:Examination
 title: Designing and Implementing an Azure AI Solution
 metadata:
-  title: 'Prüfung AI-100: Designing and Implementing an Azure AI Solution'
-  description: 'Prüfung AI-100: Designing and Implementing an Azure AI Solution'
+  title: 'Exam AI-100: Designing and Implementing an Azure AI Solution'
+  description: 'Exam AI-100: Designing and Implementing an Azure AI Solution'
 uid: exam.ai-100
 displayName: AI-100
-summary: >-
+summary: |-
   Die Kandidaten dieser Prüfung analysieren die Anforderungen zum AI-Lösungen, empfehlen geeignete Tools und Technologien und setzen Lösungen um, die den Anforderungen an Skalierbarkeit und Leistung entsprechen.
-
   <br/>
-
 
   Die Kandidaten übersetzen die Ideen von Lösungsarchitekten und arbeiten mit Datenwissenschaftlern, Datentechnikern, IoT-Spezialisten und AI-Entwicklern zusammen, um komplette End-to-End-Lösungen zu entwickeln. Kandidaten entwerfen und implementieren AI-Apps und Agenten, die Microsoft Azure Cognitive Services und Azure Bot Service nutzen. Kandidaten können Lösungen empfehlen, die Open-Source-Technologien verwenden.
 
-
   Die Kandidaten verstehen die Komponenten des Azure AI-Portfolios und die verfügbaren Datenspeicheroptionen.
-
 
   Die Kandidaten implementieren AI-Lösungen, die Cognitive Services, Azure Bots, Azure Search und Datenspeicherung in Azure nutzen. Die Kandidaten verstehen, wann eine benutzerdefinierte API entwickelt werden sollte, um spezifische Anforderungen zu erfüllen.
 subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Analyse der Lösungsanforderungen, Entwurf von Lösungen, Integration von AI-Modellen in Lösungen sowie Bereitstellung und Verwaltung von Lösungen.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-100
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AI-100&examname=Prüfung%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-100
 levels:
 - intermediate
 skills:
+- 'HINWEIS: Die Aufzählungszeichen, die unter den im folgenden Dokument gemessenen Fähigkeiten angezeigt werden, sollen veranschaulichen, wie wir diese Fähigkeiten bewerten. Diese Liste ist nicht endgültig oder vollständig.'
 - Analyse der Lösungsanforderungen (25-30%)
 - Design von AI-Lösungen (40-45%)
 - Implementieren und Überwachen von AI-Lösungen (25-30%)
@@ -45,7 +42,6 @@ products:
 courses:
 - uid: course.ai-100t01
 paths:
-- uid: learn.data-ai.publish-experiment-with-ml-studio
 - uid: learn.data-ai.evaluate-text-with-language-services
 - uid: learn.data-ai.translate-speech-with-speech-services
 - uid: learn.data-ai.create-bots-with-the-azure-bot-service
@@ -54,24 +50,24 @@ relatedCertifications:
 - related:
     uid: certification.azure-ai-engineer
 resources:
-- title: Lernpfad zur Zertifizirung
-  description: 'Entdecken Sie die Schulungsressourcen, um ein Microsoft Certified: Azure AI Engineer Associate zu werden.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWusKi
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Prüfung wiederholen
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Werktags (Montag-Freitag) wird Ihnen ein Forenmoderator antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
   description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md

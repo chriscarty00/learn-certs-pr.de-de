@@ -6,24 +6,20 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 30/07/2019
+ms.date: 07/30/2019
 ms.author: micsullivan
 ---
 # Hilfe zu Microsoft-Schulungen und -Zertifizierungen
 
 Haben Sie Fragen zu Schulungen und Zertifizierungen von Microsoft-Produkten? Besuchen Sie [Microsoft Learn](/learn/certifications/), wo Sie Antworten auf die meisten Ihrer Fragen zu Microsoft Training, Zertifizierung, Prüfungen, Microsoft Official Courses (MOC) und mehr finden.
 
-Haben Sie noch Fragen? Bitte beachten Sie unsere Support-Optionen unten.
+Haben Sie noch Fragen zur offiziellen Lernsoftware von Microsoft (MOC)?  Bitte beachten Sie unsere Support-Optionen unten.
 
-## Schulungshilfe
-
-Bitte beachten Sie, dass die folgenden Kontaktoptionen nur für Microsoft Official Courseware (MOC) gelten.  Hilfe zur Microsoft-Zertifizierung oder für Examen finden Sie im Abschnitt Zertifizierungshilfe weiter unten.
-
-| Supportbereich | Kontaktinformationen |
-| ------------- | --- |
-| **Microsoft Official Courses (MOC)** | **Telefon:** (855) 507-6283<br/> Montag bis Freitag: 16:30 – 17:00. Pacific Zeit<br/><br/> [Kontaktieren Sie uns](https://support.microsoft.com/en-us/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&SC=US) <br/> Antwort innerhalb von zwei Werktagen <br/><br/>|
+Bitte beachten Sie, dass wir für Kunden, die Unterstützung bei Zertifizierung und Schulung benötigen, längere Antwortzeiten als erwartet haben. Wir bedanken uns für Ihre Geduld und bemühen uns, alle Anfragen so schnell wie möglich zu bearbeiten.
 
 ## MOC Regionale Kontaktinformationen
+
+Bitte beachten Sie, dass die folgenden Kontaktoptionen nur für Microsoft Official Courseware (MOC) gelten.  Hilfe zur Microsoft-Zertifizierung oder zu Prüfungen finden Sie unter [Certification Help](/learn/certifications/help).
 
 | Land | Telefon + Sprache | E-Mail | Zusätzliche Informationen | Kontaktdaten |
 | ------- | ---------------- | --------- | ------------- | ---------------- |
@@ -46,7 +42,7 @@ Bitte beachten Sie, dass die folgenden Kontaktoptionen nur für Microsoft Offici
 | Cambodia | (65) 6622 1237 | [Fragen zum Courseware-Marktplatz](https://support.microsoft.com/en-my/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&amp;SC=KH) |  | Montag -Freitag<br/>9:00-18:00 (9:00 A.M.-6:00 P.M.)<br/>Singapore time |
 | Canada | Englisch +1 855 507-6283 | [Fragen zum Courseware-Marktplatz](https://support.microsoft.com/en-CA/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&amp;SC=CA) |  | 4.30 – 17:00 (Montag -Freitag) Pacific Standard time |
 | Kaimaninseln | Englisch: +1 305 715-1492<br/>Spanisch: +1 305 715-1490<br/>Portugiesisch: +1 305 715-1491 | [Fragen zum Courseware-Marktplatz](https://support.microsoft.com/en-US/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&amp;SC=KY) | Bitte beachten Sie, dass dies US-Nummern sind. Es gelten die Preise für Fern- bzw. internationale Gespräche Ihres Telefonanbieters. | Englisch: 7:00 - 19:00 Uhr (Montag bis Freitag) Kolumbische Zeit<br/>Spanisch: 7:00 - 19:00 Uhr (Montag bis Freitag) Kolumbische Zeit<br/>Portugiesisch: 9:00 - 18:00 Uhr (Montag bis Freitag) BRT Brasilianische Zeit |
-| Chile | English: +1 305 715-1492<br/>Spanisch: +1 305 715-1490<br/>Portugiesisch: +1 305 715-1491 | [Fragen zum Courseware-Marktplatz](https://support.microsoft.com/es-CL/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=es&amp;SC=CL) | Bitte beachten Sie, dass dies US-Nummern sind. Es gelten die Preise für Fern- bzw. internationale Gespräche Ihres Telefonanbieters. | Englisch: 7:00 - 19:00 Uhr (Montag bis Freitag) Kolumbische Zeit<br/>Spanisch: 7:00 - 19:00 Uhr (Montag bis Freitag) Kolumbische Zeit<br/>Portugiesisch: 9:00 - 18:00 Uhr (Montag bis Freitag) BRT Brasilianische Zeit |
+| Chile | Englisch: +1 305 715-1492<br/>Spanisch: +1 305 715-1490<br/>Portugiesisch: +1 305 715-1491 | [Fragen zum Courseware-Marktplatz](https://support.microsoft.com/es-CL/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=es&amp;SC=CL) | Bitte beachten Sie, dass dies US-Nummern sind. Es gelten die Preise für Fern- bzw. internationale Gespräche Ihres Telefonanbieters. | Englisch: 7:00 - 19:00 Uhr (Montag bis Freitag) Kolumbische Zeit<br/>Spanisch: 7:00 - 19:00 Uhr (Montag bis Freitag) Kolumbische Zeit<br/>Portugiesisch: 9:00 - 18:00 Uhr (Montag bis Freitag) BRT Brasilianische Zeit |
 | China | (86-21) 800 819 0550 | [Fragen zum Courseware-Marktplatz](https://support.microsoft.com/zh-cn/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641) |  | 9:00 -18:00 (9:00 A.M. - 6:00 P.M.) |
 | Kolumbienc | Englisch: +1 305 715-1492<br/>Spanisch: +1 305 715-1490<br/>Portugiesisch: +1 305 715-1491 | [Fragen zum Courseware-Marktplatz](https://support.microsoft.com/es-CO/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=es&amp;SC=CO) | Bitte beachten Sie, dass dies US-Nummern sind. Es gelten die Preise für Fern- bzw. internationale Gespräche Ihres Telefonanbieters. | Englisch: 7:00 - 19:00 Uhr (Montag bis Freitag) Kolumbische Zeit<br/>Spanisch: 7:00 - 19:00 Uhr (Montag bis Freitag) Kolumbische Zeit<br/>Portugiesisch: 9:00 - 18:00 Uhr (Montag bis Freitag) BRT Brasilianische Zeit |
 | Costa Rica | Englisch: +1 305 715-1492<br/>Spanisch: +1 305 715-1490<br/>Portugiesisch: +1 305 715-1491 | [Fragen zum Courseware-Marktplatz](https://support.microsoft.com/es-CR/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=es&amp;SC=CR) | Bitte beachten Sie, dass dies US-Nummern sind. Es gelten die Preise für Fern- bzw. internationale Gespräche Ihres Telefonanbieters. | Englisch: 7:00 - 19:00 Uhr (Montag bis Freitag) Kolumbische Zeit<br/>Spanisch: 7:00 - 19:00 Uhr (Montag bis Freitag) Kolumbische Zeit<br/>Portugiesisch: 9:00 - 18:00 Uhr (Montag bis Freitag) BRT Brasilianische Zeit |
@@ -115,8 +111,7 @@ Bitte beachten Sie, dass die folgenden Kontaktoptionen nur für Microsoft Offici
 | Schweden | 020 796319 or 0200 214737 | [Fragen zum Courseware-Marktplatz](https://support.microsoft.com/en-GB/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&amp;SC=SE) |  | Montag -Freitag, 9:00 - 17:00 (GMT) |
 | Schweiz-Französisch | 800,835,715 | [Fragen zum Courseware-Marktplatz](https://support.microsoft.com/fr-CH/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=fr&amp;SC=CH) |  | Montag -Freitag, 9:00 - 17:00 (GMT) |
 | Swasiland-Deutsch | 0800-835716 | [Fragen zum Courseware-Marktplatz](https://support.microsoft.com/de-CH/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=de&amp;SC=CH) |  |  Montag-Freitag, 9:00 - 17:00 (GMT) |
- | Taiwan | 0800 008833#2#6 (und drücken Sie dann #2 und #6 für eine lokale gebührenfreie Nummer)<br/>+886-2-2999-8833 (#2 und #6 nicht gebührenfreie Nummer) | [Courseware Marketplace-Abfragen](https://support.microsoft.com/zh-tw/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=zh&amp;SC=TW) | | |
-| Thailand | 001-800-441-0218 | [Fragen zum Courseware-Marktplatz](https://support.microsoft.com/th-th/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=th&amp;SC=TH) |  | 9:00 to 18:00 (9:00-18:00) Singapore time Montag-Freitag |
+| Taiwan | 0800 008833#2#6 (und drücken Sie dann #2 und #6 für eine lokale gebührenfreie Nummer)<br/>+886-2-2999-8833 (#2 und #6 nicht gebührenfreie Nummer) | [Courseware Marketplace-Abfragen](https://support.microsoft.com/zh-tw/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=zh&amp;SC=TW) | | |
 | Trinidad und Tobago | Englisch: +1 305 715-1492<br/>Spanisch: +1 305 715-1490<br/>Portugiesisch: +1 305 715-1491 | [Fragen zum Courseware-Marktplatz](https://support.microsoft.com/en-US/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&amp;SC=TT) | Bitte beachten Sie, dass dies US-Nummern sind. Es gelten die Preise für Fern- bzw. internationale Gespräche Ihres Telefonanbieters. | Englisch: 7:00 - 19:00 Uhr (Montag bis Freitag) Kolumbische Zeit<br/>Spanisch: 7:00 - 19:00 Uhr (Montag bis Freitag) Kolumbische Zeit<br/>Portugiesisch: 9:00 - 18:00 Uhr (Montag bis Freitag) BRT Brasilianische Zeit |
 | Turks- und Caicosinseln | Englisch: +1 305 715-1492<br/>Spanisch: +1 305 715-1490<br/>Portugiesisch: +1 305 715-1491 | [Fragen zum Courseware-Marktplatz](https://support.microsoft.com/en-US/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&amp;SC=TC) | Bitte beachten Sie, dass dies US-Nummern sind. Es gelten die Preise für Fern- bzw. internationale Gespräche Ihres Telefonanbieters. | Englisch: 7:00 - 19:00 Uhr (Montag bis Freitag) Kolumbische Zeit<br/>Spanisch: 7:00 - 19:00 Uhr (Montag bis Freitag) Kolumbische Zeit<br/>Portugiesisch: 9:00 - 18:00 Uhr (Montag bis Freitag) BRT Brasilianische Zeit |
 | Gerät. Arabische Emirate | 971 4 397 5752 | [Fragen zum Courseware-Marktplatz](https://support.microsoft.com/ar-SA/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=ar&amp;SC=AE) |  | Montag-Freitag, 9:00 - 17:00 (GMT) |
@@ -131,4 +126,4 @@ Bitte beachten Sie, dass die folgenden Kontaktoptionen nur für Microsoft Offici
 
 ## Zertifizierungshilfe
 
-Unterstützung bei der Microsoft-Zertifizierung [hier klicken](https://docs.microsoft.com/learn/certifications/help).
+Unterstützung bei der Microsoft-Zertifizierung [hier klicken](/learn/certifications/help).

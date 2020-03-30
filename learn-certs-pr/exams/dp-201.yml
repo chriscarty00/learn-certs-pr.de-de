@@ -1,4 +1,4 @@
-### YamlMime:Examination
+﻿### YamlMime:Examination
 title: Designing an Azure Data Solution
 metadata:
   title: 'Exam DP-201: Designing an Azure Data Solution'
@@ -13,12 +13,12 @@ summary: |-
 
   Die Datentechniker von Azure sind für datenbezogene Aufgaben verantwortlich, einschließlich der Entwicklung von Azure-Datenspeicherlösungen, die relationale und nicht-relationale Datenspeicher, Batch- und Echtzeit-Datenverarbeitungslösungen sowie Datensicherheits- und Compliance-Lösungen verwenden.
 
-  Die Kandidaten für diese Prüfung müssen Datenlösungen entwickeln, die die folgenden Azure-Dienste verwenden: Azure Cosmos DB, Azure Synapse Analytics, Azure SQL Data Warehouse, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks und Azure Blob Storage.
+  Die Kandidaten für diese Prüfung müssen Datenlösungen entwickeln, die die folgenden Azure-Dienste verwenden&#58; Azure Cosmos DB, Azure Synapse Analytics, Azure SQL Data Warehouse, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks und Azure Blob Storage.
 subTitle: 'Diese Prüfung misst Ihre Kompetenz, die folgenden technischen Aufgaben zu erfüllen: Design von Azure-Datenspeicherlösungen, Design von Datenverarbeitungslösungen und Design für Datensicherheit und Konformität.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
 practiceTestUrl: https://us.mindhub.com/p/MU-DP-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=DP-201&examname=Exam%20DP-201:%20Designing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-201
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-201&examname=Exam%20DP-201:%20Designing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-201
 locales:
 - en
 - ja
@@ -58,17 +58,12 @@ paths:
 - uid: learn.data-ai.data-processing-with-azure-adls
 - uid: learn.data-ai.implement-data-streaming-with-asa
 - uid: learn.data-ai.implement-sql-data-warehouse
-- uid: learn.modern-data-warehouse
-- uid: learn.data-science
 relatedCertifications:
 - related:
     uid: certification.azure-data-engineer
 resources:
-- title: Lernpfad zur Zertifizierung
-  description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Azure Data Engineer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.

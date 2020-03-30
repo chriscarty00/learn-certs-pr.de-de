@@ -1,6 +1,6 @@
 ---
 title: 'certification-exam-policies | Microsoft Docs'
-description: 'certification-exam-policies' 
+description: 'certification-exam-policies'
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -43,9 +43,9 @@ Nachstehend finden Sie einige Beispiele für solches Fehlverhalten, einschließl
 1. Die Kandidaten können gegen ihre Sperrung Einspruch erheben, indem sie eine Beschwerde an [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com) richten.
 2. Ein Kandidat kann eine Sperrung wegen der Fälschung eines Bewertungsberichts anfechten, indem er den Originalbericht (keine Scans oder elektronischen Kopien) vorlegt dem:
 
-    Microsoft Worldwide Learning Security Team  
-    One Microsoft Way  
-    Redmond, WA 98052 
+    Microsoft Worldwide Learning Security Team
+    One Microsoft Way
+    Redmond, WA 98052
 
 3. Das Microsoft Worldwide Learning Security Team prüft alle eingereichten Beschwerdeanträge, führt eine gründliche Untersuchung jedes einzelnen Falles durch und kommuniziert direkt mit dem Kandidaten über den Abschluss der Untersuchung und die endgültige Beschwerdeentscheidung.
 
@@ -102,6 +102,14 @@ Microsoft setzt Datenforensik als Grundlage für Vollstreckungsmaßnahmen gegen 
 Testcenter in diesen drei Ländern müssen bestätigen und dokumentieren, dass jeder Kandidat für eine Microsoft-Zertifizierung den dokumentarischen Nachweis erbracht hat, dass er rechtmäßiger Bewohner des betreffenden Landes ist. Um den Aufenthaltsstatus des Landes zu überprüfen, muss der Kandidat zwei Formen von Originalausweisen (keine Fotokopien), gültige (abgelaufene) Ausweise vorlegen - ein Formular als Hauptausweis (Von der Regierung ausgestellt mit Name, Foto und Unterschrift) und ein Formular als Nebenausweis (mit Name und Unterschrift).
 
 **Wichtig: Wenn Sie kein rechtmäßiger Einwohner von Indien, China oder Pakistan sind, dürfen Sie keine Prüfung für eine Microsoft Certification exam in dem betreffenden Land ablegen.**
+
+### Tests für Bürger Sloweniens oder mit slowenischer Staatsbürgerschaft
+
+Aufgrund der Datenschutzgesetze in Slowenien kann Pearson VUE Kandidaten, die in Slowenien leben oder einen slowenischen Staatsbürgerschaftsausweis haben, keine online beaufsichtigten Prüfungen anbieten. Diese Kandidaten können Prüfungen in einem Pearson VUE Test-Center (PVTC) ablegen.
+
+- Kandidaten, die in Slowenien wohnen, wird bei der Planung einer Prüfung nur das Testcenter als Option angeboten.
+
+- Kandidaten mit Wohnsitz außerhalb Sloweniens sehen Online-Beaufsichtigung möglicherweise als verfügbare Testoption an. Sie können den Test jedoch nicht erfolgreich abschließen, wenn sie einen slowenischen Staatsbürgerschaftsausweis (Reisepass oder einen anderen Ausweis) als Identitätsnachweis vorlegen. Diese Kandidaten sollten eine Prüfung in einem Pearson VUE Test-Center (PVTC) planen.
 
 ### Nachprüfung des Kandidaten auf Anforderung von Microsoft
 
@@ -229,9 +237,9 @@ Diese Vereinbarung wird zum Zeitpunkt Ihrer Zustimmung zwischen Ihnen (**Sie** o
 
 7. **EIGENTUM UND ALLE RECHTE VORBEHALTEN**
 
-    7,1. **Eigentum**. Alle mit der Microsoft Zertifizierungsprüfung verbundenen Rechte liegen bei Microsoft.
+    7.1. **Eigentum**. Alle mit der Microsoft Zertifizierungsprüfung verbundenen Rechte liegen bei Microsoft.
 
-    7,2. **Rechtsmittel**. Zusätzlich zu allen anderen Rechten und Rechtsbehelfen, die durch das Gesetz oder diese Vereinbarung vorgesehen sind, behält sich Microsoft hiermit ausdrücklich alle legalen und angemessenen Rechtsbehelfe vor, die sich aus einer Verletzung dieser Vereinbarung oder der Verletzung eines der geistigen Eigentumsrechte von Microsoft ergeben.
+    7.2. **Rechtsmittel**. Zusätzlich zu allen anderen Rechten und Rechtsbehelfen, die durch das Gesetz oder diese Vereinbarung vorgesehen sind, behält sich Microsoft hiermit ausdrücklich alle legalen und angemessenen Rechtsbehelfe vor, die sich aus einer Verletzung dieser Vereinbarung oder der Verletzung eines der geistigen Eigentumsrechte von Microsoft ergeben.
 
 
 ## Microsoft-Zertifizierungsprogramm-Vereinbarung
@@ -246,11 +254,11 @@ Diese Microsoft-Zertifizierungsprogramm-Vereinbarung (**"Vereinbarung"**) ist ei
    4. "***Microsoft Certification***" bezieht sich auf das Bestehen der erforderlichen Prüfungen und die Erfüllung und Einhaltung aller Zertifizierungs- und Rezertifizierungs-Anforderungen zur Verwendung des entsprechenden Qualifizierungsnachweises oder Logos. Die aktuelle Liste von Microsoft Certification können Sie einsehen unter [Microsoft Certifications](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based).
    5. "***Microsoft Certification Credential***" oder "***Credential***" bezeichnet den vollständigen oder abgekürzten Titel einer bestimmten Microsoft-Zertifizierung, der verwendet wird, um die Übereinstimmung einer Person mit den Anforderungen für eine bestimmte Microsoft-Zertifizierung zu dokumentieren.
    6. "***Microsoft Certification Exam***" oder "***Prüfung***" bezeichnet eine Microsoft certification exam, die dazu dient, die Kompetenzen einer Person für eine bestimmte Microsoft-Technologie, die Gegenstand der Prüfung ist, zu überprüfen.
-   
+
 
 2. MICROSOFT-ZERTIFIZIERUNG
    1. *Erlangung und Aufrechterhaltung einer Microsoft-Zertifizierung*: Um eine Microsoft-Zertifizierung zu erlangen und aufrechtzuerhalten, müssen Sie alle der folgenden Voraussetzungen erfüllen:
-          
+
         1. Bestehen aller erforderlichen Prüfungen und Erfüllen aller Zertifizierungs- und Rezertifizierungsanforderungen für die jeweilige [Microsoft Certification](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based),
         2. Akzeptieren der Nutzungsbedingungen dieser Vereinbarung,
         3. Einhaltung der Bedingungen der gültigen Version dieser Vereinbarung, aller Programmanforderungen und
@@ -326,7 +334,7 @@ Diese Microsoft-Zertifizierungsprogramm-Vereinbarung (**"Vereinbarung"**) ist ei
         5. Sie haben sich an gesetzlich untersagten Aktivitäten beteiligt,
         6. Eine staatliche Behörde oder ein Gericht stellt fest, dass Dienstleistungen, die Sie im Hinblick auf die Technologien von Microsoft erbracht haben und auf die sich Ihre Microsoft-Zertifizierung bezieht, fehlerhaft sind.
         7. Sie geben Ihren Zertifizierungsstatus, Ihre Verbindung zu Microsoft-Partnern oder eine andere Beziehung zu Microsoft falsch an. Je nach Schwere der Nichteinhaltung können Sie auch dauerhaft dezertifiziert und aus dem Microsoft Zertifizierungsprogramm ausgeschlossen werden. In diesem Fall verlieren Sie auch dauerhaft Ihre Microsoft-Zertifizierungsdaten.
-        
+
 
     3. *Automatische Kündigung*: Diese Vereinbarung endet automatisch, wenn Sie Ihren Status im Microsoft-Zertifizierungsprogramm verlieren oder wenn Microsoft das Programm kündigt.
 
@@ -348,54 +356,54 @@ Diese Microsoft-Zertifizierungsprogramm-Vereinbarung (**"Vereinbarung"**) ist ei
 
     4. *Microsoft-Vertragsunternehmen*: Das Microsoft-Vertragsunternehmen für diese Vereinbarung wird durch das Land oder die Region Ihres Standorts bestimmt. Siehe Details unten:
 
-       1. Die Adresse von Microsoft für die folgenden Länder oder Regionen ist unten angegeben: Anguilla, Antigua und Barbuda, Argentinien, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivien, Brasilien, Chile, Costa Rica, Curacao, Dominica, Dominikanische Republik, Ecuador, El Salvador, Französisch-Guyana, Grenada, Guam, Guatemala, Guyana, Haiti, Honduras, Jamaika, Kanada, Kaimaninseln, Kolumbien, Martinique, Mexiko, Montserrat, Nicaragua, ehem. Niederländische Antillen, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts und Nevis, Saint Lucia, Saint Pierre und Miquelon, Saint Vincent und Grenadinen, Surinam, Trinidad und Tobago, Turks und Caicos-Inseln, Uruguay, Venezuela, Vereinigte Staaten, Virgin Islands (Britisch) und Virgin Islands (U.S.-amerikanisch):  
+       1. Die Adresse von Microsoft für die folgenden Länder oder Regionen ist unten angegeben: Anguilla, Antigua und Barbuda, Argentinien, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivien, Brasilien, Chile, Costa Rica, Curacao, Dominica, Dominikanische Republik, Ecuador, El Salvador, Französisch-Guyana, Grenada, Guam, Guatemala, Guyana, Haiti, Honduras, Jamaika, Kanada, Kaimaninseln, Kolumbien, Martinique, Mexiko, Montserrat, Nicaragua, ehem. Niederländische Antillen, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts und Nevis, Saint Lucia, Saint Pierre und Miquelon, Saint Vincent und Grenadinen, Surinam, Trinidad und Tobago, Turks und Caicos-Inseln, Uruguay, Venezuela, Vereinigte Staaten, Virgin Islands (Britisch) und Virgin Islands (U.S.-amerikanisch):
 
-           Microsoft Corporation  
-           One Microsoft Way  
-           Redmond, WA 98052 USA  
+           Microsoft Corporation
+           One Microsoft Way
+           Redmond, WA 98052 USA
 
-       2. Die Adresse von Microsoft für die folgenden Länder oder Regionen ist unten angegeben: Afghanistan, Ägypten, Albanien, Algerien, Andorra, Angola, Armenien, Aserbaidschan, Äthiopien, Bahrain, Belgien, Benin, Bosnien und Herzegowina, Botswana, Bouvetinsel, Bulgarien, Burkina Faso, Burundi, Dänemark, Demokratische Republik Kongo, Demokratische Republik São Tomé und Príncipe, Deutschland, Dschibuti, Elfenbeinküste, Estland, Färöer-Inseln, Finnland, Frankreich, Gabun, Gambia, Georgien, Ghana, Gibraltar, Griechenland, Grönland, Guadeloupe, Guinea-Bissau, Irland, Island, Israel, Italien, Jordanien, Kamerun, Kasachstan, Kenia, Kirgisien, Komoren, Kongo, Kosovo, Kroatien, Kuwait, Lesotho, Lettland, Libanon, Liberia, Libyen, Liechtenstein, Litauen, Luxemburg, Madagaskar, Malawi, Mali, Malta, Marokko, Mauretanien, Mauritius, Mazedonien, Moldawien, Monaco, Mongolei, Montenegro, Mosambik, Namibia, Neukaledonien, Niederlande, Niger, Nigeria, Norwegen, Oman, Österreich, Pakistan, Polen, Portugal, Qatar, Republik Äquatorialguinea, Republik Guinea, Republik Kap Verde, Republik Ruanda, Republik Senegal, Réunion, Rumänien, Russische Föderation, Saint Helena, Sambia, San Marino, Saudi-Arabien, Schweden, Schweiz, Serbien, Seychellen, Sierra Leone, Simbabwe, Slowakei, Slowenien, Somalia, Spanien, Spitzbergen und Jan Mayen, Südafrika, Swasiland, Tadschikistan, Tansania, Togo, Tschad, Tschechische Republik, Tunesien, Türkei, Turkmenistan, Uganda, Ukraine, Ungarn, Usbekistan, Vatikanstadt, Vereinigte Arabische Emirate, Vereinigtes Königreich, Weißrussland, Yemen, Zaire, Zentralafrikanische Republik und Zypern:  
+       2. Die Adresse von Microsoft für die folgenden Länder oder Regionen ist unten angegeben: Afghanistan, Ägypten, Albanien, Algerien, Andorra, Angola, Armenien, Aserbaidschan, Äthiopien, Bahrain, Belgien, Benin, Bosnien und Herzegowina, Botswana, Bouvetinsel, Bulgarien, Burkina Faso, Burundi, Dänemark, Demokratische Republik Kongo, Demokratische Republik São Tomé und Príncipe, Deutschland, Dschibuti, Elfenbeinküste, Estland, Färöer-Inseln, Finnland, Frankreich, Gabun, Gambia, Georgien, Ghana, Gibraltar, Griechenland, Grönland, Guadeloupe, Guinea-Bissau, Irland, Island, Israel, Italien, Jordanien, Kamerun, Kasachstan, Kenia, Kirgisien, Komoren, Kongo, Kosovo, Kroatien, Kuwait, Lesotho, Lettland, Libanon, Liberia, Libyen, Liechtenstein, Litauen, Luxemburg, Madagaskar, Malawi, Mali, Malta, Marokko, Mauretanien, Mauritius, Mazedonien, Moldawien, Monaco, Mongolei, Montenegro, Mosambik, Namibia, Neukaledonien, Niederlande, Niger, Nigeria, Norwegen, Oman, Österreich, Pakistan, Polen, Portugal, Qatar, Republik Äquatorialguinea, Republik Guinea, Republik Kap Verde, Republik Ruanda, Republik Senegal, Réunion, Rumänien, Russische Föderation, Saint Helena, Sambia, San Marino, Saudi-Arabien, Schweden, Schweiz, Serbien, Seychellen, Sierra Leone, Simbabwe, Slowakei, Slowenien, Somalia, Spanien, Spitzbergen und Jan Mayen, Südafrika, Swasiland, Tadschikistan, Tansania, Togo, Tschad, Tschechische Republik, Tunesien, Türkei, Turkmenistan, Uganda, Ukraine, Ungarn, Usbekistan, Vatikanstadt, Vereinigte Arabische Emirate, Vereinigtes Königreich, Weißrussland, Yemen, Zaire, Zentralafrikanische Republik und Zypern:
 
-           Microsoft Ireland Operations Limited   
-           The Atrium, Block B, Carmenhall Road   
-           Sandyford Industrial Estate   
-           Dublin, 18, Ireland   
+           Microsoft Ireland Operations Limited
+           The Atrium, Block B, Carmenhall Road
+           Sandyford Industrial Estate
+           Dublin, 18, Ireland
 
-       3. Die Adresse von Microsoft für die folgenden Länder oder Regionen ist unten angegeben: Australien und seine externen Territorien, Bangladesch, Bhutan, Brunei Daressalam, Cook-Inseln, Fidschi, Französisch Polynesien, Französische Gebiete im südlichen Indischen Ozean, Hongkong, Indien, Indonesien, Kambodscha, Kiribati, Macao, Malaysia, Malediven, Marshall-Inseln, Mayotte, Mikronesien, Nauru, Nepal, Neuseeland, Niue, Nördliche Marianen, Palau, Papua-Neuguinea, Philippinen, Pitcairn, Samoa, Singapur, Solomon-Inseln, Sri Lanka, Thailand, Timor‑Leste, Tokelau, Tonga, Tuvalu, Vanuatu, Vietnam, Volksdemokratische Republik Laos und Wallis and Futuna-Inseln: 
+       3. Die Adresse von Microsoft für die folgenden Länder oder Regionen ist unten angegeben: Australien und seine externen Territorien, Bangladesch, Bhutan, Brunei Daressalam, Cook-Inseln, Fidschi, Französisch Polynesien, Französische Gebiete im südlichen Indischen Ozean, Hongkong, Indien, Indonesien, Kambodscha, Kiribati, Macao, Malaysia, Malediven, Marshall-Inseln, Mayotte, Mikronesien, Nauru, Nepal, Neuseeland, Niue, Nördliche Marianen, Palau, Papua-Neuguinea, Philippinen, Pitcairn, Samoa, Singapur, Solomon-Inseln, Sri Lanka, Thailand, Timor‑Leste, Tokelau, Tonga, Tuvalu, Vanuatu, Vietnam, Volksdemokratische Republik Laos und Wallis and Futuna-Inseln:
 
-           Microsoft Regional Sales Corporation   
-           438B Alexandra Road #04-09/12   
-           Block B, Alexandra Technopark   
-           Singapore 119968   
+           Microsoft Regional Sales Corporation
+           438B Alexandra Road #04-09/12
+           Block B, Alexandra Technopark
+           Singapore 119968
 
-       4. Die Adresse von Microsoft Japan ist:   
+       4. Die Adresse von Microsoft Japan ist:
 
-           Microsoft Japan Company, Limited   
-           Shinagawa Grand Central Tower   
-           2-16-3, 2 Konan, Minato-ku,   
-           Tokyo 108-0075   
+           Microsoft Japan Company, Limited
+           Shinagawa Grand Central Tower
+           2-16-3, 2 Konan, Minato-ku,
+           Tokyo 108-0075
            Japan
 
-       5. Die Adresse von Microsoft Taiwan ist:   
+       5. Die Adresse von Microsoft Taiwan ist:
 
-           Microsoft Taiwan Corporation   
-           8F, No 7, Sungren Rd.   
-           Shinyi Chiu, Taipei   
-           Taiwan 110  
+           Microsoft Taiwan Corporation
+           8F, No 7, Sungren Rd.
+           Shinyi Chiu, Taipei
+           Taiwan 110
 
-       6. Die Adresse von Microsoft in der Volksrepublik China ist:   
+       6. Die Adresse von Microsoft in der Volksrepublik China ist:
 
-           Microsoft (China) Company Limited6F Sigma Center   
-           No. 49 Zhichun Road Haidian District   
-           Beijing 100080, P.R.C   
+           Microsoft (China) Company Limited6F Sigma Center
+           No. 49 Zhichun Road Haidian District
+           Beijing 100080, P.R.C
 
-       7. Die Adresse von Microsoft in der Republik Korea ist:   
+       7. Die Adresse von Microsoft in der Republik Korea ist:
 
-           Microsoft Korea, Inc.   
-           5th Floor, West Wing   
-           POSCO Center   
-           892 Daechi-Dong Gangnam-Gu   
-           Seoul, 135-777, Korea 
+           Microsoft Korea, Inc.
+           5th Floor, West Wing
+           POSCO Center
+           892 Daechi-Dong Gangnam-Gu
+           Seoul, 135-777, Korea
 
     5. *Anwendbares Recht*: Anwendbares Recht, Gerichtsstand und Gerichtsbarkeit für diese Vereinbarung sind unten aufgeführt. Die Wahl des Gerichtsstands hindert die Parteien nicht daran, bei Verletzung der Rechte an geistigem Eigentum, der Verpflichtung zur Vertraulichkeit oder der Durchsetzung der Anerkennung eines Schadenersatzurteils oder einer gerichtlichen Anordnung einen Unterlassungsanspruch zu stellen. Der Unterlassungsanspruch oder die Durchsetzung der Anerkennung können an jedem entsprechenden Gerichtsstand ersucht werden.
         1. **Allgemeines**: Mit Ausnahme der Bestimmungen in Abschnitt 12.5(b) gelten die Gesetze des Staates Washington für diese Vereinbarung. Wenn eine Bundesgerichtsbarkeit besteht, stimmen die Parteien der ausschließlichen Gerichtsbarkeit und dem Gerichtsstand vor den Bundesgerichten in King County, Washington, zu. Wenn dies nicht der Fall ist, erklären sich die Parteien mit der ausschließlichen Gerichtsbarkeit und dem Gerichtsstand des Obersten Gerichtshofes in King County, Washington, einverstanden.
@@ -406,18 +414,18 @@ Diese Microsoft-Zertifizierungsprogramm-Vereinbarung (**"Vereinbarung"**) ist ei
 
             2. Befindet sich Ihr Hauptgeschäftssitz in Japan, gilt Folgendes: Die Vereinbarung wird nach den in Japan geltenden Gesetzen ausgelegt und geregelt. Sie erklären sich mit der ausschließlichen Gerichtsbarkeit und dem Gerichtsstand des Amtsgerichts in Tokio einverstanden. Die obsiegende Partei, bei allen Aktionen bezüglich dieser Vereinbarung, kann die Erstattung angemessener Anwaltsgebühren, Kosten und anderer Ausgaben fordern.
 
-            3. Wenn Ihr Hauptgeschäftssitz in Afghanistan, Albanien, Algerien, Andorra, Angola, Armenien, Österreich, Aserbaidschan, Bahrain, Weißrussland, Belgien, Benin, Bosnien und Herzegowina, Botswana, Bouvet Island, Bulgarien, Burkina Faso, Burundi, Kamerun, Zentralafrikanische Republik, Tschad, Komoren, Kongo, Elfenbeinküste, Kroatien, Zypern, Tschechien, Demokratische Republik Sao Tomé und Principe liegt, Dänemark, Dschibuti, Ägypten, Estland, Äthiopien, Färöer Inseln, Finnland, Frankreich, Gabun, Gambia, Georgien, Englischland, Ghana, Gibraltar, Griechenland, Grönland, Guadeloupe, Guinea-Bissau, Ungarn, Island, Irland, Israel, Italien, Jordanien, Kasachstan, Kenia, Kosovo, Kuwait, Kirgisistan, Lettland, Libanon, Lesotho, Liberia, Liechtenstein, Litauen, Luxemburg, Libyen, Mazedonien, Madagaskar, Malawi, Mali, Malta, Mauretanien, Mauritius, Moldawien, Monaco, Mongolei, Montenegro, Marokko, Mosambik, Namibia, Niederlande, Neukaledonien, Niger, Nigeria, Norwegen, Oman, Pakistan, Polen, Portugal, Katar, Republik Kap Verde, Republik Äquatorialguinea, Republik Guinea, Republik Senegal, Réunion, Rumänien, Russische Föderation, Ruanda, Saint Helena, San Marino, Saudi-Arabien, Serbien, Seychellen, Sierra Leone, Slowakei, Slowenien, Somalia, Südafrika, Spanien, Spitzbergen und Jan Mayen, Swasiland, Schweden, Schweiz, Tadschikistan, Tansania, Togo, Tunesien, Türkei, Turkmenistan, Uganda, Ukraine, Vereinigte Arabische Emirate, Großbritannien, Usbekistan, Vatikanstadtstaat, Jemen, Zaire, Sambia oder Simbabwe, gilt Folgendes:  
+            3. Wenn Ihr Hauptgeschäftssitz in Afghanistan, Albanien, Algerien, Andorra, Angola, Armenien, Österreich, Aserbaidschan, Bahrain, Weißrussland, Belgien, Benin, Bosnien und Herzegowina, Botswana, Bouvet Island, Bulgarien, Burkina Faso, Burundi, Kamerun, Zentralafrikanische Republik, Tschad, Komoren, Kongo, Elfenbeinküste, Kroatien, Zypern, Tschechien, Demokratische Republik Sao Tomé und Principe liegt, Dänemark, Dschibuti, Ägypten, Estland, Äthiopien, Färöer Inseln, Finnland, Frankreich, Gabun, Gambia, Georgien, Englischland, Ghana, Gibraltar, Griechenland, Grönland, Guadeloupe, Guinea-Bissau, Ungarn, Island, Irland, Israel, Italien, Jordanien, Kasachstan, Kenia, Kosovo, Kuwait, Kirgisistan, Lettland, Libanon, Lesotho, Liberia, Liechtenstein, Litauen, Luxemburg, Libyen, Mazedonien, Madagaskar, Malawi, Mali, Malta, Mauretanien, Mauritius, Moldawien, Monaco, Mongolei, Montenegro, Marokko, Mosambik, Namibia, Niederlande, Neukaledonien, Niger, Nigeria, Norwegen, Oman, Pakistan, Polen, Portugal, Katar, Republik Kap Verde, Republik Äquatorialguinea, Republik Guinea, Republik Senegal, Réunion, Rumänien, Russische Föderation, Ruanda, Saint Helena, San Marino, Saudi-Arabien, Serbien, Seychellen, Sierra Leone, Slowakei, Slowenien, Somalia, Südafrika, Spanien, Spitzbergen und Jan Mayen, Swasiland, Schweden, Schweiz, Tadschikistan, Tansania, Togo, Tunesien, Türkei, Turkmenistan, Uganda, Ukraine, Vereinigte Arabische Emirate, Großbritannien, Usbekistan, Vatikanstadtstaat, Jemen, Zaire, Sambia oder Simbabwe, gilt Folgendes:
             Diese Vereinbarung wird nach den Gesetzen in Irland ausgelegt. Sie erklären sich bei allen Streitigkeiten bezüglich dieser Vereinbarung mit der Gerichtsbarkeit und dem Gerichtsstand der irischen Gerichte einverstanden.
 
-            4. Befindet sich Ihr Hauptgeschäftssitz in der Volksrepublik China, gilt Folgendes. Im Sinne dieser Vereinbarung zählen Hongkong SAR, Macao SAR oder Taiwan nicht zur Volksrepublik China:  
+            4. Befindet sich Ihr Hauptgeschäftssitz in der Volksrepublik China, gilt Folgendes. Im Sinne dieser Vereinbarung zählen Hongkong SAR, Macao SAR oder Taiwan nicht zur Volksrepublik China:
             Die Vereinbarung wird nach den Gesetzen der Volksrepublik China ausgelegt und geregelt. Sie erklären sich damit einverstanden, jegliche Streitigkeiten bezüglich dieser Vereinbarung und aller Ergänzungen für eine verbindliche Entscheidung vorzutragen. Das Schiedsverfahren wird bei der China International Economic and Trade Arbitration Commission in Peking ("CIETAC") nach den aktuell geltenden Regeln durchgeführt.
 
-            5. Befindet sich Ihr Hauptgeschäftssitz in Kolumbien oder Uruguay, gilt Folgendes:  
+            5. Befindet sich Ihr Hauptgeschäftssitz in Kolumbien oder Uruguay, gilt Folgendes:
             Alle Streitigkeiten, Ansprüche oder Verfahren zwischen den Parteien in Bezug auf die Gültigkeit, Erstellung oder Leistung dieser Vereinbarung werden schiedsrichterlich entschieden. Der Schiedsspruch erfolgt gemäß der derzeit geltenden UNCITRAL-Schiedsgerichtsordnung. Die Berufungsbehörde ist die Internationale Handelskammer („ICC"), die gemäß den zu diesem Zwecke von der ICC übernommenen Regeln vorgeht. Der Schiedsgerichtsstand ist Seattle, Washington, U.S.A. Es gibt nur einen Schiedsrichter. Der Urteilsspruch erfolgt im Einklang mit dem Gesetz und nicht nach Ermessen; er ist für die Parteien endgültig und bindend. Die Beteiligten stimmen unwiderruflich zu, alle Angelegenheiten und Streitigkeiten im Zusammenhang mit dieser Vereinbarung an das Schiedsgericht in Seattle, Washington, U.S.A. zu übergeben.
 
             6. Befindet sich Ihr Hauptgeschäftssitz in der Republik Korea, gilt Folgendes: Die Vereinbarung wird nach den Gesetzen der Republik Korea ausgelegt und geregelt. Sie erklären sich mit der ausschließlichen Gerichtsbarkeit und dem Gerichtsstand des zentralen Amtsgerichts in Seoul einverstanden. Die obsiegende Partei bei der Durchsetzung eines Rechts oder Rechtsmittels unter dieser Vereinbarung oder bei der Auslegung einer Bestimmung dieser Vereinbarung ist berechtigt, die Erstattung angemessener Anwaltsgebühren, Kosten oder sonstiger Aufwendungen zu fordern.
 
-            7. Befindet sich Ihr Hauptgeschäftssitz in Taiwan, gilt Folgendes:  
+            7. Befindet sich Ihr Hauptgeschäftssitz in Taiwan, gilt Folgendes:
             Die Bestimmungen dieser Vereinbarung unterliegen den Gesetzen in Taiwan und werden danach ausgelegt. Die Beteiligten bestimmen das Bezirksgericht von Taipei als Gericht der ersten Instanz für die Gerichtsbarkeit bei allen Streitigkeiten, die sich aus dieser Vereinbarung oder im Zusammenhang damit ergeben.
     6. *Anwaltskosten*: Wenn eine Vertragspartei zur Wahrung von Rechten aus dieser oder im Zusammenhang mit dieser Vereinbarung Rechtsanwälte einsetzt, ist die obsiegende Partei berechtigt, die Erstattung angemessener Anwaltsgebühren, Kosten und sonstiger Aufwendungen, einschließlich der entstandenen Kosten und Gebühren für eine Berufung oder ein Konkursverfahren oder ähnliches Verfahren, zu fordern.
 
@@ -479,7 +487,7 @@ Schritt 1: Füllen Sie den [Antrag](https://query.prod.cms.rt.microsoft.com/cms/
 
 - Schritt 5: Kopieren und fügen Sie die folgenden Informationen auf der Website ein:
 
-  - Transkript-ID <nnnnnnn>  
+  - Transkript-ID <nnnnnnn>
   - Zugangscode <nnnnnnnn>
   - Transkript-Ansichtsseite: <URL>
 
@@ -493,27 +501,42 @@ Download: [Transcript Service Application](https://query.prod.cms.rt.microsoft.c
 
 ## <a name="policies-5"></a> Übermitteln eines Prüfungselements einer Microsoft Certification exam zur Überprüfung
 
-[Jede Prüfungsfrage wird sorgfältig geprüft](https://www.microsoft.com/learning/certification-exams.aspx) von einem Gremium aus technischen und berufsbezogenen Experten, die jede Frage: auf technische Genauigkeit, Klarheit und Relevanz prüfen. Wenn Sie der Meinung sind, dass eine bestimmte Frage, die Sie in einer Microsoft Certification exam gesehen haben, ungültig ist, können Sie eine Bewertung der Frage: mithilfe der unten beschriebenen Schritte anfordern. Sie müssen innerhalb von 30 Tagen nach Ablegen der Prüfung ein Formular zur Prüfung der Prüfungsaufgabe einreichen.
+Mit Microsoft-Zertifizierungsprüfungen soll sichergestellt werden, dass Kandidaten, die Prüfungen bestehen und unsere Zertifizierungen erhalten, die erforderlichen Kompetenzniveaus in allen Kompetenzbereichen nachgewiesen haben. Jede Frage zur Microsoft-Zertifizierungsprüfung wird von einem Gremium aus Fach- und Funktionsexperten sorgfältig auf technische Genauigkeit, Klarheit und Relevanz geprüft. Wenn Sie der Meinung sind, dass eine Frage zu einer Microsoft-Zertifizierungsprüfung ungenau ist, können Sie über den Prozess zur Anfechtung von Prüfungsteilen eine Bewertung der Frage anfordern, damit problematische Fragen identifiziert und korrigiert werden können. Selbst wenn eine Frage in irgendeiner Weise fehlerhaft ist, können wir nicht davon ausgehen, dass Sie sie richtig beantwortet hätten, wenn dies nicht der Fall gewesen wäre. Daher werden die meisten Prüfungen nicht erneut bewertet. In solchen Fällen geben wir Kandidaten die Möglichkeit, die Prüfung kostenfrei wiederholen.
 
-**Hinweis:** Bitte verwenden Sie nicht den Prüfungsanforderungsprozess, um Feedback zu Beta-Prüfungsfragen zu geben. Beta-Prüfungsfragen werden oft auf Grundlage des während dieses Prozesses erhaltenen Feedbacks modifiziert und können aus dem Fragenpool entfernt werden. Wenn Sie zusätzliches Feedback zu einer Beta-Prüfung haben, das Sie während des Kommentierungszeitraums nicht geben konnten, senden Sie Ihr Feedback bitte an folgende Adresse [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
+### Kriterien für die Annahme einer Anfechtung von Teilen der Prüfung:
 
-### Schritte für das Übermitteln von Prüfungselementen zur Überprüfung
+- Die Prüfung muss innerhalb der letzten 30 Kalendertage (nicht Werktage) abgelegt worden sein.
+- Anfragen für die Rezension von Punkten.
+- Fechten Sie einen bestimmten Punkt der Prüfung an.
 
-1. Veröffentlichen Sie Ihre Prüfungsaufgabe im [Microsoft Certification Support Forum](https://aka.ms/MCPForum).
-2. Innerhalb von 1-2 Werktagen wird der Forenmitarbeiter ein **Prüfungsanforderungsformular** zur Verfügung stellen, das Sie ausfüllen können. Das Formular enthält spezifische Informationen, wie Sie Ihre Anforderung abgeben können.
-   - Prüfungsanfragen werden nur akzeptiert, wenn Sie das ausgefüllte Prüfungsanforderungsformular spätestens 30 Tage nach Ablegung der Prüfung beim Forenmitarbeiter einreichen.
-   - Prüfungsanfragen werden nicht akzeptiert für Prüfungen, die innerhalb von 6 Monaten ablaufen.
-3. Innerhalb von 4-6 Wochen wird der Forenmitarbeiter die Ergebnisse Ihrer Prüfungsaufgabe mitteilen.
+### Prüfungsgegenstände Herausforderungen werden für die folgenden Kriterien nicht akzeptiert:
 
-Der Anforderungsprozess besteht darin, problematische Fragen zu identifizieren und zu korrigieren. In den meisten Fällen werden die Prüfungen jedoch nicht neu bewertet, da Microsoft sicherstellen muss, dass Kandidaten, die Prüfungen bestehen und die Zertifizierungen erhalten, die erforderlichen Leistungsniveaus in der/den gesamten Qualifikationsdomäne(n) nachgewiesen haben. Auch wenn eine Frage in gewisser Weise falsch ist, können wir nicht davon ausgehen, dass Sie die Frage richtig beantwortet hätten, wäre sie nicht fehlerhaft gewesen. In solchen Fällen geben wir Kandidaten die Möglichkeit, die Prüfung kostenfrei wiederholen.
+- Anfechtung der gesamten Prüfung.
+- Anfechtung basierend auf Lernmaterialien (Praxistests, Studienführer, Schulungsmaterialien usw.)
+- Anfechten der Angemessenheit einer Frage.
+- Die Einreichung erfolgt mehr als 30 Kalendertage (keine Werktage) nach Beendigung der Prüfung.
+- Anfechtung aufgrund technischer Probleme in einem Testzentrum.
+- Anfechtungen, die nicht über dieses Formular eingereicht werden.
+- Anfechten der Bewertungsmethoden (z. B. Das Balkendiagramm repräsentiert nicht meine tatsächliche Punktzahl.)
+- Anfechten des Prüfungsformats (Standard, Sortieren, Adaptiv).
+- Anfechtungen bei Beta-Prüfungen. Wenn Sie zusätzliches Feedback zu einer Beta-Prüfung haben, das Sie während des Kommentierungszeitraums nicht geben konnten, senden Sie Ihr Feedback bitte an folgende Adresse [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
 
-Wir schätzen und vertrauen auf Ihr Feedback, damit Microsoft Certification exams so gültig und relevant wie möglich sind.
+### Prozess zur Anfechtung einer Prüfung:
+
+1. Überprüfen Sie unsere Kriterien für das Akzeptieren und Nicht-Akzeptieren einer Anfechtung der Prüfung.
+2. Füllen Sie das [Formular zur Anfechtung einer Prüfung](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VJW) aus und senden Sie es ab .
+3. Das Microsoft-Zertifizierungsteam überprüft Ihre Einreichung auf Vollständigkeit.
+   a.    Wenn Sie unvollständig sind, werden Sie aufgefordert, weitere Informationen anzugeben.
+   b.    Wenn der Vorgang abgeschlossen ist, wird das Microsoft-Zertifizierungsteam das überprüfen. Eine Überprüfung dauert ungefähr zwei Wochen.
+4. Sobald die Überprüfung abgeschlossen ist, werden Sie über das Ergebnis informiert.
+
+Vielen Dank für Ihr Interesse, Microsoft-Zertifizierungsprüfungen so korrekt und relevant wie möglich zu gestalten.
 
 ## <a name="special-accommodations-when-taking-exams"></a> Spezielle Einrichtung bei Prüfungen
 
 ### Bei Prüfungen, die über Pearson VUE durchgeführt werden:
 
-Wenn Sie zusätzliche Zeit benötigen, weil die Prüfung nicht in Ihrer Muttersprache verfügbar ist, können Sie dies mit dem Formular [Englisch as a Second Language beantragen](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx). Befolgen Sie die Anweisungen auf dem Formular. 
+Wenn Sie zusätzliche Zeit benötigen, weil die Prüfung nicht in Ihrer Muttersprache verfügbar ist, können Sie dies mit dem Formular [Englisch as a Second Language beantragen](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx). Befolgen Sie die Anweisungen auf dem Formular.
 
 Wenn Sie während einer Prüfung spezielle Materialien oder eine andere Unterkunft benötigen, können Sie eine Unterkunft über [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) mit dem "Reasonable Adjustments Request System" anfordern [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Das Reasonable Adjustments Request System ist ein sicheres Online-System zur Beantragung von Unterkünften und zur Einreichung von Belegen.
 
@@ -521,7 +544,7 @@ Wenn Sie während einer Prüfung spezielle Materialien oder eine andere Unterkun
 - Pearson VUE verwendet dieses sichere System, da Sie zusätzliche Unterlagen hochladen müssen. Wenn Sie dies nicht bereits getan haben, geben Sie Ihrem Gutachter (Arzt, Psychologen) eine Kopie der [Leitlinien für Gutachter](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) für Ihre Behinderung. Ihr Gutachter sollte sicherstellen, dass die von ihm zur Verfügung gestellte Dokumentation unseren Richtlinien entspricht. In den meisten Fällen wird Ihr Gutachter ein Psychologe oder Arzt sein, der eine Reihe von psychologischen, pädagogischen oder medizinischen Tests durchgeführt hat und Ihnen eine Kopie eines Diagnoseberichts oder ein detailliertes Schreiben zur Verfügung gestellt hat.
 - **Bitte gewähren Sie Pearson VUE 10 Werktage Zeit, um Ihre Materialien zu überprüfen. Bitte planen Sie Ihren Antrag entsprechend.**
 - Nachdem Ihre Anfrage geprüft wurde, erhalten Sie eine E-Mail des Inhalts, dass eine Entscheidung getroffen wurde. Das Genehmigungsschreiben wird im Abschnitt „Meine Dokumente" im Reasonable Adjustments Request System angezeigt. Falls genehmigt, enthält das Genehmigungsschreiben Anweisungen zum Design Ihrer angepassten Prüfung.
-- Wenn Sie mit der Entscheidung über die Prüfungsanpassungen nicht zufrieden sind, können Sie gegen die Entscheidung Einspruch einlegen, indem Sie auf die Schaltfläche „Einspruch einlegen" im gleichen Abschnitt klicken, in dem das Genehmigungsschreiben im „Reasonable Adjustments Request System" erscheint. Bitte füllen Sie das Einspruchsformular aus und laden Sie es hoch, wenn Sie auf die Schaltfläche klicken. Behindertenexperten prüfen alle Rechtsmittelanträge.
+-  Wenn Sie mit der Entscheidung über die Prüfungsanpassungen nicht zufrieden sind, können Sie gegen die Entscheidung Einspruch einlegen, indem Sie auf die Schaltfläche „Einspruch einlegen" im gleichen Abschnitt klicken, in dem das Genehmigungsschreiben im „Reasonable Adjustments Request System" erscheint. Bitte füllen Sie das Einspruchsformular aus und laden Sie es hoch, wenn Sie auf die Schaltfläche klicken. Behindertenexperten prüfen alle Rechtsmittelanträge.
 
 ### Bei Prüfungen, die über Certiport durchgeführt werden:
 
@@ -589,10 +612,10 @@ Der beste Weg, sich auf eine Prüfung vorzubereiten, besteht darin, die auf der 
 Microsoft Certified Trainer arbeiten mit vielen Kandidaten bei der Vorbereitung auf Zertifizierungen zusammen. Sie empfehlen den Kandidaten die folgenden Schritte für ihr Studium:
 
 - [Durchsuchen Sie alle Prüfungen](https://www.microsoft.com/learning/exam-list.aspx) um die Prüfung zu finden, die Sie interessiert.
-- Drucken Sie den Abschnitt „Gemessene Kompetenzen" auf der Seite aus. 
-- Überprüfen Sie die gesamte Liste. Denken Sie über jedes Thema nach. Wenn Sie sehr gut über ein bestimmtes Thema Bescheid wissen, markieren Sie es oder streichen es durch. 
+- Drucken Sie den Abschnitt „Gemessene Kompetenzen" auf der Seite aus.
+- Überprüfen Sie die gesamte Liste. Denken Sie über jedes Thema nach. Wenn Sie sehr gut über ein bestimmtes Thema Bescheid wissen, markieren Sie es oder streichen es durch.
 - Sehen Sie sich an, was übrig ist. Beginnen Sie nun mit der zielgerichteten Recherche. Für jedes Thema, das Sie nicht hervorgehoben haben, suchen Sie im Web nach entsprechenden Publikationen.
-    - Benutzen Sie dazu maßgebliche Quellen wie docs.microsoft.com, msdn.microsoft.com, technet.microsoft.com, und das Office 365 Support Center
+  - Benutzen Sie dazu maßgebliche Quellen wie docs.microsoft.com, msdn.microsoft.com, technet.microsoft.com, und das Office 365 Support Center
 
 Sie können auch andere Teilnehmer fragen, wie Sie diese Aufgaben bewältigen. Lesen Sie White Papers, MSDN-Artikel, und TechNet Infos, um zusätzliche Informationen zu den Prüfungsaufgaben zu erhalten. Nutzen Sie auch Ressourcen wie die Vorbereitungsmaterialien im entsprechenden Abschnitt der Seite mit den Prüfungsdetails. Sie bieten unter anderem Links zu verfügbaren Onlinekursen, Mikrolern-Einheiten und zu einem Portal, auf dem Sie Präsenzkurse in Ihrer Region finden.
 
@@ -721,7 +744,7 @@ Nein. Die gleiche Prüfung kann nicht wahlweise verwendet werden, um die Anforde
 
 Sie erhalten innerhalb weniger Minuten nach Abschluss der Prüfung eine Benachrichtigung, ob Sie die Prüfung bestanden haben oder nicht. Darüber hinaus erhalten Sie einen gedruckten Bericht mit Ihrer Prüfungsbewertung und Feedback zu Ihrer Leistung in den bewerteten Kompetenzsbereichen. Der Prüfungsanbieter leitet Ihre Bewertung innerhalb von fünf Werktagen an Microsoft weiter.
 
-**Ergebnisse der Beta-Prüfung:*** Ergebnisse von Beta-Prüfungen sollten auf Ihrem Microsoft transkript angezeigt werden, wenn 
+**Ergebnisse der Beta-Prüfung:** Ergebnisse von Beta-Prüfungen sollten auf Ihrem Microsoft transkript angezeigt werden, wenn
 Sie diese erfolgreich beendet haben, und auf der Seite des Anbieters der Prüfung dann innerhalb von zwei Wochen, sobald die Live-Prüfung veröffentlicht wurde.
 
 Wenn Sie die Beta-Prüfung bestehen, werden Ihnen diese Prüfung und eine daraus resultierende Zertifizierung angerechnet. Sollten Sie die Betaversion der Prüfung abgeschlossen haben, brauchen Sie nicht erneut an der Live-Version teilzunehmen.
@@ -982,7 +1005,7 @@ Die Labore sind so entworfen, dass Sie innerhalb der angegebenen Zeit abgeschlos
 
 **Wie bestimmen Sie, welche Aufgaben in die Labore aufgenommen werden sollen?**
 
-Wie alle Fragen beziehen sich auch die Aufgaben im Labor auf das Hauptthema. Wir wählen Aufgaben, die am besten für eine Bewertung im Labor geeignet sind und keine langen Ausführungszeiten oder viele Ressourcen benötigen und die in der gegebenen Zeit abgeschlossen werden können, so dass dieTeilnehmer den Test beenden können.
+Wie alle Fragen beziehen sich auch die Aufgaben im Labor auf das Hauptthema. Wir wählen Aufgaben, die am besten für eine Bewertung im Labor geeignet sind und keine langen Ausführungszeiten oder viele Ressourcen benötigen und die in der gegebenen Zeit abgeschlossen werden können, so dass die Teilnehmer den Test beenden können.
 
 **Warum musste ich warten, bevor ich mein Labor starten konnte?**
 

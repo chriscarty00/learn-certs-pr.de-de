@@ -1,5 +1,5 @@
 ### YamlMime:Course
-title: Kernlösungen von Skype for Business 2015
+title: Kernlösungen von Skype for Business 2015/ 2019
 metadata:
   title: 'Kurs 20334-C: Kernlösungen von Skype for Business 2015/2019'
   description: 'Kurs 20334-C: Kernlösungen von Skype for Business 2015/2019'
@@ -40,15 +40,15 @@ summary: |-
   #### Zielgruppenprofil
   Die Hauptzielgruppe für diesen Kurs bilden IT-Experten die für die Skype for Business Einführung in ihren Unternehmen zuständig sind. Erfahrung mit Vorgängerversionen sind von Vorteil aber keine Voraussetzung für die Teilnahme am Kurs. Teilnehmer sollten Erfahrung mit Active Directory Domain Services, Datennetzwerken sowie Telekommunikationsstandards und -komponenten für die Konfiguration von Skype for Business vorweisen können. Teilnehmer sollten außerdem mit Microsoft Exchange Servern und Microsoft 365 vertraut sein.
   
-  Zur sekundären Zielgruppe des Kurses gehören IT-Experten die vorhaben Prüfung 70- 334&#58; Kernlösungen von Skype for Business 2015 als eigenständige Prüfung oder als Teil der Anforderungen für die Microsoft Certified Solutions Expert (MCSE)&#58; Kommunikationszertifizierungsprüfung, abzulegen.
+  Zur sekundären Zielgruppe des Kurses gehören IT-Experten die vorhaben Prüfung 70-334&#58; Kernlösungen von Skype for Business 2015 als eigenständige Prüfung oder als Teil der Anforderungen für die Microsoft Certified Solutions Expert (MCSE)&#58; Kommunikationszertifizierungsprüfung, abzulegen.
 prerequisitesSection: |-
   Zusätzlich zu ihrer Berufserfahrung sollten Kandidaten, die den Kurs besuchen, bereits über die folgenden technischen Kenntnisse verfügen&#58;
-  - Mindestens zwei Jahre Erfahrunf mit der Administration von Windows Servern, inklusive Windows Server 2016 oder Windows Server 2019.
-  - Mindestens zwei Jahre Arbeitserfahrung mit AD DS.
-  - Mindestens zwei Jahre Arbeitserfahrung mit Name Resolution, dazu gehört Domain Name System (DNS).
-  - Erfahrung in der Arbeit mit Zertifikaten, dazu gehören Public-Key-Infrastructure (PKI) Zertifikate.
-  - Erfahrung in der Arbeit mir Windows PowerShell.
-  - Verständnis von Datennetzwerken und Telekommunikationsstandarts und - Komponentens.
+  - Mindestens zwei Jahre Erfahrunf mit der Administration von Windows Servern, inklusive Windows Server 2016 oder Windows Server 2019
+  - Mindestens zwei Jahre Arbeitserfahrung mit AD DS
+  - Mindestens zwei Jahre Arbeitserfahrung mit Name Resolution, dazu gehört Domain Name System (DNS)
+  - Erfahrung in der Arbeit mit Zertifikaten, dazu gehören Public-Key-Infrastructure (PKI) Zertifikate
+  - Erfahrung in der Arbeit mir Windows PowerShell
+  - Verständnis von Datennetzwerken und Telekommunikationsstandarts und - Komponenten
 outlineSection: |-
   ### Modul 1&#58; Erstellung und Aufbau der Skype for Business Server 2015
   Dieses Modul beschreibt die hochwertigen Komponenten und Features von Skype for Business 2015. Es beschreibt außerdem wie man mit Skype for Business Verwaltungstools, den Hauptkomponenten von Skype for Business Online und der Koexistenz mit lokalen Skype for Business Server 2015 - Servern arbeitet.
@@ -84,10 +84,10 @@ outlineSection: |-
   - Installation von Skype for Business Certificates 
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Die externen Abhängigkeiten von Skype for Business Server 2015 identifiziern.
-  - Identifizierung der SIP Domani Requirements für eine erfolgreiche Implementation.
+  - Die externen Abhängigkeiten von Skype for Business Server 2015 identifiziern
+  - Identifizierung der SIP Domani Requirements für eine erfolgreiche Implementation
   - Skype for Business Server installieren.
-  - Beschreiben, wie Skype for Business Server sich in Exchange Server und SharePoint Server integrieren.
+  - Beschreiben, wie Skype for Business Server sich in Exchange Server und SharePoint Server integrieren
 
 
   ### Modul 3&#58; Administering Skype for Business Server 2015
@@ -228,13 +228,13 @@ outlineSection: |-
   - Skype for Business Server Archivierung im Microsoft Exchange Server 2013 erlauben
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Monitoring Servicekomponenten im Skype for Business Server beschreiben.
+  - Monitoring Servicekomponenten im Skype for Business Server beschreiben
 
-  - Monitoring anwenden.
+  - Monitoring anwenden
 
-  - Archivierungsrichtlinien entwerfen.
+  - Archivierungsrichtlinien entwerfen
 
-  - Archivierung anwenden.
+  - Archivierung anwenden
 
 
   ### Modul 8&#58; Skype for Business 2015 Externer Zugriff
@@ -258,17 +258,17 @@ outlineSection: |-
   - Externe Kommunikation validieren
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Komponenten für Externen Zugriff identifizieren.
+  - Komponenten für Externen Zugriff identifizieren
 
-  - Externe Zugriffsrichtlinien und Sicherheit konfigurieren.
+  - Externe Zugriffsrichtlinien und Sicherheit konfigurieren
 
-  - Externe Zugriffsnetzwerke und Zertifikate konfigurieren.
+  - Externe Zugriffsnetzwerke und Zertifikate konfigurieren
 
-  - Reverse-Proxy konfigurieren.
+  - Reverse-Proxy konfigurieren
 
-  - Skype for Business Server 2015 für mobile Clients konfigurieren.
+  - Skype for Business Server 2015 für mobile Clients konfigurieren
 
-  - Föderation im Skype for Business entwerfen und konfigurieren.
+  - Föderation im Skype for Business entwerfen und konfigurieren
 
 
   ### Modul 9&#58; Beständige Chats in Skype for Business 2015 implementieren
@@ -317,10 +317,10 @@ outlineSection: |-
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
   - Lösungen mit hoher Verfügbarkeit für Front End Server in einem
-  Skype for Business Server Environment entwerfen und implementieren.
+  Skype for Business Server Environment entwerfen und implementieren
 
   - Lösungen mit hoher Verfügbarkeit in einem Back End Server in einem
-  Skype for Business Server Environment entwerfen und implementieren.
+  Skype for Business Server Environment entwerfen und implementieren
 
   - Lösungen mit hoher Verfügbarkeit für Datenspeicher, Edge-Server
   Mediation Server, Office Online Server Farmen und Reverse-Proxy Servern

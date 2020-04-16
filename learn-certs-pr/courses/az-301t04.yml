@@ -9,11 +9,11 @@ hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Verschiedene Muster aus dem Cloud Design Patterns beschreiben
-- skill: Netzwerkverkehr über verschiedene Loads mit dem Load Balancer verteilen.
-- skill: Hybride Konnektivitäts-Szenarios zwischen Cloud und On-Premis entwerfen.
-- skill: Verfügbarkeitssets für eine oder mehrere virtuelle Maschinen entwerfen.
-- skill: Unterschiede zwischen Fehler und Update Domänen beschreiben.
-- skill: VM Scale-Set ARM Vorlage verfassen.
+- skill: Netzwerkverkehr über verschiedene Loads mit dem Load Balancer verteilen
+- skill: Hybride Konnektivitäts-Szenarios zwischen Cloud und On-Premis entwerfen
+- skill: Verfügbarkeitssets für eine oder mehrere virtuelle Maschinen entwerfen
+- skill: Unterschiede zwischen Fehler und Update Domänen beschreiben
+- skill: VM Scale-Set ARM Vorlage verfassen
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -55,9 +55,9 @@ outlineSection: |-
   Dieses Modul stellt übliche Azure Muster und Architekturen wie sie vom Microsoft Patterns & Practices team vorgegeben sind vor und wiederholt diese. Jedes Muster ist nach Leistung, Beständigkeit und Skalierbarkeit in Kategorien eingeteilt und im Kontext von ähnlcihen Mustern in der selben Kategorie beschrieben
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Cloud Design Patterns Dokumentation lokalisieren und angeben.
-  - Azure Architecture Center lokalisieren und als Referenz angeben.
-  - verschiedene Muster aus dem Cloud Design Patterns beschreiben.
+  - Cloud Design Patterns Dokumentation lokalisieren und angeben
+  - Azure Architecture Center lokalisieren und als Referenz angeben
+  - verschiedene Muster aus dem Cloud Design Patterns beschreiben
 
 
   ### Modul 2&#58; Building Azure IaaS-Based Server Applications (ADSK)
@@ -65,21 +65,21 @@ outlineSection: |-
 
   #### Labor&#58; Azure IaaS-Based Server Anwendungen erstellen
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Ein Verfügbarkeitssets für eine oder mehrere Virtuelle Maschinen entwerfen.
-  - Die Unterschiede zwischen Fehler und Update Domänen beschreiben.
-  - eine VM Sclae Set Azure Resource Manager (ARM)-Vorlage verfassen.
-  - Eine Virtuelle Maschine zu einer Domäne hinzufügen, entwefer in Azur eoder einem Hybriden Netzwerk.
+  - Verfügbarkeitssets für eine oder mehrere virtuelle Maschinen entwerfen
+  - Unterschiede zwischen Fehler und Update Domänen beschreiben
+  - eine VM Sclae Set Azure Resource Manager (ARM)-Vorlage verfassen
+  - Eine Virtuelle Maschine zu einer Domäne hinzufügen, entwefer in Azur eoder einem Hybriden Netzwerk
 
 
   ### Modul 3&#58; Networking Azure Application Components
-  Dieses Modul beschreibt die verschiedenen Netzwerk und Verbindungs Optionenen die für Azure Lösungen verfügbar sind Das Modul geht auf Verbindungsoptionen von Ad-hoc Verbindungen bis zu langzeit Habridverbidungens-Szenarien ein. Das Modul diskutiert einiger der Leistungs und Sicherheitsaspekte die mit dem Ausgleich von Workloads über mehrerer Betriebsinstanzen, der Verbindung von On-premise Infrastruktur zur Cloud und der Erstellung von Gateways für Daten vor Ort zusammenhängen.
+  Dieses Modul beschreibt die verschiedenen Netzwerk und Verbindungs Optionenen die für Azure Lösungen verfügbar sind Das Modul geht auf Verbindungsoptionen von Ad-hoc Verbindungen bis zu langzeit Habridverbidungens-Szenarien ein. Das Modul diskutiert einiger der Leistungs-  und Sicherheitsaspekte die mit dem Ausgleich von Workloads über mehrerer Betriebsinstanzen, der Verbindung von On-premise Infrastruktur zur Cloud und der Erstellung von Gateways für Daten vor Ort zusammenhängen.
 
   #### Labor&#58; Netwerk Infrastruktur für die Nutzung in Azure Lösungen
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - DNS und IP Strategien für VNETs in Azure beschrieben.
-  - Verbindungsoptionen für ad-hoc oder Hybrider Verbindung vergleichen.
-  - Netzwerkverkehr auf mehrerer Loads mit dem Load Balancer verteilen.
-  - Ein Habridverbindungs-Szenario zwischen Cloud un On-Premis entwerfen.
+  - DNS und IP Strategien für VNETs in Azure beschrieben
+  - Verbindungsoptionen für ad-hoc oder Hybrider Verbindung vergleichen
+  - Netzwerkverkehr über verschiedene Loads mit dem Load Balancer verteilen
+  - Hybride Konnektivitäts-Szenarios zwischen Cloud und On-Premis entwerfen
 
 
   ### Modul 4&#58; Azure Lösungskomponenten mit Messaging Services integrieren
@@ -87,6 +87,6 @@ outlineSection: |-
 
   #### Labor&#58; Integrating Azure Solution Components using Messaging Services
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Storage Queues mit Service Bus Queues vergleichen.
-  - Erkennen, wann Azure-functions oder Logic Apps für die Integration von Komponenten in einer Lösung zu verwenden ist.
-  - Die Unterschiede zwischen IoT Hubs, Event Hubs und Time Series Insight beschrieben.
+  - Storage Queues mit Service Bus Queues vergleichen
+  - Erkennen, wann Azure-functions oder Logic Apps für die Integration von Komponenten in einer Lösung zu verwenden ist
+  - Die Unterschiede zwischen IoT Hubs, Event Hubs und Time Series Insight beschrieben

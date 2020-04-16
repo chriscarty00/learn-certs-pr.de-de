@@ -48,13 +48,13 @@ summary: |-
   Dieser Kurs lehrt IT-Experten wie sie ihre Azure Resourcen verwalten. Dazu gehört die Bereitstellung und Konfiguration von virtuellen Maschinen, virtuellen Netzwerken, Speicheraccounts und Azure AD, das die Implementierung und Verwaltung hybrider Identitäten miteinschließt. Teilnehmer lernen außerdem wie Cloud Resourcen in Azure durch Nutzer und Gruppen Accounts verwaltet werden und wie Zugriff auf Azure AD für Nutzern, Gruppe und Dienste über rollenbasierte Zugriffskontrolle (RBAC) garantiert wird.
 
   Teilnehmer lernen die verschiedenen Speicheraccounts und -dienste kennen genauso wie fundamentale Datenreplikationskonzepte und verfügbare Replikationsschemata. Die Teilnehmer werden außerdem in Storage Explorer eingewiesen als einfachen Weg um mit Azure-storage Daten zu arbeiten. Die Teilnehmer lernen die Speichertypen kennen und lernen wie man mit managed und custom disks arbeitet.
-  
+
   Azure Blob Storage ist die Speicherung von Azure von unstrukturierten Daten in der Cloud und die Teilnehmer werden mit Blobs und Blob Containern arbeiten. Zusätzlich zu Blob Storage geht der Kurs auch auf Table und Queue Storage als Speicheroptionen für strukturierte Daten ein.
-  
+
   Die Teilnehmer lernen wie in Azure über das Azure Portal, PowerShell und ARM Vorlagen virtuelle Maschinen erstellt und verwendet werden Der Kurs enthält Instruktionen über die bereitstellung von Custom Images und Linux virtuellen Maschinen. Die Teilnehmer sehen wie Die Netzwerk und Speicher Komponenten von virtuellen Maschinen konfiguriert werden. Hochvervügbarkeitsbereitstellung von virtuellen Maschine ist essentiell für geplante und ungeplante events und die Teilnehmer lernen wie diese Verfügbarkeitssets genutzt werden, um sicherzugehen, dass virtuelle Maschinen Resourcen auch zu Niedrigzeiten verfügbar sind.
-  
+
   Die Teilnehmer lernen außerdem Monitoring Tools und die Möglichkeiten von Azure kennen, dazu gehört Azure Alerts und Activity Log. Zusätzlich zu Alerts und Logs werden Log Analytics als effektive Datenanalyse Lösung für das Verstehen von Systemstatus und -gesundheit vorgestellt. Das ´interessanteste für die Teilnehmer ist wahrscheinlich den Umgang mit Azure Resource Manager (ARM) deployment model zu erlenen um mit Resourcen, Resource Gruppen und ARM Templates zu arbeiten.
-  
+
   Da der Kurs der erste in einer Reihe von Azure Solutions Architect Prüfungen ist, gibt es eine größere Menge an Einführungsinhalt, der die Teilnehmer auf die restlichen Kurse vorbereiten soll. Die Teilnehmer bekommen eine Lektion die tips und Tricks für die Arbeit mit Azure Portal bietet so wie eine Einführung in Haupttools die in der Azure Umgebung verwendet werden, z.B. Cloud Shell und Resource Explorer. Auf PowerShell und die command line Interface (CLI) wird besonders Wert gelegt da dies wichtige Skills sind, nicht nur in Vorbereitung auf die Prüfung sondern auch für die Arbeit an sich.
 
   #### Zielgruppenprofil
@@ -69,7 +69,7 @@ outlineSection: |-
 
   ### Modul 2&#58; Implementieren und Verwalten von Speicherplatz
   In diesem Modul lernen Sie Azure Storage Accounts, Datenreplikation und die Nutzung von Azure Storage Explorer und Monitor Storage kennen.
-  
+
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
   - Speicherplatz implementieren und verwalten
 
@@ -81,7 +81,7 @@ outlineSection: |-
   - Virtuelle Maschinen (Vms) durch ARM Templates erstellen
   - Linux Virtuelle Maschinen (Vm)s bereitstellen
   - Virtuelle Maschinen überwachen
-  
+
   Außerdem lernen Sie wie Sie Daten durch regelmäßige Backups schützen, entweder durch snapshot, Azure Backup oder Azur Site-Wiederherstellung.
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;

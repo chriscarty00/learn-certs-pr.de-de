@@ -1,5 +1,5 @@
 ### YamlMime:Course
-title: Entwickeln von Azure Infrastructure als Service- Rechenlösungen
+title: Entwickeln von Azure Infrastruktur als Service- Rechenlösung
 metadata:
   title: 'Kurs AZ-203T01-A: Entwickeln von Azure Infrastruktur als Service- Rechenlösung'
   description: 'Kurs AZ-203T01-A: Entwickeln von Azure Infrastruktur als Service- Rechenlösung'
@@ -31,10 +31,10 @@ summary: |-
   In diesem Kurs lernen die Teilnehmer die Fähigkeiten und das Wissen, das benötigt ist um Azure IaaS Dienste und Funktionen in ihren Bereitstellungslösungen zu implementieren. Der Kurs deckt die bereitstellung von virtuellen Maschinen mit Batch Service um Resourcen einzurichten/zu erhalten und wie man containerlösungen durch Azure-Kubernetes-Service erstellt.
 
   #### Zielgruppenprofil
-  - Teilnehmer des Kurses sind an der Azure Entwicklung oder dem Bestehen der Microsoft Azure Entwickler-Mitarbeiter Zertifizierungsprüfungen interessiert.
+  Teilnehmer des Kurses sind an der Azure Entwicklung oder dem Bestehen der Microsoft Azure Entwickler-Mitarbeiter Zertifizierungsprüfungen interessiert.
 prerequisitesSection: |-
   - Teilnehmer sollten 1-2 Jahre Erfahrung als Entwickler haben Der Kurs geht davon aus, dass die Teilnehmer das Kodieren beherrschen und ein fundamentales Wissen über Azure besitzen.
-  - Es wird empfohlen, dass die Teilnehmer auch Erfahrung mit PowerSehll oder Azure CLI haben, mit der Arbeit in dem Azure Portal und mit mindestens einer Azure gestützten Programmiersprache. Die meisten Prüfungen in diesem Kurs sie in C# NET vorgestellt.
+  - Es wird empfohlen, dass die Teilnehmer auch Erfahrung mit PowerSehll oder Azure CLI haben, mit der Arbeit in dem Azure Portal und mit mindestens einer Azure gestützten Programmiersprache. Die meisten Prüfungen in diesem Kurs sie in C# NET vorgestellt
 outlineSection: |-
   ### Modul 1&#58; Implementieren von Lösungen, die virtuelle Maschinen verwenden
   Teilnehmer lernen die genaue VM Planung. Die VM Erstellung durch Nutzung vom Azure Portal, PowerShell und durch Kodierung wird abgedeckt. Außerdem wie die Erstellung und Nutzung einer Azure Resource Manager (ARM)-Vorlage für wiederholbare Anwendungen abgedeckt, und wie Azure Disk Encyption genutzt werden kann um Informationen auf VM zu sichern.
@@ -44,9 +44,9 @@ outlineSection: |-
   - Azure Disk Encryption für VMs konfigurieren
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - lernen, wie man virtuelle Maschinen durch das Azure Portal, PowerShell und Kodierung erstellt.
-  - Lernen, wie ARM durch Nutzung des Azure Portals und Visual Studio erstellt werden kann.
-  - die verschiedenen Verschlüsselungsoptionen verstehen und lernen, wie existierrende und neue Anwendugnen verschlüsselt werden.
+  - lernen, wie man virtuelle Maschinen durch das Azure Portal, PowerShell und Kodierung erstellt 
+  - Lernen, wie ARM durch Nutzung des Azure Portals und Visual Studio erstellt werden kann
+  - die verschiedenen Verschlüsselungsoptionen verstehen und lernen, wie existierrende und neue Anwendugnen verschlüsselt werden
 
 
   ### Modul 2&#58; Implementierung von Stapelverarbeitungsaufträgen mit Hilfe von Azure Batch Services
@@ -61,7 +61,7 @@ outlineSection: |-
   - verstehen, wie Azure Batch Service funktioniert
   - Lernen, wie Stapelverarbeitungsaufträge mithilfe von Azure CLI erstellt und durchgeführt werden
   - Lernen, wie Stapelverarbeitungsaufträge mithilfe von Code erstellt und durchgeführt werden
-  - Lernen, wie mithilfe von Azure Batch Service API Aufträge verwaltet werden
+  - Lernen, wie  mithilfe von Azure Batch Service API Aufträge verwaltet werden
 
 
   ### Modul 3&#58; Create containerized solutions

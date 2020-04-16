@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementierung einer Azure-Datenlösung
+title: Implementing an Azure Data Solution
 metadata:
-  title: 'Kurs DP-200T01-A: Implementierung einer Azure-Datenlösung'
-  description: 'Kurs DP-200T01-A: Implementierung einer Azure-Datenlösung'
+  title: 'Kurs DP-200T01-A: Implementing an Azure Data Solution'
+  description: 'Kurs DP-200T01-A: Implementing an Azure Data Solution'
 uid: course.dp-200t01
 courseNumber: 'DP-200T01-A'
 hoursToComplete: 72
@@ -30,7 +30,7 @@ exams:
 - uid: exam.dp-200
 summary: |-
   In diesem Kurs implementieren die Teilnehmer verschiedene Datenplattformtechnologien in Lösungen , die den geschäftlichen und technischen Anforderungen entsprechen, einschließlich On-Premises-, Cloud- und hybride Datenszenarien, die sowohl relationale als auch NoSQL-Daten beinhalten. Sie lernen außerdem, wie Daten mit einer Reihe von Technolofien und Sprachen für Streaming und Batch daten verarbeitet werden.
-  
+
   Die Teilnehmer erkunden die Implementation von Datensicherheit, dazu gehört die Autentifizierung, Autorisation, Datenrichtlinien und Standards. Außerdem definieren und implementieren sie Datenlösungen die Datenspeicher und Datenverarbeitung überwachen. Zum Schluss erledigen Sie die Verwaltung und Fehlerbehebung von Azure-Datenlösungen inklusive der Optimierung und Disaster Recovery von großen Daten, Batchverarbeitung und Streaming Datenlösungen.
 
   #### Zielgruppenprofil
@@ -40,7 +40,7 @@ prerequisitesSection: |-
   - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
 outlineSection: |-
   ### Modul 1&#58; Azure für den Data Engineer
-  In diesem Modul wird die Entwicklungen in der Welt der Daten untersucht und wie die Technologien der Cloud-Datenplattformen den Unternehmen neue Möglichkeiten bieten, ihre Daten auf unterschiedliche Weise zu erkunden Die Teilnehmer erhalten einen Überblick über die verschiedenen verfügbaren Datenplattformtechnologien und wie sich die Rolle und die Verantwortlichkeiten eines Datentechnikers entwickelt haben, um in dieser neuen Welt zum Nutzen einer Organisation zu arbeiten.
+  In diesem Modul wird  die Entwicklungen in der Welt der Daten untersucht und wie die Technologien der Cloud-Datenplattformen den Unternehmen neue Möglichkeiten bieten, ihre Daten auf unterschiedliche Weise zu erkunden Die Teilnehmer erhalten einen Überblick über die verschiedenen verfügbaren Datenplattformtechnologien und wie sich die Rolle und die Verantwortlichkeiten eines Datentechnikers entwickelt haben, um in dieser neuen Welt zum Nutzen einer Organisation zu arbeiten.
   #### Lektionen
   - fortschreitende Datenwelt erklären
   - Services in der Azure Datenplattform untersuchen
@@ -106,7 +106,7 @@ outlineSection: |-
 
 
   ### Modul 4&#58; Building Globally Distributed Databases with Cosmos DB
-  In diesem Modul lernen die Teilnehmer, mit NoSQl Daten mithilfe von Azure Cosmos DB zu arbeiten Sie lernen, wie der Service bereitgestellt wird, wie sie Daten in den Service via Visual Studio Code Erweiterungen laden lännen und den Azure Cosmos DB NET Core SDK. Außerdem lernen sie wie Verfügbarkeitsoptionen konfiguriert werden, so dass Nutzer weltweit auf die Daten zugreifen könen.
+  In diesem Modul lernen die Teilnehmer, mit  NoSQl Daten mithilfe von Azure Cosmos DB zu arbeiten Sie lernen, wie der Service bereitgestellt wird, wie sie Daten in den Service via Visual Studio Code Erweiterungen laden lännen und den Azure Cosmos DB NET Core SDK. Außerdem lernen sie wie Verfügbarkeitsoptionen konfiguriert werden, so dass Nutzer weltweit auf die Daten zugreifen könen.
   #### Lektionen
   - Azure Cosmos DB Datenbank built to scale erstellen
   - Daten in die Azure Cosmos DB Datenbank einfügen
@@ -114,7 +114,7 @@ outlineSection: |-
   - Daten weltweit mit Azure Cosmos DB verteilen
 
 
-  #### Labor &#58; Building Globally Distributed Databases with Cosmos DB
+  #### Labor&#58; Building Globally Distributed Databases with Cosmos DB
   - Azure Cosmos DB erstellen
   - Daten in Azure Cosmos DB einfügen
   - NET Core App für Azure Cosmos DB mit VS Code erstellen
@@ -145,7 +145,7 @@ outlineSection: |-
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
   - Azure SQL-Datenbank verwenden
   - Azure Data Warehouse Beschreiben
-  - Ein Azure SQL Data Warehouse entwerfen
+  - Ein Azure SQL Data Warehouse entwerfen 
   - PolyBase Nutzen um Daten nach Azure SQL Data Warehouse zu laden
 
 
@@ -171,7 +171,7 @@ outlineSection: |-
   ### Modul 7&#58; Orchestrating Data Movement with Azure Data Factory
   In diesem Modul lernen die Teilnehmer, wie Azure Data Factory verwendet werden kann um Datenbewegungen und Transformationen aus einer reihe von Data Platform Technologien gelenkt werden können. Sie werden die Möglichkeiten der Technologie erklären können und eine End-to-End Datenpipeline aufbauen können, die Daten aufnimmt und transformiert.
   #### Lektionen
-  - Erläutern Sie die Funktionsweise von Azure Data Factory
+  - erklären, wie Data Factory funktioniert
   - Azure Data Factory Komponenten
   - Azure Data Factory und Databricks
 

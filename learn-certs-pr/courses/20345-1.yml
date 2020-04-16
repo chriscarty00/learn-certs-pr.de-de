@@ -8,18 +8,18 @@ courseNumber: '20345-1-B'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Exchange Server einrichten.
-- skill: Speicher für Exchange Server planen und konfigurieren.
-- skill: Mehrere Empfängerobjekte im Exchange Server erstellen und verwalten.
-- skill: Empfängerverwaltung und Exchange Server verwaltungsaufgaben durch Exchange Server cmdlets ausführen.
-- skill: Client Zugangsdienste im Exchange Server anwenden.
-- skill: Hochverfügbarkeit im Exchange Server verwalten.
-- skill: Disaster Recovery für Exchange Server implementieren.
-- skill: Nachrichtentransport im Exchange Server konfigurieren und verwalten.
-- skill: Nachrichtensicherheit im Exchange Server konfigurieren.
-- skill: Fehlerbehebnung im Exchange Server aufzeichnen.
-- skill: Rollenbasierte Zugangsberechtigungen im Exchange Server konfigurieren und audit logging für Administratoren und Nutzer konfigurieren.
-- skill: Integration mit Exchange Online implementieren und verwalten.
+- skill: Exchange Server Bereitstellen
+- skill: Speicher für Exchange Server planen und konfigurieren
+- skill: Mehrere Empfängerobjekte im Exchange Server erstellen und verwalten
+- skill: Empfängerverwaltung und Exchange Server verwaltungsaufgaben durch Exchange Server cmdlets ausführen
+- skill: Client Zugangsdienste im Exchange Server anwenden
+- skill: Hochverfügbarkeit im Exchange Server verwalten
+- skill: Disaster Recovery für Exchange Server implementieren
+- skill: Nachrichtentransport im Exchange Server konfigurieren und verwalten
+- skill: Nachrichtensicherheit im Exchange Server konfigurieren
+- skill: Fehlerbehebnung im Exchange Server aufzeichnen
+- skill: Rollenbasierte Zugangsberechtigungen im Exchange Server konfigurieren und audit logging für Administratoren und Nutzer konfigurieren
+- skill: Integration mit Exchange Online implementieren und verwalten
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -39,8 +39,8 @@ summary: |-
 prerequisitesSection: |-
   Zusätzlich zu ihrer Berufserfahrung sollten Kandidaten, die den Kurs besuchen, bereits über die folgenden technischen Kenntnisse verfügen&#58;
   - mindestens zwei Jahre Erfahrung in der Administration von Windows Server
-  - Mindestens zwei Jahre Erfahrung mit der Arbeit mit Active Directory Domain Services (AD DS).
-  - Mindestens zwei Jahre Erfahrung mit der Arbeit mit Name Resolution, inklusive Domain Name System (DNS).
+  - Mindestens zwei Jahre Arbeitserfahrung mit Active Directory Domain Services (AD DS).
+  - Mindestens zwei Jahre Arbeitserfahrung mit Name Resolution, dazu gehört Domain Name System (DNS)
   Verständnis von TCP/IP und Netzwerkkonzepten
   - Verständnis von Sicherheitskonzepten wie Autentifizierung und Autorisation
   - Verständnis von Simple Mail Transfer Protocol (SMTP)
@@ -63,11 +63,11 @@ outlineSection: |-
   - Exchange Server 2019&#58; auf Windows Server Core 2019 (optional) Installieren
 
   Nach Abschluss dieses Moduls können die Teilnehmers&#58;
-  - Schlüsselfunktionen und Funktionalität von Exchange Server beschreiben.
-  - Exchange Server Architektur beschreiben.
-  - Anforderungen und Optionen für die Bereitstellung von Exchange Server beschreiben.
-  - Exchange Server Bereitstellen.
-  - Nutzung von Verwaltungstools zur Verwaltung von Exchange Server beschreiben.
+  - Schlüsselfunktionen und Funktionalität von Exchange Server beschreiben
+  - Exchange Server Architektur beschreiben
+  - Anforderungen und Optionen für die Bereitstellung von Exchange Server beschreiben
+  - Exchange Server Bereitstellen
+  - Nutzung von Verwaltungstools zur Verwaltung von Exchange Server beschreiben
 
 
   ### Modul 2&#58; Exchange Server 2016 Speicher verwalten
@@ -82,9 +82,9 @@ outlineSection: |-
   - Mailboxdatenbanken konfigurieren und erstellen
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Funktionen von Exchange Server Mailbox Datenbanken beschreiben.
-  - Speicheroptionen für Exchange Server erklären.
-  - Exchange Server Mailboxdatenbanken und Speicher konfigurieren.
+  - Funktionen von Exchange Server Mailbox Datenbanken beschreiben
+  - Speicheroptionen für Exchange Server erklären
+  - Exchange Server Mailboxdatenbanken und Speicher konfigurieren
 
 
   ### Modul 3&#58; Empfängerobjekte verwalten
@@ -106,9 +106,9 @@ outlineSection: |-
   - Adresslisten und Adressbuchrichtlinien verwalten
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Nutzerpostfächer im Exchange Server verwalten.
+  - Nutzerpostfächer im Exchange Server verwalten
   - Freigegebene, Ressourcen-, öffentliche Ordner und Vermittlungspostfächer im Exchange Server verwalten.
-  - Kontakte, Emailnutzer und Verteilergruppen im Exchange Server verwalten.
+  - Kontakte, Emailnutzer und Verteilergruppen im Exchange Server verwalten
   - Adresslisten, Emailadressen und Adressbuchrichtlinien im Exchange Server konfigurieren.
 
 
@@ -125,9 +125,9 @@ outlineSection: |-
   - Exchange Management Shell nutzen, um Exchange Server zu verwalten
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Empfänger durch Exchange Server cmdlets verwalten.
-  - Exchange Server durch Exchange Server cmdlets verwalten.
-  - Exchange Server duch Skripts verwalten.
+  - Empfänger durch Exchange Server cmdlets verwalten
+  - Exchange Server durch Exchange Server cmdlets verwalten
+  - Exchange Server duch Skripts verwalten
 
 
   ### Modul 5&#58; Clientzugriff
@@ -152,11 +152,11 @@ outlineSection: |-
   - Microsoft Exchange ActiveSync konfigurieren
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Client Zugriffsdienste im Exchange Server konfigurieren.
-  - Client Zugriffsdienste verwalten.
-  - Client Konnektivität und veröffentlichungen in Exchange Server Diensten beschreiben.
-  - Outlook Web konfigurieren.
-  - Mobiles Messagning im Exchange Server konfigurieren.
+  - Client Zugriffsdienste im Exchange Server konfigurieren
+  - Client Zugriffsdienste verwalten
+  - Client Konnektivität und veröffentlichungen in Exchange Server Diensten beschreiben
+  - Outlook Web konfigurieren
+  - Mobiles Messagning im Exchange Server konfigurieren
 
 
   ### Modul 6&#58; Hochverfügbarkeit in Exchange Server verwalten
@@ -176,9 +176,9 @@ outlineSection: |-
   - Hochverfügbarkeits Konfigurationen testen
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Hochverfügbarkeit im Exchange Server beschreiben.
-  - Hochverfügbarkeit Mailboxdatenbanken konfigurieren.
-  - Hochverfügbarkeit Client Zugriffsdienste konfigurieren.
+  - Hochverfügbarkeit im Exchange Server beschreiben
+  - Hochverfügbarkeit Mailboxdatenbanken konfigurieren
+  - Hochverfügbarkeit Client Zugriffsdienste konfigurieren
 
 
   ### Modul 7&#58; Disaster recovery für Exchange Server implementieren
@@ -197,8 +197,8 @@ outlineSection: |-
   - Datenbank Verfügbarkeitsgruppen (DAG) teilnehmer (optional) wiederherstellen
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Exchange Server Daten sichern.
-  - Exchange Server Daten durch konfigurierte Sicherungen wiederherstellen.
+  - Exchange Server Daten sichern
+  - Exchange Server Daten durch konfigurierte Sicherungen wiederherstellen
 
 
   ### Modul 8&#58; Nachrichtentransport konfigurieren und verwalten
@@ -216,9 +216,9 @@ outlineSection: |-
   - SLP richtlinien für Finanzdatem konfigurieren
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Den Nachrichtentransport in Exchange Server beschreiben.
-  - Nachrichtentransport in Exchange Server konfigurieren.
-  - Transportregeln in Exchange Server verwalten.
+  - Den Nachrichtentransport in Exchange Server beschreiben
+  - Nachrichtentransport in Exchange Server konfigurieren
+  - Transportregeln in Exchange Server verwalten
 
 
   ### Modul 9&#58; Nachrichtensicherheit konfigurieren
@@ -234,9 +234,9 @@ outlineSection: |-
   - Antivirus, Antispam und Malware Schutzfunktionen konfigurieren
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Edge Transport Server für Nachrichtensicherheit bereitstellen und verwalten.
-  - Antiviren Lösungen für Exchange Server implementieren.
-  - Antispam Lösungen für Exchange Server implementieren.
+  - Edge Transport Server für Nachrichtensicherheit bereitstellen und verwalten
+  - Antiviren Lösungen für Exchange Server implementieren
+  - Antispam Lösungen für Exchange Server implementieren
 
 
   ### Modul 10&#58; Fehlerbehebung und Überwachung in Exchange Server
@@ -252,8 +252,8 @@ outlineSection: |-
   - Fehlerbehebung bei Client Zugriffsdiensten
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Leistungsüberwachung in Exchange Server konfigurieren.
-  - Fehlerbehebung im Exchange Server durchführen.
+  - Leistungsüberwachung in Exchange Server konfigurieren
+  - Fehlerbehebung im Exchange Server durchführen
 
 
   ### Modul 11&#58; Exchange Server sichern und erhalten
@@ -270,9 +270,9 @@ outlineSection: |-
   - Exchange Server erhalten
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Exchange Server durch RBAC sichern.
-  - Audit- Protokolle in Exchange Server konfigurieren.
-  - Exchange Server erhalten und updaten.
+  - Exchange Server durch RBAC sichern
+  - Audit- Protokolle in Exchange Server konfigurieren
+  - Exchange Server erhalten und updaten
 
 
   ### Modul 12&#58; Exchange Online Bereitstellung implementieren und verwalten
@@ -288,6 +288,6 @@ outlineSection: |-
   - Exchange Online verwalten
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Überblick über Exchange Online und Office 365 geben.
-  - Exchange Online verwalten.
-  - Migration zu Exchange Online implementieren.
+  - Überblick über Exchange Online und Office 365 geben
+  - Exchange Online verwalten
+  - Migration zu Exchange Online implementieren

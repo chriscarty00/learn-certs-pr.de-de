@@ -1,19 +1,21 @@
-### YamlMime:Certification
+﻿### YamlMime:Certification
 title: 'Microsoft Certified: Azure Data Scientist Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Scientist Associate'
-  description: Azure Data Scientists wenden die maschinellen Lerntechniken von Azure an, um Modelle zur Lösung von Geschäftsproblemen zu entwickeln, zu bewerten und einzusetzen.
+  description: 'Azure Data Scientists wenden ihre Kenntnisse in Datenwissenschaften und maschinellem Lernen an, um Workloads für maschinelles Lernen in Azure zu implementieren und auszuführen, insbesondere mit Hilfe des Azure Machine Learning Service.'
 uid: certification.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Azure Data Scientists wenden die maschinellen Lerntechniken von Azure an, um Modelle zur Lösung von Geschäftsproblemen zu entwickeln, zu bewerten und einzusetzen.
-subTitle: Azure Data Scientists wenden die maschinellen Lerntechniken von Azure an, um Modelle zur Lösung von Geschäftsproblemen zu entwickeln, zu bewerten und einzusetzen.
+summary: |-
+  Azure Data Scientists wenden ihre Kenntnisse in Datenwissenschaften und maschinellem Lernen an, um Workloads für maschinelles Lernen in Azure zu implementieren und auszuführen, insbesondere mit Hilfe des Azure Machine Learning Service.
+subTitle: Azure Data Scientists wenden ihre Kenntnisse in Datenwissenschaften und maschinellem Lernen an, um Workloads für maschinelles Lernen in Azure zu implementieren und auszuführen, insbesondere mit Hilfe des Azure Machine Learning Service.
 levels:
 - intermediate
 skills:
-- Einrichtung einer Entwicklungsumgebung
-- Daten für Modellierung vorbereiten
-- Feature Engineering-Nutzung
-- Modelle entwickeln
+- 'HINWEIS: Die Aufzählungszeichen, die unter den im folgenden Dokument gemessenen Fähigkeiten angezeigt werden, sollen veranschaulichen, wie wir diese Fähigkeiten bewerten. Diese Liste ist nicht endgültig oder vollständig.'
+- Einrichten eines Azure-Arbeitsbereichs für maschinelles Lernen 
+- Experimente durchführen und Modelle trainieren 
+- Modelle optimieren und verwalten 
+- Modelle bereitstellen und verwenden
 roles:
 - data-scientist
 type: role-based
@@ -23,30 +25,22 @@ products:
 courses:
 - uid: course.dp-100t01
 paths:
-- uid: learn.data-ai.explore-data-science-tools-in-azure
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
-- uid: learn.data-ai.get-started-with-azure-dsvm
-- uid: learn.modern-data-warehouse
-- uid: learn.data-science
-- uid: learn.data-ai.intro-to-ml-with-python
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHg
 exams:
 - uid: exam.dp-100
 resources:
-- title: Lernpfad zur Zertifizirung
-  description: 'Entdecken Sie die Schulungsressourcen, um Microsoft Certified: Azure Data Scientist Associate zu werden.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Prüfungswiederholung
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: deals.md
 - title: Unterstützung von Zertifizierungen
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: help.md
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.

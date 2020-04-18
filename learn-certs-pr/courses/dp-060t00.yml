@@ -1,0 +1,95 @@
+﻿### YamlMime:Course
+title: Migrate NoSQL workloads to Azure Cosmos DB
+metadata:
+  title: 'Course DP-060T00-A: Migrate NoSQL workloads to Azure Cosmos DB'
+  description: 'Course DP-060T00-A: Migrate NoSQL workloads to Azure Cosmos DB'
+uid: course.dp-060t00
+courseNumber: 'DP-060T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Aufbau global verteilter Anwendungen mit Cosmos DB
+- skill: MongoDBWorkloads auf Cosmos DB migrieren
+- skill: CassandraDBWorkloads auf Cosmos DB migrieren
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  In diesem Kurs lernen die Teilnehmer, was Cosmos DB ist und wie Sie die MongoDB und CassandraWorkloads auf Cosmos DB migrieren können.
+
+  #### Zielgruppenprofil
+  Die Hauptzielgruppe für diesen Kurs sind Datenbankentwickler, die planen, ihre MongoDB oder CassandraDBWorkloads mit Cosmos DB nach Azure zu migrieren.
+prerequisitesSection: |-
+  Zusätzlich zu ihrer Berufserfahrung sollten Kandidaten, die den Kurs besuchen, bereits über die folgenden technischen Kenntnisse verfügen&#58;
+  Die grundlegenden Konzepte der Partitionierung, Replikation und Ressourcenverwaltung für die Erstellung und Konfiguration skalierbarer NoSQL-Anwendungen, die sich nicht an eine Cosmos DBAPI anlehnen.
+outlineSection: |-
+  ### Modul 1&#58; Aufbau global verteilter Anwendungen mit Cosmos DB
+  Dieses Modul beschreibt die Vorteile und Architektur von Cosmos DB.
+  #### Lektionen
+  - Cosmos DB Übersicht
+  - Cosmos DB APIs
+  - Durchsatz bei der Bereitstellung
+  - Partitionierung/Weitergabe bewährter Praktiken
+
+  Am Ende dieses Moduls sind die Kursteilnehmer in der Lage zu beschreiben&#58;
+  - Cosmos DB Übersicht
+  - Cosmos DB APIs
+  - Durchsatz bei der Bereitstellung
+  - Partitionierung/Weitergabe bewährter Praktiken
+
+
+  ### Modul 2&#58; Das Migrieren von MongoDB Workloads auf Cosmos DB
+  MongoDBWorkloads auf Cosmos DB migrieren
+  #### Lektionen
+  Verständnis der Vorteile der Migration verstehen
+  Planung der Migration
+  - Datenmigration
+  ­- Anwendungsmigration
+  - Überlegungen zur Migration
+
+
+  ##### Labor &#58; Migrieren von MongoDB Workloads auf Cosmos DB
+  Erstellen Sie ein Migrationsprojekt
+  Quelle und Ziel definieren
+  - Migration durchführen
+  - Migration verifizieren
+
+  Am Ende dieses Moduls können die Teilnehmer&#58;
+  Verständnis der Vorteile der Migration verstehen
+  Migrationsplanung durchführen
+  - Durchführen der Datenmigration
+  - Anwendungsmigration durchführen
+  - Überlegungen zur PostMigration unternehmen
+
+
+  ### Modul 3&#58; Migration von CassandraDB Workloads auf Cosmos DB
+  Dieses Modul beschreibt die Vorteile und den Prozess der Migration von CassandraDB Workloads auf Cosmos DB.
+  #### Lektionen
+  Verständnis der Vorteile der Migration verstehen
+  Planung der Migration
+  - Datenmigration
+  ­- Anwendungsmigration
+  - Überlegungen zur Migration
+
+
+  ##### Labor&#58; Migrieren von CassandraDB Workloads auf Cosmos DB
+  - Exportieren des Schemas
+  - Daten mit CQLSH COPY verschieben
+  - Daten mit Spark verschieben
+  - Migration verifizieren
+
+  Am Ende dieses Moduls können die Teilnehmer&#58;
+  - Verständnis der Vorteile der Migration verstehen
+  - Migrationsplanung durchführen
+  - Durchführen der Datenmigration
+  - Anwendungsmigration durchführen
+  - Überlegungen zur PostMigration unternehmen
+
+  #### Additional Reading
+  Für die Teilnahme an diesem Kurs ist keine zusätzliche Lektüre erforderlich.

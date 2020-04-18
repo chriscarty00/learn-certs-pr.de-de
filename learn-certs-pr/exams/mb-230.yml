@@ -1,43 +1,43 @@
 ### YamlMime:Examination
 title: Microsoft Dynamics 365 Customer Service
 metadata:
-  title: 'Prüfung MB-230: Microsoft Dynamics 365 Customer Service'
-  description: 'Prüfung MB-230: Microsoft Dynamics 365 Customer Service'
+  title: 'Exam MB-230: Microsoft Dynamics 365 Customer Service'
+  description: 'Exam MB-230: Microsoft Dynamics 365 Customer Service'
 uid: exam.mb-230
 displayName: MB-230
-summary: >-
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>Der Inhalt dieser Prüfung wird im April 2020 aktualisiert. Bitte laden Sie das unten stehende Dokument zur Kompetenzmessung herunter, um mehr zu erfahren.<br/><br/></div>
+  
   Kandidaten für diese Prüfung sind Dynamics 365 Funktionsberater mit Kundendienstkompetenz. Die Kandidaten sind für die Umsetzung von Omnichannel-Lösungen verantwortlich, die sich auf Service, Qualität, Zuverlässigkeit, Effizienz und Kundenzufriedenheit konzentrieren.
-
   <br/>
 
-
   Die Kandidaten entwerfen und realisieren Visualisierungen und Berichte für das Servicemanagement, die von und in Zusammenarbeit mit dem Solution Architect erstellt werden. Die Kandidaten arbeiten mit dem Dynamics 365-Administrator zusammen, um Power-Plattform-Komponenten zu implementieren und zu aktualisieren, einschließlich Wissensdatenbank und Forms Pro.
-
-
+  
   Die Kandidaten müssen über fundiertes angewandtes Wissen verfügen, das den Benutzerbedürfnissen über den Dynamics 365 Customer Service entspricht, einschließlich eines detaillierten Verständnisses von Fällen, Wissensdatenbank, Warteschlangen, Berechtigungen, Service Level Agreements (SLAs), Visualisierungen und Unified Service Desk.
-
-
+  
   Die Kandidaten sollten die Terminologie der Branche, Prioritäten, Standards, Methoden, Kundendienstabläufe und bewährte Verfahren verstehen. Die Kandidaten sollten ein umfassendes Verständnis der Rolle der Kundendienstanwendung in Bezug auf die Anwendungssuite Dynamics 365 sowie ein grundlegendes Verständnis der Lösungsarchitektur und Qualitätssicherung mitbringen.
 subTitle: 'Diese Prüfung misst Ihre Kompetenz, folgende technische Aufgaben zu erfüllen: Konfiguration durchführen; Fälle und Wissensbasis verwalten; Warteschlangen, Berechtigungen und SLAs verwalten; und die Stimme des Kunden konfigurieren.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MB-230&examname=Exam%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-230
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MB-230&examname=Prüfung%20MB-230:%20Microsoft%20Dynamics%20365%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-230
 levels:
 - intermediate
 skills:
+- Der Inhalt dieser Prüfung wird im April 2020 aktualisiert. Bitte laden Sie das unten stehende Dokument zur Kompetenzmessung herunter, um mehr zu erfahren.
+- 'HINWEIS: Die Aufzählungszeichen, die unter den im folgenden Dokument gemessenen Fähigkeiten angezeigt werden, sollen veranschaulichen, wie wir diese Fähigkeiten bewerten. Diese Liste ist nicht endgültig oder vollständig.'
 - Konfiguration durchführen (25-30%)
 - Verwalten von Anfragen und Wissensdatenbank (30-35%)
 - Verwalten von Warteschlangen, Berechtigungen und SLAs (25-30%)
 - Sprache des Kunden einstellen (15-20%)
 roles:
 - functional-consultant
-exams:
-- uid: exam.mb-200
-products:
+products: 
 - dynamics
 - dynamics-customer-service
+exams:
+- uid: exam.mb-200
 courses:
 - uid: course.mb-230t01
 paths:
@@ -49,24 +49,27 @@ relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-customer-service
 resources:
-- title: Lernpfad zur Zertifizirung
-  description: 'Entdecken Sie die Schulungsressourcen, um ein Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate zu werden.'
+- title: Lernpfad zur Zertifizierung
+  description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Prüfungswiederholung
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
   description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md

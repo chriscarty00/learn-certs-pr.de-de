@@ -1,0 +1,352 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing
+metadata:
+  title: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
+  description: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
+uid: course.mb-320t00
+courseNumber: 'MB-320T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Beherrschen Sie die Fertigung in Dynamics 365
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-320
+summary: |-
+  In diesem Kurs wird die Fertigung in der Dynamics 365-App-Suite erläutert: diskrete Fertigung, schlanke Fertigung und Produktion
+
+  #### Zielgruppenprofil
+  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von Bedürfnissen, sowie Lösungen und Anwendungen zu konfigurieren. Der Modulbetreuer implementiert eine Lösung mit gebrauchsfertigen Funktionen, codefreier Erweiterungsmöglichkeit, sowie Anwendungs- und Service-Integrationen.
+prerequisitesSection: |-
+  - Grundlegende Fertigungsfähigkeiten
+  - Dynamics 365-Kernkompetenzen
+outlineSection: |-
+  ### Modul 1&#58; Erste Schritte mit der Produktionssteuerung
+  In diesem Modul werden die im Modul Produktionssteuerung inFinance and Operations verwendeten Konzepte erläutert.
+
+  #### Lektionen
+  - Einführung
+  - Vergleichen separater, schlanker und prozessbasierter Fertigung
+  - Konfigurieren der Produktionssteuerung für eine einheitliche Fertigung
+  - Kapazitätsplanung verstehen
+  - Hauptbuch- und Produktionskontrollmodul
+  - Übungslabore
+  - Summary
+
+  Separate, schlanke und prozessuale Fertigungsmethoden
+  - Einheitliche Fertigung
+  - wie Konfigurieren der Produktionssteuerung für eine einheitliche Fertigung
+  - Kapazitätsplanung
+  - Interkonnektivität zwischen dem Hauptbuch und den Produktionssteuerungsmodulen
+  - Produktionspools
+
+
+  ### Modul 2&#58; Mit separater Fertigung beginnen
+  Auch wenn die Herstellungsprozesse jeder juristischen Person je nach Art der Produktionsumgebung einzigartig sind, sind die wesentlichen konzeptionellen Elemente, die im Modul Produktionssteuerung verwendet werden, häufig sehr ähnlich.
+  #### Lektionen
+  - Einführung
+  - Den separaten Status des Produktionsprozesses verstehen
+  - Verstehen der Stückliste
+  - Arbeiten mit Stücklisten- und Artikelkonfigurationen
+  - Stückliste erstellen
+  - Fertigungsaufträge
+  - Übungslabore
+  - Modulübersicht
+
+  Separate Fertigungskonzepte
+  - Produktionsprozessstatuten
+  - Produktionsstufen
+  - Stückliste (BOM)
+  - Resources
+  - Routen und Abläufe
+
+
+  ### Modul 3&#58; Separate Fertigung konfigurieren
+  Bevor Sie im Produktionssteuerungsmodul arbeiten und Fertigungsaufträge erstellen können, müssen Sie Produktionsparameter einrichten. Die ausgewählten Parameter haben direkten Einfluss auf den Produktionsauftrag und den Produktionslebenszyklus. Die Parameter können nach Unternehmen oder Standort festgelegt werden. Dies bestimmt, ob Dynamics 365 für Finance and Operations die Parameter auf Unternehmensebene oder die standortspezifischen Parameter verwendet.
+
+  Bei Parametern, Produktionsaufträgen und Lebenszyklus wird überprüft, wie diese Parameter definiert sind, wie Journalnamen verwendet, werden, Produktionsaufträge erstellt werden und wie sie im Rahmen der Fertigung verarbeitet werden, basierend auf ihrem Status und dem Produktionslebenszyklus. In dieser Lektion wird erläutert, wie die diskrete Fertigung in Finance and Operations konfiguriert wird.
+
+  #### Lektionen
+  - Einführung
+  - Hauptbuch für die Produktion vorbereiten
+  - Konfigurieren der Produktionssteuerungsparameter
+  - Kalender und Ressourcen konfigurieren
+  - Vorgänge und Routen konfiguriert
+  - Übungslabor
+  - Modulübersicht
+
+  Bestandsdimensionen in der Produktion konfiguriert
+  - Parameter, Fertigungsaufträge und Status konfiguriert
+  - Kalender und Ressourcen Konfiguriert
+  - Vorgänge und Routen konfiguriert
+
+
+  ### Modul 4&#58; Fertigungsaufträge anlegen und abschließen
+  Der Lebenszyklus eines Fertigungsauftrags spiegelt die tatsächlichen Schritte zur Herstellung eines Produkts wider. Es beginnt mit der Erstellung eines Fertigungsauftrags und endet mit einem fertig produzierten Produkt das für den Kunden bereit liegt. Dem Fertigungsauftrag wird ein Status zugewiesen, der dessen Position im Produktionslebenszyklus widerspiegelt.
+
+  In diesem Modul werden die Phasen Freigabe, Start, als abgeschlossen angeben und Endstationen im Produktionslebenszyklus in der Reihenfolge überprüft, in der sie ausgeführt werden. Freigabe, Start und als abgeschlossen angeben gelten als Teil der Produktionskontrolle
+  #### Lektionen
+  - Einführung
+  - Kapazitätsplanung, Terminierung und Vergabe von Unteraufträgen
+  - Schrott und Abfall
+  - Übungslabore
+  - Modulübersicht
+
+  Kapazitätsplanung verstehen
+  - Separate Fertigungsaufträge erstellen
+  - Planen eines Fertigungsauftrags
+  - Fertigungsaufträge bearbeiten
+  - Kontrolle und Beendigung der Produktion ‎
+
+
+  ### Modul 5&#58; Arbeiten Sie mit Kalkulationsschema
+  In diesem Modul wird beschrieben, wie Sie ein Kalkulationsschema einrichten, das Material und Fertigung enthält, und wie sich die Einrichtung auf die Ergebnisse der Stücklistenberechnung auswirkt.
+
+  Lasst uns Die Teilnehmer lernen, wie sie das Kalkulationsschema in Finance and Operations konfigurieren und verwalten.
+  #### Lektionen
+  - Einführung
+  - Verstehen Sie das Kalkulationsschema
+  - Stücklistenberechnung und Kostenrechnung
+  - Modulübersicht
+
+  Arbeiten mit dem Kalkulationsschema
+
+  ### Modul 6&#58; Fertigungsausführung verwenden
+  Fertigungsausführung ist in erster Linie für produzierende Unternehmen gedacht. Mitarbeiter können Zeit und Artikelverbrauch für Produktionsjobs und Projektaktivitäten mit Hilfe des Registrierungsformulars für Jobs registrieren.
+
+  Alle Registrierungen werden genehmigt und anschließend an die entsprechenden Dynamics 365 for Finance and Operations-Module übertragen. Durch die kontinuierliche Genehmigung und Übertragung von Registrierungen können Manager die tatsächlichen Kosten von Produktionsaufträgen problemlos nachverfolgen.
+  #### Lektionen
+  - Einführung
+  - Verstehen der Fertigungsabläufe
+  - Rollen identifizieren
+  - Planungsüberlegungen
+  - Konfigurieren der Fertigungsabläufe
+  - Produktionskontrolle
+  - Übungslabore
+  - Modulübersicht
+
+  Verstehen von Fertigungsabläufen
+  - Rollen in der Fertigungsausführung identifizieren
+  - Fertigungsaufträge bearbeiten
+  - Verstehen der Prozessabläufe zum Verwalten einer Produktion
+
+
+  ### Modul 7&#58; Erste Schritte mit der Produktkonfiguration
+  Die Produktkonfiguration ist ein auf Einschränkungen basierendes Produktkonfigurationstool, das die Microsoft Solver Foundation (MSF) -Produkttechnologie verwendet, die zum Modellieren und Lösen von Einschränkungen entwickelt wurde.
+
+  Mit der Produktkonfiguration können Sie Produktkonfigurationsmodelle erstellen und verwalten sowie Komponenten und Attributtypen wiederverwenden. Attribute, Einschränkungen, Unterkomponenten, Benutzeranforderungen, Stücklistenpositionen und Routenvorgänge werden implizit wiederverwendet, wenn eine Komponente wiederverwendet wird. Komponenten können auch Tabelleneinschränkungsdefinitionen wiederverwenden.
+
+  In diesem Modul wird erläutert, wie Sie mit dem Produktkonfigurator in Finance and Operations beginnen.
+  #### Lektionen
+  - Einführung
+  - Verstehen des Produktkonfigurationsmodells
+  - Erstellen eines Produktkonfigurationsmodells
+  - Übungslabore
+  - Modulübersicht
+
+  Die Terminologie, die für das Verständnis der Konzepte und Prozesse wichtig ist
+  - Durchgehendes Szenario der Produktkonfiguration
+  - Die verschiedenen Bereiche, die den Produktkonfigurationsprozess abdecken
+  - Des Produktkonfigurationsmodells
+  - Wie erstellen eines Produktkonfigurationsmodells
+
+
+  ### Modul 8&#58; Erste Schritte in der Prozessverarbeitung
+  Dieses Thema behandelt den Einstieg in die Prozessverarbeitung in Finance and Operations.
+
+  #### Lektionen
+  - Einführung
+  - Konzepte und Terminologie
+  - Modulübersicht
+
+  schlanke Produktion verstehen
+  - Schlanke Konzepte und -Terminologie verstehen
+
+
+  ### Modul 9&#58; Konfigurieren einer schlanken Produktion
+  In diesem Artikel wird erläutert, wie Sie eine schlanke Produktion in Finance and Operations konfigurieren.
+
+  Ein schlankes Produktions-Szenario ist in der Regel mehr als eine Ansammlung von Kanban-Regeln oder Materialversorgungsrichtlinien, die nichts miteinander zu tun haben. Der Material- und Produktfluss durch Arbeitszellen und Standorte für ein bestimmtes Produktions- oder Versorgungsszenario kann als eine Abfolge oder ein kleines Netzwerk von Prozess- oder Transferaktivitäten, auch als Produktionsfluss bezeichnet, beschrieben werden.
+
+  Die aktivitätsbasierten Produktionsabläufe werden in Finance and Operations eingeführt, um einen Produktions- und Kostenkontext für verschiedene Kanban-Szenarien zu erstellen. Alle Kanban-Regeln sind direkt mit dieser vordefinierten Struktur verbunden.
+
+  Mit dem aktivitätsbasierten Modell können Benutzer eine größere Bandbreite von Szenarien einrichten, als dies in früheren Versionen der schlanken Produktion für Finance and Operations möglich war, ohne dass die Mitarbeiter im Fertigungsbereich zusätzliche Komplexität benötigen, da alle Szenarien dieselbe aktivitätsbasierte Benutzeroberfläche verwenden.
+  #### Lektionen
+  - Einführung
+  - Parameter konfigurieren
+  - Wertströme und Produktionsflussmodelle erstellen
+  - Produktionsabläufe erstellen
+  - Übungslabore
+  - Modulübersicht
+
+  Parameter konfigurieren
+  - Wertströme konfigurieren
+  - Produktionsabläufe erstellen
+  - Arbeitszellen für schlanke Produktion konfigurieren
+
+
+  ### Modul 10&#58; Erstellen und Verarbeiten von festen Kanban-Regeln
+  In Dynamics 365 für Finance and Operations wird ein Kanban als Rahmenwerk implementiert, um auf Pull-Signalen basierend zu planen zu verfolgen und zu verarbeiten.
+
+  Ein Kanban ist ein wesentlicher Bestandteil eines Pull-Systems in der Versorgung, das ein kritisches Element der schlanken Produktion/ Versorgung ist. Wenn ein Kanban verbraucht wurde, sollte es an die Bezugsquelle weitergeleitet (ausgelöst) werden, um wieder aufgefüllt zu werden. Diese Bezugsquelle wird durch die Produktionsflussaktivitäten definiert, mit denen das Kanban verknüpft ist.
+
+  Kanban-Regeln in Finance and Operations sind an Produktionsabläufe gebunden und bilden die Grundlage für die Aktivitäten eines Kanbans. Kanban-Regeln können eingerichtet werden, um eine Vielzahl von Lagerfertigungs- und Bestellfertigungsszenarien zu unterstützen.
+  #### Lektionen
+  - Einführung
+  - Kanbantafeln
+  - Konfigurieren einer festen Kanban-Regel
+  - Feste Kanbans verarbeiten
+  - Übungslabore
+  - Modulübersicht
+
+  Sie haben einen Überblick über Kanbans und Kanban-Typen verstanden
+  - So konfigurieren und verarbeiten Sie feste Kanban-Regeln
+  - Kanbanregeln
+  - Herstellung von Kanbans
+  - Rücknahme von Kanbans
+  - Feste Menge Kanbans
+
+
+  ### Modul 11&#58; Erstellen und Verarbeiten von Event-Kanban-Regeln
+  In diesem Modul diskutieren wir die Event-Kanbans und verschiedene Möglichkeiten, sie auszulösen.
+  #### Lektionen
+  - Einführung
+  - Konfigurieren der Kanban-Regeln für Events
+  - Konfigurieren von Events für Verkauf, Kanban, Bestandsauffüllung und Stücklistenposition
+  - Übungslabore
+  - Modulübersicht
+
+  Konfigurieren und verarbeiten Sie Ereignis-Kanban-Regeln
+  - Kanbanregeln
+  - Herstellung von Kanbans
+  - Rücknahme von Kanbans
+  - Erstellen und Verwalten von Kanban für Vertriebslinienereignisse
+  - Erstellen und Verwalten von Kanbans für Stücklistenevents
+  - Sie verstehen Beispielszenarien für Ereignis-Kanban-Prozesse und verschiedene Ereignis-Kanban-Typen
+
+
+  ### Modul 12&#58; Erstellen und Verarbeiten von geplanten Kanbanregeln
+  Die Planaufträge vom Typ Kanban werden auf der Grundlage der Kanban-Regel erstellt und folgen der Standardlogik und den Standardhorizonten der Masterplanung. Die Einstellungen zur Deckung von Planungspositionen legen fest, wie die Planaufträge erstellt werden und ob sie automatisch oder manuell fixiert werden. In diesem Modul wird das geplante Kanban in Dynamics 365 für Finance and Operations erläutert.
+  #### Lektionen
+  - Einführung
+  - Konfigurieren geplanter Kanban-Regeln
+  - Kanbanmengenberechnung und Zirkulationskanbans verstehen
+  - Übungslabore
+  - Modulübersicht
+
+  Konfigurieren und arbeiten Sie mit Kanban-Regeln
+  - Konfigurieren und arbeiten Sie mit Manufacturing Kanbans
+  - Konfigurieren und arbeiten Sie mit Abhebungskanbans
+  - Konfigurieren und arbeiten Sie mit Erstellen und Verwalten von geplantem Kanban
+  - Konfigurieren und arbeiten Sie mit dem Lieferplan
+  - Konfigurieren und arbeiten Sie mit Kanban-Mengenberechnungen
+
+
+  ### Modul 13&#58; Konfigurieren von aktivitätsbasierter Lohnaufstellung und Produktionsflusskalkulation
+  Das Grundprinzip eines Produktionsflusses ändert sich nicht, wenn Aktivitäten über Finance and Operations vergeben werden. Material fließt immer noch zwischen Standorten, Prozessaktivitäten konvertieren Material in Produkte und Transferaktivitäten verschieben Material oder Produkte von einem Standort zu einem anderen.
+
+  In Dynamics 365 für Finance and Operations gibt es zwei Ansätze für die Vergabe von Unteraufträgen&#58; Fertigungsaufträge und schlanke Produktion.
+
+  Der erste Ansatz modelliert die Lohnbearbeitungsarbeit als Dienstleistung, die sich auf eine Aktivität eines Produktionsflusses bezieht. Der Kostengruppentyp „Direktes Outsourcing" muss konfiguriert werden, damit die Lohnbearbeitungsdienste nicht Teil einer Stückliste sind.
+
+  Die Kostenrechnung für Lohnarbeiten ist in Microsoft Dynamics 365 for Finance and Operations vollständig in die neue Fertigungskostenrechnung integriert.
+  #### Lektionen
+  - Einführung
+  - Eine aktivitätsbasierte Vergabe von Unteraufträgen konfiguriert
+  - Verstehen der Produktionsflusskosten
+  - Übungslabore
+  - Modulübersicht
+
+  Eine aktivitätsbasierte Vergabe von Unteraufträgen konfiguriert
+  - Die Produktionsplanung und die Vergabe von Unteraufträgen konfiguriert
+  - Lieferanten als Subunternehmer bestimmt
+  - Die Produktionsflusskalkulation konfiguriert
+
+
+  ### Modul 14&#58; Erste Schritte in der Prozessverarbeitung
+  Dieses Thema behandelt den Einstieg in die Prozessverarbeitung in Finance and Operations.
+  #### Lektionen
+  - Einführung
+  - Prozessverarbeitung verstehen
+  - Formelverwaltung verstehen
+  - Neben- und Abfallprodukte verstehen
+  - Zugelassene Anbieter konfigurieren
+  - Übungslabore
+  - Modulübersicht
+
+  Prozessverarbeitung verstehen
+  - Formelverwaltung verstehen
+  - Neben- und Abfallprodukte verstehen
+  - Zugelassene Anbieter verstehen
+
+
+  ### Modul 15&#58; Identifizieren und Konfigurieren von Chargenattributen für die Prozessverarbeitung
+  Zu diesem Thema wird das Konfigurieren von Chargenattributen in Finance and Operations erläutert.
+
+  #### Lektionen
+  - Einführung
+  - Identifizieren und Konfigurieren von Chargenattributen
+  - Erstellen und Konfigurieren von Artikeln mit ungefährem Gewicht
+  - Potenzverwaltung einrichten
+  - Übungslabore
+  - Modulübersicht
+
+  Verstehen von Batchattributen
+  - Identifizieren und Konfigurieren von Chargenattributen
+  - Steuerungsprozesse für Lots und Chargen
+  - Konfigurieren der Chargen-Nachbearbeitung
+
+
+  ### Modul 16&#58; Rohstoffpreise und Produkt-Compliance konfigurieren
+  Zu diesem Thema wird erläutert, wie man mit Rohstoffpreisen und Compliance in Finance and Operations arbeitet.
+  #### Lektionen
+  - Einführung
+  - Rohstoffpreise konfigurieren
+  - Produkt-Compliance konfigurieren
+  - Übungslabore
+  - Modulübersicht
+
+  Rohstoffpreise konfigurieren
+  - Produkt-Compliance konfigurieren
+
+
+  ### Modul 17&#58; Verwenden Sie die Lagerverwaltung für die Fertigung
+  Ziel dieses Moduls ist es, die Interaktion zwischen Fertigungs- und Lagerreservierungen zu überprüfen, die Einrichtung von Artikelmodellgruppen zu überprüfen, um Fertigung und Lagerung zu nutzen, und die Regeln für die Reservierung von Artikeln sowohl in der Prozessfertigung als auch in der Lagerhaltung zu erörtern.
+  #### Lektionen
+  - Einführung
+  - Lagerverwaltung für die Fertigung vorbereiten
+  - Verwenden Sie die Lagerverwaltung für die Fertigung
+  - Modulübersicht
+
+  Produktionswellen verstehen
+  - Erstellen Sie Wave-Vorlagen für Fertigungsaufträge
+  - Direkte Rohstoffroutenoperationen
+  - Überprüfung der Konfiguration und Verwendung mobiler Geräte für die Prozessproduktion
+  - Rohstoffe reservieren
+  - Freigabe Fertigungsaufträge
+  - Verarbeiten Sie eine Produktionsauswahl
+  - Verarbeiten Sie einen Produktionsbericht als fertig
+  - Für Stapelbestellungen einrichten
+  - Batch-Bestellungen bearbeiten
+  - Überprüfen Sie Chargenbestellungen mit Potenz
+  - Überprüfen Sie Chargenbestellungen mit Nebenprodukten und Nebenprodukten
+  - Arbeiten Sie mit Standorten für Fertigwaren
+  - Eingabeorte für den Ressourcenverbrauch
+
+
+  ### Modul 18&#58; Abschluss des Kurses
+  Fertigung abschließen
+  #### Lektionen
+  - Abschließende Bewertung
+  - Kurszusammenfassung
+
+  Du hast den Kurs abgeschlossen!

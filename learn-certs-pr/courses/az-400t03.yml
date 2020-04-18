@@ -45,7 +45,7 @@ products:
 exams:
 - uid: exam.az-400
 summary: |-
-  Dieser Kurs bietet die Kenntnisse und Fähigkeiten um kontinuierlichen Lieferung zu implementieren. Die Teilnehmer lernen das erstellen einer Freigabestrategie, das eines Freigabe-Workflows für das Freigabemanagement und die implementierung eines geeigneten Bereitstellungsmusters.
+  Dieser Kurs bietet die Kenntnisse und Fähigkeiten um kontinuierlichen Lieferung zu implementieren. Die Teilnehmer lernen das erstellen einer Freigabestrategie, das eines Freigabe-Workflows für das Freigabemanagement und die implementierung eines geeigneten Bereitstellungsmusters
 
   #### Zielgruppenprofil
   Teilnehmer des Kurses interessieren sich für die Implementation von DevOps-Prozessen oder möchten die Microsoft Azure DevOps-Lösungen Zertifizierungsprüfung bestehen.
@@ -54,8 +54,8 @@ prerequisitesSection: |-
 outlineSection: |-
   ### Modul 1&#58; Freigabestrategie erstellen
   #### Lektionen
-  - Einführung in die kontinuierliche Lieferung
-  - Freigabestrategie empfehlungen
+  Einführung in die kontinuierliche Lieferung
+  Freigabestrategie empfehlungen
   - Highquality Freigabepipeline erstellen
   - Auswählen eines Musters für die Bereitstellung
   - Das richtige Freigabe Verwaltungstool auswählen
@@ -63,13 +63,13 @@ outlineSection: |-
 
   #### Labor&#58; Freigabestrategie erstellen
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - zwischen Freigabe und Bereitstellung unterscheiden
+  - Komponenten der Veröffentlichungspipeline definieren
   - Komponenten einer Freigabepipeline definieren
-  - Erklären, was bei dem Entwerfen der Freigabestrategie zu beachten ist
-  - Eine Freigabe versus Freigabeprozess klassifizieren und festlegen wie die Qualität von beidem gesichert werden kann
-  - Die Prinzipien von Freigabe Gates beschrieben und wie mit Freigabe Notizen und Dokumentation umgegangen wird.
+  - Wichtige Überlegungn für die Erstellung einer Veröffentlichungsstrategie erklären
+  - Veröffenntlichung über Veröffentlichungsprozess und die Qualitätskontrolle von beidem klassifizieren
+  - Das Prinzip der Veröffentlichungstore beschrieben und wie man mit Veröffentlichungsnotizen und Dokumentation umgeht
   - Bereitstellungsmuster im traditionellen und modernen Verständnis erklären
-  - eine Release Management Tool auswählen
+  - Veröffentlichungs Verwaltungstool auswählen
 
 
   ### Modul 2&#58; Workflows für das Freigabemanagement erstellen
@@ -94,16 +94,16 @@ outlineSection: |-
 
   #### Labor&#58; Creating a Release Dashboard
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - die in Azure-Devops und anderen Release Management Toolings verwendete Terminologie erklären
-  - Beschreiben, was ein Built und Release Task ist, was er tut und einige verfügbare Bereitstellungstasks
+  - Terminologie die in Azure-Devops und anderen Release Management tools verwendet wird erklären
+  - Erkläern, was Built und Release Tasks sind, was sie können und verfügbare Bereitstellungstasks
   - Agent, Agent Queue, und Agent Pool klassifizieren
-  - Erklären, warum manchmal mehrere Release Jobs ind einer Release Pipeline benötigt werden
-  - zwischen multi-agent und multi-cinfiguration Release Jobs unterscheiden
-  - Freigabevariablen und Stagevariablen in ihrer Release Pipeline verwenden
-  - eine Umbebung sicher mit einer Serviceverbindung einrichten
+  - Erklären, warum manchmal mehrfache Release Jobs in einer Release Pipeline benötigt werden
+  - Zwischen Multi-agent und Multi-configuration Release Jobs unterscheiden
+  - Releasevariablen und Stagevariablen in der release Pipeline verwenden
+  - Eine Umgebung sicher durch Serviceverbindung bereitstellen
   - Tests in der Pipeline einbetten
-  - die verschiedenen Wege um die Gesundheit der Pipeline und Freigabe durch Warunungen, Service Hooks und Berichte zu inspizieren, auflisten.
-  - Ein Freigabegate erstellen
+  - Verschieden Wege um die Gesundheit der Pipeline und Release durch Warunungen, Service hooks und Berichte aufzählen
+  - Release Gate erstellen
 
 
   ### Modul 3&#58; Implementierung eines geeigneten Bereitstellungsmusters
@@ -121,7 +121,7 @@ outlineSection: |-
 
   #### Labor&#58; Traffic Manager
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Bereitstellungsmuster beschreiben
+  - Deploymentmuster beschreiben
   - Implementieren einer BlauGrün Bereitstellung
-  - das Implementieren einer Canary Freigabe
-  - das Implementieren einer Progressiv Exposure-Bereitstellung
+  - Implementieren einer Canary Veröffentlichung
+  - Implementieren einer Progressiv Exposure-Bereitstellung

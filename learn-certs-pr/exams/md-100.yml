@@ -1,39 +1,38 @@
-### YamlMime:Examination
-title: Exam Windows 10
+﻿### YamlMime:Examination
+title: Windows 10
 metadata:
-  title: 'Prüfung MD-100: Windows 10'
-  description: 'Prüfung MD-100: Windows 10'
+  title: 'Exam MD-100: Windows 10'
+  description: 'Exam MD-100: Windows 10'
 uid: exam.md-100
 displayName: MD-100
-summary: >-
+summary: |-
   Wenn Sie die Prüfung [Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) bestanden haben, bevor sie am 31. März 2019 abgelaufen ist, brauchen Sie nur MD-101 zu absolvieren, um die Modern Desktop Zertifizierung zu erhalten. Kandidaten für diese Prüfung sind Administratoren, die Geräte und Client-Anwendungen in einer Unternehmensumgebung bereitstellen, konfigurieren, sichern, verwalten und überwachen. Die Kandidaten verwalten Identitäten, Zugriff, Richtlinien, Updates und Apps.
-
 
   Als Administratoren arbeiten die Kandidaten gewöhnlich mit dem Microsoft 365 Enterprise Administrator beim Design und der Implementierung einer Gerätestrategie zusammen, die den geschäftlichen Anforderungen einer modernen Organisation gerecht wird.
 
-
   Kandidaten müssen vertraut sein mit Microsoft 365 Workloads und müssen Erfahrung haben in der Bereitstellung, Konfigurierung und der Pflege von Windows 10 und Nicht-Windows Geräten und Technologien.
-subTitle: 'Diese Prüfung misst Ihre Kompetenz, die folgenden technischen Aufgaben zu erfüllen: Windows bereitstellen, Geräte und Daten verwalten, Konnektivität konfigurieren und Windows warten. Wenn Sie die Prüfung 70-698 bestanden haben, bevor sie am 31. März 2019 abgelaufen ist, brauchen Sie nur MD-101 zu absolvieren, um die Modern Desktop Zertifizierung zu erhalten.'
+subTitle: 'Diese Prüfung misst Ihre Kompetenz, die folgenden technischen Aufgaben zu erfüllen: Windows bereitstellen, Geräte und Daten verwalten, Konnektivität konfigurieren und Windows warten. Wenn Sie die Exam 70-698 bestanden haben, bevor sie am 31. März 2019 abgelaufen ist, brauchen Sie nur MD-101 zu absolvieren, um die Modern Desktop Zertifizierung zu erhalten.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVC
 practiceTestUrl: https://www.mindhub.com/md-100-windows-10-microsoft-official-practice-test/p/MU-MD-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MD-100&examname=Exam%20MD-100:%20Windows%2010&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-100
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MD-100&examname=Prüfung%20MD-100:%20Windows%2010&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-100
 levels:
 - intermediate
 skills:
+- 'HINWEIS: Die Aufzählungszeichen, die unter den im folgenden Dokument gemessenen Fähigkeiten angezeigt werden, sollen veranschaulichen, wie wir diese Fähigkeiten bewerten. Diese Liste ist nicht endgültig oder vollständig.'
 - Bereitstellen von Windows (15-20%)
 - Verwaltung von Geräten und Daten (35-40%)
 - Konfigurieren der Konnektivität (15-20%)
 - Wartung von Windows (25-30%)
 roles:
 - administrator
-exams:
-- uid: exam.md-101
 products:
 - m365
 - windows
+exams:
+- uid: exam.md-101
 courses:
 - uid: course.md-100t01
 - uid: course.md-100t02
@@ -43,24 +42,27 @@ relatedCertifications:
 - related:
     uid: certification.modern-desktop
 resources:
-- title: Lernpfad zur Zertifizirung
-  description: 'Entdecken Sie die Schulungsressourcen, um ein Microsoft Certified: Modern Desktop Administrator Associate zu werden.'
+- title: Lernpfad zur Zertifizierung
+  description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Modern Desktop Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Prüfungswiederholung
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
   description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md

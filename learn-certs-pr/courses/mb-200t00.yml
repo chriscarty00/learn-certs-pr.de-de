@@ -1,0 +1,234 @@
+### YamlMime:Course
+title: Microsoft Power Platform + Dynamics 365 Core
+metadata:
+  title: 'Course MB-200T00-A: Microsoft Power Platform + Dynamics 365 Core'
+  description: 'Course MB-200T00-A: Microsoft Power Platform + Dynamics 365 Core'
+uid: course.mb-200t00
+courseNumber: 'MB-200T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Plattformkomponenten identifizieren.
+- skill: Administratoroptionen verstehen.
+- skill: Daten effektiv gestalten.
+- skill: Erstellen Sie eine grundlegende modellgesteuerte oder Canvas-Anwendung.
+- skill: Identifizieren Sie Teststrategien und -methoden.
+- skill: Identifizieren sie Integrationsmöglichkeiten.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  Mit Hilfe der Microsoft Power-Platform können Unternehmen Abläufe optimieren, indem sie Routineaufgaben automatisieren und bewährte Praktiken standardisieren. Diese Schulung bietet einen allgemeinen Überblick über die Funktionen von Microsoft Dynamics 365 und der Power-Plattform und bildet die Grundlage für andere Schulungsangebote von Microsoft Dynamics 365 und der Power-Plattform. Zu den übergeordneten Themen gehören Anwendungskonfiguration, Automatisierungsmöglichkeiten, Integration, Test und Bereitstellung.
+
+  #### Zielgruppenprofil
+  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von sowie Lösungen und Anwendungen zu konfigurieren. Der Modulbetreuer implementiert eine Lösung mit gebrauchsfertigen Funktionen, codefreier Erweiterungsmöglichkeit, sowie Anwendungs- und Service-Integrationen.
+outlineSection: |-
+  ### Modul 1&#58; Übersicht über die Power-Plattform
+  In diesem Modul erlernen sie die Grundlagen der Power-Plattform.  Sie werden die verschiedenen Administratorportale durchsuchen und Anwendungen installieren.
+  #### Lektionen
+  - Übersicht
+  - Konfigurieren von Power-Plattform-Umgebungen
+  - Erstellen von Anwendungen
+  - Erkennung und Planung
+
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Gängige Plattformkomponenten und deren Verwendung erkennen.
+
+
+  ### Modul 2&#58; Datenmodellierung
+  In diesem Modul lernen die Teilnehmer, Daten mit Hilfe von Entitäten, Attributen und Beziehungen der Plattform effektiv zu modellieren.
+  #### Lektionen
+  - Datenmodellgrundlagen
+  - Beziehungen
+  - Andere Entitätsoptionen
+  - Andere Feldoptionen
+  - Internationalisierung
+
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Zusammenhänge und Entitäten erstellen und verwenden.
+
+
+  ### Modul 3&#58; Modellgetriebene Apps
+  In diesem Modul lernen die Teilnehmer, modellgetriebene Anwendungen sowie deren Konfiguration und Verwendung kennen.
+  #### Lektionen
+  - Konfigurieren modellbasierter Apps
+  - Konfigurieren modellbasierter Formulare
+  - Ansichten konfigurieren
+  - Konfigurieren modellbasierter Diagramme
+  - Konfigurieren modellbasierter Dashboards
+  - Berichte konfigurieren
+
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Erstellen und ändern sie Formulare.
+  - Erstellen und ändern Sie Ansichten und Dashboards.
+  - Identifizieren und verwenden Sie andere Komponenten zur Nutzererfahrung.
+
+
+  ### Modul 4&#58; Canvas-Apps
+  In diesem Modul lernen die Studenten, Canvas-Apps zu erstellen und verwenden, sowie die Unterschiede zwischen Canvas-Apps und modellgetriebenen Apps zu erkennen.
+  #### Lektionen
+  - Anwendungsgrundlagen
+  - Arbeiten mit Daten und Diensten
+  - Anpassen der Benutzererfahrung
+  - Integration mit modellbasierten Apps
+
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Eine Canvas-App erstellen.
+  - Mit CDS-Daten arbeiten
+
+
+  ### Modul 5&#58; Sicherheit
+  In diesem Modul lernen die Teilnehmer, wie durch das Sicherheitsmodell der Plattform Benutzererfahrungen und Zugriff auf Daten und Funktionen verwaltet werden.
+  #### Lektionen
+  - Sicherheit - Überblick
+  - Geschäftsbereiche
+  - Sicherheitsrollen verwalten
+  - Teams verwalten
+  - Hierarchiesicherheit konfigurieren
+
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Geschäftsbereiche erstellen und verwenden.
+  - Sicherheitsrollen erstellen, ändern und verwenden.
+
+
+  ### Modul 6&#58; Plattformübersicht
+  In diesem Modul erlernen sie die Grundlagen der Automatisierungsmöglichkeiten der Power-Plattform.
+  #### Lektionen
+  - Automatisierungsübersicht
+
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Identifizieren Sie allgemeine Funktionen zur Plattformautomatisierung.
+
+
+  ### Modul 7&#58; Geschäftsregeln
+  In diesem Modul lernen sie, wie sie Geschäftsregeln erstellen und verwenden und wie diese neben anderen Plattformautomatisierungen funktionieren.
+  #### Lektionen
+  - Einführung in Geschäftsregeln
+  - Zusätzliche Details zu Geschäftsregeln
+
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Geschäftsregeln erstellen und verwenden.
+
+
+  ### Modul 8&#58; Arbeitsabläufe
+  In diesem Modul lernen sie, wie sie Arbeitsabläufe erstellen und verwenden und wie diese neben anderen Plattformautomatisierungen funktionieren.
+  #### Lektionen
+  - Einführung in Arbeitsabläufe
+  - Erstellen von Arbeitsabläufen
+  - Erweiterte Workflows
+
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Erstellen und Verwenden von Arbeitsabläufen.
+
+
+  ### Modul 9&#58; Microsoftabläufe
+  In diesem Modul lernen sie, wie sie Microsoftarbeitsabläufe erstellen und verwenden und wie diese neben anderen Plattformautomatisierungen funktionieren.
+  #### Lektionen
+  - Einführung in Microsoftabläufe
+  - Andere Ablaufkonzepte
+  - Arbeiten mit CDS
+  - Genehmigungsabläufe erstellen
+  - Ausgehend von Apps
+  - Überlegungen zur Bereitstellung des Ablaufs
+
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Microsoftabläufe erstellen und verwenden.
+
+
+  ### Modul 10&#58; Geschäftsprozessabläufe
+  In diesem Modul lernen sie, Geschäftsprozessabläufe zu erstellen und verwenden und wie diese neben anderen Plattformautomatisierungen funktionieren.
+  #### Lektionen
+  - Einführung in Geschäftsprozessabläufe
+  - Konfigurieren von Geschäftsprozessabläufen
+  - Zusätzliche Details zum Geschäftsprozessablauf
+
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Geschäftsprozessabläufe erstellen und verwenden
+
+
+  ### Modul 11&#58; Einführung in Integrationen
+  In diesem Modul erlernen sie die Grundlagen der Integrationsmöglichkeiten der Power-Plattform.  Sie lernen, wie Sie E-Mail-Integrationen konfigurieren und verwenden.
+  #### Lektionen
+  - Übersicht über gängige Szenarien
+  - E-Mail-Integration
+  - Outlook-Integration
+
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Gängige Integrationen erkennen,
+  - Konfigurieren und verwenden Sie E-Mail-Integrationen.
+
+
+  ### Modul 12&#58; Integration mit Office
+  In diesem Modul lernen sie, wie sie gängige Office-Produkte, einschließlich OneNote, Word und Excel, integrieren können.
+  #### Lektionen
+  - Vorlagen
+  - SharePoint
+  - Microsoft Teams
+  - Zusätzliche Integrationen
+
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Integrationen mit Office-Produkten konfigurieren und verwenden.
+
+
+  ### Modul 13&#58; Daten verwalten
+  In diesem Modul lernen sie, wie man Daten für die Power-Plattform im-und exportiert und Datenzuordnungen erstellt und verwendet.
+  #### Lektionen
+  - Datenübersicht verwalten
+  - Dublettenerkennung
+  - Daten importieren
+  - Daten exportieren
+  - Massenlöschen
+
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Daten importieren und exportieren.
+  - Erstellen und Verwenden von Datenkarten.
+  - Massenlöschung durchführen.
+
+
+  ### Modul 14&#58; Instanzen und Anwendungen verwalten
+  In diesem Modul lernen die Sie, Erstanbieteranwendungen zu aktivieren und zu aktualisieren, Drittanbieteranwendungen zu installieren und diese mit Hilfe von Administrationsportalen zu konfigurieren.
+  #### Lektionen
+  - Übersicht
+  - Anwendungen verwalten
+
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Apps von Erstanbietern aktivieren und aktualisieren.
+  - Apps von Drittanbietern installieren.
+
+
+  ### Modul 15&#58; Lösungen verwalten
+  In diesem Modul lernen sie, Lösungen zu erstellen, zu verwalten und bereitzustellen.
+  #### Lektionen
+  - Lösungskonzepte
+  - Planen und Erstellen von Lösungen
+  - Arbeiten mit Lösungskomponenten
+  - Lösungen vertreiben
+  - Arbeiten mit verwalteten Lösungen
+
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Lösungen erstellen.
+  - Stellen Sie Anpassungen bereit.
+
+
+  ### Modul 16&#58; Zusätzliche Überlegungen zur Bereitstellung
+  In diesem Modul lernen sie, mobile Geräte zu konfigurieren und Komponenten wie Microsoft Flow bereitzustellen.
+  #### Lektionen
+  - Einstellungen konfigurieren
+  - Mobile Konfigurationseinstellungen
+  - Mobile Konfiguration
+
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Mobile Geräte konfigurieren.
+  - Komponenten bereitstellen.

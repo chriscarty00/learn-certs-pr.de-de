@@ -31,16 +31,16 @@ summary: |-
   In diesem Kurs erlangen die Teilnehmer das Wissen und die benötigten Fähigkeiten um Azure Authentifizierung und Autorisationsdienste in ihre Entwicklungslösung einzubeziehen. Die Teilnehmer lernen wie Identität in Azure Lösungen verwaltet und genutzt wird durch die Microsoft Identity Platform. Die Teilnehmer lernen außerdem etwas über Zugriffskontrolle (claimsbased Autorisation und rollenbasierte Zugriffskontrolle) und wie sichere Datenlösungen implementiert werden. Über den gesamten Kurs hinweg lernen die Teilnehmer wie diese Resourcen durch Azure CLI REST und Application Code integriert werden.
 
   #### Zielgruppenprofil
-  - Teilnehmer des Kurses sind an der Azure Entwicklung oder dem Bestehen der Microsoft Azure Entwickler-Mitarbeiter Zertifizierungsprüfungen interessiert.
+  Teilnehmer des Kurses sind an der Azure Entwicklung oder dem Bestehen der Microsoft Azure Entwickler-Mitarbeiter Zertifizierungsprüfungen interessiert.
   - Teilnehmer sollten 1-2 Jahre Erfahrung als Entwickler haben Der Kurs geht davon aus, dass die Teilnehmer das Kodieren beherrschen und ein fundamentales Wissen über Azure besitzen.
 prerequisitesSection: |-
   - Teilnehmer sollten 1-2 Jahre Erfahrung als Entwickler haben Der Kurs geht davon aus, dass die Teilnehmer das Kodieren beherrschen und ein fundamentales Wissen über Azure besitzen.
-  - Es wird empfohlen, dass die Teilnehmer auch Erfahrung mit PowerSehll oder Azure CLI haben, mit der Arbeit in dem Azure Portal und mit mindestens einer Azure gestützten Programmiersprache. Die meisten Prüfungen in diesem Kurs sie in C# NET vorgestellt.
+  - Es wird empfohlen, dass die Teilnehmer auch Erfahrung mit PowerSehll oder Azure CLI haben, mit der Arbeit in dem Azure Portal und mit mindestens einer Azure gestützten Programmiersprache. Die meisten Prüfungen in diesem Kurs sie in C# NET vorgestellt
 outlineSection: |-
   ### Modul 1&#58; Implementieren der Authentifizierung
-  Microsoft Identity Platform ist eine Entwicklung des Azure Active Directory (Azure AD) Identity service und developer Platform. Es ermöglicht es dem Developer, Anwendungen, die sich in alle Microsoft Identitäten einloggen, zu erstellen, Tokens um Microsoft Graph abzurufen, andere Microsoft APIs oder APIS die andere Developer erstellt haben, zu erhalten.
+  Microsoft Identity Platform ist eine Entwicklung des Azure Active Directory (Azure AD) Identity service und developer Platform.. Es ermöglicht es dem Developer, Anwendungen, die sich in alle Microsoft Identitäten einloggen, zu erstellen, Tokens um Microsoft Graph abzurufen, andere Microsoft APIs oder APIS die andere Developer erstellt haben, zu erhalten. 
   #### Lektionen
-  - Microsoft Identity Platform
+  - Microsoft Identity Platform 
   - Implementierung der OAuth2-Authentifizierung
   - Implementierung der Verwalteten Identitäten für Azure Resourcen.
   - Implementieren der Authentifizierung durch die Verwendung von Zertifikaten, formularbasierter Authentifizierung oder Token

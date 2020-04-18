@@ -1,27 +1,29 @@
 ### YamlMime:Examination
 title: Microsoft Dynamics 365 Marketing
 metadata:
-  title: 'Prüfung MB-220: Microsoft Dynamics 365 Marketing'
-  description: 'Prüfung MB-220: Microsoft Dynamics 365 Marketing'
+  title: 'Exam MB-220: Microsoft Dynamics 365 Marketing'
+  description: 'Exam MB-220: Microsoft Dynamics 365 Marketing'
 uid: exam.mb-220
 displayName: MB-220
-summary: >-
+summary: |-
+  <div style="color&#58; red; font-weight&#58; bold;">Der Inhalt dieser Prüfung wird im April 2020 aktualisiert. Bitte laden Sie das unten stehende Dokument zur Kompetenzmessung herunter, um mehr zu erfahren.<br/><br/></div>
+  
   Kandidaten für diese Prüfung sind Microsoft Dynamics 365 Customer Engagement Funktionsberater mit Marketingexpertise. Die Kandidaten sind dafür verantwortlich, Lösungen zu implementieren, die Leads gewinnen und konvertieren, Markenbekanntheit aufbauen, Omnichannel-Messaging standardisieren und Marketinginformationen liefern.
 
-
   Die Kandidaten sind verantwortlich für die Konfiguration und Erweiterung der Kernmarketinganwendung um E-Mail-Marketing, Einrichtung, interaktive Kunden-Erlebnisse, Leads mit personalisierten Erfahrungen, LinkedIn-Integration, Events, Voice of the Customer, Landing Pages, Segmentierung und Scoring sowie die Einhaltung der Allgemeinen Datenschutzverordnung (GDPR).
-
 
   Die Bewerber sollten über einige Kenntnisse der Marketingprinzipien und der Rolle der Marketinganwendung in Bezug auf die Microsoft Dynamics 365 Anwendungssuite verfügen, einschließlich der Integration mit Microsoft Dynamics 365 und Office 365 Anwendungen. Die Kandidaten sollten die Terminologie der Branche, Prioritäten, gemeinsame Initiativen, Standards, Methoden und bewährte Verfahren verstehen.
 subTitle: 'Diese Prüfung misst Ihre Kompetenz, die folgenden technischen Aufgaben zu erfüllen: Konfigurieren von Marketinganwendungen, Verwalten von Segmenten und Listen, Erstellen und Verwalten von Marketingformen und -seiten, Verwalten von Leads, Erstellen und Verwalten von Marketing-E-Mails, Customer-Journey-Management, Verwalten von Veranstaltungen und Webinaren sowie Konfigurieren und Analysieren von Kundenantworten.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjQ
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MB-220&examname=Exam%20MB-220:%20Microsoft%20Dynamics%20365%20for%20Marketing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-220
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MB-220&examname=Prüfung%20MB-220:%20Microsoft%20Dynamics%20365%20Marketing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-220
 levels:
 - intermediate
 skills:
+- Der Inhalt dieser Prüfung wird im April 2020 aktualisiert. Bitte laden Sie das unten stehende Dokument zur Kompetenzmessung herunter, um mehr zu erfahren.
+- 'HINWEIS: Die Aufzählungszeichen, die unter den im folgenden Dokument gemessenen Fähigkeiten angezeigt werden, sollen veranschaulichen, wie wir diese Fähigkeiten bewerten. Diese Liste ist nicht endgültig oder vollständig.'
 - Konfigurieren von Marketinganwendungen (5-10%)
 - Verwaltung von Segmenten und Listen (10-15%)
 - Erstellung und Verwaltung von Marketingformularen und Seiten (10-15%)
@@ -32,14 +34,13 @@ skills:
 - Konfiguration und Analyse der Kundenreaktionen (10-15%)
 roles:
 - functional-consultant
-exams:
-- uid: exam.mb-200
-products:
+products: 
 - dynamics
 - dynamics-marketing
+exams:
+- uid: exam.mb-200
 courses:
-- uid: course.mb-220t01
-- uid: course.mb-220t02
+- uid: course.mb-220t00
 paths:
 - uid: learn-dynamics.set-up-dynamics-365-marketing
 - uid: learn-dynamics.work-core-features-marketing
@@ -49,24 +50,27 @@ relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-marketing
 resources:
-- title: Lernpfad zur Zertifizirung
-  description: 'Entdecken Sie die Schulungsressourcen, um ein Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate.'
+- title: Lernpfad zur Zertifizierung
+  description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I7b
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Prüfungswiederholung
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
   description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md

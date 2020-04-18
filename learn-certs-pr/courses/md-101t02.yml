@@ -27,15 +27,26 @@ products:
 exams:
 - uid: exam.md-101
 summary: |-
-  Als Bedarf für Unternehmen, die es ihren Mitarbeitern ermöglichen, mobiler zu sein, besteht die Rolle eines Desktop-Administrators nicht mehr nur in der Verwaltung von Desktops. Mit der zunehmenden Verbreitung von BYOD und der Notwendigkeit für Mitarbeiter, auf Geschäftsanwendungen auf persönlichen Geräten zuzugreifen, muss der Umfang der Desktop-Administration sowohl Desktop- als auch mobile Geräte umfassen, unabhängig von deren Besitzer. Im Rahmen dieses
-  Kurses werden die Teilnehmer in Schlüsselkomponenten moderner Management-und Co-Management-Strategien eingeführt. Sie werden untersuchen, was es braucht, um Microsoft Intune in eine Organisation zu integrieren und wie es zur Verwaltung moderner
-  Desktops und Geräte eingesetzt werden kann. Außerdem lernen die Teilnehmer Methoden zur Bereitstellung und Verwaltung von Apps und browserbasierten Anwendungen kennen.
+  Als
+  Bedarf für Unternehmen, die es ihren Mitarbeitern ermöglichen, mobiler zu sein,
+  besteht die Rolle eines Desktop-Administrators nicht mehr nur in der Verwaltung von Desktops.
+  Mit der zunehmenden Verbreitung von BYOD und der Notwendigkeit für Mitarbeiter, auf
+  Geschäftsanwendungen auf persönlichen Geräten zuzugreifen, muss
+  der Umfang der Desktop-Administration sowohl Desktop- als auch mobile Geräte umfassen, unabhängig von deren Besitzer. Im Rahmen dieses
+  Kurses werden die Teilnehmer in Schlüsselkomponenten moderner Management-
+  und Co-Management-Strategien eingeführt. Sie werden untersuchen, was es braucht, um Microsoft Intune
+  in eine Organisation zu integrieren und wie es zur Verwaltung moderner
+  Desktops und Geräte eingesetzt werden kann. Außerdem lernen die Teilnehmer Methoden zur Bereitstellung und
+  Verwaltung von Apps und browserbasierten Anwendungen kennen.
 
   #### Zielgruppenprofil
   Der Modern Desktop Administrator (MDA) stellt Geräte und Client-Anwendungen in einer Unternehmensumgebung bereit, konfiguriert, sichert, verwaltet und überwacht sie. Zu den Aufgaben gehört die Verwaltung von Identität, Zugriff, Richtlinien, Updates und Anwendungen. Der MDA arbeitet mit dem M365 Enterprise Administrator zusammen, um eine Gerätestrategie zu entwickeln und zu implementieren, die den Geschäftsanforderungen eines modernen Unternehmens entspricht. Die MDA muss mit M365-Arbeitslasten vertraut sein und über umfassende Fähigkeiten und Erfahrungen der Bereitstellung, Konfiguration und Wartung von Windows 10 und Nicht-Windows-Geräten verfügen. Die Rolle des MDA konzentriert sich auf Cloud Services und nicht auf Technologien für das lokale Management.
 prerequisitesSection: |-
-  Der moderne Desktop-Administrator muss mit M365-Workloads vertraut sein und über umfassende Kenntnisse und Erfahrungen bei der Bereitstellung, Konfiguration und Wartung von Windows
-  10 und Nicht-Windows-Geräten verfügen. Die Rolle des MDA konzentriert sich auf Cloud Services und nicht auf Technologien für das lokale Management.
+  Der
+  moderne Desktop-Administrator muss mit M365-Workloads vertraut sein und
+  über umfassende Kenntnisse und Erfahrungen bei der Bereitstellung, Konfiguration und Wartung von Windows
+  10 und Nicht-Windows-Geräten verfügen. Die Rolle des MDA konzentriert sich auf Cloud Services
+  und nicht auf Technologien für das lokale Management.
 outlineSection: |-
   ### Modul 1&#58; Geräte-Registrierung
   In diesem Modul untersuchen die Teilnehmer den Nutzen und die Voraussetzungen des Co-Managements und lernen, wie sie es planen können. Dieses Modul umfasst auch Azure AD join, eine Einführung in Microsoft Intune sowie die Konfiguration von Richtlinien für die Registrierung von Geräten. Das Modul schließt mit einem Überblick über die Geräteinventarisierung in Intune und die Berichterstattung mit der Intune Konsole, Power BI und Microsoft Graph.
@@ -46,7 +57,7 @@ outlineSection: |-
 
   #### Labor&#58; Praxislab - Geräteerfassung und -verwaltung
   - Installation des MDM-Migrationsanalyse-Tools (MMAT)
-  - Erhalten von Intune und Azure AD Premium Lizenzen und Ermöglichen des Gerätemanagements
+  - Erhalten von Intune und Azure AD Premium Lizenzen und Ermöglichen des Gerätemanagements.
   - Registrieren von Geräten in Intune
   - Verwalten von Geräten in Intune
   - Erstellen von Berichten zur Geräteinventur
@@ -85,7 +96,7 @@ outlineSection: |-
   ### Modul 3&#58; Anwendungsmanagement
   In diesem Modul lernen die Teilnehmer das Anwendungsmanagement von On-Premise- und Cloud-basierten Lösungen kennen. In diesem Modul wird die Verwaltung von Office 365 ProPlus-Bereitstellungen in Intune sowie die Verwaltung von Anwendungen auf nicht angemeldeten Geräten behandelt. Das Modul schließt mit einem Überblick über den Enterprise-Modus mit Internet Explorer und Microsoft Edge und der Verfolgung Ihrer installierten Anwendungen, Lizenzen und zugewiesenen Apps mit Intune.
   #### Lektionen
-  - Mobile Application Management implementieren (MAM)
+  Mobile Application Management implementieren (MAM)
   - Bereitstellung und Aktualisierung von Anwendungen
   - Anwendungen verwalten
 

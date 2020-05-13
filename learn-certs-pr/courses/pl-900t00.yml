@@ -7,6 +7,13 @@ uid: course.pl-900t00
 courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 'Beschreiben der Power Plattform-Komponenten: Power Apps, Power BI und Microsoft Automate '
+- skill: 'Beschreiben der Power Plattform-Komponenten: Allgemeiner Daten-Service, Connector und AI Builder'
+- skill: Beschreiben von Cloud-übergreifenden Szenarien für M365-, Dynamics 365-, Microsoft Azure- und Drittanbieter-Dienste
+- skill: Identifizieren von Vorteilen und Funktionen der Power-Plattform
+- skill: Identifizieren der grundlegenden Funktionen und des Geschäftswert der Power Plattform-Komponenten
+- skill: Umsetzen einfacher Lösungen mit Microsoft Automate, Power BI und Power Apps
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -18,7 +25,11 @@ products:
 - power-platform
 exams:
 - uid: exam.pl-900
-summary: ""
+summary: |-
+  Erfahren Sie mehr über den Geschäftswert und die Produktfunktionen der Power-Plattform. Erstellen Sie eine einfache PowerApp, verbinden Sie Daten mit CDS, erstellen Sie ein Power BI-Dashboard und automatisieren Sie einen Prozess mit Microsoft Flow.
+
+  #### Zielgruppenprofil
+  Kandidaten für diese Prüfung sind Anwender, die eine Produktivitätssteigerung durch Automatisierung von Geschäftsprozessen, durch Datenanalyse zum Erlangen geschäftlicher Erkenntnisse und durch effektiveres Handeln durch Erstellen einfacher App-Funktionen anstreben.
 prerequisitesSection: |-
   Keine Vorbedingungen für diesen Kurs
 outlineSection: |-
@@ -27,7 +38,7 @@ outlineSection: |-
   #### Lektionen
   - Übersicht über Power Platform
   - Modulübersicht
-  
+
   Lernen Sie die Komponenten und Funktionen von Power Platform kennen
   - Identifizieren Sie, wann jede Power Platform-Komponentenanwendung zur Erstellung von Geschäftslösungen verwendet werden soll
   - Lernen Sie den Wert der Nutzung von Power Platform zur Erstellung von Geschäftslösungen kennen
@@ -42,7 +53,7 @@ outlineSection: |-
   #### Labor &#58; Wie man eine einfache Canvas-App 1 erstellt
   - Staff Canvas App erstellen
   - Vervollständigen Sie die App
-  
+
   #### Labor &#58; Wie man eine einfache Canvas-App 2 erstellt
   - Sicherheits-Canvas-App erstellen
 
@@ -62,7 +73,7 @@ outlineSection: |-
   - Umgebung und Lösung schaffen
   - Entitäten und Beziehungen erstellen
   - Daten importieren
-  
+
   Erklären Sie, welche Umgebungen, Entitäten, Felder und Beziehungen im gemeinsamen Datendienst enthalten sind
   - Beschreiben Sie den Unterschied zwischen Common Data Service und Common Data Model
   - Erklären Sie Anwendungsfälle und Einschränkungen von Geschäftsregeln und Prozessabläufen
@@ -95,3 +106,4 @@ outlineSection: |-
   Beschreiben Sie den Geschäftswert und die Funktionen von Power BI
   - Sehen Sie, wie Power BI aus der Sicht des Benutzers funktioniert und aussieht
   - Erfahren Sie, wie Sie ein einfaches Power BI-Dashboard erstellen
+

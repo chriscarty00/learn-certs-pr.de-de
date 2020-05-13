@@ -6,8 +6,11 @@ metadata:
 uid: exam.70-345
 displayName: 70-345
 summary: |-
-  <div style="color&#58; red;">Dieses Examen wird am 30. Juni 2020 eingestellt. Eine Ersatzprüfung kann verfügbar sein. Um mehr zu erfahren, besuchen Sie unseren Blog: <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> und überprüfen Sie unsere Prüfungsabgaben. Hinweis: Prüfungen werden um 23:59 Uhr Central Standard Time eingestellt<br/><br/></div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+  <div><strong>Diese Prüfung wird am 31. Januar 2021 um 23&#58;59 Uhr (Ortszeit) eingestellt. Nach diesem Datum können Sie die Prüfung nicht mehr ablegen. Erfahren Sie mehr über <a href='/learn/certifications/retired-certification-exams'>bevorstehende Prüfungseinstellungen</a>.<br/><br/></strong></div>
+  </div>
+
   Kandidaten für diese Prüfung sind IT-Berater oder leitende Administratoren, die als technischer Leiter eines Teams von Administratoren fungieren. Die Kandidaten sollten mit den Anforderungen für die Integration von Microsoft Exchange Server mit Skype for Business und Office 365 vertraut sein.
 
   Die Kandidaten sollten mindestens drei Jahre Erfahrung in der Entwicklung und Verwaltung von Exchange-Servern haben und für die Exchange 2016-Messaging-Umgebung in einer Unternehmensumgebung verantwortlich sein.
@@ -25,7 +28,7 @@ locales:
 - de
 - ja
 - pt-br
-levels: 
+levels:
 - advanced
 skills:
 - 'HINWEIS: Die Aufzählungszeichen, die unter den im folgenden Dokument gemessenen Fähigkeiten angezeigt werden, sollen veranschaulichen, wie wir diese Fähigkeiten bewerten. Diese Liste ist nicht endgültig oder vollständig.'
@@ -35,6 +38,7 @@ skills:
 - Planen, Bereitstellen und Verwalten von Exchange-Infrastruktur, Empfängern und Sicherheit (15-20%)
 - Planen, Bereitstellen und Verwalten von Compliance, Archivierung, eDiscovery und Auditing (10-15%)
 - Implementierung und Verwaltung von Koexistenz, Hybridszenarien, Migration und Verbund (10-15%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:
@@ -58,3 +62,4 @@ resources:
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
+

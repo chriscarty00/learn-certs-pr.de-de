@@ -1,4 +1,4 @@
-﻿---
+---
 title: Über Online-Prüfungen | Microsoft Docs
 description: Über Online-Prüfungen 
 documentationcenter: NA 
@@ -11,7 +11,7 @@ ms.author: micsullivan
 ---
 # Über Online-Prüfungen
 
-Sie können jede rollenbasierte Prüfung oder Grundlagenprüfung online bequem von zu Hause oder vom Büro aus ablegen, während Sie von einem Prüfer über eine Webcam und ein Mikrofon überwacht werden. (Grundlagen und Microsoft Technical Associate (MTA) -Prüfungen, die über eine K-12-Schule erworben wurden, sind online nicht verfügbar.) Wenn Sie an einer Online-Prüfung interessiert sind und wissen möchten, was Sie erwartet, bevor Sie sich anmelden, werden Ihnen auf dieser Seite die Details erläutert. Sie können das [YouTube-Video](https://www.youtube.com/playlist?list=PLahhVEj9XNTceGnF19qSjYxYzS4S_Wlmf) auch in Englisch oder mit Untertiteln in Arabisch, Französisch, Deutsch, Portugiesisch oder Spanisch ansehen.
+Sie können jede rollenbasierte Prüfung oder Grundlagenprüfung (durchgeführt von Pearson VUE) online bequem von zu Hause oder vom Büro aus ablegen, während Sie von einem Prüfer über eine Webcam und ein Mikrofon überwacht werden. (Dieser Artikel behandelt keine von Certiport durchgeführten Prüfungen.) Wenn Sie an einer Online-Prüfung über Pearson VUE interessiert sind und vor der Registrierung besser verstehen möchten, was Sie erwartet, werden auf dieser Seite die Details erläutert. Sie können auch das Video von Pearson VUE [YouTube-Video](https://youtu.be/Gm1PqdbwBP0) ansehen.
 
 
 ## Machen Sie einen Systemtest
@@ -20,7 +20,7 @@ Führen Sie jetzt einen Systemtest durch, um zu sehen, ob Ihr Computer und Stand
 
 [Systemtest jetzt](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)
 
-Online-Prüfungen sind derzeit in den auf dieser Seite aufgeführten Ländern verfügbar. Beachten Sie, dass Unterstützung für Greeter und Proctor sowie Proctoringsoftware derzeit nur in Englisch Sprache zur Verfügung stehen.
+Online-Prüfungen sind in den meisten Ländern verfügbar. Beachten Sie, dass Begrüßungsunterstützung, Unterstützung durch den Aufsichtsführenden und Beaufsichtigungs-Software nur in einer begrenzten Anzahl von Sprachen verfügbar sind. Sie müssen die Sprache während des Registrationsprozesses zur Prüfung auswählen. Diese kann sich von der Sprache unterscheiden, in der Sie die Prüfung ablegen. Die meisten Kandidaten haben unabhängig von der Sprache der Prüfung nur die Möglichkeit, eine Online-Prüfung mit englischsprachiger Begrüßungsunterstützung, Unterstützung durch den Aufsichtsführenden und Beaufsichtigungs-Software abzulegen.
 
 **WARNUNG! Bevor Sie sich für eine Online-Prüfung anmelden:**
 
@@ -50,14 +50,17 @@ Möglicherweise müssen Sie in Ihrer Internetsicherheits- und Antivirussoftware 
                 <p><strong>Betriebssystem</strong></p>
             </td>
             <td>
-            <p><strong>Windows 10</strong><br/><strong>Windows 8.1</strong> (<strong>32-bit</strong> und  <strong>64-bit</strong>)<br/><strong>**Windows 7 SP1</strong> (<strong>32-bit</strong> und  <strong>64-bit</strong>)<br/><strong>Mac OSX 10.12 und höher </strong> (ausgenommen Beta-Versionen)<br/>
-                                * Pearson VUE bietet ab Januar 2020 keine Unterstützung mehr für Win 7
-                                </p><p><strong>Hinweis:</strong> Windows-Betriebssysteme müssen die echte Windows-Validierung bestehen.</p><ul><li><strong>Windows Vista und Windows XP</strong> sind für die Durchführung von Prüfungen strengstens untersagt.</li><li>Auch alle Linux / Unix-basierten Betriebssysteme sind strengstens untersagt.</li></ul>
+            <p><strong>Windows 10</strong></p>
+            <p>Windows 8.1 (32-bit und 64-bit)</p>
+            <p>Mac OSX 10.13 und höher (außer Beta-Versionen)</p>
+            <p>Hinweis: Windows-Betriebssysteme müssen die Echtheitsprüfung von Windows bestehen.</p>
+            <p>
+            Windows Vista, Windows XP, Windows 7 und alle Linux / Unix-basierten Betriebssysteme sind für die Durchführung von Prüfungen strengstens untersagt.</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p><strong>Firewall</strong></p></td><td><p>Unternehmensfirewalls (einschließlich VPNs) führen häufig dazu, dass diese Übermittlungsmethode fehlschlägt. Bitte legen Sie Ihre Prüfung in einer Umgebung ohne Unternehmens-Firewall ab.</p>
+                <p><strong>Firewall</strong></p></td><td><p>Legen Sie Ihre Prüfung nicht in einer Umgebung mit einer Unternehmens-Firewall (einschließlich VPN) ab, oder machen Sie Ihren Netzwerkadministrator auf die Konfigurationsanforderungen für das Netzwerk aufmerksam.</p>
             </td>
         </tr>
         <tr>
@@ -67,7 +70,7 @@ Möglicherweise müssen Sie in Ihrer Internetsicherheits- und Antivirussoftware 
             <td>
                 <p>Mindestauflösung: <strong>1024 x 768</strong>, <strong>16-Bit-Farbtiefe</strong>.
                 <br/>
-                Hinweis: Alle Touchscreens sind strengstens verboten.</p>
+                Hinweis: Tablets sind strengstens verboten, es sei denn, sie verfügen über eine physische Tastatur und erfüllen auch die zuvor genannten Betriebssystemanforderungen.</p>
             </td>
         </tr>
         <tr>
@@ -83,7 +86,9 @@ Möglicherweise müssen Sie in Ihrer Internetsicherheits- und Antivirussoftware 
                 <p><strong>Internetzugang</strong></p>
             </td>
             <td>
-                <p>Eine konstante Verbindungsgeschwindigkeit von <strong>1 Mbit / s nach unten / oben</strong> ist erforderlich.</p>
+                <p>Eine gleichbleibende Verbindungsgeschwindigkeit von 1 Mbps down/up ist erforderlich.</p>
+                <p>Wir empfehlen, Tests in einem kabelgebundenen Netzwerk anstatt einem kabellosen Netzwerk durchzuführen.</p>
+                <p>Die Verbindung zu einem mobilen Hotspot ist ausdrücklich untersagt.</p>
             </td>
         </tr>
         <tr>
@@ -101,7 +106,7 @@ Möglicherweise müssen Sie in Ihrer Internetsicherheits- und Antivirussoftware 
                 <p><strong>Ton & Mikrofon</strong></p>
             </td>
             <td>
-                <p>Stellen Sie sicher, dass Audio und Mikrofon in Windows nicht stummgeschaltet sind.</p><p class="">Mac-Benutzer müssen OnVUE möglicherweise in ihren Systemeinstellungen zulassen: Sicherheits- und Datenschutzeinstellungen für Mikrofon und Kamera.</p>
+                <p>Stellen Sie sicher, dass Audio und Mikrofon in Windows nicht stummgeschaltet sind.</p><p class="">Mac-Benutzer müssen OnVUE möglicherweise in ihren Einstellungen für "Systemeinstellungen: Sicherheit und Datenschutz: Datenschutz" für Mikrofon, Kamera, Automatisierung und Eingabeüberwachung zulassen.</p>
             </td>
         </tr>
         <tr>
@@ -110,6 +115,22 @@ Möglicherweise müssen Sie in Ihrer Internetsicherheits- und Antivirussoftware 
             </td>
             <td>
                 <p><strong>Internet-Cookies müssen aktiviert sein.<br/>Alle Popup-Blockierungseinstellungen müssen deaktiviert sein.</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Work Computer</strong></p>
+            </td>
+            <td>
+                <p>Wir empfehlen, es auf einem PC zu testen, da Arbeitscomputer die OnVUE-Software blockieren könnten.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Power</strong></p>
+            </td>
+            <td>
+                <p>Stellen Sie sicher, dass Sie an eine Stromquelle angeschlossen sind, bevor Sie mit der Prüfung beginnen, damit der Akku während der Prüfung nicht entladen wird.</p>
             </td>
         </tr>
         <tr>
@@ -130,7 +151,7 @@ Führen Sie vor der Registrierung und dem Kauf Ihrer Prüfung den erforderlichen
 
 ## Beteiligte Länder
 
-Wenn die Online-Prüfungen in Ihrem Land verfügbar sind, stehen die Prüfungen in allen Sprachen zur Verfügung, die in den Testcentern in Ihrem Land verfügbar sind. Bitte beachten Sie, dass Unterstützung für Greeter und Proctor Support sowie Proctoringsoftware derzeit nur in Englisch Sprache zur Verfügung stehen. Online-Prüfungen sind jetzt in den meisten Ländern außer in Japan verfügbar.
+Online-Prüfungen sind derzeit in den meisten Ländern verfügbar. Wenn in Ihrem Land Online-Prüfungen verfügbar sind, sind diese in denselben Sprachen verfügbar wie in den Testzentren in Ihrem Land. Beachten Sie bitte, dass Begrüßungsunterstützung, Unterstützung durch den Aufsichtsführenden und die Beaufsichtigungs-Software nur in einer begrenzten Anzahl von Sprachen verfügbar sind. Sie müssen die Sprache während des Registrationsprozesses zur Prüfung auswählen. Diese kann sich von der Sprache unterscheiden, in der Sie die Prüfung ablegen.
 
 ## Sitzungsprotokoll testen
 
@@ -142,14 +163,14 @@ Ihre Büro- oder Heimumgebung muss die folgenden Anforderungen erfüllen:
 
 - Büro- oder Konferenzräume müssen von Mauern umgeben sein, eine geschlossene Tür haben und frei von Störungen sein.
 - Wenn Sie die Prüfung bei sich zu Hause ablegen, sollte der Raum frei von Störungen sein.
-- Während Ihrer Testsitzung darf sich kein Dritter im Raum befinden.
+- Während Ihrer Testsitzung darf niemand anderes im Raum zugegen sein oder den Raum betreten.
 
 Kommunikation mit dem Begrüßer und Prüfer:  
 
 - **Telefon.** Während des Eincheckvorgangs bittet der Begrüßer Sie um Ihre Telefonnummer, um mit Ihnen kommunizieren zu können, während Sie sich für Ihre Prüfung einchecken. Nachdem Sie den Eincheckvorgang abgeschlossen haben, werden Sie aufgefordert, Ihr Telefon außer Reichweite (aber in Hörweite) zu platzieren.
 - **Chat-Fenster.** Der Großteil der Kommunikation mit dem Begrüßer und Prüfer erfolgt über das Chatfenster.
 - **Mikrofon.** Während des Eincheckvorgangs und, falls erforderlich, während Sie die Prüfung ablegen, können Sie mit dem Begrüßer und Prüfer über ein Mikrofon kommunizieren.
-- **Sprache.** Die gesamte Kommunikation mit dem Begrüßer und Prüfer erfolgt in Englisch Sprache durchgeführt.
+- **Sprache.** Die gesamte Kommunikation mit dem Begrüßer und dem Aufsichtführenden erfolgt in einer begrenzten Anzahl von Sprachen, die sich möglicherweise von der Sprache unterscheiden, in der Sie die Prüfung ablegen.
 
 Prüfung der Identität:
 
@@ -158,7 +179,7 @@ Sie müssen einen aktuellen amtlichen Ausweis wie z. B. einen der folgenden vor
 - Führerschein
 - Militär-ID
 - Reisepass
-- Personalausweis (nationaler / staatlicher / regionaler Personalausweis)
+- Personalausweis (nationaler/staatlicher/regionaler Personalausweis)
 - Ausländerregistrierungskarte (Green Card, Daueraufenthaltsgenehmigung, Visum)
 - Von der Regierung ausgestellter Ausweis in der Landessprache (nicht in römischen Zeichen) - wird nur akzeptiert, wenn er aus dem Land stammt, in dem der Kandidat den Test durchführt_
 
@@ -170,41 +191,46 @@ Minderjährige unter 18 Jahren dürfen einen gültigen Schülerausweis zur Ident
 
 Ansicht des Arbeitsbereichs:
 
-Sie werden aufgefordert, Ihre Webcam oder Ihr Notebook durch Anheben und Drehen langsam von links nach rechts zu schwenken, um die umgebenden Wände zu zeigen nach oben und unten zu schwenken, um die Decke und den Boden zu zeigen. Wenn Sie das Zimmer so nicht komplett erfassen können, dürfen Sie nicht fortfahren oder die Prüfung ablegen.
+Sie werden aufgefordert, mit Ihrer Webcam, Ihrem Telefon oder Laptop langsam von links nach rechts zu scannen, um die umgebenden Wände zu zeigen, und nach oben und unten zu scannen, um den Boden und die Decke zu zeigen. Wenn Sie das Zimmer so nicht komplett erfassen können, dürfen Sie nicht fortfahren oder die Prüfung ablegen.
 
-Sie werden dann aufgefordert, den gesamten Arbeitsbereich zu scannen. Der Prüfer sucht nach Sicherheitsrisiken wie, aber nicht beschränkt auf, folgende:
+Sie scannen anschließend Ihren gesamten Arbeitsbereich. Der Prüfer sucht nach Sicherheitsrisiken wie, aber nicht beschränkt auf, folgende:
 
 - Zusätzliche Monitore (müssen ausgesteckt und von Ihnen abgewandt sein)
 - Zusätzliche Computer (müssen ausgeschaltet sein und die Monitore dunkel sein)
-- Wandschmuck / Poster (diese werden überprüft)
 
-Der Arbeitsbereich sollte frei von allen Materialien, einschließlich der folgenden Gegenstände, sein, die nicht innerhalb Ihrer Reichweite erlaubt sind: Bücher, Notizblöcke, Post-it-Zettel, Notizen/Papiere oder Schreibgeräte (wie Stifte, Marker oder Bleistifte). Whiteboards sollten leergewischt sein.
+Der Arbeitsbereich sollte frei von allen Materialien, einschließlich der folgenden Gegenstände, sein, die nicht innerhalb Ihrer Reichweite erlaubt sind: Bücher, Notizblöcke, Post-it-Zettel, Notizen/Papiere oder Schreibgeräte wie Stifte, Marker, whiteboards oder Bleistifte.
 
 ### Keine persönlichen Gegenstände
 
 - Während der Prüfung dürfen Sie nicht auf die folgenden persönlichen Gegenstände zugreifen: Palm-Computer oder andere elektronische Geräte, Pager, Uhren, Brieftaschen, Geldbörsen, Hüte (oder andere Kopfbedeckungen), Taschen, Mäntel, Bücher, Notizen oder alle anderen Materialien, die nicht speziell zugelassen sind.
+- Im Falle eines Support-Problems kann der Aufsichtsführende versuchen, Sie auf Ihrem Mobiltelefon unter der Nummer zu kontaktieren, die Sie beim Check-in zur Prüfung angegeben haben. Bitte stellen Sie sicher, dass Ihre Handynummer die Landesvorwahl enthält. Es ist erlaubt, das Handy in der Nähe zu halten, jedoch nicht in Reichweite. 
 - Sie werden gebeten, alle Taschen (Hosentaschen und Blazer- / Pullovertaschen) herauszuziehen, damit der Begrüßer sehen kann, dass sie leer sind.
 - Wenn Sie lange Ärmel tragen, werden Sie gebeten, die Ärmel hochzukrempeln, um zu zeigen, dass Ihre Arme nicht beschriftet sind.
 - Wenn Sie eine Krawatte tragen, werden Sie aufgefordert, die Krawatte anzuheben, um dem Begrüßer zu zeigen, dass unter der Krawatte nichts versteckt ist.
 - Wenn Sie lange Haare haben, die Ihre Ohren bedecken, werden Sie aufgefordert, Ihre Haare nach hinten zu streichen, um dem Begrüßer zu zeigen, dass an Ihrem Ohr nichts befestigt ist (z. B. ein Bluetooth-Ohrhörer).
 
-### Keine Pausen / Essen / Trinken
+### Keine Pausen/Essen/Trinken
 
 - Pausen, egal aus welchem Grund, sind während der Prüfung nicht zulässig. Sie verstehen und erklären sich damit einverstanden, dass bei einer Pause Ihr Prüfungsergebnis ungültig wird und Sie die Prüfung später nicht wieder aufnehmen können.
 - Essen, Trinken, Rauchen und Kaugummi kauen sind während der Prüfung verboten.
 
 ### Keine Prüfungsunterstützung
 
-- **Während Ihrer Testsitzung darf kein Dritter den Raum betreten. In diesem Fall wird Ihre Prüfung beendet.**
+- **Während Ihrer Testsitzung darf niemand anderes den Raum betreten. In diesem Fall wird Ihre Prüfung beendet.**
 - Während der Prüfung dürfen Sie keine Unterstützung oder kein Coaching von anderen Personen erhalten, und Sie dürfen anderen Personen nicht erlauben, auf den Computerbildschirm zu sehen, auf dem die Prüfungsfragen angezeigt werden.
-- Sie dürfen während der Prüfung keine prüfungsspezifischen Materialien und kein Schmierpapier, löschbare Whiteboards oder andere Schreibobjekte verwenden. Sie dürfen während der Prüfung auch keine Schreibgeräte, wie z. B. einen Stift, Marker oder Bleistift, verwenden.
+- Sie dürfen während der Prüfung keine Bücher oder andere Ressourcen, Schmierpapier, löschbare Whiteboards oder andere Schreibobjekte verwenden. Sie dürfen während der Prüfung auch keine Schreibgeräte, wie z. B. einen Stift, Marker oder Bleistift, verwenden.
 - Der Prüfer kann keine Fragen zum Prüfungsinhalt beantworten. Wenn Sie Fragen zum Prüfungsinhalt haben, wenden Sie sich nach dem Ablegen der Prüfung bitte an Microsoft.
 
 ### Weitere wichtige Informationen
 
 - Sie dürfen Fragen oder Antworten aus der Prüfung auf keine Weise kopieren oder aufzeichnen und die in der Prüfung enthaltenen Fragen oder Antworten nicht mit anderen teilen oder diskutieren.
 - Durch die Teilnahme an dieser Prüfung akzeptieren Sie, dass der Prüfer Sie während der Prüfung kontinuierlich per Video und Audio überwacht, und Sie stimmen der Audio- und Videoaufzeichnung Ihres Gesichts, Ihrer Stimme, des physischen Raums, in dem Sie sitzen, und dem Ort während der Durchführung der Prüfung zu. Sie erkennen an, dass Sie während der Prüfung an Ihrem aktuellen Standort kein Recht auf eine Privatsphäre haben und dass Sie auf alle Ansprüche auf ein Recht auf Privatsphäre verzichten. Wenn Sie nicht (per Video oder Audio) aufgenommen werden möchten, benachrichtigen Sie bitte den Prüfer umgehend davon, dass Sie nicht mit der Prüfung fortfahren möchten.
-- Wenn Sie die [Candidate Rules Agreement](https://www.pearsonvue.com/rp/rp_candidate_rules_agreement.pdf) nicht befolgen oder im Verdacht stehen, zu betrügen oder die Software von Pearson VUE oder seinem Subunternehmer zu manipulieren, oder wenn ein Dritter in dem Raum, in dem Sie während der Prüfung physisch sitzen, gesehen wird, bricht der Prüfer die Prüfung sofort ab und meldet den Verstoß zusammen mit Audio- und / oder Videobeweisen an Pearson VUE und Microsoft. Ihre Prüfung kann für ungültig erklärt werden und Microsoft ergreift unter Umständen andere Maßnahmen, wie z. B. Ihre Zertifizierungen zu widerrufen und Sie von jedweder zukünftigen Beteiligung am Microsoft-Zertifizierungsprogramm auszuschließen.
+- Wenn Sie die [Candidate Rules Agreement](https://www.pearsonvue.com/rp/rp_candidate_rules_agreement.pdf) nicht befolgen oder in Verdacht geraten, zu betrügen oder die Software von Pearson VUE oder seinem Subunternehmer zu manipulieren, oder wenn ein Dritter in dem Raum gesehen wird, in dem Sie während der physisch sitzen, bricht der Aufsichtsführende die Prüfung sofort ab und meldet den Verstoß zusammen mit Audio- und / oder Videobeweisen an Pearson VUE und Microsoft. Ihre Prüfung kann für ungültig erklärt werden und Microsoft ergreift unter Umständen andere Maßnahmen, wie z. B. Ihre Zertifizierungen zu widerrufen und Sie von jedweder zukünftigen Beteiligung am Microsoft-Zertifizierungsprogramm auszuschließen.
+
+## Melden Sie sich für eine Online-Prüfung an
+
+- Online-Prüfungen, die über Pearson VUE angeboten werden, sind in den meisten Ländern für rollenbasierte Prüfungen oder Grundlagenprüfungen verfügbar. Wenn in Ihrem Land Online-Prüfungen verfügbar sind, sind diese in denselben Sprachen verfügbar wie in den Testzentren in Ihrem Land. Beachten Sie bitte, dass Begrüßungsunterstützung, Unterstützung durch den Aufsichtsführenden und die Beaufsichtigungs-Software nur in einer begrenzten Anzahl von Sprachen verfügbar sind. Sie müssen die Sprache während des Registrationsprozesses zur Prüfung auswählen. Diese kann sich von der Sprache unterscheiden, in der Sie die Prüfung ablegen. Die meisten Kandidaten haben unabhängig von der Sprache der Prüfung nur die Möglichkeit, eine Online-Prüfung mit englischsprachiger Begrüßungsunterstützung, Unterstützung durch den Aufsichtsführenden und Beaufsichtigungs-Software abzulegen.
+Um sich zu registrieren, wählen Sie die Microsoft Online-Prüfung, die Sie ablegen möchten, aus der [Prüfungsliste](/learn/certifications/browse/) aus und klicken Sie dann auf die Schaltfläche **Prüfung planen**. Wenn die Online-Prüfungen in Ihrem Land verfügbar sind, können Sie diese Option bei der Anmeldung zur Prüfung auswählen. Sie wählen auch die Sprache des Begrüßers, des Aufsichtsführenden sowie die Prüfer-Software aus.
 
 ## Starten der Prüfung und des Eincheckvorgangs des Kandidaten
 
@@ -224,7 +250,7 @@ So starten Sie Ihre Tests und stellen die Verbindung zu einem Begrüßer her:
 Sobald Sie mit Ihrem Begrüßer verbunden sind:
 
 - Halten Sie Ihren Führerschein, Ihren Reisepass oder einen anderen akzeptablen Ausweis bereit, damit Ihre Identität überprüft werden kann.
-- Der Begrüßer überprüft das Testverhalten /die Testdurchführung, die Testumgebung und den Kommunikationsprozess während der Durchführung der Prüfung. Die gesamte Kommunikation mit dem Begrüßer und Prüfer wird in Englisch Sprache durchgeführt.
+- Der Begrüßer überprüft das Testverhalten /die Testdurchführung, die Testumgebung und den Kommunikationsprozess während der Durchführung der Prüfung. Die gesamte Kommunikation mit dem Begrüßer und dem Prüfer erfolgt in der Sprache, die Sie bei der Registrierung ausgewählt haben (dies kann sich von der Sprache unterscheiden, in der Sie die Prüfung ablegen).
 - Sie werden aufgefordert, nicht unbedingt erforderliche Anwendungen (z. B. E-Mail oder Chat) herunterzufahren.
 
 Nach Abschluss dieses Vorgangs beginnt die Prüfung. Ihr Prüfer wird während der Prüfung keinen Kontakt mit Ihnen aufnehmen, es sei denn, ein Problem liegt vor.
@@ -237,43 +263,35 @@ Wenn es nach der Prüfung ein Problem gibt, wenden Sie sich an Pearson VUE. Halt
 
 Auf Ergebnisberichte kann über [Ihr Leistungs- und Prüfungs-Dashboard](https://www.microsoft.com/learning/dashboard.aspx) zugegriffen werden.
 
-- Melden Sie sich unter [www.microsoft.com/learning](https://www.microsoft.com/learning) lightboxes.
+- Melden Sie sich bei [Ihrem Leistungs- und Prüfungs-Dashboard](https://www.microsoft.com/learning/dashboard.aspx).
 - Um Ihren Testverlauf anzuzeigen, gehen Sie zu [Ihr Leistungs- und Prüfungs-Dashboard](https://www.microsoft.com/learning/dashboard.aspx) und wählen Sie **Meinen Ergebnisbericht anzeigen**. Von hier aus können Sie Ihren Bewertungsbericht speichern und drucken.
 - Ihre Prüfungsergebnisse (bestanden oder nicht bestanden) werden zur Verarbeitung an Microsoft weitergeleitet.
 - Sobald Ihre Prüfung beendet ist, sollten Sie alle ausführbaren Dateien und Zusatzdateien entfernen, einschließlich des Symbols **Pearson VUE Secure Browser**. Um das Symbol von Ihrem Desktop zu entfernen, klicken Sie mit der rechten Maustaste auf das Symbol, wählen Sie **Löschen** und dann **Ja**.
 - **[Deinstallieren Sie die ausführbare Datei für den Pearson VUE Secure Browser](https://windows.microsoft.com/en-us/windows7/uninstall-or-change-a-program)**.
 
-## Melden Sie sich für eine Online-Prüfung an
-
-Online-Prüfungen sind für rollenbasierte Prüfungen oder Grundlagenprüfungen in teilnehmenden Ländern verfügbar. Wenn die Online-Prüfungen in Ihrem Land verfügbar sind, stehen die Prüfungen in allen Sprachen zur Verfügung, die in den Testcentern in Ihrem Land verfügbar sind. Bitte beachten Sie, dass Unterstützung für Begrüßer und Prüfer sowie Überwachungssoftware derzeit nur in Englisch Sprache zur Verfügung stehen. Microsoft Office Specialist (MOS), Grundlagen und MTA-Prüfungen, die über eine K-12-Schule erworben wurden, sind online nicht verfügbar. Um sich zu registrieren, wählen Sie die Microsoft Online-Prüfung, die Sie ablegen möchten, aus der [Prüfungsliste](https://www.microsoft.com/learning/exam-list.aspx) aus und klicken Sie dann auf die Schaltfläche **Prüfung planen**. Wenn die Online-Prüfungen in Ihrem Land verfügbar sind, können Sie diese Option bei der Anmeldung zur Prüfung auswählen.
-
 ## Häufig gestellte Fragen
 
 Hier finden Sie Antworten auf häufig gestellte Fragen zu online beaufsichtigten Prüfungen.
 
-### Wie kann ich mehr über Online-Prüfungen erfahren?
-
-Microsoft hat ein kurzes Videos veröffentlicht, das zeigt, wie einfach es ist, eine Online-Prüfung zu machen. Das Video ist in einer [YouTube-Wiedergabeliste](https://www.youtube.com/playlist?list=PLahhVEj9XNTceGnF19qSjYxYzS4S_Wlmf) in Englisch oder mit Untertiteln in Arabisch, Französisch, Deutsch, Portugiesisch und Spanisch verfügbar.
-
 ### Woher weiß ich, ob eine Online-Prüfung für mich geeignet ist?
 
-Stellen Sie zunächst sicher, dass Ihr Computer unseren Anforderungen entspricht, indem Sie den erforderlichen [Systemtest](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) ausführen . Lesen Sie, was Sie in Bezug auf [Testsitzungsprotokoll](https://www.microsoft.com/learning/online-proctored-exams.aspx#protocol-label) erwarten können . Wenn Sie irgendwelche Zweifel oder Vorbehalte haben, empfehlen wir, dass Sie Ihre Prüfung in einem Testcenter ablegen.
+Stellen Sie zunächst sicher, dass Ihr Computer unseren Anforderungen entspricht, indem Sie den erforderlichen [Systemtest](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) ausführen. Lesen Sie weiter oben auf dieser Seite, was Sie in Bezug auf das Protokoll der Testsitzung erwarten können. Wenn Sie irgendwelche Zweifel oder Vorbehalte haben, empfehlen wir, dass Sie Ihre Prüfung in einem Testcenter ablegen.
 
 ### Kann ich meine Prüfung online ablegen, auch wenn mein System den Systemtest nicht besteht?
 
-Nein. Sie sollten sich nicht für eine Online-Prüfung anmelden, wenn Ihr System den Systemtest nicht besteht, einschließlich der Sicherstellung, dass Sie ein klares Foto Ihres Ausweises machen können.
+Nein. Sie sollten sich nicht für eine Online-Prüfung anmelden, wenn Ihr System den Systemtest nicht besteht, und Sie sollten keine Online-Prüfung planen, wenn Sie kein klares Foto zu Ihrer Identifikation machen können.
 
 ### Wie melde ich mich für eine Online-Prüfung an?
 
-Um sich zu registrieren, wählen Sie die Microsoft Online-Prüfung, die Sie ablegen möchten, aus der [Prüfungsliste](https://www.microsoft.com/learning/exam-list.aspx) aus und klicken Sie dann auf die Schaltfläche **Prüfung planen**. Wenn die Online-Prüfungen in Ihrem Land verfügbar sind, können Sie diese Option bei der Anmeldung zur Prüfung auswählen.
+Um sich zu registrieren, wählen Sie die Prüfung, die Sie ablegen möchten, aus der [Prüfungsliste](/learn/certifications/browse/) aus und klicken Sie dann auf die Schaltfläche **Prüfung planen**. Wenn die Online-Prüfungen in Ihrem Land verfügbar sind, können Sie diese Option bei der Anmeldung zur Prüfung auswählen.
 
 ### Schummeln scheint viel einfacher zu sein, wenn ich nicht in einem Testzentrum bin. Sind Online-Prüfungen sicher?
 
-Wir unternehmen alles, um die Integrität unserer Prüfungen sicherzustellen, unabhängig davon, wie sie bereitgestellt werden. Wenn Sie eine Online-Prüfung ablegen, müssen Sie zuerst einen sicheren Browser installieren, der strenge Sicherheitsvorkehrungen während des Prüfungsvorgangs erzwingt. Zusätzlich beaufsichtigt Sie ein Prüfer von Pearson VUE während der gesamten Prüfung per Webcam und Mikrofon. Wir überprüfen auch Aufnahmen von Prüfungssitzungen in Fällen, in denen wir Betrug vermuten. Wir sind ziemlich gut im Erkennen von Betrug, sodass wir Ihnen nicht empfehlen, es auszuprobieren – wir widerrufen die Zertifizierungen von Betrügern und schließen sie von zukünftigen Prüfungen aus. ([Lesen Sie die zusätzliche Perspektive von Kerri Davis, einer unserer Anti-Piraterie-PMs](https://www.microsoft.com/en-us/learning/community.aspx).)
+Wir unternehmen alles, um die Integrität unserer Prüfungen sicherzustellen, unabhängig davon, wie sie bereitgestellt werden. Wenn Sie eine Online-Prüfung ablegen, müssen Sie zuerst einen sicheren Browser installieren, der strenge Sicherheitsvorkehrungen während des Prüfungsvorgangs erzwingt. Zusätzlich beaufsichtigt Sie ein Prüfer von Pearson VUE während der gesamten Prüfung per Webcam und Mikrofon. Wir überprüfen auch Aufnahmen von Prüfungssitzungen in Fällen, in denen wir Betrug vermuten. Wir sind ziemlich gut im Erkennen von Betrug, sodass wir Ihnen nicht empfehlen, es auszuprobieren – wir widerrufen die Zertifizierungen von Betrügern und schließen sie von zukünftigen Prüfungen aus.
 
 ### Wenn ich mehrere Prüfungen für eine Zertifizierung ablege, muss ich dann eine einzige Prüfungsmethode auswählen?
 
-Nein, Sie können die Lieferungsmethoden kombinieren (online oder persönlich in einem Testzentrum), da die Prüfungen die gleichen sind.
+Nein, Sie können die Lieferungsmethoden kombinieren (online oder persönlich in einem Testzentrum).
 
 ### Wieviel Zeit habe ich, die Prüfung abzuschließen, nachdem meine Prüfung gestartet und mir ein Prüfer zugewiesen wurde?
 
@@ -281,15 +299,15 @@ Ihnen steht für das Ablegen der Prüfung genauso viel Zeit wie bei der Prüfung
 
 ### Sind Online-Prüfungen schwieriger als Prüfungen in Testzentren?
 
-Nein. Die Prüfungen sind identisch.
+Nein. Die Prüfungen sind in Bezug auf den Schwierigkeitsgrad gleichwertig.
 
 ### Darf ich während meiner Online-Prüfung Notizen machen?
 
-Ja. Die Whiteboard-Funktion bietet die Möglichkeit, Notizen einzugeben oder Formen zu zeichnen. Sie können während der Prüfung auf das Whiteboard zugreifen, indem Sie auf das Radiergummi-Symbol am oberen Bildschirmrand klicken.
+Ja, wenn Sie die Whiteboard-Funktion verwenden, die Teil der Online-Prüfungserfahrung ist (Sie dürfen kein externes Whiteboard verwenden). Die Whiteboard-Funktion bietet die Möglichkeit, Notizen einzugeben oder Formen zu zeichnen. Sie können während der Prüfung auf das Whiteboard zugreifen, indem Sie auf das Radiergummi-Symbol am oberen Bildschirmrand klicken.
 
 ### Sind Online-Prüfungen in mehreren Sprachen verfügbar?
 
-Ja. Wenn die Online-Prüfungen in Ihrem Land verfügbar sind, stehen die Prüfungen in allen Sprachen zur Verfügung, die in den Testcentern in Ihrem Land verfügbar sind. Bitte beachten Sie, dass die Aufsichtssoftware, der Begrüßungssupport und der Aufsichtssupport nur in EnglischSprache verfügbar sind.
+Ja. Wenn in Ihrem Land Online-Prüfungen verfügbar sind, sind diese in denselben Sprachen verfügbar wie in den Testzentren in Ihrem Land. Beachten Sie bitte, dass Begrüßungsunterstützung, Unterstützung durch den Aufsichtsführenden und die Beaufsichtigungs-Software nur in einer begrenzten Anzahl von Sprachen verfügbar sind. Sie müssen die Sprache während des Registrationsprozesses zur Prüfung auswählen. Diese kann sich von der Sprache unterscheiden, in der Sie die Prüfung ablegen. Die meisten Kandidaten haben unabhängig von der Sprache der Prüfung nur die Möglichkeit, eine Online-Prüfung mit englischsprachiger Begrüßungsunterstützung, Unterstützung durch den Aufsichtsführenden und Beaufsichtigungs-Software abzulegen.
 
 ### An wen kann ich mich wenden, wenn ich vor, während oder nach der Online-Prüfung technische Probleme habe?
 
@@ -301,14 +319,14 @@ Bitte überprüfen Sie die aktuelle [ID-Richtlinie](https://home.pearsonvue.com/
 
 ### Wie ändere ich meinen offiziellen Namen?
 
-Ihr Name muss exakt mit dem von Ihnen während des Eincheckvorgangs angegebenen Namen übereinstimmen. Nachdem Sie Ihr Profil zur Prüfungsregistrierung gespeichert haben, können Sie Ihren offiziellen Namen nur ändern, indem Sie sich an Ihr [Microsoft Regional Service Center](https://www.microsoft.com/learning/help) wenden.
+Ihr Name muss exakt mit dem von Ihnen während des Eincheckvorgangs angegebenen Namen übereinstimmen. Wenn Sie Ihr Profil für die Prüfungsregistrierung gespeichert haben, können Sie Ihren legalen Namen nur ändern, indem Sie in unseren moderierten Zertifizierungsunterstützungsforen um Hilfe bitten.
 
 ### Ich habe einen geplanten Termin für eine Online-Prüfung. Wie starte ich sie?
 
-Sie haben bis zu 15 Minuten nach dem geplanten Termin Zeit, um mit der Prüfung zu beginnen. Nach Ablauf der vorgesehenen 15 Minuten sind Sie nicht berechtigt, mit der Prüfung zu beginnen.
+Sie haben bis zu 15 Minuten nach dem geplanten Termin Zeit, um mit der Prüfung zu beginnen. Danach dürfen Sie den Prüfungsprozess jedoch nicht mehr beginnen.
 
 Um Ihre Prüfung zu starten, melden Sie sich in Ihrem [Dashboard für Vorteile und Prüfungen](https://www.microsoft.com/learning/dashboard.aspx) an und klicken Sie auf **Eine zuvor geplante, beaufsichtigte Online-Prüfung starten**. Sie werden auf eine Pearson VUE-Seite weitergeleitet, wo die geplante Prüfung angezeigt wird, und können mit der Prüfung beginnen.
 
 ### Wo finde ich eine Liste der Prüfungsrichtlinien?
 
-Weitere Informationen finden Sie in den [Prüfungsrichtlinien und häufig gestellten Fragen](https://www.microsoft.com/learning/certification-exam-policies.aspx), die für alle Microsoft-Zertifizierungsprüfungen gelten.
+Weitere Informationen finden Sie in den [Prüfungsrichtlinien und häufig gestellten Fragen](/learn/certifications/certification-exam-policies), die für alle Microsoft-Zertifizierungsprüfungen gelten.

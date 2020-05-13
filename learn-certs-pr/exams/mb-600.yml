@@ -6,13 +6,15 @@ metadata:
 uid: exam.mb-600
 displayName: MB-600
 summary: |-
+  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+
   Solution Architects (Lösungsarchitekt) für Microsoft Power Apps modellbasierte Apps in Dynamics 365 implementieren Lösungen, die sich mit umfassenden unternehmerischen und technischen Anforderungen von Organisationen befassen.
 
   Ein Solution Architects (Lösungsarchitekt) verfügt sowohl über das technische als auch das Fachwissen über die modellgesteuerten Power Platform-Anwendungen in Dynamics 365. Diese umfassen Dynamics 365 for Customer Service, Dynamics 365 for Field Service, Dynamics 365 for Marketing sowie Dynamics 365 for Sales, die zugehörige Microsoft Cloud-solutions(Lösungen und) Drittanbieter-Technologien. Der Solution Architects (Lösungsarchitekt) setzt seine Kenntnisse und Erfahrungen während des gesamten Projekt-Lebenszyklus ein. Der Solution Architects (Lösungsarchitekt) führt proaktive und präventive Arbeiten durch, die den Wert der Investition des Kunden steigern und die Gesundheit des Unternehmens fördern. Das erfordert die Fähigkeit, Möglichkeiten zur Lösung von Geschäftsproblemen zu identifizieren.
 
   Solution Architects (Lösungsarchitekt) haben Erfahrung in den fachlichen und technischen Disziplinen der Power Platform und modellgesteuerten Anwendungen in Dynamics 365. Solution Architects (Lösungsarchitekt) sollen in der Lage sein, Designentscheidungen in den Bereichen Entwicklung, Konfiguration, Integration, Infrastruktur, Sicherheit, Verfügbarkeit, Storage und Änderungsmanagement zu erleichtern. In dieser Rolle stellen Lösungsarchitekten die Balance zwischen den fachlichen und nicht-fachlichen geschäftlichen Anforderungen eines Projekts her.
-  
-  <div style='color&#58; red;'><br/>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. Um mehr zu erfahren <a href="/learn/certifications/certification-exams#participating-in-beta-exams">about the value and importance of beta exams</a>.</div>
+
+  <div style='font-weight&#58; bold;'><br/>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. Um mehr zu erfahren <a href="/learn/certifications/certification-exams#participating-in-beta-exams">about the value and importance of beta exams</a>.</div>
 subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Anforderungsanalyse, Lösungskonzeption sowie Entwicklung und Implementierung der Lösung.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
@@ -31,14 +33,19 @@ roles:
 products:
 - dynamics
 - power-apps
+courses:
+- uid: course.mb-600t00
 paths:
 - uid: learn-dynamics.become-solution-architect
 relatedCertifications:
 - related:
     uid: certification.power-apps-and-d365-solution-architect-expert
 resources:
+- title: Lernpfad zur Zertifizirung
+  description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
@@ -58,3 +65,4 @@ resources:
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
+

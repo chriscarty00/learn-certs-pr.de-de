@@ -6,8 +6,11 @@ metadata:
 uid: exam.mb-220
 displayName: MB-220
 summary: |-
-  <div style="color&#58; red; font-weight&#58; bold;">Der Inhalt dieser Prüfung wird im April 2020 aktualisiert. Bitte laden Sie das unten stehende Dokument zur Kompetenzmessung herunter, um mehr zu erfahren.<br/><br/></div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>Der Inhalt dieser Prüfung wird am 19. Mai 2020 aktualisiert. Bitte laden Sie das unten stehende Dokument zu den gemessenen Fähigkeiten herunter, um zu sehen, was sich ändern wird.<br/><br/></div>
+  </div>
+
   Kandidaten für diese Prüfung sind Microsoft Dynamics 365 Customer Engagement Funktionsberater mit Marketingexpertise. Die Kandidaten sind dafür verantwortlich, Lösungen zu implementieren, die Leads gewinnen und konvertieren, Markenbekanntheit aufbauen, Omnichannel-Messaging standardisieren und Marketinginformationen liefern.
 
   Die Kandidaten sind verantwortlich für die Konfiguration und Erweiterung der Kernmarketinganwendung um E-Mail-Marketing, Einrichtung, interaktive Kunden-Erlebnisse, Leads mit personalisierten Erfahrungen, LinkedIn-Integration, Events, Voice of the Customer, Landing Pages, Segmentierung und Scoring sowie die Einhaltung der Allgemeinen Datenschutzverordnung (GDPR).
@@ -22,19 +25,18 @@ locales:
 levels:
 - intermediate
 skills:
-- Der Inhalt dieser Prüfung wird im April 2020 aktualisiert. Bitte laden Sie das unten stehende Dokument zur Kompetenzmessung herunter, um mehr zu erfahren.
-- 'HINWEIS: Die Aufzählungszeichen, die unter den im folgenden Dokument gemessenen Fähigkeiten angezeigt werden, sollen veranschaulichen, wie wir diese Fähigkeiten bewerten. Diese Liste ist nicht endgültig oder vollständig.'
+- Der Inhalt dieser Prüfung wird am 19. Mai 2020 aktualisiert. Bitte laden Sie das unten stehende Dokument zu den gemessenen Fähigkeiten herunter, um zu sehen, was sich ändern wird.
 - Konfigurieren von Marketinganwendungen (5-10%)
-- Verwaltung von Segmenten und Listen (10-15%)
-- Erstellung und Verwaltung von Marketingformularen und Seiten (10-15%)
+- Segmente und Listen verwalten (10-15%)
+- Marketingformulare und Seiten erstellen und verwalten (10-15%)
 - Leads verwalten (10-15%)
-- Erstellung und Verwaltung von Marketing-E-Mails (10-15%)
-- Customer-Journey-Management (15-20%)
+- Erstellen und Verwalten von Marketing-E-Mails (10-15%)
+- Kunden-Journeys verwalten (15-20%)
 - Verwaltung von Veranstaltungen und Webinaren (10-15%)
-- Konfiguration und Analyse der Kundenreaktionen (10-15%)
+- Konfigurieren und Analysieren von Kundenreaktionen (10-15%)
 roles:
 - functional-consultant
-products: 
+products:
 - dynamics
 - dynamics-marketing
 exams:
@@ -50,11 +52,11 @@ relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-marketing
 resources:
-- title: Lernpfad zur Zertifizierung
+- title: Lernpfad zur Zertifizirung
   description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I7b
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
@@ -74,3 +76,4 @@ resources:
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
+

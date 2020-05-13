@@ -1,18 +1,18 @@
 ### YamlMime:Examination
-title: Microsoft Azure IoT Developer (beta)
+title: Microsoft Azure IoT Developer
 metadata:
-  title: 'Exam AZ-220: Microsoft Azure IoT Developer (beta)'
-  description: 'Exam AZ-220: Microsoft Azure IoT Developer (beta)'
+  title: 'Exam AZ-220: Microsoft Azure IoT Developer'
+  description: 'Exam AZ-220: Microsoft Azure IoT Developer'
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
+  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+
   Der Azure IoT-Entwickler ist für die Implementierung und die Codierung verantwortlich, die zum Erstellen und Verwalten des Cloud- und Edge-Teils einer IoT-Lösung erforderlich sind. Neben der Konfiguration und Wartung der Geräte mit Hilfe von Cloud-Diensten richtet der IoT-Entwickler auch die physischen Geräte ein. Der IoT-Entwickler ist für die Wartung der Geräte während des gesamten Lebenszyklus verantwortlich.
 
   Der IoT-Entwickler implementiert Entwürfe für IoT-Lösungen, einschließlich Gerätetopologie, Konnektivität, Debugging und Sicherheit. Der IoT-Entwickler stellt Computer / Container bereit und konfiguriert die Gerätenetzwerke. Der IoT-Entwickler implementiert Entwürfe für Lösungen zur Verwaltung von Datenpipelines, einschließlich Überwachung und Datentransformation in Bezug auf IoT. Der IoT-Entwickler arbeitet mit Dateningenieuren und anderen Interessengruppen zusammen, um eine erfolgreiche Geschäftsintegration sicherzustellen.
 
-  IoT-Entwickler sollten ein gutes Verständnis für die Implementierung der Azure-Dienste haben, die eine IoT-Lösung bilden, einschließlich Datenspeicheroptionen, Datenanalyse, Datenverarbeitung und Plattform-als-Service-Optionen. IoT-Entwickler müssen in der Lage sein, die Konfigurationseinstellungen des Azure IoT-Dienstes im Codeteil einer IoT-Lösung zu erkennen und bestimmte IoT-Codierungsaufgaben in mindestens einer von Azure unterstützten Sprache auszuführen, einschließlich C#, Node, C oder Python.
-  
-  <div style='color&#58; red;'><br/>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. Um mehr zu erfahren <a href="/learn/certifications/certification-exams#participating-in-beta-exams">about the value and importance of beta exams</a>.</div>
+  IoT-Entwickler sollten ein gutes Verständnis für die Implementierung der Azure-Dienste haben, die eine IoT-Lösung bilden, einschließlich Datenspeicheroptionen, Datenanalyse, Datenverarbeitung und Plattform-als-Service-Optionen. IoT-Entwickler müssen in der Lage sein, die Konfigurationseinstellungen des Azure IoT-Dienstes im Codeteil einer IoT-Lösung zu erkennen und bestimmte IoT-Codierungsaufgaben in mindestens einer von Azure unterstützten Sprache auszuführen, einschließlich C #, Node, C oder Python.
 subTitle: 'Dieses Examen misst Ihre Fähigkeit, die IoT-Lösungsinfrastruktur zu implementieren. Bereitstellung und Verwaltung von Geräten; Implementieren von Lösungen auf Azure IoT Edge-Geräten; Daten verarbeiten und verwalten; Überwachung, Fehlerbehebung und Optimierung von IoT-Lösungen; und Sicherheit implementieren. '
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
@@ -22,10 +22,9 @@ locales:
 levels:
 - intermediate
 skills:
-- 'HINWEIS: Die Aufzählungszeichen, die unter den im folgenden Dokument gemessenen Fähigkeiten angezeigt werden, sollen veranschaulichen, wie wir diese Fähigkeiten bewerten. Diese Liste ist nicht endgültig oder vollständig.'
 - Implementierung der IoT-Lösungsinfrastruktur (15-20%)
-- Bereitstellung und Verwaltung von Geräten (20-25%) 
-- Implementieren von Edge (15-20%)
+- Bereitstellung und Verwaltung von Geräten (20-25%)
+- Edge implementieren (15-20%)
 - Daten verarbeiten und verwalten (15-20%)
 - Überwachung, Fehlerbehebung und Optimierung von IoT-Lösungen (15-20%)
 - Sicherheit implementieren (15-20%)
@@ -37,12 +36,17 @@ products:
 - azure-iot-hub
 courses:
 - uid: course.az-220t00
+paths:
+- uid: learn.introduction-to-azure-iot
+- uid: learn.securely-connect-iot-devices-to-cloud
+- uid: learn.build-intelligent-edge-with-azure-iot-edge
+- uid: learn-develop-solutions-with-azure-iot-central
 relatedCertifications:
 - related:
     uid: certification.azure-iot-developer-specialty
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
@@ -62,3 +66,4 @@ resources:
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
+

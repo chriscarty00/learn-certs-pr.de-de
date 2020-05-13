@@ -1,4 +1,4 @@
-﻿### YamlMime:Course
+### YamlMime:Course
 title: Migrate NoSQL workloads to Azure Cosmos DB
 metadata:
   title: 'Course DP-060T00-A: Migrate NoSQL workloads to Azure Cosmos DB'
@@ -9,8 +9,8 @@ hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Aufbau global verteilter Anwendungen mit Cosmos DB
-- skill: MongoDBWorkloads auf Cosmos DB migrieren
-- skill: CassandraDBWorkloads auf Cosmos DB migrieren
+- skill: MongoDB Workloads auf Cosmos DB migrieren
+- skill: Cassandra DB Workloads auf Cosmos DB migrieren
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -21,13 +21,13 @@ roles:
 products:
 - azure
 summary: |-
-  In diesem Kurs lernen die Teilnehmer, was Cosmos DB ist und wie Sie die MongoDB und CassandraWorkloads auf Cosmos DB migrieren können.
+  In diesem Kurs lernen die Teilnehmer, was Cosmos DB ist und wie Sie die MongoDB und Cassandra Workloads auf Cosmos DB migrieren können.
 
   #### Zielgruppenprofil
-  Die Hauptzielgruppe für diesen Kurs sind Datenbankentwickler, die planen, ihre MongoDB oder CassandraDBWorkloads mit Cosmos DB nach Azure zu migrieren.
+  Die Hauptzielgruppe für diesen Kurs sind Datenbankentwickler, die planen, ihre MongoDB oder Cassandra DB Workloads mit Cosmos DB nach Azure zu migrieren.
 prerequisitesSection: |-
   Zusätzlich zu ihrer Berufserfahrung sollten Kandidaten, die den Kurs besuchen, bereits über die folgenden technischen Kenntnisse verfügen&#58;
-  Die grundlegenden Konzepte der Partitionierung, Replikation und Ressourcenverwaltung für die Erstellung und Konfiguration skalierbarer NoSQL-Anwendungen, die sich nicht an eine Cosmos DBAPI anlehnen.
+  - Die grundlegenden Konzepte der Partitionierung, Replikation und Ressourcenverwaltung für die Erstellung und Konfiguration skalierbarer NoSQL-Anwendungen, die sich nicht an eine Cosmos DBAPI anlehnen.
 outlineSection: |-
   ### Modul 1&#58; Aufbau global verteilter Anwendungen mit Cosmos DB
   Dieses Modul beschreibt die Vorteile und Architektur von Cosmos DB.
@@ -45,7 +45,7 @@ outlineSection: |-
 
 
   ### Modul 2&#58; Das Migrieren von MongoDB Workloads auf Cosmos DB
-  MongoDBWorkloads auf Cosmos DB migrieren
+  MongoDB Workloads auf Cosmos DB migrieren
   #### Lektionen
   Verständnis der Vorteile der Migration verstehen
   Planung der Migration
@@ -54,31 +54,31 @@ outlineSection: |-
   - Überlegungen zur Migration
 
 
-  ##### Labor &#58; Migrieren von MongoDB Workloads auf Cosmos DB
-  Erstellen Sie ein Migrationsprojekt
-  Quelle und Ziel definieren
+  #### Labor &#58; Migrieren von MongoDB Workloads auf Cosmos DB
+  - Erstellen Sie ein Migrationsprojekt
+  - Quelle und Ziel definieren
   - Migration durchführen
   - Migration verifizieren
 
   Am Ende dieses Moduls können die Teilnehmer&#58;
-  Verständnis der Vorteile der Migration verstehen
-  Migrationsplanung durchführen
+  - Verständnis der Vorteile der Migration verstehen
+  - Migrationsplanung durchführen
   - Durchführen der Datenmigration
   - Anwendungsmigration durchführen
-  - Überlegungen zur PostMigration unternehmen
+  - Überlegungen zur Post-Migration unternehmen
 
 
-  ### Modul 3&#58; Migration von CassandraDB Workloads auf Cosmos DB
-  Dieses Modul beschreibt die Vorteile und den Prozess der Migration von CassandraDB Workloads auf Cosmos DB.
+  ### Modul 3&#58; Migration von Cassandra DB Workloads auf Cosmos DB
+  Dieses Modul beschreibt die Vorteile und den Prozess der Migration von Cassandra DB Workloads auf Cosmos DB.
   #### Lektionen
-  Verständnis der Vorteile der Migration verstehen
-  Planung der Migration
+  - Verständnis der Vorteile der Migration verstehen
+  - Planung der Migration
   - Datenmigration
   ­- Anwendungsmigration
   - Überlegungen zur Migration
 
 
-  ##### Labor&#58; Migrieren von CassandraDB Workloads auf Cosmos DB
+  #### Labor&#58; Migrieren von Cassandra DB Workloads auf Cosmos DB
   - Exportieren des Schemas
   - Daten mit CQLSH COPY verschieben
   - Daten mit Spark verschieben
@@ -93,3 +93,4 @@ outlineSection: |-
 
   #### Additional Reading
   Für die Teilnahme an diesem Kurs ist keine zusätzliche Lektüre erforderlich.
+

@@ -1,8 +1,8 @@
-﻿### YamlMime:Course
-title: Microsoft 365 Security Management
+### YamlMime:Course
+title: Microsoft 365 Security Administration
 metadata:
-  title: 'Course MS-500T00-A: Microsoft 365 Security Management'
-  description: 'Course MS-500T00-A: Microsoft 365 Security Management'
+  title: 'Course MS-500T00-A: Microsoft 365 Security Administration'
+  description: 'Course MS-500T00-A: Microsoft 365 Security Administration'
 uid: course.ms-500t00
 courseNumber: 'MS-500T00-A'
 hoursToComplete: 96
@@ -10,11 +10,11 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Verwalten der Benutzer und Gruppenzugriff in Microsoft 365.
 - skill: Beschreiben und Verwalten der Funktionen von Azure Identity Protection.
-- skill: Planen und Implementieren von Azure AD Connect
-- skill: Verwalten synchronisierter Identitäten
+- skill: Planen und Implementieren von Azure AD Connect.
+- skill: Verwalten synchronisierter Identitäten.
 - skill: Beschreiben und Verwenden des bedingten Zugriffs.
 - skill: Beschreiben der Bedrohungsvektoren für Cyberangriffe.
-- skill: Beschreiben von Sicherheitslösungen für Microsoft 365
+- skill: Beschreiben von Sicherheitslösungen für Microsoft 365.
 - skill: Microsoft Secure Score verwenden, um Ihre Sicherheitslage zu bewerten.
 - skill: Verschiedene erweiterte Bedrohungsschutzdienste für Microsoft 365.
 - skill: Konfigurieren fortgeschrittener Bedrohungsanalysen.
@@ -39,23 +39,23 @@ products:
 exams:
 - uid: exam.ms-500
 summary: |-
-  In diesem Kurs lernen Sie, wie Sie den Benutzerzugriff auf die Ressourcen Ihrer Organisation sichern. Der Kurs behandelt den Schutz von Benutzerkennwörtern, MultiFaktorAuthentifizierung, die Aktivierung von Azure-Identitätsschutz, die Einrichtung und Verwendung von Azure AD Connect und führt Sie in die Zugangskontrolle in Microsoft 365 ein.
-  Sie lernen Technologien zum Schutz vor Bedrohungen kennen, die zum Schutz Ihrer Microsoft 365Umgebung beitragen. Insbesondere werden Sie über die Bedrohungsvektoren und die Sicherheitslösungen von Microsoft zur Eindämmung von Bedrohungen lernen. Sie erfahren etwas über Secure Score, Exchange OnlineSchutz, Azure Advanced Threat Protection, Windows Defender Advanced Threat Protection und Bedrohungsmanagement
+  In diesem Kurs lernen Sie, wie Sie den Benutzerzugriff auf die Ressourcen Ihrer Organisation sichern. Der Kurs behandelt den Schutz von Benutzerkennwörtern, Multi-Faktor Authentifizierung, die Aktivierung von Azure-Identitätsschutz, die Einrichtung und Verwendung von Azure AD Connect und führt Sie in die Zugangskontrolle in Microsoft 365 ein.
+  Sie lernen Technologien zum Schutz vor Bedrohungen kennen, die zum Schutz Ihrer Microsoft 365 Umgebung beitragen. Insbesondere werden Sie über die Bedrohungsvektoren und die Sicherheitslösungen von Microsoft zur Eindämmung von Bedrohungen lernen. Sie erfahren etwas über Secure Score, Exchange Online Schutz, Azure Advanced Threat Protection, Windows Defender Advanced Threat Protection und Bedrohungsmanagement.
   In diesem Kurs erfahren Sie mehr über Informationsschutztechnologien, mit denen Sie Ihre Microsoft 365-Umgebung schützen können. In diesem Kurs werden speziell mit Informationsrechten verwaltete Inhalte, Nachrichtenverschlüsselung sowie Beschriftungen, Richtlinien und Regeln behandelt, die die Verhinderung von Datenverlust und den Schutz von Informationen unterstützen.
   Abschließend, in diesem Kurs lernen Sie die Archivierung und Aufbewahrung in Microsoft 365 sowie die Datenverwaltung und das Durchführen von Inhaltssuchen und -untersuchungen. In diesem Kurs werden insbesondere die Richtlinien und Tags für die Datenaufbewahrung, die direkte Datensatzverwaltung für SharePoint, die E-Mail-Aufbewahrung und die Durchführung von Inhaltssuchen behandelt, die eDiscovery-Untersuchungen unterstützen.
 
   #### Zielgruppenprofil
   Der Microsoft 365 Security Administrator arbeitet mit einem Microsoft 365 Enterprise Administrator den Geschäftsteilhabern und anderen Workload Administratoren für Planung und Implementierung von Sicherheitsstrategien zur Gewährleistung zusammen, dass die Lösungen mit den Richtlinien und Bestimmungen der Organisation übereinstimmen.
   Diese Rolle sichert proaktiv Microsoft 365-Unternehmensumgebungen. Zu den Aufgaben gehören das Reagieren auf Bedrohungen, das Implementieren, Verwalten und Überwachen von Sicherheits- und Compliance-Lösungen für die Microsoft 365-Umgebung. Sie reagieren auf Vorfälle, Untersuchungen und die Durchsetzung von Data Governance.
-  Der Microsoft 365Sicherheitsadministrator ist mit Microsoft 365Workloads und hybriden Umgebungen vertraut. Diese Rolle verfügt über starke Fähigkeiten und Erfahrungen mit Identitätsschutz, Informationsschutz, Bedrohungsschutz, Sicherheitsmanagement und Datenverwaltung.
+  Der Microsoft 365 Sicherheitsadministrator ist mit Microsoft 365Workloads und hybriden Umgebungen vertraut. Diese Rolle verfügt über starke Fähigkeiten und Erfahrungen mit Identitätsschutz, Informationsschutz, Bedrohungsschutz, Sicherheitsmanagement und Datenverwaltung.
 prerequisitesSection: |-
   Die Lernenden sollten diesen Kurs bereits mit den folgenden Fähigkeiten beginnen&#58;
-  - Grundlegendes konzeptionelles Verständnis von Microsoft Azure
-  - Erfahrung mit Windows 10-Geräten
+  - Grundlegendes konzeptionelles Verständnis von Microsoft Azure.
+  - Erfahrung mit Windows 10-Geräten.
   - Erfahrung mit Office 365.
-  - Grundlegendes Verständnis von Autorisierung und Authentifizierung
-  - Grundlegendes Verständnis von Computernetzwerken
-  - Grundkenntnisse in der Verwaltung mobiler Geräte
+  - Grundlegendes Verständnis von Autorisierung und Authentifizierung.
+  - Grundlegendes Verständnis von Computernetzwerken.
+  - Grundkenntnisse in der Verwaltung mobiler Geräte.
 outlineSection: |-
   ### Modul 1&#58; Benutzer und Gruppenschutz
   In diesem Modul wird das Verwalten von Benutzerkonten und Gruppen in Microsoft 365 erläutert. Es führt Sie in das privilegierte Identitätsmanagement in Azure AD sowie in den Identitätsschutz ein. Das Modul legt den Grundstein für den weiteren Verlauf des Kurses.
@@ -69,7 +69,7 @@ outlineSection: |-
 
 
   #### Labor &#58; Initialisieren Ihres Probanden.
-  - Richten Sie Ihren Microsoft 365Probanden ein
+  Richten Sie Ihren Microsoft 365 Probanden ein
 
 
   #### Labor &#58; Privilegierte Identitätsverwaltung konfigurieren
@@ -78,15 +78,15 @@ outlineSection: |-
   - Aktivieren und Deaktivieren von PIM-Rollen
   - Verzeichnis-Rollen (allgemein)
   - PIM-Ressourcen-Workflows
-  - Prüfungsverlauf für Azure ADRollen in PIM anzeigen
+  - Prüfungsverlauf für Azure AD Rollen in PIM anzeigen
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
   - Erstellen und Verwalten von Benutzerkonten.
-  - Beschreiben und Verwenden von Microsoft 365-Administratorrollen
-  - Kennwortrichtlinien und Authentifizierung planen
+  - Beschreiben und Verwenden von Microsoft 365-Administratorrollen.
+  - Kennwortrichtlinien und Authentifizierung planen.
   - Beschreiben der Konzepte der Zero Trust-Sicherheit
-  - Implementieren der Multifaktorauthentifizierung in Office 365
-  - Aktivieren des Azur-Identitätsschutzes
+  - Implementieren der Multifaktorauthentifizierung in Office 365.
+  - Aktivieren des Azure-Identitätsschutzes
 
 
   ### Modul 2&#58; Identitätssynchronisation
@@ -103,11 +103,11 @@ outlineSection: |-
   - Einrichten Ihrer Organisation für die Identitätssynchronisierung
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Beschreiben der Authentifizierungsoptionen für Microsoft 365.
-  - Die Verzeichnissynchronisierung erläutern
-  - Die Verzeichnissynchronisierung planen
+  Beschreiben der Authentifizierungsoptionen für Microsoft 365.
+  - Die Verzeichnissynchronisierung erläutern.
+  - Die Verzeichnissynchronisierung planen.
   - Beschreiben von Azure AD Connect und seine Verwendung.
-  - Voraussetzungen für Azure AD Connect konfigurieren
+  - Voraussetzungen für Azure AD Connect konfigurieren.
   - Verwalten der Benutzer und Gruppen mit der Verzeichnissynchronisierung.
   - Beschreiben des Active Directory-Verbunds.
 
@@ -122,14 +122,14 @@ outlineSection: |-
 
 
   #### Labor &#58; Bedingten Zugriff verwenden, um MFA zu aktivieren
-  MFAAuthentifizierungsPilot (MFA für bestimmte Anwendungen erforderlich)
-  Bedingter MFAZugang (Abschluss einer MFAEinführung)
+  MFA Authentifizierungs Pilot (MFA für bestimmte Anwendungen erforderlich)
+  Bedingter MFA Zugang (Abschluss einer MFA Einführung)
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Beschreiben Sie das Konzept des bedingten Zugriffs
+  - Beschreiben Sie das Konzept des bedingten Zugriffs.
   - Beschreiben und verwenden Sie Richtlinien zur Zugangskontrolle.
-  - Planen der Gerätekonformität
-  - Bedingte Benutzer und Gruppen konfigurieren
+  - Planen der Gerätekonformität.
+  - Bedingte Benutzer und Gruppen konfigurieren.
   - Konfigurieren Sie eine rollenbasierte Zugriffskontrolle.
 
 
@@ -150,7 +150,7 @@ outlineSection: |-
   - Beschreiben Sie die Techniken, die Angreifer verwenden, um die Kontrolle über die Ressourcen zu erlangen.
   - Die Arten von Bedrohungen auflisten, die mit Exchange Online Protection und Office 365 ATP vermieden werden können.
   - Die Vorteile von Secure Score beschreiben und welche Arten von Diensten analysiert werden können.
-  - Beschreiben Sie, wie Sie Secure Score verwenden, um Lücken in Ihrer aktuellen Microsoft 365Sicherheitsposition zu identifizieren.
+  - Beschreiben Sie, wie Sie Secure Score verwenden, um Lücken in Ihrer aktuellen Microsoft 365 Sicherheitsposition zu identifizieren.
 
 
   ### Modul 5&#58; Erweiterter Bedrohungsschutz
@@ -171,7 +171,7 @@ outlineSection: |-
   - Die Anti-Malware-Pipeline beschreiben, während E-Mails von Exchange Online Protection analysiert werden.
   - Beschreiben, wie sichere Anhänge verwendet werden, um Zero-Day-Malware in E-Mail-Anhängen und Dokumenten zu blockieren.
   - Beschreiben Sie, wie sichere Links Benutzer vor böswilligen URLs schützen, die in E-Mails und Dokumenten eingebettet sind und auf die verwiesen wird.
-  - Erweiterten Bedrohungsschutz in konfigurieren.
+  - Erweiterten Bedrohungsschutz in Azure konfigurieren. 
   - Konfigurieren von Windows Defender ATP.
 
 
@@ -184,21 +184,21 @@ outlineSection: |-
   - Konfigurieren der erweiterten Bedrohungsanalyse
 
 
-  ##### Labor &#58; Benutzung des Angriffssimulators
-  - Durchführung einer simulierten SpearPhishingAttacke
-  - Simulierte Passwortangriffe durchführen
+  #### Labor &#58; Benutzung des Angriffssimulators
+  Durchführung einer simulierten Spear Phishing Attacke
+  Simulierte Passwortangriffe durchführen
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
   - Beschreiben, wie man mit dem Threat Explorer Bedrohungen untersuchen und Ihren Mandanten schützen können.
-  Beschreiben Sie, wie das Security Dashboard Führungskräften auf C-Level einen Einblick in die wichtigsten Risiken und Trends gibt.
-  - Beschreiben, was die erweiterte Bedrohungsanalyse (ATA) ist und welche Anforderungen für die Bereitstellung erforderlich sind.
+  - Beschreiben Sie, wie das Security Dashboard Führungskräften auf C-Level einen Einblick in die wichtigsten Risiken und Trends gibt.
+  - Beschreiben, was die erweiterte Bedrohungsanalyse (ATA) ist und welche Anforderungen für die - Bereitstellung erforderlich sind.
   - Konfigurieren fortgeschrittener Bedrohungsanalysen.
   - Verwenden Sie den Angriffssimulator in Microsoft 365.
   - Beschreiben Sie, wie Azure Sentinel für Microsoft 365 verwendet werden kann.
 
 
   ### Modul 7&#58; Mobilität
-  Dieses Modul konzentriert sich auf die Sicherung mobiler Geräte und Anwendungen.  Sie erfahren etwas über die Verwaltung mobiler Geräte und wie sie mit Microsoft Intune funktioniert. Sie erfahren auch, wie Intune und Azure AD zur Sicherung mobiler Anwendungen eingesetzt werden können.
+  Dieses Modul konzentriert sich auf die Sicherung mobiler Geräte und Anwendungen. Sie erfahren etwas über die Verwaltung mobiler Geräte und wie sie mit Microsoft Intune funktioniert. Sie erfahren auch, wie Intune und Azure AD zur Sicherung mobiler Anwendungen eingesetzt werden können.
   #### Lektionen
   - Planung für das Mobile App Management
   - Verwaltung mobiler Anwendungen planen
@@ -224,14 +224,14 @@ outlineSection: |-
   ### Modul 8&#58; Informationsschutz
   Das Modul erklärt, wie Azure Information Protection und Windows Information Protection implementiert werden können.
   #### Lektionen
-  - Konzepte für den Informationsschutz
+  Konzepte für den Informationsschutz
   - Azure Informationsschutz
   - erweiterten Informationsschutzes
   - Windows-Informationsschutz
 
 
-  ##### Labor &#58; Azure Information Protection und Windows Information Protection implementieren
-  - Implementierung des Schutzes azurblauer Informationen
+  #### Labor &#58; Azure Information Protection und Windows Information Protection implementieren
+  - Azure-Informationsschutz implementieren
   - Implementieren von Windows Informationsschutz
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
@@ -254,8 +254,8 @@ outlineSection: |-
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
   - Beschreiben der verschiedenen Microsoft 365 Verschlüsselungsoptionen.
-  - Die Verwendung von S / MIME beschreiben.
-  - Beschreiben der Office 365Nachrichtenverschlüsselung und ihre Aktivierung.
+  - Die Verwendung von S/MIME beschreiben.
+  - Beschreiben der Office 365 Nachrichtenverschlüsselung und ihre Aktivierung.
 
 
   ### Modul 10&#58; Prävention von Datenverlust
@@ -308,8 +308,8 @@ outlineSection: |-
   - Planen von Sicherheits- und Compliance-Rollen.
   - Beschreiben, was Sie für die DSGVO beachten müssen.
   - Beschreiben, was eine ethische Mauer in Exchange ist und wie sie funktioniert.
-  - Arbeiten Sie mit Aufbewahrungstags in Postfächern
-  - Beschreiben von Aufbewahrungsrichtlinien mit E-Mail-Nachrichten und E-Mail-Ordnern
+  - Arbeiten Sie mit Aufbewahrungstags in Postfächern.
+  - Beschreiben von Aufbewahrungsrichtlinien mit E-Mail-Nachrichten und E-Mail-Ordnern.
   - Erklären Sie, wie das Retentionsalter der Elemente berechnet wird.
   - Reparieren Sie Aufbewahrungsrichtlinien, die nicht wie erwartet funktionieren.
 
@@ -325,8 +325,8 @@ outlineSection: |-
   - In-Place Dokumentenverwaltung in SharePoint
 
 
-  ##### Labor &#58; Einhaltung und Beibehaltung
-  Konformität initialisieren
+  #### Labor &#58; Einhaltung und Beibehaltung
+  - Konformität initialisieren
   - Konfigurieren von Aufbewahrungstags und Richtlinien
 
   Nach Abschluss dieses Moduls können die Teilnehmer&#58;
@@ -358,3 +358,4 @@ outlineSection: |-
   - Kriterien für die Suche im Überwachungsprotokoll eingeben.
   - Beschreiben der erweiterten eDiscovery in Microsoft 365.
   - Das erweiterte eDiscovery-Ereignisprotokoll anzeigen.
+

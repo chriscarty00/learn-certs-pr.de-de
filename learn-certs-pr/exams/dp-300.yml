@@ -6,13 +6,15 @@ metadata:
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
+  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+
   Kandidaten für dieses Examen sind Datenbankadministratoren und Datenverwaltungsspezialisten, die vor Ort und in Beziehung zu Cloud stehende Datenbanken verwalten, die auf Microsoft SQL Server- und Microsoft Azure-Datendiensten basieren.
-  
-  'Der Azure-Database Administrator implementiert und verwaltet die betrieblichen Aspekte von Cloud-nativen und hybriden Datenplattformlösungen, die auf Microsoft Azure Data Services und Microsoft SQL Server basieren. Der Azure-Datenbankadministrator verwendet eine Vielzahl von Methoden und Tools, um alltägliche Vorgänge auszuführen, einschließlich der Anwendung von Kenntnissen über die Verwendung von T-SQL für Verwaltungsverwaltungszwecke.
-  
+
+  Der Azure-Database Administrator implementiert und verwaltet die betrieblichen Aspekte von Cloud-nativen und hybriden Datenplattformlösungen, die auf Microsoft Azure Data Services und Microsoft SQL Server basieren. Der Azure-Datenbankadministrator verwendet eine Vielzahl von Methoden und Tools, um alltägliche Vorgänge auszuführen, einschließlich der Anwendung von Kenntnissen über die Verwendung von T-SQL für Verwaltungsverwaltungszwecke.
+
   Diese Rolle ist verantwortlich für die Verwaltung, Verfügbarkeit, Sicherheit und Leistungsüberwachung sowie die Optimierung moderner relationaler Datenbanklösungen. Diese Rolle arbeitet mit der Azure Data Engineer-Rolle zusammen, um betriebliche Aspekte von Datenplattformlösungen zu verwalten.
-  
-  <div style='color&#58; red;'><br/><strong>Hinweis&#58; Dieses Beta-Examen ist erst ab 2. April 2020 verfügbar.</strong> Diese Informationen sind nicht endgültig und es kann zu geringfügigen Änderungen kommen, nachdem das beta Examen veröffentlicht wurde.</div>
+
+  <div style='font-weight&#58; bold;'><br/>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. Um mehr zu erfahren <a href="/learn/certifications/certification-exams#participating-in-beta-exams">about the value and importance of beta exams</a>.</div>
 subTitle: 'Dieses Examen misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Planen und Implementieren von Datenplattformressourcen; eine sichere Umgebung implementieren; Überwachung und Optimierung der Betriebsressourcen; Abfrageleistung optimieren; Automatisierung von Aufgaben durchführen; Planen und Implementieren einer HADR-Umgebung (High Availability and Disaster Recovery); und die Verwaltung mit T-SQL durchführen. '
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
@@ -22,27 +24,30 @@ locales:
 levels:
 - intermediate
 skills:
-- Planen und Implementieren Sie Datenplattformressourcen (15-20%)
+- Planen und Implementieren von Datenplattformressourcen (15-20%)
 - Implementieren Sie eine sichere Umgebung (15-20%)
-- Überwachung und Optimieren Sie die Betriebsressourcen (15-20%)
+- Überwachung und Optimierung der Betriebsressourcen (15-20%)
 - Optimieren Sie die Abfrageleistung (5-10%)
-- Automatisieren Sie Durchführung von Aufgaben (10-15%)
-- Planen und Implementieren Sie eine HADR-Umgebung (High Availability and Disaster Recovery) (15-20%)
+- Automatisierung von Aufgaben durchführen (10-15%)
+- Planen und Implementieren einer HADR-Umgebung (High Availability and Disaster Recovery) (15-20%)
 - Führen Sie die Administration mit T-SQL durch (10-15%)
 roles:
-- administrator
+- database-administrator
 products:
 - azure
 - azure-automation
+- azure-database-mysql
+- azure-database-postgresql
 - azure-sql-database
 - azure-storage
 - azure-virtual-machines
+- sql-server
 relatedCertifications:
 - related:
     uid: certification.azure-database-administrator-associate
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
@@ -62,3 +67,4 @@ resources:
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
+

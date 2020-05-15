@@ -1,4 +1,4 @@
-﻿### YamlMime:Certification
+### YamlMime:Certification
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
   title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
@@ -6,6 +6,8 @@ metadata:
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+
   Architekten von Azure for SAP Workloads verfügen über umfangreiche Erfahrung und Kenntnisse des SAP Landscape-Zertifizierungsprozesses und der Branchenstandards, die speziell für den langfristigen Betrieb einer SAP-Lösung gelten.
 subTitle: Architekten von Azure for SAP Workloads verfügen über umfangreiche Erfahrung und Kenntnisse des SAP Landscape-Zertifizierungsprozesses und der Branchenstandards, die speziell für den langfristigen Betrieb einer SAP-Lösung gelten.
 levels:
@@ -15,14 +17,15 @@ skills:
 - SAP-Workloads nach Azure übertragen
 - Erstellen einer Azure-Lösung zur Unterstützung von SAP-Workloads
 - Erstellen und Bereitstellen von Azure SAP Workloads
-- Überprüfung der Azure Infrastruktur für SAP-Workloads
-- Operationalisierung der Azure SAP-Architektur
+- Azure-Infrastruktur für SAP-Workloads überprüfen
+- Operationalisieren der Azure SAP-Architektur
 roles:
 - administrator
 - solution-architect
 type: specialty
 products:
 - azure
+- azure-sap
 courses:
 - uid: course.az-120t00
 paths:
@@ -48,3 +51,4 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,6 +1,6 @@
-﻿---
+---
 title: 'Werden Sie ein Microsoft-zertifizierter Trainer | Microsoft Docs'
-description: 'Werden Sie ein Microsoft-zertifizierter Trainer' 
+description: 'Werden Sie ein Microsoft-zertifizierter Trainer'
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -29,11 +29,11 @@ Darüber hinaus haben Sie Zugang zu [MCT Central](https://www.microsoft.com/en-u
 
 [Informieren Sie sich über alle Vorteile, die MCTs bieten.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE23o0Z)
 
-### <a name="mctinfoheading-3"></a> Anforderungen
+## Anforderungen
 
 Das MCT-Programm richtet sich an Trainer auf der ganzen Welt, die aktiv Schulungen zu Microsoft-Technologien anbieten. Wenn Sie über eine entsprechende Zertifizierung oder Qualifizierung verfügen und leidenschaftlich gern Schulungen zu Microsoft-Technologien geben, sollten Sie darüber nachdenken, sich für das Programm zu bewerben.
 
-Detaillierte Informationen zu den Anforderungen an das MCT-Programm finden Sie im MCT-Programmleitfaden und in der MCT-Programmvereinbarung im Abschnitt [Antragsverfahren](#mctinfoheading-4) auf dieser Seite.
+Detaillierte Informationen zu den Anforderungen an das MCT-Programm finden Sie im MCT-Programmleitfaden und in der MCT-Programmvereinbarung im Abschnitt [Antragsverfahren](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) auf dieser Seite.
 
 
 ### Einstiegsanforderungen für das MCT-Programm
@@ -66,7 +66,7 @@ Detaillierte Informationen zu den Anforderungen an das MCT-Programm finden Sie i
 - Besitz einer aktuellen, für das MCT-Programm infrage kommenden Microsoft-Zertifizierung oder -Qualifizierung.
 (Siehe unten zur Liste der Qualifizierungszertifikate)
 
-- Erfüllen der Mindestanforderungen für „Teaching at least one Class", geprüft von [Metrics that Matter (MTM)](http://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) ODER durch ein anderes anerkanntes Umfrage-Tool.
+- Erfüllen der Mindestanforderungen für „Teaching at least one Class”, geprüft von [Metrics that Matter (MTM)](http://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) ODER durch ein anderes anerkanntes Umfrage-Tool.
 
 **Hinweis** Die Verlängerungsbedingungen können sich ändern.
 
@@ -100,15 +100,15 @@ Detaillierte Informationen zu den Anforderungen an das MCT-Programm finden Sie i
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
 - [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate)
 - [Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
-- [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting (Ablauf 30. Juni 2020), Microsoft Dynamics 365 for Operations (Ablauf 30. Juni 2020), SQL 2016 BI Development (Ablauf 30. Juni 2020), SQL 2016 Database Administration (Ablauf 30. Juni 2020), SQL 2016 Database Development (Ablauf 30. Juni 2020), SQL Server 2012/2014 (Ablauf 30. Juni 2020), Universal Windows Platform (Ablauf 30. Juni 2020), Web Applications (Ablauf 30. Juni 2020), Windows Server 2012 (Ablauf 30. Juni 2020), or Windows Server 2016 (Ablauf 30. Juni 2020)
-- [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Business Applications (Ablauf 30. Juni 2020), Data Management and Analytics (Ablauf 30. Juni 2020), Productivity (Ablauf 30. Juni 2020), oder Core Infrastructure (Ablauf 30. Juni 2020)
-- [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): App Builder (Ablauf 30. Juni, 2020)
+- [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting (Ablauf Sonntag, 31. Januar 2021), Microsoft Dynamics 365 for Operations (Ablauf Sonntag, 31. Januar 2021), SQL 2016 BI Development (Ablauf Sonntag, 31. Januar 2021), SQL 2016 Database Administration (Ablauf Sonntag, 31. Januar 2021), SQL 2016 Database Development (Ablauf Sonntag, 31. Januar 2021), SQL Server 2012/2014 (Ablauf Sonntag, 31. Januar 2021), Universal Windows Platform (Ablauf Sonntag, 31. Januar 2021), Web Applications (Ablauf Sonntag, 31. Januar 2021), Windows Server 2012 (Ablauf Sonntag, 31. Januar 2021), or Windows Server 2016 (Ablauf Sonntag, 31. Januar 2021)
+- [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Business Applications (Ablauf Sonntag, 31. Januar 2021), Data Management and Analytics (Ablauf Sonntag, 31. Januar 2021), Productivity (Ablauf Sonntag, 31. Januar 2021), oder Core Infrastructure (Ablauf Sonntag, 31. Januar 2021)
+- [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): App Builder (Ablauf 31. Januar, 2021)
 - Dynamics CRM Dynamics Technical (Wird eingestellt am 31. Dezember 2019) - [Verstehen der Anforderungen, die mit jeder Microsoft Dynamics Qualifikation und Zertifizierung verbunden sind](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm).
 - [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Microsoft Office Specialist: Associate (Office 365 and Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019) or [Microsoft Office Specialist: Expert (Office 365 und Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
  
 **Hinweis** Microsoft-Zertifizierungen und Qualifizierungen, die für das MCT-Programm qualifizieren, können Änderungen unterliegen. Alle neuen funktionsspezifischen Zertifizierungen kommen nach ihrer Veröffentlichung für das MCT-Programm in Frage. Zertifizierungen, die aus dem Programm genommen wurden, sind noch bis zu 6 Monate nach dem Datum der Herausnahme als Qualifikation für das MCT-Programm gültig. [Mehr über aus dem Programm genommene Zertifizierungen erfahren Sie hier](https://www.microsoft.com/learning/retired-certifications.aspx).
 
-## <a name="mctinfoheading-4"></a> Antragsverfahren
+## Antragsverfahren
 
 Wenn Sie MCT werden wollen, lesen Sie bitte den MCT Program Guide sowie die MCT-Programmvereinbarung, um mehr über die Bedingungen der Mitgliedschaft zu erfahren.
 
@@ -186,7 +186,7 @@ MCT-Alumni sind bei einer Rückkehr in eine aktive Trainertätigkeit herzlich ei
 
 So werden Sie wieder MCT:
 
-- **Stellen Sie sicher, dass Sie die Anforderungen des MCT-Programms** erfüllen, die im Abschnitt [Anforderungen](#mctinfoheading-3) auf dieser Seite beschrieben sind. Vergleichen Sie Ihr Transkript mit dem aktuellen Stand der für das MCT-Programm berechtigenden Microsoft Certification und -Qualifizierungen.
+- **Stellen Sie sicher, dass Sie die Anforderungen des MCT-Programms** erfüllen, die im Abschnitt [Anforderungen](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) auf dieser Seite beschrieben sind. Vergleichen Sie Ihr Transkript mit dem aktuellen Stand der für das MCT-Programm berechtigenden Microsoft Certification und -Qualifizierungen.
 - **Beantragen Sie die Aufnahme in das MCT-Programm.** MCT-Alumni können entweder den Nachweis über die Zertifizierung der didaktischen Fähigkeiten erbringen, die sie zur Unterstützung ihrer früheren Bewerbung für das MCT-Programm erhalten haben, oder sie können eine Referenz vorlegen, die mindestens ein Jahr Unterrichtserfahrung bestätigt. Als Referenz können ehemalige Kunden, Vorgesetzte oder Kollegen angegeben werden.
 
 ## Gebühren für MCT- und MCT Alumni-Programme

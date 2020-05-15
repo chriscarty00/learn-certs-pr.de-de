@@ -6,6 +6,8 @@ metadata:
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+
   Stellen Sie sicher, dass Sie verstanden haben, wie Sie die Azure-Dienste implementieren, die eine IoT-Lösung bilden, einschließlich Datenanalyse, Datenverarbeitung, Datenspeicheroptionen und Plattform-als-Service-Optionen. IoT-Entwickler müssen in der Lage sein, die Konfigurationseinstellungen des Azure IoT-Dienstes im Codeteil einer IoT-Lösung zu erkennen.
 subTitle: Stellen Sie sicher, dass Sie verstanden haben, wie Sie die Azure-Dienste implementieren, die eine IoT-Lösung bilden, einschließlich Datenanalyse, Datenverarbeitung, Datenspeicheroptionen und Plattform-als-Service-Optionen. IoT-Entwickler müssen in der Lage sein, die Konfigurationseinstellungen des Azure IoT-Dienstes im Codeteil einer IoT-Lösung zu erkennen.
 levels:
@@ -16,7 +18,7 @@ skills:
 - Bereitstellung und Verwaltung von Geräten
 - Edge implementieren
 - Daten verarbeiten und verwalten
-- Überwachung, Fehlerbehebung und Optimierung von IoT-Lösungen 
+- Überwachung, Fehlerbehebung und Optimierung von IoT-Lösungen
 - Sicherheit implementieren
 roles:
 - developer
@@ -27,12 +29,17 @@ products:
 - azure-iot-hub
 courses:
 - uid: course.az-220t00
+paths:
+- uid: learn.introduction-to-azure-iot
+- uid: learn.securely-connect-iot-devices-to-cloud
+- uid: learn.build-intelligent-edge-with-azure-iot-edge
+- uid: learn-develop-solutions-with-azure-iot-central
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1V
 exams:
 - uid: exam.az-220
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
@@ -46,3 +53,4 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

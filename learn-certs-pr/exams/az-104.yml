@@ -1,4 +1,4 @@
-﻿### YamlMime:Examination
+### YamlMime:Examination
 title: Microsoft Azure Administrator (beta)
 metadata:
   title: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
@@ -6,29 +6,33 @@ metadata:
 uid: exam.az-104
 displayName: AZ-104
 summary: |-
+  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+  
   Der Azure-Administrator implementiert, verwaltet und überwacht Identitäts-, Governance-, Speicher-, Rechen- und virtuelle Netzwerke in einer Cloud-Umgebung. Der Azure-Administrator stellt Ressourcen entsprechend bereit, überwacht sie und passt sie an.
   
   Kandidaten sollten mindestens sechs Monate Erfahrung in der Verwaltung von Azure haben. Kandidaten sollten über ein umfassendes Verständnis der wichtigsten Azure-Services, Azure-Workloads, Security und Governance verfügen. Kandidaten für dieses Examen sollten Erfahrung in der Verwendung von PowerShell, dem Command Line Interface, Azure Portal und ARM-Templates haben.
   
-  <div style='color&#58; red; font-weight&#58; bold;'><br/>Hinweis&#58; dieses examens wird am oder um den 31. märz 2020 verfügbar sein.</div>
+  <div style='font-weight&#58; bold;'><br/>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. Um mehr zu erfahren <a href="/learn/certifications/certification-exams#participating-in-beta-exams">about the value and importance of beta exams</a>.</div>
 subTitle: 'Dieses Examen misst Ihre Fähigkeit, die folgenden technischen Aufgaben auszuführen: Verwalten von Azure-Identitäten und -Governance; Speicher implementieren und verwalten; Bereitstellen und Verwalten von Azure-Rechenressourcen; Konfigurieren und Verwalten von virtuellen Netzwerken und Azure-Ressourcen überwachen und sichern.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Verwalten von Azure-Identitäten und -Governance (15-20%) 
-- Implementieren und Verwalten von Speicherplatz (10-15%)
-- Bereitstellen und Verwalten von Azure-Rechenressourcen (25-30%) 
-- Virtuelle Netzwerke konfigurieren und verwalten (30-35%) 
+- Verwalten von Azure-Identitäten und -Governance (15-20%)
+- Speicherplatz implementieren und verwalten (10-15%)
+- Bereitstellen und Verwalten von Azure-Rechenressourcen (25-30%)
+- Virtuelle Netzwerke konfigurieren und verwalten (30-35%)
 - Überwachen und Sichern von Azure-Ressourcen (10-15%)
 roles:
 - administrator
 products:
 - azure
+courses:
+- uid: course.az-104t00
 paths:
 - uid: learn.administer-infrastructure-resources-in-azure
 - uid: learn.architect-storage-infrastructure
@@ -43,7 +47,7 @@ paths:
 - uid: learn.administer-containers-in-azure
 relatedCertifications:
 - related:
-    uid: none
+    uid: certification.azure-administrator
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
@@ -66,3 +70,4 @@ resources:
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
+

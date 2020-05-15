@@ -20,7 +20,7 @@ skillsGained:
 - skill: Bereiten Sie Daten für die Migration vor und migrieren Sie Daten zu Dynamics 365 for Finance and Operations
 - skill: Verwenden Sie die Datenverwaltung in Dynamics 365 für Finanzen und Betrieb
 - skill: Führen Sie Benutzerakzeptanztests für Dynamics 365 for Finance and Operations durch
-- skill: Sich auf die Inbetriebnahme vorbereitet
+- skill: Produktionsstart vorbereiten
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -36,14 +36,14 @@ exams:
 - uid: exam.mb-300
 summary: |-
   In diesem Kurs wird erläutert&#58;
-  - Gemeinsame Kernfunktionen von Dynamics 365 for Finance and Operations
-  - Kernkonfiguration in Dynamics 365 for Finance and Operations
-  - Datenmigration und Vorbereitung auf den Produktivstart mit Dynamics 365 für Finanzen und Betrieb
-  Unternehmen verwenden Dynamics 365 for Finance and Operations, um Betriebskosten zu senken und schnell auf sich ändernde Geschäftsanforderungen reagieren zu können. Mit dieser Lösung können Unternehmen diese Ziele erreichen.
-  In diesem Kurs werden die Kernkomponenten und die Konfiguration von Microsoft Dynamics 365 für Finanzen und Betrieb sowie die Datenmigration und die Vorbereitung auf das Go-Live erläutert.
+  - Gemeinsame Kernfunktionen von Dynamics 365 Finance
+  - Kernkonfiguration in Dynamics 365 Finance
+  - Datenmigration und Vorbereitung auf den Produktivstart mit Dynamics 365 Finance
+  Unternehmen verwenden Dynamics 365 Finance, um Betriebskosten zu senken und schnell auf sich ändernde Geschäftsanforderungen reagieren zu können. Mit dieser Lösung können Unternehmen diese Ziele erreichen.
+  In diesem Kurs werden die Kernkomponenten und die Konfiguration von Microsoft Dynamics 365 Finance sowie die Datenmigration und die Vorbereitung auf das Go-Live erläutert.
 
   #### Zielgruppenprofil
-  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von Bedürfnissen, sowie Lösungen und Anwendungen zu konfigurieren. Der Modulbetreuer implementiert eine Lösung mit gebrauchsfertigen Funktionen, codefreier Erweiterungsmöglichkeit, sowie Anwendungs- und Service-Integrationen.
+  Zu den Aufgaben des Dynamics 365 Finance Functional Consultant gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von sowie Lösungen und Anwendungen zu konfigurieren. Der Modulbetreuer implementiert eine Lösung mit gebrauchsfertigen Funktionen, codefreier Erweiterungsmöglichkeit, sowie Anwendungs- und Service-Integrationen.
 prerequisitesSection: |-
   Vor Teilnahme an disesem Kurs benötigen die Teilnehmer&#58;
   - Allgemeine Kenntnisse von Microsoft Windows
@@ -120,7 +120,7 @@ outlineSection: |-
   - Übungslabore
   - Modulübersicht
 
-  - Verschiedene Arten von Berichten und Anfragen in Finance and Operations
+  Verschiedene Arten von Berichten und Anfragen in Finance and Operations
   - Jahresabschluss
   - Konfigurieren von Finance and Operations für die Microsoft Power-Plattform
 
@@ -290,9 +290,9 @@ outlineSection: |-
   - Übungslabor
   - Modulübersicht
 
-  Wie man die Korrelation zwischen Testfällen und Geschäftsanforderungen versteht
+  - Wie man die Korrelation zwischen Testfällen und Geschäftsanforderungen versteht
   - Bewährte Taktiken für die Aufzeichnung von Testfällen
-  - Task-Rekorder
+  Task-Rekorder
   - Wie man eine BPM-Bibliothek für Szenarienakzeptanztests erteilt
   - Wie man ihren Testplan in Azure DevOps synchronisiert und konfiguriert
   - Ausführen von Tests
@@ -307,7 +307,7 @@ outlineSection: |-
   - Machen Sie sich bereit zur Inbetriebnahme
   - Modulübersicht
 
-  Prepare for go live
+  Produktionsstart vorbereiten
   - Die Lifecycle Services (LCS) -Methode
   - Einen Benutzerakzeptanztest (User Acceptance Testing, UAT) für Ihre Lösung durchführt
   - Die Go-Live-Bewertung von FastTrack versteht
@@ -322,3 +322,4 @@ outlineSection: |-
   - Umfrage nach dem Kurs
 
   Du wirst haben den Kurs abgeschlossen.
+

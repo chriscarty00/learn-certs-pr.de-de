@@ -11,7 +11,7 @@ ms.author: micsullivan
 ---
 # Hilfe zu Microsoft-Schulungen und -Zertifizierungen
 
-Haben Sie Fragen zu Schulungen und Zertifizierungen von Microsoft-Produkten? Besuchen Sie [Microsoft Learn](/learn/certificationss/), wo Sie Antworten auf die meisten Ihrer Fragen zu Microsoft Training, Zertifizierung, Prüfungen, Microsoft Official Courses (MOC) und mehr finden.
+Haben Sie Fragen zu Schulungen und Zertifizierungen von Microsoft-Produkten? Besuchen Sie [Microsoft Learn](/learn/certifications/), wo Sie Antworten auf die meisten Ihrer Fragen zu Microsoft Training, Zertifizierung, Prüfungen, Microsoft Official Courses (MOC) und mehr finden.
 
 Haben Sie noch Fragen zur offiziellen Lernsoftware von Microsoft (MOC)?  Bitte beachten Sie unsere Support-Optionen unten.
 

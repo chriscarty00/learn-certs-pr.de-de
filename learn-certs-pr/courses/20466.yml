@@ -1,0 +1,242 @@
+### YamlMime:Course
+title: Implementing Data Models and Reports with SQL Server 2014
+metadata:
+  title: 'Course 20466-D: Implementing Data Models and Reports with SQL Server 2014'
+  description: 'Course 20466-D: Implementing Data Models and Reports with SQL Server 2014'
+uid: course.20466
+courseNumber: '20466-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Beschreiben der Komponenten, der Architektur und der Art einer BI-Lösung.
+- skill: Erstellen einer mehrdimensionale Datenbank mit Analysis Services.
+- skill: Dimensionen in einem Cube implementieren.
+- skill: Messungen und Messgruppen in einem Cube implementieren.
+- skill: MDX-Syntax verwenden.
+- skill: Anpassen eines Cube.
+- skill: Implementieren eines tabellarischen Datenmodells in SQL Server Analysis Services.
+- skill: DAX verwenden, um ein Tabellenmodell zu verbessern.
+- skill: Erstellen von Berichten mit Reportservices.
+- skill: Erweitern von Berichten mit Diagrammen und Parametern.
+- skill: Die Ausführung und Zustellung von Berichten verwalten.
+- skill: Implementieren eines Dashboards in SharePoint Server mit PerformancePoint Services.
+- skill: Data Mining für die prädiktive Analyse verwenden.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-466
+summary: |-
+  Der Schwerpunkt dieses fünftägigen Kurses unter Anleitung eines Lehrers liegt auf der Erstellung verwalteter Bl-Unternehmens-Lösungen. Es wird beschrieben, wie man mehrdimensionale und tabellarische Datenmodelle implementieren, Berichte mit Microsoft® SQL Server® Reportservices bereitstellen, Dashboards mit Microsoft SharePoint Server PerformancePoint Services erstellen und mit Hilfe von Data Mining geschäftliche Erkenntnisse gewinnen kann.
+
+  Hinweis&#58; Dieser Kurs richtet sich an Kunden, die SQL Server 2012 oder SQL Server 2014 erlernen möchten. Hier werden die neuen Funktionen in SQL Server 2014, aber auch die wichtigen Funktionen auf der gesamten SQL Server-Datenplattform abgedeckt.
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an Datenbankfachleute, die eine Entwicklerrolle für Geschäftsanalytik erfüllen müssen, um Analyse- und Berichtslösungen zu erstellen. Zu den Hauptaufgaben gehören&#58;
+  - Implementieren von analytischen Datenmodellen wie OLAP-Cubes.
+  - Implementieren von Berichten und Verwalten der Berichtsbereitstellung.
+  - Erstellen von Dashboards für Geschäftsleistung.
+  - Unterstützung von Data-Mining und prädiktiver Analyse.
+prerequisitesSection: |-
+  Für diesen Kurs müssen Sie die folgenden Voraussetzungen erfüllen&#58;
+  - Mindestens 2 Jahre Erfahrung in der Arbeit mit relationalen Datenbanken, einschließlich&#58; 
+    - Entwerfen einer normalisierten Datenbank. 
+    - Erstellen von Tabellen und Beziehungen. 
+    - Abfragen mit Transact-SQL. 
+    - Einige Grundkenntnisse der Data Warehouse-Schematopologie (einschließlich Stern- und Schneeflockenschemata). 
+    - Exposition gegenüber grundlegenden Programmierkonstrukten (wie Schleifen und Verzweigung).
+    Ein Bewusstsein für wichtige Geschäftsprioritäten wie Umsatz, Rentabilität und Finanzbuchhaltung ist wünschenswert.
+outlineSection: |-
+  ### Modul 1&#58; Einführung in Geschäftsanalytik und Datenmodellierung
+  Als SQL Server-Datenbankprofi müssen Sie möglicherweise an einem Projekt teilnehmen oder dieses sogar leiten, um eine effektive BI-Unternehmens-Lösung zu implementieren. Daher ist es wichtig, die verschiedenen Elemente einer BI-Lösung, das Geschäfts- und IT-Personal, das normalerweise an einem BI-Projekt beteiligt ist, und die Microsoft-Produkte zur Lösungseinrichtung hinreichend zu verstehen.
+  #### Lektionen
+  - Einführung in Business Intelligence
+  - Die Microsoft BI-Unternehmens-Plattform
+
+
+  #### Lab&#58; Erkunden einer BI-Lösung
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die Elemente einer typischen BI-Lösung zu beschreiben. 
+  - Geeignete Microsoft-Technologien für eine BI-Lösung auszuwählen.
+  - Die wichtigsten Überlegungen zur Planung eines BI-Projekts zu beschreiben.
+
+
+  ### Modul 2&#58; Erstellen mehrdimensionaler Datenbanken
+  Dieses Modul bietet eine Einführung in mehrdimensionale Datenbanken und stellt die Kernkomponenten eines OLAP (Online Analytical Processing)-Cube vor.
+  #### Lektionen
+  - Einführung in die mehrdimensionale Analyse
+  - Erstellen von Datenquellen und Datenquellenansichten
+  - Einen Cube erstellen
+  - Übersicht über die Cube-Sicherheit
+
+
+  #### Lab&#58; Erstellen einer mehrdimensionalen Datenbank
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die Überlegungen für eine mehrdimensionale Datenbank zu beschreiben. 
+  - Datenquellen und Datenquellenansichten zu erstellen.
+  - Einen Cube zu erstellen.
+  - Sicherheit in einer mehrdimensionalen Datenbank zu implementieren.
+
+
+  ### Modul 3&#58; Arbeiten mit Cubes und Dimensionen
+  In diesem Modul wird beschrieben, wie Sie Dimensionen und Dimensionshierarchien in einem mehrdimensionalen Analyse-Service-Datenmodell erstellen und konfigurieren.
+  #### Lektionen
+  - Dimensionen konfigurieren
+  - Definieren von Attribut-Hierarchien
+  - Sortieren und Gruppieren von Hierarchien
+
+
+  #### Lab&#58; Arbeiten mit Cubes und Dimensionen
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Konfigurieren von Abmessungen. 
+  - Definieren von Attribut-Hierarchien.
+  - Attribute sortieren und gruppieren.
+
+
+  ### Modul 4&#58; Arbeiten mit Maßen und Messgruppen
+  Dieses Modul beschreibt Maße und Messgruppen. Es wird auch erklärt, wie Sie sie verwenden können, um Faktentabellen zu erstellen und Maße mit Abmessungen zu verknüpfen.
+  #### Lektionen
+  - Arbeiten mit Maßen
+  - Arbeiten mit Messgruppen
+
+
+  #### Lab&#58; Maße und Messgruppen konfigurieren
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Messungen zu konfigurieren.
+  - Messgruppen zu konfigurieren.
+
+
+  ### Modul 5&#58; Einführung in MDX
+  Dieses Modul beschreibt die Grundlagen von MDX und erklärt, wie Berechnungen erstellt werden, z. B. berechnete Mitglieder und benannte Sets.
+  #### Lektionen
+  - MDX-Grundlagen
+  - Berechnungen zu einem Cube hinzufügen
+  - Verwenden von MDX zur Abfrage eines Cubes
+
+
+  #### Lab&#58; Verwenden von MDX
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - MDX zu beschreiben.
+  - Einem Cube Berechnungen hinzuzufügen.
+  - Die Verwendung von MDX in Client-Anwendungen zu beschreiben.
+
+
+  ### Modul 6&#58; Anpassen der Cube-Funktionalität
+  In diesem Modul wird beschrieben, wie Sie einen Cube mit wichtigen Leistungs-Indikatoren (KPIs), Aktionen, Perspektiven und Übersetzungen erweitern.
+  #### Lektionen
+  - Implementierung von Leistungsindikatoren
+  - Umsetzungsmaßnahmen
+  - Perspektiven umsetzen
+  - Übersetzungen umsetzen
+
+
+  #### Lab&#58; Anpassen eines Cubes
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Wichtige Leistungsindikatoren zu implementieren.
+  - Maßnahmen zu implementieren. 
+  - Perspektiven umzusetzen.
+  - Übersetzungen umzusetzen.
+
+
+  ### Modul 7&#58; Implementieren eines tabellarischen Datenmodells für Analyse-Services
+  In diesem Modul werden tabellarische Datenmodelle von Analyse-Services beschrieben und das Entwickeln eines tabellarischen Datenmodells mit Hilfe des Add-Ins SQL Server Data Tools für Geschäftsanalytik (BI) für Visual Studio erläutert.
+  #### Lektionen
+  - Einführung in tabellarische Datenmodelle
+  - Erstellen eines tabellarischen Datenmodells
+  - Verwenden eines tabellarischen Datenmodells für Analyse-Services in einer Bl-Unternehmens-Lösung
+
+
+  #### Lab&#58; Implementieren eines tabellarischen Datenmodells für Analyse-Services
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Beschreiben der tabellarischen Datenmodellprojekte der Analyse-Services. 
+  - Implementieren eines tabellarisches Datenmodells der Analyse-Services.
+  - Verwenden eines tabellarisches Datenmodells des Analyse-Services.
+
+
+  ### Modul 8&#58; Einführung in den Datenanalyse-Expression (DAX)
+  Dieses Modul erklärt die Grundlagen der DAX-Sprache. Außerdem wird erläutert, wie Sie mit DAX berechnete Spalten und Kennzahlen erstellen und sie in Ihren tabellarischen Datenmodellen verwenden können.
+  #### Lektionen
+  - DAX-Grundlagen
+  - Verwenden von DAX zum Erstellen berechneter Spalten und Kennzahlen in einem tabellarischen Datenmodell
+
+
+  #### Lab&#58; Erstellen berechneter Spalten und Kennzahlen mit Hilfe von DAX
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Beschreibung der DAX-Grundlagen.
+  - DAX-Verwendung, um berechnete Spalten und Kennzahlen zu erstellen.
+
+
+  ### Modul 9&#58; Implementieren von Berichten mit SQL Server Reportservices
+  In diesem Modul werden Microsoft SQL Server Reportservices vorgestellt und die Tools und Techniken erläutert, mit denen ein professioneller BI-Entwickler Berichte erstellen und veröffentlichen kann.
+  #### Lektionen
+  - Einführung in Reportservices
+  - Erstellen eines Berichts mit dem Report-Designer
+  - Gruppieren und Zusammenfassen von Daten in einem Bericht
+  - Daten grafisch darstellen
+  - Filtern von Berichten mit Hilfe von Parametern
+
+
+  #### Lab&#58; Erstellen eines Berichts mit dem Report-Designer
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die wichtigsten Funktionen der Reportservices zu beschreiben. 
+  - Den Report-Designer zu verwenden, um einen Bericht zu erstellen.
+  - Daten in einem Bericht zu gruppieren und zusammenzufassen.
+  - Einen Bericht zu veröffentlichen und anzuzeigen.
+
+
+  ### Modul 10&#58; Automatisieren der Berichterstellung und -zustellung
+  In diesem Modul wird beschrieben, wie Sicherheits- und Berichtausführungseinstellungen anwenden und Abonnements für die Übermittlung von Berichten erstellen.
+  #### Lektionen
+  - Verwalten der Berichtsicherheit
+  - Verwalten der Berichtausführung
+  - Übermitteln von Berichten mit Abonnements und Datenwarnungen
+  - Fehlerbehebung bei Reportservices
+
+
+  #### Lab&#58; Implementieren von Berichtabonnements
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die Sicherheitseinstellungen für einen Reportserver zu konfigurieren. 
+  - Die Einstellungen für die Berichtausführung zu konfigurieren, um die Leistung zu optimieren. 
+  - Abonnements und Warnungen zu verwenden, um die Bericht- und Datenübermittlung zu automatisieren.
+  - Probleme bei der Berichterstellung zu beheben.
+
+
+  ### Modul 11&#58; Bereitstellen von BI mit SharePoint PerformancePoint Services
+  Dieses Modul führt Microsoft SharePoint Server als Plattform für BI ein und konzentriert sich dann auf das Erstellen von BI-Dashboards und Scorecards mit PerformancePoint Services.
+  #### Lektionen
+  - Einführung in SharePoint Server als BI-Plattform
+  - Planen der Sicherheit für eine SharePoint Server BI-Lösung
+  - Planung für PerformancePoint Services
+
+
+  #### Lab&#58; Implementieren von PerformancePoint Services
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Beschreiben von SharePoint Server als BI-Plattform.
+  - Verwenden von PerformancePoint Services, um BI-Funktionen bereitzustellen.
+  - Konfigurieren von PerformancePoint-Datenquellen.
+  - Erstellen von Berichten, Scorecards und Dashboards.
+
+
+  ### Modul 12&#58; Durchführen einer prädiktiven Analyse mit Data Mining
+  Dieses Modul führt in das Data Mining ein, beschreibt, wie eine Data Mining-Lösung erstellt wird, wie Data Mining-Modelle validiert werden, wie die Data Mining-Add-Ins für Microsoft Excel verwendet werden und wie Data Mining-Ergebnisse in Reportservices integriert werden.
+  #### Lektionen
+  - Überblick über Data Mining
+  - Verwenden des Data Mining-Add-Ins für Excel
+  - Erstellen einer benutzerdefinierten Data Mining-Lösung
+  - Validierung eines Data Mining-Modells
+  - Herstellen einer Verbindung zu und Konsumieren von Data Mining-Daten
+
+
+  #### Lab&#58; Verwenden von Data Mining zur Unterstützung einer Marketingkampagne
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die wichtigsten Data Mining-Konzepte zu beschreiben und die Data Mining-Add-Ins für Excel zu verwenden.
+  - Eine Data Mining-Lösung zu erstellen.
+  - Data Mining-Modelle zu überprüfen.
+  - Data Mining-Daten in einem Bericht zu verwenden.
+

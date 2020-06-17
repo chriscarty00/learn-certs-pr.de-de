@@ -1,0 +1,223 @@
+### YamlMime:Course
+title: Developing SQL Data Models
+metadata:
+  title: 'Course 20768-C: Developing SQL Data Models'
+  description: 'Course 20768-C: Developing SQL Data Models'
+uid: course.20768
+courseNumber: '20768-C'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Beschreiben der Komponenten, der Architektur und der Art einer BI-Lösung
+- skill: Erstellen einer mehrdimensionale Datenbank mit Analyseleistungen
+- skill: Dimensionen in einem Cube implementieren
+- skill: Maßnahmen und Messgruppen in einem Cube implementieren
+- skill: Verwenden der MDX-Syntax
+- skill: Anpassen eines Kubus
+- skill: Implementieren einer tabellarischen Datenbank
+- skill: Verwenden von DAX, um ein Tabellenmodell abzufragen
+- skill: Data Mining für die prädiktive Analyse verwenden
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- sql-server
+exams:
+- uid: exam.70-768
+summary: |-
+  Der Schwerpunkt dieses dreitägigen Kurses unter Anleitung eines Lehrers liegt auf der Erstellung verwalteter Bl-Unternehmens-Lösungen. Es wird beschrieben, wie Sie sowohl mehrdimensionale als auch tabellarische Datenmodelle implementieren und Cubes, Dimensionen, Kennzahlen und Kennzahlgruppen erstellen. Dieser Kurs hilft Ihnen auch, sich auf die Prüfung 70-768 vorzubereiten.
+  
+  #### Zielgruppenprofil
+  Die Hauptzielgruppe für diesen Kurs sind Datenbankfachleute, die die Rolle des BI-Entwicklers erfüllen müssen, um BI-Lösungen für Unternehmen zu erstellen. 
+  Zu den Hauptaufgaben gehören&#58;
+  - Implementieren mehrdimensionaler Datenbanken mit Hilfe von SQL Server Analyseleistungen
+  - Erstellen tabellarischer semantischer Datenmodelle für die Analyse mit Hilfe von SQL Server Analyseleistungen
+prerequisitesSection: |-
+  Vor Teilnahme an disesem Kurs benötigen die Teilnehmer&#58;
+  - Erfahrung in der Abfrage von Daten mit Transact-SQL
+outlineSection: |-
+  ### Modul 1&#58; Einführung in Geschäftsanalytik und Datenmodellierung
+  Dieses Modul stellt wichtige BI-Konzepte und die Microsoft BI-Produktsuite vor.
+  #### Lektionen
+  - Einführung in Geschäftsanalytik
+  - Die Microsoft Business Intelligence-Plattform
+
+
+  #### Lab&#58; Erkunden einer BI-Lösung
+  - Erkunden eines Data Warehouse
+  - Erkunden eines Datenmodells
+
+  Nach Abschluss dieses Moduls sind die Teilnehmerin der Lage&#58;
+  - Beschreiben von BI-Szenarien, Trends und Projektrollen.
+  - Beschreiben der Produkte, aus denen die Microsoft BI-Plattform besteht.
+
+
+  ### Modul 2&#58; Erstellen mehrdimensionaler Datenbanken
+  In diesem Modul wird beschrieben, wie Sie mit SQL Server Analysis Services mehrdimensionale Datenbanken erstellen.
+  #### Lektionen
+  - Einführung in die mehrdimensionale Analyse
+  - Datenquellen und Datenquellenansichten
+  - Cubes
+  - Übersicht über die Cube-Sicherheit
+  - SSAS konfigurieren
+  - Überwachung von SSAS
+
+
+  #### Lab&#58; Erstellen einer mehrdimensionalen Datenbank
+  - Erstellen einer Datenquelle
+  - Erstellen und Konfigurieren einer Datenquellenansicht
+  - Erstellen und konfigurieren von DAG
+  - Hinzufügen einer Dimension zu einem Cube
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Die Überlegungen für eine mehrdimensionale Datenbank zu beschreiben.
+  - Datenquellen und Datenquellenansichten zu erstellen.
+  - Einen Cube zu erstellen
+  - Sicherheit in einer mehrdimensionalen Datenbank zu implementieren.
+  - SSAS so konfigurieren, dass Anforderungen wie Speicherbeschränkungen, NUMA und Festplattenlayout erfüllt werden.
+  - Die SSAS-Leistung zu überwachen.
+
+
+  ### Modul 3&#58; Arbeiten mit Cubes und Dimensionen
+  Dieses Modul beschreibt, wie Dimensionen in einem Cube implementiert werden.
+  #### Lektionen
+  - Dimensionen konfigurieren
+  - Definieren von Attribut-Hierarchien
+  - Implementieren von Sortier- und Gruppierungsattributen
+  - Abmessungen langsam ändern
+
+
+  #### Lab&#58; Arbeiten mit Cubes und Dimensionen
+  - Dimensionen konfigurieren
+  - Definieren von Beziehungen und Hierarchien
+  - Sortieren und Gruppieren von Dimensionsattributen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Abmessungen zu konfigurieren.
+  - Attribut-Hierarchien zu definieren.
+  - Das Sortieren und Gruppieren von Attributen zu implementieren.
+  - Abmessungen langsam zu ändern.
+
+
+  ### Modul 4&#58; Arbeiten mit Maßen und Maßgruppen
+  In diesem Modul wird beschrieben, wie Sie Kennzahlen und Kennzahlgruppen in einem Cube implementieren.
+  #### Lektionen
+  - Arbeiten mit Maßen
+  - Arbeiten mit Maßgruppen
+
+
+  #### Lab&#58; Kennzahlen und Kennzahlgruppen konfigurieren
+  - Maßnahmen konfigurieren
+  - Definieren regelmäßiger Beziehungen
+  - Konfigurieren des Messgruppenspeichers
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Maßnahmen konfigurieren.
+  - Maßgruppen konfigurieren.
+
+
+  ### Modul 5&#58; Einführung in MDX
+  Dieses Modul beschreibt die MDX-Syntax und die Verwendung von MDX.
+  #### Lektionen
+  - MDX-Grundlagen
+  - Berechnungen zu einem Cube hinzufügen
+  - Verwenden von MDX zur Abfrage eines Cube
+
+
+  #### Lab&#58; Verwenden von MDX
+  - Abfragen eines Cubes mit MDX
+  - Hinzufügen eines berechneten Mitglieds
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Grundlegende MDX-Funktionen zu verwenden.
+  - MDX zu verwenden, um einem Cube Berechnungen hinzuzufügen.
+  - MDX zu verwenden, um einen Cube abzufragen.
+
+
+  ### Modul 6&#58; Anpassen der Kubus-Funktionalität
+  Dieses Modul beschreibt das Anpassen eines Cubes.
+  #### Lektionen
+  - Implementierung von Leistungsindikatoren
+  - Umsetzungsmaßnahmen
+  - Perspektiven umsetzen
+  - Übersetzungen umsetzen
+
+
+  #### Lab&#58; Anpassen eines Cubes
+  - Umsetzung einer Aktion
+  - Umsetzung einer Perspektive
+  - Implementierung einer Übersetzung
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Implementieren eines KPIs in einer mehrdimensionalen Datenbank
+  - Implementieren von Aktionen in einer mehrdimensionalen Datenbank
+  - Implementieren von Perspektiven in einer mehrdimensionalen Datenbank
+  - Implementieren von Übersetzungen in eine mehrdimensionale Datenbank
+
+
+  ### Modul 7&#58; Implementieren eines tabellarischen Datenmodells mithilfe von Analysis Services
+  In diesem Modul wird beschrieben, wie Sie ein tabellarisches Datenmodell in Power Pivot implementieren.
+  #### Lektionen
+  - Einführung in tabellarische Datenmodelle
+  - Erstellen eines tabellarischen Datenmodells
+  - Verwenden eines tabellarischen modells für Analyseleistungen in einer Bl-Unternehmens-Lösung
+
+
+  #### Lab&#58; Arbeiten mit einem tabellarischen Datenmodell von Analyseleistungen
+  - Verwenden eines tabellarisches Datenmodells von Analyseleistungen
+  - Konfigurieren von Beziehungen und Attributen
+  - Konfigurieren des Datenmodells für eine Enterprise BI-Lösung.
+
+  Nach Abschluss dieses Moduls sind die Teilnehmerin der Lage&#58;
+  - Tabellarische Datenmodelle zu beschreiben
+  - Beschreiben, wie ein tabellarisches Datenmodell erstellt wird
+  - Verwenden eines tabellarischen Datenmodells für Analyseleistungen in einer Bl-Unternehmens-Lösung
+
+
+  ### Modul 8&#58; Einführung in den Datenanalyse-Expression (DAX)
+  In diesem Modul wird beschrieben, wie Sie mit DAX Kennzahlen und berechnete Spalten in einem tabellarischen Datenmodell erstellen.
+  #### Lektionen
+  - DAX-Grundlagen
+  - Verwenden von DAX zum Erstellen berechneter Spalten und Kennzahlen in einem tabellarischen Datenmodell
+
+
+  #### Lab&#58; Erstellen berechneter Spalten und Kennzahlen mit Hilfe von DAX
+  - Berechnete Spalten erstellen
+  - Maßnahmen erstellen
+  - Erstellen eines KPI
+  - Erstellen einer Eltern-Kind-Hierarchie
+
+  Nach Abschluss dieses Moduls sind die Teilnehmerin der Lage&#58;
+  - die wichtigsten Funktionen von DAX zu beschreiben
+  - Erstellen von berechneten Spalten und Kennzahlen mit Hilfe von DAX
+
+
+  ### Modul 9&#58; Durchführen einer prädiktiven Analyse mit Data Mining
+  Dieses Modul beschreibt die Verwendung von Data Mining für die prädiktive Analyse.
+  #### Lektionen
+  - Überblick über Data Mining
+  - Erstellen einer benutzerdefinierten Data Mining-Lösung
+  - Validierung eines Data Mining-Modells
+  - Herstellen einer Verbindung zu und Konsumieren eines Data-Mining-Modells
+  - Verwenden des Data Mining-Add-Ins für Excel
+
+
+  #### Lab&#58; Verwenden von Data Mining
+  - Erstellen einer Data Mining-Struktur und eines Data Mining-Modells
+  - Erkunden von Data Mining-Modellen
+  - Validierung von Data Mining-Modellen
+  - Konsumieren eines Data Mining-Modells
+  - Verwenden des Excel Data Mining-Add-Ins
+
+
+  Nach Abschluss dieses Moduls sind die Teilnehmerin der Lage&#58;
+  - Überlegungen zum Data Mining zu beschreiben
+  - Ein Data Mining-Modell erstellen
+  - Ein Data Mining-Modell überprüfen
+  - Eine Verbindung zu einem Data-Mining-Modell herstellen
+  - Verwenden des Data Mining-Add-Ins für Excel
+

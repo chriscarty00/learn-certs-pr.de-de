@@ -1,0 +1,170 @@
+### YamlMime:Course
+title: Implementing Microsoft Azure Cosmos DB Solutions
+metadata:
+  title: 'Course 20777-A: Implementing Microsoft Azure Cosmos DB Solutions'
+  description: 'Course 20777-A: Implementing Microsoft Azure Cosmos DB Solutions'
+uid: course.20777
+courseNumber: '20777-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Beschreiben des Zwecks und der Architektur von Azure Cosmos DB.
+- skill: Beschreiben, wie Dokumente und Sammlungen entworfen werden, um die Geschäftsanforderungen zu erfüllen, und wie die SQL-API zum Erstellen von Anwendungen verwendet wird, die diese Dokumente nutzen.
+- skill: Beschreiben, wie benutzerdefinierte Funktionen, gespeicherte Prozeduren und Trigger erstellt werden.
+- skill: Beschreiben, wie eine Datenbank abgestimmt und die Leistung überwacht wird.
+- skill: Beschreiben, wie mit Cosmos DB effiziente Graph-Datenbankmodelle erstellt werden.
+- skill: Beschreiben der Verwendung von Azure Search, HDInsight, Azure Databricks und Power BI mit Cosmos DB zum Abfragen und Analysieren von Big Data.
+- skill: Beschreiben, wie Cosmos DB als Quelle und Senke für das Streaming von Daten verwendet wird.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- solution-architect
+products:
+- azure-cosmos-db
+exams:
+- uid: exam.70-777
+summary: |-
+  Dieser dreitägige Kurs unter Anleitung eines Lehrers richtet sich an Datenbankprofis, die eine Cosmos DB-Lösung implementieren möchten.
+
+  #### Zielgruppenprofil
+  Das Hauptpublikum dieses Kurses sind Datenbankentwickler und Architekten (IT-Experten, Entwickler und Information Worker), die planen, Lösungen für große Datenmengen in Azure mit Hilfe von Cosmos DB zu implementieren.
+prerequisitesSection: |-
+  Zusätzlich zu ihrer Berufserfahrung sollten Kandidaten, die den Kurs besuchen, bereits über die folgenden technischen Kenntnisse verfügen&#58;
+  - Die grundlegenden Konzepte der Partitionierung, Replikation und Ressourcenverwaltung zum Erstellen und Konfigurieren skalierbarer Anwendungen, die für eine Cosmos DB-API nicht relevant sind.
+  - Grundlegende Kenntnisse der Cosmos DB SQL API.
+outlineSection: |-
+  ### Modul 1&#58; Einführung in Azure Cosmos DB
+  Beschreiben des Zwecks und der Architektur von Azure Cosmos DB.
+  #### Lektionen
+  - Überprüfung der NoSQL-Datenbankstrukturen
+  - Migrieren von Daten und Anwendungen zu Cosmos DB
+  - Verwalten von Daten in Cosmos DB
+
+
+  #### Lab&#58; Erstellen und Verwenden einer SQL-API-Datenbank in Cosmos DB
+  - Erstellen und Konfigurieren einer Cosmos DB-Datenbank
+  - Migrieren von Daten aus einer Mongo DB-Datenbank zu Cosmos DB
+  - Verwenden der SQL-API für den Zugriff auf Daten
+  - Schutz von Daten in einer Cosmos DB-Datenbank
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Eine Cosmos DB zu erstellen und zu konfigurieren.
+  - Daten von einer Mongo DB-Datenbank in eine Cosmos DB-Datenbank zu migrieren.
+  - Den Zugriff auf Daten über die SQL-API zu beschreiben.
+  - Zu beschreiben, wie Daten in einer Cosmos DB geschützt werden.
+
+
+  ### Modul 2&#58; Entwerfen und Implementieren von SQL API-Datenbankanwendungen
+  Diese Modul beschreibt, wie Dokumente und Sammlungen entworfen werden, um die Geschäftsanforderungen zu erfüllen, und wie die SQL-API zum Erstellen von Anwendungen verwendet wird, die diese Dokumente nutzen.
+  #### Lektionen
+  - Dokumentmodelle in Cosmos DB
+  - Abfragen von Daten in einer SQL API-Datenbank
+  - Programmgesteuertes Abfragen und Verwalten von Daten
+
+
+  #### Lab&#58; Entwerfen und Implementieren von SQL API-Datenbankanwendungen
+  - Entwerfen einer Dokumentstruktur und Partitionierungsstrategie für den Produktkatalog für das Einzelhandelssystem
+  - Importieren von Produktkatalogdaten
+  - Abfragen von Produktkataloginformationen
+  - Lagerbestände im Produktkatalog pflegen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - NoSQL-Dokumentstrukturen zu entwerfen, die die Geschäftsanforderungen unterstützen und einen effizienten Betrieb ermöglichen.
+  - Zu beschreiben, wie SQL-Abfragen für eine SQL-API-Datenbank ausgeführt werden.
+  - Das programmgesteuerte Einfügen, Ändern, Löschen und Abfragen von Daten in eine SQL-API-Datenbank zu erläutern.
+
+
+  ### Modul 3&#58; Implementieren von serverseitigen Vorgängen
+  Beschreiben, wie benutzerdefinierte Funktionen, gespeicherte Prozeduren und Trigger erstellt werden.
+  #### Lektionen
+  - Serverseitige Programmierung mit Cosmos DB
+  - Erstellen und Verwenden von gespeicherten Prozeduren
+  - Verwenden von Triggern zur Aufrechterhaltung der Datenintegrität
+
+
+  #### Lab&#58; Schreiben von benutzerdefinierten Funktionen, gespeicherten Prozeduren und Triggern
+  - Entwerfen und implementieren einer Dokument- und Sammlungsstruktur
+  - Implementieren von Warenkorbfunktionalität im Online-Handelssystem.
+  - Erweitern des Online-Handelssystems, um Bestellungen aus den Artikeln in einem Warenkorb zu erstellen.
+  - Weitere Erweiterung des Online-Handelssystem, damit Kunden Bestellungen und Nachbestellungen anschauen können.
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Zu beschreiben, wie man mit Cosmos DB serverseitige Vorgänge implementieren kann, indem man JavaScript-Code schreibt.
+  - Zu beschreiben, wie Sie mit der JavaScript-Abfrage-API Transaktionsvorgänge mit gespeicherten Prozeduren implementieren.
+  - Zu beschreiben, wie Sie mit Hilfe von Erstellungsauslösern die Integrität beim Einfügen, Aktualisieren und Löschen von Dokumenten aufrechterhalten können.
+
+
+  ### Modul 4&#58; Leistung optimieren und überwachen
+  Beschreiben, wie eine Datenbank optimiert und die Leistung überwacht wird.
+  #### Lektionen
+  - Optimierung der Datenbank-Performance
+  - Überwachung der Leistung einer Datenbank
+
+
+  #### Lab&#58; Optimieren einer Datenbank und Überwachen der Leistung
+  - Sammeln von Ausführungsstatistiken
+  - Untersuchen, wie sich die verschiedenen Konsistenzmodelle auf Durchsatz und Latenz auswirken können
+  - Untersuchen der Auswirkungen von Triggern auf die Leistung
+  - Überwachen der Leistung und Optimieren des Partitionsschlüssels
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Zu beschreiben, wie man die Konfiguration einer Datenbank und von Sammlungen optimieren kann, um die beste Leistung zu erzielen.
+  - Zu beschreiben, wie die Leistung einer Dokumentendatenbank bewertet und Optionen zur Verbesserung des Durchsatzes ermittelt werden.
+
+
+  ### Modul 5&#58; Entwerfen und Implementieren einer Diagrammdatenbank
+  In diesem Modul wird beschrieben, wie Sie mit Cosmos DB effiziente Diagrammdatenbankmodelle erstellen.
+  #### Lektionen
+  - Diagrammdatenbankmodelle in Cosmos DB
+  - Entwerfen von Graph-Datenbankmodellen für einen effizienten Betrieb
+
+
+  #### Lab&#58; Entwerfen und Implementieren einer Graph-Datenbank
+  - Implementierung einer Empfehlungs-Engine für Kunden
+  - Aufzeichnen von Produktkaufinformationen
+  - Eine Graph-Datenbank abfragen, um Analysen zu erhalten
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Beschreiben der Funktionen, die Cosmos DB für die Implementierung von Diagrammdatenbanken bietet.
+  - NoSQL-Graphstrukturen zu entwerfen, die die Geschäftsanforderungen unterstützen und einen effizienten Betrieb ermöglichen.
+
+
+  ### Modul 6&#58; Abfragen und Analysieren von Big Data mit Cosmos DB
+  Dieses Modul beschreibt die Verwendung von Azure Search und HDInsight mit Cosmos DB zum Abfragen und Analysieren von Big Data.
+  #### Lektionen
+  - Integration von Cosmos DB in die Azure-Suche zur Optimierung von Abfragen
+  - Analysieren von Daten in einer Cosmos DB-Datenbank mit Apache Spark
+  - Visualisierung von Daten in einer Cosmos DB-Datenbank
+
+
+  #### Lab&#58; Abfragen und Analysieren von Big Data mit Cosmos DB
+  - Erweiterung der Produktsuchfunktionen
+  - Durchführen der Verarbeitung zum Monatsende
+  - Visualisierung von Verkaufsdaten
+  - Erkundung von Verkaufsdaten
+
+  Am Ende dieses Moduls können die Schüler&#58;
+  - Beschreiben, wie Cosmos DB in Azure Search integriert wird, um eine effiziente Abfrageverarbeitung für große Datenmengen durchzuführen.
+  - Beschreiben, wie große Datenmengen in Cosmos DB mit Apache Spark analysiert werden.
+  - Beschreiben, wie Daten in Cosmos DB mit Hilfe von Jupyter-Notebooks, Power BI und Azure Databricks visualisiert werden.
+
+
+  ### Modul 7&#58; Implementieren der Stream-Verarbeitung mit Cosmos DB
+  Dieses Modul beschreibt die Verwendung von Cosmos DB als Quelle und Senke für das Streaming von Daten.
+  #### Lektionen
+  - Arbeiten mit dem Cosmos DB-Änderungsfeed
+  - Integration von Cosmos DB in Streaming-Lösungen
+
+
+  #### Lab&#58; Verwenden von Cosmos DB mit Stream-Verarbeitung
+  - Bearbeitung von Bestellungen
+  - Pflege der Bestandsanalysedaten
+  - Anzeige der fortlaufenden Einnahmen für einen bestimmten Zeitraum
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Den Cosmos DB-Änderungsfeed und dessen Verwendung zur effizienten Datenverarbeitung zu beschreiben.
+  - Zu erläutern, wie Cosmos DB in Streaming-Lösungen wie Apache Kafka, Apache Spark und Azure Stream Analytics integriert werden kann.
+

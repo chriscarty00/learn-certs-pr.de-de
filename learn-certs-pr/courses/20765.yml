@@ -1,0 +1,230 @@
+### YamlMime:Course
+title: Provisioning SQL Databases
+metadata:
+  title: 'Course 20765-C: Provisioning SQL Databases'
+  description: 'Course 20765-C: Provisioning SQL Databases'
+uid: course.20765
+courseNumber: '20765-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Bereitstellen eines Datenbankservers
+- skill: Aktualisieren eines SQL Servers
+- skill: Konfigurieren eines SQL Servers
+- skill: Verwalten von Datenbanken und Dateien (freigegebenen)
+- skill: Bereitstellung, Migration und Verwaltung von Datenbanken in der Cloud
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-765
+summary: |-
+  In diesem Kurs lernen die Teilnehmer, wie SQL Server-Datenbanken sowohl vor Ort als auch in SQL Azure bereitgestellt werden.
+
+  #### Zielgruppenprofil
+  Die primäre Zielgruppe für diesen Kurs sind Personen, die SQL Server-Datenbanken verwalten und pflegen. Diese Personen sind in erster Linie für die Datenbankverwaltung und -wartung zuständig oder arbeiten in Umgebungen, in denen Datenbanken eine Schlüsselrolle bei ihrer Haupttätigkeit spielen.
+
+  Die sekundäre Zielgruppe für diesen Kurs sind Personen, die Anwendungen entwickeln, die Inhalte aus SQL Server-Datenbanken bereitstellen.
+prerequisitesSection: |-
+  Für diesen Kurs müssen Sie die folgenden Voraussetzungen erfüllen&#58;
+  - Grundkenntnisse des Microsoft Windows-Betriebssystems und seiner Kernfunktionalität.
+  - Grundkenntnisse von Transact-SQL. 
+  - Grundkenntnisse über relationale Datenbanken. 
+  - Einige Erfahrung mit Datenbankdesign.
+outlineSection: |-
+  ### Modul 1&#58; SQL Server-Komponenten
+  Dieses Modul beschreibt die verschiedenen SQL Server-Komponenten und -Versionen.
+  #### Lektionen
+  - Einführung in die SQL Server-Plattform
+  - Übersicht über die SQL Server-Architektur
+  - SQL Server-Dienste und Konfigurationsoptionen
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - SQL Server-Komponenten und -Versionen zu beschreiben.
+  - SQL Server-Architektur und Ressourcennutzung zu beschreiben.
+  - SQL Server-Dienste zu beschreiben und wie man die Konfiguration dieser Dienste hantiert.
+
+
+  ### Modul 2&#58; SQL Server installieren
+  Dieses Modul beschreibt den Prozess zum Installieren von SQL Server 2016.
+  #### Lektionen
+  - Überlegungen zur SQL-Server-Installation
+  - TempDB-Dateien
+  - SQL Server installieren
+  - Automatisierung der Installation
+
+
+  #### Lab &#58; SQL Server installieren
+  - Installation des SQL Servers vorbereiten
+  - Installieren einer Instanz von SQL Server
+  - Überprüfungen nach der Installation durchführen
+  - Automatisierung der Installation
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Beschreiben der Überlegungen bei der Installation von SQL Server.
+  - Beschreiben der TempDB-Dateien.
+  - Installieren des SQL Servers.
+  - Automatisieren einer SQL Server-Installation.
+
+
+  ### Modul 3&#58; Aktualisieren von SQL Server zu SQL Server 2017
+  Dieses Modul beschreibt den Vorgang der Aktualisierung auf SQL Server 2017.
+  #### Lektionen
+  - Anforderungen zur Aktualisierung
+  - Aktualisieren der SQL Server-Services
+  - Parallele Aktualisierung&#58; Migrieren von SQL Server-Daten und -Anwendungen
+
+
+  #### Lab &#58; Aktualisieren von SQL Server
+  - Erstellen von Anwendungsanmeldungen
+  - Sicherungen der TSQL-Datenbank wieder herstellen
+  - Verwaiste Benutzer und Datenbankkompatibilitätslevel
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Die Aktualisierungsanforderungen für SQL Server zu beschreiben. 
+  - Aktualisieren eines SQL Servers.
+  - SQL Server-Daten und -Anwendungen zu migrieren.
+
+
+  ### Modul 4&#58; Arbeiten mit Datenbanken
+  Dieses Modul beschreibt die vorinstallierten Systemdatenbanken, die physische Struktur von Datenbanken und die gängigsten Konfigurationsoptionen.
+  #### Lektionen
+  - Einführung in die Datenspeicherung mit SQL Server
+  - Speicherverwaltung für Systemdatenbanken
+  - Speicherverwaltung für Benutzerdatenbanken
+  - Verschieben und Kopieren von Datenbankdateien
+  - Pufferpool-Erweiterung
+
+
+  #### Lab &#58; Verwaltung der Datenbankspeicherung
+  - Konfigurieren des Tempdb-Speichers
+  - Erstellen von Datenbanken
+  - Anhängen einer Datenbank
+  - Pufferpool-Erweiterung aktivieren
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Die Datenspeicherung mit SQL Server zu beschreiben.
+  - Den Speicher für Systemdatenbanken zu verwalten.
+  - Den Speicher für Benutzerdatenbanken zu verwalten.
+  - Datenbankdateien zu verschieben und zu kopieren.
+  - Pufferpool-Erweiterungen zu beschreiben und zu verwenden.
+
+
+  ### Modul 5&#58; Durchführen einer Datenbankwartung
+  Dieses Modul behandelt Datenbankwartungspläne.
+  #### Lektionen
+  - Gewährleistung der Datenbankintegrität
+  - Pflege von Indizes
+  - Automatisierung der routinemäßigen Datenbankpflege
+
+
+  #### Lab &#58; Durchführen einer Datenbankwartung
+  - Verwenden von DBCC CHECKDB, um die Datenbankintegrität zu überprüfen
+  - Indizes neu erstellen
+  - Erstellen eines Datenbankwartungsplans
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Die Datenbankintegrität sicherzustellen.
+  - Indizes zu warten.
+  - Die routinemäßige Datenbankwartung zu automatisieren.
+
+
+  ### Modul 6&#58; Datenbankspeicheroptionen
+  Beschreiben der SQL Server-Speicheroptionen.
+  #### Lektionen
+  - SQL Server-Speicherleistung
+  - SMB Fileshare
+  - SQL Server-Speicher in Microsoft Azure
+  - Stretch-Datenbanken
+
+
+  #### Lab &#58; Stretch-Datenbank implementieren
+  - Stretch Datenbank-Advisor ausführen
+  - Implementieren einer Stretch-Datenbank
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - SQL Server-Speicherleistung zu beschreiben.
+  - SMB Fileshare zu beschreiben. 
+  - SQL Server-Speicher in Microsoft Azure zu erläutern.
+  - Eine Stretch-Datenbank zu beschreiben.
+
+
+  ### Modul 7&#58; Planen der Bereitstellung von SQL Server unter Microsoft Azure
+  In diesem Modul wird beschrieben, wie man die Bereitstellung von SQL Server unter Azure plant.
+  #### Lektionen
+  - Virtuelle SQL Server-Maschinen in Azure
+  - Azure-Speicherung
+  - Azure SQL-Authentifizierung
+  - Verwenden einer Azure SQL-Datenbank
+
+
+  #### Lab&#58; Planen und Bereitstellen einer Azure SQL-Datenbank
+  - Planen einer Azure SQL-Datenbank, eines Netzwerk, von Leistungsstufen und Sicherheit
+  - Bereitstellen einer Azure SQL-Datenbank
+  - Eine Verbindung zu einer Azure SQL-Datenbank herstellen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Virtuelle SQL Server-Maschinen in Azure zu beschreiben.
+  - Beschreiben des Azure-Speichers. 
+  - Erläutern der Azure SQL-Authentifizierung, -Prüfung und -Konformität.
+  - Bereitstellen einer Azure SQL-Datenbank.
+
+
+  ### Modul 8&#58; Migrieren von Datenbanken in die Azure SQL-Datenbank
+  In diesem Modul wird beschrieben, wie man Datenbanken in die Azure SQL-Datenbank migrieren kann.
+  #### Lektionen
+  - Tools zum Testen der Datenbankmigration
+  - Kompatibilitätsprobleme mit der Datenbankmigration
+  - Migrieren einer SQL Server-Datenbank zur Azure SQL-Datenbank
+
+
+  #### Lab&#58; Migrieren von SQL Server-Datenbanken nach Azure
+  - Migrationstests durchführen
+  - Migrieren einer SQL Server-Datenbank zur Azure SQL-Datenbank
+  - Testen Sie eine migrierte Datenbank
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Verschiedene Tools zum Testen der Datenbankmigration beschreiben.
+  - Kompatibilitätsprobleme mit der Datenbankmigration erläutern.
+  - Migrieren einer SQL Server-Datenbank zur Azure SQL-Datenbank.
+
+  ### Modul 9&#58; Bereitstellen von SQL Server auf einer Microsoft Azure Virtual Machine
+  In diesem Modul wird beschrieben, wie man die Bereitstellung von SQL Server unter Microsoft Azure VM planen kann.
+  #### Lektionen
+  - Bereitstellen von SQL Server auf einer Azure-VM
+  - Bereitstellen einer Datenbank für einen Microsoft Azure VM
+
+
+  #### Lab&#58; Bereitstellen von SQL Server auf einer virtuellen Azure-Maschine
+  - Bereitstellen einer Azure-VM
+  - Eine Datenbank für einen Azure VM bereitzustellen.
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - SQL Server auf einer Azure-VM bereitzustellen.
+  - Eine Datenbank für einen Microsoft Azure VM bereitzustellen.
+  - SQL Server-Verbindungen zu konfigurieren
+
+
+  ### Modul 10&#58; Verwalten von Datenbanken in der Cloud
+  In diesem Modul wird beschrieben, wie man SQL Server unter Azure verwalten kann.
+  #### Lektionen
+  - Verwalten der Azure SQL-Datenbanksicherheit
+  - Konfigurieren eines Azure-Speichers
+  - Azure-Automation
+
+
+  #### Lab&#58; Verwalten von Datenbanken in der Cloud
+  - Datenmaskierung hinzufügen
+  - Verwenden der Azure-Automatisierung, um virtuelle Maschinen zu stoppen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Azure SQL-Datenbanksicherheit zu verwalten.
+  - Konfigurieren eines Azure-Speichers.
+  - Azure Automation zu implementieren.
+

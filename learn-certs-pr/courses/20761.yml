@@ -1,0 +1,423 @@
+### YamlMime:Course
+title: Querying Data with Transact-SQL
+metadata:
+  title: 'Course 20761-C: Querying Data with Transact-SQL'
+  description: 'Course 20761-C: Querying Data with Transact-SQL'
+uid: course.20761
+courseNumber: '20761-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Beschreiben der wichtigsten Funktionen und Komponenten von SQL Server.
+- skill: Beschreiben von T-SQL, Mengen und Prädikatenlogik.
+- skill: Schreiben einer einzelnen SELECT-Tabellenanweisung.
+- skill: Schreiben einer SELECT-Anweisung mit mehreren Tabellen.
+- skill: Schreiben einer SELECT-Anweisungen mit Filterung und Sortierung.
+- skill: Beschreiben, wie SQL Server Datentypen verwendet.
+- skill: Schreiben von DML-Anweisungen.
+- skill: Schreiben von Abfragen, die integrierte Funktionen verwenden.
+- skill: Schreiben von Abfragen, die Daten aggregieren.
+- skill: Schreiben von Unterabfragen.
+- skill: Erstellen und Implementieren von Ansichten und Funktionen mit Tabellenwerten.
+- skill: Verwenden von Set-Operatoren, um Abfrageergebnisse zu kombinieren.
+- skill: Schreiben von Abfragen, die Fensterrang-, Versatz- und Aggregatfunktionen verwenden.
+- skill: Transformieren von Daten durch Implementieren von Pivot, Unpivot, Rollup und Cube.
+- skill: Erstellen und Implementieren gespeicherter Prozeduren.
+- skill: Dem T-SQL-Code Programmierkonstrukte wie Variablen, Bedingungen und Schleifen hinzufügen.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-761
+summary: |-
+  Dieser Kurs wurde entwickelt, um die Teilnehmer mit Transact-SQL vertraut zu machen. Es ist so konzipiert, dass die ersten drei Tage als Kurs für Studenten unterrichtet werden können, die das Wissen für andere Kurse im SQL Server-Curriculum benötigen. An den Tagen 4 und 5 werden die restlichen Fertigkeiten vermittelt, die für die Teilnahme an der Prüfung 70-761 erforderlich sind.
+
+  #### Zielgruppenprofil
+  Der Hauptzweck des Kurses besteht darin, den Teilnehmern ein gutes Verständnis der Transact-SQL-Sprache zu vermitteln, die von allen SQL Server-bezogenen Disziplinen verwendet wird, nämlich Datenbankadministration, Datenbankentwicklung und Geschäftsanalytik. Daher ist die primäre Zielgruppe für diesen Kurs&#58; Datenbankadministratoren, Datenbankentwickler und BI-Profis.
+prerequisitesSection: |-
+  - Grundkenntnisse des Microsoft Windows-Betriebssystems und seiner Kernfunktionalität.
+  - Grundkenntnisse über relationale Datenbanken.
+outlineSection: |-
+  ### Modul 1&#58; Einführung in Microsoft SQL Server
+  In diesem Modul werden SQL Server, die Versionen von SQL Server, einschließlich Cloud-Versionen, und das Herstellen einer Verbindung zu SQL Server mit Hilfe von SQL Server Management Studio vorgestellt.
+  #### Lektionen
+  - Die grundlegende Architektur von SQL Server
+  - SQL Server-Editionen und -Versionen
+  - Erste Schritte mit SQL Server Management Studio
+
+
+  #### Lab&#58; Arbeiten mit SQL Server -Tools
+  - Mit SQL Server Management Studio arbeiten
+  - Erstellen und Organisieren von T-SQL-Skripten
+  - Online-Bücher verwenden
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Beschreiben relationaler Datenbanken und Transact-SQL-Abfragen.
+  - Beschreiben der lokalen und Cloud-basierten Editionen und Versionen von SQL Server.
+  - Beschreiben, wie Sie mit SQL Server Management Studio (SSMS) eine Verbindung zu einer Instanz von SQL Server herstellen, die in der Instanz enthaltenen Datenbanken untersuchen und mit Skriptdateien arbeiten, die T-SQL-Abfragen enthalten.
+
+
+  ### Modul 2&#58; Einführung in die T-SQL-Abfrage
+  Dieses Modul beschreibt die Elemente von T-SQL und ihre Rolle beim Schreiben von Abfragen. Die Verwendung von Sets in SQL Server beschreiben. Die Verwendung von Prädikatenlogik in SQL Server beschreiben. - Die logische Reihenfolge von Operationen in SELECT-Anweisungen beschreiben.
+
+
+  #### Lektionen
+  - Einführung in T-SQL
+  - Sets verstehen
+  - Verstehen der Prädikatenlogik
+  - Verstehen der logischen Reihenfolge von Operationen in SELECT-Anweisungen
+
+
+  #### Lab&#58; Einführung in die Transact-SQL-Abfrage
+  - Ausführen grundlegender SELECT-Anweisungen
+  - Ausführen von Abfragen, die Daten mit Hilfe von Prädikaten filtern
+  - Ausführen von Abfragen, die Daten mit Hilfe von „ORDER BY\" sortieren
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Die Rolle von T-SQL beim Schreiben von SELECT-Anweisungen zu beschreiben.
+  - Die Elemente der T-SQL-Sprache zu beschreiben und welche Elemente beim Schreiben von Abfragen hilfreich sind.
+  - Die Konzepte der Mengenlehre, eine der mathematischen Grundlagen relationaler Datenbanken, zu beschreiben, und Ihnen dabei zu helfen, sie auf Ihre Überlegungen zur Abfrage von SQL Server anzuwenden
+  - Die Prädikatenlogik zu beschreiben und deren Anwendung zum Abfragen von SQL Server zu untersuchen.
+  - Die Elemente einer SELECT-Anweisung zu erläutern, die Reihenfolge festzulegen, in der die Elemente ausgewertet werden, und dieses Verständnis dann auf einen praktischen Ansatz zum Schreiben von Abfragen anzuwenden.
+
+
+  ### Modul 3&#58; Schreiben von SELECT-Abfragen
+  Dieses Modul führt in die Grundlagen der SELECT-Anweisung ein und konzentriert sich auf das Abfragen gegen eine einzelne Tabelle.
+  #### Lektionen
+  - Schreiben einfacher SELECT-Anweisungen
+  - Eliminieren von Duplikaten mit DISTINCT
+  - Verwendung von Spalten- und Tabellen-Aliasnamen
+  - Schreiben von einfachen CASE-Ausdrücken
+
+
+  #### Lab&#58; Schreiben von grundlegenden SELECT-Anweisungen
+  - Schreiben einfacher SELECT-Anweisungen
+  - Eliminieren von Duplikaten mit DISTINCT
+  - Verwendung von Spalten- und Tabellen-Aliasnamen
+  - Verwenden eines einfachen CASE-Ausdrucks
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Die Struktur und das Format der SELECT-Anweisung sowie Verbesserungen zu beschreiben, die Ihren Abfragen Funktionalität und Lesbarkeit verleihen
+  - Zu beschreiben, wie Duplikate mit Hilfe der DISTINCT-Klausel entfernt werden
+  - Die Verwendung von Spalten- und Tabellenalias-Namen zu beschreiben
+  - CASE-Ausdrücke verstehen und verwenden
+
+
+  ### Modul 4&#58; Mehrere Tabellen abfragen
+  In diesem Modul wird beschrieben, wie Sie Abfragen schreiben, die Daten aus mehreren Quellen in Microsoft SQL Server kombinieren.
+
+
+  #### Lektionen
+  - Joins verstehen
+  - Abfragen mit Inner Joins
+  - Abfragen mit Outer Joins
+  - Abfragen mit Cross-Joins und Self-Joins
+
+
+  #### Lab&#58; Mehrere Tabellen abfragen
+  - Schreiben von Abfragen, die innere Verknüpfungen verwenden
+  - Schreiben von Abfragen, die Inner Joins mit mehreren Tabellen verwenden
+  - Schreiben von Abfragen, die Self-Joins verwenden
+  - Schreiben von Abfragen, die äußere Verknüpfungen verwenden
+  - Schreiben von Abfragen, die Cross Joins verwenden
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Die Grundlagen von Joins in SQL Server zu erläutern 
+  - Innere Join-Abfragen zu schreiben
+  - Abfragen zu schreiben, die Outer Joins verwenden 
+  - Zusätzliche Join-Typen zu verwenden
+
+
+  ### Modul 5&#58; Sortieren und Filtern von Daten
+  Dieses Modul beschreibt das Implementieren von Sortieren und Filtern.
+  #### Lektionen
+  - Daten sortieren
+  - Filtern von Daten mit Prädikaten
+  - Filterung von Daten mit dem TOP- und OFFSET-FETCH
+  - Arbeiten mit unbekannten Werten
+
+
+  #### Lab&#58; Sortieren und Filtern von Daten
+  - Schreiben von Abfragen, die Daten mit Hilfe einer WHERE-Klausel filtern
+  - Schreiben von Abfragen zum Sortieren von Daten mit Hilfe einer ORDER BY-Klausel
+  - Schreiben von Abfragen, die Daten mit der Option TOP filtern
+  - Schreiben von Abfragen, die Daten mit Hilfe der OFFSET-FETCH-Klausel filtern
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Zu erläutern, wie Sie Ihren Abfragen eine ORDER BY-Klausel hinzufügen, um die Reihenfolge der Zeilen zu steuern, die in der Ausgabe Ihrer Abfrage angezeigt werden
+  - Zu erklären, wie WHERE-Klauseln erstellt werden, um Zeilen herauszufiltern, die nicht mit dem Prädikat übereinstimmen.
+  - Zu erläutern, wie Sie Zeilenbereiche in der SELECT-Klausel mithilfe einer TOP-Option begrenzen. 
+  - Zu erklären, wie Sie Zeilenbereiche mit der Option OFFSET-FETCH einer ORDER BY-Klausel begrenzen.
+  -Zu erklären, wie dreiwertige Logik unbekannte und fehlende Werte berücksichtigt, wie SQL Server fehlende Werte mit NULL markiert und wie Sie in Ihren Abfragen auf NULL testen.
+
+  ### Modul 6&#58; Arbeiten mit SQL Server-Datentypen
+  Dieses Modul erklärt die Datentypen, die SQL Server zum Speichern von Daten verwendet.
+  #### Lektionen
+  - Einführung in die Datentypen von SQL Server
+  - Arbeiten mit Zeichendaten
+  - Arbeiten mit Datums- und Zeitangaben
+
+
+  #### Lab&#58; Arbeiten mit SQL Server-Datentypen
+  - Schreiben von Abfragen, die Datums- und Zeitdaten zurückgeben
+  - Schreiben von Abfragen, die Datums- und Zeitfunktionen verwenden
+  - Schreiben von Abfragen, die Zeichendaten zurückgeben
+  - Schreiben von Abfragen, die Zeichenfunktionen zurückgeben
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Viele der Datentypen zu untersuchen, die SQL Server zum Speichern von Daten verwendet, und wie Datentypen zwischen Typen konvertiert werden
+  - Die zeichenbasierten SQL Server-Datentypen, die Funktionsweise von Zeichenvergleichen und einige allgemeine Funktionen zu erläutern, die Sie in Ihren Abfragen möglicherweise nützlich finden
+  - Datentypen zu beschreiben, die zum Speichern von Zeitdaten verwendet werden, wie Datums- und Uhrzeitangaben eingegeben werden, damit sie von SQL Server ordnungsgemäß analysiert werden, und wie Datums- und Uhrzeitangaben mit integrierten Funktionen bearbeitet werden.
+
+
+  ### Modul 7&#58; Verwendung von DML zum Ändern von Daten
+  In diesem Modul wird beschrieben, wie Sie DML-Abfragen erstellen und warum Sie dies möchten.
+  #### Lektionen
+  - Hinzufügen von Daten zu Tabellen
+  - Ändern und Entfernen von Daten
+  - Generieren von automatischen Spaltenwerten
+
+
+  #### Lab&#58; Verwendung von DML zum Ändern von Daten
+  - Einfügen von Datensätzen mit DML
+  - Aktualisieren und Löschen von Datensätzen mit DML
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Die Anweisungen INSERT und SELECT INTO zu verwenden
+  - UPDATE, MERGE, DELETE und TRUNCATE zu verwenden.
+
+
+  ### Modul 8&#58; Eingebaute Funktionen verwenden
+  Dieses Modul stellt einige der vielen in SQL Server integrierten Funktionen vor.
+  #### Lektionen
+  - Schreiben von Abfragen mit eingebauten Funktionen
+  - Verwendung von Konvertierungsfunktionen
+  - Verwendung logischer Funktionen
+  - Verwendung von Funktionen, die mit NULL arbeiten
+
+
+  #### Lab&#58; Eingebaute Funktionen verwenden
+  - Schreiben von Abfragen, die Konvertierungsfunktionen verwenden
+  - Schreiben von Abfragen, die logische Funktionen verwenden
+  - Schreiben von Abfragen, die auf Nullfähigkeit testen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Die von SQL Server bereitgestellten Funktionstypen zu beschreiben und sich dann auf die Arbeit mit Skalarfunktionen zu konzentrieren
+  - Zu erläutern, wie Daten mit Hilfe mehrerer SQL Server-Funktionen explizit zwischen Typen konvertiert werden
+  - Zu beschreiben, wie logische Funktionen verwendet werden, die einen Ausdruck auswerten und ein skalares Ergebnis zurückgeben.
+  - Zusätzliche Funktionen für die Arbeit mit NULL zu beschreiben
+
+
+  ### Modul 9&#58; Gruppierung und Aggregation von Daten
+  Dieses Modul beschreibt die Verwendung von Aggregatfunktionen.
+  #### Lektionen
+  - Verwendung von Aggregatfunktionen
+  - Verwendung der GROUP BY-Klausel
+  - Filtern von Gruppen mit HAVING
+
+
+  #### Lab&#58; Gruppieren und Aggregieren von Daten
+  - Schreiben von Abfragen, die die GROUP BY-Klausel verwenden
+  - Schreiben von Abfragen, die Aggregatfunktionen verwenden
+  - Schreiben von Abfragen, die unterschiedliche Aggregatfunktionen verwenden
+  - Schreiben von Abfragen, die Gruppen mit der HAVING-Klausel filtern
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Die in SQL Server integrierte Aggregatfunktion zu beschreiben und damit Abfragen zu schreiben.
+  - Abfragen zu schreiben, die Zeilen unter Verwendung der GROUP BY-Klausel trennen.
+  - Abfragen zu schreiben, die die HAVING-Klausel zum Filtern von Gruppen verwenden.
+
+
+  ### Modul 10&#58; Verwendung von Unterabfragen
+  Dieses Modul beschreibt verschiedene Arten von Unterabfragen und wie und wann sie verwendet werden sollen.
+  #### Lektionen
+  - Schreiben in sich abgeschlossener Unterabfragen
+  - Korrespondierende Unterabfragen schreiben
+  - Verwendung des EXISTS-Prädikats mit Unterabfragen
+
+
+  #### Lab&#58; Unterabfragen verwenden
+  - Schreiben von Abfragen, die in sich geschlossene Unterabfragen verwenden
+  - Schreiben von Abfragen, die skalare Unterabfragen und Unterabfragen mit mehreren Ergebnissen verwenden
+  - Schreiben von Abfragen, die korrelierte Unterabfragen und eine EXISTS-Klausel verwenden
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Zu beschreiben, wo Unterabfragen in einer SELECT-Anweisung verwendet werden dürfen.
+  - Abfragen zu schreiben, die korrelierte Unterabfragen in einer SELECT-Anweisung verwenden
+  - Abfragen zu schreiben, die EXISTS-Prädikate in einer WHERE-Klausel verwenden, um die Existenz qualifizierender Zeilen zu testen
+  - Das EXISTS-Prädikat zu verwenden, um effizient die Existenz von Zeilen in einer Unterabfrage zu prüfen.
+
+  
+  ### Modul 11&#58; Verwendung von Tabellenausdrücken
+  Zu Anfang dieses Kurses haben Sie gelernt, wie man Unterabfragen als Ausdruck verwendet, der Ergebnisse an eine äußere aufrufende Abfrage zurückgibt. Tabellenausdrücke sind wie Unterabfragen Abfrageausdrücke, aber Tabellenausdrücke erweitern diese Idee, indem Sie sie benennen und mit ihren Ergebnissen arbeiten können, wie Sie es mit Daten in einer gültigen relationalen Tabelle tun würden. Microsoft SQL Server unterstützt vier Arten von Tabellenausdrücken&#58; abgeleitete Tabellen, Common Table Expression (CTEs), Ansichten und Inline-Tabellenwertfunktionen (TVFs). In diesem Modul lernen Sie, mit diesen Formen von Tabellenausdrücken zu arbeiten und sie zu verwenden, um einen modularen Ansatz zum Schreiben von Abfragen zu erstellen.
+  #### Lektionen
+  - Ansichten verwenden
+  - Verwendung tabellenbewerteter Inline-Funktionen
+  - Abgeleitete Tabellen verwenden
+  - Gemeinsame Tabellenausdrücke verwenden
+
+
+  #### Lab&#58; Verwendung von Tabellenausdrücken
+  - Schreiben von Abfragen, die Ansichten verwenden
+  - Schreiben von Abfragen, die abgeleitete Tabellen verwenden
+  - Schreiben von Abfragen, die Common Table Expressions (CTEs) verwenden
+  - Schreiben von Abfragen mit Inline-Ausdrücken mit Tabellenwerten (TVFs)
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Abfragen zu schreiben, die Ergebnisse aus Ansichten zurückgeben.
+  - Die Anweisung CREATE FUNCTION zu verwenden, um einfache Inline-TVFs zu erstellen.
+  - Abfragen zu schreiben, die Ergebnisse aus abgeleiteten Tabellen erstellen und abrufen.
+  - Abfragen zu schreiben, die CTEs erstellen und Ergebnisse aus dem Tabellenausdruck zurückgeben.
+
+
+  ### Modul 12&#58; Verwendung von Mengenoperatoren
+  In diesem Modul wird erläutert, wie Sie mit den Mengenoperatoren UNION, INTERSECT und EXCEPT Zeilen zwischen zwei Eingabesätzen vergleichen können.
+  #### Lektionen
+  - Schreiben von Anfragen mit dem UNION-Operator
+  - Verwendung von EXCEPT und INTERSECT
+  - Verwenden von APPLY
+
+
+  #### Lab&#58; Mengenoperatoren verwenden
+  - Schreiben von Abfragen, die UNION-Set-Operatoren und UNION ALL verwenden
+  - Schreiben von Abfragen, die die Operatoren CROSS APPLY und OUTER APPLY verwenden
+  - Schreiben von Abfragen, die die Operatoren EXCEPT und INTERSECT verwenden
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Abfragen zu schreiben, die UNION zum Kombinieren von Eingabesätzen verwenden.
+  - Abfragen zu schreiben, die UNION ALL verwenden, um Eingabesätze zu kombinieren
+  - Abfragen zu schreiben, die den EXCEPT-Operator verwenden, um nur Zeilen in einem Satz zurückzugeben, nicht jedoch in einem anderen.
+  - Abfragen zu schreiben, die den INTERSECT-Operator verwenden, um nur Zeilen zurückzugeben, die in beiden Sätzen vorhanden sind
+  - Abfragen mit dem Operator CROSS APPLY zu schreiben.
+  - Abfragen mit dem Operator OUTER APPLY zu schreiben
+
+
+  ### Modul 13&#58; Verwendung von Windows Ranking-, Offset- und Aggregatfunktionen
+  Dieses Modul beschreibt die Vorteile der Verwendung von Fensterfunktionen. - Fensterfunktionen auf Zeilen beschränken, die in einer OVER-Klausel definiert sind, einschließlich Partitionen und Rahmen. - Abfragen schreiben, die Fensterfunktionen verwenden, um auf einem Fenster von Zeilen zu operieren und Ranking-, Aggregations- und Offset-Vergleichsergebnisse zurückzugeben.
+  #### Lektionen
+  - Fenster mit OVER erstellen
+  - Erkunden der Fensterfunktionen
+
+
+  #### Lab&#58; Verwendung von Windows Ranking, Offset und Aggregatfunktionen
+  - Schreiben von Abfragen, die Ranking-Funktionen verwenden
+  - Schreiben von Abfragen, die Versatzfunktionen verwenden
+  - Schreiben von Abfragen, die Window Aggregatfunktionen verwenden
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die zum Definieren von Fenstern verwendeten T-SQL-Komponenten und die Beziehungen zwischen ihnen zu beschreiben.
+  - Abfragen zu schreiben, die die OVER-Klausel mit Partitionierung, Reihenfolge und Framing verwenden, um Fenster zu definieren
+  - Abfragen zu schreiben, die Fensteraggregatfunktionen verwenden.
+  - Abfragen zu schreiben, die Fensterrangfunktionen verwenden.
+  - Abfragen zu schreiben, die Fensterversatzfunktionen verwenden
+
+
+  ### Modul 14&#58; Pivoting und Gruppieren von Sätzen
+  Dieses Modul beschreibt Schreibabfragen, mit denen Ergebnismengen gedreht und aufgehoben werden. - Abfragen schreiben, die mehrere Gruppierungen mit Gruppierungssätzen angeben
+  #### Lektionen
+  - Schreiben von Anfragen mit PIVOT und UNPIVOT
+  - Arbeiten mit Gruppierungssätzen
+
+
+  #### Lab&#58; Pivoting und Gruppieren von Sätzen
+  - Schreiben von Abfragen, die den PIVOT-Operator verwenden
+  - Schreiben von Abfragen, die den UNPIVOT-Operator verwenden
+  - Schreiben von Abfragen, die die Unterklauseln GROUPING SETS CUBE und ROLLUP verwenden
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Zu beschreiben, wie schwenkbare Daten in T-SQL-Abfragen verwendet werden können.
+  - Mit dem PIVOT-Operator Abfragen zu schreiben, die Daten von Zeilen zu Spalten schwenken.
+  - Mit dem UNPIVOT-Operator Abfragen zu schreiben, mit denen Daten aus Spalten zurück in Zeilen verschoben werden.
+  - Abfragen mit dem Unterabschnitt GROUPING SETS zu schreiben.
+  - Abfragen zu schreiben, die ROLLUP AND CUBE verwenden.
+  - Abfragen zu schreiben, die die Funktion GROUPING_ID verwenden.
+
+
+  ### Modul 15&#58; Gespeicherte Prozeduren ausführen
+  Dieses Modul beschreibt, wie Ergebnisse durch Ausführen gespeicherter Prozeduren zurückgegeben werden. - Parameter an Verfahren übergeben. - Einfache gespeicherte Verfahren erstellen, die eine SELECT-Anweisung kapseln. Dynamisches SQL mit EXEC und sp_executesql aufbauen und ausführen.
+  #### Lektionen
+  - Abfragen von Daten mit gespeicherten Verfahren
+  - Übergabe von Parametern an gespeicherte Verfahren
+  - Erstellen einfacher gespeicherter Verfahren
+  - Arbeiten mit Dynamic SQL
+
+
+  #### Lab&#58; Ausführen gespeicherter Verfahren
+  - Verwenden der EXECUTE-Anweisung zum Aufrufen gespeicherter Prozeduren
+  - Übergabe von Parametern an gespeicherte Verfahren
+  - Ausführen systemgespeicherter Abläufe
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Gespeicherte Prozeduren und deren Verwendung zu beschreiben.
+  - T-SQL-Anweisungen zu schreiben, die gespeicherte Prozeduren ausführen, um Daten zurückzugeben.
+  - EXECUTE-Anweisungen zu schreiben, die Eingabeparameter an gespeicherte Prozeduren übergeben.
+  - T-SQL-Stapel zu schreiben, die Ausgabeparameter vorbereiten und gespeicherte Prozeduren ausführen.
+  - Die Anweisung CREATE PROCEDURE zu verwenden, um eine gespeicherte Prozedur zu schreiben.
+  - Eine gespeicherte Prozedur zu erstellen, die Eingabeparameter akzeptiert.
+  - Zu beschreiben, wie T-SQL dynamisch aufgebaut werden kann.
+  - Abfragen zu schreiben, die dynamisches SQL verwenden.
+
+
+  ### Modul 16&#58; Programmierung mit T-SQL
+  Dieses Modul beschreibt, wie Sie Ihren T-SQL-Code mit Programmierelementen erweitern können.
+  #### Lektionen
+  - T-SQL-Programmierelemente
+  - Programmablauf steuern
+
+
+  #### Lab&#58; Programmieren mit T-SQL
+  - Deklarieren von Variablen und Abgrenzen von Stapeln
+  - Verwenden von Flusssteuerungselementen
+  - Verwenden von Variablen in einer Dynamic SQL-Anweisung
+  - Verwenden von Synonymen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Zu beschreiben, wie Microsoft SQL Server Auflistungen von Anweisungen als Stapel behandelt.
+  - Stapel von T-SQL-Code zur Ausführung durch SQL Server zu erstellen und zu senden.
+  - Zu beschreiben, wie SQL Server temporäre Objekte als Variablen speichert.
+  - Code zu schreiben, der Variablen deklariert und zuweist.
+  - Synonyme zu erstellen und aufzurufen
+  - Flusssteuerungselemente in T-SQL zu beschreiben.
+  - T-SQL-Code mit IFELSE-Blöcken zu schreiben.
+  - T-SQL-Code zu schreiben, der WHILE verwendet.
+
+
+  ### Modul 17&#58; Implementierung der Fehlerbehandlung
+  Dieses Modul führt in die Fehlerbehandlung für T-SQL ein.
+  #### Lektionen
+  - Implementierung der T-SQL-Fehlerbehandlung
+  - Implementierung einer strukturierten Ausnahmebehandlung
+
+
+  #### Lab&#58; Implementierung der Fehlerbehandlung
+  - Fehler mit TRY / CATCH umleiten
+  - Verwenden von THROW, um eine Fehlermeldung an einen Client zurückzugeben
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die T-SQL-Fehlerbehandlung zu implementieren.
+  - Eine strukturierte Ausnahmebehandlung zu implementieren.
+
+
+  ### Modul 18&#58; Implementierung von Transaktionen
+  Dieses Modul beschreibt die Implementierung von Transaktionen.
+  #### Lektionen
+  - Transaktionen und die Datenbank-Engines
+  - Steuerung von Transaktionen
+
+
+  #### Lab&#58; Implementierung von Transaktionen
+  - Steuern von Transaktionen mit BEGIN, COMMIT und ROLLBACK
+  - Hinzufügen einer Fehlerbehandlung zu einem CATCH-Block
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Transaktionen und die Unterschiede zwischen Batches und Transaktionen zu beschreiben.
+  - Batches zu beschreiben und zu beschreiben, wie sie von SQL Server hantiert werden.
+  - Erstellen und Verwalten von Transaktionen mit TCL-Anweisungen (Transaction Control Language).
+  - Verwenden von SET XACT_ABORT, um die SQL Server-Behandlung von Transaktionen außerhalb von TRY / CATCH-Blöcken zu definieren.
+

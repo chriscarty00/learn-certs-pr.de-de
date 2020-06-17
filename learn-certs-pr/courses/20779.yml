@@ -1,0 +1,193 @@
+### YamlMime:Course
+title: Analyzing Data with Excel
+metadata:
+  title: 'Course 20779-B: Analyzing Data with Excel'
+  description: 'Course 20779-B: Analyzing Data with Excel'
+uid: course.20779
+courseNumber: '20779-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Entdecken und erweitern eines klassisches Excel-Dashboards.
+- skill: Erkunden und erweitern eines Excel-Datenmodells.
+- skill: Vorformatieren und importieren einer CSV-Datei.
+- skill: Importieren von Daten aus einer SQL Server-Datenbank
+- skill: Importieren von Daten aus einem Bericht.
+- skill: Erstellen von Kennzahlen mit erweiterten DAX-Funktionen.
+- skill: Erstellen von Datenvisualisierungen in Excel.
+- skill: Erstellen eines Power BI-Dashboards mit Excel.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-analyst
+products:
+- office-excel
+exams:
+- uid: exam.70-779
+summary: |-
+  Der Hauptzweck des Kurses besteht darin, den Studenten die Möglichkeit zu geben, BI-Techniken zur Excel-Datenanalyse hinzuzufügen. Der Kurs geht über die Funktionen von Tabellen und Diagrammen hinaus und verwendet Pivot-Diagramme, das Excel-Datenmodell und Power BI.
+  
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an Studenten, die Erfahrung mit der Analyse von Daten mit Excel haben und BI-Techniken hinzufügen möchten. 
+
+  Der Kurs wird wahrscheinlich von SQL Server-Berichterstellern besucht, die an alternativen Methoden zur Darstellung von Daten interessiert sind.
+prerequisitesSection: |-
+  Vor Teilnahme an disesem Kurs benötigen die Teilnehmer&#58;
+  - Grundkenntnisse des Microsoft Windows-Betriebssystems und seiner Kernfunktionalität.
+  - Grundkenntnisse über relationale Datenbanken.
+  - Umfassende Kenntnisse von Excel-Tabellen, einschließlich Formeln, Diagrammen, Filtern, Sortieren und Zwischensummen.
+  - Grundkenntnisse in Datenanalyse, die dem Besuch des Kurses 10994 entsprechen.
+outlineSection: |-
+  ### Modul 1&#58; Datenanalyse in Excel
+  Dieses Modul befasst sich mit dem klassischen Excel-Dashboard und Möglichkeiten zur Erweiterung.
+  #### Lektionen
+  - Klassische Datenanalyse mit Excel
+  - Excel-Pivot-Tabellen
+  - Einschränkungen der klassischen Datenanalyse
+
+
+  #### Lab&#58; Erstellen eines klassischen Excel-Dashboards
+  - Daten formatieren
+  - Erstellen einer Pivot-Tabelle
+  - Hinzufügen von Pivot-Diagrammen und einem Slicer
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Klassische Datenanalyse mit Excel zu beschreiben
+  - Excel-Pivot-Tabellen beschreiben
+  - Die Einschränkungen der klassischen Datenanalyse mit Excel beschreiben
+
+
+  ### Modul 2&#58; Das Excel-Datenmodell
+  Dieses Modul befasst sich mit dem klassischen Excel-Datenmodell und Möglichkeiten zur Erweiterung.
+  #### Lektionen
+  - Verwenden eines Excel-Datenmodells
+  - DAX
+
+
+  #### Lab&#58; Erkunden eines Excel-Datenmodells
+  - Berechnete Spalten erstellen
+  - Datenmodell-Daten formatieren
+  - Maßnahmen erstellen
+  - Analysieren von Daten
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Ein Excel-Datenmodel zu beschreiben
+  - Anzeigen von Daten in einer Excel-Datentabelle
+  - DAX beschreiben
+
+
+  ### Modul 3&#58; Daten aus Dateien importieren
+  Dieses Modul befasst sich mit der Vorformatierung und dem Import von CSV-Dateien.
+  #### Lektionen
+  - Importieren von Daten in Excel
+  - Formen und Transformieren von Daten
+  - Daten laden
+
+
+  #### Lab&#58; Daten aus einer CSV-Datei importieren
+  - Importieren und Transformieren von Daten aus einer CSV-Datei
+  - Daten aus einem Ordner hinzufügen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Daten in Excel importieren.
+  - Daten formen und transformieren.
+  - Daten laden.
+
+
+  ### Modul 4&#58; Daten aus Datenbanken importieren
+  In diesem Modul wird beschrieben, wie Sie Daten aus einer SQL Server-Datenbank in Excel importieren.
+  #### Lektionen
+  - Verfügbare Datenquellen
+  - Vorschau, Formgebung und Transformation von Daten
+  - Tabellenbeziehungen und Hierarchien
+  - Daten laden
+
+
+  #### Lab&#58; Daten aus mehreren Quellen importieren
+  - Daten vom SQL Server importieren
+  - Daten aus einer CSV-Datei importieren
+  - Datentabelle erstellen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Verfügbare Datenquellen identifizieren.
+  - Vorschau, Form und Transformation von Daten.
+  - Tabellenbeziehungen und Hierarchien erläutern.
+  - Daten aus verschiedenen Quellen laden.
+
+
+  ### Modul 5&#58; Daten aus Excel-Berichten importieren
+  Dieses Modul beschreibt das Importieren von Daten aus einem Bericht.
+  #### Lektionen
+  - Importieren von Daten aus Excel-Berichten
+  - Transformieren von Excel-Berichtsdaten
+
+
+  #### Lab&#58; Daten aus einem Bericht importieren
+  - Daten aus Excel importieren
+  - Excel-Daten transformieren
+  - Daten in ein Excel-Datenmodell laden
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Daten aus Excel-Berichten importieren.
+  - Excel-Berichtsdaten transformieren.
+
+
+  ### Modul 6&#58; Erstellen und Formatieren von Kennzahlen
+  Dieses Modul beschreibt das Erstellen und Formatieren von Kennzahlen.
+  #### Lektionen
+  - DAX
+  - Maßnahmen
+  - Erweiterte DAX-Funktionen
+
+
+  #### Lab&#58; Erstellen von Kennzahlen mit erweiterten DAX-Funktionen
+  - Vorjahrsvergleich
+  - Seit Jahresbeginn (year-to-date)
+  - Marktanteil
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Zu erklären, was DAX ist und wann man es verwendet.
+  - Eine Maßnahme beschreiben.
+  - Einige der erweiterten Funktionen in DAX zu verwenden.
+
+
+  ### Modul 7&#58; Visualisierung von Daten in Excel
+  Dieses Modul beschreibt die Visualisierung von Daten in Excel.
+  #### Lektionen
+  - Pivot-Diagramme
+  - Würfelfunktionen
+  - Diagramme für Würfelfunktionen
+
+
+  #### Lab&#58; Datenvisualisierung in Excel
+  - Erstellen eines tabellarischen Berichts
+  - Erstellen eines Pivot-Diagramms
+  - Slicer zu Diagrammen hinzufügen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Ein Pivot-Diagramm zu erstellen und zu verfeinern.
+  - Beschreiben von Cube-Funktionen und deren Verwendung.
+  - Beschreiben einer Reihe von Diagrammen zur Verwendung mit Würfelfunktionen.
+
+
+  ### Modul 8&#58; Verwenden von Excel mit Power BI
+  Dieses Modul beschreibt die Verwendung von Excel mit Power BI.
+  #### Lektionen
+  - Power BI
+  - Hochladen von Excel-Daten in Power BI
+  - Power BI Mobile App
+
+
+  #### Lab&#58; Erstellen eines Power BI-Dashboards mit Excel
+  - Hochladen von Excel-Daten
+  - Erstellen eines Power BI-Dashboards
+  - Verwenden des Power BI-Desktops
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Beschreiben von Power Bi und den verschiedenen verfügbaren Versionen.
+  - Excel-Daten in Power BI hochladen.
+  - Beschreiben einer Power BI App.
+

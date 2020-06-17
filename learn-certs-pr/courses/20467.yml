@@ -1,0 +1,218 @@
+### YamlMime:Course
+title: Designing Business Intelligence Solutions with Microsoft SQL Server 2014
+metadata:
+  title: 'Course 20467-D: Designing Business Intelligence Solutions with Microsoft SQL Server 2014'
+  description: 'Course 20467-D: Designing Business Intelligence Solutions with Microsoft SQL Server 2014'
+uid: course.20467
+courseNumber: '20467-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planen einer BI-Lösung.
+- skill: Planen der SQL Server BI-Infrastruktur.
+- skill: Entwerfen eines Data Warehouse.
+- skill: Entwerfen einer ETL-Lösung (Extrahieren, Transformieren und Laden).
+- skill: Entwerfen analytischer Datenmodelle.
+- skill: Planen einer BI-Bereitstellungslösung.
+- skill: Entwerfen einer Berichtservice-Lösung.
+- skill: Entwerfen einer Microsoft Excel-basierten Berichtlösung.
+- skill: Planen einer SharePoint Server BI-Lösung.
+- skill: Überwachen und Optimieren einer BI-Lösung.
+- skill: Betreiben einer BI-Lösung.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-467
+summary: |-
+  In diesem Schulungskurs lernen Datenbank- und Geschäftsanalytik-Experten, wie man eine BI-Lösung plant und entwirft, die auf Microsoft SQL Server 2014 und anderen Microsoft BI-Technologien basiert.
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich nicht an Studenten, die mit SQL Server 2014 BI-Technologien noch nicht vertraut sind. Es richtet sich an BI-Experten mit Erfahrung in der Implementierung von Lösungen mit SQL Server Database Engine, SQL Server Integration Services, SQL Server Analysis Services und SQL Server Berichtservices.
+prerequisitesSection: |-
+  Zusätzlich zu ihrer Berufserfahrung sollten Kandidaten, die den Kurs besuchen, bereits über die folgenden technischen Kenntnisse verfügen&#58;
+  - Ein grundlegendes Verständnis der dimensionalen Modellierung (Sternschema) für Data Warehouses
+  - Grundlegende Kenntnisse der Serverhardware
+  - Die Möglichkeit, Integrations-Service-Pakete zu erstellen, die Kontrollfluss und Datenfluss beinhalten
+  - Die Möglichkeit, mit Analyse-Services einen mehrdimensionalen Basiscube zu erstellen
+  - Die Möglichkeit, mit PowerPivot und Analyse-Services ein grundlegendes Tabellenmodell zu erstellen
+  - Die Möglichkeit, Report-Services-Berichte mit Report Designer zu erstellen
+  - Die Möglichkeit, Authentifizierung und Berechtigungen im SQL Server-Datenbankmodul, in Analysis Services und in Berichtservices zu implementieren
+  - Vertrautheit mit SharePoint Server- und Microsoft Office-Anwendungen - insbesondere Excel
+outlineSection: |-
+  ### Modul 1&#58; Planen einer BI-Lösung
+  Mit diesem Modul können die Teilnehmer die Komponenten einer BI-Lösung planen.
+  #### Lektionen
+  - Elemente einer BI-Lösung
+  - Ein Bl-Projekt planen
+  - Die Microsoft BI-Plattform
+
+
+  #### Lab&#58; BI-Lösungen planen
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die Komponenten einer BI-Lösung zu beschreiben.
+  - Die Komponenten einer BI-Lösung zu identifizieren.
+  - Ein BI-Projekt zu planen.
+
+
+  ### Modul 2&#58; Planen der SQL Server Geschäftsanalyse-Infrastruktur
+  Dieses Modul beschreibt die Verwendung einer plangerechten BI-Infrastruktur unter Verwendung einer Reihe von BI-Parametern.
+  #### Lektionen
+  - Überlegungen zur BI-Infrastruktur
+  - Planen von Data Warehouse-Hardware
+
+
+  #### Lab&#58; Planung der BI-Infrastruktur
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die Komponenten einer BI-Infrastruktur zu beschreiben und wo Sie diese verwenden würden.
+  - Die Hardwareanforderungen einer Data Warehouse-Implementierung zu planen.
+
+
+  ### Modul 3&#58; Entwerfen eines Data Warehouse
+  In diesem Modul wird beschrieben, wie Sie ein Data Warehouse unter Berücksichtigung einer Reihe von Benutzeranforderungen entwerfen.
+  #### Lektionen
+  - Übersicht über das Data Warehouse-Design
+  - Entwerfen von Maßtabellen
+  - Entwerfen von FACT-Tabellen
+
+
+  #### Lab&#58; Entwerfen eines logischen Data Warehouse-Schemata
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Entwerfen eines Data Warehouse.
+  - Maßtabellen entwerfen.
+  - Entwerfen von FACT-Tabellen.
+  - Ein logisches Schemas für ein Data Warehouse zu entwerfen.
+
+
+  ### Modul 4&#58; Entwerfen einer ETL-Lösung
+  In dieser Lektion wird beschrieben, wie Sie eine ETL-Lösung (Extrahieren, Transformieren und Laden) entwerfen.
+  #### Lektionen
+  - ETL-Übersicht
+  - Planung der Datenextraktion
+  - Planung von Datentransformationen
+  - Planung für das Laden von Daten
+
+
+  #### Lab&#58; Entwerfen einer ETL-Lösung
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Die Komponenten einer ETL-Lösung zu beschreiben.
+  - Eine ETL-Lösung zu entwerfen.
+
+
+  ### Modul 5&#58; Entwerfen analytischer Datenmodelle
+  In diesem Modul wird beschrieben, wie analytische Datenmodelle für bestimmte BI-Szenarien entworfen werden.
+  #### Lektionen
+  - Einführung in analytische Datenmodelle
+  - Entwerfen analytischer Datenmodelle
+
+
+  #### Lab&#58; Entwerfen eines analytischen Datenmodells
+
+  #### Lab&#58; Entwerfen von Dimensionen und Hierarchien
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die Merkmale eines analytischen Datenmodells zu beschreiben.
+  - Ein analytisches Datenmodell zu entwerfen.
+
+
+  ### Modul 6&#58; Planen einer BI-Bereitstellungslösung
+  In diesem Modul wird beschrieben, wie Sie eine geeignete Bereitstellungslösung für ein bestimmtes Szenario auswählen.
+  #### Lektionen
+  - Überlegungen zur BI-Bereitstellung
+  - Allgemeine Berichtsszenarien
+  - Auswählen eines Berichterstellungstools
+
+
+  #### Lab&#58; Planen einer BI-Bereitstellungslösung
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Beschreiben der Komponenten einer BI-Bereitstellungslösung.
+  - Beschreiben einiger gängiger Berichtsszenarien.
+  - Wählen Sie eine geeignete Bereitstellungslösung für ein bestimmtes Szenario.
+
+
+  ### Modul 7&#58; Entwerfen einer Berichtservice-Lösung
+  In diesem Modul wird beschrieben, wie Sie eine Berichtservice-Lösung entwerfen.
+  #### Lektionen
+  - Planen einer Berichtlösung
+  - Entwerfen von Berichten
+  - Planungsberichtkonsistenz
+
+
+  #### Lab&#58; Entwerfen einer Berichtservice-Lösung
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Eine Berichtservice-Lösung zu planen.
+  - Berichte für Berichtservice-Lösungen zu entwerfen.
+  - Die Konsistenz der Berichterstattung zu planen
+
+
+  ### Modul 8; Entwerfen einer Excel-basierten Berichtslösung
+  In diesem Modul lernen die Teilnehmer, wie sie eine Berichtslösung mit Excel entwerfen.
+  #### Lektionen
+  - Verwenden von Excel für die Datenberichterstattung und -analyse
+  - PowerPivot in Excel
+  - Power View in Excel
+
+
+  #### Lab&#58; Design- und Excel-Berichtlösung
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die wichtigsten Funktionen von Excel-Berichtlösungen zu beschreiben.
+  - PowerPivot in Excel zu verwenden, um Berichte zu erstellen.
+  - Power View in Excel zu verwenden, um Berichte zu erstellen.
+
+
+  ### Modul 9&#58; Planen einer SharePoint Server BI-Lösung
+  Dieses Modul führt in die Verwendung von SharePoint Server als BI-Lösung ein.
+  #### Lektionen
+  - Einführung in SharePoint Server als BI-Plattform
+  - Planen der Sicherheit für eine SharePoint Server BI-Lösung
+  - Planung der Berichtservice-Konfiguration
+  - Planen der PowerPivot-Konfiguration
+  - Planung für PerformancePoint Services
+
+
+  #### Lab&#58; Implementieren einer SharePoint Server BI-Lösung
+
+  #### Lab&#58; Implementieren von PerformancePoint Services
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Komponenten einer SharePoint Server BI-Lösung zu beschreiben.
+  - Die Sicherheit für eine SharePoint Server BI-Lösung zu planen.
+  - Berichtslösungen für eine SharePoint Server BI-Lösung zu planen.
+  - Beschreiben der Komponenten einer PerformancePoint-Lösung.
+  - PerformancePoint-Dienste zu implementieren.
+
+
+  ### Modul 10&#58; Überwachung und Optimierung einer BI-Lösung
+  Am Ende dieses Moduls können Sie eine BI-Lösung optimieren und überwachen.
+  #### Lektionen
+  - Übersicht über die BI-Überwachung
+  - Überwachung und Optimierung des Data Warehouse
+  - Überwachung und Analyse von Analyse-Services
+  - Überwachung und Optimierung von Berichtservices
+
+
+  #### Lab&#58; Überwachung und Optimierung einer BI-Lösung
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Beschreiben der Optionen zur Überwachung und Optimierung einer BI-Lösung.
+  - Eine BI-Lösung zu überwachen und zu optimieren.
+
+
+  ### Modul 11&#58; Betrieb einer BI-Lösung
+  Am Ende dieses Moduls können Sie die Verwaltungs- und Wartungsvorgänge einer BI-Lösung planen.
+  #### Lektionen
+  - Übersicht über den BI-Betrieb
+  - ETL-Operationen
+  - Data Warehouse-Betrieb
+  - Analyse-Services-Betrieb
+  - Berichtservices-Betrieb
+
+
+  #### Lab&#58; Betrieb einer BI-Lösung
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die Komponenten zu beschreiben, die in einer BI-Lösung verwaltet werden sollen.
+  - In der Lage sein, die Komponenten einer BI-Lösung zu verwalten.
+

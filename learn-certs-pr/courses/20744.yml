@@ -1,0 +1,316 @@
+### YamlMime:Course
+title: Securing Windows Server 2016
+metadata:
+  title: 'Course 20744-C: Securing Windows Server 2016'
+  description: 'Course 20744-C: Securing Windows Server 2016'
+uid: course.20744
+courseNumber: '20744-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Windows Server sichern.
+- skill: Schutz von Anmeldeinformationen und Implementierung von Workstations mit privilegiertem Zugriff.
+- skill: Beschränken der Administratorrechte mit Just Enough Administration.
+- skill: Privilegierten Zugriff verwalten.
+- skill: Malware und Bedrohungen eindämmen.
+- skill: Analysieren von Aktivitäten mit erweiterter Auditing- und Protokollanalyse.
+- skill: Einsatz und Konfiguration von Advanced Threat Analytics und der Microsoft Operations Management Suite.
+- skill: Virtuelle Maschinen (VMs) der Guarded Fabric konfigurieren.
+- skill: Verwendung des Security Compliance Toolkit (SCT) und Containern zur Verbesserung der Sicherheit.
+- skill: Daten planen und schützen.
+- skill: Dateidienste optimieren und sichern.
+- skill: Secure network traffic with firewalls and encryption.
+- skill: Sichern Sie den Netzwerkverkehr mithilfe von DNSSEC und Message Analyzer.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-744
+summary: |-
+  In diesem fünftägigen, von einem Kursleiter geleiteten Kurs lernen IT-Fachleute, wie sie die Sicherheit der von ihnen verwalteten IT-Infrastruktur erhöhen können. In diesem Kurs wird zunächst betont, wie wichtig es ist, davon auszugehen, dass es bereits zu Netzwerkverstößen gekommen ist, und dann lernen Sie, wie Sie administrative Anmeldedaten und Rechte schützen können, um sicherzustellen, dass Administratoren nur die Aufgaben ausführen können, die sie auch wirklich benötigen.
+
+  In diesem Kurs wird erklärt, wie Sie Auditing und die Funktion "Erweiterte Bedrohungsanalyse" in Windows Server 2016 verwenden können, um Sicherheitsprobleme zu identifizieren. Sie lernen auch, wie Sie Malware-Bedrohungen abschwächen, Ihre Virtualisierungsplattform sichern und Einsatzoptionen wie Nano-Server und Container zur Verbesserung der Sicherheit einrichten können. Im Kurs wird auch erklärt, wie Sie den Zugriff auf Dateien durch Verschlüsselung und dynamische Zugriffskontrolle schützen können und wie Sie die Sicherheit Ihres Netzwerks erhöhen können.
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an IT-Fachleute, die Windows Server 2016-Netzwerke sicher verwalten müssen. Diese Profis arbeiten in der Regel mit Netzwerken, die als Domain-basierte Windows Server-Umgebungen mit verwaltetem Zugriff auf das Internet und Cloud-Dienste konfiguriert sind. 
+
+  Teilnehmer, die eine Zertifizierung in der Prüfung 70-744 Securing Windows Server erreichen wollen, werden ebenfalls von diesem Kurs profitieren.
+prerequisitesSection: |-
+  Die Teilnehmer sollten über mindestens zwei Jahre Erfahrung im IT-Bereich verfügen&#58;
+  - abgeschlossene Kurse 740, 741 und 742 oder eine gleichwertige Ausbildung haben.
+  - Ein solides, praktisches Verständnis der Netzwerk-Grundlagen, einschließlich TCP/IP, User Datagram Protocol (UDP) und Domain Name System (DNS).
+  - Ein solides, praktisches Verständnis der Prinzipien von Active Directory Domain Services (AD DS).
+  - Ein solides, praktisches Verständnis der Grundlagen der Microsoft Hyper-V-Virtualisierung.
+  - Ein Verständnis der Windows Server-Sicherheitsprinzipien.
+outlineSection: |-
+  ### Modul 1&#58; Angriffe, Verletzungserkennung und systeminterne Tools.
+  Dieses Modul rahmt den Kurs so ein, dass die Studierenden über Sicherheit in Umgebungen nachdenken, in denen die Basis der Infrastruktur überwiegend Microsoft-Produkte sind. Das Modul beginnt damit, dass die Teilnehmer über die Philosophie des "mutmaßlichen Sicherheitsbruchs" unterrichtet werden und die verschiedenen Arten von Angriffen verstehen lernen, die auftreten können, einschließlich Angriffszeitlinien und -vektoren. Darüber hinaus bringt es die Teilnehmer dazu, über wichtige Ressourcen nachzudenken, darüber, wie sie reagieren, wenn sie einen Vorfall entdecken, und darüber, wie die direkten Bedürfnisse und gesetzlichen Anforderungen einer Organisation ihre Sicherheitspolitik diktieren.
+  #### Lektionen
+  - Angriffe verstehen
+  - Erkennen von Sicherheitsverletzungen
+  - Prüfung der Aktivität mit den systeminternen Tools
+
+
+  #### Lab&#58; Grundlegende Strategien zur Erkennung von Verletzungen und zur Reaktion auf Vorfälle
+  - Identifizieren von Angriffstypen
+  - Systeminterne Tools erkunden
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die Arten von Angriffen beschreiben, die auftreten können.
+  - Erklären, wie Sicherheitsverletzungen aufgedeckt werden können.
+  - Erklären, wie man Aktivitäten mit Hilfe der Sysinternals-Toolsammlung untersuchen kann.
+
+
+  ### Modul 2&#58; Schutz von Anmeldeinformationen und privilegiertem Zugriff
+  Dieses Modul behandelt Benutzerkonten und -rechte, Computer- und Dienstkonten, Anmeldedaten, Arbeitsstationen mit privilegiertem Zugriff und die Passwortlösung für lokale Administratoren. In diesem Modul lernen die Kursteilnehmer die Konfiguration von Benutzerrechten und Sicherheitsoptionen, den Schutz von Berechtigungsnachweisen durch Verwendung des Credential Guard, die Implementierung von Arbeitsstationen mit privilegiertem Zugriff und die Verwaltung und Bereitstellung der Kennwortlösung für lokale Administratoren zur Verwaltung der Kennwörter für lokale Administratorkonten.
+  #### Lektionen
+  - Benutzerrechte verstehen
+  - Computer- und Dienstkonten
+  - Schützen von Anmeldeinformationen
+  - Workstations mit privilegiertem Zugriff und Jump-Server
+  - Lokale Administrator-Kennwort-Lösung
+
+
+  #### Lab&#58; Implementierung von Benutzerrechten, Sicherheitsoptionen und Gruppenverwaltungskonten
+  - Konfigurieren von Benutzerrechten und Konto-Sicherheitsoptionen
+  - Delegieren von Privilegien
+  - Erstellen von Konten für gruppenverwaltete Dienste
+  - Auffinden problematischer Konten
+
+
+  #### Lab&#58; Konfigurieren und Einrichten von LAPs
+  - Installieren und Konfigurieren von LAPs
+  - Einsatz und Erprobung von LAPs
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Benutzerrechte konfigurieren.
+  - Computer- und Dienstkonten implementieren.
+  - Anmeldeinformationen schützen.
+  - Beschreiben, wie man Privileged Access Workstations und Jump-Server konfiguriert.
+  - Die Lösung für das lokale Administratorkennwort (LAPS) konfigurieren.
+
+
+  ### Modul 3&#58; Einschränken der Administratorrechte mit Just Enough Administration
+  In diesem Modul wird erläutert, wie die Just Enough Administration (JEA) eingesetzt und konfiguriert wird. Hierbei handelt es sich um eine Verwaltungstechnologie, die es den Studenten ermöglicht, rollenbasierte Zugriffssteuerungsprinzipien (RBAC) über Windows PowerShell-Remotesitzungen anzuwenden.
+  #### Lektionen
+  - JEA verstehen
+  - Verifizierung und Einsatz von JEA
+
+
+  #### Lab&#58; Einschränkung der Administratorrechte mit JEA
+  - Erstellen einer Datei zur Rollenbefähigung
+  - Erstellen einer Sitzungs-Konfigurationsdatei
+  - Erstellen eines JEA-Endpunkts
+  - Anschließen und Testen eines JEA-Endpunkts
+  - Bereitstellen einer JEA-Konfiguration auf einem anderen Computer
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - JEA verstehen.
+  - JEA überprüfen und einrichten.
+  
+
+  ### Modul 4&#58; Verwaltung des privilegierten Zugangs und administrative Forests.
+  In diesem Modul werden die Konzepte der Wälder der Enhanced Security Administrative Environment (ESAE), des Microsoft Identity Managers (MIM) und der Just in Time (JIT)-Administration oder des Privileged Access Management (PAM) erläutert.
+  #### Lektionen
+  - ESAE-Forests
+  - Überblick über den Microsoft Identity Manager
+  - Überblick über die JIT-Verwaltung und PAM
+
+
+  #### Lab&#58; Einschränkung von Administratorrechten mit PAM
+  - Mehrschichtiger Ansatz zur Sicherheit
+  - Konfigurieren von Vertrauensbeziehungen und Schattenprinzipien
+  - Antrag auf privilegierten Zugang
+  - Verwaltung der PAM-Rollen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die ESAE-Forests beschreiben.
+  - MIM beschreiben.
+  - Verstehen der JIT-Verwaltung und PAM.
+
+
+  ### Modul 5&#58; Eindämmung von Malware und Bedrohungen
+  In diesem Modul wird die Verwendung von Tools wie Windows Defender, Windows AppLocker, Microsoft Device Guard, Windows Defender Application Guard und Windows Defender Exploit Guard erläutert.
+  #### Lektionen
+  - Konfigurieren und Verwalten von Windows Defender
+  - Software einschränken
+  - Konfigurieren und Verwenden der Funktion Device Guard
+
+
+  #### Lab&#58; Sichern von Anwendungen mit Windows Defender-, AppLocker- und Device Guard-Regeln
+  - Konfigurieren von Windows Defender
+  - Konfigurieren von AppLocker
+  - Konfigurieren von Device Guard
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Windows Defender konfigurieren und verwalten.
+  - Richtlinien zur Softwareeinschränkung und AppLocker verwenden.
+  - Die Funktion Device Guard konfigurieren und verwenden.
+
+
+  ### Modul 6&#58; Analyse von Aktivitäten mit erweitertem Auditing und Protokollanalyse
+  Dieses Modul bietet einen Überblick über die Prüfung und geht dann im Detail darauf ein, wie die erweiterte Prüfung und die Windows PowerShell-Prüfung und -Protokollierung konfiguriert werden.
+  #### Lektionen
+  - Überblick über die Auditierung
+  - Erweiterte Auditierung
+  - Windows PowerShell-Überprüfung und -Protokollierung
+
+
+  #### Lab&#58; Konfigurieren der erweiterten Auditierung
+  - Konfigurieren der Auditierung des Dateisystemzugriffs
+  - Auditierung von Domain-Anmeldungen
+  - Verwaltung einer erweiterten Audit-Richtlinien-Konfiguration
+  - Windows PowerShell-Protokollierung und -Auditierung
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Auditierung beschreiben.
+  - Erweiterte Auditierung verstehen.
+  - Windows PowerShell-Auditierung und -Protokollierung konfigurieren.
+
+
+  ### Modul 7&#58; Bereitstellen und Konfigurieren von erweiterten Bedrohungsanalysen und von Microsoft Operations Management Suite
+  Dieses Modul erklärt das Microsoft Advanced Threat Analytics-Tool und die Microsoft Operations Management Suite (OMS). Es erklärt auch, wie Sie diese zur Überwachung und Analyse der Sicherheit einer Windows Server-Einrichtung verwenden können. Sie lernen auch das Microsoft Azure Security Center kennen, mit dem Sie die Sicherheitskonfiguration von Workloads sowohl vor Ort als auch in der Cloud verwalten und überwachen können.
+  #### Lektionen
+  - Einrichtung und Konfiguration von ATA
+  - Einrichtung und Konfigurieren der Microsoft Operations Management Suite
+  - Einrichtung und Konfiguration des Azure-Sicherheitszentrums
+
+
+  #### Lab&#58; Einsatz von ATA, Microsoft Operations Management Suite und Azure Security Center
+  - Vorbereitung und Einsatz von ATA
+  - Vorbereiten und Einsetzen der Microsoft Operations Management Suite
+  - Einrichtung und Konfiguration des Azure-Sicherheitszentrums
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - ATA einrichten und konfigurieren.
+  - Microsoft Operations Management Suite einrichten und konfigurieren.
+  - Azure Sicherheitszentrum einrichten und konfigurieren.
+
+
+  ### Modul 8&#58; Sichern der Virtualisierungs-Infrastruktur
+  In diesem Modul wird erklärt, wie man Guarded Fabric-VMs konfiguriert, einschließlich der Anforderungen für geschirmte und verschlüsselungsunterstützte VMs.
+  #### Lektionen
+  - Geschützte Struktur
+  - Abgeschirmte und verschlüsselungsunterstützte virtuelle Maschinen
+
+
+  #### Lab&#58; Geschützte Struktur mit von der Administration bestätigter Bescheinigung und abgeschirmten VMs
+  - Einsatz einer geschützten Struktur mit Bestätigung durch die Verwaltung
+  - Einrichtung einer abgeschirmten VM
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die geschützte Struktur konfigurieren.
+  - Abgeschirmte und durch Verschlüsselung unterstützte VMs beschreiben.
+
+
+  ### Modul 9&#58; Sichern der Anwendungsentwicklung und der Server-Workload-Infrastruktur
+  In diesem Modul wird das SCT beschrieben, ein kostenloser, herunterladbarer Satz von Tools, mit dem Sie Sicherheitseinstellungen erstellen und anwenden können. Sie erfahren auch etwas über die Verbesserung der Plattformsicherheit durch Reduzierung der Größe und des Anwendungsbereichs sowie über die Verbesserung der Rechenressourcen durch Containerisierung von Workloads.
+  #### Lektionen
+  - Verwenden von SCT
+  - Container verstehen
+
+
+  #### Lab&#58; Verwenden von SCT
+  - Konfigurieren einer Sicherheitsbasislinie für Windows Server 2016
+  - Bereitstellen der Sicherheitsgrundlinie für Windows Server 2016
+
+
+  #### Lab&#58; Einrichten und Konfigurieren von Containern
+  - Einrichten und Verwalten eines Windows-Containers
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - SCT installieren und Sicherheitsrichtlinien erstellen und implementieren.
+  - Windows und Hyper-V-Container in Windows Server 2016 konfigurieren.
+
+
+  ### Modul 10&#58; Planung und Schutz von Daten
+  Dieses Modul erklärt, wie das Encrypting File System (EFS) und die BitLocker-Laufwerkverschlüsselung zum Schutz von Daten im Ruhezustand konfiguriert werden. Außerdem erfahren Sie, wie Sie mit Azure Information Protection den Schutz auf die Cloud ausdehnen können.
+  #### Lektionen
+  - Planung und Implementierung der Verschlüsselung
+  - Planung und Implementierung von BitLocker
+  - Schutz von Daten durch Azure Information Protection
+
+
+  #### Lab&#58; Schutz von Daten durch Verschlüsselung und BitLocker
+  - Verschlüsseln und Wiederherstellen des Zugriffs auf verschlüsselte Dateien
+  - Verwenden von BitLocker zum Schutz von Daten
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Verschlüsselung planen und implementieren.
+  - Planen und Implementieren von BitLocker.
+  - Planen und Implementieren von Azure Information Protection.
+
+
+  ### Module 11&#58; Optimierung und Sicherung von Dateidiensten
+  In diesem Modul wird erklärt, wie Datei-Dienste durch die Konfiguration von File Server Resource Manager (FSRM) und Distributed File System (DFS) optimiert werden können. Die Teilnehmer lernen auch, wie der Zugriff auf gemeinsam genutzte Dateien durch die Konfiguration von Dynamic Access Control (DAC) verwaltet wird.
+  #### Lektionen
+  - Dateiserver-Ressourcen-Manager
+  - Klassifizierungs- und Dateiverwaltungsaufgaben implementieren
+  - Dynamic Access Control
+
+
+  #### Lab&#58; Quoten und Datei-Screening
+  - Konfigurieren von Dateiserver-Ressourcen-Manager-Kontingenten
+  - Konfigurieren von Datei-Screening und Speicherberichten
+
+
+  #### Lab&#58; Implementierung von Dynamic Access Control
+  - Vorbereitungen für die Implementierung der Dynamic Access Control
+  - Implementierung der Dynamic Access Control
+  - Validierung und Korrektur der Dynamic Access Control
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Den Dateiserver-Ressourcen-Manager beschreiben.
+  - Klassifizierungs- und Dateiverwaltungsaufgaben implementieren.
+  - Dynamic Access Control implementieren.
+
+
+  ### Modul 12&#58; Sicherung des Netzwerkverkehrs mit Firewalls und Verschlüsselung
+  In diesem Modul wird erklärt, wie Sie die Windows-Firewall als wichtigen Teil der Schutzstrategie einer Organisation verwenden können. Es erklärt die Verwendung der Internetprotokollsicherheit (IPsec) zur Verschlüsselung des Netzwerkverkehrs und zur Einrichtung von Sicherheitszonen in Ihrem Netzwerk. Sie lernen auch die Datacenter-Firewall-Funktion kennen, die Sie zum Schutz Ihrer virtuellen Umgebungen vor Ort verwenden können.
+  #### Lektionen
+  - Verstehen von netzwerkbezogenen Sicherheitsbedrohungen
+  - Verstehen der Windows-Firewall mit erweiterter Sicherheit
+  - Konfigurieren von IPsec
+  - Rechenzentrum-Firewall
+
+
+  #### Lab&#58; Konfigurieren der Windows-Firewall mit erweiterter Sicherheit
+  - Erstellen und Testen eingehender Regeln
+  - Erstellen und Testen von ausgehenden Regeln
+  - Erstellen und Testen von Verbindungssicherheitsregeln
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die netzwerkbezogenen Sicherheitsbedrohungen beschreiben und Möglichkeiten zu ihrer Eindämmung aufzeigen.
+  - Windows-Firewall mit erweiterter Sicherheit konfigurieren.
+  - IPsec konfigurieren.
+  - Datacenter Firewall beschreiben.
+
+
+  ### Modul 13&#58; Sichern des Netzwerkverkehrs
+  Dieses Modul befasst sich mit einigen der Windows Server 2016-Technologien, die Sie zur Eindämmung von Bedrohungen der Netzwerksicherheit einsetzen können. Es wird erklärt, wie Sie DNSSEC konfigurieren können, um den Netzwerkverkehr zu schützen, und wie Sie Microsoft Message Analyzer zur Überwachung des Netzwerkverkehrs verwenden können. Das Modul beschreibt auch, wie der SMB-Verkehr (Server Message Block) gesichert werden kann.
+  #### Lektionen
+  - Konfigurieren von erweiterten DNS-Einstellungen
+  - Untersuchen des Netzwerkverkehrs mit Message Analyzer
+  - Sicherung und Analyse des SMB-Verkehrs
+
+
+  #### Lab&#58; Sichern von DNS
+  - Konfigurieren und Testen von DNSSEC
+  - Konfigurieren von DNS-Richtlinien und RRL
+
+
+  #### Lab&#58; Microsoft Message Analyzer und SMB-Verschlüsselung
+  - Installieren und Verwenden des Message Analyzers
+  - Konfigurieren und Verifizieren der SMB-Verschlüsselung auf SMB-Freigaben
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Erweiterte DNS-Einstellungen konfigurieren.
+  - Den Message Analyzer verwenden.
+  - Den SMB Verkehr sichern.
+

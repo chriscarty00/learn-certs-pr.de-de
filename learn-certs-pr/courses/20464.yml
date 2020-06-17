@@ -1,0 +1,282 @@
+### YamlMime:Course
+title: Developing Microsoft SQL Server 2014 Databases
+metadata:
+  title: 'Course 20464-D: Developing Microsoft SQL Server 2014 Databases'
+  description: 'Course 20464-D: Developing Microsoft SQL Server 2014 Databases'
+uid: course.20464
+courseNumber: '20464-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Einführung in die gesamte SQL Server-Plattform und ihre wichtigsten Tools. Darin werden Ausgaben, Versionen, Grundlagen der Netzteilnehmer sowie Konzepte von Diensten und Dienstkonten behandelt.
+- skill: Bestimmen geeigneter Datentypen, die beim Entwerfen von Tabellen verwendet werden sollen, Konvertieren von Daten zwischen Datentypen und Erstellen von Alias-Datentypen.
+- skill: 'Kenntnis der optimalen Entwurfspraktiken in Bezug auf SQL Server-Tabellen und die Fähigkeit, Tabellen mit T-SQL zu erstellen. (Hinweis: Partitionierte Tabellen werden nicht behandelt.) '
+- skill: Implementieren der Einschränkungen von PRIMARY KEY, FOREIGN KEY, DEFAULT, CHECK und UNIQUE und Untersuchen der kaskadierenden Einschränkungen von FOREIGN KEY.
+- skill: Bestimmen geeigneter Strategien für einzelne Spalten und zusammengesetzte Indizes.
+- skill: Erstellen von Tabellen als Stapel und Tabellen mit gebündelten Indizes. Berücksichtigen des Designs einer Tabelle und Vorschlagen einer geeigneten Struktur.
+- skill: Lesen und Interpretieren der Details allgemeiner Elemente aus Ausführungsplänen.
+- skill: Entwerfen effektiver, nicht gruppierter Indizes.
+- skill: Ansichten entwerfen und implementieren
+- skill: Entwerfen und Implementieren gespeicherter Verfahren.
+- skill: Arbeiten mit Tabellentypen und Tabellenwertparametern und Verwenden des MERGE-Statement, um gespeicherte Verfahren zu erstellen, mit denen Data Warehouses aktualisiert werden.
+- skill: Entwerfen und Implementieren von Funktionen, sowohl skalar als auch tabellenwertig. (Beschreiben, wo diese zu Leistungsproblemen führen können.)
+- skill: Durchführen die grundlegende Untersuchung einer Deadlock-Situation und Erfahrung, wie sich die Transaktionsisolationsstufen auf die Parallelität von Anwendungen auswirken.
+- skill: Verwenden sowohl des herkömmlichen T-SQL-Fehlerbehandlungscodes als auch der strukturierten Ausnahmebehandlung.
+- skill: Entwerfen und Implementieren von DML-Triggern
+- skill: Kennenlernen geeigneter Verwendungszwecke für die SQL CLR-Integration und Implementieren einer vorhandene .NET-Assembly in SQL Server.
+- skill: Speichern von XML-Daten und -Modelle in SQL Server.
+- skill: Durchführen grundlegender Abfragen zu XML-Daten in SQL Server.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-464
+summary: |-
+  Dieser 5-tägige Kurs unter Anleitung eines Kursleiters führt in SQL Server 2014 ein und beschreibt das Entwerfen, Indizieren und Abfragen von logischen Tabellen. Der Schwerpunkt liegt auch auf der Erstellung von Datenbankobjekten, einschließlich Ansichten, gespeicherten Verfahren sowie Parametern und Funktionen. In diesem Kurs werden auch andere häufig verwendete Aspekte der Verfahrenscodierung wie Indizes, Parallelität, Fehlerbehandlung und Trigger behandelt. Dieser Kurs hilft Ihnen auch, sich auf die Prüfung 70-464 vorzubereiten.
+
+  Hinweis&#58; Dieser Kurs richtet sich an Kunden, die SQL Server 2012 oder SQL Server 2014 erlernen möchten. Hier werden die neuen Funktionen in SQL Server 2014, aber auch die wichtigen Funktionen auf der gesamten SQL Server-Datenplattform abgedeckt.
+
+  #### Zielgruppenprofil
+  Die Hauptzielgruppe für diesen Kurs sind IT-Experten, die sich mit den Produktfunktionen und -technologien von SQL Server 2014 für die Implementierung einer Datenbank vertraut machen möchten. 
+
+  Die sekundäre Zielgruppe für diesen Kurs sind Personen, die Entwickler anderer Produktplattformen oder früherer Versionen von SQL Server sind und sich mit der Implementierung einer SQL Server 2014-Datenbank auskennen möchten.
+prerequisitesSection: |-
+  Für diesen Kurs müssen Sie die folgenden Voraussetzungen erfüllen&#58;
+  - Kenntnisse im Schreiben von T-SQL-Abfragen.
+  - Kenntnis grundlegender relationaler Datenbankkonzepte.
+outlineSection: |-
+  ### Modul 1&#58; Einführung in die Datenbankentwicklung
+  Dieses Modul führt in die Datenbankentwicklung und die wichtigsten Aufgaben ein, die ein Datenbankentwickler normalerweise ausführen würde.
+  #### Lektionen
+  - Einführung in die SQL Server-Plattform
+  - SQL Server-Datenbankentwicklungsaufgaben
+
+
+  #### Lab&#58; Einführung in die Datenbankentwicklung
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die Architektur und die Editionen von SQL Server 2012 beschreiben. 
+  - Mit SQL Server-Tools zu arbeiten.
+  - SQL Server-Services zu konfigurieren.
+
+
+  ### Modul 2&#58; Entwerfen und Umsetzen von Tabellen
+  In diesem Modul wird das Entwerfen, Erstellen und Ändern von Tabellen erläutert. Außerdem konzentriert es sich auf die Arbeit mit Schemata.
+  #### Lektionen
+  - Entwerfen von Tabellen
+  - Datentypen
+  - Arbeiten mit Schemata
+  - Erstellen und Ändern von Tabellen
+  - Daten partitionieren
+  - Daten komprimieren
+
+
+  #### Lab&#58; Entwerfen und Umsetzen von Tabellen
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Tabellen zu entwerfen.
+  - Mit Schemata zu arbeiten.
+  - Tabellen zu erstellen und zu ändern.
+
+
+  ### Modul 3&#58; Gewährleistung von Datenintegrität durch Einschränkungen
+  In diesem Modul wird erläutert, wie Sie Datenintegrität durchsetzen und die Domainintegrität implementieren, um qualitativ hochwertige Daten zu erhalten. Außerdem konzentriert es sich auf die Implementierung von Entitätund referentieller Integrität.
+  #### Lektionen
+  - Durchsetzung von Datenintegrität
+  - Umsetzen der Domainintegrität
+  - Umsetzung von Entität und referenzieller Integrität
+
+
+  #### Lab&#58; Gewährleistung der Datenintegrität durch Einschränkungen
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die verfügbaren Optionen zur Gewährleistung der Datenintegrität sowie die Ebenen, auf denen sie angewendet werden sollten, zu erläutern.
+  - Domainintegrität umsetzen.
+  - Die Integrität von Einheiten und Referenzen umzusetzen.
+
+
+  ### Modul 4&#58; Einführung in die Indizierung
+  Dieses Modul beschreibt das Konzept eines Index und erläutert Selektivität, Dichte und Statistik. Es behandelt geeignete Datentypauswahlmöglichkeiten und Auswahlmöglichkeiten für zusammengesetzte Indexstrukturen.
+  #### Lektionen
+  - Kernindizierungskonzepte
+  - Datentypen und Indizes
+  - Einspaltige und zusammengesetzte Indizes
+
+
+  #### Lab&#58; Indizes implementieren
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die wichtigsten Indizierungskonzepte zu beschreiben. 
+  - Geeignete Datentypen für Indizes zu wählen.
+  - Clustered- und Non-Clustered-Indizes zu entwerfen und umzusetzen.
+
+
+  ### Modul 5&#58; Entwerfen optimierter Indexstrategien
+  In diesem Modul werden Indizes und die INCLUDE-Klausel sowie die Verwendung von Auffüllungen, Hinweisen und Statistiken erläutert. Das Modul behandelt auch die Verwendung des Datenbank-Engine Tuning-Advisors und indexbezogener dynamischer Verwaltungsansichten zur Bewertung von Indexierungsstrategien.
+  #### Lektionen
+  - Indizes abdecken
+  - Verwalten von Indizes
+  - Arbeiten mit Ausführungsplänen
+  - Verwenden des DTE
+
+
+  #### Lab&#58; Entwerfen optimierter Indexstrategien
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Beschreiben der Elemente eines Ausführungsplans. 
+  - Entwerfen effektiver Indexierungsstrategien.
+  - Überwachen Ihres System, um die Leistung Ihrer Indexierungsstrategie zu bewerten.
+
+
+  ### Modul 6&#58; Columnstore-Indizes
+  In diesem Modul werden Columnstore-Indizes und ihre Verwendung zur Maximierung der Leistung und Skalierbarkeit von Datenbankanwendungen erläutert.
+  #### Lektionen
+  - Einführung in Columnstore-Indizes
+  - Entwerfen von Columnstore-Indizes
+  - Arbeiten mit Columnstore-Indizes
+
+
+  #### Lab&#58; Verwenden von Columnstore-Indizes
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Columnstore-Indizes zu erstellen.
+  - Überlegungen zum Aktualisieren von Tabellen mit nicht gruppierten Columnstore-Indizes beschreiben.
+
+
+  ### Modul 7&#58; Entwerfen und Umsetzen von Ansichten
+  In diesem Modul werden Ansichten vorgestellt und das Erstellen und Verwalten von Ansichten erläutert. Außerdem konzentriert es sich auf die Berücksichtigung von Leistungen für Ansichten.
+  #### Lektionen
+  - Einführung in Ansichten
+  - Erstellen und Verwalten von Ansichten
+  - Berücksichtigung von Leistungen für Ansichten
+
+
+  #### Lab&#58; Entwerfen und Umsetzen von Ansichten
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Erläutern der Rolle von Ansichten bei der Datenbankentwicklung. 
+  - Ansichten implementieren.
+  - Beschreiben der leistungsbezogenen Auswirkungen von Ansichten.
+
+
+  ### Modul 8&#58; Entwerfen und Implementieren gespeicherter Verfahren
+  Dieses Modul beschreibt die potenziellen Vorteile der Verwendung gespeicherter Verfahren sowie Richtlinien zu deren Erstellung.
+  #### Lektionen
+  - Einführung in gespeicherte Verfahren
+  - Arbeiten mit gespeicherten Verfahren
+  - Implementieren parametrisierter gespeicherter Verfahren
+  - Steuern des Ausführungskontextes
+
+
+  #### Lab&#58; Entwerfen und Implementieren gespeicherter Verfahren
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Beschreiben der Rolle gespeicherter Verfahren und die potenziellen Vorteile ihrer Verwendung. 
+  - Arbeiten mit gespeicherten Verfahren. 
+  - Implementieren parametrisierter gespeicherter Verfahren.
+  - Steuern des Ausführungskontextes eines gespeicherten Verfahrens.
+
+
+  ### Modul 9&#58; Entwerfen und Implementieren von benutzerdefinierten Funktionen
+  Dieses Modul erklärt, wie man benutzerdefinierte Funktionen entwirft und implementiert, die Geschäftsregeln oder Datenkonsistenz gewährleisten, und wie man bestehende, von anderen Entwicklern geschriebene Funktionen modifiziert und pflegt.
+  #### Lektionen
+  - Funktionen auf einen Blick
+  - Entwerfen und Implementieren von Skalarfunktionen
+  - Entwerfen und Implementieren von Funktionen mit Tabellenwerten
+  - Überlegungen zur Implementierung von Funktionen
+  - Alternativen zu Funktionen
+
+
+  #### Lab&#58; Entwerfen und Implementieren von benutzerdefinierten Funktionen
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Skalarfunktionen zu entwerfen und implementieren. 
+  - Entwerfen und Implementieren von Funktionen mit Tabellenwerten. 
+  - Überlegungen zur Implementierung von Funktionen.
+  - Beschreiben von Alternativen zu Funktionen.
+
+
+  ### Modul 10&#58; Reagieren auf Datenmanipulation über Trigger
+  In diesem Modul wird erläutert, was DML-Trigger sind und wie sie die Datenintegrität gewährleisten. Außerdem werden die verschiedenen verfügbaren Triggertypen und das Definieren von Triggern in einer Datenbank behandelt.
+  #### Lektionen
+  - Entwerfen von DML-Triggern
+  - Implementieren von DML-Triggern
+  - Erweiterte Triggerkonzepte
+
+
+  #### Lab&#58; Reagieren auf Datenmanipulation über Trigger
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - DML-Trigger zu entwerfen. 
+  - DML-Trigger zu implementieren.
+  - Erweiterte DML-Triggerkonzepte zu erläutern.
+
+
+  ### Modul 11&#58; Verwenden von Tabellen im Arbeitsspeicher
+  Dieses Modul behandelt die Erstellung von In-Memory-Tabellen und nativ gespeicherten Verfahren und erläutert die Vor- und Nachteile der Verwendung von In-Memory-Tabellen.
+  #### Lektionen
+  - In-Memory-Tabellen
+  - Nativ gespeicherte Verfahren
+
+
+  #### Lab&#58; In-Memory-OLTP
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Speicheroptimierte Tabellen zu entwerfen und zu implementieren.
+  - Nativ gespeicherte Verfahren zu erstellen.
+
+
+  ### Modul 12&#58; Einen verwalteten Code in SQL Server 2014 implementieren
+  In diesem Modul wird erläutert, wie man mit einem CLR-integrierten Code benutzerdefinierte Datenbankobjekte erstellt, die vom .NET Framework verwaltet werden.
+  #### Lektionen
+  - Einführung in die SQL CLR-Integration
+  - Importieren und Konfigurieren von Baugruppen
+  - Implementierung der SQL CLR-Integration
+
+
+  #### Lab&#58; Implementieren eines verwalteten Codes in SQL Server 2014
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die Bedeutung der SQL Server CLR-Integration zu erläutern. 
+  - Baugruppen zu importieren und zu konfigurieren.
+  - Objekte zu implementieren, die in .NET-Baugruppen erstellt wurden.
+
+
+  ### Modul 13&#58; Speichern und Abfragen von XML-Daten in SQL Server
+  Dieses Modul führt in XML ein und zeigt, wie XML-Daten in SQL Server gespeichert und anschließend abgefragt werden können, einschließlich Abfragen, die in einer Sprache namens XQuery geschrieben wurden.
+  #### Lektionen
+  - Einführung in XML und XML-Schemata
+  - Speichern von XML-Daten und -Schemata in SQL Server
+  - Implementierung des XML-Datentyps
+  - Verwenden des T-SQL FOR XML-Statements
+  - Erste Schritte mit XQuery
+
+
+  #### Lab&#58; Speichern und Abfragen von XML-Daten in SQL Server 2014
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - XML und XML-Schemata zu beschreiben.
+  - XML-Daten und -Schemen in SQL Server zu speichern.
+  - Den XML-Datentyp in SQL Server zu implementieren. 
+  - Das T-SQL FOR XML-Statement zu verwenden. 
+  - Mit grundlegenden XQuery-Abfragen zu arbeiten.
+  - XML in eine relationale Form zu zerstückeln.
+
+
+  ### Modul 14&#58; Arbeiten mit SQL Server 2014-Geodaten
+  In diesem Modul werden Geodaten vorgestellt und die Arbeit mit SQL Server-Geodatentypen erläutert.
+  #### Lektionen
+  - Einführung in Geodaten
+  - Arbeiten mit SQL Server-Geodatentypen
+  - Verwenden von Geodaten in Anwendungen
+
+
+  #### Lab&#58; Arbeiten mit SQL Server-Geodaten
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die Bedeutung von Geodaten und die damit verbundenen Industriestandards zu beschreiben. 
+  - Zu erklären, wie räumliche Daten in SQL Server gespeichert werden.
+  - Berechnungen für räumliche SQL Server-Daten durchzuführen und diese in Fragte zu stellen.
+
+
+  ### Modul 15&#58; Einbinden von Dateien in Datenbanken
+  #### Lektionen
+  - Abfragen von Daten mit gespeicherten Verfahren
+  - Implementieren von FILESTREAM- und Dateitabellen
+  - Durchsuchen von Dateien
+
+
+  #### Lab&#58; Implementierung einer Lösung zum Speichern von Dateien
+

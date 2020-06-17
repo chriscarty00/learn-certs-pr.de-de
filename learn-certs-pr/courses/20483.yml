@@ -1,0 +1,296 @@
+### YamlMime:Course
+title: Programming in C#
+metadata:
+  title: 'Course 20483-C: Programming in C#'
+  description: 'Course 20483-C: Programming in C#'
+uid: course.20483
+courseNumber: '20483-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Beschreiben der Kernsyntax und der Funktionen von Visual C
+- skill: Erstellen von Methoden, Behandeln von Ausnahmen und Beschreiben der Überwachungsanforderungen bei Großanwendungen.
+- skill: Implementieren Sie die Grundstruktur und die wesentlichen Elemente einer typischen Desktop-Anwendung.
+- skill: Erstellen von Klassen, Definieren und Implementieren von Schnittstellen und das Erstellen und Verwenden von generischen Sammlungen.
+- skill: Vererbung verwenden, um eine Klassenhierarchie zu erstellen und eine .NET Framework-Klasse zu erweitern.
+- skill: Lesen und Schreiben von Daten mit Hilfe von Dateieingabe/ -ausgabe und Datenstrom sowie Serialisieren und Deserialisieren von Daten in verschiedenen Formaten.
+- skill: Erstellen und verwenden eines Entity-Datenmodells für den Zugriff auf eine Datenbank und die Verwendung von LINQ zum Abfragen von Daten.
+- skill: Mit Hilfe der Typen im System.Net-Namespace und in den WCF-Datendiensten auf Remote-Daten zugreifen und diese abfragen.
+- skill: Mit Hilfe vom XAML eine grafische Benutzeroberfläche erstellen.
+- skill: Den Durchsatz und die Reaktionszeit von Anwendungen mit Hilfe von Aufgaben und asynchronen Vorgängen verbessern.
+- skill: Nicht verwaltete Bibliotheken und dynamische Komponenten in eine Visual C
+- skill: Metadaten von Typen mit Hilfe von Reflektion untersuchen, benutzerdefinierte Attribute erstellen und verwenden, Code während der Laufzeit generieren und Baugruppenversionen verwalten.
+- skill: Verschlüsseln und entschlüsseln von Daten mit symmetrischer und asymmetrischer Verschlüsselung.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.70-483
+summary: |-
+  In diesem Lehrgang lernen Entwickler die Programmierkenntnisse, die sie zum Erstellen von Windows-Anwendungen mit der Sprache Visual C# benötigen. Während ihrer fünf Tage im Kursraum besprechen die Teilnehmer die Grundlagen der Visual C# -Programmstruktur, der Sprachsyntax und der Implementierungsdetails und vertiefen ihr Wissen dann während der Woche, indem sie eine Anwendung erstellen, die mehrere Funktionen von .NET Framework 4.7 enthält.
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an erfahrene Entwickler, die bereits Programmiererfahrung in C, C++, JavaScript, Objective-C, Microsoft Visual Basic oder Java haben und die Konzepte objektorientierter Programmierung verstehen. Dieser Kurs richtet sich nicht an Teilnehmer, die noch keine Programmierkenntnisse haben. Es richtet sich an professionelle Entwickler mit mindestens einem Monat Erfahrung in der Programmierung in einer objektorientierten Umgebung.
+prerequisitesSection: |-
+  Entwickler, die an diesem Kurs teilnehmen, sollten bereits einige Erfahrung mit C# gesammelt haben, um grundlegende Programmieraufgaben zu erledigen. Insbesondere sollten die Teilnehmer praktische Erfahrungen mit C# haben, was ihr Verständnis für Folgendes beweist&#58;
+  - Wie man Variablen innerhalb einer Anwendung benennt, deklariert, initialisiert und ihnen Werte zuweist.
+  - Wie man arithmetische Operatoren zum Durchführen von arithmetischen Berechnungen mit einer oder mehreren Variablen verwendet; Vergleichsoperatoren zum Testen der Beziehung zwischen zwei Variablen oder Ausdrücken nutzt; logische Operatoren zum Kombinieren von Ausdrücken verwendet, die relationale Operatoren enthalten.
+  - Wie man die Codesyntax für einfache Programmieranweisungen mit Hilfe von Schlüsselwörtern in C# -Sprache erstellt und Syntaxfehler mit Hilfe von Visual Studio-IDE erkennt.
+  - Wie man eine einfache Verzweigungsstruktur mit Hilfe einer IF-Anweisung erstellt.
+  - Wie man eine einfache Schleifenstruktur mit Hilfe einer Laufanweisung zum Durchlaufen eines Datenarrays erstellt.
+  - Wie man Visual Studio-IDE zum Auffinden einfacher Logikfehler nutzt.
+  - Wie man eine Funktion erstellt, die Argumente akzeptiert (Parameter) und einen Wert eines bestimmten Typs zurück gibt.
+  - Wie man eine einfache Benutzeroberfläche mit Hilfe von Standardsteuerelementen aus der Visual Studio-Toolbox entwirft und erstellt.
+  - Wie man eine Verbindung zu einer SQL Server-Datenbank und Grundlagen zum Abrufen und Speichern von Daten herstellt.
+  - Wie man Daten in einer Schleife sortiert.
+  - Wie man die in einem Programm verwendeten Klassen und Methoden erkennt.
+outlineSection: |-
+  ### Modul 1&#58; Überprüfung der Visual C# -Syntax
+  Microsoft .NET Framework Version 4.7 bietet eine umfassende Entwicklungsplattform, mit der Sie Anwendungen und Dienste erstellen, bereitstellen und verwalten können. Mit .NET Framework können Sie visuell ansprechende Anwendungen erstellen, eine nahtlose Kommunikation über Technologiegrenzen hinweg ermöglichen und eine Vielzahl von Geschäftsprozessen unterstützen.
+
+  In diesem Modul lernen Sie einige der Kernfunktionen von .NET Framework und Microsoft Visual Studio kennen. Außerdem erfahren Sie mehr über einige der wichtigsten Visual C# -Konstrukte, die es Ihnen ermöglichen, mit der Entwicklung von .NET Framework-Anwendungen zu beginnen.
+
+  #### Lektionen
+  - Übersicht über das Schreiben von Anwendungen mit Hilfe von Visual C#
+  - Datentypen, Anwender und Ausdrucksformen
+  - Visual C# -Programmiersprachenkonstrukte
+
+
+  #### Lab&#58; Implementieren der Bearbeitungsfunktion für die Teilnehmerliste
+  - Implementieren der Einfügefunktion für die Teilnehmerliste
+  - Implementieren der Löschfunktion für die Teilnehmerliste
+  - Anzeigen des Alters eines Teilnehmers
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Die Architektur von .NET Framework-Anwendungen und die Funktionen von Visual Studio 2017 und Visual C# beschreiben.
+  - Grundlegende Visual C# -Datentypen, -Operatoren und -Ausdrücke verwenden.
+  - Standard-Visual C# -Konstrukte verwenden.
+
+  ### Modul 2&#58; Erstellen von Methoden, Behandeln von Ausnahmen und Überwachen von Anwendungen
+  Anwendungen bestehen häufig aus logischen Funktionseinheiten, die bestimmte Funktionen ausführen, z. B. den Zugriff auf Daten oder das Auslösen einer logischen Bearbeitung. Visual C# ist eine objektorientierte Sprache und verwendet das Konzept von Methoden, um logische Funktionseinheiten zusammenzufassen. Eine Methode kann so einfach oder so komplex sein, wie Sie möchten. Daher ist es wichtig zu berücksichtigen, was mit dem Status Ihrer Anwendung geschieht, wenn in einer Methode eine Ausnahme auftritt.
+
+  In diesem Modul lernen Sie, wie Sie Methoden erstellen und verwenden und wie Sie mit Ausnahmen umgehen. Außerdem erfahren Sie, wie Sie mit Hilfe der Protokollierung und Ablaufverfolgung die Details aller auftretenden Ausnahmen aufzeichnen.
+
+  #### Lektionen
+  - Methoden erstellen und aufrufen
+  - Erstellen überladener Methoden und Verwenden optionaler und Ausgabeparameter
+  - Behandlung von Ausnahmen
+  - Überwachen von Anwendungen
+
+
+  #### Lab&#58; Anwendungsfunktion für die Klassenregistrierung erweitern
+  - Umgestaltung des Registrierungscodes
+  - Validierung der Teilnehmerinformationen
+  - Speichern von Änderungen der Klassenliste
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Methoden erstellen und aufrufen.
+  - Überladene Methoden erstellen und optionale Parameter verwenden.
+  - Ausnahmen behandeln.
+  - Überwachen von Anwendungen mit Hilfe von Protokollierung, Ablaufverfolgung und Profilerstellung
+
+  ### Modul 3&#58; Grundlegende Typen und Konstrukte von Visual C#
+  Um effektive Anwendungen mit Hilfe von Windows Presentation Foundation (WPF) oder anderen .NET Framework-Plattformen zu erstellen, müssen Sie zunächst einige grundlegende Visual C# -Konstrukte erlernen. Sie müssen wissen, wie man einfache Strukturen erstellt, um die Datenelemente darzustellen, mit denen Sie arbeiten. Sie müssen wissen, wie man diese Strukturen in Sammlungen organisiert, damit Sie Elemente hinzufügen, Elemente abrufen und Ihre Elemente durchlaufen können. Schließlich müssen Sie wissen, wie Sie Ereignisse abonnieren, damit Sie auf die Aktionen Ihrer Benutzer reagieren können.
+
+  In diesem Modul lernen Sie, wie man Strukturen und Aufzählungen erstellt und verwendet, Daten in Sammlungen organisiert und Ereignisse erstellt und abonniert.
+
+  #### Lektionen
+  - Implementieren von Strukturen und Aufzählungen
+  - Organisieren von Daten in Listen
+  - Behandlung von Ereignissen
+
+
+  #### Lab&#58; Einen Code für die Klassenprototypanwendung schreiben
+  - Eine Navigationslogik zur Klassenprototypanwendung hinzufügen
+  - Erstellen von Datentypen zum Speichern von Benutzer- und Noteninformationen
+  - Anzeigen von Benutzer- und Noteninformationen
+
+  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Strukturen und Aufzählungen erstellen und verwenden.
+  - Verwenden Sie Auflistungsklassen, um Daten zu organisieren.
+  - Ereignisse erstellen und abonnieren.
+
+  ### Modul 4&#58; Erstellen von Klassen und Implementieren typsicherer Sammlungen
+  In diesem Modul lernen Sie, wie Sie mit Hilfe von Schnittstellen und Klassen Ihre eigenen benutzerdefinierten, wiederverwendbaren Typen definieren und erstellen. Sie erfahren auch, wie man aufzählbare, typsichere Listen eines beliebigen Typs erstellt und verwendet.
+  #### Lektionen
+  - Klassen erstellen
+  - Schnittstellen definieren und implementieren
+  - Implementierung typsicherer Sammlungen
+
+
+  #### Lab&#58; Datenvalidierung und Typensicherheit zur Anwendung hinzufügen
+  - Implementierung der Lehrer-, Schüler- und Klassenstrukturen als Klassen
+  - Hinzufügen einer Datenvalidierung zur Notenklasse
+  - Anzeigen von Teilnehmern in namentlicher Reihenfolge
+  - Lehrern ermöglichen, Klassen- und Notendaten ändern
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Klassen zu erstellen und zu instanziieren.
+  - Schnittstellen zu erstellen und instanziieren.
+  - Generika zu verwenden, um typsichere Sammlungen zu erstellen.
+
+
+  ### Modul 5&#58; Erstellen einer Klassenhierarchie mit Hilfe der Vererbung
+  In diesem Modul erfahren Sie, wie Sie mit Hilfe der Vererbung Klassenhierarchien erstellen und .NET Framework-Typen erweitern können.
+  #### Lektionen
+  - Erstellen von Klassenhierarchien
+  - Erweitern von .NET Framework-Klassen
+
+
+  #### Lab&#58; Refaktorierung der allgemeinen Funktionalität in die Benutzerklasse
+  - Refaktorierung der allgemeinen Funktionalität in die Benutzerklasse
+  - Implementieren der Kennwortkomplexität mit Hilfe einer abstrakten Methode
+  - Erstellen der benutzerdefinierten ClassFullException-Ausnahme
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Basis-und abgeleitete Klassen mit Hilfe der Vererbung zu erstellen.
+  - Klassen zu erstellen, die .NET Framework-Klassen beerben.
+
+
+  ### Modul 6&#58; Lokale Daten lesen und schreiben
+  In diesem Modul erfahren Sie, wie Sie Daten mit Hilfe von E / A-Vorgängen für transaktionale Dateiensysteme lesen und schreiben, Daten in das Dateisystem serialisieren und deserialisieren und Daten mit Hilfe von Datenströmen in das Dateisystem einlesen und schreiben.
+  #### Lektionen
+  - Lesen und Schreiben von Dateien
+  - Serialisieren und Deserialisieren von Daten
+  - Durchführen von E / A mit Hilfe von Datenströmen
+
+
+  #### Lab&#58; Generieren des Notenberichts
+  - Serialisierung von Daten für den Notenbericht als XML
+  - Vorschau zum Notenbericht
+  - Speichern der serialisierten Notendaten in einer Datei
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Daten zum und vom Dateisystem mit Hilfe von Datei-E / A. zu lesen und zu schreiben.
+  - Daten in ein Format zu konvertieren, das in eine Datei oder eine andere Datenquelle geschrieben oder aus dieser gelesen werden kann.
+  - Datenströme zu verwenden, um Daten an oder von einer Datei oder Datenquelle zu senden und zu empfangen.
+
+
+  ### Modul 7&#58; Zugriff auf eine Datenbank
+  In diesem Modul erfahren Sie, wie Sie Entity-Datenmodelle (EDMs) erstellen und verwenden und wie Sie mit Hilfe der sprachintegrierten Abfrage (LINQ) viele Datentypen abfragen.
+  #### Lektionen
+  - Erstellen und Verwenden von Entity-Datenmodellen
+  - Abfragen von Daten mit LINQ
+
+
+  #### Lab&#58; Abrufen und Ändern von Notendaten
+  - Erstellen eines Enntity-Datenmodells aus der Datenbank der Kunstschule
+  - Aktualisieren von Teilnehmer- und Notendaten mit Hilfe des Entity-Frameworks
+  - Erweitern des Entity-Datenmodells zur Validierung von Daten
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Ein EDM zu erstellen, zu verwenden und anzupassen.
+  - Daten mit LINQ abzufragen.
+
+
+  ### Modul 8&#58; Zugriff auf Ferndaten
+  In diesem Modul erfahren Sie, wie Sie Anforderungs- und Antwortklassen im System.Net-Namespace nutzen können, um entfernte Datenquellen direkt zu bearbeiten. Außerdem erfahren Sie, wie Sie mit Windows Communication Foundation (WCF) -Datendiensten ein Entity-Datenmodell (EDM) über das Web verfügbar machen und verwenden können.
+  #### Lektionen
+  - Datenzugriff über das Web
+  - Zugriff auf Daten mit Hilfe von OData Connected Services
+
+
+  #### Lab&#58; Fernabruf und Änderung von Notendaten
+  - Erstellen eines WCF-Datendienstes für die SchoolGrades-Datenbank
+  - Integration des Datenservice in die Anwendung
+  - Abrufen von Teilnehmerfotos über das Internet (wenn es die Zeit erlaubt)
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Daten an Webdienste und andere entfernte Datenquellen zu senden und von diesen zu empfangen.
+  - Zugriff auf Daten mit Hilfe von WCF Data Services.
+
+
+  ### Modul 9&#58; Entwerfen der Benutzeroberfläche für eine grafische Anwendung
+  In diesem Modul erfahren Sie, wie Sie mit XAML (Extensible Application Markup Language) und WPF (Windows Presentation Foundation) ansprechende Benutzeroberflächen erstellen können.
+  #### Lektionen
+  - Verwenden von XAML zum Entwerfen einer Benutzeroberfläche
+  - Anbindung von Steuerelementen an Daten
+
+
+  #### Lab&#58; Anpassen von Teilnehmerfotos und Gestalten der Anwendung
+  - Anpassen des Erscheinungsbilds von Teilnehmerfotos
+  - Gestalten der Anmeldeansicht
+  - Animieren des StudentPhoto-Steuerelements (wenn es die Zeit erlaubt)
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - XAML zu verwenden, um eine Benutzeroberfläche zu entwerfen.
+  - Ein XAML-Steuerelement an Daten anzubinden.
+  - Verschiedene Stile auf eine XAML-Benutzeroberfläche anzuwenden.
+
+
+  ### Modul 10&#58; Verbesserung der Anwendungsleistung und Reaktionsfähigkeit
+  In diesem Modul erfahren Sie, wie Sie die Leistung Ihrer Anwendungen verbessern können, indem Sie Ihre Vorgänge auf mehrere Threads verteilen.
+  #### Lektionen
+  - Implementierung von Multitasking
+  - Asynchrone Operationen ausführen
+  - Synchronisieren des gleichzeitigen Zugriffs auf Daten
+
+
+  #### Lab&#58; Verbesserung der Reaktionsfähigkeit und Leistung der Anwendung
+  - Sicherstellen, dass die Benutzeroberfläche beim Abrufen von Lehrerdaten weiterhin reagiert
+  - Bereitstellung von visuellem Feedback bei Langzeitbetrieb
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Die Task Parallel Library zu verwenden, um Multitasking zu implementieren.
+  - Langlebige Operationen auszuführen, ohne Threads zu blockieren.
+  - Zu steuern, wie man mit mehreren Threads gleichzeitig auf Ressourcen zugreifen kann.
+
+
+  ### Modul 11&#58; Integration in nicht verwalteten Code
+  In diesem Modul erfahren Sie, wie Sie mit einem nicht verwalteten Code in Ihren Anwendungen interagieren und sicherstellen, dass Ihr Code nicht verwaltete Ressourcen freigibt.
+  #### Lektionen
+  - Erstellen und Verwenden von dynamischen Objekten
+  - Verwalten der Lebensdauer von Objekten und Steuerung nicht verwalteter Ressourcen
+
+
+  #### Lab&#58; Aktualisieren des Notenberichts
+  - Generieren des Notenberichts mit Word
+  - Steuern der Lebensdauer von Word-Objekten durch Implementieren des Entsorgungsmusters
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Integrieren Sie einen nicht verwalteten Code mit Hilfe der DLR (Dynamic Language Runtime) in eine Microsoft Visual C # -Anwendung.
+  - Kontrollieren Sie die Lebensdauer nicht verwalteter Ressourcen und stellen Sie sicher, dass Ihre Anwendung Ressourcen freigibt.
+
+
+  ### Modul 12&#58; Wiederverwendbare Typen und Baugruppen erstellen
+  In diesem Modul erfahren Sie, wie Sie vorhandene Baugruppen mit Hilfe von Reflektion verwenden und Typen und Typelementen mit Hilfe von Attributen zusätzliche Metadaten hinzufügen. Außerdem erfahren Sie, wie Sie mit Hilfe des CodeDOM (Code Document Object Model) während der Laufzeit einen Code generieren und mit Hilfe des globalen Baugruppencaches (GAC) sicherstellen, dass Ihre Baugruppen signiert und versioniert sind und anderen Anwendungen zur Verfügung stehen.
+  #### Lektionen
+  - Untersuchen von Objektmetadaten
+  - Erstellen und Verwenden von benutzerdefinierten Attributen
+  - Generieren eines verwalteten Codes
+  - Versionierung, Signieren und Bereitstellen von Baugruppen
+
+
+  #### Lab&#58; Angeben der Daten, die in den Notenbericht aufgenommen werden sollen
+  - Erstellen und Anwenden des IncludeInReport-Attributs
+  - Aktualisieren des Berichts
+  - Zentrales Speichern der GradesUtilities-Baugruppe (wenn es die Zeit erlaubt)
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Reflektion zu verwenden, um Baugruppen zu überprüfen und auszuführen.
+  - Erstellen und verwenden von benutzerdefinierten Attributen.
+  - Verwalteten Code während der Laufzeit mit Hilfe von CodeDOM zu generiegen.
+  - Versionieren, signieren und implementieren Ihrer Baugruppen im GAC.
+
+
+  ### Modul 13&#58; Daten verschlüsseln und entschlüsseln
+  In diesem Modul lernen Sie, wie Sie symmetrische und asymmetrische Verschlüsselung implementieren und mit Hilfe von Hashes mathematische Darstellungen Ihrer Daten erstellen. Außerdem erfahren Sie, wie Sie X509-Zertifikate erstellen und verwalten und diese im asymmetrischen Verschlüsselungsprozess verwenden können.
+  #### Lektionen
+  - Implementieren der symmetrischen Verschlüsselung
+  - Implementieren der asymmetrischen Verschlüsselung
+
+
+  #### Lab&#58; Verschlüsseln und Entschlüsseln des Notenberichts
+  - Verschlüsselung des Notenberichts
+  - Verschlüsselung des Notenberichts
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Daten mit symmetrischer Verschlüsselung zu verschlüsseln.
+  - Daten mit asymmetrischer Verschlüsselung zu verschlüsseln.
+

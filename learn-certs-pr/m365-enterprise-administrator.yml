@@ -2,13 +2,15 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: Ein Microsoft 365 Enterprise Administrator nimmt teil an der Bewertung, Planung, Migration, Bereitstellung und Verwaltung von Microsoft 365 Diensten.
+  description: 'Ein Microsoft 365 Enterprise Administrator nimmt teil an der Bewertung, Planung, Migration, Bereitstellung und Verwaltung von Microsoft 365 Diensten.'
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
+  <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong></font><br/><br/></div>
+
   Microsoft 365 Enterprise Administrators bewerten, planen, migrieren, stellen bereit und verwalten Microsoft 365 Services.
-  
-  <div style='color&#58; red;'><br/>Die Expertenzertifizierung für MCSE-Produktivitätslösungen wird am 30. Juni 2020 eingestellt. Daher gilt die Expertenzertifizierung für MCSE-Produktivitätslösungen nicht als Voraussetzung für Microsoft 365 Certified: Enterprise Administrator Expert Certification nach dem 30. Juni 2021. (1 Jahr nach der Einstellung von MCSE).</div>
+
+  <div><br/><strong>Die MCSE Productivity Solutions Expert-Zertifizierung wird am 31. Januar 2021 eingestellt. Daher gilt die MCSE Productivity Solutions Expert-Zertifizierung nicht als Voraussetzung für Microsoft 365 Certified&#58; Enterprise Administrator Expert-Zertifizierung nach dem 31. Januar 2022 (1 Jahr nach der Einstellung von MCSE).</strong></div>
 subTitle: Microsoft 365 Enterprise Administrators bewerten, planen, migrieren, stellen bereit und verwalten Microsoft 365 Services.
 levels:
 - advanced
@@ -18,21 +20,17 @@ skills:
 - Verwalten Sie Benutzeridentität und Rollen
 - Verwalten Sie den Zugriff und die Authentifizierung
 - Planen Sie Office 365-Workloads und -Anwendungen
-- Implementieren Sie moderne Gerätedienste
+- Implementieren von modernen Geräte-Services
 - Implementieren Sie das Microsoft 365-Security und Threat-Management
-- Verwalten Sie Microsoft 365 Governance und Compliance
+- Verwalten von Microsoft 365 Governance und Konformität
 roles:
 - administrator
 type: role-based
 products:
 - m365
 courses:
-- uid: course.ms-100t01
-- uid: course.ms-100t02
-- uid: course.ms-100t03
-- uid: course.ms-101t01
-- uid: course.ms-101t02
-- uid: course.ms-101t03
+- uid: course.ms-100t00
+- uid: course.ms-101t00
 prerequisites:
 - uid: certification.modern-desktop
   isOptional: false
@@ -52,7 +50,7 @@ exams:
 - uid: exam.ms-101
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
@@ -66,3 +64,4 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,85 +1,91 @@
 ### YamlMime:Course
-title: Microsoft Azure Fundamentals (1 TagEnglisch)
+title: Microsoft Azure Fundamentals (1 Day)
 metadata:
-  title: 'Kurs AZ-900T01-A: Microsoft Azure Fundamentals (1 Tag Englisch)'
-  description: 'Kurs AZ-900T01-A: Microsoft Azure Fundamentals (1 Tag Englisch)'
+  title: 'Course AZ-900T01-A: Microsoft Azure Fundamentals (1 Day)'
+  description: 'Course AZ-900T01-A: Microsoft Azure Fundamentals (1 Day)'
 uid: course.az-900t01
 courseNumber: 'AZ-900T01-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Algemeine Cloud computing Konzepte verstehen
-- skill: Microsoft Azure Kerndienste verstehen
-- skill: Verstehen von Sicherheit, Datenschutz, Compliance und Vertrauen Microsoft Azure
-- skill: Pricing und Unterstützungsmodelle für Microsoft verstehen
+- skill: Allgemeine Cloud-Computing-Konzepte verstehen
+- skill: Grundlegendes zu den in Microsoft Azure verfügbaren Services verstehen
+- skill: Verständnis über Sicherheit, Datenschutz, Compliance, sowie Vertrauen in Microsoft Azure
+- skill: Preisgestaltung und Support-Modelle verstehen, die bei Microsoft verfügbar sind
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
 - beginner
 roles:
+- administrator
+- ai-engineer
+- data-analyst
+- data-engineer
+- data-scientist
+- database-administrator
 - developer
+- security-engineer
 products:
 - azure
 exams:
 - uid: exam.az-900
 summary: |-
-  Dieser Kurs richtet sich an Kandidaten, die grundlegende Kenntnisse über Cloud Services und deren Bereitstellung mit Microsoft Azure nachweisen möchten. Der Kurs kann als optionaler erster Schritt zum Erlernen von Cloud Services und Microsoft Azure absolviert werden, bevor weitere Kurse zu Microsoft Azure oder Microsoft Cloud Services absolviert werden.
+  Dieser Kurs vermittelt grundlegende Kenntnisse über Cloud-Services und wie diese Services mit Microsoft Azure bereitgestellt werden. Der Kurs kann als optionaler erster Schritt zum Erlernen von Cloud-Diensten und Microsoft Azure absolviert werden, bevor weitere Kurse zu Microsoft Azure oder Microsoft Cloud Services absolviert werden.
 
-  Der Kurs behandelt allgemeine Cloud-Computing-Konzepte sowie allgemeine Cloud-Computing-Modelle und -Dienste wie Public, Private und Hybrid Cloud sowie Infrastructure-as-a-Service (IaaS), Platform-as-a-Service(PaaS) und Software-as-a-Service (SaaS).
+  Der Kurs behandelt allgemeine Cloud-Computing-Konzepte sowie allgemeine Cloud-Computing-Modelle und -Services wie Public, Private und Hybrid Cloud sowie Infrastructure-as-a-Service (IaaS) und Plattform-as-a-Service (PaaS) sowie Software-as-a-Service (SaaS).
 
-  Außerdem werden einige der Azure Kernsdienste und Lösungen behandelt, so wie pillar services der Sicherheit, Datenschutz, Compliance und Vertrauen. Pricing und Unterstüzungsdienste in Azure sind auch ein Teil des Kurses.
+  Es werden auch einige grundlegende Azure-Services und -Lösungen sowie wichtige, fundamentale Azure-Services in Bezug auf Sicherheit, Datenschutz, Compliance und Vertrauen behandelt. Schließlich werden auch die bei Azure verfügbare Preisgestaltung und die Support-Services abgedeckt.
 
   #### Zielgruppenprofil
-  Es gibt keine Voraussetzungen für die Teilnahme am Kurs.  Er richtet sich an jeden, der mehr über Microsoft Azure lernen möchte.
+  Es gibt keine Voraussetzungen für die Teilnahme am Kurs. Er richtet sich an alle, die mehr über Microsoft Azure erfahren möchten.
 prerequisitesSection: |-
   Es gibt keine Voraussetzungen für die Teilnahme am Kurs. Technische IT-Erfahrung ist nicht erforderlich, jedoch sind allgemeine IT-Kenntnisse und Erfahrungen von Vorteil.
 outlineSection: |-
   ### Modul 1&#58; Cloud-Konzepte
-  In diesem Modul geht es um die grundlegenden Cloud Konzepte
+  In diesem Modul lernen Sie grundlegende Cloud-Konzepte.
   #### Lektionen
-  - Lernobjekte
-  - Warum Cloud Services?
-  - Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS) und Software-as-a-Service (SaaS)
-  - Public, Private, und Hybrid cloud Modelle
+  - Lernziele
+  - Warum Cloud-Services?
+  - Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS) , und Software-as-a-Service (SaaS)
+  - Öffentliche, private und hybride Cloud-Modelle
 
-  Nach Abschluss des Moduls können die Teilnehmer&#58;
-  - algemeine Cloud computing Konzepte verstehen
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Allgemeine Cloud-Computing-Konzepte verstehen
 
 
   ### Modul 2&#58; Core Azure Services
-  In diesem Modul werden die grundlegenden Kerndienste in Microsoft Azure vorgestellt.
+  In diesem Modul lernen Sie die Kern-Services von Microsoft Azure kennen.
   #### Lektionen
   - die wichtigsten Azure-Architekturkomponenten
   - die wichtigsten Azure Dienste und Produkte
   - Azure Solutions
   - Azure management tools
 
-  Nach Abschluss des Moduls können die Teilnehmer&#58;
-  - die wichtigsten dienste verstehe
-  Microsoft Azure
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Kern-Services verstehen, die verfügbar sind bei Microsoft Azure
 
   ### Modul 3&#58; Sicherheit, datenschutz, Compliance und Vertrauen
-  In diesem Modul lernen Sie etwas über Sicherheit, Datenschutz, Compliance und Vertrauen in Microsoft Azure
+  In diesem Modul Mehr erfahren über Sicherheit, Datenschutz, Compliance und Vertrauen in Microsoft Azure.
   #### Lektionen
-  - Sicherung der Netzwerkkonnektivität unter Azure
+  - Sichern der Netzwerkkonnektivität in Azure
   - Kern-Azure Identity Services
   - Sicherheitstools und -Funktionen
   - Azure Governance Methodologies
   - Überwachung und Berichterstellung in Azure
-  - Privacy, Compliance, Datenschutzstandards in Azure
+  - Datenschutz-, Compliance- und Datenschutzstandards in Azure
 
-  Nach Abschluss des Moduls können die Teilnehmer&#58;
-  - Verstehen von
-  Sicherheit, Datenschutz, Compliance und Vertrauen in Microsoft Azure
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Verständnis von Sicherheit, Datenschutz, Compliance und Vertrauen in Microsoft Azure
 
   ### Modul 4&#58; Azure Pricing and Support
-  In diesem Modul liegt der Fokus auf Pricing und Unterstützungsmodelle in Microsoft.
+  In diesem Modul konzentrieren wir uns auf die bei Microsoft verfügbare Preisgestaltung sowie Supportmodelle.
   #### Lektionen
-  -  Azure Abos
+  - Azure Abos
   - Kostenplanung und Verwaltung
-  - Support Optionen für Azure
+  - In Azure verfügbare Supportoptionen
   - Service Lifecycle in Azure
 
-  Nach Abschluss des Moduls können die Teilnehmer&#58;
-  - Pricing und Unterstützungsmodelle für Microsoft verstehen
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Preisgestaltung und Support-Modelle verstehen, die bei Microsoft verfügbar sind
+

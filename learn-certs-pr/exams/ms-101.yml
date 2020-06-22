@@ -1,60 +1,64 @@
 ### YamlMime:Examination
 title: Microsoft 365 Mobility and Security
 metadata:
-  title: 'Prüfung MS-101: Microsoft 365 Mobility and Security'
-  description: 'Prüfung MS-101: Microsoft 365 Mobility and Security'
+  title: 'Exam MS-101: Microsoft 365 Mobility and Security'
+  description: 'Exam MS-101: Microsoft 365 Mobility and Security'
 uid: exam.ms-101
 displayName: MS-101
-summary: >-
-  Kandidaten für diese Prüfung sind Microsoft 365 Enterprise Administratoren, die an Bewertung, Design, Migration, Bereitstellung und Verwaltung von Microsoft 365-Diensten mitwirken. Sie führen Verwaltungsaufgaben im Bereich der Microsoft 365 Mietverhältnisse für Unternehme durch, inkl. Identitäten, Sicherheit, Konformität und unterstützenden Technologien.
+summary: |-
+  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
 
+  Kandidaten für dieses examens sind Microsoft 365 Enterprise Administratoren, die an der Bewertung, Design, Migration, Bereitstellung und Verwaltung von Microsoft 365 Diensten mitwirken. Sie führen Verwaltungsaufgaben im Bereich der Microsoft 365 Mietverhältnisse für Unternehme durch, inkl. Identitäten, Sicherheit, Konformität und unterstützenden Technologien.
 
-  Kandidaten haben Erfahrung in der praktischen Nutzung von Microsoft 365 Workloads und sollten seit mindestens einem Jahr als Microsoft 365 Workload Administrator gearbeitet haben (Exchange, SharePoint, Skype for Business, oder Windows as a Service) Kandidaten sollten auch Erfahrung haben im Networking, Server Administration und IT Grundlagen wie DNS, Active Directory und PowerShell.
-subTitle: 'Diese Prüfung misst Ihre Kompetenz, folgende technische Aufgaben zu erfüllen: Implementierung moderner Gerätedienste; Implementierung von Microsoft 365 Sicherheits- und Bedrohungsmanagement; und Management von Microsoft 365 Governance und Konformität.'
+   Kandidaten haben Erfahrung in der praktischen Nutzung von Microsoft 365 Workloads und sollten seit mindestens einem Jahr als Microsoft 365 Workload Administrator gearbeitet haben (Exchange, SharePoint, Skype for Business, oder Windows as a Service). Kandidaten sollten auch Erfahrung haben im Networking, Server Administration und IT Grundlagen wie DNS, Active Directory und PowerShell.
+subTitle: 'dieses examens misst Ihre Kompetenz, folgende technische Aufgaben zu erfüllen: Implementierung moderner Gerätedienste; Implementierung von Microsoft 365 Sicherheits- und Bedrohungsmanagement; und Management von Microsoft 365 Governance und Konformität.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
 practiceTestUrl: https://us.mindhub.com/p/MU-MS-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MS-101&examname=Exam%20MS-101:%20Microsoft%20365%20Mobility%20and%20Security&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-101
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MS-101&examname=Prüfung%20MS-101:%20Microsoft%20365%20Mobility%20and%20Security&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-101
 levels:
 - advanced
 skills:
+- 'HINWEIS: Die Aufzählungszeichen, die unter den im folgenden Dokument gemessenen Fähigkeiten angezeigt werden, sollen veranschaulichen, wie wir diese Fähigkeiten bewerten. Diese Liste ist nicht endgültig oder vollständig.'
 - Implementieren von modernen Geräte-Services (30-35%)
-- Implementieren des Microsoft 365 Sicherheits- und Bedrohungs-Management (30-35%)
+- Implementieren Sie das Microsoft 365-Security und Threat-Management (30-35%)
 - Verwalten von Microsoft 365 Governance und Konformität (35-40%)
 roles:
 - administrator
-exams:
-- uid: exam.ms-100
 products:
 - m365
 - azure-active-directory
 - office-365
+exams:
+- uid: exam.ms-100
 courses:
-- uid: course.ms-101t01
-- uid: course.ms-101t02
-- uid: course.ms-101t03
+- uid: course.ms-101t00
 relatedCertifications:
 - related:
     uid: certification.m365-enterprise-administrator
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Prüfungswiederholung
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
+

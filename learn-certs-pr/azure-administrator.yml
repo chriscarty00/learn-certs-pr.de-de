@@ -2,14 +2,20 @@
 title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Administrator Associate'
-  description: 'Azure-Administratoren implementieren, überwachen und warten Microsoft Azure-Lösungen, einschließlich wichtiger Dienste in den Bereichen Computer, Speicher, Netzwerk und Sicherheit.'
+  description: 'Azure-Administratoren implementieren, verwalten und überwachen die Microsoft Azure-Umgebung eines Unternehmens.'
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></font></div>
 
-  Azure-Administratoren implementieren, überwachen und warten Microsoft Azure-Lösungen, einschließlich wichtiger Dienste in den Bereichen Computer, Speicher, Netzwerk und Sicherheit.
-subTitle: Azure-Administratoren implementieren, überwachen und warten Microsoft Azure-Lösungen, einschließlich wichtiger Dienste in den Bereichen Computer, Speicher, Netzwerk und Sicherheit.
+  Kandidaten für die Azure Administrator Associate-Zertifizierung sollten über Fachkenntnisse in der Implementieren, Verwaltung und Überwachung der Microsoft Azure-Umgebung eines Unternehmens verfügen.
+
+  Zu den Aufgaben in dieser Position gehören das Implementieren, Verwalten und Überwachen von Identitäts-, Governance-, Speicher-, Compute- und virtuellen Netzwerken in einer Cloud-Umgebung sowie die Bereitstellung, Größe, Überwachung und Anpassung von Ressourcen, je nach Bedarf.
+
+  Ein Azure-Administrator ist häufig Teil eines größeren Teams, das sich mit der Implementieren der Cloud-Infrastruktur Ihres Unternehmens befasst.
+
+  Ein Kandidat für Diese Zertifizierung sollte mindestens sechs Monate praktische Erfahrung in der Verwaltung von Azure sowie ein umfassendes Verständnis der wichtigsten Azure-Services, Azure-Workloads, Sicherheit und Governance haben. Darüber hinaus sollte man in dieser Rolle Erfahrung mit PowerShell-, Azure CLI-, Azure Portal- und Azure Resource Manager-Vorlagen haben.
+subTitle: Azure-Administratoren implementieren, verwalten und überwachen die Microsoft Azure-Umgebung eines Unternehmens.
 levels:
 - intermediate
 skills:
@@ -29,23 +35,22 @@ products:
 - azure-virtual-network
 - azure-resource-manager
 courses:
+- uid: course.az-010t00
 - uid: course.az-104t00
 paths:
-- uid: learn.administer-infrastructure-resources-in-azure
-- uid: learn.architect-storage-infrastructure
-- uid: learn.architect-network-infrastructure
-- uid: learn.architect-infrastructure-operations
-- uid: learn.architect-compute-infrastructure
-- uid: learn.architect-migration-bcdr
-- uid: learn.manage-resources-in-azure
-- uid: learn.security.manage-identity-and-access
-- uid: learn.security.manage-security-operations
-- uid: learn.security.implement-resource-mgmt-security
-- uid: learn.administer-containers-in-azure
+- uid: learn.az104-admin-prerequisites
+- uid: learn.az-104-manage-identities-governance
+- uid: learn.az-104-manage-storage
+- uid: learn.az-104-manage-compute-resources
+- uid: learn.az-104-manage-virtual-networks
+- uid: learn.az-104-monitor-backup-resources
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF
 exams:
 - uid: exam.az-104
 resources:
+- title: Azure-Zertifizierungsplakat
+  description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Azure an.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

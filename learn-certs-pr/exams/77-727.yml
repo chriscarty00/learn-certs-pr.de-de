@@ -1,19 +1,28 @@
 ### YamlMime:Examination
 title: 'Excel 2016: Core Data Analysis, Manipulation, and Presentation'
 metadata:
-  title: 'Prüfung 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation'
-  description: 'Prüfung 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation'
+  title: 'Exam 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation'
+  description: 'Exam 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation'
 uid: exam.77-727
 displayName: 77-727
-summary: "Erfolgreiche Kandidaten für die MOS Excel 2016-Prüfung verfügen über umfassende Kenntnisse im Umgang mit der Excel-Umgebung und sind in der Lage, umfassende Aufgaben eigenständig zu bearbeiten. Sie kennen und demonstrieren die korrekte Anwendung der grundlegenden Funktionen von Excel 2016. Kandidaten erstellen und bearbeiten eine Arbeitsmappe mit mehreren Blättern und verwenden ein grafisches Element, um Daten visuell darzustellen. Dazu gehören zum Beispiel professionell aussehende Kostenaufstellungen, Finanzübersichten, Teamleistungstabellen, Rechnungen und Dateneingabeprotokolle.\n\nMicrosoft Office Specialist (MOS) 2016 Zertifizierungsprüfungen führen ein neues leistungsbasiertes Format ein, mit dem die Kenntnisse, Fähigkeiten und Fähigkeiten eines Kandidaten mit Hilfe der MOS 2016-Programme besser getestet werden können&#58;\n- MOS 2016 Exam Task Instructions enthalten in der Regel nicht den Befehlsnamen, wie in früheren Versionen. So werden beispielsweise Funktionsnamen vermieden und durch Deskriptoren ersetzt. Das bedeutet, dass die Kandidaten den Zweck und die gemeinsame Nutzung der Programmfunktionalität verstehen müssen, um die Aufgaben in jedem der Projekte erfolgreich zu bewältigen.\n- Das MOS 2016-Prüfungsformat umfasst mehrere Projekte. \n"
-subTitle: Erfolgreiche Kandidaten für die MOS Excel 2016-Prüfung verfügen über umfassende Kenntnisse im Umgang mit der Excel-Umgebung und sind in der Lage, umfassende Aufgaben eigenständig zu bearbeiten. Sie kennen und demonstrieren die korrekte Anwendung der grundlegenden Funktionen von Excel 2016. Kandidaten erstellen und bearbeiten eine Arbeitsmappe mit mehreren Blättern und verwenden ein grafisches Element, um Daten visuell darzustellen. Dazu gehören zum Beispiel professionell aussehende Kostenaufstellungen, Finanzübersichten, Teamleistungstabellen, Rechnungen und Dateneingabeprotokolle.
+summary: |+
+  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+
+  Erfolgreiche Kandidaten für die Microsoft Office Specialist Excel 2016-Prüfung verfügen über umfassende Kenntnisse im Umgang mit der Excel-Umgebung und sind in der Lage, umfassende Aufgaben eigenständig zu bearbeiten. Sie kennen und demonstrieren die korrekte Anwendung der grundlegenden Funktionen von Excel 2016. Kandidaten erstellen und bearbeiten eine Arbeitsmappe mit mehreren Blättern und verwenden ein grafisches Element, um Daten visuell darzustellen. Dazu gehören zum Beispiel professionell aussehende Kostenaufstellungen, Finanzübersichten, Teamleistungstabellen, Rechnungen und Dateneingabeprotokolle.
+
+  Microsoft Office Specialist (MOS) 2016 Zertifizierungsprüfungen führen ein neues leistungsbasiertes Format ein, mit dem die Kenntnisse, Fähigkeiten und Fähigkeiten eines Kandidaten mit Hilfe der MOS 2016; besser getestet werden können&#58;
+  - MOS 2016 Exam Task Instructions enthalten in der Regel nicht den Befehlsnamen, wie in früheren Versionen. So werden beispielsweise Funktionsnamen vermieden und durch Deskriptoren ersetzt. Das bedeutet, dass die Kandidaten den Zweck und die gemeinsame Nutzung der Programmfunktionalität verstehen müssen, um die Aufgaben in jedem der Projekte erfolgreich zu bewältigen.
+  - Das MOS 2016-Prüfungsformat umfasst mehrere Projekte.
+subTitle: Erfolgreiche Kandidaten für die Microsoft Office Specialist Excel 2016-Prüfung verfügen über umfassende Kenntnisse im Umgang mit der Excel-Umgebung und sind in der Lage, umfassende Aufgaben eigenständig zu bearbeiten. Sie kennen und demonstrieren die korrekte Anwendung der grundlegenden Funktionen von Excel 2016. Kandidaten erstellen und bearbeiten eine Arbeitsmappe mit mehreren Blättern und verwenden ein grafisches Element, um Daten visuell darzustellen. Dazu gehören zum Beispiel professionell aussehende Kostenaufstellungen, Finanzübersichten, Teamleistungstabellen, Rechnungen und Dateneingabeprotokolle.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfJ
 providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
+- ar-sa
+- bg-bg
 - zh-cn
 - zh-tw
 - de
@@ -33,9 +42,10 @@ locales:
 levels:
 - intermediate
 skills:
+- 'HINWEIS: Die Aufzählungszeichen, die unter den im folgenden Dokument gemessenen Fähigkeiten angezeigt werden, sollen veranschaulichen, wie wir diese Fähigkeiten bewerten. Diese Liste ist nicht endgültig oder vollständig.'
 - Erstellen und verwalten von Arbeitsblättern und Arbeitsmappen (30-35%)
 - Verwalten von Datenzellen und Bereichen (15-20%)
-- Tabellen erstellen (15-20%)
+- Erstellen einer Tabelle (15-20%)
 - Operationen mit Formeln und Funktionen ausführen (10-15%)
 - Erstellen von Diagrammen und Objekten (15-20%)
 roles:
@@ -47,14 +57,15 @@ relatedCertifications:
     uid: certification.mos-excel-2016
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
+

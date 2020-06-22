@@ -1,61 +1,65 @@
 ### YamlMime:Examination
 title: Microsoft 365 Identity and Services
 metadata:
-  title: 'Prüfung MS-100: Microsoft 365 Identity and Services'
-  description: 'Prüfung MS-100: Microsoft 365 Identity and Services'
+  title: 'Exam MS-100: Microsoft 365 Identity and Services'
+  description: 'Exam MS-100: Microsoft 365 Identity and Services'
 uid: exam.ms-100
 displayName: MS-100
-summary: >-
-  Kandidaten für diese Prüfung sind Microsoft 365 Enterprise Administratoren, die an der Bewertung, Design, Migration, Bereitstellung und Verwaltung von Microsoft 365 Diensten mitwirken. Sie führen Verwaltungsaufgaben im Bereich der Microsoft 365 Mietverhältnisse für Unternehme durch, inkl. Identitäten, Sicherheit, Konformität und unterstützenden Technologien.
+summary: |-
+  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
 
+  Kandidaten für dieses examens sind Microsoft 365 Enterprise Administratoren, die an der Bewertung, Design, Migration, Bereitstellung und Verwaltung von Microsoft 365 Diensten mitwirken. Sie führen Verwaltungsaufgaben im Bereich der Microsoft 365 Mietverhältnisse für Unternehme durch, inkl. Identitäten, Sicherheit, Konformität und unterstützenden Technologien.
 
-  Kandidaten haben Erfahrung in der praktischen Nutzung von Microsoft 365 Workloads und sollten seit mindestens einem Jahr als Microsoft 365 Workload Administrator gearbeitet haben (Exchange, SharePoint, Skype for Business, oder Windows as a Service) Kandidaten sollten auch Erfahrung haben im Networking, Server Administration und IT Grundlagen wie DNS, Active Directory und PowerShell.
-subTitle: 'Diese Prüfung misst Ihre Kompetenz, folgende technische Aufgaben zu erfüllen: Design und Implementierung von Microsoft 365-Diensten, Verwaltung von Benutzeridentität und -funktionen, Verwaltung von Zugriff und Authentifizierung, und Design von Office 365-Workloads und -Anwendungen.'
+  Kandidaten haben Erfahrung in der praktischen Nutzung von Microsoft 365 Workloads und sollten seit mindestens einem Jahr als Microsoft 365 Workload Administrator gearbeitet haben (Exchange, SharePoint, Skype for Business, oder Windows as a Service). Kandidaten sollten auch Erfahrung haben im Networking, Server Administration und IT Grundlagen wie DNS, Active Directory und PowerShell.
+subTitle: 'dieses examens misst Ihre Kompetenz, folgende technische Aufgaben zu erfüllen: Design und Implementierung von Microsoft 365-Diensten, Verwaltung von Benutzeridentität und -funktionen, Verwaltung von Zugriff und Authentifizierung, und Design von Office 365-Workloads und -Anwendungen.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVE
 practiceTestUrl: https://us.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MS-100&examname=Exam%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-100
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MS-100&examname=Prüfung%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-100
 levels:
 - advanced
 skills:
-- Design und Implementieren von Microsoft 365-Services (25-30%)
-- Nutzeridentität und -funktionen verwalten (35-40%)
-- Zugriff und Authentifizierung verwalten (20-25%)
-- Office 365 Workloads und Anwendungen planen (10-15%)
+- 'HINWEIS: Die Aufzählungszeichen, die unter den im folgenden Dokument gemessenen Fähigkeiten angezeigt werden, sollen veranschaulichen, wie wir diese Fähigkeiten bewerten. Diese Liste ist nicht endgültig oder vollständig.'
+- Entwerfen und Implementieren sie Microsoft 365-Dienste (25-30%)
+- Verwalten Sie Benutzeridentität und Rollen (35-40%)
+- Verwalten Sie den Zugriff und die Authentifizierung (20-25%)
+- Planen Sie Office 365-Workloads und -Anwendungen (10-15%)
 roles:
 - administrator
-exams:
-- uid: exam.ms-101
 products:
 - m365
 - azure-active-directory
 - office-365
+exams:
+- uid: exam.ms-101
 courses:
-- uid: course.ms-100t01
-- uid: course.ms-100t02
-- uid: course.ms-100t03
+- uid: course.ms-100t00
 relatedCertifications:
 - related:
     uid: certification.m365-enterprise-administrator
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Prüfungswiederholung
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
+

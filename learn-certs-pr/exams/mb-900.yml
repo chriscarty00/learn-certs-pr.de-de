@@ -6,12 +6,15 @@ metadata:
 uid: exam.mb-900
 displayName: MB-900
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>DIESE PRÜFUNG WURDE AM Dienstag, 31. Dezember 2019 EINGESTELLT. Hinweis&#58; Prüfungen werden um 23&#58;59 Uhr Central Standard Time eingestellt</div>
+  <div>
+  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>dieses examens WURDE AM 31. Dezember 2019 EINGESTELLT. Eine Ersatzprüfung, MB-901, ist verfügbar. Weitere Informationen finden Sie auf der Seite mit den <a href="/learn/certifications/exams/mb-901">MB-901-Prüfungsdetails</a>.</div>
   <br/>
-  Diese Prüfung richtet sich an Kandidaten, die grundlegende Kenntnisse über Microsoft Dynamics 365, Power Platform-Anwendungen und das Cloud Computing-Modell nachweisen möchten. Diese Prüfung behandelt die Überlegungen und Vorteile der Einführung von Dynamics 365, der Power Platform und Cloud Services im Allgemeinen. Diese Prüfung kann als Vorläufer für Dynamics 365-Zertifizierungen und -Training genommen werden.
+  </div>
+  dieses examens richtet sich an Kandidaten, die grundlegende Kenntnisse über Microsoft Dynamics 365, Power Platform-Anwendungen und das Cloud Computing-Modell nachweisen möchten. dieses examens behandelt die Überlegungen und Vorteile der Einführung von Dynamics 365, der Power Platform und Cloud Services im Allgemeinen. dieses examens kann als Vorläufer für Dynamics 365-Zertifizierungen und -Training genommen werden.
 
-  Kandidaten für diese Prüfung sollten über allgemeine Kenntnisse oder relevante Arbeitserfahrung in einer Informationstechnologie-(IT)-Umgebung. Die Kandidaten sollten auch über ein grundlegendes Verständnis von Geschäftsszenarien und Erfahrungen bei der Bewältigung von Geschäfts-, Rechts- und Sicherheitsanforderungen für IT-Projekte verfügen.
-subTitle: Diese Prüfung misst Ihre Kompetenz, Microsoft Dynamics 365, die Power Platform, Cloud-Konzepte, Lizenzoptionen sowie Bereitstellungs- und Release-Optionen zu verstehen.
+  Kandidaten für dieses examens sollten über allgemeine Kenntnisse oder relevante Arbeitserfahrung in einer Informationstechnologie-(IT)-Umgebung. Die Kandidaten sollten auch über ein grundlegendes Verständnis von Geschäftsszenarien und Erfahrungen bei der Bewältigung von Geschäfts-, Rechts- und Sicherheitsanforderungen für IT-Projekte verfügen.
+subTitle: dieses examens misst Ihre Kompetenz, Microsoft Dynamics 365, die Power Platform, Cloud-Konzepte, Lizenzoptionen sowie Bereitstellungs- und Release-Optionen zu verstehen.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVu
 scheduleExamUrl: https://examregistration.microsoft.com/
@@ -23,11 +26,11 @@ levels:
 skills:
 - Dynamics verstehen 365 (40-45%)
 - Kenntnisse von Cloud Konzepten (25-30%)
-- Verstehen von Implementierungen und Versionen (20-25%)
+- Verstehen von Implementierenen und Versionen (20-25%)
 retirementDate: 12/31/2019
 roles:
 - developer
-products: 
+products:
 - dynamics
 courses:
 - uid: course.mb-900t01
@@ -37,11 +40,11 @@ relatedCertifications:
 - related:
     uid: certification.d365-fundamentals
 resources:
-- title: Lernpfad zur Zertifizierung
+- title: Lernpfad zur Zertifizirung
   description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Dynamics 365 Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
@@ -53,8 +56,9 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
+

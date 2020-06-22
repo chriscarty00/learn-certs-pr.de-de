@@ -8,11 +8,17 @@ displayName: AZ-300
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>EINE NEUE VERSION DIESES EXAMENS, <a href="/learn/certifications/exams/az-303">AZ-303</a>, WIRD AM ODER UM DEN 29. JUNI 2020 VERFÜGBAR SEIN. Sie können dieses Examen ablegen, bis es am oder um den 30. September 2020 eingestellt wird.<br/><br/>Darüber hinaus wird der Inhalt dieser Prüfung am 2. Juni 2020 aktualisiert. Bitte laden Sie das unten stehende Dokument zu den gemessenen Fähigkeiten herunter, um zu sehen, was sich ändern wird.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>EINE NEUE VERSION DIESES EXAMENS, <a href="/learn/certifications/exams/az-303">AZ-303</a>, WIRD AM ODER UM DEN 29. JUNI 2020 VERFÜGBAR SEIN. Sie können dieses Examen ablegen, bis es am oder um den 30. September 2020 eingestellt wird.<br/><br/>Bitte laden Sie das unten stehende Dokument zu den gemessenen Fähigkeiten herunter, um zu sehen, was sich ändern wird.<br/><br/></div>
   </div>
 
-  Kandidaten für diese Prüfung sind Azure Solution Architects, die Interessenvertreter beraten und Geschäftsanforderungen in sichere, skalierbare und zuverlässige Lösungen umsetzen. Die Kandidaten sollten über umfangreiche Erfahrungen und Kenntnisse in verschiedenen Aspekten des IT-Betriebs verfügen, einschließlich Netzwerk, Virtualisierung, Identität, Sicherheit, Business Continuity, Disaster Recovery, Datenmanagement, Budgetierung und Governance. Diese Position erfordert die Verwaltung der Auswirkungen von Entscheidungen in den einzelnen Bereichen auf eine Gesamtlösung. Die Kandidaten müssen über gute Kenntnisse in den Bereichen Azure-Administration, Azure-Entwicklung und DevOps verfügen und über Kenntnisse auf Expertenebene in mindestens einem dieser Bereiche verfügen.
-subTitle: 'Diese Prüfung misst Ihre Fähigkeit, folgende technische Aufgaben zu erfüllen: Bereitstellen und Konfigurieren der Infrastruktur, Implementieren von Workloads und Sicherheit, Erstellen und Bereitstellen von Anwendungen, Implementieren von Authentifizierungen und sicheren Daten, und Entwickeln für die Cloud- und Azure-Speicher.'
+  Kandidaten für dieses examens sollten über Fachkenntnisse beim Entwerfen und Implementieren von Lösungen verfügen, die unter Microsoft Azure ausgeführt werden, einschließlich Aspekten wie Computer, Netzwerk, Speicher und Sicherheit.
+
+  Zu den Aufgaben eines Azure Solution Architects gehören die Beratung von Stakeholdern und die Umsetzung von Geschäftsanforderungen in sichere, skalierbare und zuverlässige Cloud-Lösungen.
+
+  Ein Azure Solution Architect arbeitet mit Cloud-Administratoren, Cloud-Datenbankadministratoren und Clients zusammen, um Lösungen zu implementieren.
+
+  Ein Kandidat für dieses examens sollte über umfassende Erfahrung und Kenntnisse in verschiedenen Aspekten des IT-Betriebs verfügen, einschließlich Netzwerk, Virtualisierung, Identität, Sicherheit, Geschäftskontinuität, Notfallwiederherstellung, Datenmanagement, Budgetierung und Governance. Jemand in dieser Position sollte Entscheidungen in den einzelnen Bereichen steuern, die eine Gesamtlösung beeinflussen. Darüber hinaus sollte jemand in dieser Position mindestens eine dieser Azure-Knowledge-Domains beherrschen&#58; Verwaltung, Entwicklung oder DevOps.
+subTitle: 'dieses examens misst Ihre Fähigkeit, folgende technische Aufgaben zu erfüllen: Bereitstellen und Konfigurieren der Infrastruktur, Implementieren von Workloads und Sicherheit, Erstellen und Bereitstellen von Anwendungen, Implementieren von Authentifizierungen und sicheren Daten, und Entwickeln für die Cloud- und Azure-Speicher.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -25,12 +31,12 @@ locales:
 levels:
 - advanced
 skills:
-- EINE NEUE VERSION DIESES EXAMENS, AZ-303, WIRD AM ODER UM DEN 29. JUNI 2020 VERFÜGBAR SEIN. Sie können dieses Examen ablegen, bis es am oder um den Mittwoch, 30. September 2020 eingestellt wird. Darüber hinaus wird der Inhalt dieser Prüfung am 2. Juni 2020 aktualisiert. Bitte laden Sie das unten stehende Dokument zu den gemessenen Fähigkeiten herunter, um zu sehen, was sich ändern wird.
-- Bereitstellen und Konfigurieren der Infrastruktur (40-45%)
+- EINE NEUE VERSION DIESES EXAMENS, AZ-303, WIRD AM ODER UM DEN 29. JUNI 2020 VERFÜGBAR SEIN. Sie können dieses Examen ablegen, bis es am oder um den 30. September 2020 eingestellt wird. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich ändern wird.
+- Bereitstellung und Konfiguration der Infrastruktur (40-45%)
 - Implementieren von Workloads und Sicherheit (25-30%)
 - Erstellen und Bereitstellen von Apps (5-10%)
 - Authentifizierung und Datensicherheit implementieren (5-10%)
-- Entwickleln für die Cloud und für Azure-Speicher (15-20%)
+- Entwickeln für die Cloud und für Azur-Speichermedien (15-20%)
 retirementDate: 09/30/2020
 roles:
 - solution-architect
@@ -78,9 +84,6 @@ relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
-- title: Lernpfad zur Zertifizirung
-  description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Azure Solutions Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -97,7 +100,7 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.

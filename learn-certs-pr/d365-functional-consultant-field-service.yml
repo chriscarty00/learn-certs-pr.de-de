@@ -6,7 +6,7 @@ metadata:
 uid: certification.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong></font><br/><br/></div>
 
   Microsoft Dynamics 365 Field Service Functional Consultants konfigurieren die Field Service-Anwendung, implementieren Lösungen, die den Lebenszyklus des Außendienstes steuern, und setzen die Connected Field Service (IoT)-Lösung ein.
 subTitle: Microsoft Dynamics 365 Field Service Functional Consultants konfigurieren die Field Service-Anwendung, implementieren Lösungen, die den Lebenszyklus des Außendienstes steuern, und setzen die Connected Field Service (IoT)-Lösung ein.
@@ -32,13 +32,8 @@ products:
 - dynamics
 - dynamics-field-service
 courses:
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
-- uid: course.mb-240t01
-- uid: course.mb-240t02
-- uid: course.mb-240t03
+- uid: course.mb-200t00
+- uid: course.mb-240t00
 paths:
 - uid: learn-bizapps.implementing-dyn365-field-service
 - uid: learn-bizapps.universal-resource-scheduling

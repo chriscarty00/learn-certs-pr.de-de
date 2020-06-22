@@ -1,24 +1,24 @@
 ### YamlMime:Examination
-title: Developing Solutions for Microsoft Azure (beta)
+title: Developing Solutions for Microsoft Azure
 metadata:
-  title: 'Exam AZ-204: Developing Solutions for Microsoft Azure (beta)'
-  description: 'Exam AZ-204: Developing Solutions for Microsoft Azure (beta)'
+  title: 'Exam AZ-204: Developing Solutions for Microsoft Azure'
+  description: 'Exam AZ-204: Developing Solutions for Microsoft Azure'
 uid: exam.az-204
 displayName: AZ-204
 summary: |-
   <div><div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Der Inhalt dieser Prüfung wird am 18. Mai 2020 aktualisiert. Bitte laden Sie das unten stehende Dokument zu den gemessenen Fähigkeiten herunter, um zu sehen, was sich ändern wird.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Der Inhalt dieser Prüfung wurde am 18. Mai 2020 aktualisiert. Bitte laden Sie das untenstehende Dokument „Skills measured” herunter, um zu sehen, was sich geändert hat.<br/><br/></div>
   </div>
 
-  Kandidaten für diese Prüfung sind Cloud-Entwickler, die an allen Phasen der Entwicklung teilnehmen, von der Definition und dem Design der Anforderungen über die Entwicklung und Bereitstellung bis hin zur Wartung. Sie arbeiten mit Cloud-Datenbankadministratoren, Cloud-Administratoren und Kunden zusammen, um Lösungen zu implementieren.
+  Kandidaten für dieses examens sollten über Fachkenntnisse im Entwerfen, Erstellen, Testen und Verwalten von Cloud-Anwendungen und -Services in Microsoft Azure verfügen.
 
-  Die Kandidaten sollten über Kenntnisse in Azure SDKs, Datenspeicheroptionen, Datenverbindungen, APIs, App-Authentifizierung und -Autorisierung, Computer- und Containerbereitstellung, Debugging, Leistungsoptimierung und Überwachung verfügen.
+  Zu den Aufgaben eines Azure-Entwicklers gehört die Teilnahme an allen Phasen der Cloud-Entwicklung, von der Definition und dem Design der Anforderungen bis hin zur Entwicklung, Bereitstellung und Wartung, Leistungsoptimierung und Überwachung.
   <br/>
 
-  Die Kandidaten müssen über 1 bis 2 Jahre berufliche Erfahrung in der Entwicklung und Erfahrung mit Microsoft Azure verfügen. Sie müssen in der Lage sein, in einer von Azure unterstützten Sprache zu programmieren.
+  Azure-Entwickler arbeiten mit Cloud-Lösungsarchitekten, Cloud-Datenbankadministratoren (DBAs), Cloud-Administratoren und Clients zusammen, um Lösungen zu implementieren.
 
-  <div><br/><strong>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. Um mehr zu erfahren <a href="/learn/certifications/certification-exams#participating-in-beta-exams">about the value and importance of beta exams</a>.</strong></div>
-subTitle: 'Diese Prüfung misst Ihre Fähigkeit, folgende technische Aufgaben zu erfüllen: Entwickeln von Azure Computing Solutions; Entwickeln für Azure Storage; Implementieren von Azure Security; Überwachung, Fehlerbehebung und Optimierung von Lösungen; und Verbindung zu und Nutzung von Azure Services und Drittanbieter-Services.'
+  Ein Kandidat für dieses examens sollte über 1-2 Jahre Berufserfahrung und Erfahrung mit Microsoft Azure verfügen. Darüber hinaus sollte jemand in dieser Rolle über die Fähigkeit verfügen, in einer von Azure unterstützten Sprache zu programmieren und über Kenntnisse in Azure SDKs, Azure PowerShell, Azure CLI, Datenspeicheroptionen, Datenverbindungen, APIs, App-Authentifizierung und -Autorisierung, Computer- und Containerbereitstellung, Debugging und Leistungsoptimierung und Überwachung verfügen.
+subTitle: 'dieses examens misst Ihre Fähigkeit, folgende technische Aufgaben zu erfüllen: Entwickeln von Azure Computing Solutions; Entwickeln für Azure Storage; Implementieren von Azure Security; Überwachung, Fehlerbehebung und Optimierung von Lösungen; und Verbindung zu und Nutzung von Azure Services und Drittanbieter-Services.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
 locales:
@@ -29,7 +29,7 @@ providers:
 levels:
 - intermediate
 skills:
-- Der Inhalt dieser Prüfung wird am 18. Mai 2020 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich ändern wird.
+- Der Inhalt dieser Prüfung wurde am 18. Mai 2020 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungsfertigkeiten herunter, um zu sehen, was sich geändert hat.
 - Entwicklung von Azure-Computerlösungen (25-30%)
 - Entwickeln für Azure-Storage (10-15%)
 - Implementieren der Azure-Sicherheit(15-20%)
@@ -58,7 +58,6 @@ products:
 - azure-monitor
 - azure-policy
 - azure-portal
-- azure-redis-cache
 - azure-resource-manager
 - azure-sdks
 - azure-service-bus
@@ -66,6 +65,9 @@ products:
 - azure-stream-analytics
 - azure-traffic-manager
 - azure-virtual-machines
+courses:
+- uid: course.az-020t00
+- uid: course.az-204t00
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together
@@ -80,9 +82,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-developer
 resources:
-- title: Lernpfad zur Zertifizirung
-  description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Azure Developer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
+- title: Reise zur Zertifizierung
+  description: Informieren Sie sich über die nötigen Schritte für eine Zertifizierung als Azure AI Engineer Associate und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -99,7 +101,7 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.

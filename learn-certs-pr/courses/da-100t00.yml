@@ -1,0 +1,300 @@
+### YamlMime:Course
+title: Analyzing Data with Power BI
+metadata:
+  title: 'Course DA-100T00-A: Analyzing Data with Power BI'
+  description: 'Course DA-100T00-A: Analyzing Data with Power BI'
+uid: course.da-100t00
+courseNumber: 'DA-100T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Daten aufnehmen, bereinigen und transformieren
+- skill: Modelldaten für Leistung und Skalierbarkeit
+- skill: Entwerfen und Erstellen von Berichten für die Datenanalyse
+- skill: Anwenden und Ausführen erweiterter Berichtsanalysen
+- skill: Berichtsressourcen verwalten und freigeben
+- skill: Erstellen paginierter Berichte in Power BI
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- sql-server
+exams:
+- uid: exam.da-100
+summary: |-
+  In diesem Kurs werden die verschiedenen Methoden sowie die beste Vorgehensweise erläutert, die den geschäftlichen und technischen Anforderungen für die Modellierung, Visualisierung und Analyse von Daten mit Power BI entsprechen. Der Kurs zeigt auch, wie auf Daten aus einer Reihe von Datenquellen zugegriffen und diese verarbeitet werden können, einschließlich relationaler und nicht relationaler Daten. In diesem Kurs wird auch erläutert, wie geeignete Sicherheitsstandards und -richtlinien im gesamten Power BI-Spektrum, einschließlich Datensätzen und Gruppen, implementiert werden. In diesem Kurs wird auch erläutert, wie man Berichte und Dashboards für die Freigabe und Verteilung von Inhalten verwalten und bereitstellen kann. Schließlich wird in diesem Kurs gezeigt, wie paginierte Berichte innerhalb des Power BI-Services erstellt und in einem Arbeitsbereich zur Aufnahme in Power BI veröffentlicht werden.
+
+  #### Zielgruppenprofil
+  Die Zielgruppe für diesen Kurs sind Datenprofis und Business Intelligence-Experten, die lernen möchten, wie man akkurate Datenanalysen mit Power BI drchführen kann. Dieser Kurs richtet sich auch an Personen, die Berichte entwickeln, die Daten aus Datenplattformtechnologien visualisieren, die sowohl in der Cloud als auch lokal vorhanden sind.
+prerequisitesSection: |-
+  Zusätzlich zu ihrer Berufserfahrung sollten Studenten, die an dieser Schulung teilnehmen, über technische Kenntnisse verfügen, die den Informationen im Azure Fundamentals-Kurs entsprechen.
+outlineSection: |-
+  ### Modul 1&#58; Einführung
+  Dieses Modul untersucht die Landschaft des Power BI-Portfolios und beschreibt verschiedene Anwendungsfälle für Power BI. Der Kurs identifiziert und beschreibt dann die Rolle und Verantwortlichkeiten eines Datenanalysten.
+  #### Lektionen
+  - Das Power BI-Portfolio
+  - Identifizieren von Aufgaben des Datenanalysten
+
+
+  #### Lab &#58; Erste Schritte
+  - Erste Schritte
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Beschreiben der Power BI-Landschaft von Produkten und Services.
+  - Beschreiben von Anwendungsfällen für Power BI
+  - Die Aufgaben identifizieren, die von einem Dateningenieur ausgeführt werden
+
+
+  ### Modul 2&#58; Daten abrufen und profilieren
+  In diesem Modul wird die Identifizierung von und Verbindung mit verschiedenen Datenquellen untersucht. Der Teilnehmer lernt auch die Grundlagen zum Erkennen und Optimieren von Problemen mit der Abfrageleistung. Sie lernen auch, wie man eine ordnungsgemäße Datenprofilerstellung durchführt, um sich auf das anschließende Bereinigen und Formen der Daten vor dem Laden der Daten vorzubereiten.
+  #### Lektionen
+  - Datenquellen
+  - Speichermodi
+  - Abfrageleistung
+  - Daten-Profiling
+
+
+  #### Lab &#58; Vorbereiten von Daten in Power BI Desktop
+  - Daten vorbereiten
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Identifizieren der verschiedenen Datenquellen
+  - Die verschiedene Verbindungsmethoden und das Warum erklären
+  - Abfrageprobleme identifizieren und optimieren.
+  - Identifizieren von Datenanomalien
+  - Datenstrukturen untersuchen
+
+
+  ### Modul 3&#58; Daten bereinigen und transformieren
+  In diesem Modul werden die grundlegenden Konzepte zum Entwerfen eines Datenmodells für eine ordnungsgemäße Leistung und Skalierbarkeit vermittelt. Es bietet dem Teilnehmer eine Liste mit Elementen, über die er vor dem Erstellen des Modells nachdenken muss.
+  #### Lektionen
+  - Benutzerfreundlichkeit
+  - Kombinieren von Abfragen
+  - Datenbereinigung und -transformation
+  - Erweiterte Möglichkeiten
+  - Konfigurieren des Ladens und Beheben von Fehlern
+
+
+  #### Lab &#58; Laden von Daten in Power BI Desktop
+  - Daten laden
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Beheben von Dateninkonsistenz
+  - Datenformtransformationen anwenden
+  - Auswerten und Transformieren von Spaltendatentypen
+  - Beheben von Datenimportfehlern
+
+
+  ### Modul 4&#58; Entwerfen eines Datenmodells
+  In diesem Modul werden die grundlegenden Konzepte zum Entwerfen eines Datenmodells für eine ordnungsgemäße Leistung und Skalierbarkeit vermittelt. Es bietet dem Teilnehmer eine Liste mit Elementen, über die er vor dem Erstellen des Modells nachdenken muss.
+  #### Lektionen
+  - Grundlagen der Datenmodellierung
+  - Maße und Abmessungen
+  - Modell-Performance
+
+
+  #### Lab &#58; Datenmodellierung in Power BI Desktop
+  - Modellbeziehungen erstellen
+  - Tabellen konfigurieren
+  - Die Modellschnittstelle überprüfen
+  - Schnelle Maßnahmen erstellen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Beziehungen und deren Kardinalität definieren
+  - Konfigurieren von Tabellen- und Spalteneigenschaften
+  - Schnelle Maßnahmen definieren
+  - Verstehen, wie sich das Design des Modells auf die Leistung auswirkt
+
+
+  ### Modul 5&#58; Entwicklung eines Datenmodells
+  In diesem Modul muss der Teilnehmer die im vorherigen Modul erlernten Schritte anwenden und ein Datenmodell erstellen, während er zusätzliche Elemente lernt und implementiert, um die Grundlage des Modells zu erstellen. Der Teilnehmer wird in diesem Modul in die ersten Sicherheitskonzepte und die Q & A-Funktion eingeführt.
+  #### Lektionen
+  - Gemeinsame Datenmodellierungstechniken
+  - Hinzufügen von Spalten zur Unterstützung des Datenmodells
+  - Sicherheit auf Zeilenebene
+  - Fragen und Antworten
+
+
+  #### Labor &#58; Erweiterte Datenmodellierung
+  - Erstellen einer Beziehung von Einzelnen zu einer Menge
+  - Sicherheit auf Zeilenebene durchsetzen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Lösen zirkulärer und vieler Beziehungen
+  - Erstellen von Gruppierungen und Gruppen
+  - Beschreiben und Einrichten der Q & A-Funktion
+
+
+  ### Modul 6&#58; Modellberechnungen mit DAX erstellen
+  Dieses Modul bietet dem Teilnehmer zunächst eine Einführung in DAX sowie einige der kritischen Funktionen und Operatoren, die zur Verbesserung eines Datenmodells erforderlich sind, einschließlich Konzepte von Kennzahlen, berechneten Spalten und Tabellen sowie Zeitintelligenz.
+  #### Lektionen
+  - Einführung in DAX
+  - Erstellen von Tabellen und Spalten
+  - Maße
+  - Der Ausdruck KALKULIEREN
+  - Zeitintelligenz-Funktionen
+
+
+  #### Lab &#58; Verwenden von DAX in Power BI - Teil 1
+  - Kalkulierte Tabellen erstellen
+  - Maßnahmen erstellen
+
+  #### Lab &#58; Verwenden von DAX in Power BI - Teil 2
+  - Arbeiten mit Filterinhalten
+  - Arbeiten mit Zeitintelligenz
+  - Veröffentlichen der Power BI Desktop-Datei
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Verwenden von DAX für einfache Formeln und Ausdrücke
+  - Kalkulierte Tabellen und Spalten erstellen
+  - Erstellen einfacher Maßnahmen
+
+
+  ### Modul 7&#58; Optimieren der Modell-Performance
+  In diesem Modul werden die Teilnehmer in die Schritte, Prozesse und Konzepte eingeführt, die zur Optimierung eines Datenmodells für die Leistung auf Unternehmensebene erforderlich sind.
+  #### Lektionen
+  - Optimieren eines Datenmodells
+  - Kardinalität
+  - Identifizieren von Leistungsproblemen
+
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Analysieren von Abfrageplänen und Abhängigkeiten
+  - Leistungsschwache Maßnahmen und Beziehungen identifizieren
+  - Arbeiten mit Aggregationen
+  - Verbesserung der Kardinalität
+
+
+  ### Modul 8&#58; Berichte erstellen
+  Dieses Modul führt den Teilnehmer in die grundlegenden Konzepte und Prinzipien des Berichtserstellung ein, einschließlich Auswahl der richtigen Grafiken, Entwurf eines Seitenlayouts und Anwendung grundlegender, aber kritischer Funktionen wie Schneiden und Filtern. Das wichtige Thema der Gestaltung für Zugänglichkeit wird ebenfalls behandelt.
+  #### Lektionen
+  - Auswahl einer Visualisierung
+  - Konfigurieren von Visualisierungen
+  - Seiten formatieren
+  - Verbesserung des Berichts
+
+
+  #### Lab &#58; eines Berichts in Power BI Desktop - Teil 1
+  - Bericht erstellen
+  - Anmelden beim Power BI-Service
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Entwerfen eines Seitenlayouts
+  - Entsprechende Visualisierung auswählen und hinzufügen
+  - Grundlegende Berichtsfunktionen hinzufügen
+  - Verständnis von und Entwerfen für Zugänglichkeit
+
+
+  ### Modul 9&#58; Verbessern von Berichten für Benutzerfreundlichkeit und Leistung
+  Dieses Modul hilft dem Teilnehmer, über die Grundlagen der Berichtserstellung hinauszudenken, und erörtert Themen zur Verbesserung des Berichts hinsichtlich Benutzerfreundlichkeit und Leistung. Der Teilnehmer verlässt dieses Modul mit dem Wissen, dass ein Bericht nicht nur zum Anschauen gedacht ist, sondern eine lebendige Leinwand darstellt, die eine Geschichte erzählt und als solche gestaltet werden sollte.
+  #### Lektionen
+  - Lesezeichen und Navigation
+  - Gestaltung zusammenhängender Seiten und Interaktionen
+  - Berichte verbessern
+
+
+  #### Lab &#58; eines Berichts in Power BI Desktop - Teil 2
+  - Konfigurieren von Sync Slicer
+  - Drillthrough konfigurieren
+  - Bedingte Formatierung hinzufügen
+  - Lesezeichen und Schaltflächen hinzufügen
+  - Durchsuchen eines Berichts
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  -Quick Insights hinzufügen
+  - Konfigurieren von Sync Slicer
+  - Konfigurieren von Interaktionen zwischen visuellen Elementen
+  - Verbesserungen der Benutzerfreundlichkeit identifizieren
+
+
+  ### Modul 10&#58; Erstellen von Dashboards
+  In diesem Modul lernt der Teilnehmer alles über Dashboards und die vielen darin enthaltenen Features und Funktionen kennen. Der Teilnehmer lernt, wie man den im vorherigen Modul erstellten Bericht an ein Dashboard anheftet und ihn dann für zusätzliche Benutzerfreundlichkeit und Einblicke in das Dashboard erweitert.
+  #### Lektionen
+  - Dashboard-Design
+  - Echtzeit-Dashboards
+  - Dashboard-Verbesserungen
+
+
+  #### Labor &#58; Erstellen Sie einen Power-BI Dashboards
+  - Erstellen eines Dashboards
+  - Den Datensatz aktualisieren
+  - Überprüfen des Dashboards
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Erstellen eines Dashboards
+  - Einrichten der Q & A-Funktion
+  - Kacheln verwalten und mit Lügenberichtsseiten arbeiten
+  - Die mobile Ansicht erklären und einstellen
+
+
+  ### Modul 11&#58; Verbessern von Berichten und Anwenden moderner Analytik
+  Dieses Modul hilft dem Teilnehmer, zusätzliche Funktionen anzuwenden, um den Bericht für analytische Einblicke in die Daten zu verbessern, und gibt dem Studenten die Möglichkeit, den Bericht für die eigentliche Datenanalyse zu verwenden. Dieses Modul bietet dem Teilnehmer außerdem zusätzliche Schritte und Konzepte, um erweiterte Analysen auf den Bericht anzuwenden und durchzuführen, um noch tiefere und aussagekräftigere Dateneinblicke zu erhalten.
+  #### Lektionen
+  - Navigation
+  - Basisanalyse
+  - Gruppieren, Binning und Clustering
+  - Analyse im Zeitverlauf
+  - Erweiterte Analyse
+
+
+  #### Lab &#58; Datenanalyse in Power BI Desktop
+  - Bericht erstellen
+  - Erstellen eines Streudiagramms
+  - Erstellen einer Prognose
+  - Arbeiten mit einem Zerlegungsbaum
+  - Arbeiten mit wichtigen Einflussfaktoren
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Statistische Zusammenfassung untersuchen
+  - Ausreißer in den Daten identifizieren
+  - Verwenden des Fragen-und-Antwort-Bildes
+  - Durchführen einer Top-N-Analyse
+
+
+  ### Modul 12&#58; Verwalten und Freigeben von Power BI-Assets
+  In diesem Modul lernen die Teilnehmer, die Konzepte zum Verwalten von Power BI-Assets, einschließlich Datensets und Arbeitsbereichen, sowie die Anwendung von Sicherheit auf Rollenebene auf ein Datenset. In diesem Modul lernen die Teilnehmer, wie sie Arbeitsbereiche erstellen und verwalten, Inhalte wie Berichte und Dashboards freigeben und eine App verteilen können.
+  #### Lektionen
+  - Datensatzverwaltung
+  - Erweiterte Datensätze
+  - Konfigurieren der Sicherheit auf Zeilenebene
+  - Erstellen und Verwalten von Arbeitsbereichen
+  - Erweitern von Datensätzen und Berichten im Arbeitsbereich
+  - Teilen und Verteilen von Inhalten
+
+
+  #### Lab &#58; Veröffentlichen und Freigeben von Power BI-Inhalten
+  - Konfigurieren von Datensatzsicherheit
+  - Teilen eines Dashboard
+  - Veröffentlichen einer APP
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Konfigurieren einer Datensatzaktualisierung
+  - Konfigurieren der Sicherheit auf Zeilenebene für den Datensatz
+  - Erstellen und Verwalten eines Arbeitsbereichs
+  - Veröffentlichen oder Aktualisieren von Assets in einem Arbeitsbereich
+  - Zusammenarbeit im Arbeitsbereich verstehen
+
+
+  ### Modul 13&#58; Arbeiten mit paginierten Berichten in Power BI
+  In diesem Modul lernt der Student etwas über paginierte Berichte. Der Teilnehmer lernt, was das ist, wie sie in das Power BI-Spektrum passen, und kann sich dann ansehen, wie ein Bericht erstellt und veröffentlicht wird.
+  #### Lektionen
+  - Einführung in paginierte Berichte
+  - Datenquellen und Datensätze
+  - Hinzufügen visueller Elemente
+  - Verbessern und Veröffentlichen von Berichten
+
+
+  #### Lab &#58; Erstellen eines paginierten Berichts
+  - Erste Schritte
+  - Entwickeln des Berichts
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Paginierte Berichte erläutern
+  - Erstellen eines paginierten Berichts
+  - Erstellen und Konfigurieren einer Datenquelle und eines Datensatzes.
+  - Arbeiten mit Diagrammen und Tabellen im Bericht.
+

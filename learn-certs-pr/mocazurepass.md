@@ -12,9 +12,9 @@ ms.author: micsullivan
 
 # Zugriff auf Microsoft Learning Azure-Pässe für Kursteilnehmer autorisierter Microsoft Learning-Partner
 
-<div style='color&#58; red;'><font color="red">Als Reaktion auf das Coronavirus (COVID-19) <a href="https://azure.microsoft.com/blog/">priorisiert Microsoft die Azure-Kapazität</a> dort, wo sie am dringendsten benötigt wird. Zur Unterstützung dieser Richtlinie haben wir Azure-Pass-Abonnements auf unbestimmte Zeit vom Lernsoftware-Marktplatz und vom MCT Azure Pass-Portal entfernt.</font></div>
+<div style='color: red;'><font color="red">Microsoft WWL hat den Zugriff auf Azure-Pässe wiederhergestellt. Bitte beachten Sie, dass dies eine keine SLA-Lösung ist und in einigen Regionen möglicherweise noch Ressourcenbeschränkungen bestehen.<br/><br/>Die Azure-Schnittstelle gibt Rückmeldung darüber, welche Regionen und Größen unterstützt werden und ob für die ausgewählte Region signifikante Anforderungen gestellt werden. Erwägen Sie die Nutzung einer anderen Region, die vom Abonnement unterstützt wird und für die keine spezifischen Anforderungen oder Größenbeschränkungen gelten.<br/><br/>Weitere Informationen zu alternativen, von SLA unterstützten Lösungen erhalten Sie von einem der autorisierten Lab-Hoster (ALH), die derzeit Zugriff auf Azure gewähren.</font></div>
 
-Zuletzt aktualisiert: **26. März 2020**
+Zuletzt aktualisiert: **22 Mai 2020**
 
 Microsoft bietet Ihren Kursteilnehmern Zugriff auf einen kostenlosen 30-Tage-Microsoft Azure-Pass, wenn sie sich über Microsoft Official Courses für einen zulässigen Azure-Kurs anmelden. Pässe für Studenten können nur vom autorisierten Microsoft Learning Partner über den Lernsoftware-Marktplatz bezogen werden und sind direkt an einen Kauf eines MOC-Kurses gebunden, wobei ein Pass pro bestelltem MOC-Kurs eingeschlossen ist. Es ist kein anderer Mechanismus verfügbar, Pässe für Studenten zu erhalten. Wenn ein Lernpartner einen MOC-Kurs bestellt, aber nicht den Azure-Pass auswählt, der zum Zeitpunkt des Kaufs für den Kurs verfügbar ist, hat der Partner die Möglichkeit, zum Lernsoftware-Marktplatz zurückzukehren und diesen Pass bei Bedarf anschließend zu bestellen.
 
@@ -42,7 +42,7 @@ Es steht eine begrenzte Anzahl von Pässen zur Verfügung, die an Lernpartner un
 - 40501 Microsoft Cloud Workshop: Cloud-native applications
 - 40502 Microsoft Cloud Workshop: Big Data & Visualization
 - 40503 Microsoft Cloud Workshop: Enterprise-ready Cloud
-- 40504 Microsoft Cloud Workshop: Intelligente Verkaufsautomaten
+- 40504 Microsoft Cloud Workshop: Intelligent Vending Machines
 - 40505 Microsoft Cloud Workshop: Internet of Things
 - 40508 Microsoft Cloud Workshop: Modern Cloud Apps
 - 40510 Microsoft Cloud Workshop: SQL Server Hybrid Cloud
@@ -116,13 +116,13 @@ Hinweis: Diese Liste kann sich ändern und Titel können zu dieser Liste hinzuge
 
 Sind Sie Mitarbeiter eines Microsoft-Learning Partners? Erhalten Sie Ihren Azure-Pass über [Lernsoftware- Marktplatz](https://shop.courseware-marketplace.com/), wenn Sie einen zulässigen MOC-Kurs erwerben.
 
-Sind Sie ein Microsoft Certified Trainer, der im Auftrag eines Microsoft Learning Partners  unterrichtet? Bitte wenden Sie sich an den Lernpartner, um einen Azure-Pass für den Schulungszeitraum zu erhalten.
+Sind Sie ein Microsoft Certified Trainer, der im Auftrag eines Microsoft Learning Partners unterrichtet? Bitte wenden Sie sich an den Lernpartner, um einen Azure-Pass für den Schulungszeitraum zu erhalten.
 
 ## Details zum Microsoft Learning Azure-Pass
 
 Dieser für Microsoft Learning Partner verfügbare Kursteilnehmerpass funktioniert genauso wie das [öffentlich verfügbare Microsoft Azure-Testabonnement](https://azure.microsoft.com/pricing/free-trial/) mit ähnlichen Einschränkungen. Für diesen Pass ist kein Zahlungsmittel erforderlich, d.h. es sind keine Kreditkartendaten erforderlich, um den Pass zu aktivieren. Im Folgenden finden Sie eine Übersicht über die Microsoft Learning Azure-Passfunktionen, die von unseren Microsoft Learning-Partnern und -Ausbildern verwendet werden können:
 
-| Learning Partner Microsoft Azure Pass für Kursteilnehmer |
+| Learning Partner Microsoft Student Azure Pass |
 | --- |
 | Für den Erhalt des Microsoft Learning Azure Pass sind keine Kreditkartendaten erforderlich |
 | Dollarbegrenzung - Mit dem Pass ist eine Dollarbegrenzung verbunden. Der Betrag richtet sich nach dem jeweiligen Kurs. |

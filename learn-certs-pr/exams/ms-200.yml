@@ -1,63 +1,72 @@
 ### YamlMime:Examination
 title: Planning and Configuring a Messaging Platform
 metadata:
-  title: 'Prüfung MS-200: Planning and Configuring a Messaging Platform'
-  description: 'Prüfung MS-200: Planning and Configuring a Messaging Platform'
+  title: 'Exam MS-200: Planning and Configuring a Messaging Platform'
+  description: 'Exam MS-200: Planning and Configuring a Messaging Platform'
 uid: exam.ms-200
 displayName: MS-200
-summary: >-
-  Kandidaten für diese Prüfung sind Messaging-Administratoren, die Empfänger, Berechtigungen, E-Mail-Schutz, E-Mail-Fluss und öffentliche Ordner sowohl in lokalen als auch in Cloud-Umgebungen bereitstellen, konfigurieren, verwalten, fehlerbeheben und überwachen.
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>EINE NEUE VERSION DIESES EXAMENS, <a href="/learn/certifications/exams/az-203">MS-203</a>, WURDE AM 2 APRIL 2020 BEREITGESTELLT. Sie können dieses Examen ablegen, bis es am oder um den 31. August 2020 eingestellt wird. Hinweis&#58; Prüfungen werden um 23&#58;59 Uhr Central Standard Time eingestellt.<br/><br/></div>
+  </div>
 
+  Kandidaten für dieses examens sind Messaging-Administratoren, die Empfänger, Berechtigungen, E-Mail-Schutz, E-Mail-Fluss und öffentliche Ordner sowohl in lokalen als auch in Cloud-Umgebungen bereitstellen, konfigurieren, verwalten, fehlerbeheben und überwachen.
 
   Messaging-Administratoren sind für die Verwaltung von Hygiene, Messaging-Infrastruktur, Hybridkonfiguration, Migration, Disaster Recovery, Hochverfügbarkeit und Client-Zugriff verantwortlich.
 
-
   Messaging-Administratoren arbeiten gemeinsam mit dem Security Administrator und Microsoft 365 Enterprise Administrator an der Implementierung einer sicheren Hybrid-Topologie, die den Geschäftsanforderungen eines modernen Unternehmens entspricht.
 
-
   Der Messaging-Administrator sollte über gute Kenntnisse in den Bereichen Authentifizierung, Lizenzierung und Integration mit Microsoft 365-Anwendungen verfügen.
-subTitle: 'Diese Prüfung misst Ihre Fähigkeit, folgende technische Aufgaben zu erfüllen: Verwaltung einer modernen Messaging-Infrastruktur, Verwaltung der Mail-Flow-Topologie, und Verwaltung von Empfängern und Geräten.'
+
+  <div style='font-weight&#58; bold;'><br/>Hinweis&#58; Wenn Sie dieses Examen bestehen, erhalten Sie die folgende Zertifizierung&#58; <a href="/learn/certifications/m365-messaging-administrator">Microsoft 365 Certified&#58; Messaging Administrator Associate</a>.</div>
+subTitle: 'dieses examens misst Ihre Fähigkeit, folgende technische Aufgaben zu erfüllen: Verwaltung einer modernen Messaging-Infrastruktur, Verwaltung der Mail-Flow-Topologie, und Verwaltung von Empfängern und Geräten.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk7
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MS-200&examname=Exam%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-200
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MS-200&examname=Prüfung%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-200
 levels:
 - intermediate
 skills:
 - Verwaltung einer modernen Messaging-Infrastruktur (45-50%)
 - Verwalten der Email-Arbeitsablaufstruktur (35-40%)
 - Verwalten von Empfängern und Geräten (15-20%)
+retirementDate: 08/31/2020
 roles:
 - administrator
-exams:
-- uid: exam.ms-201
 products:
 - m365
+exams:
+- uid: exam.ms-201
 courses:
 - uid: course.ms-200t01
 - uid: course.ms-200t02
 - uid: course.ms-200t03
 relatedCertifications:
 - related:
-    uid: certification.m365-messaging-administrator
+    uid: none
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Prüfungwiederholen
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Werktags (Montag-Freitag) wird Ihnen ein Forenmoderator antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
+

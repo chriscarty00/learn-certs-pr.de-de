@@ -7,14 +7,18 @@ uid: exam.az-900
 displayName: AZ-900
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Der Inhalt dieser Prüfung wird am 28. Mai 2020 aktualisiert. HINWEIS&#58; Die vor dem 15. April 2020 angekündigten Aktualisierungen werden am 15. September 2020 implementiert. Die jetzt für den 28. Mai geplanten Aktualisierungen sind geringfügige Aktualisierungen im Wortlaut. Bitte laden Sie das unten stehende Dokument zu den gemessenen Fertigkeiten herunter, um zu sehen, was sich am 28. Mai ändern wird.</div>
+  <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong></font><br/><br/></div>
+  <div><strong> Der Inhalt dieser Prüfung wurde am 28. Mai 2020 aktualisiert. Bitte laden Sie das untenstehende Dokument „Skills measured” herunter, um zu sehen, was sich geändert hat.</strong><br/><br/></div>
   </div>
 
-  Diese Prüfung richtet sich an Kandidaten, die grundlegende Kenntnisse über Cloud Services und deren Bereitstellung mit Microsoft Azure nachweisen möchten. Die Prüfung richtet sich an Kandidaten mit nicht-technischem Hintergrund, die beispielsweise mit dem Vertrieb oder der Beschaffung von Cloud-basierten Lösungen und Services zu tun haben oder sich mit Cloud-basierten Lösungen und Services beschäftigen, sowie an Kandidten mit technischem Hintergrund, die ihre grundlegenden Kenntnisse über Cloud Services überprüfen müssen. Technische IT-Erfahrung ist nicht erforderlich, jedoch sind allgemeine IT-Kenntnisse und Erfahrungen von Vorteil.
+  Kandidaten für dieses examens sollten über grundlegende Kenntnisse der Cloud-Dienste und der Bereitstellung dieser Dienste mit Microsoft Azure verfügen.
 
-  Diese Prüfung kann als optionaler erster Schritt unternommen werden, um mehr über Cloud Services zu erfahren und wie diese Konzepte von Microsoft Azure veranschaulicht werden. Sie kann als Vorstufe zu Microsoft Azure oder Microsoft Cloud Services Prüfungen verwendet werden. Obwohl es ein vorteilhafter erster Schritt wäre, das Wissen auf grundlegendem Niveau zu überprüfen, ist die Teilnahme an dieser Prüfung keine Voraussetzung für die Teilnahme an anderen Zertifizierungen auf Grundlage von Azure.
-subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden Konzepte zu verstehen: Cloud-Konzepte; Core Azure Services; Sicherheit, Datenschutz, Compliance, Trust und Azure-Preisgestaltung und -Support.'
+  Die Prüfung zu Azure-Grundlagen bietet die Möglichkeit, Kenntnisse über Cloud-Konzepte, Azure-Kern-Services, Azure-Preisgestaltung, SLA und Lebenszyklus sowie die Grundlagen zu Cloud-Sicherheit, Datenschutz, Compliance und Vertrauen nachzuweisen.
+
+  dieses examens richtet sich an Personen, die mit Cloud-basierten Lösungen und Diensten arbeiten. Kandidaten sollten in der Lage sein, grundlegende Kenntnisse über Cloud-Konzepte sowie Azure-Services, Workloads, Sicherheit, Datenschutz, Preisgestaltung und Support nachzuweisen. Darüber hinaus sollten Sie mit den Konzepten von Netzwerk, Speicher, Computing, Anwendungsunterstützung und Anwendungsentwicklung vertraut sein.
+
+  Azure-Grundlagen können verwendet werden, um sich auf andere rollenbasierte Azure- oder Spezialzertifizierungen vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen.
+subTitle: 'dieses examens misst Ihre Fähigkeit, die folgenden Konzepte zu verstehen: Cloud-Konzepte; Core Azure Services; Sicherheit, Datenschutz, Compliance, Trust und Azure-Preisgestaltung und -Support.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -31,26 +35,24 @@ locales:
 levels:
 - beginner
 skills:
-- 'Der Inhalt dieser Prüfung wird am 28. Mai 2020 aktualisiert. HINWEIS: Die vor dem 15. April 2020 angekündigten Aktualisierungen werden am 15. September 2020 implementiert. Die jetzt für den 28. Mai geplanten Aktualisierungen sind geringfügige Aktualisierungen im Wortlaut. Bitte laden Sie das unten stehende Dokument zu den gemessenen Fertigkeiten herunter, um zu sehen, was sich am 28. Mai ändern wird.'
-- Kenntnisse von Cloud Konzepten (15-20%)
-- Kenntnisse der Core Azure Services (30-35%)
-- Kenntnisse von Sicherheit, Datenschutz, Compliance und Trust (25-30%)
-- Kenntnisse der Azure Preise und des Azure-Supports (20-25%)
+- Der Inhalt dieser Prüfung wurde am 28. Mai 2020 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungsfertigkeiten herunter, um zu sehen, was sich geändert hat.
+- Cloud-Konzepte beschreiben (15-20%)
+- Beschreiben der Azure-Kern-Services (30-35%)
+- Sicherheit, Datenschutz, Compliance und Vertrauen beschreiben (25-30%)
+- Azure-Preisgestaltung für Servicevereinbarungen und Lebenszyklen erläutern (20-25%)
 roles:
 - developer
 products:
 - azure
 courses:
 - uid: course.az-900t01
+- uid: course.az-900t00
 paths:
 - uid: learn.cloud-foundations
 relatedCertifications:
 - related:
     uid: certification.azure-fundamentals
 resources:
-- title: Lernpfad zur Zertifizirung
-  description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Azure Fundamentals.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -64,7 +66,7 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.

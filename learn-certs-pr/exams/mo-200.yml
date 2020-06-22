@@ -5,21 +5,33 @@ metadata:
   description: 'MO-200: Microsoft Excel (Excel and Excel 2019)'
 uid: exam.mo-200
 displayName: MO-200
-summary: Der Absolvent dieser Zertifizierung verfügt über ca. 150 Stunden Einweisung und praktische Erfahrung mit dem Produkt, verfügt über nachgewiesene Kompetenz auf Branchenpartnerebene und ist bereit für den Einstieg in den Arbeitsmarkt. Sie können die korrekte Anwendung der Hauptfunktionen von Excel nachweisen und Aufgaben selbständig erledigen.
-subTitle: Diese Prüfung misst die Kompetenz in den Grundlagen der Erstellung und Verwaltung von Arbeitsblättern und Arbeitsmappen, der Erstellung von Zellen und Bereichen, der Erstellung von Tabellen, der Anwendung von Formeln und Funktionen sowie der Erstellung von Diagrammen und Objekten. Die Prüfung umfasst die Fähigkeit, eine Arbeitsmappe mit mehreren Blättern zu erstellen und zu bearbeiten und ein grafisches Element zur visuellen Darstellung von Daten zu verwenden. Arbeitsmappenbeispiele umfassen professionell aussehende Budgets, Jahresabschlüsse, Team-Performance-Charts, Verkaufsrechnungen und Dateneingabeprotokolle.
+summary: |-
+  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+
+  Die Prüfung umfasst die Fähigkeit, eine Arbeitsmappe mit mehreren Blättern zu erstellen und zu bearbeiten und ein grafisches Element zur visuellen Darstellung von Daten zu verwenden. Dazu gehören zum Beispiel professionell aussehende Kostenaufstellungen, Finanzübersichten, Teamleistungstabellen, Rechnungen und Dateneingabeprotokolle. Von den Kandidaten wird erwartet, dass sie die korrekte Anwendung der Hauptfunktionen von Excel demonstrieren und Aufgaben unabhängig ausführen können.
+subTitle: dieses examens misst die Kompetenz in den Grundlagen der Erstellung und Verwaltung von Arbeitsblättern und Arbeitsmappen, der Erstellung von Zellen und Bereichen, der Erstellung von Tabellen, der Anwendung von Formeln und Funktionen sowie der Erstellung von Diagrammen und Objekten. Die Prüfung umfasst die Fähigkeit, eine Arbeitsmappe mit mehreren Blättern zu erstellen und zu bearbeiten und ein grafisches Element zur visuellen Darstellung von Daten zu verwenden. Dazu gehören zum Beispiel professionell aussehende Kostenaufstellungen, Finanzübersichten, Teamleistungstabellen, Rechnungen und Dateneingabeprotokolle.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WXlg
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- en-my
+- nl
+- fr
+- de
+- id-id
+- ko
+- pt-br
+- es
+- it
 levels:
 - intermediate
 skills:
 - Verwaltung von Arbeitsblättern und Arbeitsmappen (10-15%)
 - Verwalten von Datenzellen und Bereichen (20-25%)
-- Verwaltung von Tabellen und Tabellendaten (15-20%)
+- Verwalten von Tabellen und Tabellendaten (15-20%)
 - Operationen mit Hilfe von Formeln und Funktionen durchführen (20-25%)
 - Charts verwalten (20-25%)
 roles:
@@ -32,14 +44,15 @@ relatedCertifications:
     uid: certification.mos-excel-2019
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
+

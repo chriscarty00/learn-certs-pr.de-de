@@ -5,15 +5,28 @@ metadata:
   description: 'MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)'
 uid: exam.mo-300
 displayName: MO-300
-summary: Ein Absolvent dieser Zertifizierung verfügt über ca. 150 Stunden Einweisung und praktische Erfahrung mit dem Produkt, hat nachgewiesene Kompetenz auf Branchenpartnerebene und ist bereit, in den Arbeits markt einzusteigen. Sie können die korrekte Anwendung der Hauptfunktionen von PowerPoint nachweisen und Aufgaben selbständig erledigen.
-subTitle: Diese Prüfung misst die Kompetenz zum Erstellen, Bearbeiten und Verbessern von Präsentationen und Folien, einschließlich der Fähigkeit, Präsentationen zu erstellen und zu verwalten, Formen und Folien einzufügen und zu formatieren, Folieninhalte zu erstellen, Übergänge und Animationen anzuwenden und mehrere Präsentationen zu verwalten. Beispielpräsentationen umfassen professionelle Verkaufspräsentationen, Angestelltenschulungen, Ausbildermaterial und Kiosk Slideshows.
+summary: |-
+  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+
+  dieses examens behandelt die Fähigkeit, Präsentationen zu erstellen und zu verwalten, Formen und Folien einzufügen und zu formatieren, Folieninhalte zu erstellen, Übergänge und Animationen anzuwenden und mehrere Präsentationen zu verwalten. Beispielpräsentationen umfassen professionelle Verkaufspräsentationen, Angestelltenschulungen, Ausbildermaterial und Kiosk Slideshows Von den Kandidaten wird erwartet, dass sie die korrekte Anwendung der Hauptfunktionen von PowerPoint demonstrieren und Aufgaben unabhängig ausführen können.
+subTitle: dieses examens misst die Kompetenz zum Erstellen, Bearbeiten und Verbessern von Präsentationen und Folien, einschließlich der Fähigkeit, Präsentationen zu erstellen und zu verwalten, Formen und Folien einzufügen und zu formatieren, Folieninhalte zu erstellen, Übergänge und Animationen anzuwenden und mehrere Präsentationen zu verwalten. Beispielpräsentationen umfassen professionelle Verkaufspräsentationen, Angestelltenschulungen, Ausbildermaterial und Kiosk Slideshows
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8R
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- en-my
+- de
+- es
+- id-id
+- ko
+- nl
+- it
+- ru
+- fr
+- pt-br
 levels:
 - intermediate
 skills:
@@ -32,14 +45,15 @@ relatedCertifications:
     uid: certification.mos-powerpoint-2019
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
+

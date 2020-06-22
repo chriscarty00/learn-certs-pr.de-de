@@ -5,15 +5,29 @@ metadata:
   description: 'MO-100: Microsoft Word (Word and Word 2019)'
 uid: exam.mo-100
 displayName: MO-100
-summary: Ein Absolvent dieser Zertifizierung verfügt über ca. 150 Stunden Einweisung und praktische Erfahrung mit dem Produkt, hat nachgewiesene Kompetenz auf Branchenpartnerebene und ist bereit, in den Arbeits markteinzusteigen. Sie können die korrekte Anwendung der Hauptfunktionen von Word nachweisen und Aufgaben selbstständig erledigen.
-subTitle: Diese Prüfung misst die Kompetenz in der korrekten Anwendung der Hauptfunktionen von Word durch die Erstellung und Bearbeitung von Dokumenten für eine Vielzahl von Zwecken und Situationen. Die Prüfung umfasst die Fähigkeit, professionell aussehende Berichte, mehrspaltige Newsletter, Lebensläufe und Geschäftskorrespondenz zu erstellen und zu pflegen.
+summary: |-
+  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+
+  Die Prüfung umfasst die Fähigkeit, professionell aussehende Berichte, mehrspaltige Newsletter, Lebensläufe und Geschäftskorrespondenz zu erstellen und zu pflegen. Von den Kandidaten wird erwartet, dass sie die korrekte Anwendung der Hauptfunktionen von Word demonstrieren und Aufgaben unabhängig ausführen können.
+subTitle: dieses examens misst die Kompetenz in der korrekten Anwendung der Hauptfunktionen von Word durch die Erstellung und Bearbeitung von Dokumenten für eine Vielzahl von Zwecken und Situationen. Die Prüfung umfasst die Fähigkeit, professionell aussehende Berichte, mehrspaltige Newsletter, Lebensläufe und Geschäftskorrespondenz zu erstellen und zu pflegen.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
 providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
+- en-my
+- de
+- id-id
+- ko
+- es
+- nl
+- ja
+- ru
+- fr
+- it
+- pt-br
 levels:
 - intermediate
 skills:
@@ -22,7 +36,7 @@ skills:
 - Verwalten von Tabellen und Listen (15-20%)
 - Referenzen erstellen und verwalten (5-10%)
 - Grafikelemente einfügen und formatieren (15-20%)
-- Verwaltung der Dokumentenzusammenarbeit (5-10%)
+- Verwalten der Dokumentenzusammenarbeit (5-10%)
 roles:
 - developer
 products:
@@ -33,14 +47,15 @@ relatedCertifications:
     uid: certification.mos-word-2019
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
+

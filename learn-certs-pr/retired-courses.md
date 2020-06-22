@@ -1,6 +1,6 @@
 ---
-title: Microsoft Eingestellte Kurse | Microsoft Docs
-description: Microsoft Eingestellte Kurse
+title: Microsoft Retired Courses | Microsoft Docs
+description: Microsoft Retired Courses
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -136,6 +136,23 @@ In den folgenden Tabellen finden Sie eine Auflistung von Lehrmaterialien, die en
     | 22697-2 | B | Deploying and Managing Windows 10 | Französisch | 30/06/2020 |
     | 23697-1 | B | Installing and Configuring Windows 10 | Japanisch | 30/06/2020 |
     | 23697-2 | B | Deploying and Managing Windows 10 Using Enterprise Services | Japanisch | 30/06/2020 |
+
+* Einstellung von Kursunterlagen am 29th Mai 2020
+
+    | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
+    | --- | --- | --- | --- | --- |
+    | AZ-400T01 | A | Implementing DevOps Development Processes | Englisch | 29/05/2020 |
+    | AZ-400T02 | A | Implementing Continuous Integration | Englisch| 29/05/2020 |
+    | AZ-400T03 | A | Implementing Continuous Delivery | Englisch| 29/05/2020 |
+    | AZ-400T04 | A | Implementing Dependency Management | Englisch | 29/05/2020 |
+    | AZ-400T05 | A | Implementing Application Infrastructure | Englisch | 29/05/2020 |
+    | AZ-400T06 | A | Implementing Continuous Feedback | Englisch | 29/05/2020 |
+    | AZ-400T07 | A | Designing a DevOps Strategy | Englisch | 29/05/2020 |
+    | MS-500T01 | A | Managing Microsoft 365 Identity and Access | Englisch | 29/05/2020 |
+    | MS-500T02 | A | Implementing Microsoft 365 Threat Protection | Englisch | 29/05/2020 |
+    | MS-500T03 | A | Implementing Microsoft 365 Information Protection | Englisch | 29/05/2020 |
+    | MS-500T04 | A | Administering Microsoft 365 Built-in Compliance | Englisch | 29/05/2020 |
+    | 40517 | G | Microsoft Cloud Workshop: Migrate EDW to Azure SQL Data Warehouse | Englisch | 29/05/2020 |
 
 * Ablauf von Kursmaterialien am, 28. Februar 2020
 
@@ -502,7 +519,7 @@ In den folgenden Tabellen finden Sie eine Auflistung von Lehrmaterialien, die en
     | 2145 | B | Verwalten Einer Microsoft® Windows Server 2003-Umgebung | Deutsch | 30/6/2018
     | 2149 | B | Maintenance D'un Environnement Microsoft® Windows Server 2003 | Französisch | 30/6/2018
     | 2163 | B | Warten Einer Microsoft® Windows Server™ 2003-Umgebung | Deutsch | 30/6/2018
-    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003 : services réseau | Französisch | 30/6/2018
+    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003: services réseau | Französisch | 30/6/2018
     | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | Deutsch | 30/6/2018
     | 2194 | A | Planification, implémentation et maintenance d’une infrastructure Active Directory® Microsoft® Windows Server™ 2003 | Französisch | 30/6/2018
     | 2226 | B | Instalação, configuração e administração do Microsoft® Windows® XP Professional | Portugiesisch | 30/6/2018
@@ -689,7 +706,7 @@ In den folgenden Tabellen finden Sie eine Auflistung von Lehrmaterialien, die en
     | 80630 | A | Service clientèle dans Microsoft Dynamics® CRM 2013 | Französisch | 30/6/2018
     | 80631 | A | Customer Service in Microsoft Dynamics® CRM 2013 (Japanisch) | Japanisch | 30/6/2018
 
-* Ablauf von Kursmaterialien am, 30. März 2018
+* Ablauf von Kursmaterialien am,  30. März 2018
 
     | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
     | --- | --- | --- | --- | --- |
@@ -782,7 +799,7 @@ In den folgenden Tabellen finden Sie eine Auflistung von Lehrmaterialien, die en
     | 80576 | A | Fixed Assets in Microsoft Dynamics GP 2013 | Englisch | 31/3/2017
     | 80450 | A | Delivering Microsoft Dynamics Solutions with Sure Step | Englisch | 31/3/2017
 
-* Ablauf von Kursmaterialien am, 31. Dezember 2016
+* Ablauf von Kursmaterialien am, 31 Dezember 2016
 
     | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
     | --- | --- | --- | --- | --- |
@@ -914,7 +931,7 @@ In den folgenden Tabellen finden Sie eine Auflistung von Lehrmaterialien, die en
     | 50430 | B | Administering Team Foundation Server 2010 | Englisch | 31/8/2015
     | 50523 | A | Deploying the Optimized Desktop with Windows 7 and Office 2010 | Englisch | 31/8/2015
 
-* Ablauf von Kursmaterialien am, 30. Juni 2015
+* Ablauf von Kursmaterialien am, , 30. Juni 2015
 
   [Laden Sie die vollständige Liste der ausscheidenden, von Lehrkräften geleiteten Kurse herunter](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
 
@@ -948,7 +965,7 @@ In den folgenden Tabellen finden Sie eine Auflistung von Lehrmaterialien, die en
     | 6464 | A | Visual Studio 2008: ADO.NET 3.5 | Englisch | 25/8/2014
     | 10953 | A | HTML5 Programming | Englisch | 25/8/2014
 
-* Ablauf von Kursmaterialien am, 31. Dezember 2013
+* Ablauf von Kursmaterialien am, , 31. Dezember 2013
 
     | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
     | --- | --- | --- | --- | --- |
@@ -1012,7 +1029,7 @@ In den folgenden Tabellen finden Sie eine Auflistung von Lehrmaterialien, die en
   * [Laden Sie die vollständige Liste der auslaufenden SA-E-Learning-Kurse herunter](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
   * [Laden Sie die vollständige Liste der auslaufenden MSIA-Learning-Kurse herunter.](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
 
-* Ablauf von Kursmaterialien am, 15. August 2017
+* Ablauf von Kursmaterialien am, , 15. August 2017
 
     | Kursnummer | Titel | Sprache | Ablaufdatum |
     | --- | --- | --- | --- |
@@ -1023,7 +1040,7 @@ In den folgenden Tabellen finden Sie eine Auflistung von Lehrmaterialien, die en
   * [Laden Sie die vollständige Liste der auslaufenden SA-E-Learning-Kurse herunter](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
   * [Laden Sie die vollständige Liste der auslaufenden MSIA E-Learning-Kurse herunter](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
 
-* Ablauf von Kursmaterialien am, 30. Juni 2015
+* Ablauf von Kursmaterialien am, , 30. Juni 2015
 
   * [Laden Sie die vollständige Liste der auslaufenden E-Learning-Kurse herunter](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
 

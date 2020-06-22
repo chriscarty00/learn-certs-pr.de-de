@@ -13,14 +13,21 @@ locales:
 levels:
 - beginner
 roles:
+- administrator
+- ai-engineer
+- data-analyst
+- data-engineer
+- data-scientist
+- database-administrator
 - developer
+- security-engineer
 products:
 - azure
 exams:
 - uid: exam.az-900
 summary: |-
   Dieser zweitägige Kurs vermittelt grundlegende Kenntnisse über Cloud-Konzepte. Azure-Kerndienste; Sicherheit, Datenschutz, Compliance und Vertrauen; und Azure-Preise und -Support.
-  Hinweis: Dieser Kurs bietet einen Azure-Pass und Zeit für die Teilnahme an praktischen Übungen. Wenn Sie keine praktische Erfahrung benötigen, sollten Sie den Kurs AZ -900T01: Microsoft Azure Fundamentals (1 Tag) in Betracht ziehen. Der Inhalt für beide Kurse richtet sich nach der Zieldomäne der AZ-900-Prüfung.
+  Hinweis&#58; Dieser Kurs bietet einen Azure-Pass und Zeit für die Teilnahme an praktischen Übungen. Wenn Sie keine praktische Erfahrung benötigen, sollten Sie den Kurs AZ -900T01&#58; Microsoft Azure Fundamentals (1 Tag) in Betracht ziehen. Der Inhalt für beide Kurse richtet sich nach der Zieldomäne der AZ-900-Prüfung.
 
   #### Zielgruppenprofil
   Dieser Kurs eignet sich für IT-Mitarbeiter, die gerade erst mit Azure arbeiten. Dieses Publikum möchte mehr über unsere Angebote erfahren und praktische Erfahrungen mit dem Produkt sammeln. Dieser Kurs verwendet hauptsächlich das Azure-Portal zum Erstellen von Diensten und erfordert keine Skriptkenntnisse.  Die Teilnehmer dieses Kurses gewinnen Vertrauen in andere rollenbasierte Kurse und Zertifizierungen, z. B. Azure Administrator. Dieser Kurs bietet einen Azure-Pass und eine optionale Laborumgebung. Dieser Kurs kombiniert Vorlesungen, Demonstrationen und praktische Übungen.  Dieser Kurs hilft auch dabei, jemanden auf die AZ-900-Prüfung vorzubereiten.
@@ -35,14 +42,14 @@ outlineSection: |-
   - Arten von Cloud-Modellen
   - Typen von Cloud-Dienstleistungen
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
   - Definieren Sie Cloud Computing und seine wichtigsten Vorteile.
-  - Öffentliche, private und hybride Cloud-Modelle
+  - Öffentliche, private und hybride Cloud-Modelle erläutern.
   - Erläutern Sie die Cloud-Dienste IaaS, PaaS und SaaS.
 
 
   ### Modul 2&#58; Core Azure Services
-  In diesem Modul erfahren Sie mehr über Azure-Kernkomponenten der Cloud-Architektur, Azure-Dienste und -Produkte, Azure-Lösungen und Azure-Verwaltungstools.
+  In diesem Modul Mehr erfahren über Azure-Kernkomponenten der Cloud-Architektur, Azure-Dienste und -Produkte, Azure-Lösungen und Azure-Verwaltungstools.
   #### Lektionen
   - die wichtigsten Azure-Architekturkomponenten
   - die wichtigsten Azure Dienste und Produkte
@@ -71,7 +78,7 @@ outlineSection: |-
   #### Labor &#58; Exemplarische Vorgehensweise&#58; Erstellen Sie eine VM mit PowerShell
 
   #### Labor &#58; Exemplarische Vorgehensweise&#58; Erstellen Sie eine VM mit CLI
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
   - Identifizieren Sie die wichtigsten Azure-Architekturkomponenten wie Regionen, Regionen und Ressourcengruppen.
   - Identifizieren Sie Anwendungsfälle für Azure-Kerndienste und -Produkte, z. B. virtuelle Maschinen und Speicher.
   - Identifizieren Sie Anwendungsfälle für Azure-Lösungen wie das Internet der Dinge und maschinelles Lernen.
@@ -79,14 +86,14 @@ outlineSection: |-
 
 
   ### Modul 3&#58; Sicherheit, datenschutz, Compliance und Vertrauen
-  In diesem Modul erfahren Sie mehr über Azure-Sicherheit, Identität, Governance, Überwachung, Berichterstellung und Standards.
+  In diesem Modul Mehr erfahren über Azure-Sicherheit, Identität, Governance, Überwachung, Berichterstellung und Standards.
   #### Lektionen
   - Sichere Netzwerkverbindung
   - Kern-Azure Identity Services
   - Sicherheitstools und -Funktionen
   - Azure Governance Methodologies
   - Überwachung und Berichterstattung
-  - Datenschutz-, Compliance- und Datenschutzstandards in Azure
+  - Datenschutz-, Compliance- und Datenschutzstandards
 
 
   #### Labor &#58; Exemplarische Vorgehensweise&#58; Sicherer Netzwerkverkehr
@@ -102,7 +109,7 @@ outlineSection: |-
   #### Labor &#58; Exemplarische Vorgehensweise&#58; Implementieren Sie das Ressourcen-Tagging
 
   #### Labor &#58; Exemplarische Vorgehensweise&#58; Erkunden des Trust Centers
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
   - Beschreiben von Konnektivitätsoptionen für die Sicherheit virtueller Netzwerke, z. B. Netzwerksicherheitsgruppen.
   - Beschreiben der Azure-Identitätsauthentifizierungs- und Autorisierungsoptionen.
   - Beschreiben von Anwendungsfällen für die Optionen Security Center, Key Vault, Threat und Informationsschutz
@@ -112,7 +119,7 @@ outlineSection: |-
 
 
   ### Modul 4&#58; Azure Pricing and Support
-  In diesem Modul erfahren Sie mehr über Azure-Abonnements, das Planen und Verwalten von Kosten, Supportoptionen, SLAs und Servicelebenszyklen.
+  In diesem Modul Mehr erfahren über Azure-Abonnements, das Planen und Verwalten von Kosten, Supportoptionen, SLAs und Servicelebenszyklen.
   #### Lektionen
   - Azure Abos
   - Kostenplanung und Verwaltung
@@ -130,9 +137,10 @@ outlineSection: |-
   #### Labor &#58; Exemplarische Vorgehensweise&#58; Berechnen Sie zusammengesetzte SLAs
 
   #### Labor &#58; Exemplarische Vorgehensweise&#58; Zugriff auf Azure Preview-Funktionen
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
   - Verwenden Sie ein Azure-Abonnement.
   - Kosten planen und verwalten.
   - Erläutern der Azure-Unterstützungsoptionen.
   - Beschreiben von Azure-SLAs.
   - Erläutern der Azure-Servicelebenszyklen.
+

@@ -5,21 +5,15 @@ metadata:
   description: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
 uid: exam.ai-900
 displayName: AI-900
-summary: |-
-  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
-
-  Kandidaten für dieses examens sollten über grundlegende Kenntnisse der Konzepte maschinellen Lernens (ML) und künstlicher Intelligenz (AI) sowie der zugehörigen Microsoft Azure-Services verfügen.
-
-  dieses examens bietet die Gelegenheit, Kenntnisse über gängige ML- und AI-Workloads und deren Implementieren in Azure zu demonstrieren.  
-
-  dieses examens richtet sich an Kandidaten mit technischem als auch nichttechnischem Hintergrund. Erfahrung in Data-Science und Software-Engineering ist nicht erforderlich. Einige allgemeine Programmierkenntnisse oder -erfahrungen wären jedoch von Vorteil.  
-
-  Azure AI-Grundlagen können verwendet werden, um sich auf andere rollenbasierte Azure-Zertifizierungen wie Azure Data Scientist Associate oder Azure AI Engineer Associate vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen.  
-
-  <div style='font-weight&#58; bold;'><br/>Hinweis&#58; dieses examens wird am oder um den 8. Juni 2020 verfügbar sein.</div>
-subTitle: 'dieses examens wird am oder um den 8. Juni 2020 verfügbar sein. Beweisen Sie, dass Sie Folgendes beschreiben können: AI-Workloads und Überlegungen; Grundprinzipien des maschinellen Lernens in Azure; Funktionen von Computer Vision-Workloads in Azure; und Funktionen von Konversations-KI-Workloads in Azure. '
+summary: "<div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>\r\n\r\nKandidaten für dieses Prüfung sollten über grundlegende Kenntnisse der Konzepte maschinellen Lernens (ML) und künstlicher Intelligenz (AI) sowie der zugehörigen Microsoft Azure-Services verfügen.\r\n\r\nDieses Prüfung bietet Gelegenheit, Kenntnisse über gängige ML- und AI-Workloads und deren Implementieren in Azure nachzuweisen.  \r\n\r\nDieses Prüfung richtet sich an Kandidaten mit technischem wie auch nichttechnischem Hintergrund. Erfahrung in Data-Science und Software-Engineering ist nicht erforderlich. Einige allgemeine Programmierkenntnisse oder -erfahrungen wären jedoch von Vorteil.  \r\n\r\nAzure AI-Grundlagen können verwendet werden, um sich auf andere rollenbasierte Azure-Zertifizierungen wie Azure Data Scientist Associate oder Azure AI Engineer Associate vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen.  \r\n\r\n<div style='font-weight&#58; bold;'><br/>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. Um mehr zu erfahren <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">about the value and importance of beta exams</a>.</div>"
+subTitle: 'Beweisen Sie, dass Sie Folgendes beschreiben können: AI-Workloads und Überlegungen; Grundprinzipien des maschinellen Lernens in Azure; Funktionen von Computer Vision-Workloads in Azure; Funktionen von NLP-Workloads (Natural Language Processing) in Azure; und Funktionen von dialogorientierten AI-Workloads in Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
+  - providerType: gsi
+    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
@@ -28,6 +22,7 @@ skills:
 - AI-Workloads und Überlegungen dazu beschreiben (15-20%)
 - Grundprinzipien des maschinellen Lernens in Azure beschreiben (30-35%)
 - Funktionen von Computer Vision-Workloads in Azure beschreiben (15-20%)
+- Funktionen von NLP-Workloads beschreiben (Natural Language Processing) in Azure (15-20%)
 - Beschreiben der Funktionen von dialogorientierten AI-Workloads in Azure (15-20%)
 roles:
 - ai-engineer

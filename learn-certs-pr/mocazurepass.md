@@ -14,7 +14,7 @@ ms.author: micsullivan
 
 <div style='color: red;'><font color="red">Microsoft WWL hat den Zugriff auf Azure-Pässe wiederhergestellt. Bitte beachten Sie, dass dies eine keine SLA-Lösung ist und in einigen Regionen möglicherweise noch Ressourcenbeschränkungen bestehen.<br/><br/>Die Azure-Schnittstelle gibt Rückmeldung darüber, welche Regionen und Größen unterstützt werden und ob für die ausgewählte Region signifikante Anforderungen gestellt werden. Erwägen Sie die Nutzung einer anderen Region, die vom Abonnement unterstützt wird und für die keine spezifischen Anforderungen oder Größenbeschränkungen gelten.<br/><br/>Weitere Informationen zu alternativen, von SLA unterstützten Lösungen erhalten Sie von einem der autorisierten Lab-Hoster (ALH), die derzeit Zugriff auf Azure gewähren.</font></div>
 
-Zuletzt aktualisiert: **22 Mai 2020**
+Zuletzt aktualisiert: **5. Juni 2020**
 
 Microsoft bietet Ihren Kursteilnehmern Zugriff auf einen kostenlosen 30-Tage-Microsoft Azure-Pass, wenn sie sich über Microsoft Official Courses für einen zulässigen Azure-Kurs anmelden. Pässe für Studenten können nur vom autorisierten Microsoft Learning Partner über den Lernsoftware-Marktplatz bezogen werden und sind direkt an einen Kauf eines MOC-Kurses gebunden, wobei ein Pass pro bestelltem MOC-Kurs eingeschlossen ist. Es ist kein anderer Mechanismus verfügbar, Pässe für Studenten zu erhalten. Wenn ein Lernpartner einen MOC-Kurs bestellt, aber nicht den Azure-Pass auswählt, der zum Zeitpunkt des Kaufs für den Kurs verfügbar ist, hat der Partner die Möglichkeit, zum Lernsoftware-Marktplatz zurückzukehren und diesen Pass bei Bedarf anschließend zu bestellen.
 
@@ -42,7 +42,6 @@ Es steht eine begrenzte Anzahl von Pässen zur Verfügung, die an Lernpartner un
 - 40501 Microsoft Cloud Workshop: Cloud-native applications
 - 40502 Microsoft Cloud Workshop: Big Data & Visualization
 - 40503 Microsoft Cloud Workshop: Enterprise-ready Cloud
-- 40504 Microsoft Cloud Workshop: Intelligent Vending Machines
 - 40505 Microsoft Cloud Workshop: Internet of Things
 - 40508 Microsoft Cloud Workshop: Modern Cloud Apps
 - 40510 Microsoft Cloud Workshop: SQL Server Hybrid Cloud
@@ -50,10 +49,8 @@ Es steht eine begrenzte Anzahl von Pässen zur Verfügung, die an Lernpartner un
 - 40512 Microsoft Cloud Workshop: App Modernization
 - 40513 Microsoft Cloud Workshop: Building a Resilient IaaS Architecture
 - 40514 Microsoft Cloud Workshop: Data Platform Upgrade and Migration
-- 40516 Microsoft Cloud Workshop: Intelligent Analytics
 - 40515 Microsoft Cloud Workshop: Enterprise-Class Networking in Azure
 - 40516 Microsoft Cloud Workshop: Intelligent Analytics
-- 40517 Microsoft Cloud Workshop: Migrate EDW to Azure SQL Data Warehouse
 - 40519 Microsoft Cloud Workshop: SAP on Azure
 - 40522 Microsoft Cloud Workshop: Azure Stack
 - 40526 Microsoft Cloud Workshop: SAP HANA on Azure
@@ -62,12 +59,9 @@ Es steht eine begrenzte Anzahl von Pässen zur Verfügung, die an Lernpartner un
 - 40529 Microsoft Cloud Workshop: High Performance Computing
 - 40530 Microsoft Cloud Workshop: Cognitive Services and Deep Learning
 - 40531 Microsoft Cloud Workshop: IoT and the Smart City
-- 40532 Microsoft Cloud Workshop: Mobile App Innovation
-- 40532 Microsoft Cloud Workshop: Mobile App Innovation
 - 40533 Microsoft Cloud Workshop: OSS PaaS and DevOps
 - 40534 Microsoft Cloud Workshop: Securing PaaS
 - 40535 Microsoft Cloud Workshop: Serverless Architecture
-- 40550 Microsoft Cloud Workshop: Windows Server and SQL Server 2008-R2 end of support planning
 - 40557 Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics
 - 40558 Microsoft Cloud Workshop: Line-of-business application migration
 - 40559 Microsoft Cloud Workshop: MLOps
@@ -85,7 +79,9 @@ Es steht eine begrenzte Anzahl von Pässen zur Verfügung, die an Lernpartner un
 - 55247 Designing and Implementing Cloud Data Platform Solutions
 - 55264 Introduction to Programming Using Python
 - AI-100T01 Designing and Implementing an Azure AI Solution
+- AI-900T00 Microsoft Azure AI Fundamentals
 - AZ-010T00 Azure Administration for AWS SysOps
+- AZ-020T00 Microsoft Azure solutions for AWS developers
 - AZ-103T00 Microsoft Azure Administrator
 - AZ-104T00 Microsoft Azure Administrator
 - AZ-120T00 Planning and Administering Microsoft Azure for SAP Workloads
@@ -94,8 +90,9 @@ Es steht eine begrenzte Anzahl von Pässen zur Verfügung, die an Lernpartner un
 - AZ-220T00 Microsoft Azure IoT Developer
 - AZ-300T0X Azure Solutions Architect - Technologies courses
 - AZ-301T0X Azure Solutions Architect - Design courses
+- AZ-303T00 Microsoft Azure Architect Technologies
+- AZ-304T00 Microsoft Azure Architect Design
 - AZ-400T00 Designing and Implementing Microsoft DevOps Solutions
-- AZ-400T0X Azure DevOps Engineer courses
 - AZ-500T00 Microsoft Azure Security Technologies
 - AZ-900T00 Microsoft Azure Fundamentals (2 Day)
 - DP-050T00 Migrate SQL workloads to Azure
@@ -104,10 +101,8 @@ Es steht eine begrenzte Anzahl von Pässen zur Verfügung, die an Lernpartner un
 - DP-100T01 Designing and Implementing a Data Science Solution on Azure
 - DP-200T01 Implementing an Azure Data Solution
 - DP-201T01 Designing an Azure Data Solution
-- MB-300T00 Microsoft Finance and Operations Core
 - MB-400T00 Microsoft Power Apps + Dynamics 365 Developer
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
-- MB-700T00 Microsoft Dynamics 365: Finance and Operations Apps Solution Architect
 - WS-050T00 Migrating Application Workloads to Azure
 
 Hinweis: Diese Liste kann sich ändern und Titel können zu dieser Liste hinzugefügt oder daraus entfernt werden, wenn neue Versionen oder Kurse veröffentlicht und ältere Versionen und Kurse eingestellt werden.

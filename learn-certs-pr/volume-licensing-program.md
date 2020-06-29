@@ -2,6 +2,7 @@
 title: Softwareschulung für Volumenlizenzkunden | Microsoft Docs
 description: Softwareschulung für Volumenlizenzkunden
 documentationcenter: NA
+author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
@@ -14,20 +15,18 @@ Die Schulungs- und Zertifizierungslösungen von Microsoft unterstützen Unterneh
 
 Microsoft-Schulungs- und Zertifizierungslösungen sind über die folgenden Microsoft-Volumenlizenzprogramme erhältlich:
 
-* **Microsoft-Volumenlizenzierung**. Ein anpassbares Kaufprogramm für Microsoft-Software, das vergünstigten Zugang zu Microsoft-Schulungs- und Zertifizierungslösungen gewährt.
-* **[Microsoft Volumenlizenzierung für die Software Assurance](https://www.microsoft.com/learning/software-assurance-benefits.aspx)**. Ein kostengünstiges Programm, das den Zugang zu spezifischem Software Assurance E-Learning und von Trainern geleiteten Schulungen über Ihren bestehenden Software Assurance-Schutz ermöglicht.
+* **Microsoft Volume Licensing [Microsoft-Volumenlizenzierung]**. Ein anpassbares Kaufprogramm für Microsoft-Software, das vergünstigten Zugang zu Microsoft-Schulungs- und Zertifizierungslösungen gewährt.
+* **[Microsoft Volume Licensing für Software Assurance](/partner-center/software-assurance-lp)**. Ein kostengünstiges Programm, das den Zugang zu spezifischem Software Assurance E-Learning und von Trainern geleiteten Schulungen über Ihren bestehenden Software Assurance-Schutz ermöglicht.
 
-Durch die Konsolidierung des Kaufs, der Budgetierung und der Verfolgung der auf dieser Seite beschriebenen Microsoft-Produkte für Trainings- und Zertifizierungslösungen mit anderen Microsoft-Technologiekäufen durch Volumenlizenzierung kann Ihr Unternehmen  20 bis 80 Prozent Kosteneinsparungen erzielen (je nach Produkt und Volumenlizenzvertragsstufe).
+Durch die Konsolidierung des Kaufs, der Budgetierung und der Verfolgung der auf dieser Seite beschriebenen Microsoft-Produkte für Trainings- und Zertifizierungslösungen mit anderen Microsoft-Technologiekäufen durch Volumenlizenzierung kann Ihr Unternehmen 20 bis 80 Prozent Kosteneinsparungen erzielen (je nach Produkt und Volumenlizenzvertragsstufe).
 
-* Microsoft E-Referenzbibliothek
+* Microsoft E-Reference Libraries [Microsoft E-Referenzbibliothek]
 
   Die Microsoft E-Referenzbibliotheken bieten umfassende Inhalte zu Microsoft-Produkten und verwandten Technologien. Die Sammlung von Microsoft Press E-Books, die online über jede Internetverbindung gehostet wird, stellt eine effiziente und kostengünstige Alternative zu Druckbibliotheken dar und ist eine ausgezeichnete Ergänzung zu Präsenzschulungen und E-Learning-Kursen.
 
-  * [Siehe Beispiel Inhalt der E-Referenzbibliothek](https://mseref.safaribooksonline.com/)
-
 * Gutscheine für die Microsoft-Zertifizierung
 
-  Zertifizierte Experten (Certified Professionals, MCPs) können den Wettbewerbsvorteil Ihres Unternehmens vergrößern, die Kundenzufriedenheit erhöhen und Ausfallzeiten des Netzwerks reduzieren.
+  Microsoft Certified Professionals können den Wettbewerbsvorteil Ihres Unternehmens verbessern, die Kundenzufriedenheit steigern und Ausfallzeiten im Netzwerk reduzieren.
 
 * Microsoft Imagine Academy (für berechtigte Unternehmen)
 
@@ -39,20 +38,20 @@ Durch die Konsolidierung des Kaufs, der Budgetierung und der Verfolgung der auf 
   * Das Instructor Learning Management System (LMS) hilft bei der Verfolgung und Überwachung der Fortschritte der Auszubildenden.
   * Rabatte auf offizielles Lehrmaterial (nur für akademische Einrichtungen verfügbar)
   * Marketing-Ressourcen zur Förderung der Zusammenarbeit mit der Marke Microsoft und offizielle Zertifizierungen
-  
-  Das Hochschul- und Karrierebildungsprogramm steht allen akkreditierten akademischen Einrichtungen als beitragsbasierte Mitgliedschaft zur Verfügung. Zur Teilnahme am Programm [Microsoft Imagine Academy](https://www.microsoft.com/de-de/education/imagine-academy/default.aspx), müssen Sie bestimmte [Standards und Anforderungen](https://www.microsoft.com/de-de/education/imagine-academy/become-a-member/default.aspx) erfüllen.
+
+  Das Hochschul- und Karrierebildungsprogramm steht allen akkreditierten akademischen Einrichtungen als beitragsbasierte Mitgliedschaft zur Verfügung. Zur Teilnahme am [Programm Microsoft Imagine Academy](https://www.microsoft.com/en-us/education/imagine-academy/default.aspx), müssen Sie bestimmte [Standards und Anforderungen](https://edudownloads.azureedge.net/msdownloads/Imagine_Academy_Program_Guide_10_languages.zip) erfüllen.
 
 * Prüfungspakete zur Microsoft-Zertifizierung für akademische Einrichtungen
 
-  Mit Microsoft-Zertifizierungen können Sie die technologischen Fähigkeiten Ihrer Schulungsteilnehmer überprüfen und ihnen helfen, sich zu differenzieren und ihre Ausbildung und Berufsaussichten zu verbessern. Darüber hinaus können Sie Microsoft-Zertifizierungen nutzen, um Ihre Ziele der beruflichen Entwicklung Ihrer Fakultät und Ihrer Mitarbeiter zu unterstützen. Mit einem Microsoft Imagine Academy-Abonnement, zusätzlich zu Ihrem Microsoft Akademischen Volumenlizenzvertrag erhalten Sie eine komplette Lösung für die Technologieausbildung.
+  Mit Microsoft-Zertifizierungen können Sie die technologischen Fähigkeiten Ihrer Schulungsteilnehmer überprüfen und ihnen helfen, sich zu differenzieren und ihre Ausbildung und Berufsaussichten zu verbessern. Darüber hinaus können Sie Microsoft-Zertifizierungen nutzen, um Ihre Ziele der beruflichen Entwicklung Ihrer Fakultät und Ihrer Mitarbeiter zu unterstützen. Mit einem Microsoft Imagine Academy-Abonnement, zusätzlich zu Ihrem Microsoft Akademischen Volumenlizenzvertrag, erhalten Sie eine komplette Lösung für die Technologieausbildung.
 
-  Sie können Prüfungs-, Ausbildungs- und Webpakete bestellen, die  die Teilnehmer auf den Weg zu einer Microsoft-Zertifizierung bringen - einschließlich Microsoft Office Specialist (MOS), Microsoft Technology Associate (MTA) und Microsoft Certified Professional (MCP) Zertifizierungen. Die Zertifizierungsprüfungsklasse und die Webpakete enthalten eine bestimmte Anzahl von Prüfungsgutscheinen, die Sie im Laufe eines Jahres einlösen können. Ob für eine gymnasiale Ausbildung, ein zweijähriges Fachhochschulstudium oder ein vierjähriges Fachstudium, Sie können eine Mischung aus Zertifizierungen individuell auf Ihre Bedürfnisse zuschneiden.
+  Sie können Prüfungs-, Ausbildungs- und Webpakete bestellen, die die Teilnehmer auf den Weg zu einer Microsoft-Zertifizierung bringen - einschließlich Microsoft Office Specialist (MOS), Microsoft Technology Associate (MTA) und Microsoft Certified Professional (MCP) Zertifizierungen. Die Zertifizierungsprüfungsklasse und die Webpakete enthalten eine bestimmte Anzahl von Prüfungsgutscheinen, die Sie im Laufe eines Jahres einlösen können. Ob für eine gymnasiale Ausbildung, ein zweijähriges Fachhochschulstudium oder ein vierjähriges Fachstudium, Sie können eine Mischung aus Zertifizierungen individuell auf Ihre Bedürfnisse zuschneiden.
 
   | Zertifizierungsprodukt | Beschreibung | Anzahl der Prüfungsgutscheine pro Web- / Ausbildungspaket |
   | --- | --- | --- |
-  | MOS/MTA/MCE Webpaket | Pakete mit 500 Prüfungen, die als Kombination für MOS, MTA und MCE Prüfungen verwendet werden können. MOS-Prüfungen bestätigen das allgemeine Verständnis und die weitergehenden  Kenntnisse der von Unternehmen geforderten Office-Kenntnisse, indem sie die Teilnehmer differenzieren und ihre Erfolgschancen verbessern, wenn sie eine weitergehende Ausbildung starten oder in die Arbeitswelt eintreten. MTA-Prüfungen dienen der Überprüfung von Kern-Technologiekonzepten in den Bereichen Infrastruktur, Datenbank und Entwicklung und helfen den Teilnehmern, sich auf eine weiterführende Technologieausbildung und/oder Zertifizierungen vorzubereiten. Die MTA-Zertifizierung kann in einem Semester erworben und verwendet werden, um Kompetenz und Engagement für IT-Einstiegspositionen nachzuweisen. Das Microsoft Certified Educator (MCE)-Programm bietet bewährte Tools, die Lehrkräften helfen, die bestmögliche Integration von Informations- und Kommunikationstechnologie (IKT) in den Unterricht zu fördern. Abbildung auf dem UNESCO ICT-Kompetenzrahmen für Lehrkräfte. | 500 |
+  | MOS/MTA/MCE Webpaket | Pakete mit 500 Prüfungen, die als Kombination für MOS, MTA und MCE Prüfungen verwendet werden können. MOS-Prüfungen bestätigen das allgemeine Verständnis und die weitergehenden  Kenntnisse der von Unternehmen geforderten Office-Kenntnisse, indem sie die Teilnehmer differenzieren und ihre Erfolgschancen verbessern, wenn sie eine weitergehende Ausbildung starten oder in die Arbeitswelt eintreten. MTA-Prüfungen dienen der Überprüfung von Kerntechnologiekonzepten in den Bereichen Infrastruktur, Datenbank und Entwicklung und helfen den Teilnehmern, sich auf eine weiterführende Technologieausbildung und/oder Zertifizierungen vorzubereiten. Die MTA-Zertifizierung kann in einem Semester erworben und verwendet werden, um Kompetenz und Engagement für IT-Einstiegspositionen nachzuweisen. Das Microsoft Certified Educator (MCE)-Programm bietet bewährte Tools, die Lehrkräften helfen, die bestmögliche Integration von Informations- und Kommunikationstechnologie (IKT) in den Unterricht zu fördern. Abbildung auf dem UNESCO ICT-Kompetenzrahmen für Lehrkräfte. | 500 |
   | MTA/MCE und MOS/MCE Webpaket | Pakete mit 125 Prüfungen, die als Kombination von MTA/MCE oder MOS/MCE Prüfungen verwendet werden können. MOS-Prüfungen bestätigen das allgemeine Verständnis und die weitergehenden  Kenntnisse der von Unternehmen geforderten Office-Kenntnisse, indem sie die Teilnehmer differenzieren und ihre Erfolgschancen verbessern, wenn sie eine weitergehende Ausbildung starten oder in die Arbeitswelt eintreten. MTA-Prüfungen dienen der Überprüfung von Kerntechnologiekonzepten in den Bereichen Infrastruktur, Datenbank und Entwicklung und helfen den Teilnehmern, sich auf eine weiterführende Technologieausbildung und/oder Zertifizierungen vorzubereiten. Die MTA-Zertifizierung kann in einem Semester erworben und verwendet werden, um Kompetenz und Engagement für IT-Einstiegspositionen nachzuweisen. Das Microsoft Certified Educator (MCE)-Programm bietet bewährte Tools, die Lehrkräften helfen, die bestmögliche Integration von Informations- und Kommunikationstechnologie (IKT) in den Unterricht zu fördern. Abbildung auf dem UNESCO ICT-Kompetenzrahmen für Lehrkräfte. | 125 |
-  | Microsoft Certified Professional (MCP) Class Pack | MCP Prüfungsgutscheine können verwendet werden, um Microsoft Certified Solutions Associate (MCSA), Microsoft Certified Solutions Expert (MCSE) oder Microsoft Certified Solutions Developer (MCSD) Zertifizierungen zu erhalten. Diese Zertifizierungen bestätigen Kompetenzen, die für die heutige Karriere in der IT entscheidend sind. MCSA Zertifizierungen bestätigen Kernplattformfähigkeiten, und MCSD und MCSE bescheinigen das profunde Fachwissen, das für das Konzept, den Aufbau und die Implementierung von Lösungen erforderlich ist. | 30 |
+  | Microsoft Certified Professional Class Pack | Microsoft Certified Professional-Prüfungsgutscheine können verwendet werden, um Microsoft Certified Solutions Associate- (MCSA), Microsoft Certified Solutions Expert- (MCSE) oder Microsoft Certified Solutions Developer- (MCSD) Zertifizierungen zu erhalten. Diese Zertifizierungen bestätigen Kompetenzen, die für die heutige Karriere in der IT entscheidend sind. MCSA Zertifizierungen bestätigen Kernplattformfähigkeiten, und MCSD und MCSE bescheinigen das profunde Fachwissen, das für das Konzept, den Aufbau und die Implementierung von Lösungen erforderlich ist. | 30 |
 
   Sie können Ihre jährliche Microsoft Imagine Academy-Mitgliedschaft und Microsoft Zertifizierungsprüfungen über die folgenden Microsoft Akademischen Volumenlizenzprogramme bestellen:
 
@@ -79,8 +78,6 @@ Durch die Konsolidierung des Kaufs, der Budgetierung und der Verfolgung der auf 
 
   * [Leitfaden für den Volumenlizenzen Online Services Manager zur Online-Nutzung](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
   * [Volumenlizenzierung Endbenutzer/Studien-handbuch für die Online-Nutzung](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
-  * [Demo zur E-Learning-Aktivierung](https://www.microsoft.com/learning/_silverlight/vl/vl.htm)
-  * [Leitfaden für das Betriebswirtschaftszentrum zur Online-Nutzung](https://www.microsoft.com/learning/_silverlight/bac/bac.htm)
   * [Programm der Microsoft Imagine Academy](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
   * [Microsoft-Zertifizierung für akademische Einrichtungen](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
   * [Microsoft Imagine Academy Zertifizierungsfahrplan](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
@@ -90,25 +87,24 @@ Durch die Konsolidierung des Kaufs, der Budgetierung und der Verfolgung der auf 
 
   Um mit der Nutzung der Schulungs- und Zertifizierungsprodukte von Microsoft zu beginnen, wenden Sie sich bitte an Ihren Kundenbetreuer für Volumenlizenzen. Bei Fragen zu Preisen, Lizenzen und beschleunigter Rabattierung senden Sie bitte eine E-Mail an [MSLVLPurchase@microsoft.com](mailto:MSLVLPurchase@microsoft.com).
 
-  [Kontaktieren Sie unsere Vertriebsspezialisten, um sich über das Angebot von Microsoft Schulungs- und Zertifizierungslösungen zu informieren](mailto:mslvlhlp@microsoft.com)
+  [Kontaktieren Sie unsere Vertriebsspezialisten, um sich über das Angebot von Microsoft Schulungs- und Zertifizierungslösungen zu informieren.](mailto:mslvlhlp@microsoft.com)
 
 ## Häufig gestellte Fragen
 
-Die folgenden Fragen beziehen sich speziell auf die Volumenlizenzierung für Microsoft Schulungs- und Zertifizierungslösungen. Besuchen Sie die [Zertifizierungsübersicht](https://www.microsoft.com/learning/certification-overview.aspx) or [exam policies and FAQ](https://www.microsoft.com/learning/certification-exam-policies.aspx) Seiten mit den Antworten auf generelle Fragen zu den Microsoft-Zertifizierungen und Prüfungen.
+Die folgenden Fragen beziehen sich speziell auf die Volumenlizenzierung für Microsoft Schulungs- und Zertifizierungslösungen. Antworten auf allgemeine Fragen zur Microsoft-Zertifizierung oder zu den Prüfungen finden Sie auf den Seiten [Zertifizierungsübersicht](/learn/certifications/) oder [exam policies and FAQ](/learn/certifications/certification-exam-policies).
 
 ### **Microsoft Schulungs- und Zertifizierungslösungen**
 
 **Fr.: Welche Produkte werden von Microsoft Schulungs- und Zertifizierungslösungen unterstützt?**
 
-Die Schulungs- und Zertifizierungslösungen von Microsoft unterstützen viele gängige Microsoft-Technologien, darunter:
+Microsoft-Schulungs- und Zertifizierungslösungen unterstützen Microsoft-Lösungsbereiche, darunter:
 
-- Office
-- Windows
-- Exchange
-- System Center
-- Visual Studio
-- Windows Server
-- Windows Phone
+- Apps und Infrastruktur
+- Daten und AI
+- Moderne Arbeit
+- Geschäfts Anwendungen
+
+Wenn Microsoft Lösungsbereiche hinzufügt oder ändert, wird unser Zertifizierungsprogramm aktualisiert, um diese Prioritäten widerzuspiegeln.
 
 **Fr.: In welchen Regionen kann ich Schulungs- und Zertifizierungsprodukte im Rahmen meines Volumenlizenzvertrags erwerben?**
 
@@ -123,7 +119,7 @@ Sie können auf Inhalte für Microsoft Schulungs- und Zertifizierungslösungen (
 **Hinweis** Wenn Sie Ihre Zugangscodes während einer bestehenden Vereinbarung erwerben, werden die Kosten und Nutzen anteilig auf der Grundlage der verbleibenden Zeit der Vereinbarung berechnet.
 
 * **Microsoft E-Referenzbibliothek-Code**. Um auf die Bibliothek zugreifen zu können, benötigen Sie eine Lizenz. Nachdem die Bibliothek freigeschaltet wurde, haben Sie Zugriff bis zum Ende Ihrer Volumenlizenzvereinbarung.
-* **Prüfungsgutschein-Codes des Microsoft Zertifizierungsprogramms**. Sie können sich für eine Prüfung je MCP-Prüfungsgutscheincode anmelden. Prüfungsgutschein-Codes können nur einmal verwendet werden.
+* **Prüfungsgutschein-Codes des Microsoft Certification Program**. Sie können sich registrieren, um eine Prüfung für jeden Gutscheincode im Microsoft-Zertifizierungsprogramm abzulegen. Prüfungsgutschein-Codes können nur einmal verwendet werden.
 
 **Fr.: Wenn ich nicht alle während der Vertragslaufzeit erworbenen Codes verwende oder wenn ein Mitarbeiter kündigt, kann ich den Code einem anderen Mitarbeiter zuweisen oder eine Rückerstattung für die nicht verwendeten Codes erhalten?**
 
@@ -147,14 +143,14 @@ Microsoft-Schulungs- und Zertifizierungslösungen stehen Unternehmen und ausgew�
 
 Die Schulungs- und Zertifizierungslösungen von Microsoft bieten einstufige, einteilige Preise. Die Microsoft-Schulungs- und Zertifizierungslösungen können als 12-Monats-Abonnement bestellt werden oder werden auf der Grundlage der Anzahl der Monate, die in der Rahmenvereinbarung verbleiben, anteilig bewertet. Es ist keine separate Benutzer-Abonnementlizenz (USL) oder Add-on-Abonnementlizenz (ASL) erforderlich, die für andere Programme unter Volumenlizenzierung-Online Services erforderlich sind.
 
-**Hinweis** Wenn Sie Microsoft Trainings- und Zertifizierungslösungen als 12-monatiges Abonnement bestellen, verfallen Folgeaufträge gleichzeitig mit der ersten 12-monatigen Abonnementbestellung. [Besuchen Sie den Online-Leitfaden für Dienstleistungen](https://www.microsoft.com/learning/_silverlight/bac/bac.htm).
+**Hinweis** Wenn Sie Microsoft Trainings- und Zertifizierungslösungen als 12-monatiges Abonnement bestellen, verfallen Folgeaufträge gleichzeitig mit der ersten 12-monatigen Abonnementbestellung. [Besuchen Sie den Online Service-Leitfaden](https://www.microsoft.com/learning/_silverlight/bac/bac.htm).
 
 **Fr.: Wie viele Codes sollte ich erwerben?**
 
-Je mehr Codes Ihre Organisation erwirbt, desto größer ist der Mengenrabatt, den Sie erhalten. Wir empfehlen Ihnen, eine der folgenden Ressourcen zu verwenden, um den Schulungsbedarf Ihres Unternehmens zu ermitteln und einen Lernplan zu entwickeln, der zu den Geschäftszielen Ihres Unternehmens passt.
+Je mehr Codes Ihre Unternehmen erwirbt, desto größer ist der Mengenrabatt, den Sie erhalten. Wir empfehlen Ihnen, eine der folgenden Ressourcen zu verwenden, um den Schulungsbedarf Ihres Unternehmens zu ermitteln und einen Lernplan zu entwickeln, der zu den Geschäftszielen Ihres Unternehmens passt.
 
 - [Senden Sie eine E-Mail an die Microsoft Schulungs- und Zertifizierungslösungen Hilfe zur Volumenlizenzierung](mailto:mslvlhlp@microsoft.com)
-- [Finden Sie Ihren lokalen Microsoft zertifizierten Partner für Microsoft Schulungs- und Zertifizierungslösungen](https://www.microsoft.com/learning/find-partner.aspx)
+- [Finden Sie Ihren lokalen Microsoft Certified Partner für Microsoft Schulungs- und Zertifizierungslösungen](https://www.microsoft.com/learning/find-partner.aspx)
 
 **Fr.: Wie viele Prüfungsgutscheine sollte ich bestellen?**
 
@@ -172,15 +168,11 @@ Denken Sie daran, dass es für Ihre Mitarbeiter wichtig ist, praktische Erfahrun
 
 **Fr.: Welche Lehrplanoptionen stehen zur Vorbereitung auf die Prüfungen zur Verfügung, die im Microsoft Certified Professional (MCP) Class Pack, Microsoft Office Specialist (MOS) Site Pack und Microsoft Technology Associate (MTA) Site Pack enthalten sind?**
 
-Für jede Prüfung stehen Vorbereitungsunterlagen zur Verfügung. Wählen Sie die Prüfung aus der Liste [neue Prüfungen](https://www.microsoft.com/learning/exam-list.aspx), und suchen Sie dann nach den verfügbaren Vorbereitungsmöglichkeiten für die Prüfung.
+Für jede Prüfung stehen Vorbereitungsunterlagen zur Verfügung. Wählen Sie die Prüfung aus der [Liste der neuen Prüfungen](/learn/certifications/browse/?resource_type=Prüfung), und suchen Sie dann nach den verfügbaren Vorbereitungsoptionen für die Prüfung.
 
 **Fr.: Muss meine Einrichtung eine Microsoft Imagine Academy sein, um eine Microsoft Zertifizierungsprüfung oder ein Webpaket über Volumenlizenzen zu bestellen?**
   
 Nein. Jede der Microsoft-Zertifizierungsprüfungen innerhalb einer Klasse oder eines Webpakets, die über die Volumenlizenz erworben werden können, kann von jeder akkreditierten Einrichtung gekauft und eingelöst werden.
-
-**Fr.: Wie wird meine Einrichtung zum MCP-Testzentrum?**
-
-Wenn Sie Microsoft IT-Zertifizierungen und MCP- Webpaket-Prüfungen ablegen, besuchen Sie die Pearson VUE-Website, um zu erfahren, wie Ihre Einrichtung zum [Pearson VUE-Testzentrum](https://www.pearsonvue.com/microsoft) werden kann. Die Zertifizierungsprüfungen für MOS und MTA werden von Certiport durchgeführt.
 
 **Fr.: Wie wird das MCP-Ausbildungspaket durchgeführt?**
 

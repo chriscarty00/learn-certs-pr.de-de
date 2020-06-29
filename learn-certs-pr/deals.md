@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 ## Exam Replay
 
-Überprüfen Sie Ihre Kompetenzen, verschaffen Sie sich einen beruflichen Vorsprung und stärken Sie Ihr Selbstvertrauen. Exam Replaysgutscheine verfallen zwölf (12) Monate nach dem Kaufdatum und können nicht mit anderen Angeboten kombiniert werden. Sie müssen die Prüfung (und ihre Wiederholung) innerhalb von zwölf Monaten nach dem Kauf einplanen und absolvieren. Siehe [Häufig gestellte Fragen](#frequently-asked-questions) zu weiteren Informationen. Wenn Sie Probleme beim Kauf oder bei der Einlösung des Exam Replaysangebots haben, senden Sie bitte eine E-Mail an das [Pearson VUE-Team](mailto:mindhub@pearson.com).
+Überprüfen Sie Ihre Kompetenzen, verschaffen Sie sich einen beruflichen Vorsprung und stärken Sie Ihr Selbstvertrauen. Exam Replaysgutscheine verfallen zwölf (12) Monate nach dem Kaufdatum und können nicht mit anderen Angeboten kombiniert werden. Sie müssen die Prüfung (und ihre Wiederholung) innerhalb von zwölf Monaten nach dem Kauf einplanen und absolvieren. Siehe [Häufig gestellte Fragen](#frequently-asked-questions) zu weiteren Informationen. Wenn Sie Probleme beim Kauf oder bei der Einlösung des Exam Replaysangebots haben, senden Sie bitte eine E-Mail an das [Support team](mailto:mindhub@pearson.com)
 
 ### Wählen Sie zwischen zwei verschiedenen Angeboten für die Exam Replay:
 
@@ -42,7 +42,7 @@ ms.author: micsullivan
 
 
 ## Sparen Sie Geld mit Studentenermäßigungen
-Nutzen Sie umfassende Preisnachlässe für Microsoft Certified Professional (MCP)-Prüfungen, indem Sie Ihren Studentenstatus vor der Registrierung für eine Prüfung nachweisen. Wenn Ihre Schule Mitglied des Microsoft Imagine Academy-Programms ist, können Sie möglicherweise weitere Preisnachlässe in Anspruch nehmen. *Hinweis: Studentenermäßigungen für MCP-Prüfungen sind in Indien und China nicht verfügbar.*
+Nutzen Sie umfassende Preisnachlässe für Microsoft Certified Professional (MCP)-Prüfungen, indem Sie Ihren Studentenstatus vor der Registrierung für eine Prüfung nachweisen. Wenn Ihre Schule Mitglied des Microsoft Imagine Academy-Programms ist, können Sie möglicherweise weitere Preisnachlässe in Anspruch nehmen. *Hinweis: Studentenermäßigungen für Microsoft Certified-Prüfungen sind in Indien und China nicht verfügbar.*
 
 [**Mehr erfahren**](/learn/certifications/certification-exam-policies)
 

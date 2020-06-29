@@ -15,7 +15,7 @@ Auf der ganzen Welt erwarten Partner und Kunden von Microsoft Prüfungen und Zer
 
 ## <a name="security-policies"></a> Sicherheits- und Wiederholungsrichtlinien
 
-Bei Microsoft gelten bestimmte Richtlinien für die Sicherheitsbereiche im Hinblick auf MCP-Prüfungen (Microsoft Certified Professional).
+Bei Microsoft gelten bestimmte Richtlinien für die Sicherheitsbereiche im Hinblick auf Microsoft-Zertifizierun
 
 ### Sperren von Kandidaten
 
@@ -51,7 +51,7 @@ Nachstehend finden Sie einige Beispiele für solches Fehlverhalten, einschließl
 
 ### Richtlinien für die Prüfungswiederholung
 
-1. Allgemeine Richtlinien zur Wiederholung der Prüfung zum Microsoft Certified Professional (MCP)
+1. Allgemeine Richtlinien zur Wiederholung der Microsoft-Zertifizierungsprüfung
     1. Wenn ein Kandidat bei der erstmaligen Prüfung keinen ausreichenden Punktwert erzielt, muss er mindestens 24 Stunden warten, bevor er die Exam Replay kann.
     2. Wenn ein Kandidat beim zweiten Prüfungsversuch keinen ausreichenden Punktwert erzielt, muss er mindestens 14 Tage warten, bevor er die Prüfung ein drittes Mal ablegt.
     3. Eine 14-tägige Wartezeit gilt auch für die vierte und fünfte Prüfungswiederholung. Ein Kandidat darf jede Prüfung maximal fünf Mal pro Jahr (12 Monate) ablegen. Dieser Zeitraum von 12 Monaten beginnt mit dem ersten Versuch. Der Kandidat kann dann 12 Monate nach diesem Datum die Exam Replay. Um eine bestimmte Prüfung mehr als fünfmal im Jahr abzulegen oder auf die Zeit zwischen den Versuchen zu verzichten, muss ein Kandidat einen Antrag stellen und die vorherige Genehmigung von Microsoft einholen. Anfragen sind zu richten an [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com). Diese Anfragen sollten die folgenden Informationen enthalten:
@@ -59,14 +59,12 @@ Nachstehend finden Sie einige Beispiele für solches Fehlverhalten, einschließl
         - Name
         - E-Mail
         - Prüfungsnummer
-    4. Wenn ein Kandidat bei einer Prüfung einen ausreichenden Punktwert zum Bestehen erzielt, darf er die Prüfung nicht wiederholen. Microsoft behält sich das Recht vor, einige Prüfungen zur Wiederholung zur Verfügung zu stellen. Eine vollständige Liste der Prüfungen, die jährlich wiederholt werden können, finden Sie [hier](https://www.microsoft.com/learning/exam-certification-retakes.aspx).
 
 2. Richtlinie zur Wiederholung der Prüfungen für Microsoft Technology Associate (MTA) und Microsoft Certified Educator (MCE)
     1. Wenn ein Kandidat bei der erstmaligen Prüfung keinen ausreichenden Punktwert erzielt, muss er 24 Stunden warten, bevor er die Exam Replay kann.
     2. Wenn ein Kandidat beim zweiten Prüfungsversuch keinen ausreichenden Punktwert erzielt, muss er mindestens sieben Tage warten, bevor er die Prüfung ein drittes Mal ablegt.
     3. Eine siebentägige Wartezeit gilt für jede nachfolgende Prüfungswiederholung.
     4. Ein Kandidat darf jede Prüfung maximal fünf Mal pro Jahr (12 Monate) ablegen. Dieser Zeitraum von 12 Monaten beginnt mit dem ersten Versuch. Der Kandidat kann dann 12 Monate nach diesem Datum die Exam Replay.
-    5. Wenn ein Kandidat bei einer MTA-Prüfung einen ausreichenden Punktwert zum Bestehen erzielt, darf er die Prüfung nicht wiederholen.
 
 3. Richtlinie zur Wiederholung der Microsoft Office Specialist-Prüfung
     1. Wenn ein Kandidat bei der erstmaligen Prüfung keinen ausreichenden Punktwert erzielt, muss er 24 Stunden warten, bevor er die Exam Replay kann.
@@ -75,12 +73,9 @@ Nachstehend finden Sie einige Beispiele für solches Fehlverhalten, einschließl
     4. Es gibt keine jährliche Begrenzung der Anzahl der Versuche der gleichen Prüfung.
     5. Wenn ein Kandidat bei einer Office-Prüfung eine bestandene Punktzahl erreicht, kann er diese erneut ablegen.
 
-4. Richtlinie zur Wiederholung der MCP-Beta-Prüfung
+4. Richtlinie zur Wiederholung Beta-Prüfung
     1. Beta-Prüfungen dürfen nur einmal während des Beta-Zeitraums abgelegt werden. Wenn der Kandidat die Prüfung besteht, zählt sie zur Anrechnung auf die Zertifizierung. Wenn der Kandidat die Prüfung nicht besteht, kann sie gemäß den oben genannten Richtlinien wiederholt werden.
     2. Diese Richtlinien ersetzen die allgemeinen Wiederholungsrichtlinien.
-5. Prüfungsspezifische Ausnahmen bei den Wiederholungsrichtlinien
-    1. In einigen Fällen gelten bei Microsoft spezielle Richtlinien für bestimmte Prüfungen.
-    2. Microsoft behält sich das Recht vor, einige Prüfungen zur Wiederholung zur Verfügung zu stellen. Klicken Sie [hier](https://www.microsoft.com/learning/exam-certification-retakes.aspx) für eine Liste aller jährlich wiederholbaren Prüfungen.
 
 ### Schließungen der Testcenter aus Gründen der Sicherheit
 
@@ -97,7 +92,7 @@ Microsoft setzt Datenforensik als Grundlage für Vollstreckungsmaßnahmen gegen 
 
 ### Auslandstests
 
-**Um eine Prüfung für eine Microsoft Certification exam in einem Pearson VUE-Testcenter in Indien, China oder Pakistan abzulegen, müssen Sie rechtmäßiger Einwohner des betreffenden Landes sein. Wenn Sie rechtmäßiger Einwohner des betreffenden Landes sind, beachten Sie Folgendes:**
+**Um eine Prüfung für eine Microsoft Certification exam in einem-Testcenter in Indien, China oder Pakistan abzulegen, müssen Sie rechtmäßiger Einwohner des betreffenden Landes sein. Wenn Sie rechtmäßiger Einwohner des betreffenden Landes sind, beachten Sie Folgendes:**
 
 Testcenter in diesen drei Ländern müssen bestätigen und dokumentieren, dass jeder Kandidat für eine Microsoft-Zertifizierung den dokumentarischen Nachweis erbracht hat, dass er rechtmäßiger Bewohner des betreffenden Landes ist. Um den Aufenthaltsstatus des Landes zu überprüfen, muss der Kandidat zwei Formen von Originalausweisen (keine Fotokopien), gültige (abgelaufene) Ausweise vorlegen - ein Formular als Hauptausweis (Von der Regierung ausgestellt mit Name, Foto und Unterschrift) und ein Formular als Nebenausweis (mit Name und Unterschrift).
 
@@ -105,11 +100,11 @@ Testcenter in diesen drei Ländern müssen bestätigen und dokumentieren, dass j
 
 ### Tests für Bürger Sloweniens oder mit slowenischer Staatsbürgerschaft
 
-Aufgrund der Datenschutzgesetze in Slowenien kann Pearson VUE Kandidaten, die in Slowenien leben oder einen slowenischen Staatsbürgerschaftsausweis haben, keine online beaufsichtigten Prüfungen anbieten. Diese Kandidaten können Prüfungen in einem Pearson VUE Test-Center (PVTC) ablegen.
+Aufgrund der Datenschutzgesetze in Slowenien können online-beaufsichtigte Prüfungen nicht für Kandidaten bereitgestellt werden, die in Slowenien leben oder einen slowenischen Staatsbürgerschaftsausweis haben. Diese Kandidaten können Prüfungen in einem Testzentrum ablegen.
 
 - Kandidaten, die in Slowenien wohnen, wird bei der Planung einer Prüfung nur das Testcenter als Option angeboten.
 
-- Kandidaten mit Wohnsitz außerhalb Sloweniens sehen Online-Beaufsichtigung möglicherweise als verfügbare Testoption an. Sie können den Test jedoch nicht erfolgreich abschließen, wenn sie einen slowenischen Staatsbürgerschaftsausweis (Reisepass oder einen anderen Ausweis) als Identitätsnachweis vorlegen. Diese Kandidaten sollten eine Prüfung in einem Pearson VUE Test-Center (PVTC) planen.
+- Kandidaten mit Wohnsitz außerhalb Sloweniens sehen Online-Beaufsichtigung möglicherweise als verfügbare Testoption an. Sie können den Test jedoch nicht erfolgreich abschließen, wenn sie einen slowenischen Staatsbürgerschaftsausweis (Reisepass oder einen anderen Ausweis) als Identitätsnachweis vorlegen. Diese Kandidaten sollten eine Prüfung in einem Testzentrum festlegen.
 
 ### Nachprüfung des Kandidaten auf Anforderung von Microsoft
 
@@ -133,11 +128,11 @@ Etwa 400 Personen können die Beta-Prüfung zu einem reduzierten Preis ablegen. 
 
 Beachten Sie, dass die Plätze begrenzt sind und in der Reihenfolge ihres Eintreffens vergeben werden, und dass Beta-Prüfungen in China, Indien, Pakistan oder der Türkei aus Sicherheitsgründen nicht angeboten werden.
 
-Als Dankeschön für die Teilnahme am Beta-Prozess erhalten Sie ca. 6 Wochen nach dem Start der Prüfung einen 25% Rabattgutschein von Pearson VUE. Diese Gutscheine werden vom VUE zur Verfügung gestellt und an die E-Mail-Adresse gesendet, die Sie bei der Anmeldung zur Prüfung angegeben haben. Wenn Sie Ihren 25% Rabatt-Gutschein nicht innerhalb von 6 Wochen nach dem Prüfungstermin erhalten, senden Sie bitte eine E-Mail an [pvamericascustomerservice@pearson.com](mailto:pvamericascustomerservice@pearson.com).
+Als Dankeschön für die Teilnahme am Beta-Prozess erhalten Sie ca. 6 Wochen nach dem Start der Prüfung vom Anbieter der Prüfung einen 25%-Rabattgutschein. Diese Gutscheine werden vom Anbieter der Prüfung bereitgestellt und an die E-Mail-Adresse gesendet, die Sie bei der Registrierung für die Prüfung verwendet haben. Wenn Sie Ihren 25% -Rabattgutschein nicht innerhalb von 6 Wochen nach dem Tag der Prüfung erhalten, wenden Sie sich bitte an den Kundendienst des Anbieters der Prüfung.
 
 ## Preisgestaltung für akdemische Prüfungen
 
-Sonderpreise für Microsoft Certified Professional (MCP)-Prüfungen sind in den meisten Ländern (außer Indien und China) verfügbar.
+Sonderpreise für Microsoft Certified Professional-Prüfungen sind in den meisten Ländern (außer Indien und China) verfügbar.
 
 Sie müssen Ihren Status als Schüler/Student bestätigen, bevor Sie die Prüfung planen, damit Sie in den Genuss der Sonderpreise kommen.
 
@@ -258,13 +253,13 @@ Diese Microsoft-Zertifizierungsprogramm-Vereinbarung (**"Vereinbarung"**) ist ei
 
 2. MICROSOFT-ZERTIFIZIERUNG
    1. *Erlangung und Aufrechterhaltung einer Microsoft-Zertifizierung*: Um eine Microsoft-Zertifizierung zu erlangen und aufrechtzuerhalten, müssen Sie alle der folgenden Voraussetzungen erfüllen:
-          
+
         1. Bestehen aller erforderlichen Prüfungen und Erfüllen aller Zertifizierungs- und Rezertifizierungsanforderungen für die jeweilige [Microsoft Certification](https://docs.microsoft.com/learn/certifications/browse/?type=role-based),
         2. Akzeptieren der Nutzungsbedingungen dieser Vereinbarung,
         3. Einhaltung der Bedingungen der gültigen Version dieser Vereinbarung, aller Programmanforderungen und
         4. Einhaltung aller zusätzlichen Anforderungen für die entsprechende Microsoft-Zertifizierung.
 
-   2. *Änderungen der Anforderungen für die Microsoft-Zertifizierung*: Microsoft kann nach eigenem Ermessen die Microsoft-Zertifizierungsanforderungen (sowohl anfänglich als auch fortlaufend) jederzeit ändern, indem es diese Änderungen auf der [Microsoft training and certification website](https://docs.microsoft.com/learn/certifications/browse/?type=role-based) or on the [Microsoft Certification website](https://docs.microsoft.com/learn/certifications/browse/?type=role-based). Sie haben drei (3) volle Kalendermonate Zeit ab dem Zeitpunkt der Veröffentlichung der Änderungen durch Microsoft, die zusätzlichen Anforderungen zu erfüllen. Ihr Recht, eine bestimmte Zertifizierung zu verwenden, kann erlöschen, wenn Sie zusätzliche Zertifizierungs- oder Rezertifizierungsanforderungen im Zusammenhang mit einer bestimmten Zertifizierung nicht erfüllen.
+   2. *Änderungen der Anforderungen für die Microsoft-Zertifizierung*: Microsoft kann nach eigenem Ermessen die Microsoft-Zertifizierungsanforderungen (sowohl anfänglich als auch fortlaufend) jederzeit ändern, indem es diese Änderungen auf der [Microsoft Certification website](https://docs.microsoft.com/learn/certifications/browse/?type=role-based). Sie haben drei (3) volle Kalendermonate Zeit ab dem Zeitpunkt der Veröffentlichung der Änderungen durch Microsoft, die zusätzlichen Anforderungen zu erfüllen. Ihr Recht, eine bestimmte Zertifizierung zu verwenden, kann erlöschen, wenn Sie zusätzliche Zertifizierungs- oder Rezertifizierungsanforderungen im Zusammenhang mit einer bestimmten Zertifizierung nicht erfüllen.
 
    3. *Verstöße gegen die Prüfungsvereinbarung*
 
@@ -306,7 +301,7 @@ Diese Microsoft-Zertifizierungsprogramm-Vereinbarung (**"Vereinbarung"**) ist ei
 
 7. ÄNDERUNGEN
 
-   Microsoft behält sich das Recht vor, (a) die Vereinbarung und die Richtlinien zu aktualisieren und zu ändern, (b) das Programm oder einen Teil davon jederzeit zu ändern, einschließlich dem Recht, Qualifikationsnachweise zurückzunehmen, die Zertifizierungsanforderungen, Anforderungen und Programmleistungen zu ändern sowie (c) das Programm einzustellen. Microsoft wird Änderungen auf der [Microsoft Certification Website](https://www.microsoft.com/learning/program-membership.aspx). Sie sind dafür verantwortlich, diese Microsoft- Certified-Professional-Websites regelmäßig auf Änderungen zu überprüfen. Änderungen werden an dem Tag wirksam, an dem sie veröffentlicht werden. Sie gelten nicht rückwirkend.
+   Microsoft behält sich das Recht vor, (a) die Vereinbarung und die Richtlinien zu aktualisieren und zu ändern, (b) das Programm oder einen Teil davon jederzeit zu ändern, einschließlich dem Recht, Qualifikationsnachweise zurückzunehmen, die Zertifizierungsanforderungen, Anforderungen und Programmleistungen zu ändern sowie (c) das Programm einzustellen. Microsoft wird Änderungen auf der [Microsoft Certification website](/learn/certifications/). Sie sind dafür verantwortlich, diese Microsoft- Certified-Professional-Websites regelmäßig auf Änderungen zu überprüfen. Änderungen werden an dem Tag wirksam, an dem sie veröffentlicht werden. Sie gelten nicht rückwirkend.
 
 8. KEINE GEWÄHRLEISTUNG
 
@@ -469,17 +464,17 @@ Schritt 1: Füllen Sie den [Antrag](https://query.prod.cms.rt.microsoft.com/cms/
 
 **Überprüfung der Zertifizierungsoption 1 - Teilen Sie ein Badge:**
 
-- Schritt 2: Melden Sie sich in Ihrem [Microsoft Certification Dashboard](https://www.microsoft.com/learning/dashboard.aspx)
+- Schritt 2: Melden Sie sich in Ihrem [Microsoft Certification Dashboard](https://aka.ms/certdashboard)
 
 - Schritt 3: Gehen Sie zum Abschnitt Badge im Dashboard und folgen Sie den Schritten, um Ihren Badge in Anspruch zu nehmen (falls Sie dies noch nicht getan haben).
 
 - Schritt 4: Führen Sie die folgenden Schritte aus, um Ihren Badge per E-Mail an folgende Personen weiterzugeben [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)
 
-- Weitere Informationen finden Sie unter: [Microsoft Exam and Certification Badges](https://www.microsoft.com/learning/badges.aspx)
+- Weitere Informationen finden Sie unter: [Microsoft Exam and Certification Badges](/learn/certifications/badges)
 
 **Überprüfung der Zertifizierungsoption 2 - Freigeben einer Übertragung:**
 
-- Schritt 2: Melden Sie sich in Ihrem [Microsoft Certification Dashboard](https://www.microsoft.com/learning/dashboard.aspx)
+- Schritt 2: Melden Sie sich in Ihrem [Microsoft Certification Dashboard](https://aka.ms/certdashboard)
 
 - Schritt 3: Gehen Sie zum Abschnitt Transkript und wählen Sie „Teilen oder Herunterladen”.
 
@@ -526,8 +521,8 @@ Mit Microsoft-Zertifizierungsprüfungen soll sichergestellt werden, dass Kandida
 1. Überprüfen Sie unsere Kriterien für das Akzeptieren und Nicht-Akzeptieren einer Anfechtung der Prüfung.
 2. Füllen Sie das [Formular zur Anfechtung einer Prüfung](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u) aus und senden Sie es ab.
 3. Das Microsoft-Zertifizierungsteam überprüft Ihre Einreichung auf Vollständigkeit.  
-   a.	Wenn Sie unvollständig sind, werden Sie aufgefordert, weitere Informationen anzugeben.  
-   b.	Wenn der Vorgang abgeschlossen ist, wird das Microsoft-Zertifizierungsteam das überprüfen. Eine Überprüfung dauert ungefähr zwei Wochen.
+   a. Wenn Sie unvollständig sind, werden Sie aufgefordert, weitere Informationen anzugeben.  
+   b. Wenn der Vorgang abgeschlossen ist, wird das Microsoft-Zertifizierungsteam das überprüfen. Eine Überprüfung dauert ungefähr zwei Wochen.
 4. Sobald die Überprüfung abgeschlossen ist, werden Sie über das Ergebnis informiert.
 
 Vielen Dank für Ihr Interesse, Microsoft-Zertifizierungsprüfungen so korrekt und relevant wie möglich zu gestalten.
@@ -556,9 +551,9 @@ Wenn Sie zusätzliche Zeit benötigen, weil die Prüfung nicht in Ihrer Muttersp
 
 - Die Stornierung oder Neuterminierung der Prüfung innerhalb von mindestens 6 Werktagen vor Ihrem Termin ist kostenfrei.
 - Die Stornierung oder Neuterminierung Ihrer Prüfung innerhalb von 5 Werktagen vor der registrierten Prüfungszeit ist kostenpflichtig.
-- Wenn Sie Ihre Prüfungstermine nicht einhalten oder nicht neu vereinbaren oder Ihren Termin nicht mindestens 24 Stunden vor Ihrem vereinbaren Termin stornieren, verfällt Ihre gesamte Prüfungsgebühr. Arbeitstage sind Montag- Pearson VUE Urlaubstage sind nicht enthalten.
+- Wenn Sie Ihre Prüfungstermine nicht einhalten oder nicht neu vereinbaren oder Ihren Termin nicht mindestens 24 Stunden vor Ihrem vereinbaren Termin stornieren, verfällt Ihre gesamte Prüfungsgebühr. Arbeitstage sind Montag-Freitag, Urlaubstage sind nicht enthalten.
 
-Das Umplanen oder Absagen Ihres geplanten Prüfungstermins kann über das [Zertifizierungs-Dashboard](https://microsoft.com/learning/dashboard) erfolgen.
+Das Umplanen oder Absagen Ihres geplanten Prüfungstermins kann über das [Zertifizierungs-Dashboard](https://aka.ms/certdashboard) erfolgen.
 
 ## Häufig gestellte Fragen
 
@@ -589,11 +584,11 @@ Die Prüfungszeit variiert je nach Art der Prüfung, die Sie ablegen.
 
 |         | Prüfungszeit*           | Sitzungszeit*  |
 | ------------- |:-------------:| -----:|
-| Mitarbeiter- und Expertenprüfungen für Berufstätigkeiten      | 150 Minuten | 180 Minuten |
+| Mitarbeiter- und Expertenprüfungen für Berufstätigkeiten      | 180 Minuten | 210 Minuten |
 | Grundlagen der Berufstätigkeit-Prüfungen | 60 Minuten | 90 Minuten
 | Mitarbeiter- und Expertenrollen-Prüfungen in Verbindung mit Laboren | 180 Minuten | 210 Minuten
-| MTA-Prüfungen von Certiport | 45 Minuten | 50 Minuten
-| MTA-Prüfungen von Pearson VUE | 45 Minuten | 80 Minuten
+| MTA-Prüfungen, die über akademische Kanäle durchgeführt werden 45 Minuten | 50 Minuten
+| MTA-Prüfungen, die über kommerzielle Kanäle durchgeführt werden 45 Minuten | 80 Minuten
 | Dynamics-Prüfungen mit (mit MB#-nnn-Nummerierung) | 120 Minuten | 150 Minuten
 | Alle sonstigen 70-nnn Prüfungen | 150 Minuten | 180 Minuten
 | MCSA-Prüfungen | 120 Minuten | 150 Minuten
@@ -633,11 +628,11 @@ Besuchen Sie die [Prüfungsanmeldeseite](https://docs.microsoft.com/learn/certif
 
 **Muss ich die Prüfung auf Englisch ablegen?**
 
-Microsoft Zertifizierungsprüfungen stehen in verschiedenen Sprachen zur Verfügung. Bewerber, die Prüfung auf Englisch statt in ihrer Muttersprache ablegen müssen, können eine Verlängerung der Prüfungszeit beantragen. Die Entscheidung, ob eine Verlängerung der Prüfungszeit gewährt wird, hängt vom jeweiligen Einzelfall ab. Anfordern von Prüfungsunterkünften bei [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) oder [Certiport](http://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm).
+Microsoft Zertifizierungsprüfungen stehen in verschiedenen Sprachen zur Verfügung. Bewerber, die Prüfung auf Englisch statt in ihrer Muttersprache ablegen müssen, können eine Verlängerung der Prüfungszeit beantragen. Die Genehmigung für zusätzliche Zeit wird von Fall zu Fall erteilt und muss vor der Prüfung angefordert werden. Dies sollte über den [Unterbringungsprozess](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams) angefordert werden.
 
 **Welche Unterkünfte stehen für Behinderte zur Verfügung?**
 
-Microsoft hat es sich zum Ziel gesetzt, dass unsere Prüfungen für jedermann zugänglich sind, einschließlich Menschen mit Behinderungen. Für eine Liste der verfügbaren Unterkünfte besuchen Sie bitte die Seite [Unterkünfte](http://www.pearsonvue.com/accommodations/).
+Microsoft hat es sich zum Ziel gesetzt, dass unsere Prüfungen für jedermann zugänglich sind, einschließlich Menschen mit Behinderungen. Eine Liste verfügbarer Unterkünfte finden Sie im [Abschnitt Unterkünfte](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams).
 
 **Wie viel kosten die Prüfungen?**
 
@@ -655,9 +650,9 @@ Wenn Sie Feedback zu einem Microsoft-Präsenzkurs haben, wenden Sie sich direkt 
 
 Wenn Sie Bedenken hinsichtlich der technischen Genauigkeit eines bestimmten Elements haben, folgen Sie bitte dem Prozess [Prüfungsaufgabenanforderung](#policies-5).
 
-Um ein Anliegen über ein Prüfzentrum oder technische Schwierigkeiten während Ihrer Prüfung zu melden, wenden Sie sich bitte an den Kundendienst unter folgender Adresse [Pearson VUE](http://www.pearsonvue.com/microsoft/) oder [Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm).
+Um Bedenken hinsichtlich eines Testzentrums oder technischer Schwierigkeiten während Ihrer Prüfung zu melden, wenden Sie sich bitte an den Kundendienst des entsprechenden Anbieters für die Durchführung von Prüfungen.
 
-Um andere Arten von Feedback anzubieten, wenden Sie sich bitte an Ihr [Microsoft Regional Service Center](https://www.microsoft.com/learning/help.aspx).
+Um andere Arten von Feedback anzubieten, wenden Sie sich bitte an [Zertifizierungssupport](https://aka.ms/mcpforum).
 
 Um ein Sicherheitsproblem zu melden, wenden Sie sich bitte an [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 
@@ -758,7 +753,7 @@ Wenn Sie Ihren Bewertungsbericht nicht online finden oder innerhalb von zwei Woc
 
 **An wen kann ich mich wenden, wenn ich meinen 25%-Gutschein für eine Beta-Prüfung nicht erhalte?**
 
-Diese Gutscheine werden vom VUE zur Verfügung gestellt und an die E-Mail-Adresse gesendet, die Sie bei der Anmeldung zur Prüfung angegeben haben. Sie werden ca. 6 ca. 4 Wochen nach dem Start der Prüfung verschickt. Wenn Sie Ihren 25% Rabatt-Gutschein nicht innerhalb von 64 Wochen nach dem Prüfungstermin erhalten, senden Sie bitte eine E-Mail an [pvamericascustomerservice@pearson.com](mailto:pvamericascustomerservice@pearson.com).
+Diese Gutscheine werden vom Anbieter der Prüfung bereitgestellt und an die E-Mail-Adresse gesendet, die Sie bei der Registrierung für die Prüfung verwendet haben. Sie werden ca. 4 Wochen nach dem Start der Prüfung verschickt. Wenn Sie Ihren 25% -Rabattgutschein nicht innerhalb von 4 Wochen nach dem Tag der Prüfung erhalten, wenden Sie sich bitte an den Kundendienst des Anbieters der Prüfung.
 
 **Wie sieht der Bewertungsbericht aus?**
 
@@ -838,9 +833,9 @@ Eine Verzögerung zwischen Fragen hat keine Auswirkungen auf die Antworten, die 
 
 Nein. Die Befragung am Anfang der Prüfung hat keine Auswirkungen auf den Prüfungsinhalt oder die Bewertung. Es handelt sich lediglich um ein Bewertungs-Tool, das unsere Prüfungspsychometriker verwenden, um die Qualität, Richtigkeit und Genauigkeit der Prüfung über ihren gesamten Lebenszyklus hinweg sicherzustellen.
 
-**Ich habe meine erste Microsoft-Zertifizierungsprüfung (bei Pearson VUE) bestanden. Was kann ich jetzt tun?**
+***Ich habe meine erste Microsoft-Zertifizierungsprüfung bestanden. Was kann ich jetzt tun?**
 
-Herzlichen Glückwunsch! Um die nächsten Schritte und verfügbaren Vorteile zu erfahren, sehen Sie sich Ihr Übersichtsfenster für [Leistungen und Prüfungen](https://www.microsoft.com/learning/dashboard.aspx). Melden Sie sich mit demselben Microsoft-Konto an, mit dem Sie sich für die Prüfung registriert haben.
+Herzlichen Glückwunsch! Für die nächsten Schritte und verfügbare Vorteile, siehe [Dashboard für Vorteile und Prüfungen](https://aka.ms/certdashboard). Melden Sie sich mit demselben Microsoft-Konto an, mit dem Sie sich für die Prüfung registriert haben. Bitte beachten Sie, dass Certiport-Zertifizierungsausweise derzeit nicht im Dashboard angezeigt werden.
 
 **Was kann ich tun, wenn ich die Prüfung nicht bestehe?**
 
@@ -981,7 +976,7 @@ Die Anzahl der Labore und Aufgaben der Prüfung ist auf der Übersichtsseite vor
 
 **Warum enthält eine Prüfung mit Labors traditionelle Fragen wie Multiple Choice, Drag and Drop etc.?**
 
-Aus verschiedenen Gründen können wir nicht alle kritischen Kompetenzen mit Laboren prüfen. beispielsweise, Wir können von Ihnen nicht verlangen, Aufgaben abzuschließen, die mehr als ein paar Minuten benötigen oder größere Ressourcen für ihre Funktion benötigen, daher bewerten wir auch weiterhin Kenntnisse mit Fragentypen, die der Prüfungserfahrung angemessen sind.
+Aus verschiedenen Gründen können wir nicht alle kritischen Kompetenzen mit Laboren prüfen. Beispielsweise, Wir können von Ihnen nicht verlangen, Aufgaben abzuschließen, die mehr als ein paar Minuten benötigen oder größere Ressourcen für ihre Funktion benötigen, daher bewerten wir auch weiterhin Kenntnisse mit Fragentypen, die der Prüfungserfahrung angemessen sind.
 
 **Wie viele Labore gibt es in einer Prüfung? Wie viele Aufgaben gibt es pro Labor?**
 
@@ -1027,7 +1022,7 @@ Wenn Sie eine Punktzahl erhalten haben, spiegelt sie Ihre Leistung vor der Labor
 
 **Wann erhalte ich mein Ergebnis?**
 
-Labore brauchen länger für die Bewertung als herkömmliche Artikeltypen. Da die Labore am Ende der Prüfung erscheinen, erhalten Sie Ihr Ergebnis möglicherweise nicht sofort. Es kann 30 Minuten oder länger dauern, bis Sie ein Ergebnis erhalten. Sie müssen nicht auf den Ergebnisbericht warten. Er wird automatisch an unsere Zertifizierungsdatenbank weitergeleitet und erscheint in Ihrem MC-Dashboard. Dies sollte innerhalb von 24 Stunden nach der Prüfungsabgabe geschehen. Wenn er nicht erscheint, wenden Sie sich bitte an das [MCP-Supportforum](https://aka.ms/mcpforum).
+Labore brauchen länger für die Bewertung als herkömmliche Artikeltypen. Da die Labore am Ende der Prüfung erscheinen, erhalten Sie Ihr Ergebnis möglicherweise nicht sofort. Es kann 30 Minuten oder länger dauern, bis Sie ein Ergebnis erhalten. Sie müssen nicht auf den Ergebnisbericht warten. Er wird automatisch an unsere Zertifizierungsdatenbank weitergeleitet und erscheint in Ihrem MC-Dashboard. Dies sollte innerhalb von 24 Stunden nach der Prüfungsabgabe geschehen. Wenn es nicht angezeigt wird, wenden Sie sich bitte an [Zertifizierungssupport](https://aka.ms/mcpforum).
 
 **Dauert es länger, Prüfungen mit leistungsbasierten Fragen abzuschließen?**
 
@@ -1039,7 +1034,7 @@ Nein. Die bewerteten Kompetenzen bleiben unabhängig vom Format der Frage gleich
 
 **Gibt es spezifische Anforderungen an das Testzentrum für Prüfungen mit Laboren? Viele Testzentren sind nicht aufgelistet, wenn ich versuche, die Prüfungen mit Labors zu planen, aber dieselben Testzentren sind für Prüfungen aufgelistet, die dies nicht tun.**
 
-Prüfungen, zu denen auch Labors gehören, erfordern Testzentren, die bestimmte Anforderungen an die Internetkonnektivität erfüllen, so dass eine kleinere Anzahl von Testzentren zur Verfügung steht. Da die Labore zu weiteren der neuen funktionsspezifischen Prüfungen hinzukommen, werden sie auch den gleichen Testzentren angehören. Sie können dieses examens jedoch auch über das Online-Proctoring ablegen; weitere Details finden Sie unter [https://docs.microsoft.com/learn/certifications/online-exams](https://docs.microsoft.com/learn/certifications/online-exams). Wenn Sie bestimmte Testzentren im Sinn haben, wenden Sie sich an das jeweilige Testzentrum, um zu erfahren, ob es Labore liefern kann; alternativ werden sie nach Auswahl der Prüfung nicht mehr als verfügbare Testzentren aufgeführt. In diesem Fall empfehlen wir, ein anderes Prüfungszentrum zu finden oder die Prüfung durch Online-Proctoring abzulegen.
+Prüfungen, zu denen auch Labors gehören, erfordern Testzentren, die bestimmte Anforderungen an die Internetkonnektivität erfüllen, so dass eine kleinere Anzahl von Testzentren zur Verfügung steht. Da die Labore zu weiteren der neuen funktionsspezifischen Prüfungen hinzukommen, werden sie auch den gleichen Testzentren angehören. Wenn Sie bestimmte Testzentren im Sinn haben, wenden Sie sich an das jeweilige Testzentrum, um zu erfahren, ob es Labore liefern kann; alternativ werden sie nach Auswahl der Prüfung nicht mehr als verfügbare Testzentren aufgeführt. In diesem Fall empfehlen wir, ein anderes Prüfungszentrum zu finden oder die Prüfung durch Online-Proctoring abzulegen. Hinweis Möglicherweise können Sie Labs mittels Online-Beaufsichtigung absolvieren. Dies hängt jedoch von Ihrer Bandbreite und Internetverbindung ab.
 
 ### Rollenbasierte Zertifizierungen
 
@@ -1077,7 +1072,7 @@ Wenn Sie sich dafür entscheiden, sich für eine Prüfung anzumelden und zu beza
 Ja. Ihre akademische Überprüfung ist nur 12 Monate lang gültig. Nach 12 Monaten müssen Sie die ÜberExam Replay.
 
 
-**Ich bin eine Lehrkraft. Kann ich trotzdem (in den entsprechenden Ländern) einen akademischen Rabatt für meine von Pearson VUE durchgeführte Microsoft Certification exam erhalten?**
+**Ich bin eine Lehrkraft. Kann ich trotzdem einen akademischen Rabatt (in den jeweiligen Ländern) auf meine Microsoft-Zertifizierungsprüfung erhalten, die im kommerziellen Kanal angeboten wird?**
 
 Ja. Sie müssen den gleichen Ablauf wie Studenten befolgen. Das heißt, Sie müssen im Profil Ihres Microsoft-Kontos „Student“ als Aufgabenfunktion wählen und Sie müssen Ihren Status mithilfe des gleichen Vorgangs wie Studenten verifizieren.
 

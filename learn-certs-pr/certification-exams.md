@@ -16,23 +16,9 @@ Microsoft Certification begleiten Sie auf Ihrem gesamten Karriereweg – vom Ei
 
 ## Registrierung für eine Microsoft Certification exams
 
-### Microsoft Office Certification
+Für Microsoft Office Specialist (MOS) -Prüfungen und andere Prüfungen, die über akademische Einrichtungen durchgeführt werden, [registrieren Sie sich bei Certiport](https://www.certiport.com/portal/Pages/Registration.aspx).
 
-Für Microsoft Office Specialist (MOS) -Examen und Microsoft Technology Associate (MTA) -Examen, die über akademische Einrichtungen durchgeführt werden, [registrieren Sie sich bei Certiport](https://www.certiport.com/portal/Pages/Registration.aspx).
-
-### Technische Microsoft-Zertifizierung
-
-Für alle anderen Microsoft Certification pfade und MTA-Examen, die über kommerzielle Verkaufsstellen bereitgestellt werden, [melden Sie sich bei Microsoft an](https://www.microsoft.com/learning/signin.aspx) und dann [wählen Sie Ihr Examen aus und planen Sie mit Pearson VUE](https://www.microsoft.com/learning/exam-list.aspx).
-
-## Zertifizierungsexamen durchsuchen
-
-- [Azure exams](https://www.microsoft.com/learning/azure-exams.aspx)
-- [Data exams](https://www.microsoft.com/learning/data-and-ai-exams.aspx)
-- [Microsoft 365 exams](https://www.microsoft.com/learning/microsoft-365-exams.aspx)
-- [Microsoft Dynamics 365 exams](https://www.microsoft.com/learning/dynamics-365-exams.aspx)
-- [Modern Desktop exams](https://www.microsoft.com/learning/modern-desktop-exams.aspx)
-- [Windows Server 2016 exams](https://www.microsoft.com/learning/windows-server-2016-exams.aspx)
-- [All exams](https://www.microsoft.com/learning/exam-list.aspx)
+Für Prüfungen, die über kommerzielle Verkaufsstellen angeboten werden, [wählen Sie Ihre Prüfung aus, melden Sie sich bei Microsoft an und befolgen Sie die Anweisungen zur Registrierung](/learn/certifications/browse/?resource_type=examination).
 
 ## Bereiten Sie sich auf Ihre Prüfung vor
 
@@ -42,11 +28,12 @@ Die Prüfungsdetailseite für jede Prüfung enthält einen "Kompetenzmessungs"-A
 
 #### Von Ausbildern geführte Kurse
 
-[Finden Sie In-Classroom und On-Demand-Training auf Microsoft-Technologien, die durch von Microsoft Certified Trainers Microsoft zertifizierte Schulungsleiter angeboten werden.](https://www.microsoft.com/learning/find-partner.aspx)
+[Finden Sie In-Classroom und On-Demand-Training auf Microsoft-Technologien, die durch von Microsoft Certified Trainers [Microsoft zertifizierte Schulungsleiter] angeboten werden.](https://www.microsoft.com/learning/find-partner.aspx)
 
 #### Entdecken Sie kostenlose Online-Schulungen
 
-[Kostenlose Online-Schulung durch Weltklasse-Experten, die Ihnen zu helfen, Ihre technischen Fähigkeiten aufzubauen und Ihre Karriere voranzutreiben.](https://mva.microsoft.com/)
+Lernen Sie neue Fähigkeiten und entdecken Sie die Leistungsfähigkeit von Microsoft-Produkten anhand einer schrittweisen Anleitung.  
+[Beginnen Sie Ihre Reise noch heute, indem Sie unsere Lernpfade und Module erkunden.](/learn/browse/)
 
 #### Microsoft Official Praxistests
 
@@ -54,7 +41,7 @@ Die Prüfungsdetailseite für jede Prüfung enthält einen "Kompetenzmessungs"-A
 
 #### Microsoft Press Books
 
-[Entdecken Sie Bücher, die von Experten bei Microsoft Press geschrieben wurden.](Https://www.microsoftpressstore.com/)
+[Entdecken Sie Bücher, die von Experten bei Microsoft Press geschrieben wurden.](https://www.microsoftpressstore.com/)
 
 ## Prüfungsformate und Fragetypen
 
@@ -64,96 +51,96 @@ Zum Schutz der Prüfungssicherheit und des Werts unserer Zertifizierungen geben 
 #### Active screen (0:44)
 
 <div>
-    <a href="https://www.youtube.com/watch?v=7CvYGpSVbkA" target="_blank"><img width="450px" src="images/active-screen.jpg" alt="Active screen"/></a>
-    <br/>
+	<a href="https://www.youtube.com/watch?v=7CvYGpSVbkA" target="_blank"><img width="450px" src="images/active-screen.jpg" alt="Active screen"/></a>
+	<br/>
 </div>
 
 
 #### Best answer (0:20)
 
 <div>
-    <a href="https://youtu.be/-Z2GPTFtvjk" target="_blank"><img width="450px" src="images/best-answer.jpg" alt="Best answer"/></a>
-    <br/>
+	<a href="https://youtu.be/-Z2GPTFtvjk" target="_blank"><img width="450px" src="images/best-answer.jpg" alt="Best answer"/></a>
+	<br/>
 </div>
 
 
 #### Build list (0:45)
 
 <div>
-    <a href="https://youtu.be/lUN2mIaegJM" target="_blank"><img width="450px" src="images/build-list.jpg" alt="Build list"/></a>
-    <br/>
+	<a href="https://youtu.be/lUN2mIaegJM" target="_blank"><img width="450px" src="images/build-list.jpg" alt="Build list"/></a>
+	<br/>
 </div>
 
 
 #### Case studies (1:13)
 
 <div>
-    <a href="https://youtu.be/iGxdMTz788k" target="_blank"><img width="450px" src="images/case-studies.jpg" alt="Case studies"/></a>
-    <br/>
+	<a href="https://youtu.be/iGxdMTz788k" target="_blank"><img width="450px" src="images/case-studies.jpg" alt="Case studies"/></a>
+	<br/>
 </div>
 
 
 #### Drag and drop (0:37)
 
 <div>
-    <a href="https://youtu.be/yfvegCS-2WE" target="_blank"><img width="450px" src="images/drag-and-drop.jpg" alt="Drag and drop"/></a>
-    <br/>
+	<a href="https://youtu.be/yfvegCS-2WE" target="_blank"><img width="450px" src="images/drag-and-drop.jpg" alt="Drag and drop"/></a>
+	<br/>
 </div>
 
 
 #### Hot area (0:17)
 
 <div>
-    <a href="https://youtu.be/vWyzLlyi4oY" target="_blank"><img width="450px" src="images/hot-area.jpg" alt="Hot area"/></a>
-    <br/>
+	<a href="https://youtu.be/vWyzLlyi4oY" target="_blank"><img width="450px" src="images/hot-area.jpg" alt="Hot area"/></a>
+	<br/>
 </div>
 
 
 #### Multiple choice (0:37)
 
 <div>
-    <a href="https://youtu.be/lvpACCsv558" target="_blank"><img width="450px" src="images/multiple-choice.jpg" alt="Multiple choice"/></a>
-    <br/>
+	<a href="https://youtu.be/lvpACCsv558" target="_blank"><img width="450px" src="images/multiple-choice.jpg" alt="Multiple choice"/></a>
+	<br/>
 </div>
 
 
 #### Repeated answer choices (0:20)
 
 <div>
-    <a href="https://youtu.be/fb4KSwY_dxo" target="_blank"><img width="450px" src="images/repeated-answer-choices.jpg" alt="Repeated answer choices"/></a>
-    <br/>
+	<a href="https://youtu.be/fb4KSwY_dxo" target="_blank"><img width="450px" src="images/repeated-answer-choices.jpg" alt="Repeated answer choices"/></a>
+	<br/>
 </div>
 
 
 #### Short answer (0:29)
 
 <div>
-    <a href="https://youtu.be/qJzQDPs9he8" target="_blank"><img width="450px" src="images/short-answer.jpg" alt="Short answer"/></a>
-    <br/>
+	<a href="https://youtu.be/qJzQDPs9he8" target="_blank"><img width="450px" src="images/short-answer.jpg" alt="Short answer"/></a>
+	<br/>
 </div>
 
 
 #### Labs (2:58)
 
 <div>
-    <a href="https://www.microsoft.com/en-us/videoplayer/embed/RE4ppkp" target="_blank"><img width="450px" src="images/labs.jpg" alt="Labs"/></a>
-    <br/>
+	<a href="https://www.microsoft.com/en-us/videoplayer/embed/RE4ppkp" target="_blank"><img width="450px" src="images/labs.jpg" alt="Labs"/></a>
+	<br/>
 </div>
 
 
 #### Mark review (0:33)
 
 <div>
-    <a href="https://youtu.be/ROO_PzuXbMw" target="_blank"><img width="450px" src="images/mark-review.jpg" alt="Mark review"/></a>
-    <br/>
+	<a href="https://youtu.be/ROO_PzuXbMw" target="_blank"><img width="450px" src="images/mark-review.jpg" alt="Mark review"/></a>
+	<br/>
 </div>
 
 
 #### Review screen (1:36)
 
 <div>
-    <a href="https://youtu.be/BJygBpl_8PI" target="_blank"><img width="450px" src="images/review-screen.jpg" alt="Review screen"/></a>
-    <br/>
+	<a href="https://youtu.be/BJygBpl_8PI" target="_blank"><img width="450px" src="images/review-screen.jpg" alt="Review screen"/></a>
+	<br/>
 </div>
 
 
@@ -163,7 +150,7 @@ Zum Schutz der Prüfungssicherheit und des Werts unserer Zertifizierungen geben 
 Microsoft Certification exams werden sorgfältig mit Beiträgen von Fachleuten der Branche entwickelt, um widerzuspiegeln, wie Microsoft-Produkte in Organisationen weltweit verwendet werden.
 
 1. Definieren des Fähigkeitsbereichs.
-Experten identifizieren die kritischen Aufgaben, die bei der Verwendung einer bestimmten Technologie innerhalb bestimmter Jobrollen oder Funktionen durchgeführt werden.
+Experten identifizieren die kritischen Aufgaben, die innerhalb bestimmter Aufgabenrollen oder Funktionen ausgeführt werden, die Microsoft-Technologien und -Lösungen unterstützen.
 
 2. Definieren Sie die Qualifikationsverteilung im Examen.
 Die in Schritt 1 identifizierten Fähigkeiten werden durch zusätzliche Fach- und Fachwissenschaftler aus der ganzen Welt ausgewertet. Ihre Bewertung bildet das Modell, das die Verteilung der Fragen auf den Fähigkeitsbereich definiert.
@@ -175,7 +162,7 @@ Sachverständige (KMU) verfassen Prüfungsfragen, um die kritischen Fähigkeiten
 Ein Gremium von Experten, die keine Artikel verfassten, schreiben Bewertungen jeweils für technische Genauigkeit, Relevanz, nützliches Wissen und objektive Ausrichtung während der Alpha-Bewertung.
 
 5. Beta-Testen Sie die Fragen.
-Die der Alpha-Überprüfung unterzogenen Elemente werden anschließend in einer prüfungsähnlichen Situation einem Probetest unterzogen, der als „Beta-Prüfung" bezeichnet wird. Damit wird sichergestellt, dass nur der beste Inhalt in die eigentliche Prüfung aufgenommen wird.
+Die der Alpha-Überprüfung unterzogenen Elemente werden anschließend in einer prüfungsähnlichen Situation einem Probetest unterzogen, der als „Beta-Prüfung“ bezeichnet wird. Damit wird sichergestellt, dass nur der beste Inhalt in die eigentliche Prüfung aufgenommen wird.
 
 6. Schließen Sie den Fragenpool ab.
 Die Ergebnisse der Beta-Prüfung werden psychometrisch auf Faktoren wie Schwierigkeiten, Fähigkeit zu differenzieren, hohe und niedrige Performer, Zuverlässigkeit und mehr analysiert. Nur Fragen, die psychometrischen Kriterien von Microsoft erfüllen, werden in die eigentliche Prüfung aufgenommen.
@@ -184,7 +171,7 @@ Die Ergebnisse der Beta-Prüfung werden psychometrisch auf Faktoren wie Schwieri
 Ein Gremium von Experten arbeitet mit dem Psychometriker von Microsoft zusammen, um eine Punktzahl für das Bestehen der Prüfung festzulegen. Diese Punktzahl basiert auf den Fähigkeiten, die erforderlich sind, um in den Kompetenzbereich in Bezug auf die Schwierigkeit der Fragen, die in der Prüfung enthalten sind, kompetent zu sein.
 
 8. Das Examen ist weltweit verfügbar.
-Pearson VUE oder Certiport, unabhängige Prüfungsanbieter, verwalten die Zertifizierungsprüfung. Die Prüfung ist an Prüfzentren weltweit oder über Online-Proctoring verfügbar, wenn sie über VUE geliefert wird (Online-Proctoring ist derzeit nicht über Certiport verfügbar).
+Unabhängige Anbieter von Prüfungsleistungen verwalten die Zertifizierungsprüfung. Die Prüfung ist in Testzentren weltweit oder über Online-Beaufsichtigung erhältlich (Online-Beaufsichtigung ist derzeit nicht für akademische Leistungen verfügbar).
 
 9. Während der gesamten Dauer des Examens aufrechterhalten.
 Microsoft überwacht die psychometrische Leistung der Prüfungen während ihres gesamten Dauer und stellt sicher, dass sie weiterhin gültige und zuverlässige Messungen des Kompetenzbereichs darstellen. Fragen, die nicht mehr psychometrisch durchgeführt werden, werden entfernt, und neue Elemente werden hinzugefügt, da Funktionen und Funktionalität aktualisiert und/oder Elemente aus psychometrischen Gründen oder aufgrund von Änderungen in der Technologie entfernt werden.
@@ -202,7 +189,7 @@ Um den Code zu erhalten, können Sie entweder Mitglied unserer SME -Profildatenb
 
 Das Datenbankprogramm für KMU-Profile wird jetzt auf [Microsoft Collaborate](https://aka.ms/collaborate) gehostet. Siehe den Community-Blog [Helfen Sie uns, Examen und Lerninhalte zu erstellen! Treten Sie noch heute unserer KMU-Datenbank bei!](/learn/certifications/posts/help-us-create-exams-and-learning-content) finden Sie Anweisungen zur Teilnahme am Programm für Collaborate.
 
-Für einige Technologien haben wir in der Datenbank SME-Profile deutlich mehr qualifizierte Kandidaten als freie Plätze. In diesen Fällen wählen wir eine entsprechende Anzahl qualifizierter Kandidaten nach dem Zufallsprinzip aus und senden ihnen eine Einladung. Wenn Sie nicht ausgewählt sind, können Sie trotzdem teilnehmen, indem Sie sich die Ankündigsseite ansehen, in dem wir einen anderen Code an dem Tag veröffentlichen, an dem die Registrierung für die Beta-Prüfung beginnt.
+Für einige Tätigkeiten haben wir in der KMU-Profildatenbank deutlich mehr qualifizierte Bewerber als freie Plätze. In diesen Fällen wählen wir eine entsprechende Anzahl qualifizierter Kandidaten nach dem Zufallsprinzip aus und senden ihnen eine Einladung. Wenn Sie nicht ausgewählt sind, können Sie trotzdem teilnehmen, indem Sie sich die Ankündigsseite ansehen, in dem wir einen anderen Code an dem Tag veröffentlichen, an dem die Registrierung für die Beta-Prüfung beginnt.
 
 Wenn Sie an der Beta-Prüfung teilnehmen möchten, aber keine Einladung erhalten haben oder nicht in der Lage waren, sich für einen kostenfreien Platz registrieren zu lassen, können Sie die Prüfung in diesem Zeitraum durch Ihre Anmeldung wie für eine normale Prüfung und gegen Bezahlung des regulären Preises ablegen. Wir wissen, dass einige Bewerber daran interessiert sind, die Prüfung frühzeitig abzulegen, um Anforderungen im Hinblick auf ihren Aufgabenbereich oder die berufliche Weiterentwicklung zu erfüllen oder zu demonstrieren, dass sie frühzeitige Anwender der Technologie sind und über die entsprechende Kompetenz verfügen.
 
@@ -235,7 +222,7 @@ Wenn Sie die Beta-Prüfung nicht bestehen, können Sie sie nicht erneut ablegen.
 Wenn Sie glauben, dass Ihr Beta-Ergebnis verfügbar sein sollte (weil die Prüfung live ist oder Sie einen tweet gesehen haben, der angibt, dass es das war), überprüfen Sie zuerst, ob der Anbieter der Prüfungszustellung es online gestellt hat. Ist dies nicht der Fall, wenden Sie sich bitte an den Prüfungsanbieter. (Beachten Sie, dass es bis zu zwei Wochen nach Veröffentlichung der endgültigen Prüfungsversion dauern kann, bis Ihre Beta-Bewertung online zugänglich ist.) Wenn der Lieferant der Examensresultate eine Punktzahl veröffentlicht hat, diese jedoch nicht auf Ihrem Microsoft-Transkript angezeigt wird, wenden Sie sich an [Zertifizierungssupport](https://aka.ms/mcpforum).
 
 ## Erhalten Sie Anerkennung für Ihr Wissen und Ihre Fähigkeiten. 
-[Entdecken Sie alle Zertifizierungsprüfungen.](https://www.microsoft.com/learning/exam-list.aspx)
+[Entdecken Sie alle Zertifizierungsprüfungen.](/learn/certifications/browse/?resource_type=examination)
 
 
 

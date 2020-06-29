@@ -20,7 +20,11 @@ summary: |-
 subTitle: 'Dieses Examen misst Ihre Fähigkeit, die folgenden technischen Aufgaben auszuführen: Verwalten von Azure-Identitäten und -Governance; Speicher implementieren und verwalten; Bereitstellen und Verwalten von Azure-Rechenressourcen; Konfigurieren und Verwalten von virtuellen Netzwerken und Azure-Ressourcen überwachen und sichern. '
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
@@ -28,7 +32,7 @@ levels:
 skills:
 - Verwalten von Azure-Identitäten und -Governance (15-20%)
 - Speicherplatz implementieren und verwalten (10-15%)
-- Bereitstellen und Verwalten von Azure-Rechenressourcen (25 - 30%)
+- Bereitstellen und Verwalten von Azure-Rechenressourcen (25-30%)
 - Virtuelle Netzwerke konfigurieren und verwalten (30-35%)
 - Überwachen und Sichern von Azure-Ressourcen (10-15%)
 roles:

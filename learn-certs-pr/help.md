@@ -23,8 +23,8 @@ Haben Sie noch Fragen? Bitte beachten Sie unsere Support-Optionen unten.
 
 | Supportbereich | Kontaktinformationen |
 | ------------- | --- |
-| **Microsoft Certification** | Vielleicht ist Ihre Frage bereits in unserer [Übersicht über die technische Zertifizierung](https://www.microsoft.com/learning/certification-overview.aspx) <br/><br/>  **Zertifizierung Support Foren:** <br/>Hilfe erhalten Sie in unseren moderierte [Zertifizierung Support Foren](https://aka.ms/MCPForum).<br/><br/>  Innerhalb eines Werktages wird Ihnen ein Forenmoderator antworten. |
-| **Microsoft Certified Trainer (MCT) Programm** | Vielleicht ist Ihre Frage bereits in unserer [MCT Programmübersicht](https://www.microsoft.com/learning/mct-certification.aspx)<br/><br/>  **MCT Supportforen:** <br/> Hilfe erhalten Sie in unseren moderierte [MCT Supportforen](https://aka.ms/MCTForum).<br/><br/> Innerhalb eines Werktages wird Ihnen ein Forenmoderator antworten. |
+| **Microsoft Certification** | Vielleicht ist Ihre Frage bereits in unserer [Technischen Zertifizierungsübersicht](/learn/certifications/) <br/><br/>  **Zertifizierung Support Foren:** <br/>Hilfe erhalten Sie in unseren moderierte [Zertifizierung Support Foren](https://aka.ms/MCPForum).<br/><br/>  Innerhalb eines Werktages wird Ihnen ein Forenmoderator antworten. |
+| **Microsoft Certified Trainer (MCT) program** | Vielleicht ist Ihre Frage bereits in unserer [MCT Programmübersicht](/learn/certifications/mct-certification)<br/><br/>  **MCT Supportforen:** <br/> Hilfe erhalten Sie in unseren moderierte [MCT Supportforen](https://aka.ms/MCTForum).<br/><br/> Innerhalb eines Werktages wird Ihnen ein Forenmoderator antworten. |
 
 ## Schulungshilfe
 

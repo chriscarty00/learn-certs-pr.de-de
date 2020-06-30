@@ -1,0 +1,97 @@
+### YamlMime:Course
+title: Microsoft Azure AI Fundamentals
+metadata:
+  title: 'Course AI-900T00-A: Microsoft Azure AI Fundamentals'
+  description: 'Course AI-900T00-A: Microsoft Azure AI Fundamentals'
+uid: course.ai-900t00
+courseNumber: 'AI-900T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Beschreiben der Workloads und Überlegungen zur künstlichen Intelligenz
+- skill: Grundprinzipien des maschinellen Lernens in Azure beschreiben
+- skill: Funktionen von Computer Vision-Workloads in Azure beschreiben
+- skill: Funktionen von NLP-Workloads beschreiben (Natural Language Processing) in Azure
+- skill: Beschreiben der Funktionen von dialogorientierten AI-Workloads in Azure
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- ai-engineer
+- data-scientist
+- developer
+- solution-architect
+products:
+- azure
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-form-recognizer
+- azure-language-understanding
+- azure-machine-learning
+- azure-qna-maker
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator-speech
+- azure-translator-text
+exams:
+- uid: exam.ai-900
+summary: |-
+  In diesem Kurs werden grundlegende Konzepte in Bezug auf künstliche Intelligenz (AI) und die Services in Microsoft Azure vorgestellt, mit denen AI-Lösungen erstellt werden können. Der Kurs soll den Studenten nicht beibringen, professionelle Datenwissenschaftler oder Softwareentwickler zu werden, sondern das Bewusstsein für gängige AI-Workloads und die Fähigkeit stärken, Azure-Services zu identifizieren, um sie zu unterstützen. Der Kurs ist als Blended-Learning-Erfahrung konzipiert, bei der von Lehrern geleitete Schulungen mit Online-Materialien auf der Microsoft Learn-Plattform (https://azure.com/learn) kombiniert werden. Die praktischen Übungen im Kurs basieren auf Lernmodulen. Die Schüler werden aufgefordert, die Lerninhalte als Referenzmaterial zu verwenden, um das, was sie in der Klasse lernen, zu vertiefen und Themen eingehender zu untersuchen.
+
+  #### Zielgruppenprofil
+  Der Azure AI Fundamentals-Kurs richtet sich an alle, die mehr über die Arten einer möglichen Lösung durch künstliche Intelligenz (AI) und die Services in Microsoft Azure erfahren möchten, mit denen man sie erstellen kann. Sie müssen für die Teilnahme an diesem Kurs keine Erfahrung mit Microsoft Azure haben, Es wird jedoch vorausgesetzt, dass Sie mit Computertechnologie und dem Internet vertraut sind. Einige der im Kurs behandelten Konzepte erfordern ein grundlegendes Verständnis der Mathematik, beispielsweise die Fähigkeit, Diagramme zu interpretieren. Der Kurs beinhaltet praktische Aktivitäten, bei denen mit Daten gearbeitet und Code ausgeführt wird. Daher sind Kenntnisse der grundlegenden Programmierprinzipien hilfreich.
+prerequisitesSection: |-
+  Kenntnisse von Computern und der Verwendung eines Webbrowsers.
+outlineSection: |-
+  ### Modul 1&#58; Einführung in AI
+  In diesem Modul lernen Sie die gängigen Anwendungen der künstlichen Intelligenz (AI) und die verschiedenen Arten der mit AI verbundenen Workload kennen. Anschließend werden Überlegungen und Prinzipien für eine verantwortungsvolle AI-Entwicklung untersucht.
+  #### Lektionen
+  - Artificial Intelligence in Azure
+  - Verantwortliche AI
+  
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Beschreiben der Workloads und Überlegungen zur künstlichen Intelligenz
+
+
+  ### Modul 2&#58; Machine Learning
+  Maschinelles Lernen ist die Grundlage für moderne AI-Lösungen. In diesem Modul lernen die Teilnehmer einige grundlegende Konzepte für maschinelles Lernen kennen und erfahren, wie man den Azure Machine Learning-Service zum Erstellen und Veröffentlichen von Modellen für maschinelles Lernen verwenden.
+  #### Lektionen
+  - Einführung in das maschinelle Lernen
+  - Azure Machine Learning
+  
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Grundprinzipien des maschinellen Lernens in Azure beschreiben
+  
+
+  ### Modul 3&#58; Computer Vision
+  Computer Vision ist ein Bereich der AI, in dem es darum geht, die Welt visuell durch Bilder, Videodateien und Kameras zu verstehen. In diesem Modul lernen die Teilnehmer verschiedene Computer Vision-Techniken und -Services kennen.
+  #### Lektionen
+  - Computer Vision-Konzepte
+  - Computer Vision in Azure
+  
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Funktionen von Computer Vision-Workloads in Azure beschreiben
+
+
+  ### Modul 4&#58; Verarbeitung natürlicher Sprache
+  Dieses Modul beschreibt Szenarien für AI-Lösungen, die geschriebene und gesprochene Sprache verarbeiten können. Sie lernen Azure-Services kennen, mit denen Sie Lösungen erstellen können, die Text analysieren, Sprache erkennen und synthetisieren, zwischen Sprachen übersetzen und Befehle interpretieren.
+  
+  
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Funktionen von NLP-Workloads beschreiben (Natural Language Processing) in Azure
+
+
+  ### Modul 5&#58; Dialogorientierte AI
+  Mit dialogorientierter AI können Benutzer über Kommunikationskanäle wie E-Mail, Webchat-Schnittstellen, soziale Medien und andere einen Dialog mit einem AI-Agenten oder *bot* führen. Dieses Modul beschreibt einige Grundprinzipien für die Arbeit mit Bots und bietet ihnen die Möglichkeit, einen Bot zu erstellen, der intelligent auf Benutzerfragen antworten kann.
+  #### Lektionen
+  - Dialogorientierte AI-Konzepte
+  - Dialogorientierte AI in Azure
+
+  Nach Abschluss dieses Moduls Sie werden in der Lage sein&#58;
+  - Beschreiben der Funktionen von dialogorientierten AI-Workloads in Azure

@@ -17,13 +17,14 @@ ms.author: micsullivan
 ## Inhalt nach Top-Kategorie
 
 ### Microsoft-Zertifizierungsprofil
+
 1. [Wie greife ich auf mein Microsoft-Zertifizierungsprofil zu?](#a1)
 2. [Wo finde ich die Identifikationsnummer für mein Microsoft-Zertifizierungsprofil (MCID?](#a2)
 3. [Wie kann ich die Verknüpfung meiner Microsoft-Zertifizierungsprofil-ID aufheben?](#a3)
 4. [Wie kann ich zwei Microsoft-Zertifizierungsprofile zusammenfügen?](#a4)
 5. [Wie melde ich mich bei meinem Microsoft-Zertifizierungsprofil an?](#a5)
 6. [Wie ändere ich die mit meinem Microsoft-Zertifizierungsprofil verknüpfte E-Mail-Adresse?](#a6)
-7. [Ich habe meine Anmeldeinformationen für das Microsoft-Zertifizierungsprofil (Benutzername/E-Mail/Kennwort) verloren. Was soll ich tun?](#a7)
+7. [Ich habe meine Anmeldeinformationen für das Microsoft-Zertifizierungsprofil (Benutzername / E-Mail / Kennwort) verloren. Was soll ich tun?](#a7)
 8. [Wie ändere ich meinen Namen in meinem Microsoft-Zertifizierungsprofil?](#a8)
 9. [Wie kann ich auf mein Microsoft-Zertifizierungsprotokoll zugreifen?](#a9)
 
@@ -39,14 +40,14 @@ ms.author: micsullivan
 
 <br/>
 
-Microsoft Certification Program
+## Microsoft-Zertifizierungsprogramm
 
 **Fr.: Wie greife ich auf mein Microsoft-Zertifizierungsprofil zu?**<a name="a1"></a>
 
 **A:** Führen Sie die folgenden Schritte aus, um auf Ihr Microsoft-Zertifizierungsprofil zuzugreifen:  
 
 1. Besuchen Sie [Microsoft Learning](https://www.microsoft.com/learning/)
-2. Wählen Sie Ihr [Dashboard](https://www.microsoft.com/learning/dashboard.aspx) in der oberen Navigationsleiste aus
+2. Wählen Sie Ihr [Dashboard](https://aka.ms/certdashboard) in der oberen Navigationsleiste aus
 3. Melden Sie sich mit dem Microsoft-Account (Windows Live ID) und dem Kennwort an, mit dem Sie Ihr Microsoft-Zertifizierungsprofil erstellt haben.
 
 Um Ihr Account aktiv zu halten, greifen Sie bitte alle 12 Monate auf Ihr Microsoft-Zertifizierungsprofil zu.  
@@ -55,7 +56,7 @@ Um Ihr Account aktiv zu halten, greifen Sie bitte alle 12 Monate auf Ihr Microso
 
 **Fr.: Wo finde ich die Identifikationsnummer für mein Microsoft-Zertifizierungsprofil (MCID)?**<a name="a2"></a>
 
-**A:** Um Ihre Identifikationsnummer für Ihr Microsoft-Zertifizierungsprofil (MCID) zu finden, melden Sie sich bei Ihrem  [Zertifizierungs-Dashboard](https://www.microsoft.com/learning/dashboard.aspx) an. Ihre MCID befindet sich rechts.</br></br>
+**A:** Um Ihre Identifikationsnummer für Ihr Microsoft-Zertifizierungsprofil (MCID) zu finden, melden Sie sich bei Ihrem [Zertifizierungs-Dashboarden](https://aka.ms/certdashboard). Ihre MCID befindet sich rechts.</br></br>
 ![MC ID Location Image](images/find-mc-id.png)<br/>
 
 <br/>
@@ -77,7 +78,7 @@ Um Ihr Account aktiv zu halten, greifen Sie bitte alle 12 Monate auf Ihr Microso
 **A:** Führen Sie die folgenden Schritte aus, um sich bei Ihrem Microsoft-Zertifizierungsprofil anzumelden:
  
 1. Besuchen Sie [Microsoft Learning](https://www.microsoft.com/learning/)
-2. Wählen Sie Ihr [Dashboard](https://www.microsoft.com/learning/dashboard.aspx) in der oberen Navigationsleiste aus
+2. Wählen Sie Ihr [Dashboard](https://aka.ms/certdashboard) in der oberen Navigationsleiste aus
 3. Melden Sie sich mit dem Microsoft-Account (Windows Live ID) und dem Kennwort an, mit dem Sie Ihr Microsoft-Zertifizierungsprofil erstellt haben.
 
 Um Ihr Account aktiv zu halten, greifen Sie bitte alle 12 Monate auf Ihr Microsoft-Zertifizierungsprofil zu.
@@ -88,11 +89,11 @@ Um Ihr Account aktiv zu halten, greifen Sie bitte alle 12 Monate auf Ihr Microso
 
 **A:** Führen Sie die folgenden Schritte aus, um die mit Ihrem Microsoft-Zertifizierungsprofil verknüpfte E-Mail-Adresse zu ändern:
 
-1. Melden Sie sich bei Ihrem [Zertifizierungs-Dashboard](https://www.microsoft.com/learning/dashboard.aspx)
+1. Melden Sie sich bei Ihrem [Zertifizierungs-Dashboarden](https://aka.ms/certdashboard)
 2. Klicken Sie auf **Mein Zertifizierungsprofil bearbeiten**<br/><br/>
 ![MC ID Location Image](images/find-mc-id.png)<br/>
-1. Navigieren Sie zum Feld **E-Mail** und ändern Sie Ihre E-Mail-Adresse
-1. Klicken Sie auf die Schaltfläche **Speichern und fortfahren**.<br/><br/>
+3. Navigieren Sie zum Feld **E-Mail** und ändern Sie Ihre E-Mail-Adresse
+4. Klicken Sie auf die Schaltfläche **Speichern und fortfahren**.<br/><br/>
 ![Bild speichern und fortfahren](images/save-and-continue.jpg)<br/>
 
 <br/>
@@ -105,14 +106,14 @@ Um Ihr Account aktiv zu halten, greifen Sie bitte alle 12 Monate auf Ihr Microso
 
 **Fr.: Wie ändere ich meinen Namen in meinem Microsoft-Zertifizierungsprofil?**<a name="a8"></a>
 
-**A:** Wenn Sie den Namen in Ihrem Microsoft-Zertifizierungsprofil ändern müssen, wenden Sie sich an [Zertifizierungssupport](https://aka.ms/mcpforum). Ein Forum-Moderator wird Ihnen innerhalb von 24 Geschäftsstunden antworten. Sie werden aufgefordert, die in Ihrem Microsoft-Zertifizierungsprofil enthaltenen Informationen zu bestätigen, bevor die Namensänderungsanforderung ausgeführt wird. Denken Sie daran, dass der Name in Ihrem Microsoft-Zertifizierungsprofil genau mit Ihrem Namen übereinstimmen muss, wie er auf dem von der Regierung ausgestellten Ausweis angegeben ist, den Sie zur Teilnahme an einer Microsoft-Zertifizierungsprüfung verwenden. Weitere Informationen finden Sie in der Pearson VUE [ ID-Richtlinie](https://home.pearsonvue.com/Policies/1S/English).
+**A:** Wenn Sie den Namen in Ihrem Microsoft-Zertifizierungsprofil ändern müssen, wenden Sie sich an [Zertifizierungssupport](https://aka.ms/mcpforum). Ein Forum-Moderator wird Ihnen innerhalb von 24 Geschäftsstunden antworten. Sie werden aufgefordert, die in Ihrem Microsoft-Zertifizierungsprofil enthaltenen Informationen zu bestätigen, bevor die Namensänderungsanforderung ausgeführt wird. Denken Sie daran, dass der Name in Ihrem Microsoft-Zertifizierungsprofil genau mit Ihrem Namen übereinstimmen muss, wie er auf dem von der Regierung ausgestellten Ausweis angegeben ist, den Sie zur Teilnahme an einer Microsoft-Zertifizierungsprüfung verwenden.
 
 <br/>
 
 **Fr.: Wie greife ich auf mein Microsoft-Zertifizierungsprotokoll zu?**<a name="a9"></a>
 
 **A:**
-1. Um auf Ihr Transkript zuzugreifen, melden Sie sich in Ihrem [Zertifizierungs-Dashboard](https://www.microsoft.com/learning/dashboard.aspx) an 
+1. Um auf Ihr Transkript zuzugreifen, melden Sie sich in Ihrem [Zertifizierungs-Dashboarden](https://aka.ms/certdashboard)
 2. Klicken Sie im Dashboard auf das Symbol **Transkript**<br/><br/>
 ![Zertifizierungen Kachelbild](images/certifications-tile.jpg)<br/>
 3. Klicken Sie unten rechts unter dem Transkript-Symbol auf **Download**, um es herunterzuladen
@@ -125,7 +126,7 @@ Um Ihr Account aktiv zu halten, greifen Sie bitte alle 12 Monate auf Ihr Microso
 **Fr.: Wie finde ich und lade meine Zertifikate herunter?**<a name="b1"></a>
 
 **A:**
-1. Um Ihre Zertifikate zu finden, melden Sie sich in Ihrem [Zertifizierungs-Dashboard](https://www.microsoft.com/learning/dashboard.aspx) an 
+1. Um Ihre Zertifikate zu finden, melden Sie sich in Ihrem [Zertifizierungs-Dashboarden](https://aka.ms/certdashboard)
 2. Klicken Sie auf das Symbol **Zertifikate** in der Mitte des Dashboards<br/><br/>
 ![Zertifizierungen Kachelbild](images/certifications-tile.jpg)<br/>
 3. Klicken Sie unten rechts unter dem Zertifikat-Symbol auf **Download**, um es herunterzuladen
@@ -139,7 +140,7 @@ Um Ihr Account aktiv zu halten, greifen Sie bitte alle 12 Monate auf Ihr Microso
 
 <br/>
 
-### Informationen zum Microsoft-Zertifizierungsprogramm
+## Informationen zum Microsoft-Zertifizierungsprogramm
 
 **Fr.: Was ist das Microsoft-Zertifizierungsprogramm?**<a name="c1"></a>
 

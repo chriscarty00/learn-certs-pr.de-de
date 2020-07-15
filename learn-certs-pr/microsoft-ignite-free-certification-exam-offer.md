@@ -11,7 +11,7 @@ ms.author: micsullivan
 ---
 # Microsoft Ignite and Microsoft Ignite The Tour: Angebot Kostenlose Zertifizierungsprüfung
 
-<div style='color: red;'><font color="red"><em><strong>Aktualisiert am 26. März 2020:</strong> Als Reaktion auf das Coronavirus (COVID-19) verlängert Microsoft die Prüfungsangebote bis zum 31. Januar 2021. Das bedeutet, dass das Angebot für die Zertifizierungsprüfung für diese Kurse, das ursprünglich 180 Tage lang gültig war, nun bis zum 31. Januar 2021 gültig ist. <a href="https://aka.ms/covid-19certannoucement">Mehr erfahren</a>. Diese Änderung wird in den folgenden Details reflektiert.</em></font></div>
+<div style='color&#58; red;'><font color="red"><em><strong>Aktualisiert am 26. März 2020:</strong> Als Reaktion auf das Coronavirus (COVID-19) verlängert Microsoft die Prüfungsangebote bis zum 31. Januar 2021. Das bedeutet, dass das Angebot für die Zertifizierungsprüfung für diese Kurse, das ursprünglich 180 Tage lang gültig war, nun bis zum 31. Januar 2021 gültig ist. <a href="https://aka.ms/covid-19certannoucement">Mehr erfahren</a>. Diese Änderung wird in den folgenden Details reflektiert.</em></font></div>
 
 ![Banner für kostenlose Zertifizierungsprüfung](images/free-certification-exam-offer-banner.png "Free certification exam offer banner")
 
@@ -23,28 +23,36 @@ Wenn Sie an der Microsoft Ignite 2019 oder einer Microsoft Ignite, The Tour 2019
 
 ## <a name="how-to-claim-your-free-exam"></a> So können Sie Ihre kostenlose Prüfung in Anspruch nehmen
 
-Im Folgenden finden Sie schrittweise Anleitungen, wie Sie Ihre kostenlose Prüfung beantragen können. Hinweis: Wenn Sie für den Kurs in einer Gruppe registriert waren, stellen Sie bitte sicher, dass Ihr Registrierungsprofil für den Kurs vollständig ist. Um zu Ihrem Kursregistrierungsprofil zu gelangen, gehen Sie bitte auf [https://register.ignite.microsoft.com](https://register.ignite.microsoft.com), wenn Sie Microsoft Ignite 2019-Teilnehmer sind, oder gehen Sie auf [https://register.msignite-the-tour.microsoft.com/](https://register.msignite-the-tour.microsoft.com/)cityname, z. B. [https://reigster.msignite-the-tour.microsoft.com/london](https://reigster.msignite-the-tour.microsoft.com/london), wenn Sie Teilnehmer von MS Ignite The Tour London sind.
+Im Folgenden finden Sie schrittweise Anleitungen, wie Sie Ihre kostenlose Prüfung beantragen können.
 
-**Schritt 1:** Wählen Sie eine der [qualifizierenden Prüfungen](#eligible-exams-for-this-offer) aus und klicken Sie auf die Schaltfläche „Prüfung planen", um den Online-Registrierungsprozess zu starten.  
-![Planen einer Prüfung](images/step-1-2x.png)
+**Schritt 1:** Wählen Sie eine der [berechtigten Prüfungen](#eligible-exams-for-this-offer) aus und klicken Sie auf die Schaltfläche "Prüfung planen", um den Online-Registrierungsprozess zu starten.  
+![Planen einer Prüfung](images/step1.png)
 
 **Schritt 2:** Melden Sie sich in Ihrem bestehenden Microsoft-Zertifizierungsprofil an oder erstellen Sie eines mit einem Microsoft-Account.  
 ![Mit Microsoft-Account anmelden](images/step-2-2x.png)
 
 **Schritt 3:** Bestätigen Sie nach dem Anmelden, dass die Angaben in Ihrem Zertifizierungsprofil korrekt sind.  
-![Bestätigen Sie die Details im Microsoft-Zertifizierungsprofil](images/step-3-2x.png)
+![Bestätigen Sie die Details im Microsoft-Zertifizierungsprofil](images/step3.png)
 
 **Schritt 4:** Klicken Sie auf „Speichern & Fortfahren“ am ende der Zertifizierungsprofil Seite um weiter zu der „Exam Discounts“ Seite zu gelangen.  
 ![Klicken Sie unten auf der Seite Zertifizierungsprofil auf die Schaltfläche Speichern & fortfahren](images/step-4-2x.png)
 
-**Schritt 5:** Auf der „Exam Discounts“ Seite wählen Sie die Veranstaltung an der Sie Teilgenommen haben und klicken auf „Account bestätigen“.  
-![Klicken Sie auf der Seite Prüfungsrabatte auf die Schaltfläche Account überprüfen](images/step-5-2x.png)
+**Schritt 5:** Geben Sie auf der Seite „Prüfungsrabatte" die E-Mail-Adresse ein, mit der Sie sich für eine Veranstaltung registriert haben (z. B. alias@company.com oder alias@outlook.com).  
+![Geben Sie die E-Mail-Adresse ein, mit der Sie sich für eine Veranstaltung registriert haben](images/step5-1-enter-email.png)
 
-**Schritt 6:** Wenn Sie Ihren Account bestätigen, müssen Sie authentifizieren, dass Sie den Sozial Account nutzen wie für die Anmeldung für die Veranstaltung. (Hinweis: Wenn Sie einen Microsoft Account für die Veranstaltungsanmeldung verwendet haben, müssen Sie den selben Microsoft Account für nutzen um sich in Ihr Zertifizierungsprofil einzuloggen, wenn Sie die Prüfung planen. Wenn Sie dadurch auf einmal zwei Zertifizierungsprofile haben, [wenden Sie sich an den Support in den Microsoft-Zertifizierungssupportforen](https://trainingsupport.microsoft.com/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) um Ihre Profile nach Abschluss Ihrer Prüfung zusammenzulegen).  
-![Authentifizierung mit demselben Social Account zur Überprüfung des Accounts](images/step-6-2x.png)
+**Schritt 6:** Wenn Sie Anspruch auf einen Prüfungsrabatt haben, erhalten Sie eine Bestätigungs-E-Mail an die von Ihnen eingegebene Adresse. Um fortzufahren, müssen Sie den Passcode eingeben, den Sie per E-Mail erhalten. Wenn Sie keine E-Mail erhalten, können Sie den Code erneut senden.  
+![In E-Mail erhaltenen Passcode eingeben](images/step6-enter-passcode.png)
 
-**Schritt 7:** Folgen Sie den Schritten auf den folgenden Bildschirmen und geben Sie die erforderlichen Details an, um Ihre Prüfung zu planen. Vergewissern Sie sich beim bezahlen, dass der gesamte Betrag $0.00 beträgt und reichen Sie die Bestellung ein.  
-![Geben Sie die erforderlichen Details an, um Ihre Prüfung zu planen](images/step-7-2x.png)
+**Schritt 7:** Nachdem Sie den richtigen Passcode eingegeben haben, werden Sie aufgefordert, Ihre Accounts zu verlinken. Sie MÜSSEN zustimmen, Ihre Accounts zu verlinken, um einen Rabatt zu erhalten.  
+![Accounts verlinken, um Rabatt zu erhalten](images/step7-linkmodal.png)
+
+Wenn Sie sich das nächste Mal anmelden und Anspruch auf Prüfungsrabatte für eines dieser Accounts haben, werden die Rabatte automatisch angezeigt. Um einen Account zu entfernen, rufen Sie das [Zertifizierungs-Dashboard](https://aka.ms/certdashboard) auf und klicken auf „Zertifizierungsprofil bearbeiten".
+
+**Schritt 8:** Oben wird ein Rabatt angezeigt. Wählen Sie den Rabatt aus, den Sie beanspruchen möchten, und fahren Sie mit dem Auschecken fort, indem Sie auf die Schaltfläche für die geplante Prüfung klicken.  
+![Wählen Sie einen Rabatt und fahren Sie fort, indem Sie auf die Schaltfläche für die geplante Prüfung klicken](images/step8-coupon.png)
+
+**Schritt 9:** Befolgen Sie die Schritte auf den folgenden Bildschirmen und geben Sie die erforderlichen Details an, um Ihre Prüfung zu planen. Überprüfen Sie während des Bestellvorgangs, ob der Gesamtbetrag 0,00 USD beträgt, und senden Sie die Bestellung ab.  
+![Accounts verlinken, um einen Rabatt zu erhalten](images/step9.png)
 
 **Zertifizierungsunterstützung:**
 

@@ -18,17 +18,17 @@ summary: |-
   dieses examens richtet sich an Personen, die mit Cloud-basierten Lösungen und Diensten arbeiten. Kandidaten sollten in der Lage sein, grundlegende Kenntnisse über Cloud-Konzepte sowie Azure-Services, Workloads, Sicherheit, Datenschutz, Preisgestaltung und Support nachzuweisen. Darüber hinaus sollten Sie mit den Konzepten von Netzwerk, Speicher, Computing, Anwendungsunterstützung und Anwendungsentwicklung vertraut sein.
 
   Azure-Grundlagen können verwendet werden, um sich auf andere rollenbasierte Azure- oder Spezialzertifizierungen vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen.
-subTitle: 'dieses examens misst Ihre Fähigkeit, die folgenden Konzepte zu verstehen: Cloud-Konzepte; Core Azure Services; Sicherheit, Datenschutz, Compliance, Trust und Azure-Preisgestaltung und -Support.'
+subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden Konzepte zu verstehen: Cloud-Konzepte; Core Azure Services; Sicherheit, Datenschutz, Compliance, Trust und Azure-Preisgestaltung und -Support.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
-- providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+  - providerType: gsi
+    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer  
 locales:
 - en
 - ja
@@ -50,7 +50,10 @@ courses:
 - uid: course.az-900t01
 - uid: course.az-900t00
 paths:
-- uid: learn.cloud-foundations
+- uid: learn.wwl.explore-microsoft-azure-cloud-concepts
+- uid: learn.wwl.distinguish-microsoft-azure-core-services
+- uid: learn.wwl.examine-microsoft-azure-security-privacy-compliance-trust
+- uid: learn.wwl.review-microsoft-azure-pricing-slas-lifecycles
 relatedCertifications:
 - related:
     uid: certification.azure-fundamentals

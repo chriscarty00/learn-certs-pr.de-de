@@ -26,7 +26,7 @@ levels:
 skills:
 - Der Inhalt dieser Prüfung wurde am  22. Mai 2020 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungsfertigkeiten herunter, um zu sehen, was sich geändert hat.
 - Einrichten eines Azure-Arbeitsbereichs für maschinelles Lernen (30-35%)
-- Experimente durchführen und Modelle trainieren (25 -30%)
+- Experimente durchführen und Modelle trainieren (25-30%)
 - Modelle optimieren und verwalten (20-25%)
 - Modelle bereitstellen und verwenden (20-25%)
 roles:
@@ -34,9 +34,13 @@ roles:
 products:
 - azure
 - azure-data-science-vm
+- azure-machine-learning
+- azure-machine-learning-service
+- azure-machine-learning-studio
 courses:
 - uid: course.dp-100t01
 paths:
+- uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
 relatedCertifications:
 - related:

@@ -8,11 +8,19 @@ displayName: AZ-301
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>EINE NEUE VERSION DIESES EXAMENS, <a href="/learn/certifications/exams/az-304">AZ-304</a>, WIRD AM ODER UM DEN 29. JUNI 2020 VERFÜGBAR SEIN. Sie können dieses Examen ablegen, bis es am oder um den 30. September 2020 eingestellt wird. Bitte laden Sie das unten stehende Dokument zu den gemessenen Fähigkeiten herunter, um zu sehen, was sich ändern wird.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>EINE NEUE VERSION DIESES EXAMENS, <a href="/learn/certifications/exams/az-304">AZ-304</a>, WURDE AM 29 JUNI 2020 BEREITGESTELLT. Sie können dieses Examen ablegen, bis es am oder um den 30. September 2020 eingestellt wird. Hinweis&#58; Prüfungen werden um 23&#58;59 Uhr Central Standard Time eingestellt.<br/><br/></div>
   </div>
 
-  Kandidaten für dieses examens sind Azure Solution Architects, die Interessenvertreter beraten und Geschäftsanforderungen in sichere, skalierbare und zuverlässige Lösungen umsetzen. Die Kandidaten sollten über fortgeschrittene Erfahrungen und Kenntnisse in verschiedenen Aspekten des IT-Betriebs verfügen, darunter Vernetzung, Virtualisierung, Identität, Sicherheit, Business Continuity, Disaster Recovery, Datenmanagement, Budgetierung und Governance. Diese Position erfordert die Verwaltung der Auswirkungen von Entscheidungen in den einzelnen Bereichen auf eine Gesamtlösung. Die Kandidaten müssen über gute Kenntnisse in den Bereichen Azure-Administration, Azure-Entwicklung und DevOps verfügen und über Kenntnisse auf Expertenebene in mindestens einem dieser Bereiche verfügen.
-subTitle: 'dieses examens misst Ihre Fähigkeit, folgende technische Aufgaben zu erfüllen: Ermitteln der Workload-Anforderungen; Design für Identität und Sicherheit; Design einer Datenbankplattformlösung; Design einer Strategie für Geschäftskontinuität; Design für Bereitstellung, Migration und Integration; Design einer Infrastrukturstrategie.'
+  Kandidaten für dieses examens sollten über Fachkenntnisse beim Entwerfen und Implementieren von Lösungen verfügen, die unter Microsoft Azure ausgeführt werden, einschließlich Aspekten wie Computer, Netzwerk, Speicher und Sicherheit.
+
+  Zu den Aufgaben eines Azure Solution Architects gehören die Beratung von Stakeholdern und die Umsetzung von Geschäftsanforderungen in sichere, skalierbare und zuverlässige Cloud-Lösungen.
+
+  Ein Azure Solution Architect arbeitet mit Cloud-Administratoren, Cloud-Datenbankadministratoren und Clients zusammen, um Lösungen zu implementieren.
+
+  Ein Kandidat für dieses examens sollte über umfassende Erfahrung und Kenntnisse in verschiedenen Aspekten des IT-Betriebs verfügen, einschließlich Netzwerk, Virtualisierung, Identität, Sicherheit, Geschäftskontinuität, Notfallwiederherstellung, Datenmanagement, Budgetierung und Governance. Jemand in dieser Position sollte Entscheidungen in den einzelnen Bereichen steuern, die eine Gesamtlösung beeinflussen. Darüber hinaus sollte jemand in dieser Position mindestens eine dieser Azure-Knowledge-Domains beherrschen&#58; Verwaltung, Entwicklung oder DevOps.
+
+  <div style='font-weight&#58; bold;'><br/>Hinweis&#58; Wenn Sie dieses Examen bestehen, erhalten Sie die folgende Zertifizierung&#58; <a href="/learn/certifications/azure-solutions-architect">Microsoft Certified&#58; Azure Solutions Architect Expert</a>.</div>
+subTitle: 'Diese Prüfung misst Ihre Fähigkeit, folgende technische Aufgaben zu erfüllen: Ermitteln der Workload-Anforderungen; Design für Identität und Sicherheit; Design einer Datenbankplattformlösung; Design einer Strategie für Geschäftskontinuität; Design für Bereitstellung, Migration und Integration; Design einer Infrastrukturstrategie.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-301?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -25,8 +33,8 @@ locales:
 levels:
 - advanced
 skills:
-- EINE NEUE VERSION DIESES EXAMENS, AZ-304, WIRD AM ODER UM DEN 29. JUNI 2020 VERFÜGBAR SEIN. Sie können dieses Examen ablegen, bis es am oder um den 30. September 2020 eingestellt wird. Bitte laden Sie das unten stehende Dokument zu den gemessenen Fähigkeiten herunter, um zu sehen, was sich ändern wird.
-- Bestimmen Sie die Workload-Anforderungen (10-15%)
+- EINE NEUE VERSION DIESES EXAMENS, AZ -304, WURDE AM 29 JUNI 2020 BEREITGESTELLT. Sie können dieses Examen ablegen, bis es am oder um den 30. September 2020 eingestellt wird. Bitte laden Sie das untenstehende Dokument „Skills measured” herunter, um zu sehen, sich geändert hat.
+- Ermittlung des Arbeitsaufwands (10-15%)
 - Design für Identität und Sicherheit (20-25%)
 - Entwurf einer Datenplattformlösung (15-20%)
 - Entwickeln einer Geschäfts-Weiterführungsstrategie (15-20%)
@@ -76,7 +84,7 @@ paths:
 - uid: learn.architect-migration-bcdr
 relatedCertifications:
 - related:
-    uid: certification.azure-solutions-architect
+    uid: none
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.

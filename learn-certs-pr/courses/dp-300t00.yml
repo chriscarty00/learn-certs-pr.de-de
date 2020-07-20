@@ -1,0 +1,184 @@
+### YamlMime:Course
+title: Administering Relational Databases on Microsoft Azure
+metadata:
+  title: 'Course DP-300T00-A: Administering Relational Databases on Microsoft Azure'
+  description: 'Course DP-300T00-A: Administering Relational Databases on Microsoft Azure'
+uid: course.dp-300t00
+courseNumber: 'DP-300T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planen, Bereitstellen und Konfigurieren von Azure SQL-Angeboten
+- skill: Überwachen Sie die Datenbankleistung und optimieren Sie eine Datenbank und Abfragen, um eine optimale Leistung zu erzielen
+- skill: Planen und konfigurieren Sie eine Hochverfügbarkeitslösung
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- database-administrator
+products:
+- azure
+- azure-automation
+- azure-database-mysql
+- azure-database-postgresql
+- azure-sql-database
+- azure-storage
+- azure-virtual-machines
+- sql-server
+exams:
+- uid: exam.dp-300
+summary: |-
+  Dieser Kurs vermittelt den Teilnehmern die Kenntnisse und Fähigkeiten zur Verwaltung einer SQL Server-Datenbankinfrastruktur für Cloud-, lokale und hybride relationale Datenbanken, die mit den relationalen Microsoft PaaS-Datenbankangeboten arbeiten. Darüber hinaus ist es für Personen von Nutzen, die Anwendungen entwickeln, die Inhalte aus SQL Server-Datenbanken bereitstellen.
+
+  #### Zielgruppenprofil
+  Die Zielgruppe dieses Kurses sind Datenfachleute, die Daten und Datenbanken verwalten und mehr über die Verwaltung der in Microsoft Azure verfügbaren Datenplattformtechnologien erfahren möchten. Dieser Kurs ist auch für Datenarchitekten und Anwendungsentwickler hilfreich, die verstehen müssen, welche Technologien für die Datenplattform mit Azure verfügbar sind und wie man mit diesen Technologien über Anwendungen arbeiten kann.
+prerequisitesSection: |-
+  Zusätzlich zu ihrer beruflichen Erfahrung sollten die Teilnehmer des Kurses technische Kenntnisse besitzen, die vergleichbar sind mit den folgenden Kursen&#58;
+  - Azure Fundamentals
+  - Azure Data Fundamentals
+outlineSection: |-
+  ### Modul 1&#58; Die Rolle des Azure-Datenbankadministrators
+  In diesem Modul wird die Rolle eines Datenbankadministrators in der Welt von Azure untersucht. Es enthält auch einige grundlegende Informationen, die für den Gesamtinhalt relevant sind. Dies umfasst eine Überprüfung der verschiedenen SQL Server-basierten Optionen (SQL Server in einer VM, verwaltete Instanzen und Azure SQL-Datenbank). Die Schüler lernen, warum die Kompatibilitätsstufe bei der Arbeit mit SQL-Datenbanken in Azure ein entscheidendes Konzept ist. Die Schüler werden neben den auf SQL Server basierenden auch mit anderen auf Azure verfügbaren Datenbankplattformen vertraut gemacht, insbesondere mit PostgreSQL und MySQL 
+  #### Lektionen
+  - - Azure Daten-Plattform-Rollen
+  - Azure-Datenbankplattformen und -optionen
+  - SQL Server-Kompatibilitätsstufen
+  - Azure-Vorschaufunktionen
+
+
+  #### Lab &#58; Verwenden von Azure Portal und SQL Server Management Studio
+  - Stellen Sie einen SQL Server auf einer virtuellen Azure-Maschine bereit
+  - Stellen Sie eine Verbindung zu SQL Server her und stellen Sie eine Sicherung wieder her
+
+  Nach Abschluss dieses Moduls die Teilnehmer&#58;
+  - Grundlegendes zur Rolle des Azure-Datenbankadministrators und wie sie zu anderen Datenplattformrollen passt
+  die wichtigsten Unterschiede zwischen der SQL Server-basierten Database beschreiben
+  - den Unterschied zwischen Versionen und Kompatibilitätsstufen beschreiben
+  - wissen, wie Vorschau-Funktionen aktiviert und deaktiviert werden 
+
+
+  ### Modul 2&#58; Planen und implementieren Sie Datenplattformressourcen 
+  In diesem Modul werden Methoden zum Bereitstellen von Datenplattformressourcen in Azure vorgestellt. Sie erfahren, welche Optionen zum Aktualisieren und Migrieren vorhandener SQL-Datenbanken nach Azure verfügbar sind. Sie erfahren, wie man Azure-Ressourcen zum Hosten von SQL Server auf einer virtuellen Maschine, einer verwalteten Instanz, einer Azure SQL-Datenbank und entweder PostgreSQL oder MySQL einrichtet. Sie erfahren, wie man anhand bestimmter Anforderungen, einschließlich der Anforderungen für Hochverfügbarkeit und Notfallwiederherstellung (HADR), ermitteln kann, welche Optionen am besten geeignet sind. Sie lernen, den Ressourcenbedarf zu berechnen und Vorlagen für ihre Bereitstellungen zu erstellen.
+  #### Lektionen
+  - Bereitstellen von SQL Server mit Hilfe von IaaS
+  - Bereitstellen von SQL Server mit Hilfe von PaaS
+  - Bereitstellen von Open Source-Datenbanklösungen in Azure
+
+  #### Lab &#58; Bereitstellen einer Azure SQL-Datenbank
+  - Stellen Sie eine VM mit Hilfe einer ARM-Vorlage bereit
+  - Konfigurieren Sie die benötigten Ressourcen, bevor Sie eine Datenbank erstellen
+  - Stellen Sie eine Azure SQL-Datenbank bereit
+  - Registrieren Sie die Azure SQL-Datenbankinstanz in Azure Data Studio und überprüfen Sie die Konnektivität
+  - Stellen Sie PostgreSQL oder MySQL mithilfe eines Client-Tools um die Konnektivität zu überprüfen
+
+  Nach Abschluss dieses Moduls die Teilnehmer&#58;
+  - Stellen Sie Ressourcen mithilfe von manuellen Methoden bereit
+  - Empfehlen Sie ein geeignetes Datenbankangebot, basierend auf den Anforderungen
+  - Konfigurieren Sie Datenbankressourcen
+  - Evaluieren und implementieren Sie eine Strategie zum Verschieben einer Datenbank nach Azure
+
+
+  ### Modul 3&#58; Implementieren Sie eine sichere Umgebung
+  In diesem Modul werden die Vorgehensweisen zum Sichern Ihrer SQL Server-Datenbank sowie einer Azure SQL-Datenbank erläutert. Dies umfasst eine Überprüfung der verschiedenen SQL Server-basierten Optionen sowie der verschiedenen Azure-Optionen zum Sichern der Azure SQL-Datenbank sowie der Datenbanken, die sich in der Azure SQL-Datenbank befinden. Die Studenten lernen, warum Sicherheit bei der Arbeit mit Datenbanken von entscheidender Bedeutung ist. Die Studenten werden neben den auf SQL Server basierenden auch mit anderen auf Azure verfügbaren Datenbankplattformen vertraut gemacht, insbesondere mit der Azure-Datenbank für MariaDB / MySQL / PostgreSQL
+  #### Lektionen
+  - Konfigurieren Sie die Datenbankauthentifizierung
+  - Konfigurieren Sie die Datenbankautorisierung
+  - Implementieren Sie die Sicherheit für ruhende Daten
+  - Implementieren Sie die Sicherheit für Daten in Transit
+  - Implementieren Sie Compliance-Kontrollen für sensible Daten
+
+  #### Lab &#58; Implementieren Sie eine sichere Umgebung
+  - Konfigurieren Sie eine serverbasierte Firewall-Regel mit Hilfe des Azure-Portals
+  - Autorisieren Sie den Zugriff auf die Azure SQL-Datenbank mit Azure Active Directory
+  - Aktivieren Sie die erweiterte Datensicherheit und Datenklassifizierung
+  - Verwalten Sie den Zugriff auf Datenbankobjekte
+
+  Nach Abschluss dieses Moduls die Teilnehmer&#58;
+  - Verstehen Sie die Unterschiede zwischen der Windows-, SQL Server- und Azure Active Directory-Authentifizierung
+  - Beschreiben und konfigurieren Sie sowohl Verschlüsselungslösungen für ruhende Daten als auch eine Verschlüsselung für Daten während der Übertragung
+  - Implementieren Sie eine Datensensitivitätslösung
+
+
+  ### Modul 4&#58; Überwachung und Optimierung der Betriebsressourcen
+  In diesem Modul lernen Sie die Ressourcenoptimierung für Ihre Datenbanken kennen, die mit IaaS- oder PaaS-Services erstellt wurden. Das Modul umfasst auch die Überwachung von Server- und Hardwareressourcen. Sie werden mit den verschiedenen verfügbaren Tools zur Überwachung der Leistung und zur Erstellung einer Baseline vertraut gemacht. Sie lernen, wie man Leistungsmetriken für die kritischsten Ressourcen interpretiert. Außerdem erfahren Sie, wie man die Datenbankleistung mit Hilfe von Azure SQL Database Intelligent Insights behebt.
+  #### Lektionen
+  - Basislinien und Leistungsüberwachung
+  - Hauptursachen für Leistungsprobleme
+  - Konfigurieren von Ressourcen für optimale Leistung
+  Database-Konfiguration für Benutzer
+  - Leistungsbezogene Wartungsaufgaben
+
+  #### Lab &#58; Überwachung und Optimierung der Betriebsressourcen
+  - CPU-Probleme isolieren
+  - Verwenden Sie den Abfragespeicher, um Blockierungsprobleme zu beobachten
+  - Fragmentierungsprobleme erkennen und beheben
+
+  Nach Abschluss dieses Moduls die Teilnehmer&#58;
+  - Überwachung der Aktivität und Vergleich mit einer Basislinie
+  - Definieren Sie Wartungsaufgaben in Bezug auf die Leistung
+  - Identifizieren Sie die Hauptursachen für Leistungsprobleme
+  - Konfigurieren Sie Ressourcen für eine optimale Leistung
+  - Konfigurieren Sie eine Benutzerdatenbank für eine optimale Leistung
+
+
+  ### Modul 5&#58; Optimieren Sie die Abfrageleistung
+  Abfrageausführungspläne sind möglicherweise der wichtigste Aspekt der Datenbankleistung. Die Verbesserung schlechter Pläne ist sicherlich ein Bereich, in dem ein geringer Aufwand große Verbesserungen bringen kann. Während Hardwareprobleme die Abfrageleistung einschränken können, führt die Verbesserung der Hardware normalerweise zu Leistungsverbesserungen im Bereich von höchstens 10 bis 20%. Häufiger stoßen Datenbankadministratoren auf Abfragen, die nicht optimiert sind, veraltete oder fehlende Statistiken, fehlende Indizes oder schlechte Auswahlmöglichkeiten für das Datenbankdesign aufweisen, was dazu führt, dass das Datenbankmodul mehr Arbeit leistet, als für die Rückgabe der Ergebnisse für eine bestimmte Abfrage erforderlich ist. Ein Verbessern der Pläne kann manchmal zu Leistungsverbesserungen im Bereich von 100 bis 200% oder sogar mehr führen. Dies bedeutet, dass eine Abfrage nach dem Verbessern eines Plans mit besseren Indizes oder Statistiken zwei- oder dreimal so schnell ausgeführt werden kann! Dieses Modul enthält Details zur Analyse der Leistung einzelner Abfragen und zur Ermittlung von Verbesserungsmöglichkeiten.
+  #### Lektionen
+  - Grundlegendes zu SQL Server-Abfrageplänen
+  - Entdecken Sie das leistungsbasierte Datenbankdesign
+  - Bewerten Sie Leistungsverbesserungen
+
+  #### Lab &#58; Fehlerbehebung bei der Abfrageleistung
+  - Identifizieren Sie Probleme mit dem Datenbankdesign AdventureWorks2017
+  - Isolieren Sie Problembereiche in Abfragen mit schlechter Leistung in AdventureWorks2017
+  - Verwenden Sie den Abfragespeicher, um Regressionen in AdventureWorks2017 zu erkennen und zu verarbeiten
+  - Verwenden Sie Abfragehinweise, um die Leistung in AdventureWorks2017 zu beeinflussen
+
+  Nach Abschluss dieses Moduls die Teilnehmer&#58;
+  - Analysieren Sie Abfragepläne und identifizieren Sie Problembereiche
+  - Bewerten Sie mögliche Verbesserungen bei Abfragen
+  - Überprüfen Sie das Tabellen- und Indexdesign
+  - Stellen Sie fest, ob sich Abfrage- oder Designänderungen positiv ausgewirkt haben
+
+
+  ### Modul 6&#58; Automatisierung von Aufgaben
+  Ein gemeinsames Ziel für Datenbankadministratoren in vielen Umgebungen besteht darin, möglichst viele sich wiederholende Aufgaben zu automatisieren. Dies kann so einfach sein wie die Verwendung von Skripten zur Automatisierung eines Sicherungsprozesses und so komplex wie die Erstellung eines vollautomatischen Warnsystems. Dieses Modul enthält Details zur Automatisierung von Aufgaben, um die Arbeit des Datenbankadministrators zu vereinfachen. Zu den Methoden gehören das Planen von Aufgaben für reguläre Wartungsjobs sowie die Verwaltung mehrerer Instanzen und die Konfiguration von Benachrichtigungen für den Erfolg oder Misserfolg oder die Nichterfüllung von Aufgaben.
+  #### Lektionen
+  - Einrichten der automatischen Bereitstellung
+  - Definieren geplanter Aufgaben
+  - Erweiterte Ereignisse konfigurieren
+  - Verwalten von Azure PaaS-Ressourcen mit Hilfe automatisierter Methoden
+
+  #### Lab &#58; Aufgaben automatisieren
+  - Stellen Sie eine Azure-Vorlage aus einer Schnellstartvorlage auf GitHub bereit
+  - Konfigurieren Sie Benachrichtigungen basierend auf Leistungsmetriken
+  - Stellen Sie ein Azure Automation Runbook (oder einen elastischen Job) bereit, um Indizes in einer Azure SQL-Datenbank neu zu erstellen 
+
+  Nach Abschluss dieses Moduls die Teilnehmer&#58;
+  - Bereitstellen von Ressourcen mit Hilfe automatisierter Bereitstellungsskripts
+  - Erstellen Sie geplante Aufgaben
+  - Erstellen Sie Benachrichtigungen und Warnungen
+  - Konfigurieren Sie die Automatisierung für PaaS-Services
+
+
+  ### Modul 7&#58; Planen und Implementieren einer Hochverfügbarkeits- und Notfallwiederherstellungsumgebung
+  Daten müssen verfügbar sein, wenn das Unternehmen sie benötigt. Das bedeutet, dass die Lösungen, wie die Daten gehostet werden, unter Berücksichtigung der Verfügbarkeit und Wiederherstellbarkeit entwickelt werden müssen. Angenommen, Sie arbeiten für ein Unternehmen, das Widgets sowohl in Geschäften als auch online verkauft. Ihre Hauptanwendung verwendet eine hochtransaktionale Datenbank für Bestellungen. Was würde passieren, wenn der Server oder die Plattform, auf der sich die Transaktionsdatenbank befindet, ein Problem hätte, das sie aus irgendeinem Grund nicht verfügbar oder unzugänglich machte? Welche Auswirkungen hätte dies auf das Geschäft? Wenn die richtige Lösung gefunden wird, wird die Datenbank in einem angemessenen Zeitrahmen mit minimalem Aufwand online geschaltet, so dass das Geschäft mit geringen bis keinen Auswirkungen fortgesetzt werden kann. Dieses Modul und das zugehörige Labor umfassen das Konfigurieren, Testen und Verwalten einer Lösung für Hochverfügbarkeit und Disaster Recovery (HADR) in Azure sowohl für Infrastructure-as-a-Service (IaaS) als auch für Platform-as-a-Service (PaaS). Bereitstellungen. Dieses Modul deckt nicht nur die grundlegenden Anforderungen ab, sondern auch die verschiedenen verfügbaren Optionen, um HADR zu erreichen.
+  #### Lektionen
+  - Hochverfügbarkeits- und Notfallwiederherstellungsstrategien
+  - IaaS-Plattform- und Datenbank-Tools für HADR
+  - PaaS-Plattform- und Datenbank-Tools für HADR
+  - Datenbanksicherung und -wiederherstellung
+
+  #### Lab &#58; Planen und Implementieren einer Hochverfügbarkeits- und Notfallwiederherstellungsumgebung
+  - Erstellen Sie eine ständig verfügbare Erreichbarkeits-Gruppe
+  - Aktivieren Sie die Georeplikation für die Azure SQL-Datenbank
+  - Sichern auf URL und Wiederherstellen von URL
+
+  Nach Abschluss dieses Moduls verstehen die Teilnehmer&#58;
+  - Den Unterschied zwischen Wiederherstellungszeit und Wiederherstellungspunktzielen
+  - Die verfügbaren HADR-Optionen für IaaS und PaaS
+  - Die Überlegungen zum Planen und Konfigurieren von HADR-Lösungen, einschließlich der Art und Weise, wie Fi gesichert und wiederhergestellt wird
+  - Die Faktoren, die eine HADR-Strategie ausmachen
+  - So konfigurieren Sie eine Hochverfügbarkeitslösung über ein praktisches Labor

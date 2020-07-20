@@ -12,7 +12,11 @@ summary: |-
 subTitle: Die Kandidaten dieser Prüfung möchten einen Nachweis über Ihre Grundkenntnisse in der Softwareentwicklung. Es wird empfohlen, dass die Kandidaten mit den Konzepten der hier beschriebenen Technologien vertraut sind und praktische Erfahrung vorweisen können, indem sie entweder die entsprechenden Trainings absolvieren oder mit den Lernprogrammen und Beispielen zu MSDN und in Microsoft Visual Studio arbeiten. Von den Kandidaten wird erwartet, dass Sie über etwas Erfahrung in C# oder Microsoft Visual Basic .NET verfügen.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIO
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=de-de&examcode=98-361&examname=Software%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-361
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=de-de&examcode=98-361&examname=Software%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-361
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -54,7 +58,7 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.

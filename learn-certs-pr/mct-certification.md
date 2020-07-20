@@ -1,6 +1,6 @@
 ---
-title: 'Become a Microsoft Certified Trainer | Microsoft Docs'
-description: 'Become a Microsoft Certified Trainer' 
+title: 'Werden Sie ein Microsoft-zertifizierter Trainer | Microsoft Docs'
+description: 'Werden Sie ein Microsoft-zertifizierter Trainer'
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -37,6 +37,7 @@ Detaillierte Informationen zu den Anforderungen an das MCT-Programm finden Sie i
 
 
 ### Einstiegsanforderungen für das MCT-Programm
+
 - Besitz einer aktuellen, für das MCT-Programm infrage kommenden Microsoft-Zertifizierung oder -Qualifizierung. 
 (Siehe unten zur Liste der Qualifizierungszertifikate)
 - Zeigen Sie Unterrichtskompetenzen, die durch einen der nachstehenden Kriterien nachgewiesen werden:
@@ -48,7 +49,7 @@ Detaillierte Informationen zu den Anforderungen an das MCT-Programm finden Sie i
     - Global Knowledge Instructional Skills-Zertifizierung
     - IAMCT Approved Technical Trainer (IAMCT ATT)
     - IPM (Institut für Personalberatung und Managemententwicklung)
-    - Learning and Performance Institute Trainer Performance Monitoring and Assessment (TPMA)
+    - Trainer Performance Monitoring und Assessment (TPMA) des Learning und Performance Institute.
     - Learning Tree Train the Trainer-Programm
     - Marcom Deli
     - Microsoft Certified Trainer Instructional Skills Zertifizierung (MCT-ISC)
@@ -79,6 +80,10 @@ Detaillierte Informationen zu den Anforderungen an das MCT-Programm finden Sie i
 - [Microsoft Certified: Azure Security Engineer Associate](https://www.microsoft.com/learning/azure-security-engineer.aspx)
 - [Microsoft Certified: Azure DevOps Engineer Expert](https://www.microsoft.com/learning/azure-devops.aspx)
 - [Microsoft Certified: Azure Solutions Architect Expert](https://www.microsoft.com/learning/azure-solutions-architect.aspx)
+- [Microsoft Certified: Azure AI Engineer Associate](https://www.microsoft.com/learning/azure-ai-engineer.aspx)
+- [Microsoft Certified: Azure Data Scientist Associate](https://www.microsoft.com/learning/azure-data-scientist.aspx)
+- [Microsoft Certified: Azure Data Engineer Associate](https://www.microsoft.com/learning/azure-data-engineer.aspx)
+- [Microsoft Certified: Data Analyst Associate](/learn/certifications/data-analyst-associate)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
 - [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx)(eingestellt am 31. August 2020)
@@ -86,9 +91,6 @@ Detaillierte Informationen zu den Anforderungen an das MCT-Programm finden Sie i
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/m365-teams-administrator-associate)
-- [Microsoft Certified: Azure AI Engineer Associate](https://www.microsoft.com/learning/azure-ai-engineer.aspx)
-- [Microsoft Certified: Azure Data Scientist Associate](https://www.microsoft.com/learning/azure-data-scientist.aspx)
-- [Microsoft Certified: Azure Data Engineer Associate](https://www.microsoft.com/learning/azure-data-engineer.aspx)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-sales.aspx)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-customer-service.aspx)
 - [Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-marketing.aspx)
@@ -120,7 +122,7 @@ Wenn Sie MCT werden wollen, lesen Sie bitte den MCT Program Guide sowie die MCT-
 
 [MCT-Programmführer](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2XZuQ)
 
-Programmvereinbarung
+### Programmvereinbarung
 
 [MCT-Programmvereinbarung](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2XWWa)
 
@@ -135,9 +137,9 @@ Wenn Sie ein Microsoft Office Specialist sind und keine Microsoft Certification 
 Verwenden Sie das MCT Enrollmenttool für Folgendes:
 
 - **Überprüfen Sie die Anforderungen des MCT-Programms und unterzeichnen Sie den MCT-Programmleitfaden und die Vereinbarung.** Mit Ihrer elektronischen Signatur nehmen Sie die Bedingungen der MCT-Vereinbarung an.
--**Aktualisieren Sie Ihre Profilinformationen.** Ihre zur Verfügung gestellten Kontaktinformationen verwenden wir für die MCT-Kommunikation.
--**Geben Sie Ihren Beschäftigungsstatus an.** Wenn Sie bei einem Learning Partner oder einer Microsoft Imagine Academy beschäftigt sind, benötigen Sie die Learning Partner ID bzw. Microsoft Imagine Academy ID Ihres Arbeitgebers.
--**Wählen Sie Ihre Zahlungsweise aus.** Die Programmgebühren können je nach Land/Region und Beschäftigungsverhältnis unterschiedlich sein. Verwenden Sie das Nachschlage-Tool am Ende der Seite, um die Gebühren für MCT- und MCT-Alumni-Mitglieder zu finden.
+- **Aktualisieren Sie Ihre Profilinformationen.** Ihre zur Verfügung gestellten Kontaktinformationen verwenden wir für die MCT-Kommunikation.
+- **Geben Sie Ihren Beschäftigungsstatus an.** Wenn Sie bei einem Learning Partner oder einer Microsoft Imagine Academy beschäftigt sind, benötigen Sie die Learning Partner ID bzw. Microsoft Imagine Academy ID Ihres Arbeitgebers.
+- **Wählen Sie Ihre Zahlungsweise aus.** Die Programmgebühren können je nach Land/Region und Beschäftigungsverhältnis unterschiedlich sein. Verwenden Sie das Nachschlage-Tool am Ende der Seite, um die Gebühren für MCT- und MCT-Alumni-Mitglieder zu finden.
 
 ## MCT-Alumni-Programm
 

@@ -10,12 +10,12 @@ summary: |-
 
   Kandidaten für dieses Examen sind Datenbankadministratoren und Datenverwaltungsspezialisten, die vor Ort und in Beziehung zu Cloud stehende Datenbanken verwalten, die auf Microsoft SQL Server- und Microsoft Azure-Datendiensten basieren.
 
-  Der Azure-Database Administrator implementiert und verwaltet die betrieblichen Aspekte von Cloud-nativen und hybriden Datenplattformlösungen, die auf Microsoft Azure Data Services und Microsoft SQL Server basieren. Der Azure-Datenbankadministrator verwendet eine Vielzahl von Methoden und Tools, um alltägliche Vorgänge auszuführen, einschließlich der Anwendung von Kenntnissen über die Verwendung von T-SQL für Verwaltungsverwaltungszwecke.
+  'Der Azure-Database Administrator implementiert und verwaltet die betrieblichen Aspekte von Cloud-nativen und hybriden Datenplattformlösungen, die auf Microsoft Azure Data Services und Microsoft SQL Server basieren. Der Azure-Datenbankadministrator verwendet eine Vielzahl von Methoden und Tools, um alltägliche Vorgänge auszuführen, einschließlich der Anwendung von Kenntnissen über die Verwendung von T-SQL für Verwaltungsverwaltungszwecke.
 
   Diese Rolle ist verantwortlich für die Verwaltung, Verfügbarkeit, Sicherheit und Leistungsüberwachung sowie die Optimierung moderner relationaler Datenbanklösungen. Diese Rolle arbeitet mit der Azure Data Engineer-Rolle zusammen, um betriebliche Aspekte von Datenplattformlösungen zu verwalten.
 
   <div style='font-weight&#58; bold;'><br/>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. Um mehr zu erfahren <a href="/learn/certifications/certification-exams#participating-in-beta-exams">about the value and importance of beta exams</a>.</div>
-subTitle: 'Dieses Examen misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Planen und Implementieren von Datenplattformressourcen; eine sichere Umgebung implementieren; Überwachung und Optimierung der Betriebsressourcen; Abfrageleistung optimieren; Automatisierung von Aufgaben durchführen; Planen und Implementieren einer HADR-Umgebung (High Availability and Disaster Recovery); und die Verwaltung mit T-SQL durchführen. '
+subTitle: 'Dieses Examen misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Planen und Implementieren von Datenplattformressourcen; eine sichere Umgebung implementieren; Überwachung und Optimierung der Betriebsressourcen; Abfrageleistung optimieren; Automatisierung von Aufgaben durchführen; Planen und Implementieren einer HADR-Umgebung (High Availability and Disaster Recovery); und die Verwaltung mit T-SQL durchführen.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=DP-300&examname=Exam%20DP-300:%20Administering%20Relational%20Databases%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-300
@@ -42,6 +42,8 @@ products:
 - azure-storage
 - azure-virtual-machines
 - sql-server
+courses:
+- uid: course.dp-300t00
 relatedCertifications:
 - related:
     uid: certification.azure-database-administrator-associate
@@ -62,7 +64,7 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.

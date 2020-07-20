@@ -15,7 +15,11 @@ subTitle: Die Kandidaten für diese Prüfung sind vertraut mit allgemeinen Netzw
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJr
 practiceTestUrl: https://www.mindhub.com/MTA-98-366-Networking-Fundamentals-p/mu-98-366_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=de-de&examcode=98-366&examname=Networking%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-366
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=de-de&examcode=98-366&examname=Networking%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-366
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -53,7 +57,7 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.

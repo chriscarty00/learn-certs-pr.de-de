@@ -14,7 +14,9 @@ summary: |-
 subTitle: Kandidaten für diese Prüfung sollten Kenntnisse der grundlegenden Windows-Betriebssystemkonzepte in einer Windows-10-Umgebung haben.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy8
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=de-de&examcode=98-349&examname=Windows%20Operating%20System%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-349
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -54,7 +56,7 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.

@@ -59,7 +59,7 @@ Prüfungen suchen, die in den nächsten 12 Monaten aus dem Programm genommen we
 | [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
 | [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
 
-| Einstellung am  30. September 2020 | |
+| Einstellung am 30. September 2020 | |
 | --- | --- |
 | [AZ-300](https://www.microsoft.com/learning/exam-AZ-300.aspx): Microsoft Azure Architect Technologies |  |
 | [AZ-301](https://www.microsoft.com/learning/exam-AZ-301.aspx): Microsoft Azure Architect Design |  |
@@ -73,15 +73,11 @@ Prüfungen suchen, die in den nächsten 12 Monaten aus dem Programm genommen we
 | [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator |  |
 | [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
 
-| Einstellung am 30. Juni 2020 | |
-| --- | --- |
-| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
-
 ## Kürzlich eingestellte Prüfungen
 
 Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, noch für einen Zeitraum von 12 Monaten einen Link zu ihrer Prüfungsdetailseite enthalten.
 
-| ITPro/Developer| | |
+| Rollenbasiert| | |
 | --- | --- | --- |
 | [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 1. Mai 2019
 | [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 1. Mai 2019
@@ -92,6 +88,11 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 30. Juni 2019
 | [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | 30. September 2019
 | [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | 30. September 2019
+
+<br/>
+
+| ITPro/Developer| | |
+| --- | --- | --- |
 | 70-246 | Monitoring and Operating a Private Cloud with System Center 2012 | 31. Dezember 2017
 | 70-247 | Configuring and Deploying a Private Cloud | 31. Dezember 2017
 | 70-331 | Core Solutions of Microsoft SharePoint Server 2013 | 31. März 2019
@@ -130,6 +131,7 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Managing Projects with Microsoft Project 2013 | 31. Juli 2019
 | 74-344 | Managing Programs and Projects with Project Server 2013 | 31. Dezember 2017
 | 74-409 | Server Virtualization with Windows Server Hyper-V and System Center | 31. Juli 2018
+| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx) | Microsoft SharePoint 2013 | 30 Juni 2020
 | [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Cloud Fundamentals | 30. September 2019
 | [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | Introduction to Programming Using Block-Based Languages (Touch Develop) | 7. August 2019
 
@@ -272,7 +274,7 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | 70-490 | Recertification for MCSD: Windows Store Apps Using HTML5 | 31. März 2017
 | 70-491 | Recertification for MCSD: Windows Store Apps Using C# | 31. März 2017
 | 70-492 | Upgrade Your MCPD: Web Developer 4 to MCSD: Web Applications | 30. September 2016
-| 70-494 | Recertification for MCSD: Web Applications |  31. März 2017
+| 70-494 | Recertification for MCSD: Web Applications | 31. März 2017
 | 70-499 | Recertification for MCSD: Application Lifecycle Management | 31. März 2017
 | 70-500 | TS: Microsoft Windows Mobile 5.0, Implementing and Managing | 31. März 2011
 | 70-501 | TS: Windows Server 2003 Hosted Environments, Configuration and Management | 31. Oktober 2010
@@ -396,7 +398,7 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | 74-139 | Deploying Business Desktops with Microsoft Windows Server 2003 and Microsoft Office 2003 | 31. Oktober 2010
 | 74-322 | Microsoft Lync Server 2010—Advanced Design and Deployment | 31. Juli 2015
 | 74-324 | Administering Office 365 for Small Businesses | 24. August 2013
-| 74-325 | Administering Office 365 for Small Businesses | Samstag, 31. Januar 2015
+| 74-325 | Administering Office 365 for Small Businesses | 31. Januar 2015
 | 74-335 | Lync Network Readiness Assessment | 30. März 2016
 | 74-338 | Lync 2013 Depth Support Engineer | 30. März 2016
 | 74-353 | Windows UX Design | 31. Januar 2015
@@ -420,7 +422,7 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | 88-966 | Windows Server 2008 R2: Directory Knowledge Exam | 1. Januar 2014
 | 88-968 | Lync Server 2010 Knowledge Exam | 1. Januar 2014
 | 88-969 | Lync Server 2010 Lab Exam | 1. Januar 2014
-| 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | , 31. Dezember 2013
+| 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | 31. Dezember 2013
 | 88-981 | Windows Server 2008 R2: Directory Lab Exam | 1. Januar 2014
 | 98-362 | Windows Development Fundamentals | 31. Juli 2014
 | 98-363 | Web Development Fundamentals | 31. Juli 2015
@@ -453,7 +455,7 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | MB2-876 | Extending Microsoft Dynamics CRM 2011 | Sonntag, 31. Januar 2016
 | MB3-408 | Microsoft Dynamics GP 9,0 Inventory and Order Processing | 11. Januar 2011
 | MB3-409 | Microsoft Dynamics GP 9,0 Financials | 11. Januar 2011
-| MB3-412 | Microsoft Dynamics GP 9,0 Installation and Configuration | , 11. Januar 2011
+| MB3-412 | Microsoft Dynamics GP 9,0 Installation and Configuration | 11. Januar 2011
 | MB3-413 | Microsoft Dynamics GP 9,0 Project Series | 11. Januar 2011
 | MB3-430 | Microsoft Dynamics GP 9.0 Manufacturing Applications | 11. Januar 2011
 | MB3-451 | Microsoft Dynamics GP 9.0 Report Writer | 11. Januar 2011
@@ -475,8 +477,8 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | 31. Dezember 2014
 | MB4-348 | SL 6.5 Financials | 31. März 2011
 | MB4-349 | SL 6.5 Installation & Configuration | 31. März 2011
-| MB4-534 | SL 7.0 Installation & Configuration | , 31. Dezember 2013
-| MB4-535 | SL 7.0 Financials | , 31. Dezember 2013
+| MB4-534 | SL 7.0 Installation & Configuration | 31. Dezember 2013
+| MB4-535 | SL 7.0 Financials | 31. Dezember 2013
 | MB4-536 | SL 7.0 Project Series | 31. Dezember 2013
 | MB4-640 | SL 7.0 Customization Manager | 31. Dezember 2013
 | MB4-641 | SL 7.0 Tools for VB | 31. Dezember 2013

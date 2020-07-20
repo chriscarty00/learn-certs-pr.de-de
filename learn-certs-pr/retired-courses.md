@@ -1,6 +1,6 @@
 ---
-title: Microsoft Retired Courses | Microsoft Docs
-description: Microsoft Retired Courses
+title: Microsoft Eingestellte Kurse | Microsoft Docs
+description: Microsoft Eingestellte Kurse
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -12,6 +12,8 @@ ms.author: micsullivan
 # Eingestelltes Lehrmaterial:
 
 In den folgenden Tabellen finden Sie eine Auflistung von Lehrmaterialien, die entweder eingestellt wurden oder bald ausscheiden. Nach der Einstellung werden die Kurse nicht mehr verkauft.
+
+Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem Link: [https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
 
 ## Eingestelltes Lehrmaterial: Instruktorgeführte Ausbildung
 
@@ -519,7 +521,7 @@ In den folgenden Tabellen finden Sie eine Auflistung von Lehrmaterialien, die en
     | 2145 | B | Verwalten Einer Microsoft® Windows Server 2003-Umgebung | Deutsch | 30/6/2018
     | 2149 | B | Maintenance D'un Environnement Microsoft® Windows Server 2003 | Französisch | 30/6/2018
     | 2163 | B | Warten Einer Microsoft® Windows Server™ 2003-Umgebung | Deutsch | 30/6/2018
-    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003: services réseau | Französisch | 30/6/2018
+    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003 : services réseau | Französisch | 30/6/2018
     | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | Deutsch | 30/6/2018
     | 2194 | A | Planification, implémentation et maintenance d’une infrastructure Active Directory® Microsoft® Windows Server™ 2003 | Französisch | 30/6/2018
     | 2226 | B | Instalação, configuração e administração do Microsoft® Windows® XP Professional | Portugiesisch | 30/6/2018
@@ -706,7 +708,7 @@ In den folgenden Tabellen finden Sie eine Auflistung von Lehrmaterialien, die en
     | 80630 | A | Service clientèle dans Microsoft Dynamics® CRM 2013 | Französisch | 30/6/2018
     | 80631 | A | Customer Service in Microsoft Dynamics® CRM 2013 (Japanisch) | Japanisch | 30/6/2018
 
-* Ablauf von Kursmaterialien am,  30. März 2018
+* Ablauf von Kursmaterialien am 30. März 2018
 
     | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
     | --- | --- | --- | --- | --- |
@@ -931,7 +933,7 @@ In den folgenden Tabellen finden Sie eine Auflistung von Lehrmaterialien, die en
     | 50430 | B | Administering Team Foundation Server 2010 | Englisch | 31/8/2015
     | 50523 | A | Deploying the Optimized Desktop with Windows 7 and Office 2010 | Englisch | 31/8/2015
 
-* Ablauf von Kursmaterialien am, , 30. Juni 2015
+* Ablauf von Kursmaterialien am 30. Juni 2015
 
   [Laden Sie die vollständige Liste der ausscheidenden, von Lehrkräften geleiteten Kurse herunter](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
 
@@ -965,7 +967,7 @@ In den folgenden Tabellen finden Sie eine Auflistung von Lehrmaterialien, die en
     | 6464 | A | Visual Studio 2008: ADO.NET 3.5 | Englisch | 25/8/2014
     | 10953 | A | HTML5 Programming | Englisch | 25/8/2014
 
-* Ablauf von Kursmaterialien am, , 31. Dezember 2013
+* Ablauf von Kursmaterialien am, 31. Dezember 2013
 
     | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
     | --- | --- | --- | --- | --- |
@@ -1029,7 +1031,7 @@ In den folgenden Tabellen finden Sie eine Auflistung von Lehrmaterialien, die en
   * [Laden Sie die vollständige Liste der auslaufenden SA-E-Learning-Kurse herunter](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
   * [Laden Sie die vollständige Liste der auslaufenden MSIA-Learning-Kurse herunter.](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
 
-* Ablauf von Kursmaterialien am, , 15. August 2017
+* Ablauf von Kursmaterialien am, 15. August 2017
 
     | Kursnummer | Titel | Sprache | Ablaufdatum |
     | --- | --- | --- | --- |
@@ -1040,7 +1042,7 @@ In den folgenden Tabellen finden Sie eine Auflistung von Lehrmaterialien, die en
   * [Laden Sie die vollständige Liste der auslaufenden SA-E-Learning-Kurse herunter](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
   * [Laden Sie die vollständige Liste der auslaufenden MSIA E-Learning-Kurse herunter](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
 
-* Ablauf von Kursmaterialien am, , 30. Juni 2015
+* Ablauf von Kursmaterialien am 30. Juni 2015
 
   * [Laden Sie die vollständige Liste der auslaufenden E-Learning-Kurse herunter](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
 

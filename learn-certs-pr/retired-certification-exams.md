@@ -59,7 +59,7 @@ Prüfungen suchen, die in den nächsten 12 Monaten aus dem Programm genommen we
 | [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
 | [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
 
-| Einstellung am 30. September 2020 | |
+| Einstellung am  30. September 2020 | |
 | --- | --- |
 | [AZ-300](https://www.microsoft.com/learning/exam-AZ-300.aspx): Microsoft Azure Architect Technologies |  |
 | [AZ-301](https://www.microsoft.com/learning/exam-AZ-301.aspx): Microsoft Azure Architect Design |  |
@@ -274,7 +274,7 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | 70-490 | Recertification for MCSD: Windows Store Apps Using HTML5 | 31. März 2017
 | 70-491 | Recertification for MCSD: Windows Store Apps Using C# | 31. März 2017
 | 70-492 | Upgrade Your MCPD: Web Developer 4 to MCSD: Web Applications | 30. September 2016
-| 70-494 | Recertification for MCSD: Web Applications | 31. März 2017
+| 70-494 | Recertification for MCSD: Web Applications |  31. März 2017
 | 70-499 | Recertification for MCSD: Application Lifecycle Management | 31. März 2017
 | 70-500 | TS: Microsoft Windows Mobile 5.0, Implementing and Managing | 31. März 2011
 | 70-501 | TS: Windows Server 2003 Hosted Environments, Configuration and Management | 31. Oktober 2010
@@ -398,7 +398,7 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | 74-139 | Deploying Business Desktops with Microsoft Windows Server 2003 and Microsoft Office 2003 | 31. Oktober 2010
 | 74-322 | Microsoft Lync Server 2010—Advanced Design and Deployment | 31. Juli 2015
 | 74-324 | Administering Office 365 for Small Businesses | 24. August 2013
-| 74-325 | Administering Office 365 for Small Businesses | 31. Januar 2015
+| 74-325 | Administering Office 365 for Small Businesses | Samstag, 31. Januar 2015
 | 74-335 | Lync Network Readiness Assessment | 30. März 2016
 | 74-338 | Lync 2013 Depth Support Engineer | 30. März 2016
 | 74-353 | Windows UX Design | 31. Januar 2015
@@ -422,7 +422,7 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | 88-966 | Windows Server 2008 R2: Directory Knowledge Exam | 1. Januar 2014
 | 88-968 | Lync Server 2010 Knowledge Exam | 1. Januar 2014
 | 88-969 | Lync Server 2010 Lab Exam | 1. Januar 2014
-| 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | 31. Dezember 2013
+| 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | , 31. Dezember 2013
 | 88-981 | Windows Server 2008 R2: Directory Lab Exam | 1. Januar 2014
 | 98-362 | Windows Development Fundamentals | 31. Juli 2014
 | 98-363 | Web Development Fundamentals | 31. Juli 2015
@@ -477,8 +477,8 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | 31. Dezember 2014
 | MB4-348 | SL 6.5 Financials | 31. März 2011
 | MB4-349 | SL 6.5 Installation & Configuration | 31. März 2011
-| MB4-534 | SL 7.0 Installation & Configuration | 31. Dezember 2013
-| MB4-535 | SL 7.0 Financials | 31. Dezember 2013
+| MB4-534 | SL 7.0 Installation & Configuration | , 31. Dezember 2013
+| MB4-535 | SL 7.0 Financials | , 31. Dezember 2013
 | MB4-536 | SL 7.0 Project Series | 31. Dezember 2013
 | MB4-640 | SL 7.0 Customization Manager | 31. Dezember 2013
 | MB4-641 | SL 7.0 Tools for VB | 31. Dezember 2013

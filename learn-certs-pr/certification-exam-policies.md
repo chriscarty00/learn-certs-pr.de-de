@@ -15,7 +15,7 @@ Auf der ganzen Welt erwarten Partner und Kunden von Microsoft Prüfungen und Zer
 
 ## <a name="security-policies"></a> Sicherheits- und Wiederholungsrichtlinien
 
-Bei Microsoft gelten bestimmte Richtlinien für die Sicherheitsbereiche im Hinblick auf Microsoft-Zertifizierun
+Bei Microsoft gelten bestimmte Richtlinien für die Sicherheitsbereiche im Hinblick auf Microsoft-Zertifizierun.
 
 ### Sperren von Kandidaten
 
@@ -45,22 +45,45 @@ Nachstehend finden Sie einige Beispiele für solches Fehlverhalten, einschließl
 
     Microsoft Worldwide Learning Security Team  
     One Microsoft Way  
-    Redmond, WA 98052 
+    Redmond, WA 98052
 
 3. Das Microsoft Worldwide Learning Security Team prüft alle eingereichten Beschwerdeanträge, führt eine gründliche Untersuchung jedes einzelnen Falles durch und kommuniziert direkt mit dem Kandidaten über den Abschluss der Untersuchung und die endgültige Beschwerdeentscheidung.
 
 ### Richtlinien für die Prüfungswiederholung
 
 1. Allgemeine Richtlinien zur Wiederholung der Microsoft-Zertifizierungsprüfung
-    1. Wenn ein Kandidat bei der erstmaligen Prüfung keinen ausreichenden Punktwert erzielt, muss er mindestens 24 Stunden warten, bevor er die Exam Replay kann.
+    1. Wenn ein Kandidat bei der erstmaligen Prüfung keinen ausreichenden Punktwert erzielt, muss er 24-30 Stunden warten, bevor er die Exam Replay kann. Nach diesem Zeitraum können sich die Kandidaten in ihr [Zertifizierungs-Dashboard](https://aka.ms/certdashboard) einloggen und die Prüfung selbst neu planen.
     2. Wenn ein Kandidat beim zweiten Prüfungsversuch keinen ausreichenden Punktwert erzielt, muss er mindestens 14 Tage warten, bevor er die Prüfung ein drittes Mal ablegt.
-    3. Eine 14-tägige Wartezeit gilt auch für die vierte und fünfte Prüfungswiederholung. Ein Kandidat darf jede Prüfung maximal fünf Mal pro Jahr (12 Monate) ablegen. Dieser Zeitraum von 12 Monaten beginnt mit dem ersten Versuch. Der Kandidat kann dann 12 Monate nach diesem Datum die Exam Replay. Um eine bestimmte Prüfung mehr als fünfmal im Jahr abzulegen oder auf die Zeit zwischen den Versuchen zu verzichten, muss ein Kandidat einen Antrag stellen und die vorherige Genehmigung von Microsoft einholen. Anfragen sind zu richten an [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com). Diese Anfragen sollten die folgenden Informationen enthalten:
-        - MCID
-        - Name
-        - E-Mail
+    3. Eine 14-tägige Wartezeit gilt auch für die vierte und fünfte Prüfungswiederholung.
+    4. Ein Kandidat darf jede Prüfung maximal fünf Mal pro Jahr (12 Monate) ablegen. Dieser Zeitraum von 12 Monaten beginnt mit dem ersten Versuch. Der Kandidat kann dann 12 Monate nach diesem Datum die Exam Replay. Um eine bestimmte Prüfung mehr als fünfmal im Jahr abzulegen oder auf die Zeit zwischen den Versuchen zu verzichten, muss ein Kandidat einen Antrag stellen und die vorherige Genehmigung von Microsoft einholen. Anfragen sind zu richten an [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com). Diese Anfragen sollten die folgenden Informationen enthalten:
+        - Kandidaten-ID
+        - Vor-/Nachname
+        - E-Mail, die zu Ihrer Kandidaten-ID gehört
+        - Prüfungsregistrierungs-ID
         - Prüfungsnummer
+        - Fehlerbeschreibung
+        - Pearson VUE-Fallnummer
 
-2. Richtlinie zur Wiederholung der Prüfungen für Microsoft Technology Associate (MTA) und Microsoft Certified Educator (MCE)
+    **Ausnahmen für die Wiederholung von Prüfungen werden für die folgenden Szenarien akzeptiert:**
+      - Fehler aufgrund eines Lab-Absturzes
+      - Fehler aufgrund von Problemen mit der Internetverbindung
+      - Fehler aufgrund eines Geräteausfalls
+      - Anfragen, die eine Pearson VUE-Fallnummer enthalten
+
+    **Ausnahmen für die Wiederholung von Prüfungen werden bei folgenden Szenarien nicht akzeptiert:**
+      - Misserfolg aufgrund mangelnder Vorbereitung, Kenntnisse, Fähigkeiten oder Fertigkeiten eines Kandidaten
+      - Anfragen, die keine Pearson VUE-Fallnummer enthalten
+
+    Ausnahmeanträge für Prüfungswiederholungen sind zu senden an [mlsecure@microsoft.com](mailto: mlsecure@microsoft.com). Diese Anfragen sollten die folgenden Informationen enthalten:
+      - Kandidaten-ID
+      - Vor-/Nachname
+      - E-Mail, die zu Ihrer Kandidaten-ID gehört
+      - Prüfungsregistrierungs-ID
+      - Prüfungsnummer
+      - Fehlerbeschreibung
+      - Pearson VUE-Fallnummer
+
+2. Richtlinie zur Wiederholung der Prüfungen für Microsoft Technology Associate (MTA) und Microsoft Certified Educator (MCE):
     1. Wenn ein Kandidat bei der erstmaligen Prüfung keinen ausreichenden Punktwert erzielt, muss er 24 Stunden warten, bevor er die Exam Replay kann.
     2. Wenn ein Kandidat beim zweiten Prüfungsversuch keinen ausreichenden Punktwert erzielt, muss er mindestens sieben Tage warten, bevor er die Prüfung ein drittes Mal ablegt.
     3. Eine siebentägige Wartezeit gilt für jede nachfolgende Prüfungswiederholung.
@@ -167,7 +190,7 @@ Aktualisiert: Mai 2018
 
 **BITTE LESEN SIE DIESE MICROSOFT ZERTIFIZIERUNGSPRÜFUNGSVEREINBARUNG ("VEREINBARUNG") SORGFÄLTIG DURCH. DURCH KLICKEN AUF DIE SCHALTFLÄCHE "JA" BESTÄTIGEN SIE, DASS SIE DIE BERECHTIGUNG ZUM ABSCHLUSS DIESER VEREINBARUNG HABEN UND STIMMEN ALLEN GESCHÄFTSBEDINGUNGEN DIESER VEREINBARUNG ZU. WENN SIE NICHT EINVERSTANDEN SIND, WÄHLEN SIE "NEIN". SIE MÜSSEN "JA" WÄHLEN, UM DIE ZERTIFIZIERUNGSPRÜFUNG FÜR MICROSOFT ZU ABSOLVIEREN.**
 
-Diese Vereinbarung wird zum Zeitpunkt Ihrer Zustimmung zwischen Ihnen (**Sie** oder **Ihrem/Ihrer**) und der Microsoft Corporation (**Microsoft**) abgeschlossen.
+Diese Vereinbarung wird zum Zeitpunkt Ihrer Zustimmung zwischen Ihnen (**Sie** oder **Ihrem/Ihrer**) und der Microsoft Corporation (***Microsoft***) abgeschlossen.
 
 1. **VERTRAULICHKEIT**
 
@@ -293,7 +316,7 @@ Diese Microsoft-Zertifizierungsprogramm-Vereinbarung (**"Vereinbarung"**) ist ei
 
         1. Sie stimmen zu, dass Sie (i) sich jeglicher Verhaltensweisen enthalten, die den Ruf von Microsoft schädigen könnten, (ii) betrügerische, irreführende oder unethische Praktiken vermeiden, (iii) keine Zusicherungen, Gewährleistungen oder Garantien für Kunden im Namen von Microsoft geben, (iv) alle geltenden U.S.-amerikanischen Exportbestimmungen und andere anwendbare Gesetze und Regierungsbestimmungen befolgen und (v) alle Urheberrechte und andere Rechte zum Schutz geistigen Eigentums beachten.
         2. Sie dürfen keine Werbung oder Verkaufsförderung betreiben oder auf sonstige Weise andeuten, dass Sie bei Microsoft beschäftigt oder Microsoft angeschlossen sind oder von Microsoft unterstützt werden, mit Ausnahme der Angabe, dass Sie alle Anforderungen für die betreffenden, von Ihnen erworbenen Qualifikationen erfüllt haben. Während der Laufzeit dieser Vereinbarung nehmen Sie folgenden Text in jede Vereinbarung auf, gemäß der Sie Dienstleistungen unter Einbeziehung von Microsoft-Technologien erbringen:
-    
+
              "*Microsoft ist keine Partei dieser Vereinbarung und Microsoft übernimmt keinerlei Haftung in Bezug auf die Dienstleistungen, die Gegenstand dieses Vertrags sind. Der Microsoft-Zertifizierungsnachweis sagt aus, dass ich die entsprechenden Microsoft-Zertifizierungsanforderungen erfüllt habe. Die von mir erbrachten Dienstleistungen werden nicht von Microsoft gefördert oder unterstützt.*”
         3. In einigen Staaten und Ländern ist die Verwendung des Begriffs „Engineer“ (Techniker, Ingenieur) gesetzlich geregelt. Sie sollten diese Gesetze einhalten, falls Sie eine Microsoft-Zertifizierung mit der Bezeichnung „Microsoft Certified Systems Engineer“ erlangen.
 
@@ -329,7 +352,6 @@ Diese Microsoft-Zertifizierungsprogramm-Vereinbarung (**"Vereinbarung"**) ist ei
         5. Sie haben sich an gesetzlich untersagten Aktivitäten beteiligt,
         6. Eine staatliche Behörde oder ein Gericht stellt fest, dass Dienstleistungen, die Sie im Hinblick auf die Technologien von Microsoft erbracht haben und auf die sich Ihre Microsoft-Zertifizierung bezieht, fehlerhaft sind.
         7. Sie geben Ihren Zertifizierungsstatus, Ihre Verbindung zu Microsoft-Partnern oder eine andere Beziehung zu Microsoft falsch an. Je nach Schwere der Nichteinhaltung können Sie auch dauerhaft dezertifiziert und aus dem Microsoft Zertifizierungsprogramm ausgeschlossen werden. In diesem Fall verlieren Sie auch dauerhaft Ihre Microsoft-Zertifizierungsdaten.
-        
 
     3. *Automatische Kündigung*: Diese Vereinbarung endet automatisch, wenn Sie Ihren Status im Microsoft-Zertifizierungsprogramm verlieren oder wenn Microsoft das Programm kündigt.
 
@@ -369,7 +391,7 @@ Diese Microsoft-Zertifizierungsprogramm-Vereinbarung (**"Vereinbarung"**) ist ei
            Microsoft Regional Sales Corporation   
            438B Alexandra Road #04-09/12   
            Block B, Alexandra Technopark   
-           Singapore 119968   
+           Singapur 119968   
 
        4. Die Adresse von Microsoft Japan ist:   
 
@@ -551,7 +573,7 @@ Wenn Sie zusätzliche Zeit benötigen, weil die Prüfung nicht in Ihrer Muttersp
 
 - Die Stornierung oder Neuterminierung der Prüfung innerhalb von mindestens 6 Werktagen vor Ihrem Termin ist kostenfrei.
 - Die Stornierung oder Neuterminierung Ihrer Prüfung innerhalb von 5 Werktagen vor der registrierten Prüfungszeit ist kostenpflichtig.
-- Wenn Sie Ihre Prüfungstermine nicht einhalten oder nicht neu vereinbaren oder Ihren Termin nicht mindestens 24 Stunden vor Ihrem vereinbaren Termin stornieren, verfällt Ihre gesamte Prüfungsgebühr. Arbeitstage sind Montag-Freitag, Urlaubstage sind nicht enthalten.
+- Wenn Sie Ihre Prüfungstermine nicht einhalten oder nicht neu vereinbaren oder Ihren Termin nicht mindestens 24 Stunden vor Ihrem vereinbaren Termin stornieren, verfällt Ihre gesamte Prüfungsgebühr. Arbeitstage sind Montag-Urlaubstage sind nicht enthalten.
 
 Das Umplanen oder Absagen Ihres geplanten Prüfungstermins kann über das [Zertifizierungs-Dashboard](https://aka.ms/certdashboard) erfolgen.
 
@@ -587,8 +609,8 @@ Die Prüfungszeit variiert je nach Art der Prüfung, die Sie ablegen.
 | Mitarbeiter- und Expertenprüfungen für Berufstätigkeiten      | 180 Minuten | 210 Minuten |
 | Grundlagen der Berufstätigkeit-Prüfungen | 60 Minuten | 90 Minuten
 | Mitarbeiter- und Expertenrollen-Prüfungen in Verbindung mit Laboren | 180 Minuten | 210 Minuten
-| MTA-Prüfungen, die über akademische Kanäle durchgeführt werden 45 Minuten | 50 Minuten
-| MTA-Prüfungen, die über kommerzielle Kanäle durchgeführt werden 45 Minuten | 80 Minuten
+| MTA-Prüfungen, die über akademische Kanäle durchgeführt werden | 45 Minuten | 50 Minuten
+| MTA-Prüfungen, die über kommerzielle Kanäle durchgeführt werden | 45 Minuten | 80 Minuten
 | Dynamics-Prüfungen mit (mit MB#-nnn-Nummerierung) | 120 Minuten | 150 Minuten
 | Alle sonstigen 70-nnn Prüfungen | 150 Minuten | 180 Minuten
 | MCSA-Prüfungen | 120 Minuten | 150 Minuten
@@ -833,7 +855,7 @@ Eine Verzögerung zwischen Fragen hat keine Auswirkungen auf die Antworten, die 
 
 Nein. Die Befragung am Anfang der Prüfung hat keine Auswirkungen auf den Prüfungsinhalt oder die Bewertung. Es handelt sich lediglich um ein Bewertungs-Tool, das unsere Prüfungspsychometriker verwenden, um die Qualität, Richtigkeit und Genauigkeit der Prüfung über ihren gesamten Lebenszyklus hinweg sicherzustellen.
 
-***Ich habe meine erste Microsoft-Zertifizierungsprüfung bestanden. Was kann ich jetzt tun?**
+**Ich habe meine erste Microsoft-Zertifizierungsprüfung bestanden. Was kann ich jetzt tun?**
 
 Herzlichen Glückwunsch! Für die nächsten Schritte und verfügbare Vorteile, siehe [Dashboard für Vorteile und Prüfungen](https://aka.ms/certdashboard). Melden Sie sich mit demselben Microsoft-Konto an, mit dem Sie sich für die Prüfung registriert haben. Bitte beachten Sie, dass Certiport-Zertifizierungsausweise derzeit nicht im Dashboard angezeigt werden.
 
@@ -845,7 +867,7 @@ Wenn Sie für die Wiederholung der Prüfung bereit sind, planen Sie einen Termin
 
 **Wo kann ich zusätzliche Informationen zu meinen Schwachstellen finden?**
 
-Obwohl Microsoft Certification exams Feedback zu den Bereichen bieten, in denen die Prüfungsteilnehmer weiter an der Entwicklung ihrer Kompetenzen arbeiten müssen, sind die Prüfungen nicht dafür ausgelegt, eine detaillierte Diagnose oder detailliertes Feedback zu geben. Wir empfehlen Ihnen, den Abschnitt „Bewertete Kompetenzen“ auf der Seite mit den Prüfungsdetails zu überprüfen und Ihre Kompetenzen ehrlich im Hinblick darauf einzuschätzen, was in der Prüfung bewertet wird. Der beste Weg, dies zu tun, ist die aufgelisteten Kompetenzen zu üben und sich alle Schwierigkeiten zu notieren. Üben Sie, bis diese Schwierigkeiten beseitigt sind. Sie könnten auch andere fragen, wie sie diese Aufgaben durchführen. Gehen diese dabei anders vor? Verstehen Sie warum. Lesen Sie White Papers, konsultieren Sie Docs etc. um zusätzliche Informationen zu erhalten in Bezug auf die Aufgaben in der Prüfung. Nutzen Sie die Ressourcen im Abschnitt „Vorbereitungsoptionen“ der Übersichtsseite der Prüfung und die Study Groups, die Sie jeweils unten auf den Seiten finden.
+Obwohl Microsoft Certification exams Feedback zu den Bereichen bieten, in denen die Prüfungsteilnehmer weiter an der Entwicklung ihrer Kompetenzen arbeiten müssen, sind die Prüfungen nicht dafür ausgelegt, eine detaillierte Diagnose oder detailliertes Feedback zu geben. Wir empfehlen Ihnen, den Abschnitt „Bewertete Kompetenzen“ auf der Seite mit den Prüfungsdetails zu überprüfen und Ihre Kompetenzen ehrlich im Hinblick darauf einzuschätzen, was in der Prüfung bewertet wird. Der beste Weg, dies zu tun, ist die aufgelisteten Kompetenzen zu üben und sich alle Schwierigkeiten zu notieren. Üben Sie, bis diese Schwierigkeiten beseitigt sind. Sie könnten auch andere fragen, wie sie diese Aufgaben durchführen. Gehen diese dabei anders vor? Verstehen Sie warum. Lesen Sie White Papers, konsultieren Sie Docs etc. um zusätzliche Informationen zu erhalten in Bezug auf die Aufgaben in der Prüfung. Prüfen Sie die Ressourcen in den Materialien für die Vorbereitung auf der Seite mit den Prüfungsdetails,
 
 Schließlich stehen [Microsoft Official Practice Tests](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) für einige unserer Zertifizierungsprüfungen zur Verfügung. Diese können Ihnen mehr Informationen über Ihre speziellen Stärken und Schwächen liefern. Allerdings ist das Bestehen eines Praxistests keine Garantie dafür, dass Sie die Zertifizierungsprüfung bestehen werden.
 
@@ -976,7 +998,7 @@ Die Anzahl der Labore und Aufgaben der Prüfung ist auf der Übersichtsseite vor
 
 **Warum enthält eine Prüfung mit Labors traditionelle Fragen wie Multiple Choice, Drag and Drop etc.?**
 
-Aus verschiedenen Gründen können wir nicht alle kritischen Kompetenzen mit Laboren prüfen. Beispielsweise, Wir können von Ihnen nicht verlangen, Aufgaben abzuschließen, die mehr als ein paar Minuten benötigen oder größere Ressourcen für ihre Funktion benötigen, daher bewerten wir auch weiterhin Kenntnisse mit Fragentypen, die der Prüfungserfahrung angemessen sind.
+Aus verschiedenen Gründen können wir nicht alle kritischen Kompetenzen mit Laboren prüfen. beispielsweise, Wir können von Ihnen nicht verlangen, Aufgaben abzuschließen, die mehr als ein paar Minuten benötigen oder größere Ressourcen für ihre Funktion benötigen, daher bewerten wir auch weiterhin Kenntnisse mit Fragentypen, die der Prüfungserfahrung angemessen sind.
 
 **Wie viele Labore gibt es in einer Prüfung? Wie viele Aufgaben gibt es pro Labor?**
 
@@ -994,7 +1016,7 @@ Die meisten Aufgaben bringen einen Punkt, sollte eine Aufgabe mehr Punkte bringe
 
 **Wie viel Zeit habe ich zum Abschluss der Labore?**
 
- Labore werden zeitmäßig nicht anders berechnet als der Rest der Prüfung. Zu Beginn der Prüfung werden die Anzahl von Labors, Fallbeispielen und Fragen angegeben, ebenso die zur Verfügung stehende Gesamtzeit. Sie müssen alle Fragen beantworten und die Aufgaben der Labore gelöst haben, bevor die Zeit verstrichen ist. Teilen Sie sich Ihre Zeit also gut ein, so dass Sie alles beenden können.
+Labore werden zeitmäßig nicht anders berechnet als der Rest der Prüfung. Zu Beginn der Prüfung werden die Anzahl von Labors, Fallbeispielen und Fragen angegeben, ebenso die zur Verfügung stehende Gesamtzeit. Sie müssen alle Fragen beantworten und die Aufgaben der Labore gelöst haben, bevor die Zeit verstrichen ist. Teilen Sie sich Ihre Zeit also gut ein, so dass Sie alles beenden können.
 
 **Habe ich genug Zeit zum Abschluss der Labore?**
 
@@ -1034,7 +1056,7 @@ Nein. Die bewerteten Kompetenzen bleiben unabhängig vom Format der Frage gleich
 
 **Gibt es spezifische Anforderungen an das Testzentrum für Prüfungen mit Laboren? Viele Testzentren sind nicht aufgelistet, wenn ich versuche, die Prüfungen mit Labors zu planen, aber dieselben Testzentren sind für Prüfungen aufgelistet, die dies nicht tun.**
 
-Prüfungen, zu denen auch Labors gehören, erfordern Testzentren, die bestimmte Anforderungen an die Internetkonnektivität erfüllen, so dass eine kleinere Anzahl von Testzentren zur Verfügung steht. Da die Labore zu weiteren der neuen funktionsspezifischen Prüfungen hinzukommen, werden sie auch den gleichen Testzentren angehören. Wenn Sie bestimmte Testzentren im Sinn haben, wenden Sie sich an das jeweilige Testzentrum, um zu erfahren, ob es Labore liefern kann; alternativ werden sie nach Auswahl der Prüfung nicht mehr als verfügbare Testzentren aufgeführt. In diesem Fall empfehlen wir, ein anderes Prüfungszentrum zu finden oder die Prüfung durch Online-Proctoring abzulegen. Hinweis Möglicherweise können Sie Labs mittels Online-Beaufsichtigung absolvieren. Dies hängt jedoch von Ihrer Bandbreite und Internetverbindung ab.
+Prüfungen, zu denen auch Labors gehören, erfordern Testzentren, die bestimmte Anforderungen an die Internetkonnektivität erfüllen, so dass eine kleinere Anzahl von Testzentren zur Verfügung steht. Da die Labore zu weiteren der neuen funktionsspezifischen Prüfungen hinzukommen, werden sie auch den gleichen Testzentren angehören. Wenn Sie bestimmte Testzentren im Sinn haben, wenden Sie sich an das jeweilige Testzentrum, um zu erfahren, ob es Labore liefern kann; alternativ werden sie nach Auswahl der Prüfung nicht mehr als verfügbare Testzentren aufgeführt. In diesem Fall empfehlen wir, ein anderes Prüfungszentrum zu finden oder die Prüfung durch Online-Proctoring abzulegen. Hinweis: Möglicherweise können Sie Labs mittels Online-Beaufsichtigung absolvieren. Dies hängt jedoch von Ihrer Bandbreite und Internetverbindung ab.
 
 ### Rollenbasierte Zertifizierungen
 

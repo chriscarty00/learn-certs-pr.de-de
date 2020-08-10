@@ -11,34 +11,72 @@ ms.author: micsullivan
 ---
 # Über Online-Prüfungen mit Pearson VUE
 
-Sie können jede rollenbasierte oder grundlegende Microsoft-Zertifizierungsprüfung bei Pearson VUE online und bequem von zu Hause oder vom Büro aus ablegen. Durch die beaufsichtigte Online-Prüfung bleibt die Integrität der Prüfungsergebnisse erhalten, indem Ihre Prüfungserfahrung von einem Aufsichtsführenden per Webcam und Mikrofon überwacht wird. Wenn Sie an einer Online-Prüfung durch Pearson VUE interessiert sind und vor der Registrierung besser verstehen möchten, was Sie erwartet, werden auf dieser Seite die Details erläutert. Sehen Sie sich das [YouTube-Video](https://youtu.be/Gm1PqdbwBP0) von Pearson VUE an, um mehr über die Teilnahme an beaufsichtigten Online-Prüfungen zu erfahren. (Dieser Artikel behandelt keine von Certiport durchgeführten Prüfungen.).
+Sie können jede rollenbasierte oder grundlegende Microsoft-Zertifizierungsprüfung bei Pearson VUE online und bequem von zu Hause oder vom Büro aus ablegen. Durch die beaufsichtigte Online-Prüfung bleibt die Integrität der Prüfungsergebnisse erhalten, indem Ihre Prüfungserfahrung von einem Aufsichtsführenden per Webcam und Mikrofon überwacht wird. Wenn Sie an einer Online-Prüfung durch Pearson VUE interessiert sind und vor der Registrierung besser verstehen möchten, was Sie erwartet, werden auf dieser Seite die Details erläutert. Sehen Sie sich das [YouTube-Video](https://youtu.be/Gm1PqdbwBP0) von Pearson VUE an, um mehr über die Teilnahme an beaufsichtigten Online-Prüfungen zu erfahren. (Dieser Artikel behandelt keine von Certiport durchgeführten Prüfungen).
 
 
-## <a name="take-a-system-test"></a> Führen Sie einen Systemtest durch
+## <a name="take-a-system-test"></a> Machen Sie einen Systemtest
 
-Führen Sie jetzt einen Systemtest durch, um zu sehen, ob Ihr Computer und Standort kompatibel mit der Online-Proctoring-Software sind, bevor Sie Ihre Prüfung planen.
+Führen Sie einen [Systemtest](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) auf demselben Computer und an demselben Ort aus, von dem aus Sie testen möchten, um zu überprüfen, ob Ihr Computer, Standort und Internet vorhanden sind Die Verbindung ist mit der Pearson VUE OnVUE-Software und den Testrichtlinien kompatibel.
 
 [Systemtest jetzt machen](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)
 
 Online-Prüfungen sind in den meisten Ländern verfügbar. Beachten Sie, dass Begrüßungsunterstützung, Unterstützung durch den Aufsichtsführenden und Beaufsichtigungs-Software nur in einer begrenzten Anzahl von Sprachen verfügbar sind. Sie müssen die Sprache während des Registrationsprozesses zur Prüfung auswählen. Diese kann sich von der Sprache unterscheiden, in der Sie die Prüfung ablegen. Die meisten Kandidaten haben unabhängig von der Sprache der Prüfung nur die Möglichkeit, eine Online-Prüfung mit englischsprachiger Begrüßungsunterstützung, Unterstützung durch den Aufsichtsführenden und Beaufsichtigungs-Software abzulegen.
 
-**WARNUNG! Bevor Sie sich für eine Online-Prüfung anmelden:**
+### WARNUNG! Bevor Sie sich für eine Online-Prüfung anmelden:
 
-1. **Führen Sie den erforderlichen [Systemtest](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) auf demselben Computer und an demselben Ort durch, von dem aus Sie Ihren Test machen möchten.**  
-2. **Vergewissern Sie sich, dass Ihre ID kompatibel ist (lesen Sie die [Anforderungen](https://home.pearsonvue.com/Policies/1S/English))  und dass der Name in Ihrem Microsoft-Zertifizierungsprofil genau mit dem Namen auf der von Ihnen angegebenen Identifikation übereinstimmt, die Sie verwenden, um den Prüfungstermin einzugeben.**  
-3. **Überprüfen Sie die folgenden technischen, System-, Umgebungs- und Testprotokollanforderungen.**
+1. Führen Sie den erforderlichen [Systemtest](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) auf demselben Computer und an demselben Ort durch, von dem aus Sie Ihren Test machen möchten.
+2. Stellen Sie sicher, dass Ihre ID mit der Pearson VUE [ID-Richtlinie](https://home.pearsonvue.com/Policies/1S/English) übereinstimmt und dass der Name in Ihrem Microsoft-Zertifizierungsprofil genau mit dem Namen auf der Ihnen von der Regierung ausgestellten ID übereinstimmt, die Sie vorweisen, um an der Prüfung teilzunehmen. Wenn Sie den Namen Ihres Microsoft-Zertifizierungsprofils ändern müssen, wenden Sie sich an [Zertifizierungssupport](https://aka.ms/mcpforum). Ein Forum-Moderator hilft Ihnen dabei.
+3. Aktualisieren Sie Ihr Microsoft-Zertifizierungsprofil mit Ihrer Handynummer, einschließlich der Landesvorwahl, falls Pearson VUE Sie während der Prüfung kontaktieren muss. Wenn Sie während der Prüfung die Verbindung verlieren, kann Pearson VUE nur so Kontakt zu Ihnen aufnehmen.
+4. Lesen Sie die Geheimhaltungsvereinbarung ([NDA](/learn/certifications/certification-exam-policies#non-disclosure-agreement)). Zu Beginn Ihrer Prüfung müssen Sie die NDA und die Allgemeinen Nutzungsbedingungen für Microsoft-Zertifizierungsprüfungen lesen und diesen zustimmen. Sie haben nur 5 Minuten Zeit, um es zu lesen. Lesen Sie es vor Ihrer Prüfung, um sicherzustellen, dass Sie die Anforderungen vollständig verstehen und ihnen zustimmen können, ohne dass Ihnen die Zeit ausgeht. Wenn Sie der NDA nicht in der vorgegebenen Zeit zustimmen, können Sie die Prüfung nicht ablegen.
+5. Überprüfen Sie die technischen, System-, Umgebungs- und Prüfprotokollanforderungen unten.
+6. Richten Sie den lokalen Administratorzugriff auf Ihren Computer ein.
+
+### Microsoft Windows
+<div>
+<table style="border:0px;">
+    <tbody>
+        <tr>
+            <td>
+<ul>
+<li>Klicken Sie mit der rechten Maustaste auf die Schaltfläche Start</li>
+<li> Wählen Sie Computerverwaltung> Lokale Benutzer und Gruppen> Benutzer> Klicken Sie mit der rechten Maustaste auf Administrator></li>
+<li> Wählen Sie Kennwort festlegen> Rechtsklick auf Administrator> Benutzername / Kennwort erstellen> ></li>
+<li> Konto abwählen ist deaktiviert> Benutzer abwählen muss Kennwort beim nächsten Start ändern></li>
+<li>Wählen Sie OK</li></ul>
+            </td>
+        </tr>
+        <tr><td></td></tr>
+    </tbody>
+</table>
+</div>
+
+Besuchen Sie [Microsoft Support](https://support.microsoft.com/allproducts), wenn Sie Hilfe beim Einrichten der lokalen Administratorrechte auf Ihrem Microsoft-Computer benötigen, und wählen Sie die Produktkategorie Ihres Geräts aus.
+<br/>
+
+### Apple Mac
+<div>
+<table style="border:0px;">
+    <tbody>
+        <tr>
+            <td>
+<ul>
+<li> Starten Sie die Systemeinstellungen über das Apple-Menü oder den Ordner „Programme"</li>
+<li> Wählen Sie Benutzer & Gruppen</li>
+<li>Wählen Sie das Schlosssymbol und geben Sie Ihr Passwort ein. Wählen Sie OK</li>
+<li> Wählen Sie das Pluszeichen (+) unter der Liste der Benutzerkonten</li>
+<li> Wählen Sie Administrator aus dem Dropdown-Menü der Accounttypen</li>
+<li>Geben Sie die angeforderten Informationen ein: den vollständigen Namen, den Kontonamen, das Passwort und den Passworthinweis des neuen Kontoinhabers</li>
+<li>Wählen Sie Benutzer erstellen</li></ul>
+            </td>
+        </tr>
+        <tr><td></td></tr>
+    </tbody>
+</table>
+</div>
+
+Besuchen Sie [Apple Support](https://support.apple.com/), um Hilfe beim Einrichten der lokalen Administratorrechte auf Ihrem Apple-Computer zu erhalten.
 
 ## Systemanforderungen
-
-Online-Prüfungen können durch Proxyserver, die Überprüfung/Filterung von Netzwerkpaketen oder strenge Netzwerksicherheitskonfigurationen gestört werden.
-
-Das auf dem lokalen Computer angemeldete Windows-Benutzerkonto muss für die Bereitstellung der Prüfung über lokale Administratorberechtigungen verfügen.
-
-Einige Antivirussoftware-Produkte können zu Leistungsproblemen führen. Bitte deaktivieren Sie alle Antivirenprogramme während der Prüfung.
-
-Möglicherweise müssen Sie sicherstellen, dass Ihre Sicherheitssoftware die Ausführung von JavaScript, Adobe Air-Anwendungen oder Adobe Flash Player-Erweiterungen nicht blockiert.
-
-Möglicherweise müssen Sie in Ihrer Internetsicherheits- und Antivirussoftware eine Ausnahme für die ausführbare Pearson Secure Browser-Datei konfigurieren.
 
 ### Mindestanforderungen
 
@@ -55,7 +93,7 @@ Möglicherweise müssen Sie in Ihrer Internetsicherheits- und Antivirussoftware 
             <p>Mac OSX 10.13 und höher (außer Beta-Versionen)</p>
             <p>Hinweis: Windows-Betriebssysteme müssen die Echtheitsprüfung von Windows bestehen.</p>
             <p>
-            Windows Vista, Windows XP, Windows 7 und alle Linux / Unix-basierten Betriebssysteme sind für die Durchführung von Prüfungen strengstens untersagt.</p>
+            Windows Vista, Windows XP, Windows 7 und alle Linux/Unix-basierten Betriebssysteme sind für die Durchführung von Prüfungen strengstens untersagt.</p>
             </td>
         </tr>
         <tr>
@@ -145,9 +183,20 @@ Möglicherweise müssen Sie in Ihrer Internetsicherheits- und Antivirussoftware 
 </table>
 </div>
 
-[Lesen Sie die Anforderungen zur Fehlerbehebung auf Netzwerkadministratorebene](https://home.pearsonvue.com/op/OnVUE-min-specs-Network-Admin-Requirements)
+### Weitere Hinweise und Tipps:
 
 Führen Sie vor der Registrierung und dem Kauf Ihrer Prüfung den erforderlichen [Systemtest](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) auf demselben Computer und an demselben Ort durch, an dem Sie den Test durchführen möchten.
+Online-Prüfungen können durch Proxyserver, die Überprüfung/Filterung von Netzwerkpaketen oder strenge Netzwerksicherheitskonfigurationen gestört werden.
+Das auf dem lokalen Computer angemeldete Windows-Benutzerkonto muss für die Bereitstellung der Prüfung über lokale Administratorberechtigungen verfügen.
+Einige Antivirussoftware-Produkte können zu Leistungsproblemen führen. Bitte deaktivieren Sie alle Antivirenprogramme während der Prüfung.
+Möglicherweise müssen Sie sicherstellen, dass Ihre Sicherheitssoftware die Ausführung von JavaScript, Adobe Air-Anwendungen oder Adobe Flash Player-Erweiterungen nicht blockiert.
+
+- Testen Sie auf einem PC und nicht auf einem Arbeitscomputer, da auf Arbeitscomputern Software installiert ist, die den Start der OnVUE-Software verhindert.
+- Verwenden Sie nach Möglichkeit einen Desktop-Computer anstelle eines Laptops.
+Möglicherweise müssen Sie in Ihrer Internetsicherheits- und Antivirussoftware eine Ausnahme für die ausführbare Pearson Secure Browser-Datei konfigurieren.
+- Wenn Sie eine online beaufsichtigte Prüfung ablegen, verwenden Sie nach Möglichkeit eine verkabelte Internetverbindung.
+- Nicht an einen mobilen Hotspot binden; dies ist ausdrücklich untersagt.
+[Lesen Sie die Anforderungen zur Fehlerbehebung auf Netzwerkadministratorebene](https://home.pearsonvue.com/op/OnVUE-min-specs-Network-Admin-Requirements).
 
 ## Beteiligte Länder
 
@@ -175,7 +224,6 @@ Ihre Büro- oder Heimumgebung muss die folgenden Anforderungen erfüllen:
 ### Prüfung der Identität:
 
 Sie müssen einen aktuellen amtlichen Ausweis wie z. B. einen der folgenden vorweisen:
-
   - Führerschein
   - Militär-ID
   - Reisepass
@@ -183,7 +231,7 @@ Sie müssen einen aktuellen amtlichen Ausweis wie z. B. einen der folgenden vor
   - Ausländerregistrierungskarte (Green Card, Daueraufenthaltsgenehmigung, Visum)
   - Von der Regierung ausgestellter Ausweis in der Landessprache (nicht in römischen Zeichen) - wird nur akzeptiert, wenn er aus dem Land stammt, in dem der Kandidat den Test durchführt_
 Ein Webcam-Foto wird von Ihnen und Ihrem Lichtbildausweis gemacht.
-- Der Name auf der ID muss genau mit dem Namen in Ihren Microsoft-Zertifizierungs- und Pearson VUE-Profilen übereinstimmen.
+- Der Name auf dem von der Regierung ausgestellten Ausweis, den Sie für die Teilnahme an der Prüfung vorlegen, muss genau mit dem Namen in Ihrem Microsoft-Zertifizierungsprofil übereinstimmen. Wenn Sie den Namen Ihres Microsoft-Zertifizierungsprofils ändern müssen, wenden Sie sich vor dem Prüfungstag an [Zertifizierungssupport](https://aka.ms/mcpforum). Ein Forum-Moderator hilft Ihnen dabei.
 Minderjährige unter 18 Jahren dürfen einen gültigen Schülerausweis zur Identifikation vorlegen. Die Erziehungsberechtigten des Kandidaten müssen ebenfalls einen gültigen Ausweis vorlegen und eine verbale Zustimmung während des Eincheckvorgangs geben.
 
 ### Ansicht des Arbeitsbereichs:
@@ -203,7 +251,7 @@ Der Arbeitsbereich sollte frei von allen Materialien, einschließlich der folgen
 - Wenn Sie eine Krawatte tragen, werden Sie aufgefordert, die Krawatte anzuheben, um dem Begrüßer zu zeigen, dass unter der Krawatte nichts versteckt ist.
 - Wenn Sie lange Haare haben, die Ihre Ohren bedecken, werden Sie aufgefordert, Ihre Haare nach hinten zu streichen, um dem Begrüßer zu zeigen, dass an Ihrem Ohr nichts befestigt ist (z. B. ein Bluetooth-Ohrhörer).
 
-### Keine Pausen / Essen / Trinken
+### Keine Pausen/Essen/Trinken
 
 - Pausen, egal aus welchem Grund, sind während der Prüfung nicht zulässig. Sie verstehen und erklären sich damit einverstanden, dass bei einer Pause Ihr Prüfungsergebnis ungültig wird und Sie die Prüfung später nicht wieder aufnehmen können.
 - Essen, Trinken, Rauchen und Kaugummi kauen sind während der Prüfung verboten.
@@ -225,7 +273,8 @@ Der Arbeitsbereich sollte frei von allen Materialien, einschließlich der folgen
 
 ### Weitere wichtige Informationen
 
-- Wie bei jeder anderen Microsoft-Zertifizierungsprüfung müssen Sie die Bedingungen in unserer [Geheimhaltungsvereinbarung](/learn/certifications/certification-exam-policies#non-disclosure-agreement) (NDA) lesen und diesen zustimmen, sowie die Verhaltensanforderungen für Bewerber erfüllen. Dazu gehört unter anderem Folgendes:
+- Wie bei jeder anderen Microsoft-Zertifizierungsprüfung müssen Sie die Bedingungen in unserer [Geheimhaltungsvereinbarung](/learn/certifications/certification-exam-policies#non-disclosure-agreement) (NDA) lesen und diesen zustimmen. Sie haben nur 5 Minuten Zeit, um es zu lesen. Wir empfehlen Ihnen daher, es vor Ihrer Prüfung zu lesen, um sicherzustellen, dass Sie die Anforderungen vollständig verstehen und ihnen zustimmen können, ohne dass Ihnen die Zeit ausgeht. Wenn Sie der NDA nicht in der vorgegebenen Zeit zustimmen, können Sie die Prüfung nicht ablegen.
+- Sie müssen auch die Verhaltensanforderungen des Kandidaten erfüllen. Dazu gehört unter anderem Folgendes:
   - Sie dürfen keine Fragen oder Antworten aus der Prüfung kopieren oder aufzeichnen.
   - Sie dürfen die in der Prüfung enthaltenen Fragen oder Antworten nicht mit anderen teilen oder diskutieren.
 - Wenn Sie die [Candidate Rules Agreement](https://www.pearsonvue.com/rp/rp_candidate_rules_agreement.pdf) nicht befolgen oder in Verdacht geraten, zu betrügen oder die Software von Pearson VUE oder seinem Subunternehmer zu manipulieren, oder wenn ein Dritter in dem Raum gesehen wird, in dem Sie während der physisch sitzen, bricht der Aufsichtsführende die Prüfung sofort ab und meldet den Verstoß zusammen mit Audio- und / oder Videobeweisen an Pearson VUE und Microsoft. Ihre Prüfung kann für ungültig erklärt werden und Microsoft ergreift unter Umständen andere Maßnahmen, wie z. B. Ihre Zertifizierungen zu widerrufen und Sie von jedweder zukünftigen Beteiligung am Microsoft-Zertifizierungsprogramm auszuschließen.
@@ -233,35 +282,36 @@ Der Arbeitsbereich sollte frei von allen Materialien, einschließlich der folgen
 ## Melden Sie sich für eine Online-Prüfung an
 
 - Online-Prüfungen, die über Pearson VUE angeboten werden, sind in den meisten Ländern für rollenbasierte Prüfungen oder Grundlagenprüfungen verfügbar. Wenn in Ihrem Land Online-Prüfungen verfügbar sind, sind diese in denselben Sprachen verfügbar wie in den Testzentren in Ihrem Land. Beachten Sie bitte, dass Begrüßungsunterstützung, Unterstützung durch den Aufsichtsführenden und die Beaufsichtigungs-Software nur in einer begrenzten Anzahl von Sprachen verfügbar sind. Sie müssen die Sprache während des Registrationsprozesses zur Prüfung auswählen. Diese kann sich von der Sprache unterscheiden, in der Sie die Prüfung ablegen. Die meisten Kandidaten haben unabhängig von der Sprache der Prüfung nur die Möglichkeit, eine Online-Prüfung mit englischsprachiger Begrüßungsunterstützung, Unterstützung durch den Aufsichtsführenden und Beaufsichtigungs-Software abzulegen.
-Um sich zu registrieren, wählen Sie die Microsoft Online-Prüfung, die Sie ablegen möchten, aus der [Prüfungsliste](/learn/certifications/browse/) aus und klicken Sie dann auf die Schaltfläche **Prüfung planen**. Wenn die Online-Prüfungen in Ihrem Land verfügbar sind, können Sie diese Option bei der Anmeldung zur Prüfung auswählen. Sie wählen auch die Sprache des Begrüßers, des Aufsichtsführenden sowie die Prüfer-Software aus.
+- Um sich zu registrieren, melden Sie sich zuerst bei Ihrem Microsoft [Zertifizierungs-Dashboard](https://aka.ms/certdashboard) mit der E-Mail an, die Ihrem Microsoft-Zertifizierungsprofil zugeordnet ist. Wählen Sie die Schaltfläche **Prüfung plane** und dann die Microsoft-Prüfung, die Sie ablegen möchten, aus der [Prüfungsliste](/learn/certifications/browse/). Wenn die Online-Prüfungen in Ihrem Land verfügbar sind, können Sie diese Option bei der Anmeldung zur Prüfung auswählen. Sie wählen auch die Sprache des Begrüßers, des Aufsichtsführenden sowie die Prüfer-Software aus.
 
 ## Starten der Prüfung und des Eincheckvorgangs des Kandidaten
 
 Der Start- und Eincheckvorgang sollte etwa 15 Minuten in Anspruch nehmen.
 
 - Lesen Sie vor dem Beginn Ihrer Prüfung die OnVUE [FAQs](https://home.pearsonvue.com/microsoft/onvue), um Tipps zur Fehlerbehebung zu erhalten.
-- Stellen Sie sicher, dass Sie Ihr Mobiltelefon in Ihrer Nähe haben und der Bildschirm sichtbar ist, falls der Prüfungsleiter Sie kontaktieren muss.
+- **Führen Sie am Prüfungstag den [Systemtest](/learn/certifications/online-exams#take-a-system-test) erneut** auf dem Gerät und der Internetverbindung aus, die Sie während der Prüfung verwenden werden. Die Internetbandbreite kann sich je nach Tageszeit ändern.
+- Melden Sie sich als Administrator auf Ihrem Computer an, damit Sie feststellen können, ob Hintergrundprozesse ausgeführt werden, und diese stoppen können.
 - Deaktivieren Sie die Popup-Blocker des Browsers.
-- Stellen Sie sicher, dass Sie über Administratorrechte auf Ihrem Computer verfügen, damit Sie die Testsoftware herunterladen können.
+Stellen Sie sicher, dass sich Ihr Mobiltelefon außerhalb des unmittelbaren Testbereichs, jedoch in Reichweite der Arme befindet und der Bildschirm sichtbar ist, falls der Aufsichtsführende der Prüfung Sie kontaktieren muss.
+  - Stellen Sie sicher, dass Ihr Microsoft-Zertifizierungsprofil mit Ihrer Handynummer, einschließlich der Landesvorwahl, aktualisiert ist, falls Pearson VUE Sie während der Prüfung kontaktieren muss.
 
 So starten Sie Ihre Tests und stellen die Verbindung zu einem Begrüßer her:
 
-1. Melden Sie sich bei Ihrem [Zertifizierungs-Dashboard](https://aka.ms/certdashboard) mit der E-Mail an, die Ihrem Microsoft-Zertifizierungsprofil zugeordnet ist.
-2. Wählen Sie rechts im Abschnitt **Termine** die Option **Eine zuvor geplante online beaufsichtigte Prüfung starten**.
-3. Wählen Sie die Prüfung unter **Gekaufte Online-Prüfungen** aus.
-4. Wählen Sie **Prüfung beginnen** und fahren Sie mit der Selbstanmeldung fort und warten dann, bis sich ein Prüfer mit Ihnen verbunden hat. (Hinweis: Sie müssen Prüfung beginnen auswählen, um die Prüfung zu starten. Wenn Sie dies nicht tun, wird die Prüfung nicht gestartet.)
+1. Melden Sie sich bei Ihrem [Zertifizierungs-Dashboard](https://aka.ms/certdashboard) mit der E-Mail an, die Ihrem Microsoft-Zertifizierungsprofil zugeordnet ist. (Wenn Sie in diesem Schritt zunächst nicht auf Ihr Microsoft-Zertifizierungs-Dashboard zugreifen können, versuchen Sie es erneut mit einem InCognito oder InPrivate-Browser. Wenn Sie immer noch nicht auf Ihr Zertifizierungs-Dashboard zugreifen können, eröffnen Sie einen Fall mit [Zertifizierungsunterstützung](https://aka.ms/mcpforum) und ein Forum-Moderator
+wird Ihnen helfen.)
+2. Wir empfehlen, sich 15 Minuten früher anzumelden, um den Eincheckvorgang zu starten. Sie haben bis zu 15 Minuten nach dem geplanten Termin Zeit, um mit der Prüfung zu beginnen.
+3. Wählen Sie rechts im Abschnitt **Termine** die Option **Eine zuvor geplante online beaufsichtigte Prüfung starten**.
+4. Wählen Sie die Prüfung unter **Gekaufte Online-Prüfungen** aus.
+5. Wählen Sie **Prüfung beginnen** und fahren Sie mit der Selbstanmeldung fort und warten dann, bis sich ein Prüfer mit Ihnen verbunden hat. (Hinweis: Sie müssen Prüfung beginnen auswählen, um die Prüfung zu starten. Wenn Sie dies nicht tun, wird die Prüfung nicht gestartet.)
 
 **Hinweis** Sie können bis zu 30 Minuten warten, bevor Sie sich mit einem Begrüßer (erforderlich zur Bestätigung der Identität oder der Raumanforderungen) oder einem Aufsichtführenden verbinden, nachdem Sie die Selbstanmeldung abgeschlossen haben.
 
-Wenn Sie 30 Minuten **nach Ihrer geplanten Prüfungszeit** nicht mit einem Aufsichtsführenden verbunden sind, wenden Sie sich bitte an [Pearson VUE](https://home.pearsonvue.com/contact).
+Wenn Sie 30 Minuten **nach Ihrer geplanten Prüfungszeit** nicht mit einem Prüfer verbunden sind, wurde die Verbindung unterbrochen. Sie können Ihre Prüfung auf 24 bis 30 Stunden nach dem ursprünglichen Prüfungstermin verschieben. Melden Sie sich einfach in Ihrem [Zertifizierungs-Dashboard](https://www.microsoft.com/learning/dashboard.aspx) mit der E-Mail an, die Ihrem Microsoft-Zertifizierungsprofil zugeordnet ist, um einen neuen Termin zu vereinbaren. Wir empfehlen, dass Sie sich so weit wie möglich selbst helfen. Sie können sich aber auch an Pearson VUE [Support](https://home.pearsonvue.com/microsoft/contact) wenden, um Hilfe bei der Verschiebung einer Prüfung zu erhalten. Bitte haben Sie etwas Geduld, da die Reaktionen aufgrund von COVID-19 langsamer als normal sind (bis zu fünf Tage).
 
 - Die Identitätsprüfung und Raumscans werden vom Begrüßer nach Abschluss der Selbstanmeldung durchgeführt. Wenn bei der Begrüßungsüberprüfung dieser Artefakte keine Probleme oder Bedenken festgestellt werden, werden Sie in die Warteschlange der Aufsichtsführenden gesetzt. Sobald ein Aufsichtsführender verfügbar ist, können Sie mit Ihrer Prüfung beginnen. In Fällen, in denen der Begrüßer Fragen zu den bereitgestellten Artefakten hat, arbeitet der Begrüßer mit Ihnen zusammen, um diese zu lösen.
-
-Nach Abschluss dieses Vorgangs beginnt die Prüfung. Ihr Prüfer wird während der Prüfung keinen Kontakt mit Ihnen aufnehmen, es sei denn, ein Problem liegt vor.
-
-Gibt es gibt ein technisches Problem während der Prüfung, versucht der Prüfer, per Chat mit Ihnen Kontakt aufzunehmen. Wenn das nicht funktioniert, kontaktiert Sie der Prüfer über das Telefon.
-
-Wenn nach der Prüfung ein Problem auftritt, wenden Sie sich an den Support von [Pearson VUE](https://home.pearsonvue.com/contact). Halten Sie die von Ihrem Prüfer bereitgestellte Vorfallberichtsnummer bereit.
+- Nach Abschluss dieses Vorgangs beginnt die Prüfung. Ihr Prüfer wird während der Prüfung keinen Kontakt mit Ihnen aufnehmen, es sei denn, ein Problem liegt vor.
+- Gibt es gibt ein technisches Problem während der Prüfung, versucht der Prüfer, per Chat mit Ihnen Kontakt aufzunehmen. Wenn das nicht funktioniert, kontaktiert Sie der Prüfer über das Telefon.
+Wenn es nach der Prüfung ein Problem gibt, wenden Sie sich an [Pearson VUE](https://home.pearsonvue.com/contact). Halten Sie die von Ihrem Prüfer bereitgestellte Vorfallberichtsnummer bereit.
 
 ### Ergebnisbericht abrufen und Proctor-Software entfernen
 
@@ -284,7 +334,8 @@ Stellen Sie zunächst sicher, dass Ihr Computer die [Systemanforderungen](/learn
 Nein. Sie sollten sich nicht für eine Online-Prüfung registrieren, wenn Ihr System den [Systemtest](/learn/certifications/online-exams#take-a-system-test),  nicht besteht, und Sie sollten auch keine Online-Prüfung planen, wenn Sie kein klares Foto Ihres Ausweises machen können.
 
 ### Wie melde ich mich für eine Online-Prüfung an?
-Um sich zu registrieren, wählen Sie die Prüfung, die Sie ablegen möchten, aus der [Prüfungsliste](/learn/certifications/browse/) aus und klicken Sie dann auf die Schaltfläche **Prüfung planen**. Wenn die Online-Prüfungen in Ihrem Land verfügbar sind, können Sie diese Option bei der Anmeldung zur Prüfung auswählen.
+
+- Um sich zu registrieren, melden Sie sich zuerst bei Ihrem Microsoft [Zertifizierungs-Dashboard](https://aka.ms/certdashboard) mit der E-Mail an, die Ihrem Microsoft-Zertifizierungsprofil zugeordnet ist. Wählen Sie die Schaltfläche **Prüfung planen** und dann die Microsoft-Prüfung, die Sie ablegen möchten, aus der [Prüfungsliste](/learn/certifications/browse/). Wenn die Online-Prüfungen in Ihrem Land verfügbar sind, können Sie diese Option bei der Anmeldung zur Prüfung auswählen. Sie wählen auch die Sprache des Begrüßers, des Aufsichtsführenden sowie die Prüfer-Software aus.
 
 ### Schummeln scheint viel einfacher zu sein, wenn ich nicht in einem Testzentrum bin. Sind Online-Prüfungen sicher?
 Wir unternehmen alles, um die Integrität unserer Prüfungen sicherzustellen, unabhängig davon, wie sie bereitgestellt werden. Wenn Sie eine Online-Prüfung ablegen, müssen Sie zuerst einen sicheren Browser installieren, der strenge Sicherheitsvorkehrungen während des Prüfungsvorgangs erzwingt. Zusätzlich beaufsichtigt Sie ein Prüfer von Pearson VUE während der gesamten Prüfung per Webcam und Mikrofon. Wir überprüfen auch Aufnahmen von Prüfungssitzungen in Fällen, in denen wir Betrug vermuten. Wir sind ziemlich gut im Erkennen von Betrug, sodass wir Ihnen nicht empfehlen, es auszuprobieren – wir widerrufen die Zertifizierungen von Betrügern und schließen sie von zukünftigen Prüfungen aus.
@@ -293,7 +344,7 @@ Wir unternehmen alles, um die Integrität unserer Prüfungen sicherzustellen, un
 Nein, Sie können die Lieferungsmethoden kombinieren (online oder persönlich in einem Testzentrum).
 
 ### Wieviel Zeit habe ich, die Prüfung abzuschließen, nachdem meine Prüfung gestartet und mir ein Prüfer zugewiesen wurde?
-Ihnen steht für das Ablegen der Prüfung genauso viel Zeit wie bei der Prüfung in einem Pearson VUE-Testcenter zur Verfügung. Überprüfen Sie die [Prüfungsrichtlinien und FAQs (Exam policies and FAQs)](/learn/certifications/certification-exam-policies#frequently-asked-questions) auf Prüfungszeiten, die auf der Art der Prüfung basieren.
+Ihnen steht für das Ablegen der Prüfung genauso viel Zeit wie bei der Prüfung in einem Pearson VUE-Testcenter zur Verfügung. Überprüfen Sie die [Prüfungsrichtlinien und FAQs] [Exam policies and FAQs](/learn/certifications/certification-exam-policies#frequently-asked-questions) auf Prüfungszeiten, die auf der Art der Prüfung basieren.
 
 ### Sind Online-Prüfungen schwieriger als Prüfungen in Testzentren?
 Nein. Die Prüfungen sind in Bezug auf den Schwierigkeitsgrad gleichwertig.

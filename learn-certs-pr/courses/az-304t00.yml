@@ -36,11 +36,11 @@ summary: |-
   In diesem Kurs lernen Lösungsarchitekten, wie man Geschäftsanforderungen in sichere, skalierbare und zuverlässige Lösungen umsetzt. Die Lektionen umfassen Entwurfsüberlegungen in Bezug auf Protokollierung, Kostenanalyse, Authentifizierung und Autorisierung, Governance, Sicherheit, Speicherung, Hochverfügbarkeit und Migration. Diese Rolle erfordert Entscheidungen in mehreren Bereichen, die sich auf eine Gesamtentwurfslösung auswirken.
 
   #### Zielgruppenprofil
-  Dieser Kurs richtet sich an IT-Experten mit Fachkenntnissen im Entwerfen und Implementieren von Lösungen, die unter Microsoft Azure ausgeführt werden. Sie sollten über umfassende Kenntnisse des IT-Betriebs verfügen, einschließlich Netzwerk, Virtualisierung, Identität, Sicherheit, Geschäftskontinuität, Notfallwiederherstellung, Datenplattform, Budgetierung und Governance. Azure Solution Architects verwenden das Azure Portal und verwenden die Befehlszeilenschnittstelle, sobald sie sachkundiger sind. Die Kandidaten müssen über Expertenkenntnisse in der Azure-Verwaltung verfügen und Erfahrung mit Azure-Entwicklungsprozessen und DevOps-Prozessen haben.
+  Dieser Kurs richtet sich an IT-Experten mit Fachkenntnissen im Entwerfen und Implementieren von Lösungen, die unter Microsoft Azure ausgeführt werden. Die Kandidaten sollten über fortgeschrittene Erfahrung und Kenntnisse des IT-Betriebs verfügen, einschließlich Netzwerk, Virtualisierung, Identität, Sicherheit, Geschäftskontinuität, Notfallwiederherstellung, Datenplattform, Budgetierung und Governance. Azure Solution Architects verwenden das Azure Portal und verwenden die Befehlszeilenschnittstelle, sobald sie sachkundiger sind. Die Kandidaten müssen über Expertenkenntnisse in der Azure-Verwaltung verfügen und Erfahrung mit Azure-Entwicklungsprozessen und DevOps-Prozessen haben.
 prerequisitesSection: |-
   Erfolgreiche Azure-Administratoren beginnen diese Rolle mit Erfahrung in den Bereichen Betriebssysteme, Virtualisierung, Cloud-Infrastruktur, Speicherstrukturen und Netzwerk.
   - Verständnis lokaler Virtualisierungstechnologien&#58;VMs, virtueller Netzwerke und virtueller Festplatten.
-  - Grundlegendes zur Netzwerkkonfiguration, einschließlich TCP / IP, DNS (Domain Name System), VPNs (Virtual Private Networks), Firewalls und Verschlüsselungstechnologien.
+  - Grundlegendes zur Netzwerkkonfiguration, einschließlich TCP/IP, DNS (Domain Name System), VPNs (Virtual Private Networks), Firewalls und Verschlüsselungstechnologien.
   - Grundlegendes zu Active Directory-Konzepten, einschließlich Domains, Gesamtstrukturen, Domain-Controllern, Replikation, Kerberos-Protokoll und LDAP (Lightweight Directory Access Protocol).
   - Grundlegendes zu Ausfallsicherheit und Notfallwiederherstellung, einschließlich Sicherungs- und Wiederherstellungsvorgängen.
 outlineSection: |-
@@ -50,8 +50,8 @@ outlineSection: |-
   - Lösungen für das Kostenmanagement empfehlen
   - Empfohlene Gesichtspunkte zur Kostenminimierung
 
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - Optimieren Sie mit Azure Cost Management.
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
+  - Optimieren Sie mit Azure Cost Management
   - Design unter Berücksichtigung der Kosten
   - Optimieren Sie Kosten anhand von Empfehlungen
 
@@ -62,7 +62,7 @@ outlineSection: |-
   - Azure-Überwachungs-Services
   - Azure-Monitor
 
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
   - Überwachen Sie Azure-Ressourcen mit Azure Monitor
   - Sammeln und Analysieren von Ressourcenprotokollen für Azure-Ressourcen
   - Grundlegendes dazu, wie Azure Sentinel Daten auf Geräten, Benutzern, Infrastrukturen und Anwendungen sammelt
@@ -77,7 +77,7 @@ outlineSection: |-
   - Empfehlen Sie eine Lösung für eine hybride Identität
   - Empfehlen Sie eine Lösung für die B2B-Integration
 
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
   - Planen Sie eine MFA-Bereitstellung
   - Grundlegendes zu nahtlosem einmaligen Anmelden  (SSO) im Azure Active Directory
   - Empfehlen Sie eine Authentifizierungsmethode für die hybride Identität
@@ -90,8 +90,8 @@ outlineSection: |-
   - Infrastrukturschutz
   - Empfehlen Sie eine hierarchische Struktur für Verwaltungsgruppen, Abonnements und Ressourcengruppen
 
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - Empfehlen Sie eine Hierarchie für Verwaltungsgruppen und Abonnements.
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
+  - Empfehlen Sie eine Hierarchie für Verwaltungsgruppen und Abonnements
   - Konfigurieren Sie benutzerdefinierte RBAC-Rollendefinitionen und -zuweisungen
 
 
@@ -101,7 +101,7 @@ outlineSection: |-
   - Empfehlen Sie eine Lösung für die Verwendung von Azure Policy
   - Empfehlen Sie eine Lösung für die Verwendung von Azure Blueprint
 
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
   - Richtlinien mit Initiativen organisieren
   - Verwalten der Tag-Governance mit Azure-Richtlinien
   - Geben Sie Anleitungen zu Azure Blueprints
@@ -113,7 +113,7 @@ outlineSection: |-
   - Empfehlen Sie eine Lösung mit KeyVault
   - Empfehlen Sie eine Lösung mit Azure AD Managed Identities
 
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
   - Verstehen der Authentifizierung und Autorisierung von Key Vault
   - Verfügbarkeit und Redundanz von Azure Key Vault verstehen
   - Verstehen Sie, wie sich Blueprints von Resource Manager-Vorlagen und Azure-Richtlinien unterscheiden
@@ -128,7 +128,7 @@ outlineSection: |-
   - Dynamische Skalierung von Azure SQL-Datenbank- und Azure SQL-verwalteten Instanzen
   - Empfehlen Sie eine Lösung zum Verschlüsseln von Daten in Ruhe, Übertragung und Verwendung
 
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
   - Empfehlen Sie die Dimensionierung der Datenbank-Servicestufe
   - Empfehlen Sie eine Lösung zum Verschlüsseln von Daten in Ruhe, Übertragung und Verwendung
   - Grundlegendes zu Azure Data Lake Store- und Azure Blob-Speichercontainern
@@ -140,7 +140,7 @@ outlineSection: |-
   - Empfehlen Sie einen Datenfluss
   - Empfehlen Sie eine Lösung für die Daten-Integration
 
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
   - Implementieren Sie Azure Synapse Analytics
   - Beschreiben Sie, wie Daten mit Hilfe von Azure Data Factory fließen
   - Demonstrieren Sie, wie man mit Azure Data Factory Daten in SQL Data Warehouse lädt
@@ -153,7 +153,7 @@ outlineSection: |-
   - Empfehlen Sie eine Speicherzugriffslösung
   - Empfehlen Sie Speicher-Management-Tools
 
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
   - Empfehlen Sie Tools für die Arbeit mit Azure Storage
   - Entwerfen Sie Blob-Speicherzugriffsebenen für Azure
 
@@ -167,7 +167,7 @@ outlineSection: |-
   - Empfehlen Sie eine Lösung für Azure Backup Management
   - Entwerfen Sie eine Lösung für die Datenarchivierung und -speicherung
 
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
   - Empfehlen Sie Lösungen für Azure-Hybrid- und lokale Workloads, die die Wiederherstellungsziele erfüllen
   - Empfehlen Sie eine Lösung für die Standortwiederherstellungskapazität
   - Empfehlung von Speichertypen und Methodik für die Datenarchivierung
@@ -183,7 +183,7 @@ outlineSection: |-
   - Identifizieren Sie Speicher-Typen für Hochverfügbarkeit
   - Empfehlen Sie eine Lösung für die Geo-Redundanz von Workloads
 
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
   - Empfehlen Sie eine Lösung für die automatische Skalierung
   - Identifizieren von Speichertypen für eine hohe Verfügbarkeit
   - Empfehlen Sie eine Lösung für die Geo-Redundanz von Workloads
@@ -197,7 +197,7 @@ outlineSection: |-
   - Empfehlen Sie eine Lösung für Container
   - Empfehlen Sie eine Lösung zur Automatisierung des Compute-Managements
 
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
   - Siehe Lösung zur Automatisierung der Computerverwaltung
   - Empfehlen Sie die entsprechenden Computertechnologien, einschließlich virtueller Maschinen und App Services
   - Empfehlen Sie die entsprechenden AKS und ACI sowie die Konfigurationen
@@ -209,7 +209,7 @@ outlineSection: |-
   - Empfehlen Sie eine Lösung für die Netzwerkadressierung und Namensauflösung
   - Empfehlen Sie eine Lösung für die Netzwerkbereitstellung
   - Empfehlen Sie eine Lösung für die Netzwerksicherheit
-  - Empfehlen Sie eine Lösung für Internet-Konnektivität und lokale Netzwerke.
+  - Empfehlen Sie eine Lösung für Internet-Konnektivität und lokale Netzwerke
   - Empfehlen Sie eine Lösung zur Automatisierung des Netzwerkmanagements
   - Empfehlen Sie eine Lösung für Belastungsausgleich und Verkehrsführung
 
@@ -227,7 +227,7 @@ outlineSection: |-
   - Empfehlen Sie eine Orchestrierungslösung für die Bereitstellung von Anwendungen
   - Empfehlen Sie eine Lösung für die API Integration
 
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
   - Empfehlen Sie Bereitstellungslösungen mit ARM-Vorlagen, Logik-Apps oder Azure-Funktionen
   - Empfehlen Sie eine Lösung zur Überwachung der Automatisierung
   - Empfehlung einer Hosting-Struktur für die API-Verwaltung
@@ -240,8 +240,7 @@ outlineSection: |-
   - Empfehlen Sie eine Lösung für die Migration von Anwendungen und VMs
   - Empfehlen Sie eine Lösung für die Migration von Datenbanken 
 
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
   - Bewerten Sie lokale Server und Anwendungen für die Migration
   - Lösungsvorschläge für die Migration von Anwendungen und VMs
-  - Bestimmen des Migrationsumfangs, einschließlich redundanter, verwandter, trivialer und veralteter Daten.
-
+  - Bestimmen des Migrationsumfangs, einschließlich redundanter, verwandter, trivialer und veralteter Daten

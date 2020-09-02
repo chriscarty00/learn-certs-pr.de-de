@@ -5,8 +5,8 @@ metadata:
   description: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
 uid: exam.pl-100
 displayName: PL-100
-summary: "<div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>\r\n  \r\nDer App-Hersteller erstellt Lösungen, um Aufgaben und Prozesse für sich und sein Team zu vereinfachen, zu automatisieren und zu transformieren, die alle über fundiertes Fachwissen im Lösungsbereich verfügen. Sie sind mit wichtigen technischen Business-Analyst-Aufgaben wie Datenmodellierung, grundlegendem UX-Design, Anforderungsanalyse, Prozessanalyse usw. vertraut.</br></br>\r\n\r\nDer App-Hersteller erstellt und erzwingt Geschäftsprozesse, strukturiert die digitale Sammlung von Informationen, verbessert die Effizienz wiederholbarer Aufgaben und automatisiert Geschäftsprozesse.\r\n\r\nDer App-Hersteller verwendet die Hersteller-Tools der Power Plattform, um geschäftliche Probleme zu lösen. Sie haben möglicherweise Erfahrung mit Visual Basic für Anwendungen, Excel-Pivot-Tabellen, Teams und anderen Tools. Sie sollten ein grundlegendes Verständnis von Datenmodellen, Benutzeroberfläche und Prozessen haben. Der App-Hersteller ist sich der Funktionen und Einschränkungen der verfügbaren Tools bewusst und weiß, wie diese angewendet werden.\r\n\r\nDer App-Hersteller ist selbstgesteuert und lösungsorientiert. Sie verfügen möglicherweise nicht über eine formelle IT-Schulung, können jedoch mit Hilfe von Technologie Geschäftsprobleme mit einer persönlichen Wachstumsphilosophie lösen. Sie verstehen die betrieblichen Bedürfnisse und haben eine Vision des gewünschten Ergebnisses. Sie nähern sich Problemen mit schrittweisen und iterativen Strategien.\r\n\r\n<div style='font-weight&#58; bold;'><br/>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. Um mehr zu erfahren <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">about the value and importance of beta exams</a>.</div>"
-subTitle: 'In dieser Prüfung wird Ihre Fähigkeit gemessen, folgende technische Aufgaben zu erfüllen: Lösungen entwerfen, Lösungen schaffen, Daten analysieren sowie Lösungen zu implementieren und zu verwalten.'
+summary: "<div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Erfahren Sie mehr</a>.</strong></font><br/><br/></div>\r\n  \r\nDer App-Maker erstellt Lösungen zur Vereinfachung, Automatisierung und Transformation von Aufgaben und Prozessen für sich selbst und sein Team, wobei er über profunde Fachkenntnisse auf dem Gebiet der Lösung verfügt. Sie sind mit wichtigen technischen Business-Analyst-Aufgaben wie Datenmodellierung, grundlegendem UX-Design, Anforderungsanalyse, Prozessanalyse usw. vertraut.<br/><br/>\r\n\r\nDer App-Maker erstellt und setzt Geschäftsprozesse um, strukturiert die digitale Sammlung von Informationen, verbessert die Effizienz wiederholbarer Aufgaben und automatisiert Geschäftsprozesse.\r\n\r\nDer App-Hersteller verwendet die Hersteller-Tools der Power Plattform, um geschäftliche Probleme zu lösen. Sie haben möglicherweise Erfahrung mit Visual Basic for Applications, Excel-Pivot-Tabellen, Teams und anderen Tools. Sie sollten ein grundlegendes Verständnis von Datenmodellen, Benutzeroberfläche und Prozessen haben. Der App-Hersteller ist sich der Funktionen und Einschränkungen der verfügbaren Tools bewusst und weiß, wie diese angewendet werden.\r\n\r\nDer App-Hersteller ist selbstgesteuert und lösungsorientiert. Sie verfügen möglicherweise nicht über eine formelle IT-Schulung, können jedoch mit Hilfe von Technologie Geschäftsprobleme mit einer persönlichen Wachstumsphilosophie lösen. Sie verstehen die betrieblichen Bedürfnisse und haben eine Vision des gewünschten Ergebnisses. Sie nähern sich Problemen mit schrittweisen und iterativen Strategien.\r\n\r\n<div><strong><br/>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. Um mehr zu erfahren <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">about the value and importance of beta exams</a>.</strong></div>"
+subTitle: 'In dieser Prüfung wird Ihre Fähigkeit gemessen, folgende technische Aufgaben zu erfüllen: Lösungen entwerfen, Lösungen erstellen, Daten analysieren sowie Lösungen implementieren und verwalten.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
 providers:
@@ -19,10 +19,10 @@ locales:
 levels:
 - intermediate
 skills:
-- Design von Lösungen (10-15%)
-- Lösungen erstellen (50-55%)
-- Analysieren Sie Daten (5-10%)
-- Implementieren und Verwalten von Lösungen (15-20%)
+- Lösungen entwerfen (10-15%)
+- Lösungen erstellen (55-60%)
+- Daten analysieren und visualisieren (5-10%)
+- Lösungen implementieren und verwalten (15-20%)
 roles:
 - business-analyst
 - business-owner
@@ -34,7 +34,7 @@ roles:
 - maker
 - technology-manager
 products:
-- dynamics
+- dynamics-365
 - office
 - office-access
 - office-excel
@@ -58,7 +58,6 @@ products:
 - power-platform
 - ai-builder
 - common-data-service
-- forms-pro
 - power-automate
 - power-bi
 - power-apps
@@ -79,12 +78,15 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-app-maker
 resources:
+- title: Lernpfad zur Zertifizirung
+  description: Empfohlene Schulungsressourcen, die Ihnen helfen, sich auf die erforderlichen Prüfungen vorzubereiten und Ihre Zertifizierung zu erhalten.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjG
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsposter
-  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Dynamics 365 und Power Platform an.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
@@ -95,7 +97,7 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.

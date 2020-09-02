@@ -7,19 +7,23 @@ uid: certification.mcse-core-infrastructure
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Erfahren Sie mehr</a>.</strong></font><br/><br/></div>
   <div><strong>Diese Zertifizierung endet am 31. Januar 2021. Nach diesem Datum können Sie diese Zertifizierung nicht mehr erhalten. Alle Zertifizierungen, die Sie vor deren Ablaufen erhalten haben, werden weiterhin auf Ihrem Transkript im <a href='https://www.microsoft.com/learning/dashboard.aspx'>Zertifizierungs-Dashboard</a> angezeigt. Sie können auch <a href='/learn/certifications/retired-certifications'>alle abgelaufenen Zertifizierungen durchsuchen</a>.</strong><br/><br/></div>
   </div>
 
-  Diese Zertifizierung bestätigt, dass Sie über die erforderlichen Fähigkeiten verfügen, um ein hocheffizientes und modernes Rechenzentrum zu betreiben, Identitätsmanagement, Systemmanagement, Virtualisierung, Storage und Networking.
+  Diese Zertifizierung bestätigt, dass Sie über die erforderlichen Fähigkeiten verfügen, um ein hocheffizientes und modernes Rechenzentrum, Identitätsmanagement, Systemmanagement, Virtualisierung, Storage und Networking zu betreiben.
 
-  Bestehen Sie eine der folgenden Prüfungen, um die MCSE&#58; Core Infrastructure Zertifizierung zu erhalten&#58;
-  - [70-744&#58; Securing Windows Server 2016](/learn/certifications/exams/70-744)
-  - [70-745&#58; Implementing a Software-Defined Datacenter](/learn/certifications/exams/70-745)
-  - [70-413&#58; Designing and Implementing a Server Infrastructure](/learn/certifications/exams/70-413)
-  - [70-414&#58; Implementing an Advanced Server Infrastructure](/learn/certifications/exams/70-414)
-  - [70-537&#58; Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](/learn/certifications/exams/70-537)
-subTitle: Diese Zertifizierung bestätigt, dass Sie über die erforderlichen Fähigkeiten verfügen, um ein hocheffizientes und modernes Rechenzentrum zu betreiben, Identitätsmanagement, Systemmanagement, Virtualisierung, Storage und Networking.
+  Um die MCSE&#58; Zertifizierung der Kerninfrastruktur zu erlangen, müssen Sie die folgenden Anforderungen erfüllen&#58;
+  - Erlangen Sie eine Voraussetzung für die Zertifizierung&#58;
+    - Voraussetzung Option 1&#58; [MCSA&#58; Windows Server 2012](/learn/certifications/mcsa-windows-server-certification)
+    - Voraussetzung Option 2&#58; [MCSA&#58; Windows Server 2016](/learn/certifications/mcsa-windows-server-2016-certification)
+  - Und absolvieren Sie eine der Wahlprüfungen&#58;
+    - [70-744&#58; Securing Windows Server 2016](/learn/certifications/exams/70-744)
+    - [70-745&#58; Implementing a Software-Defined Datacenter](/learn/certifications/exams/70-745)
+    - [70-413&#58; Designing and Implementing a Server Infrastructure](/learn/certifications/exams/70-413)
+    - [70-414&#58; Implementing an Advanced Server Infrastructure](/learn/certifications/exams/70-414)
+    - [70-537&#58; Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](/learn/certifications/exams/70-537)
+subTitle: Diese Zertifizierung bestätigt, dass Sie über die erforderlichen Fähigkeiten verfügen, um ein hocheffizientes und modernes Rechenzentrum, Identitätsmanagement, Systemmanagement, Virtualisierung, Storage und Networking zu betreiben.
 levels:
 - advanced
 skills:
@@ -40,6 +44,11 @@ exams:
 - uid: exam.70-744
 - uid: exam.70-745
 - uid: exam.70-413
+prerequisites:
+- uid: certification.mcsa-windows-server-certification
+  isOptional: false
+- uid: certification.mcsa-windows-server-2016-certification
+  isOptional: false
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.

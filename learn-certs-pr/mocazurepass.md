@@ -12,9 +12,9 @@ ms.author: micsullivan
 
 # Zugriff auf Microsoft Learning Azure-Pässe für Kursteilnehmer autorisierter Microsoft Learning-Partner
 
-<div style='color: red;'><font color="red">Microsoft WWL hat den Zugriff auf Azure-Pässe wiederhergestellt. Bitte beachten Sie, dass dies eine keine SLA-Lösung ist und in einigen Regionen möglicherweise noch Ressourcenbeschränkungen bestehen.<br/><br/>Die Azure-Schnittstelle gibt Rückmeldung darüber, welche Regionen und Größen unterstützt werden und ob für die ausgewählte Region signifikante Anforderungen gestellt werden. Erwägen Sie die Nutzung einer anderen Region, die vom Abonnement unterstützt wird und für die keine spezifischen Anforderungen oder Größenbeschränkungen gelten.<br/><br/>Weitere Informationen zu alternativen, von SLA unterstützten Lösungen erhalten Sie von einem der autorisierten Lab-Hoster (ALH), die derzeit Zugriff auf Azure gewähren.</font></div>
+<div>Im Folgenden finden Sie Informationen zu Azure Pässen, die Microsoft zur Unterstützung von Laborlösungen für bestimmte Kurse zu Microsoft Cloud-Technologien bereitstellt.  Weitere Informationen zu alternativen, von SLA unterstützten Lösungen erhalten Sie von einem der autorisierten Lab-Hoster (ALH), die derzeit Zugriff auf Azure gewähren.</div>
 
-Zuletzt aktualisiert: **5. Juni 2020**
+Zuletzt aktualisiert: **Donnerstag, 6. August 2020**
 
 Microsoft bietet Ihren Kursteilnehmern Zugriff auf einen kostenlosen 30-Tage-Microsoft Azure-Pass, wenn sie sich über Microsoft Official Courses für einen zulässigen Azure-Kurs anmelden. Pässe für Studenten können nur vom autorisierten Microsoft Learning Partner über den Lernsoftware-Marktplatz bezogen werden und sind direkt an einen Kauf eines MOC-Kurses gebunden, wobei ein Pass pro bestelltem MOC-Kurs eingeschlossen ist. Es ist kein anderer Mechanismus verfügbar, Pässe für Studenten zu erhalten. Wenn ein Lernpartner einen MOC-Kurs bestellt, aber nicht den Azure-Pass auswählt, der zum Zeitpunkt des Kaufs für den Kurs verfügbar ist, hat der Partner die Möglichkeit, zum Lernsoftware-Marktplatz zurückzukehren und diesen Pass bei Bedarf anschließend zu bestellen.
 
@@ -60,7 +60,6 @@ Es steht eine begrenzte Anzahl von Pässen zur Verfügung, die an Lernpartner un
 - 40530 Microsoft Cloud Workshop: Cognitive Services and Deep Learning
 - 40531 Microsoft Cloud Workshop: IoT and the Smart City
 - 40533 Microsoft Cloud Workshop: OSS PaaS and DevOps
-- 40534 Microsoft Cloud Workshop: Securing PaaS
 - 40535 Microsoft Cloud Workshop: Serverless Architecture
 - 40557 Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics
 - 40558 Microsoft Cloud Workshop: Line-of-business application migration
@@ -74,6 +73,7 @@ Es steht eine begrenzte Anzahl von Pässen zur Verfügung, die an Lernpartner un
 - 40573 Microsoft Cloud Workshop: Hybrid identity
 - 50331 Windows Client, Enterprise Desktop Support Technician
 - 55093 Windows Azure Data Services (basics)
+- 55188 Lizenzierung und Verwaltung Virtueller Umgebungen und Cloud Services
 - 55224-1 Microsoft Azure Big Data Analytics Solutions
 - 55224-2 Operationalize Cloud Analytics Solutions with Microsoft Azure
 - 55247 Designing and Implementing Cloud Data Platform Solutions
@@ -82,6 +82,7 @@ Es steht eine begrenzte Anzahl von Pässen zur Verfügung, die an Lernpartner un
 - AI-900T00 Microsoft Azure AI Fundamentals
 - AZ-010T00 Azure Administration for AWS SysOps
 - AZ-020T00 Microsoft Azure solutions for AWS developers
+- AZ-030T00 Microsoft Azure technologies for AWS architects
 - AZ-103T00 Microsoft Azure Administrator
 - AZ-104T00 Microsoft Azure Administrator
 - AZ-120T00 Planning and Administering Microsoft Azure for SAP Workloads
@@ -103,6 +104,7 @@ Es steht eine begrenzte Anzahl von Pässen zur Verfügung, die an Lernpartner un
 - DP-201T01 Designing an Azure Data Solution
 - MB-400T00 Microsoft Power Apps + Dynamics 365 Developer
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
+- MS-600T00 Erstellen von Anwendungen und Lösungen mit Microsoft 365-Kern-Services
 - WS-050T00 Migrating Application Workloads to Azure
 
 Hinweis: Diese Liste kann sich ändern und Titel können zu dieser Liste hinzugefügt oder daraus entfernt werden, wenn neue Versionen oder Kurse veröffentlicht und ältere Versionen und Kurse eingestellt werden.
@@ -111,7 +113,7 @@ Hinweis: Diese Liste kann sich ändern und Titel können zu dieser Liste hinzuge
 
 Sind Sie Mitarbeiter eines Microsoft-Learning Partners? Erhalten Sie Ihren Azure-Pass über [Lernsoftware- Marktplatz](https://shop.courseware-marketplace.com/), wenn Sie einen zulässigen MOC-Kurs erwerben.
 
-Sind Sie ein Microsoft Certified Trainer, der im Auftrag eines Microsoft Learning Partners unterrichtet? Bitte wenden Sie sich an den Lernpartner, um einen Azure-Pass für den Schulungszeitraum zu erhalten.
+Sind Sie ein Microsoft Certified Trainer, der im Auftrag eines Microsoft Learning Partners  unterrichtet? Bitte wenden Sie sich an den Lernpartner, um einen Azure-Pass für den Schulungszeitraum zu erhalten.
 
 ## Details zum Microsoft Learning Azure-Pass
 

@@ -1,0 +1,350 @@
+### YamlMime:Course
+title: Developing ASP.NET Core MVC Web Applications
+metadata:
+  title: 'Course 20486-D: Developing ASP.NET Core MVC Web Applications'
+  description: 'Course 20486-D: Developing ASP.NET Core MVC Web Applications'
+uid: course.20486-d
+courseNumber: '20486-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Beschreiben von Microsoft Web Technologies-Stapeln und Wahl einer geeigneten Technologie für die Entwicklung einer bestimmten Anwendung aus.
+- skill: Entwerfen der Architektur und Implementierung einer Webanwendung, die eine Reihe von funktionalen Anforderungen, Anforderungen an die Benutzerschnittstelle und Geschäftsmodelle erfüllt.
+- skill: Konfigurieren der Entwicklung von ASP.NET Core-Webanwendungen mithilfe von Middleware und Einsatz von Dependency Injection in MVC-Anwendungen.
+- skill: Beifügen von Controller zu einer MVC-Anwendung, um Benutzerinteraktionen zu verwalten, Modelle zu aktualisieren und Views auszuwählen und zurückzusenden.
+- skill: Entwickeln einer Webanwendung, die die ASP.NET Core-Routing-Engine verwendet, um den Benutzern ansprechende URLs und eine logische Navigationshierarchie zu präsentieren.
+- skill: Erstellen von Views in einer MVC-Anwendung, die Daten anzeigen und bearbeiten und mit Modellen und Controllern interagieren.
+- skill: Erstellen von MVC-Modellen und Schreiben eines Code, der die Geschäftslogik innerhalb der Modellmethoden, -eigenschaften und -ereignisse implementiert.
+- skill: Verbinden einer ASP.NET Core-Anwendung mithilfe von Entity Framework Core mit einer Datenbank.
+- skill: Implementieren einer einheitliches Look & Feel für eine gesamte MVC-Webanwendung.
+- skill: Schreiben eines JavaScript-Code, der auf der Client-Seite ausgeführt wird und die jQuery-Skriptbibliothek verwendet, um die Reaktionsfähigkeit einer MVC-Webanwendung zu optimieren.
+- skill: Hinzufügen clientseitiger Pakete hinzu und Konfigurieren von Task-Runners.
+- skill: Durchführen von Unit-Tests und Debugging-Werkzeuge für eine Webanwendung in Visual Studio 2017.
+- skill: Schreiben einer MVC-Anwendung, die Benutzer über die Identity authentifiziert und autorisiert, um sicher auf Inhalte zuzugreifen.
+- skill: Erstellen einer MVC-Anwendung, die gegen bösartige Angriffe resistent ist.
+- skill: Verwenden des Zwischenspeichers, um Antworten auf Benutzeranfragen zu beschleunigen.
+- skill: Verwenden von SignalR, um eine Zwei-Wege-Kommunikation zwischen Client und Server zu ermöglichen.
+- skill: Beschreiben, was eine Web-API ist und warum Entwickler eine Web-API zu einer Anwendung hinzufügen können.
+- skill: Beschreiben, wie eine ASP.NET Core MVC-Webanwendung von einem Entwicklungscomputer auf einen Webserver gepackt und bereitgestellt wird.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- aspnet-core
+exams:
+- uid: exam.70-486
+summary: |-
+  In diesem fünftägigen Kurs lernen die professionellen Webentwickler, fortgeschrittene ASP.NET Core MVC-Anwendungen unter Verwendung von .NET Core Tools und Technologien zu entwickeln. Der Schwerpunkt wird auf Codierungsaktivitäten liegen, die die Leistung und Skalierbarkeit der Website-Anwendung verbessern. Dieser Kurs bereitet die Teilnehmer auch auf die Prüfung 70-486 vor.
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an professionelle Webentwickler, die Microsoft Visual Studio in einer individuellen oder teambasierten, kleinen bis großen Entwicklungsumgebung einsetzen. Kandidaten für diesen Kurs sind an der Entwicklung fortgeschrittener Webanwendungen interessiert und wollen das gerenderte HTML umfassend verwalten. Sie wollen Websites erstellen, die die Benutzeroberfläche, den Datenzugriff und die Anwendungslogik voneinander trennen.
+prerequisitesSection: |-
+  Vor Teilnahme an disesem Kurs benötigen die Teilnehmer&#58;
+  - Erfahrung mit Visual Studio 2017.
+  - Erfahrung mit C#-Programmierung und Konzepten wie Lambda-Ausdrücke, LINQ und anonyme Typen.
+  - Erfahrung in der Verwendung des .NET-Frameworks.
+  - Erfahrung mit HTML, CSS und JavaScript.
+  - Erfahrung mit dem Abfragen und Manipulieren von Daten mit ADO.NET.
+  - Kenntnisse von XML- und JSON-Datenstrukturen.
+outlineSection: |-
+  ### Modul 1&#58; Untersuchung von ASP.NET Core MVC
+  Microsoft ASP.NET Core MVC und die anderen Webtechnologien des ASP.NET Core können Sie bei der Erstellung und dem Hosting dynamischer, leistungsstarker und erweiterbarer Webanwendungen unterstützen. ASP.NET Core, zu dem ASP.NET Core MVC gehört, ist ein quelloffenes, plattformübergreifendes Framework, mit dem Sie Webanwendungen erstellen können. Sie können ASP.NET Core-Webanwendungen unter Windows, macOS, Linux oder jeder anderen Plattform, die dies unterstützt, entwickeln und ausführen.
+
+  ASP.NET Core MVC unterstützt einen flexiblen, testorientierten Entwicklungszyklus. Außerdem können Sie den neuesten HTML-Standard und Front-End-Frameworks wie Angular, React und andere verwenden.
+  #### Lektionen
+  - Überblick über Microsoft Web-Technologien
+  - Überblick über ASP.NET 4.x
+  - Einführung in ASP.NET Core MVC
+
+
+  #### Lab&#58; Erkunden von ASP.NET Core MVC
+  - Erkunden einer Razor Pages-Anwendung
+  - Erkunden einer Web-API-Anwendung
+  - Erkunden einer MVC-Anwendung
+
+  Nach Abschluss dieses Course sind die Teilnehmer in der Lage&#58;
+  - Die Vielfalt der im Microsoft Web-Stapel verfügbaren Technologien verstehen.
+  - Die verschiedenen Programmiermodelle beschreiben, die für Entwickler in ASP.NET verfügbar sind.
+  - Zwischen ASP.NET Core und ASP.NET 4.x wählen.
+  - Die Rolle von ASP.NET Core MVC im Web Technologies Stack und die Verwendung von ASP.NET Core MVC zur Erstellung von Webanwendungen beschreiben.
+  - Zwischen verschiedenen MVC-Modellen, MVC-Controllern und MVC-Views unterscheiden.
+
+
+  ### Modul 2&#58; Entwerfen von ASP.NET-Kern-MVC-Web-Anwendungen
+  Microsoft ASP.NET Core MVC ist ein Programmiermodell, mit dem Sie leistungsstarke und komplexe Webanwendungen erstellen können. Allerdings können alle komplexen Entwicklungsprojekte, insbesondere große Projekte, schwierig und kompliziert zu verstehen sein. Ohne ein vollständiges Verständnis des Zwecks eines Projekts können Sie keine effektive Lösung für das Problem des Kunden entwickeln. Sie müssen wissen, wie man eine Reihe von Geschäftsanforderungen identifiziert und die Model-View-Controller (MVC)-Webanwendung plant, um diese Anforderungen zu erfüllen. Der Projektplan, den Sie erstellen, stellt sicher, dass die Beteiligten ihre Anforderungen verstehen, und teilt den Entwicklern die Funktionalität der Webanwendung, ihre Benutzeroberfläche, Struktur und Datenspeicherung mit. Indem Sie einen detaillierten und genauen Projektplan erstellen, können Sie sicherstellen, dass die leistungsstarken Funktionen von MVC effektiv zur Lösung der Geschäftsprobleme des Kunden eingesetzt werden.
+  #### Lektionen
+  - Planung in der Projektentwurfsphase
+  - Entwerfen von Modellen, Controllern und Views
+
+
+  #### Lab&#58; Entwerfen von ASP.NET Core MVC-Webanwendungen
+  - Planung von Modellklassen
+  - Planung von Controllern
+  - Planung von Views
+  - Architektur und MVC-Webanwendung
+
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Die Gesamtarchitektur einer ASP.NET Core MVC-Webanwendung planen und Aspekte wie die Zustandsverwaltung berücksichtigen.
+  - Die Modelle, Controller und Views planen, die für die Implementierung eines bestimmten Satzes funktionaler Anforderungen erforderlich sind.
+
+
+  ### Modul 3&#58; Konfigurieren von Middlewares und Services in ASP.NET Core
+  ASP.NET Core ist ein Framework, mit dem wir viele verschiedene Arten von Anwendungen erstellen können. In diesem Modul lernen Sie, wie Sie das ASP.NET Core-Framework nutzen können, um Anfragen und Antworten über vorhandene und benutzerdefinierte Middleware zu verarbeiten, und wie Sie Dienste für die Verwendung in Middleware und in anderen Teilen der Anwendung, wie z. B. Controllern, konfigurieren.
+  Eine Middleware ist ein Codesegment, das als Teil der Anfrage- und Antwortpipeline verwendet werden kann und es uns ermöglicht, sie gemäß jedem relevanten Parameter zu behandeln. Auf diese Weise können mehrere getrennte Anfragen potenziell auf völlig unterschiedliche Weise behandelt werden und getrennte Antworten erhalten.
+  Services sind Klassen, die Funktionen offenlegen, die Sie später in verschiedenen Teilen der Anwendung verwenden können, ohne den Umfang an jedem einzelnen Ort manuell verfolgen und Abhängigkeiten herstellen zu müssen. Dies geschieht mit Hilfe der Dependency Injection.
+  Dependency Injection ist eine von ASP.NET Core verwendete Technik, mit der Abhängigkeiten in den Code eingefügt werden können, ohne dass wir uns um die Instantisierung von Objekten, deren Aufbewahrung im Speicher oder die Weitergabe der erforderlichen Abhängigkeiten kümmern müssen. Dadurch kann die Anwendung flexibler werden und potenzielle Fehlerquellen bei jeder Änderung eines Services reduzieren.
+  #### Lektionen
+  - Konfigurieren von Middlewares
+  - Konfigurieren von Services
+
+
+  #### Lab&#58; Konfigurieren von Middlewares und Services in ASP.NET Core
+  - Arbeiten mit statischen Dateien
+  - Erstellen benutzerdefinierter Middleware
+  - Dependency Injection verwenden
+  - Einbringen eines Dienstes in einen Controller
+
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Vorhandene Middleware zum Einrichten einer ASP.NET Core-Anwendung verwenden.
+  - Ihre eigene Middleware erstellen und diese zur Definition benutzerdefinierten Verhaltens verwenden.
+  - Die grundlegenden Prinzipien hinter der Dependency Injection verstehen und wie sie in ASP.NET Core verwendet wird.
+  - Wissen, wie man einen benutzerdefinierten Dienst erstellt, seinen Umfang konfiguriert und ihn sowohl in Middleware als auch in ASP.NET Core MVC-Controller injiziert.
+
+
+  ### Modul 4&#58; Entwickeln von Controllern
+  ASP.NET Core MVC ist ein Framework zum Erstellen von Webanwendungen unter Verwendung des Model-View-Controller (MVC)-Architekturmusters. Der Controller ist im Wesentlichen für die Verarbeitung einer Webanforderung verantwortlich, indem er mit dem Modell interagiert und dann die Ergebnisse an den View weitergibt. Das Modell stellt die Geschäftsschicht dar, die manchmal als Domäne bezeichnet wird, und kann Datenobjekte, Anwendungslogik und Geschäftsregeln enthalten. Die View verwendet die Daten, die sie vom Controller erhält, um die HTML- oder andere Ausgabe zu erzeugen, die an den Browser zurückgesendet wird.
+  In diesem Modul lernen Sie, wie man Controller entwickelt. Controller sind von zentraler Bedeutung für MVC-Anwendungen. Das Verständnis der Funktionsweise von Controllern ist entscheidend, um in der Lage zu sein, die entsprechenden Model-Objekte zu erstellen, sie zu manipulieren und an die entsprechenden Views zu übergeben.
+  Ein Controller ist eine Klasse. Sie enthält mehrere Methoden. Diese Methoden werden als Aktionen bezeichnet. Wenn eine MVC-Anwendung eine Anforderung erhält, findet sie heraus, welcher Controller und welche Aktion die Anforderung behandeln soll. Sie bestimmt dies mit Hilfe des URL-Routing (Uniform Resource Locator).
+  URL-Routing ist ein weiteres sehr wichtiges Konzept, das für die Entwicklung von MVC-Anwendungen erforderlich ist. Das ASP.NET Core MVC-Framework umfasst ein flexibles URL-Routing-System, mit dem Sie URL-Zuordnungsregeln innerhalb Ihrer Anwendungen festlegen können.
+  Um die Wiederverwendung von Code in Controllern zu maximieren, ist es wichtig zu wissen, wie man Aktionsfilter schreibt. Mithilfe von Aktionsfiltern können Sie Code vor oder nach jeder Aktion in Ihrer Webanwendung, bei jeder Aktion in einem Controller oder bei anderen Kombinationen von Controller-Aktionen ausführen.
+  #### Lektionen
+  - Schreiben von Controllern und Aktionen
+  - Konfigurieren von Routen
+  - Schreiben von Aktionsfiltern
+
+
+  #### Lab&#58; Entwickeln von Controllern
+  - Hinzufügen von Controllern und Aktionen zu einer MVC-Anwendung
+  - Konfigurieren von Routen mit Hilfe der Routing-Tabelle
+  - Konfigurieren von Routen mit Hilfe von Attributen
+  - Hinzufügen eines Aktionsfilters
+
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Einer Webanwendung einen Controller hinzufügen, der auf Benutzeraktionen reagiert, die im Projektentwurf angegeben sind.
+  - Routen zur ASP.NET Core-Routing-Engine hinzufügen und sicherstellen, dass URLs in einer MVC-Webanwendung benutzerfreundlich sind.
+  - Code in Aktionsfilter schreiben, der vor oder nach einer Controller-Aktion ausgeführt wird.
+
+
+  ### Module 5&#58; Entwickeln von Views
+  Views sind eine der drei Hauptkomponenten des Model-View-Controller (MVC)-Programmiermodells. Sie können die Benutzungsoberfläche für Ihre Web-Anwendung definieren, indem Sie Views anlegen. Eine View ist eine Kombination aus HTML-Markup und C#-Code, die auf einem Web-Server läuft. Deshalb müssen Sie zum Erstellen einer View wissen, wie man das HTML-Markup und den C#-Code schreibt und die verschiedenen Helper-Klassen verwendet, die in MVC eingebaut sind. Sie müssen auch wissen, wie Sie Teil-Views und View-Komponenten erstellen, die HTML-Abschnitte rendern, die in Ihrer Web-Anwendung wiederverwendet werden können.
+  #### Lektionen
+  - Erstellen von Views mit Razor-Syntax
+  - Verwendung von HTML-Hilfsprogrammen und Tag-Hilfsprogrammen
+  - Wiederverwendung von Code in Ansichten
+
+
+  #### Lab&#58; Entwickeln von Views
+  - Hinzufügen von Views zu einer MVC-Anwendung
+  - Hinzufügen einer Teil-View
+  - Hinzufügen einer View-Komponente
+
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - eine MVC-View erstellen und diesem Razor-Markup hinzufügen, um den Benutzern Daten anzuzeigen.
+  - HTML-Hilfen und Tag-Hilfen in einer Ansicht verwenden. Wiederverwendung von Razor-Markup an mehreren Stellen in einer Anwendung.
+
+
+  ### Module 6&#58; Entwickeln von Modellen
+  Die meisten Webanwendungen interagieren mit verschiedenen Arten von Daten oder Objekten. Eine E-Commerce-Anwendung verwaltet z. B. Produkte, Warenkörbe, Kunden und Bestellungen. Eine Social-Networking-Anwendung kann dabei helfen, Benutzer, Statusaktualisierungen, Kommentare, Fotos und Videos zu verwalten. Ein Blog dient zur Verwaltung von Blog-Einträgen, Kommentaren, Kategorien und Tags. Wenn Sie eine Model-View-Controller (MVC)-Webanwendung schreiben, erstellen Sie ein MVC-Modell, um die Daten für Ihre Webanwendung zu modellieren. Innerhalb dieses Modells erstellen Sie für jeden Objekttyp eine Modellklasse. Die Modellklasse beschreibt die Eigenschaften jedes Objekttyps und kann Geschäftslogik enthalten, die den Geschäftsprozessen entspricht. Daher ist das Modell ein grundlegender Baustein in einer MVC-Anwendung. In diesem Modul lernen Sie, wie Sie den Code für Modelle erstellen.
+  #### Lektionen
+  - Erstellen von MVC-Modellen
+  - Arbeiten mit Formularen
+  - MVC-Anwendung validieren
+
+
+  #### Lab&#58; Entwickeln von Modellen
+  - Hinzufügen eines Modells
+  - Arbeiten mit Formularen
+  - Hinzufügen der Überprüfung
+
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Ein Modell zu einer MVC-Anwendung hinzufügen und Code darin schreiben, um die Geschäftslogik zu implementieren.
+  - Datenanmerkungen anzeigen und bearbeiten.
+  - Benutzereingaben mit Datenanmerkungen überprüfen.
+
+
+  ### Modul 7&#58; Verwendung von Entity Framework Core in ASP.NET Core
+  Web-Anwendungen verwenden häufig Informationen und benötigen in der Regel einen Datenspeicher für diese Informationen. Durch das Rendern von Webseiten, die Daten aus einem Datenspeicher verwenden, können Sie eine Webanwendung erstellen, die sich als Reaktion auf Benutzereingaben, administrative Aktionen und Veröffentlichungsereignisse ständig ändert. Der Datenspeicher ist normalerweise eine Datenbank, aber gelegentlich werden auch andere Arten von Datenspeichern verwendet. In Model-View-Controller (MVC)-Anwendungen (Model-View-Controller) können Sie ein Modell erstellen, das Datenzugriffslogik und Geschäftslogik implementiert. Alternativ können Sie die Geschäftslogik von der Datenzugriffslogik trennen, indem Sie ein Repository verwenden. Ein Repository ist eine Klasse, die ein Controller aufrufen kann, um Daten aus einer Datenablage zu lesen und Daten in eine Datenablage zu schreiben. Wenn Sie eine ASP.NET-Anwendung schreiben, können Sie die Technologien Entity Framework Core (EF Core) und Language Integrated Query (LINQ) verwenden, wodurch der Datenzugriffscode sehr schnell zu schreiben und einfach zu verstehen ist. In diesem Modul sehen Sie, wie Sie eine datenbankgesteuerte Website in MVC erstellen können.
+  #### Lektionen
+  - Einführung in Entity Framework Core
+  - Arbeiten mit Entity Framework Core
+  - Entity Framework Core zur Verbindung mit Microsoft SQL Server verwenden
+
+
+  #### Lab&#58; Verwendung von Entity Framework Core in ASP.NET Core
+  - Hinzufügen von Entity Framework Core
+  - Entity Framework Core zum Abrufen und Speichern von Daten verwenden
+  - Entity Framework Core zur Verbindung mit Microsoft SQL Server verwenden
+
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Eine Anwendung mit einer Datenbank verbinden, um auf Daten zuzugreifen und diese zu speichern.
+  - EF Core erläutern.
+  - Mit Entity Framework Core arbeiten.
+  - EF Core verwenden, um eine Verbindung zu einer Datenbank einschließlich Microsoft SQL Server herzustellen.
+
+
+  ### Modul 8&#58; Verwenden von Layouts, CSS und JavaScript in ASP.NET Core MVC
+  Beim Erstellen von Webanwendungen sollten Sie ein einheitliches Erscheinungsbild der Anwendung anwenden. Sie sollten in allen Ansichten konsistente Kopf- und Fußzeilenabschnitte einfügen. Microsoft ASP.NET Core MVC enthält Funktionen wie CSS-Stile (Cascading Style Sheets) und Layouts, die das Erscheinungsbild und die Benutzerfreundlichkeit Ihrer Webanwendung verbessern.
+  In ASP.NET Core MVC können Sie interaktive HTML-Elemente mithilfe von JavaScript erstellen. Sie müssen wissen, wie JavaScript in Ihrer Webanwendung verwendet wird. Um das Hinzufügen von JavaScript zu Ihrer Webanwendung zu vereinfachen, müssen Sie wissen, wie Bibliotheken wie jQuery verwendet werden.
+  #### Lektionen
+  - Verwenden von Layouts
+  - Verwendung von CSS und JavaScript
+  - Verwenden von jQuery
+
+
+  #### Lab&#58; Verwendung von Layouts, CSS und JavaScript in ASP.NET Core
+  - Anwenden eines Layouts und Verknüpfungsansichten
+  - Verwenden von CSS
+  - Verwenden von JavaScript
+  - Verwenden von jQuery
+
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Ein einheitliches Layout auf ASP.NET Core MVC-Anwendungen anwenden.
+  - JavaScript-Code zu ihrer Webanwendung hinzufügen.
+  - Die Bibliothek jQuery in Ihrer Webanwendung verwenden.
+
+
+  ### Modul 9&#58; Clientseitige Entwicklung
+  Beim Erstellen einer Anwendung ist es wichtig zu wissen, wie man sowohl die Client- als auch die Server-Seite der Anwendung entwickelt. In diesem Modul lernen Sie clientseitige Werkzeuge kennen, mit denen Sie umfangreiche Webanwendungen in jeder Größenordnung erstellen können. Diese Tools basieren auf den Themen, die in Modul 8, "Verwendung von Layouts, CSS und JavaScript in ASP.NET Core MVC", behandelt werden.
+  In diesem Modul werden Sie lernen, wie Sie das Bootstrap-Framework zur Gestaltung Ihrer Webanwendung verwenden. Dann lernen Sie, wie Sie Sass und Less verwenden, zwei gängige Cascading Style Sheets (CSS)-Präprozessoren, die CSS-Features wie Variablen, verschachtelte Regeln und Funktionen hinzufügen. Diese verbessern die Handhabung von komplexen Webanwendungen erheblich.
+  Als Nächstes werden Sie lernen, wie Sie Task-Runner wie Grunt und Gulp einrichten und wie Sie diese zum Kompilieren von Sass-Dateien während der Erstellung von Microsoft Visual Studio verwenden. Sie werden lernen, wie Sie den Gulp-Task-Runner verwenden, um CSS- und JavaScript-Dateien zu bündeln und zu verkleinern, und wie Sie eine Watcher-Aufgabe einrichten, um Sass-Dateien zu kompilieren, während Sie Ihren Code schreiben, ohne dass Sie die Lösung neu erstellen müssen.
+  Schließlich lernen Sie reaktionsschnelle Designwerkzeuge kennen, mit denen Sie die Anzeige Ihrer Webanwendung auf der Grundlage der Fähigkeiten und Spezifikationen eines Webbrowsers oder eines Geräts anpassen können. Sie werden lernen, CSS-Medienabfragen zu schreiben, das reaktionsfähige Rastersystem Bootstrap zu verwenden und das CSS-Flexbox-Layout auf Ihre Ansichten anzuwenden.
+  #### Lektionen
+  - Anwenden von Stilarten
+  - Verwendung von Task-Runners
+  - Reaktionsfähiger Entwurf
+
+
+  #### Lab&#58; Client-seitige Entwicklung
+  - Gulp zum Ausführen von Aufgaben verwenden
+  - Styling mit Sass
+  - Bootstrap verwenden
+
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Bootstrap, Sass und Less in einer Microsoft ASP.NET Core-Anwendung verwenden.
+  - Task-Runner in einer ASP.NET-Core-Anwendung verwenden.
+  - Sicherstellen, dass eine Webanwendung auf Geräten mit unterschiedlichen Bildschirmgrößen korrekt angezeigt wird.
+
+
+  ### Modul 10&#58; Testen und Fehlerbehebung
+  Softwaresysteme wie Webanwendungen sind komplex und erfordern die Zusammenarbeit mehrerer Komponenten, die oft von verschiedenen Entwicklern geschrieben werden. Falsche Annahmen, ungenaues Verständnis, Codierungsfehler und viele andere Quellen können Fehler verursachen, die zu Ausnahmen oder unerwartetem Verhalten führen. Um die Qualität Ihrer Webanwendung zu verbessern und ein zufriedenstellendes Benutzererlebnis zu schaffen, müssen Sie Fehler aus allen Quellen identifizieren und beseitigen.
+  Traditionell führen die Tester die meisten Tests am Ende eines Entwicklungsprojekts durch. In letzter Zeit hat sich jedoch allgemein die Erkenntnis durchgesetzt, dass das Testen während des gesamten Projektlebenszyklus die Qualität verbessert und sicherstellt, dass es keine Fehler in der Produktionssoftware gibt. Sie müssen verstehen, wie man Tests an kleinen Komponenten Ihrer Webanwendung durchführt, um sicherzustellen, dass sie wie erwartet funktionieren, bevor Sie sie zu einer vollständigen Webanwendung zusammensetzen.
+  Es ist auch wichtig, dass Sie wissen, wie Sie Ausnahmen behandeln, während sie auftreten. Während eine Anwendung läuft, kann es zu unerwarteten Vorkommnissen kommen. Es ist wichtig, dass Sie Ihre Ausnahmefälle korrekt verwalten und ein gutes Benutzer-Feedback geben, während Sie gleichzeitig vermeiden, dass Informationen über die Struktur der Anwendung durchsickern.
+  Schließlich können Sie durch die Verwendung von Protokollen in der gesamten Anwendung Benutzeraktivitäten überwachen, die zu unerwarteten Problemen führen könnten, und dann Lösungen für Fehler finden, bei denen Sie sich normalerweise nicht sicher wären, wie sie reproduziert werden könnten, indem Sie die Abläufe in der Produktionsumgebung verfolgen und zusätzliche Fehler finden.
+  #### Lektionen
+  - Testen von MVC-Anwendungen
+  - Implementierung einer Strategie zur Behandlung von Ausnahmen
+  - Protokollierung von MVC-Anwendungen
+
+
+  #### Lab&#58; Prüfung und Fehlerbehebung
+  - Testen eines Modells
+  - Testen eines Controllers mit einem gefälschten Speicherort
+  - Implementierung eines Projektarchivs im MVC-Projekt
+  - Ausnahmebehandlung hinzufügen
+  - Protokollierung hinzufügen
+
+  Nach Abschluss dieses Course sind die Teilnehmer in der Lage&#58;
+  - Unit-Tests anhand der Model-View-Controller (MVC)-Komponenten, wie Modellklassen und Controller, durchführen und potenzielle Fehler lokalisieren.
+  - Eine Microsoft ASP.NET Core MVC-Anwendung erstellen, die Ausnahmen reibungslos und robust behandelt.
+  - Protokollanbieter ausführen, die Ihren Anwendungen zugute kommen, und sie mithilfe einer gemeinsamen Protokoll-API ausführen.
+
+
+  ### Modul 11&#58; Sicherheitsverwaltung
+  Da Webanwendungen normalerweise auf Benutzer ausgerichtet sind, die zur Nutzung der Anwendung nur einen Browser verwenden, dürfte es weit mehr Benutzer geben als bei installierten Anwendungen. Die offene Natur einer Webanwendung bedeutet jedoch, dass die Sicherheit bei ihrer Erstellung immer im Vordergrund stehen muss. Als Teil der Sicherheit müssen Sie entscheiden, welche Benutzer welche Aktionen ausführen dürfen, und gleichzeitig die Benutzer und Ihre Anwendung vor böswilligen Dritten mit möglichem Zugriff auf Ihre Anwendung schützen.
+  Authentifizierung ist der Akt der Verwendung mehrerer Parameter, um sicherzustellen, dass ein Benutzer derjenige ist, der er vorgibt zu sein. Durch die Implementierung der Authentifizierung können Sie feststellen, wer ein Benutzer ist, und ihm bei der Nutzung Ihrer Anwendungen entsprechende Inhalte zur Verfügung stellen.
+  Autorisierung ist der Prozess, bei dem einem bereits authentifizierten Benutzer in der Anwendung Zugang zu bestimmten Aktionen oder Ressourcen gewährt werden kann. Durch die Verwendung der Autorisierung können Sie Benutzer daran hindern, auf sensibles Material zuzugreifen, das nicht von ihnen beabsichtigt ist, oder Aktionen durchzuführen, die ihnen nicht möglich sein sollten.
+  Schließlich können Ihre Anwendungen irgendwann in ihrer Lebensdauer von Anwendern mit böswilligen Absichten angegriffen werden. Diese können unterschiedliche Mittel und Absichten haben, aber die Kosten, die entstehen, wenn sie nicht abgewehrt werden, können hoch sein. Sie könnten betroffene potenzielle Benutzer verlieren, wertvolle Daten könnten irrtümlich verändert werden, und im schlimmsten Fall könnte die gesamte Anwendung unbrauchbar werden. In diesem Modul werden Lösungen für einige der gängigsten Angriffe besprochen.
+  #### Lektionen
+  - Authentifizierung in ASP.NET Core
+  - Autorisierung in ASP.NET Core
+  - Verteidigung gegen Angriffe
+
+
+  #### Lab&#58; Sicherheitsmanagement
+  - Identität verwenden
+  - Autorisierung hinzufügen
+  - Den standortübergreifenden Fälschungsantrag-Angriff abwehren
+
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Ihrer Anwendung eine Basis-Authentifizierung hinzufügen.
+  - Die Microsoft ASP.NET Core-Identität konfigurieren.
+  - Ihrer Anwendung eine Basisberechtigung hinzufügen.
+  - Mehrere verschiedene Autorisierungsansätze nutzen.
+  - Kenntnis darüber besitzen, wie Sicherheitslücken funktionieren und wie man sich besser gegen sie verteidigen kann.
+
+
+  ### Modul 12&#58; Leistung und Kommunikation
+  Moderne Webanwendungen erfordern komplexe Interaktionen mit den Benutzern. Die Benutzer werden oft viele Daten in einem kleinen Zeitrahmen anfordern, während sie gleichzeitig relevante Daten erwarten, sobald diese online gestellt werden. Dies kann leicht eine beträchtliche Belastung auf einem unvorbereiteten Server verursachen, was zu unnötig komplexen oder wiederholten Operationen und einer hohen Belastung Ihres Servers führt. Glücklicherweise gibt es mehrere Möglichkeiten, die Belastung zu verringern.
+  Die Zwischenspeicherung ermöglicht es Ihnen, häufig wiederholte Anfragen zu speichern und so zu verhindern, dass dieselbe Logik wiederholt ausgeführt werden muss. Durch die Verwendung der Zwischenspeicherung können Sie bereits geladene Daten wiederverwenden und sie dem Benutzer präsentieren. Dies bietet dem Benutzer eine schnelle Antwortzeit und reduziert die Systemressourcen, die für die Ausführung der Logik für die Aktion verwendet werden.
+  State ermöglicht es unterdessen, einen Zustand der Konsistenz zwischen verschiedenen Anfragen zu erreichen. Durch die Verwendung verschiedener Formen der Zustandsverwaltung können Sie die normalerweise zustandslose Web-Erfahrung in eine auf individuelle Kunden zugeschnittene umwandeln, wobei verschiedene Benutzer eine separate und relevante Erfahrung in derselben Anwendung genießen.
+  Schließlich ist SignalR ein Rahmenwerk, das die Abstraktion mehrerer verschiedener Kommunikationsprotokolle in eine einfach zu verwendende API ermöglicht, mit der Sie auf einfache Weise einen einzigen Satz von Tools auf dem Server und dem Client erstellen können, um die Zwei-Wege-Kommunikation zu erleichtern. Auf diese Weise können Sie sich auf die Logik konzentrieren, die Sie einsetzen möchten, ohne dass Sie sich auf bestimmte Browser einstellen müssen.
+  #### Lektionen
+  - Implementierung einer Zwischenspeicherstrategie
+  - State verwalten
+  - Zwei-Wege-Kommunikation
+
+
+  #### Lab&#58; Leistung und Kommunikation
+  - Implementierung einer Zwischenspeicherstrategie
+  - State verwalten
+  - Zwei-Wege-Kommunikation
+
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Zwischenspeicherung in einer Microsoft ASP.NET Core-Anwendung einsetzen.
+  - Die Zustandsverwaltungstechnologien zur Verbesserung des Kundenerlebnisses einsetzen, indem eine konsistente Erfahrung für den Benutzer bereitgestellt wird.
+  - Die Zweiwegekommunikation durch Verwendung von SignalR einrichten, wodurch der Server den Client benachrichtigen kann, wenn wichtige Ereignisse eintreten.
+
+
+  ### Module 13&#58; Einführung von Web-APIs
+  Die meisten Webanwendungen erfordern die Integration mit externen Systemen wie z.B. mobilen Anwendungen. Sie müssen wissen, wie Web-APIs verwendet werden, um die Interaktion der Anwendung mit externen Systemen zu fördern. Sie können die Web-API verwenden, um REST-Services (Representational State Transfer) in Ihrer Anwendung zu implementieren. REST-Services tragen dazu bei, den Anwendungs-Overhead zu reduzieren und die Daten, die zwischen Client- und Server-Systemen übertragen werden, zu begrenzen. Sie müssen wissen, wie eine Web-API unter Verwendung von serverseitigem Code und jQuery-Code aufgerufen wird, um Web-APIs im REST-Stil effektiv in Ihrer Anwendung zu implementieren.
+  #### Lektionen
+  - Einführung von Web-APIs
+  - Entwickeln einer Web-API
+  - Aufrufen einer Web-API
+
+
+  #### Lab&#58; Implementieren von Web-APIs
+  - Hinzufügen von Aktionen und deren Aufruf über Microsoft Edge
+  - Aufrufen einer Web-API mit serverseitigem Code
+  - Aufrufen einer Web-API mit jQuery
+
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Dienste mit der ASP.NET Core-Web-API erstellen.
+  - Eine Web-API aus serverseitigem Code und jQuery aufrufen.
+
+
+  ### Module 14&#58; Hosting und Bereitstellung
+  ASP.NET Core MVC-Anwendungen sind so konzipiert, dass sie einen Dienst für mehrere Benutzer gleichzeitig bereitstellen, wobei nur der Server installiert werden muss und die Clients über Browser darauf zugreifen müssen. Daraus ergeben sich äußerst wünschenswerte Anwendungen, die nicht darauf angewiesen sind, dass der Benutzer dedizierte Software installiert und sicherstellt, dass Clients auf einer Vielzahl von Rechnern darauf zugreifen können.
+  Um eine ASP.NET Core-Anwendung für eine Produktionsumgebung einzurichten, müssen Sie Ihren Code kompilieren und komprimieren und ihn dann auf einem dedizierten Server einrichten und ausführen.
+  Beim Hosting wird ein dedizierter Server verwendet, der die kompilierte Anwendung enthält und sie den Benutzern als webbasierten Dienst zur Verfügung stellt. Es gibt viele verschiedene Technologien, die für das Hosting Ihrer Anwendung verwendet werden können, und Sie sollten eine wählen, die für Ihre Anforderungen geeignet ist.
+  Bereitstellung ist der Prozess, bei dem der Projektcode kompiliert und dann in einer Weise auf den Hosting-Server übertragen wird, die den Anforderungen der Hosting-Umgebung entspricht.
+  Microsoft Azure ist ein Cloud-Dienst, der von Microsoft bereitgestellt wird. Er kann zum Hosten von ASP.NET Core-Anwendungen verwendet werden und ist ein beliebtes Tool auf dem Markt für Cloud-Technologie. Er bietet bequeme Webanwendungsbezogene Dienste mit mehreren Abrechnungsoptionen je nach Bedarf.
+  #### Lektionen
+  - Vor-Ort-Hosting und -Bereitstellung
+  - Bereitstellung bei Microsoft Azure
+  - Microsoft Azure Fundamentals
+
+
+  #### Lab&#58; Hosting und Bereitstellung
+  - Bereitstellen einer Web-Anwendung für Microsoft Azure
+  - Hochladen eines Bildes in den Azure Blob-Speicher
+
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Hosten und Bereitstellen einer ASP.NET Core MVC-Anwendung auf IIS.
+  - Hosten und Bereitstellen einer ASP.NET-Core-MVC-Anwendung auf Microsoft Azure.
+  - Sie können die von Microsoft Azure angebotenen Dienste nutzen, um die Fähigkeiten Ihrer Webanwendungen zu verbessern.
+

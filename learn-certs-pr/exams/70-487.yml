@@ -6,17 +6,17 @@ metadata:
 uid: exam.70-487
 displayName: 70-487
 summary: |+
-  <div><div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Erfahren Sie mehr</a>.</strong></font><br/><br/></div>
   <div><strong>Diese Prüfung wird am 31. Januar 2021 um 23&#58;59 Uhr (Ortszeit) eingestellt. Nach diesem Datum können Sie die Prüfung nicht mehr ablegen. Erfahren Sie mehr über <a href='/learn/certifications/retired-certification-exams'>bevorstehende Prüfungseinstellungen</a>.<br/><br/></strong></div>
   </div>
 
-  Kandidaten für diese Zertifizierung sind professionelle Entwickler, die Visual Studio 2017 und das Microsoft®.NET Core Framework für das Design und die Entwicklung von Web-Lösungen verwenden. Kandidaten sollten mindestens drei bis fünf Jahre Erfahrung in der Entwicklung von ASP.NET MVC-basierten Lösungen haben. Darüber hinaus sollten die Kandidaten in der Lage sein, Folgendes nachzuweisen&#58;
-  - Erfahrung im Entwerfen und Entwickeln von Webanwendungen, die auf verschiedene (lokale und entfernte) Daten und Dienste zugreifen, einschließlich Windows Azure.
-  - Erfahrung mit dem gesamten Software-Entwicklungslebenszyklus von Daten- und Servicelösungen
-  - Erfahrung in der Entwicklung und Bereitstellung in mehrstufigen Umgebungen, einschließlich Windows Azure
-  - Erfahrung im Entwerfen und Entwickeln von asynchronen Lösungen
-  - Erfahrung mit der Erstellung und Nutzung von HTTP-Diensten
-subTitle: 'Kandidaten für diese Zertifizierung sind professionelle Entwickler, die Visual Studio 2017 und das Microsoft®.NET Core Framework für das Design und die Entwicklung von Web-Lösungen verwenden. Kandidaten sollten mindestens drei bis fünf Jahre Erfahrung in der Entwicklung von ASP.NET MVC-basierten Lösungen haben.'
+  Kandidaten für diese Zertifizierung sind professionelle Entwickler, die Visual Studio 2017 und das Microsoft® .NET Core Framework für das Design und die Entwicklung von Web-Lösungen verwenden. Kandidaten sollten mindestens drei bis fünf Jahre Erfahrung in der Entwicklung von ASP.NET MVC-basierten Lösungen haben. Darüber hinaus sollten die Kandidaten in der Lage sein, Folgendes nachzuweisen&#58;
+  Erfahrung im Entwerfen und Entwickeln von Webanwendungen, die auf verschiedene (lokale und entfernte) Daten und Dienste zugreifen, einschließlich Windows Azure.
+  Erfahrung mit dem gesamten Software-Entwicklungslebenszyklus von Daten- und Servicelösungen
+  Erfahrung in der Entwicklung und Bereitstellung in mehrstufigen Umgebungen, einschließlich Windows Azure
+  Erfahrung im Entwerfen und Entwickeln von asynchronen Lösungen
+  Erfahrung mit der Erstellung und Nutzung von HTTP-Diensten
+subTitle: 'Kandidaten für diese Zertifizierung sind professionelle Entwickler, die Visual Studio 2017 und das Microsoft® .NET Core Framework für das Design und die Entwicklung von Web-Lösungen verwenden. Kandidaten sollten mindestens drei bis fünf Jahre Erfahrung in der Entwicklung von ASP.NET MVC-basierten Lösungen haben.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMe
 practiceTestUrl: https://www.mindhub.com/70-487-developing-microsoft-azure-and-web-services/p/MU-70-487?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -41,7 +41,8 @@ roles:
 products:
 - azure
 courses:
-- uid: course.20487
+- uid: course.20487-c
+- uid: course.20487-d
 relatedCertifications:
 - related:
     uid: certification.mcsd-app-builder-certification

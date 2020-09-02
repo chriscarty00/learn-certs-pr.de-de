@@ -5,7 +5,7 @@ metadata:
   description: Azure Data Fundamentals überprüft das grundlegende Wissen über Kerndatenkonzepte und deren Implementieren mit Hilfe von Microsoft Azure-Daten-Services.
 uid: certification.azure-data-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: "<div><strong><font color='red'>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</font></strong><br/><br/></div>\r\n\r\nKandidaten für die Azure Data Fundamentals-Zertifizierung sollten über grundlegende Kenntnisse der Kerndatenkonzepte und deren Implementieren mit Hilfe von Microsoft Azure-Daten-Services verfügen. \r\n\r\nDiese Zertifizierung richtet sich an Kandidaten, die mit Daten in der Cloud arbeiten. \r\n\r\nDie Kandidaten sollten mit den Konzepten relationaler und nicht relationaler Daten sowie mit verschiedenen Arten von Daten-Workloads wie Transaktions- oder Analysedaten vertraut sein. \r\n\r\nAzure Data Fundamentals kann verwendet werden, um sich auf andere rollenbasierte Azure-Zertifizierungen wie Azure Database Administrator Associate oder Azure Data Engineer Associate vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen."
+summary: "<div><strong><font color='red'>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Erfahren Sie mehr</a>.</font></strong><br/><br/></div>\r\n\r\nKandidaten für die Azure Data Fundamentals-Zertifizierung sollten über grundlegende Kenntnisse der Kerndatenkonzepte und deren Implementieren mit Hilfe von Microsoft Azure-Daten-Services verfügen.  \r\n\r\nDiese Zertifizierung richtet sich an Kandidaten, die mit Daten in der Cloud arbeiten.  \r\n\r\nDie Kandidaten sollten mit den Konzepten relationaler und nicht relationaler Daten sowie mit verschiedenen Arten von Daten-Workloads wie Transaktions- oder Analysedaten vertraut sein.  \r\n\r\nAzure Data Fundamentals kann verwendet werden, um sich auf andere rollenbasierte Azure-Zertifizierungen wie Azure Database Administrator Associate oder Azure Data Engineer Associate vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen."
 subTitle: Azure Data Fundamentals überprüft das grundlegende Wissen über Kerndatenkonzepte und deren Implementieren mit Hilfe von Microsoft Azure-Daten-Services.
 levels:
 - beginner
@@ -20,6 +20,8 @@ roles:
 type: fundamentals
 products:
 - azure
+courses:
+- uid: course.dp-900t00
 paths:
 - uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
 - uid: learn.wwl.azure-data-fundamentals-explore-relational-data

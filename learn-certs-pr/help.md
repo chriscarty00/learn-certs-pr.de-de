@@ -1,6 +1,6 @@
 ---
-title: Hilfe zu Microsoft-Schulungen und -Zertifizierungen | Microsoft Docs
-description: Hilfe zu Microsoft-Schulungen und -Zertifizierungen
+title: Hilfe zur Microsoft-Zertifizierung| Microsoft Docs
+description: Hilfe zur Microsoft-Zertifizierung
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,23 +9,15 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Hilfe zu Microsoft-Schulungen und -Zertifizierungen
+# Hilfe zur Microsoft-Zertifizierung
 
-<div style='color&#58; red;'><strong><font color="red"><br/>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='/learn/certifications/posts/an-important-update-on-microsoft-training-and-certification'>Mehr erfahren</a>.</font></strong><br/><br/></div>
+<div style='color&#58; red;'><strong><font color="red"><br/>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='/learn/certifications/posts/an-important-update-on-microsoft-training-and-certification'>Erfahren Sie mehr</a>.</font></strong><br/><br/></div>
 
-Haben Sie Fragen zu Schulungen und Zertifizierungen von Microsoft-Produkten? Besuchen Sie [Microsoft Learn](/learn/certificationss/), wo Sie Antworten auf die meisten Ihrer Fragen zu Microsoft Training, Zertifizierung, Prüfungen, Microsoft Official Courses (MOC) und mehr finden.
+Benötigen Sie Unterstützung bei Microsoft-Zertifizierungsprodukten? Bitte beachten Sie unsere Support-Optionen unten.
 
-Haben Sie noch Fragen? Bitte beachten Sie unsere Support-Optionen unten.
-
-***Bitte beachten Sie, dass wir für Kunden, die Unterstützung bei Zertifizierung und Schulung benötigen, längere Antwortzeiten als erwartet haben. Wir bedanken uns für Ihre Geduld und bemühen uns, alle Anfragen so schnell wie möglich zu bearbeiten.***
-
-## Zertifizierungshilfe
+## So kontaktieren Sie den Support
 
 | Supportbereich | Kontaktinformationen |
 | ------------- | --- |
-| **Microsoft Certification** | Vielleicht ist Ihre Frage bereits in unserer [Technischen Zertifizierungsübersicht](/learn/certifications/) <br/><br/>  **Zertifizierung Support Foren:** <br/>Hilfe erhalten Sie in unseren moderierte [Zertifizierung Support Foren](https://aka.ms/MCPForum).<br/><br/>  Innerhalb eines Werktages wird Ihnen ein Forenmoderator antworten. |
+| **Microsoft-Zertifizierungsprüfungen und Microsoft-Zertifizierungen** | Ihre Frage wird möglicherweise bereits in unserer [Zertifizierungsübersicht](/learn/certifications/) beantwortet. <br/><br/> **Zertifizierungs-Support-Foren:** <br/>Hilfe erhalten Sie in unseren moderierte [Zertifizierung Support Foren](https://aka.ms/MCPForum).<br/><br/>  Innerhalb eines Werktages wird Ihnen ein Forenmoderator antworten. |
 | **Microsoft Certified Trainer (MCT) program** | Vielleicht ist Ihre Frage bereits in unserer [MCT Programmübersicht](/learn/certifications/mct-certification)<br/><br/>  **MCT Supportforen:** <br/> Hilfe erhalten Sie in unseren moderierte [MCT Supportforen](https://aka.ms/MCTForum).<br/><br/> Innerhalb eines Werktages wird Ihnen ein Forenmoderator antworten. |
-
-## Schulungshilfe
-
-Unterstützung für Microsoft Official Courseware (MOC) [hier klicken](https://docs.microsoft.com/learn/certifications/certification-and-training-help).

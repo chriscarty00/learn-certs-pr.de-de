@@ -1,11 +1,20 @@
 ### YamlMime:Examination
-title: 'Microsoft Azure Data Fundamentals (beta)'
+title: 'Microsoft Azure Data Fundamentals'
 metadata:
-  title: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
-  description: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
+  title: 'Exam DP-900: Microsoft Azure Data Fundamentals'
+  description: 'Exam DP-900: Microsoft Azure Data Fundamentals'
 uid: exam.dp-900
 displayName: DP-900
-summary: "<div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>\r\n\r\nKandidaten für die Azure Data Fundamentals-Zertifizierung sollten über grundlegende Kenntnisse von Kerndatenkonzepten und deren Implementieren mit Hilfe von Microsoft Azure-Daten-Services verfügen.\r\n\r\nDiese Prüfung richtet sich an Kandidaten, die anfangen, mit Daten in der Cloud zu arbeiten.\r\n\r\nDie Kandidaten sollten mit den Konzepten relationaler und nicht relationaler Daten sowie mit verschiedenen Arten von Daten-Workloads wie Transaktions- oder Analysedaten vertraut sein.\r\n\r\nAzure Data Fundamentals kann verwendet werden, um sich auf andere rollenbasierte Azure-Zertifizierungen wie Azure Database Administrator Associate oder Azure Data Engineer Associate vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen.  \r\n\r\n<div style='font-weight&#58; bold;'><br/>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. Um mehr zu erfahren <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">about the value and importance of beta exams</a>.</div>"
+summary: |-
+  <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Erfahren Sie mehr</a>.</strong></font><br/><br/></div>
+
+  Kandidaten für die Azure Data Fundamentals-Zertifizierung sollten über grundlegende Kenntnisse von Kerndatenkonzepten und deren Implementieren mit Hilfe von Microsoft Azure-Daten-Services verfügen.
+
+  Diese Prüfung richtet sich an Kandidaten, die anfangen, mit Daten in der Cloud zu arbeiten.
+
+  Die Kandidaten sollten mit den Konzepten relationaler und nicht relationaler Daten sowie mit verschiedenen Arten von Daten-Workloads wie Transaktions- oder Analysedaten vertraut sein.
+
+  Azure Data Fundamentals kann verwendet werden, um sich auf andere rollenbasierte Azure-Zertifizierungen wie Azure Database Administrator Associate oder Azure Data Engineer Associate vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen.
 subTitle: 'Beweisen Sie, dass Sie Folgendes beschreiben können: Kerndatenkonzepte; Arbeiten mit relationalen Daten in Azure; Arbeiten mit nicht-relationalen Daten in Azur sowie eine Workload-Analyse bei Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
@@ -28,6 +37,8 @@ roles:
 - database-administrator
 products:
 - azure
+courses:
+- uid: course.dp-900t00
 paths:
 - uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
 - uid: learn.wwl.azure-data-fundamentals-explore-relational-data
@@ -56,7 +67,7 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.

@@ -7,15 +7,13 @@ uid: exam.az-900
 displayName: AZ-900
 summary: |-
   <div>
-  <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Erfahren Sie mehr</a>.</strong></font><br/><br/></div>
-  <div><strong> Der Inhalt dieser Prüfung wurde am 28. Mai 2020 aktualisiert. Bitte laden Sie das untenstehende Dokument „Skills measured” herunter, um zu sehen, was sich geändert hat.</strong><br/><br/></div>
+  <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong></font><br/><br/></div>
+  <div><strong>Der Inhalt dieser Prüfung wird am 15. September 2020 aktualisiert. Bitte laden Sie das unten stehende Dokument zur Kompetenzmessung herunter, um zu sehen, was sich ändern wird.</strong><br/><br/></div>
   </div>
 
-  Kandidaten für dieses examens sollten über grundlegende Kenntnisse der Cloud-Dienste und der Bereitstellung dieser Dienste mit Microsoft Azure verfügen.
+  Kandidaten für dieses examens sollten über grundlegende Kenntnisse der Cloud-Dienste und der Bereitstellung dieser Dienste mit Microsoft Azure verfügen. Die Prüfung richtet sich an Kandidaten, die gerade erst anfangen, mit Cloud-basierten Lösungen und Diensten zu arbeiten, oder die neu bei Azure sind.
 
-  Die Prüfung zu Azure-Grundlagen bietet die Möglichkeit, Kenntnisse über Cloud-Konzepte, Azure-Kern-Services, Azure-Preisgestaltung, SLA und Lebenszyklus sowie die Grundlagen zu Cloud-Sicherheit, Datenschutz, Compliance und Vertrauen nachzuweisen.
-
-  dieses examens richtet sich an Personen, die mit Cloud-basierten Lösungen und Diensten arbeiten. Kandidaten sollten in der Lage sein, grundlegende Kenntnisse über Cloud-Konzepte sowie Azure-Services, Workloads, Sicherheit, Datenschutz, Preisgestaltung und Support nachzuweisen. Darüber hinaus sollten Sie mit den Konzepten von Netzwerk, Speicher, Computing, Anwendungsunterstützung und Anwendungsentwicklung vertraut sein.
+  Die Azure Fundamentals-Prüfung bietet die Gelegenheit, Kenntnisse über Cloud-Konzepte, Azure-Dienste, Azure-Arbeitslasten, Sicherheit und Datenschutz in Azure sowie Azure-Preise und -Support nachzuweisen. Die Kandidaten sollten mit den allgemeinen Technologiekonzepten vertraut sein, einschließlich der Konzepte von Netzwerk, Speicherung, Computing, Anwendungsunterstützung und Anwendungsentwicklung.
 
   Azure-Grundlagen können verwendet werden, um sich auf andere rollenbasierte Azure- oder Spezialzertifizierungen vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen.
 subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden Konzepte zu verstehen: Cloud-Konzepte; Core Azure Services; Sicherheit, Datenschutz, Compliance, Trust und Azure-Preisgestaltung und -Support.'
@@ -28,7 +26,7 @@ providers:
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
 - providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-900&provider=psi&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
 locales:
 - en
 - ja
@@ -40,7 +38,7 @@ locales:
 levels:
 - beginner
 skills:
-- Der Inhalt dieser Prüfung wurde am, 28. Mai 2020 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungsfertigkeiten herunter, um zu sehen, was sich geändert hat.
+- Der Inhalt dieser Prüfung wird am 15. September 2020 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich ändern wird.
 - Cloud-Konzepte beschreiben (15-20%)
 - Beschreiben der Azure-Kern-Services (30-35%)
 - Sicherheit, Datenschutz, Compliance und Vertrauen beschreiben (25-30%)
@@ -62,7 +60,7 @@ relatedCertifications:
     uid: certification.azure-fundamentals
 resources:
 - title: Reise zur Zertifizierung
-  description: Informieren Sie sich über die nötigen Schritte für eine Zertifizierung als Azure Fundamentals und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
+  description: Informieren Sie sich über die nötigen Schritte für eine Zertifizierung in Azure Fundamentals und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElB
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
@@ -77,7 +75,7 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.

@@ -1,0 +1,81 @@
+### YamlMime:Examination
+title: Microsoft Azure Fundamentals
+metadata:
+  title: 'Exam AZ-900: Microsoft Azure Fundamentals'
+  description: 'Exam AZ-900: Microsoft Azure Fundamentals'
+uid: exam.az-900
+displayName: AZ-900
+summary: |-
+  <div>
+  <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Erfahren Sie mehr</a>.</strong></font><br/><br/></div>
+  <div><strong>Die Veröffentlichung der neuen OD-Prüfung, Prüfung und der entsprechenden Schulung wurde vom 15. September 2020 auf Anfang November verschoben. Bitte versuchen Sie erneut, weitere Informationen zu erhalten. Wir sind uns sicher, dass Sie mindestens 30 Tage im Voraus Bescheid wissen, bevor wir die neue Version der Prüfung veröffentlichen. </strong><br/><br/></div> 
+  </div>
+  
+  Kandidaten für dieses examens sollten über grundlegende Kenntnisse der Cloud-Dienste und der Bereitstellung dieser Dienste mit Microsoft Azure verfügen. Die Prüfung richtet sich an Kandidaten, die gerade erst mit Cloud-basierten Lösungen und Services arbeiten oder neu in Azure sind.
+  
+  Die Prüfung zu Azure-Grundlagen bietet die Möglichkeit, Kenntnisse über Cloud-Konzepte, Azure-Services, Azure-Workloads, Sicherheit und Datenschutz in Azure sowie Azure-Preise und -Support nachzuweisen. Kandidaten sollten mit den allgemeinen Technologiekonzepten vertraut sein, einschließlich der Konzepte für Netzwerk, Speicher, Computer, Anwendungsunterstützung und Anwendungsentwicklung.
+
+  Azure-Grundlagen können verwendet werden, um sich auf andere rollenbasierte Azure- oder Spezialzertifizierungen vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen.
+subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden Konzepte zu verstehen: Cloud-Konzepte; Core Azure Services; Sicherheit, Datenschutz, Compliance, Trust und Azure-Preisgestaltung und -Support.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
+practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+  - providerType: gsi
+    examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-900&provider=psi&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+locales:
+- en
+- ja
+- zh-cn
+- ko
+- es
+- de
+- fr
+levels:
+- beginner
+skills:
+- Cloud-Konzepte beschreiben (15-20%)
+- Beschreiben der Azure-Kern-Services (30-35%)
+- Sicherheit, Datenschutz, Compliance und Vertrauen beschreiben (25-30%)
+- Azure-Preisgestaltung für Servicevereinbarungen und Lebenszyklen erläutern (20-25%)
+roles:
+- developer
+products:
+- azure
+courses:
+- uid: course.az-900t01
+- uid: course.az-900t00
+paths:
+- uid: learn.wwl.explore-microsoft-azure-cloud-concepts
+- uid: learn.wwl.distinguish-microsoft-azure-core-services
+- uid: learn.wwl.examine-microsoft-azure-security-privacy-compliance-trust
+- uid: learn.wwl.review-microsoft-azure-pricing-slas-lifecycles
+relatedCertifications:
+- related:
+    uid: certification.azure-fundamentals
+resources:
+- title: Reise zur Zertifizierung
+  description: Informieren Sie sich über die nötigen Schritte für eine Zertifizierung als Azure Fundamentals und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElB
+- title: Schulungs- und Zertifizierungsleitfaden
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Unterstützung bei Zertifizierungsprüfungen
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  href: ../help.md
+- title: Zertifizierungsdashboard
+  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Unterkünfte anfordern
+  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Prüfungsrichtlinien und FAQs
+  description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
+  href: ../certification-exam-policies.md

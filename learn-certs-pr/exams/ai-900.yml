@@ -5,7 +5,7 @@ metadata:
   description: 'Exam AI-900: Microsoft Azure AI Fundamentals'
 uid: exam.ai-900
 displayName: AI-900
-summary: "<div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Erfahren Sie mehr</a>.</strong></font><br/><br/></div>\r\n\r\nKandidaten für diese Prüfung sollten über grundlegende Kenntnisse der Konzepte maschinellen Lernens (ML) und künstlicher Intelligenz (AI) sowie der zugehörigen Microsoft Azure-Services verfügen.\r\n\r\nDieses Prüfung bietet Gelegenheit, Kenntnisse über gängige ML- und AI-Workloads und deren Implementieren in Azure nachzuweisen.  \r\n\r\nDieses Prüfung richtet sich an Kandidaten mit technischem wie auch nichttechnischem Hintergrund. Erfahrung in Data-Science und Software-Engineering ist nicht erforderlich. Einige allgemeine Programmierkenntnisse oder -erfahrungen wären jedoch von Vorteil.  \r\n\r\nAzure AI-Grundlagen können verwendet werden, um sich auf andere rollenbasierte Azure-Zertifizierungen wie Azure Data Scientist Associate oder Azure AI Engineer Associate vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen."
+summary: "<div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong></font><br/><br/></div>\r\n\r\nKandidaten für diese Prüfung sollten über grundlegende Kenntnisse der Konzepte maschinellen Lernens (ML) und künstlicher Intelligenz (AI) sowie der zugehörigen Microsoft Azure-Services verfügen.\r\n\r\nDieses Prüfung bietet Gelegenheit, Kenntnisse über gängige ML- und AI-Workloads und deren Implementieren in Azure nachzuweisen.  \r\n\r\nDieses Prüfung richtet sich an Kandidaten mit technischem wie auch nichttechnischem Hintergrund. Erfahrung in Data-Science und Software-Engineering ist nicht erforderlich. Einige allgemeine Programmierkenntnisse oder -erfahrungen wären jedoch von Vorteil.  \r\n\r\nAzure AI-Grundlagen können verwendet werden, um sich auf andere rollenbasierte Azure-Zertifizierungen wie Azure Data Scientist Associate oder Azure AI Engineer Associate vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen."
 subTitle: 'Beweisen Sie, dass Sie Folgendes beschreiben können: AI-Workloads und Überlegungen; Grundprinzipien des maschinellen Lernens in Azure; Funktionen von Computer Vision-Workloads in Azure; Funktionen von NLP-Workloads (Natural Language Processing) in Azure; und Funktionen von dialogorientierten AI-Workloads in Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
@@ -13,9 +13,15 @@ providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
 - providerType: gsi
-  examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AI-900&provider=psi&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
+- ja
+- zh-cn
+- ko
+- de
+- fr
+- es
 levels:
 - beginner
 skills:
@@ -76,7 +82,7 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.

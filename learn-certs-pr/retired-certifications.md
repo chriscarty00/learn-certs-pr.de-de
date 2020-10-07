@@ -19,23 +19,22 @@ Suchen zertifizierungen, die in den nächsten 12 Monaten aus dem Programm genomm
 
 |                                             |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSA: Dynamics 365 for Operations](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365-for-operations.aspx) | Am 31. Januar 2021 in den Ruhestand treten |
-| [MCSA: BI Reporting](https://www.microsoft.com/learning/mcsa-bi-reporting.aspx) | Am 31. Januar 2021 in den Ruhestand treten |
-| [MCSA: SQL 2016 Database Admin](https://www.microsoft.com/learning/mcsa-sql2016-database-administration-certification.aspx) | Am 31. Januar 2021 in den Ruhestand treten |
-| [MCSA: SQL 2016 BI Development](https://www.microsoft.com/learning/mcsa-sql2016-business-intelligence-certification.aspx) | Am 31. Januar 2021 in den Ruhestand treten |
-| [MCSA: SQL 2016 Database Dev](https://www.microsoft.com/learning/mcsa-sql2016-database-development-certification.aspx) | Am 31. Januar 2021 in den Ruhestand treten |
-| [MCSA: SQL Server 2012/2014](https://www.microsoft.com/learning/mcsa-sql-certification.aspx) | Am 31. Januar 2021 in den Ruhestand treten |
-| [MCSA: Universal Windows Platform](https://www.microsoft.com/learning/mcsa-universal-windows-platform.aspx) | Am 31. Januar 2021 in den Ruhestand treten |
-| [MCSA: Web Applications](https://www.microsoft.com/learning/mcsa-web-applications-certification.aspx) | Am 31. Januar 2021 in den Ruhestand treten |
-| [MCSA: Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx) | Am 31. Januar 2021 in den Ruhestand treten |
-| [MCSA: Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx) | Am 31. Januar 2021 in den Ruhestand treten |
-| [MCSD: App Builder](https://www.microsoft.com/learning/mcsd-app-builder-certification.aspx) | Am 31. Januar 2021 in den Ruhestand treten |
-| [MCSE: Business Applications](https://www.microsoft.com/learning/mcse-business-applications.aspx) | Am 31. Januar 2021 in den Ruhestand treten |
-| [MCSE: Core Infrastructure](https://www.microsoft.com/learning/mcse-core-infrastructure.aspx) | Am 31. Januar 2021 in den Ruhestand treten |
-| [MCSE: Data Management & Analytics](https://www.microsoft.com/learning/mcse-data-management-analytics.aspx) | Am 31. Januar 2021 in den Ruhestand treten |
-| [MCSE: Productivity](https://www.microsoft.com/learning/mcse-productivity-certification.aspx) | Am 31. Januar 2021 in den Ruhestand treten |
+| [MCSA: Dynamics 365 für den Betrieb](/learn/certifications/mcsa-microsoft-dynamics-365-for-operations) | Einstellung am 31. Januar 2021 |
+| [MCSA: BI Reporting](/learn/certifications/mcsa-bi-reporting) | Einstellung am 31. Januar 2021 |
+| [MCSA: SQL 2016 Database Admin](/learn/certifications/mcsa-sql2016-database-administration-certification) | Einstellung am 31. Januar 2021 |
+| [MCSA: SQL 2016 BI-Entwicklung](/learn/certifications/mcsa-sql2016-business-intelligence-certification)| Einstellung am 31. Januar 2021 |
+| [MCSA: SQL 2016 Datenbankentwicklung](/learn/certifications/mcsa-sql2016-database-development-certification)| Einstellung am Sonntag, 31. Januar 2021 |
+| [MCSA: SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification)| Einstellung am 31. Januar 2021 |
+| [MCSA: Universelle Windows-Plattform](/learn/certifications/mcsa-universal-windows-platform)| Einstellung am 31. Januar 2021 |
+| [MCSA: Web Applications](/learn/certifications/mcsa-web-applications-certification) | Einstellung am 31. Januar 2021 |
+| [MCSA: Windows Server 2012](/learn/certifications/mcsa-windows-server-certification) | Einstellung am 31. Januar 2021 |
+| [MCSA: Windows Server 2016](/learn/certifications/mcsa-windows-server-2016-certification) | Einstellung am 31. Januar 2021 |
+| [MCSD: App Builder](/learn/certifications/mcsd-app-builder-certification) | Einstellung am 31. Januar 2021 |
+| [MCSE: Business Applications](/learn/certifications/mcse-business-applications) | Einstellung am 31. Januar 2021 |
+| [MCSE: Core Infrastructure](/learn/certifications/mcse-core-infrastructure) | Einstellung am 31. Januar 2021 |
+| [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | Einstellung am 31. Januar 2021 |
+| [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | Einstellung am 31. Januar 2021 |
 | [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | Am 31. Dezember 2020 in den Ruhestand treten |
-| [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator) | Am August 31, 2020 in den Ruhestand treten |
 
 ## Eingestellte Zertifizierungen
 
@@ -43,7 +42,9 @@ Finden Sie Zertifizierungen, die im letzten Jahr eingestellt wurden. Wenn eine Z
 
 HINWEIS: Nach dem Auslaufen einer Zertifizierung prüft Microsoft weiterhin die entsprechenden Technologien, um festzustellen, ob sie noch relevant sind. Sollte die entsprechende Technologie als nicht mehr relevant gelten, so werden die zugehörigen Zertifikate in den Verlaufsbereich der Zertifizierungen im Transkript verschoben.
 
-Klappen Sie die Sektion unten auf, um eine Liste eingestellter Zertifizierungen zu sehen, nach Typ und mit dem Einstellungsdatum.
+| Rollenbasiert                                                                         |                    |
+| ---------------------------------------------------------------------------------- | ------------------ |
+| [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)              | 31. August 2020 |
 
 | Microsoft Certified Solutions Developer                                            |
 | ---------------------------------------------------------------------------------- |
@@ -52,18 +53,10 @@ Klappen Sie die Sektion unten auf, um eine Liste eingestellter Zertifizierungen 
 | Microsoft Certified Solutions Associate                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
 | MCSA: CRM Dynamics Technical                                                                                                | 31. Dezember 2019 |
-| [MCSA: Cloud Platform](https://www.microsoft.com/learning/mcsa-cloud-platform-certification.aspx)                     | 31. Dezember 2018 |
-| [MCSA: Linux on Azure](https://www.microsoft.com/learning/mcsa-linux-azure-certification.aspx)                        | 31. Dezember 2018 |
-| [MCSA: Office 365](https://www.microsoft.com/learning/mcsa-office365-certification.aspx)                              | 30. April, 2019    |
-| [MCSA: Windows 10](https://www.microsoft.com/learning/mcsa-windows-10-certifications.aspx)                            | 30. April, 2019    |
-| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365.aspx)                   | 30. Juni 2019      |
-| [MCSA: Machine Learning](https://www.microsoft.com/learning/mcsa-machine-learning.aspx)                               | 30. Juni 2019      |
-| [MCSA: Data Engineering with Azure](https://www.microsoft.com/learning/mcsa-data-engineering-with-azure.aspx)         | 30. Juni 2019      |
 
-| Microsoft Certified Solutions Expert                                               |                    |
-| ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSE: Cloud Platfrom and Infrastructure](https://www.microsoft.com/learning/mcse-cloud-platform-infrastructure.aspx) | 31. Dezember 2018  |
-| [MCSE: Mobility](https://www.microsoft.com/learning/mcse-mobility-certification.aspx)                                 | 30. April, 2019     |
+| Microsoft Certified Solutions Expert                                               |
+| ---------------------------------------------------------------------------------- |
+|                                                                                    |
 
 | Microsoft Technology Associate                                                     |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |

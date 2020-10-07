@@ -7,8 +7,8 @@ uid: exam.az-203
 displayName: AZ-203
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>dieses examens wurde am 31. Mai 2020 eingestellt. Hinweis&#58; Prüfungen werden um 23&#58;59 Uhr Central Standard Time eingestellt.<br/><br/></div>
+  <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong></font><br/><br/></div>
+  <div><strong>Dieses Examen wird am 31. August 2020 eingestellt. Eine Ersatzprüfung, AZ-204, ist verfügbar. Weitere Informationen finden Sie auf der Seite mit den <a href="/learn/certifications/exams/az-204">AZ-204 Prüfungsdetails</a>.</strong><br/><br/></div>
   </div>
 
   Kandidaten für dieses examens sind Azure Entwickler, die Cloud-Lösungen wie Anwendungen und Services entwerfen und bauen. Sie nehmen an allen Phasen der Entwicklung teil, vom Lösungsdesign über die Entwicklung und Bereitstellung bis hin zu Test und Wartung. Sie arbeiten mit Cloud Solution Architects, Cloud DBAs, Cloud Administratoren und Clients zusammen, um die Lösung zu implementieren.
@@ -17,8 +17,6 @@ summary: |-
   Die Kandidaten sollten in der Entwicklung von Anwendungen und Diensten unter Verwendung von Azure-Tools und -Technologien, einschließlich Speicherung, Sicherheit, Berechnung und Kommunikation, versiert sein.
 
   Die Kandidaten müssen über mindestens ein Jahr Erfahrung in der Entwickeln skalierbarer Lösungen in allen Phasen der Softwareentwicklung verfügen und über Kenntnisse in mindestens einer Cloud-gestützten Programmiersprache verfügen.
-
-  <div style='font-weight&#58; bold;'><br/>HINWEIS&#58; Wenn Sie dieses Examen bestehen, erhalten Sie die folgende Zertifizierung&#58; <a href="https://docs.microsoft.com/learn/certifications/azure-developer">Microsoft Certified&#58; Azure Developer Associate</a>.</div>
 subTitle: 'dieses examens misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Entwickeln von Azure Infrastructure as a Service Compute-Lösungen; Entwickeln von Azure Platform as a Service Compute-Lösungen; Entwickeln für Azure Storage; Implementieren von Azure Security; Überwachung, Fehlerbehebung und Optimieren von Lösungen; Verbinden mit Azure Services und Drittanbieter-Diensten.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
@@ -27,16 +25,13 @@ locales:
 - ja
 - zh-cn
 - ko
-providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-203&examname=Exam%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-203
 levels:
 - intermediate
 skills:
 - Entwickeln von Azure Infrastructure als Service Computing-Lösungen (10-15%)
 - Entwickeln von Azure Platform als Service Computing-Lösungen (20-25%)
 - Entwickeln für Azure-Storage (15-20%)
-- Implementieren der Azure-Sicherheit(10-15%)
+- Implementieren der Azure-Sicherheit (10-15%)
 - Überwachen, Fehlerbehebung und Optimierung von Lösungen (10-15%)
 - Verbindung zu Azure- und Drittanbieter-Diensten herstellen und nutzen (20-25%)
 retirementDate: 08/31/2020

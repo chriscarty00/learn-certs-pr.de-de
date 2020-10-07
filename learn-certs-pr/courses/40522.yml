@@ -1,0 +1,54 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Azure Stack'
+metadata:
+  title: 'Course 40522-G: Microsoft Cloud Workshop: Azure Stack'
+  description: 'Course 40522-G: Microsoft Cloud Workshop: Azure Stack'
+uid: course.40522
+courseNumber: '40522-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 'Empfehlen und entwerfen Sie Hybrid-Cloud-Systeme, die ein Anwendungsmodell wirksam einsetzen: Azure'
+- skill: Verstehen Sie, wann die Azure Public Cloud und wann Azure Stack angemessen ist, je nach Kundenanforderungen
+- skill: Beschreiben Sie Integrationsmöglichkeiten zwischen Azure Public Cloud-Lösungen und Azure Stack
+- skill: Verstehen Sie die Taxonomie von Azure Stack (Mandanten, Regionen, Abonnements, Angebote, Pläne, Dienste und Kontingente)
+- skill: Beschreiben Sie die Ressourcenprovider, die für eine Nutzung von Azure Stack verfügbar sind
+- skill: Entwerfen Sie eine Hybrid-Verbindung zwischen Azure Public Cloud und Azure Stack und benutzen Sie diese
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  In diesem Workshop lernen Sie, wie Sie eine Hybrid-Cloud-Architektur entwerfen, indem Sie eine Kombination aus Azure Public Cloud und Azure Stack verwenden. Diese funktionale Architektur wird Ihre Kunden in die Lage versetzen, ihre Investitionen in Azure als „Cloud-Plattform“ statt als „Ort“ wirksam einzusetzen. Sie werden lernen, festzustellen, welche Systeme gute Kandidaten für die Azure Public Cloud sind und welche sich besser für Azure Stack eignen.
+
+  #### Zielgruppenprofil
+  Dieser Workshop richtet sich an Cloud Architects und an IT-Profis, die sich auf die Architektur von Infrastrukturen und Lösungsdesigns von Cloud-Technologien spezialisiert haben und mehr über Azur und Azur-Dienste lernen möchten, wie es in den Abschnitten „Über diesen Kurs“ und „Nach Kursende“ beschrieben ist. Die Teilnehmer dieses Workshops sollten außerdem Erfahrung in anderen Cloud-Technologien als denen von Microsoft haben, die Kursvoraussetzungen erfüllen und sich zusätzlich über Azure weiterbilden wollen.
+outlineSection: |-
+  ### Modul 1&#58; Whiteboard-Design-Session – Migration von Azure Stack oder Benutzung von Azure Stack
+  ### Lektionen
+  - Studieren Sie die Kunden-Fallstudie
+  - Entwerfen Sie eine Proof of Concept-Lösung
+  - Präsentieren Sie Ihre Lösung
+  
+  ### Module 2&#58; Praxis-Lab – Azure Stack
+  
+  #### Lab&#58; Migration von Azure Stack 
+  - Entwickeln Sie eine Azure Stack Hub-Anwendungstaxonomie für Mandanten 
+  - Benutzen Sie die Finanz-Web-App von Contoso
+  - Benutzen Sie die Kundenangebots-Web API
+  - Automatisierung von Backend-Prozessen mit den Funktionen von Azure 
+  - Benutzen Sie die Admin-Website von Contoso Finance
+  
+  #### Lab&#58; Benutzung von Azure Stack
+  - Kreieren und veröffentlichen Sie einen Artikel auf dem Azure Stack Hub Marketplace 
+  - Implementieren Sie mehrere Mandanten
+  - Implementieren Sie eine delegierte Verwaltung von Plänen, Angeboten und Abonnements
+  - Konfigurieren Sie eine rollenabhängige Zugangskontrolle (Role Based Access Control / RBAC)
+  - Verbinden Sie sich mit dem privilegierten Endpunk und arbeiten Sie damit
+  - Implementieren Sie ein Azure Stack Hub Infrastruktur-Backup
+

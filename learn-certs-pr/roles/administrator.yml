@@ -2,10 +2,10 @@
 title: Administrator 
 metadata: 
   title: Administrator 
-  description: Administratoren implementieren, überwachen und warten Microsoft-Lösungen, einschließlich wichtiger Dienste, in den Bereichen Computer, Speicher, Netzwerk und Sicherheit.
+  description: Administrators (Administratoren) implementieren, überwachen und warten Microsoft-Lösungen, einschließlich wichtiger Dienste, in den Bereichen Computer, Speicher, Netzwerk und Sicherheit.
 uid: role.administrator 
 summary: | 
-  Administratoren implementieren, überwachen und warten Microsoft-Lösungen, einschließlich wichtiger Dienste, in den Bereichen Computer, Speicher, Netzwerk und Sicherheit.
+  Administrators (Administratoren) implementieren, überwachen und warten Microsoft-Lösungen, einschließlich wichtiger Dienste, in den Bereichen Computer, Speicher, Netzwerk und Sicherheit.
 subTitle: Administratoren implementieren, überwachen und warten Microsoft-Lösungen.
 certificationPaths: 
 - title: Azure Administrator
@@ -19,11 +19,11 @@ certificationPaths:
   - uid: certification.azure-administrator
     levels:
     - intermediate
-  - uid: certification.azure-devops
+  - uid: certification.devops-engineer
     levels:
     - advanced      
-- title: Microsoft 365 Zertifizierter Messaging Administrator Associate
-  linkedInKeywords: Microsoft 365 Zertifizierter Messaging Administrator Associate
+- title: Microsoft 365 Certified Messaging Administrator Associate
+  linkedInKeywords: Microsoft 365 Certified Messaging Administrator Associate
   uid: certification.m365-messaging-administrator
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
@@ -36,8 +36,8 @@ certificationPaths:
   - uid: certification.m365-enterprise-administrator
     levels:
     - advanced
-- title: Microsoft 365 Zertifizierter Modern Desktop Administrator Associate
-  linkedInKeywords: Microsoft 365 Zertifizierter Modern Desktop Administrator Associate
+- title: Microsoft 365 Certified Modern Desktop Administrator Associate
+  linkedInKeywords: Microsoft 365 Certified Modern Desktop Administrator Associate
   uid: certification.modern-desktop
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
@@ -50,8 +50,8 @@ certificationPaths:
   - uid: certification.m365-enterprise-administrator
     levels:
     - advanced
-- title: Microsoft 365 Zertifizierter Sicherheitsadministrator Associate
-  linkedInKeywords: Microsoft 365 Zertifizierter Sicherheitsadministrator Associate
+- title: Microsoft 365 Certified Security Administrator Associate
+  linkedInKeywords: Microsoft 365 Certified Security Administrator Associate
   uid: certification.m365-security-administrator
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
@@ -64,8 +64,8 @@ certificationPaths:
   - uid: certification.m365-enterprise-administrator
     levels:
     - advanced
-- title: Microsoft 365 Zertifizierter Teamwork-Administrator Associate
-  linkedInKeywords: Microsoft 365 Zertifizierter Teamwork-Administrator Associate
+- title: Microsoft 365 Certified Teamwork Administrator Associate
+  linkedInKeywords: Microsoft 365 Certified Teamwork Administrator Associate
   uid: certification.m365-teamwork-administrator
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
@@ -78,8 +78,8 @@ certificationPaths:
   - uid: certification.m365-enterprise-administrator
     levels:
     - advanced
-- title: Microsoft Teamadministrator
-  linkedInKeywords: Microsoft Teamadministrator
+- title: Microsoft Team administrator
+  linkedInKeywords: Microsoft Team administrator
   uid: certification.m365-teams-administrator-associate
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
@@ -92,14 +92,13 @@ certificationPaths:
 certifications:
 - uid: certification.azure-administrator
   requiredExams:
-  - uid: exam.az-103 
-- uid: certification.azure-devops
+  - uid: exam.az-104
+- uid: certification.azure-for-sap-workloads-specialty
   requiredExams:
-  - uid: exam.az-400
+  - uid: exam.az-120
 - uid: certification.m365-messaging-administrator
   requiredExams:
-  - uid: exam.ms-200
-  - uid: exam.ms-201
+  - uid: exam.ms-203
 - uid: certification.modern-desktop
   requiredExams:
   - uid: exam.md-100
@@ -107,10 +106,6 @@ certifications:
 - uid: certification.m365-security-administrator
   requiredExams:
   - uid: exam.ms-500
-- uid: certification.m365-teamwork-administrator
-  requiredExams:
-  - uid: exam.ms-300
-  - uid: exam.ms-301
 - uid: certification.m365-enterprise-administrator
   requiredExams:
   - uid: exam.ms-100
@@ -120,11 +115,11 @@ certifications:
   - uid: exam.ms-700
 resources:
 - title: Microsoft Leitfaden für Schulungen und Zertifizierungen
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Poster für Schulungen und Zertifizierungen
   description: Wählen Sie mit diesem Poster für Schulungen und Zertifizierungen Ihren Weg zum Erfolg.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Unterstützung von Zertifizierungen
   href: ../help.md
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.

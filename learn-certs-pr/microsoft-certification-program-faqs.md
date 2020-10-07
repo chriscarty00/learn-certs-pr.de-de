@@ -17,7 +17,6 @@ ms.author: micsullivan
 ## Inhalt nach Top-Kategorie
 
 ### Microsoft-Zertifizierungsprofil
-
 1. [Wie greife ich auf mein Microsoft-Zertifizierungsprofil zu?](#a1)
 2. [Wo finde ich die Identifikationsnummer für mein Microsoft-Zertifizierungsprofil (MCID?](#a2)
 3. [Wie kann ich die Verknüpfung meiner Microsoft-Zertifizierungsprofil-ID aufheben?](#a3)
@@ -106,7 +105,7 @@ Um Ihr Account aktiv zu halten, greifen Sie bitte alle 12 Monate auf Ihr Microso
 
 **Fr.: Wie ändere ich meinen Namen in meinem Microsoft-Zertifizierungsprofil?**<a name="a8"></a>
 
-**A:** Wenn Sie den Namen in Ihrem Microsoft-Zertifizierungsprofil ändern müssen, wenden Sie sich an [Zertifizierungssupport](https://aka.ms/mcpforum). Ein Forum-Moderator wird Ihnen innerhalb von 24 Geschäftsstunden antworten. Sie werden aufgefordert, die in Ihrem Microsoft-Zertifizierungsprofil enthaltenen Informationen zu bestätigen, bevor die Namensänderungsanforderung ausgeführt wird. Denken Sie daran, dass der Name in Ihrem Microsoft-Zertifizierungsprofil genau mit Ihrem Namen übereinstimmen muss, wie er auf dem von der Regierung ausgestellten Ausweis angegeben ist, den Sie zur Teilnahme an einer Microsoft-Zertifizierungsprüfung verwenden.
+**A:** Wenn Sie den Namen in Ihrem Microsoft-Zertifizierungsprofil ändern müssen, können Sie Ihre Anfrage zur Namensänderung direkt über unser neues [Webformular](https://aka.ms/MSCertificationLegalNamechange) an unser Support-Team senden. **Hinweis:** Dieses Formular ist derzeit nur in englischer Sprache verfügbar. Bei nicht-englischen Anfragen senden Sie bitte eine E-Mail an das [Certification Support Forum](https://aka.ms/mcpforum). Ein Teammitglied wird Ihnen innerhalb von 24 Geschäftsstunden antworten. Sie werden aufgefordert, die in Ihrem Microsoft-Zertifizierungsprofil enthaltenen Informationen zu bestätigen, bevor die Namensänderungsanforderung ausgeführt wird. Denken Sie daran, dass der Name in Ihrem Microsoft-Zertifizierungsprofil genau mit Ihrem Namen übereinstimmen muss, wie er auf dem von der Regierung ausgestellten Ausweis angegeben ist, den Sie zur Teilnahme an einer Microsoft-Zertifizierungsprüfung verwenden.
 
 <br/>
 

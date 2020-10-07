@@ -3,7 +3,6 @@ title: Microsoft Azure Architect Technologies
 metadata:
   title: 'Course AZ-303T00-A: Microsoft Azure Architect Technologies'
   description: 'Course AZ-303T00-A: Microsoft Azure Architect Technologies'
-  iltScheduling: true
 uid: course.az-303t00
 courseNumber: 'AZ-303T00-A'
 hoursToComplete: 120
@@ -39,7 +38,20 @@ prerequisitesSection: |-
   - Grundlegendes zu Active Directory-Konzepten, einschließlich Domains, Gesamtstrukturen, Domain-Controllern, Replikation, Kerberos-Protokoll und LDAP (Lightweight Directory Access Protocol).
   - Grundlegendes zu Ausfallsicherheit und Notfallwiederherstellung, einschließlich Sicherungs- und Wiederherstellungsvorgängen.
 outlineSection: |-
-  ### Modul 1&#58; Implementieren von VMs für Windows und Linux
+  ### Modul 1&#58; Implementieren eines virtuellen Netzwerks
+  In diesem Modul lernen Sie grundlegende Konzepte für virtuelle Netzwerke wie z.B. virtuelle Netzwerke und Subnetze, IP-Adressierung, Netzwerksicherheitsgruppen, Azure Firewall und Azure DNS kennen.
+  #### Lektionen
+  - Virtuelles Netzwerk-Peering
+  - Implementieren Sie VNet Peering
+
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Verbinden Sie Services mit Virtual Network Peering
+  - VNet Peering konfigurieren.
+  - Grundlegendes zu Service Chaining
+  - Ändern oder löschen Sie VNet Peering
+
+
+  ### Modul 2&#58; Implementieren von VMs für Windows und Linux
   In diesem Modul erhalten Sie Informationen zu virtuellen Azure-Maschinen, einschließlich Planung, Erstellung, Verfügbarkeit und Erweiterungen. Dieses Modul enthält&#58;
   #### Lektionen
   - Wählen Sie die Größe der virtuellen Maschine
@@ -48,14 +60,14 @@ outlineSection: |-
   - Bereitstellen und Konfigurieren von Skalensätzen
   - Konfigurieren Sie Azure-Festplattenverschlüsselung für VMs
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Implementierung virtueller Maschinen planen.
-  - Virtuelle Maschinen erstellen.
-  - Die Verfügbarkeit der virtuellen Maschine, einschließlich der Skalierungssätze konfigurieren.
-  - Grundlegendes zu Hochverfügbarkeitsoptionen für VMs in Azure.
+  Nach Abschluss dieses Moduls können die Schüler&#58; 
+  - Implementierung virtueller Maschinen planen
+  - Virtuelle Maschinen erstellen
+  - Die Verfügbarkeit der virtuellen Maschine, einschließlich der Skalierungssätze konfigurieren
+  - Grundlegendes zu Hochverfügbarkeitsoptionen für VMs in Azure
 
 
-  ### Modul 2&#58; Automatisieren von Bereitstellung und Konfiguration von Ressourcen
+  ### Modul 3&#58; Automatisieren von Bereitstellung und Konfiguration von Ressourcen
   In diesem Modul erfahren Sie mehr über die Tools, mit denen ein Azure-Administrator seine Infrastruktur verwaltet. Dies umfasst die Vorlagen für Azure Portal, Cloud Shell, Azure PowerShell, CLI sowie Ressourcenmanager-Vorlagen. Dieses Modul enthält&#58;
   #### Lektionen
   - Azure Resource Manager-Vorlagen
@@ -65,31 +77,18 @@ outlineSection: |-
   - Bereitstellung aus einer Vorlage
   - Erstellen und Ausführen eines Automatisierungs-Runbooks
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Azure Resource Manager verwenden, um Ressourcen zu organisieren.
-  - ARM-Vorlagen verwenden, um Ressourcen bereitzustellen.
-  - Erstellen und Ausführen eines Automatisierungs-Runbooks.
-  - Stellen Sie eine Azure-VM von einer virtuellen Festplatte bereit.
-  - Grundlegendes zu Azure-Verschlüsselungstechnologien.
-
-
-  ### Modul 3&#58; Implementieren eines virtuellen Netzwerks
-  In diesem Modul lernen Sie grundlegende Konzepte für virtuelle Netzwerke wie z.B. virtuelle Netzwerke und Subnetze, IP-Adressierung, Netzwerksicherheitsgruppen, Azure Firewall und Azure DNS kennen.
-  #### Lektionen
-  - Virtuelles Netzwerk-Peering
-  - Implementieren Sie VNet Peering
-
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Verbinden Sie Services mit Virtual Network Peering.
-  - VNet Peering konfigurieren.
-  - Grundlegendes zu Service Chaining.
-  - Ändern oder löschen Sie VNet Peering.
+  Nach Abschluss dieses Moduls können die Schüler&#58; 
+  - Azure Resource Manager verwenden, um Ressourcen zu organisieren
+  - ARM-Vorlagen verwenden, um Ressourcen bereitzustellen
+  - Erstellen und Ausführen eines Automatisierungs-Runbooks
+  - Stellen Sie eine Azure-VM von einer virtuellen Festplatte bereit
+  - Grundlegendes zu Azure-Verschlüsselungstechnologien
 
 
   ### Modul 4&#58; Implementieren von Load Balancing und Netzwerksicherheit
   In diesem Modul erfahren Sie mehr über Strategien zum Netzwerkverkehr, einschließlich Netzwerkrouting und Service-Endpunkte, Azure Load Balancer, Azure Application Gateway und Traffic Manager.
   #### Lektionen
-  - Azure Lastausgleicher implementieren
+  Azure Lastausgleicher implementieren
   - Implementieren Sie ein Application Gateway
   - Grundlegendes zur Webanwendungs-Firewall
   - Implementieren Sie die Azure-Firewall
@@ -98,17 +97,23 @@ outlineSection: |-
   - Implementieren Sie Netzwerksicherheitsgruppen und Anwendungssicherheitsgruppen
   - Implementieren Sie Azure Bastion
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Wählen Sie eine Load-Balancer-Lösung.
-  - Konfigurieren Sie Application Gateway.
-  - Implementieren Sie die Azure-Firewall.
-  - Erstellen Sie eine Azure-Front-Door.
-  - Grundlegendes zu Traffic Manager-Routing-Methoden.
-  - Netzwerksicherheitsgruppen (NSGs) konfigurieren.
+  #### Lab&#58; Implementieren hochverfügbarer Azure IaaS-Computerarchitektur
+  - Beschreiben Sie Merkmale hochverfügbarer Azure-VMs, die sich in derselben Verfügbarkeit befinden, die dahinter steht
+  - Beschreiben Sie Merkmale hochverfügbarer Azure-VMs, die sich in verschiedenen Verfügbarkeitszonen befinden
+  - Beschreiben Sie Merkmale der automatischen horizontalen Skalierung von Azure VM-Skalierungssätzen
+  - Beschreiben Sie Merkmale der manuellen vertikalen Skalierung von Azure VM-Skalierungssätzen
+
+  Nach Abschluss dieses Moduls können die Schüler&#58; 
+  - Wählen Sie eine Load-Balancer-Lösung
+  - Konfigurieren Sie Application Gateway
+  - Implementieren Sie die Azure-Firewall
+  - Erstellen Sie eine Azure-Front-Door
+  - Grundlegendes zu Traffic Manager-Routing-Methoden
+  - Netzwerksicherheitsgruppen (NSGs) konfigurieren
 
 
   ### Modul 5&#58; Implementieren Sie Speicher-Accounts
-  In diesem Modul erhalten Sie Informationen zu grundlegenden Speicherfunktionen, einschließlich Speicherkonten, Blob-Speicher, Azure-Dateien und Speichersicherheit. 
+  In diesem Modul erhalten Sie Informationen zu grundlegenden Speicherfunktionen, einschließlich Speicherkonten, Blob-Speicher, Azure-Dateien und Speichersicherheit.
   #### Lektionen
   - Speicher-Accounts
   - Blob-Speicherung
@@ -117,11 +122,11 @@ outlineSection: |-
   - Zugriff auf Blobs und Warteschlangen mithilfe von AAD
   - Konfigurieren Sie Azure Storage Firewalls und virtuelle Netzwerke
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Grundlegendes zu Services und Typen von Speicher-Accounts.
-  - Konfigurieren Sie Blob-Speicher, Konten, Container und Zugriffsebenen.
-  - implementieren Sie Shared-Access-Signaturen.
-  - Grundlegendes zu Azure Storage-Firewalls und virtuellen Netzwerken.
+  Nach Abschluss dieses Moduls können die Schüler&#58; 
+  - Grundlegendes zu Services und Typen von Speicher-Accounts
+  - Konfigurieren Sie Blob-Speicher, Konten, Container und Zugriffsebenen
+  - implementieren Sie Shared-Access-Signaturen
+  - Grundlegendes zu Azure Storage-Firewalls und virtuellen Netzwerken
 
 
   ### Modul 6&#58; Implementieren Sie Azure Active Directory
@@ -138,12 +143,12 @@ outlineSection: |-
   - Konfigurieren Sie Gastbenutzer in Azure AD
   - Mehrere Verzeichnisse verwalten
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Grundlegendes dazu, wie mehrere AAD-Organisationen interagieren.
-  - Hinzufügen von Gastbenutzern zu Azure AD.
-  - Konfigurieren Sie die Konfiguration der Standortbedingungen.
-  - Konfigurieren Sie die Azure MFA-Einstellungen.
-  - Implementieren Sie Azure MFA mit bedingtem Zugriff.
+  Nach Abschluss dieses Moduls können die Schüler&#58; 
+  - Grundlegendes dazu, wie mehrere AAD-Organisationen interagieren
+  - Hinzufügen von Gastbenutzern zu Azure AD
+  - Konfigurieren Sie die Konfiguration der Standortbedingungen
+  - Konfigurieren Sie die Azure MFA-Einstellungen
+  - Implementieren Sie Azure MFA mit bedingtem Zugriff
 
 
   ### Modul 7&#58; Implementieren und Verwalten von Azure Governance
@@ -156,12 +161,21 @@ outlineSection: |-
   - Implementieren und Konfigurieren einer Azure-Richtlinie
   - Azure Blueprints
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Grundlegendes zur Organisation von Ressourcengruppen.
-  - Grundlegendes zur Funktion von RBAC.
-  - Erstellen Sie eine Azure AD-Zugriffsüberprüfung.
-  - Erstellen und Verwalten Sie Richtlinien zur Durchsetzung der Compliance.
-  - Erstellen Sie eine Blaupause.
+  #### Lab&#58; Implementieren und Konfigurieren von Azure-Speicherdatei- und Blob-Diensten
+  - Implementieren Sie die Autorisierung von Azure Storage-Blobs, indem Sie gemeinsam genutzte Zugriffssignaturen nutzen
+  - Implementieren Sie die Autorisierung von Azure Storage-Blobs mit Hilfe von Azure Active Directory
+  - Implementieren Sie die Autorisierung von Azure Storage-Dateifreigabe mit Hilfe von Zugriffsschlüsseln
+
+  #### Lab&#58; Verwalten der rollenbasierten Azure-Zugriffssteuerung
+  - Definieren Sie eine benutzerdefinierte RBAC-Rolle
+  - Weisen Sie eine benutzerdefinierte RBAC-Rolle zu
+
+  Nach Abschluss dieses Moduls können die Schüler&#58; 
+  - Grundlegendes zur Organisation von Ressourcengruppen
+  - Grundlegendes zur Funktion von RBAC
+  - Erstellen Sie eine Azure AD-Zugriffsüberprüfung
+  - Erstellen und Verwalten Sie Richtlinien zur Durchsetzung der Compliance
+  - Erstellen Sie eine Blaupause
 
 
   ### Modul 8&#58; Implementieren und Verwalten hybrider Identitäten
@@ -169,12 +183,12 @@ outlineSection: |-
   #### Lektionen
   - Installieren und Konfigurieren von Azure AD Connect
   - Konfigurieren Sie die Passwortsynchronisierung und das Rückschreiben
-  - Voraussetzungen für Azure AD Connect konfigurieren.
+  - Voraussetzungen für Azure AD Connect konfigurieren
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Implementieren Sie nahtloses einmaliges Anmelden bei Azure AD.
-  - Führen Sie eine Azure AD Connect-Installation durch.
-  - Azure AD Connect Status überwachen.
+  Nach Abschluss dieses Moduls können die Schüler&#58; 
+  - Implementieren Sie nahtloses einmaliges Anmelden bei Azure AD
+  - Führen Sie eine Azure AD Connect-Installation durch
+  - Azure AD Connect Status überwachen
 
 
   ### Modul 9&#58; Verwalten Sie Workloads in Azure
@@ -187,12 +201,18 @@ outlineSection: |-
   - Wiederherstellung von Azure zu Azure-Standorten
   - Implementieren Sie Azure Update Management
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Grundlegendes zu agentenbasierter Migrationsarchitektur.
-  - Bereiten Sie Azure für die Migration vor.
-  - Bereiten Sie eine lokale VMware-Umgebung vor.
-  - Grundlegendes zur Azure VM-Sicherungsarchitektur.
-  - Verwalten von Updates und Patches für Azure-VMs.
+  #### Lab&#58; Schutz von Hyper-V-VMs mit Hilfe von Azure Site Recovery
+  - Konfigurieren Sie Azure Site Recovery
+  - Führen Sie ein einen Failover-Test durch
+  - Führen Sie ein geplantes Failover durch
+  - Führen Sie ein ungeplantes Failover durch
+
+  Nach Abschluss dieses Moduls können die Schüler&#58; 
+  - Grundlegendes zu agentenbasierter Migrationsarchitektur
+  - Bereiten Sie Azure für die Migration vor
+  - Bereiten Sie eine lokale VMware-Umgebung vor
+  - Grundlegendes zur Azure VM-Sicherungsarchitektur
+  - Verwalten von Updates und Patches für Azure-VMs
 
 
   ### Modul 10&#58; Implementieren Sie die Überwachung der Cloud-Infrastruktur
@@ -209,6 +229,10 @@ outlineSection: |-
   - Einblicke in Azure-Anwendungen
   - Einheitliche Überwachung in Azure
 
+  In diesem Modul lernen Sie 
+  - Grundlegendes zu Azure Log Analytics
+  - Grundlegendes zu Azure Service Health
+
 
   ### Modul 11&#58; Verwalten Sie die Sicherheit für alle Anwendungen
   In diesem Modul erfahren Sie mehr über Azure Key Vault und die Implementierung der Authentifizierung mithilfe von Azure Managed Identities.
@@ -216,9 +240,9 @@ outlineSection: |-
   - azure-key-vault
   - Azure Managed Identity
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Erläutern Sie die Verwendung von Key Vault wie Screts, Key und Cerficate Management.
-  - Verwenden Sie Managed Identities mit Azure-Ressourcen.
+  Nach Abschluss dieses Moduls können die Schüler&#58; 
+  - Erläutern Sie die Verwendung von Key Vault wie Screts, Key und Cerficate Management
+  - Verwenden Sie Managed Identities mit Azure-Ressourcen
 
 
   ### Modul 12&#58; Implementieren Sie eine Anwendungsinfrastruktur
@@ -232,11 +256,19 @@ outlineSection: |-
   - Implementieren Sie Logik-Apps
   - Azure Functions implementieren
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Konfigurieren Sie einen Azure App-Service.
+  #### Lab&#58; Konfigurieren einer nachrichtenbasierten Integrationsarchitektur
+  - Konfigurieren und validieren Sie einen Trigger für die Azure Funktions-App Storage Blob
+  - Konfigurieren und validieren Sie ein auf Azure Event Grid-Abonnements basierendes Warteschlangen-Messaging
+
+  #### Lab&#58; Implementieren Sie eine Azure App Service-Webanwendung mit einem Staging-Steckplatz
+  - Implementieren Sie das blau/grüne Bereitstellungsmuster mit Hilfe der Bereitstellungssteckplätze von Azure App Service-Webanwendungen
+  - Führen Sie A/B-Tests mit Hilfe von Bereitstellungssteckplätzen für Azure App Service-Webanwendungen durch
+
+  Nach Abschluss dieses Moduls können die Schüler&#58; 
+  - Konfigurieren Sie einen Azure App-Service
   - Einen App-Serviceplan erstellen.
-  - Erstellen Sie einen Workflow mit Azure Logic Apps.
-  - Erstellen Sie eine Funktions-App.
+  - Erstellen Sie einen Workflow mit Azure Logic Apps
+  - Erstellen Sie eine Funktions-App
 
 
   ### Modul 13&#58; Implementieren Sie containergestützte Anwendungen
@@ -245,9 +277,9 @@ outlineSection: |-
   - azure-container-instances
   - Konfigurieren Sie den Azure-Kybernetes-Service
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Führen Sie Azure-Container-Instanzen durch.
-  - Stellen Sie Kubernetes mit AKS bereit.
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Führen Sie Azure-Container-Instanzen durch
+  - Stellen Sie Kubernetes mit AKS bereit
 
 
   ### Modul 14&#58; Implementieren Sie NoSQL-Datenbanken
@@ -256,10 +288,10 @@ outlineSection: |-
   - Konfigurieren Sie Speicher-Accounttabellen
   - Wählen Sie die entsprechenden CosmosDB-APIs aus
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Skizzieren Sie das Table Service-Datenmodell.
-  - Grundlegendes zu Azure Cosmos DB.
-  - Grundlegendes zu Hochverfügbarkeit mit CosmosDB.
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Skizzieren Sie das Table Service-Datenmodell
+  - Grundlegendes zu Azure Cosmos DB
+  - Grundlegendes zu Hochverfügbarkeit mit CosmosDB
 
 
   ### Modul 15&#58; Implementieren Sie Azure SQL-Datenbanken
@@ -269,8 +301,8 @@ outlineSection: |-
   - Implementieren Sie verwaltete Azure SQL-Datenbankinstanzen
   - Hochverfügbarkeits- und Azure SQL-Datenbank
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Erstellen Sie eine einzelne Azure SQL-Datenbank.
-  - Erstellen Sie eine verwaltete Azure SQL-Datenbankinstanz.
-  - Empfehlen Sie hochverfügbare Architekturmodelle, die in der Azure SQL-Datenbank verwendet werden.
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Erstellen Sie eine einzelne Azure SQL-Datenbank
+  - Erstellen Sie eine verwaltete Azure SQL-Datenbankinstanz
+  - Empfehlen Sie hochverfügbare Architekturmodelle, die in der Azure SQL-Datenbank verwendet werden
 

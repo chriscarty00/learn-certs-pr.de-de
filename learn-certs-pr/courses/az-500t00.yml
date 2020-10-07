@@ -1,19 +1,29 @@
 ### YamlMime:Course
 title: Microsoft Azure Security Technologies
 metadata:
-  title: 'Kurs AZ-500T00-A: Microsoft Azure Security Technologies'
-  description: 'Kurs AZ-500T00-A: Microsoft Azure Security Technologies'
-  iltScheduling: true
+  title: 'Course AZ-500T00-A: Microsoft Azure Security Technologies'
+  description: 'Course AZ-500T00-A: Microsoft Azure Security Technologies'
 uid: course.az-500t00
 courseNumber: 'AZ-500T00-A'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Spizielle Datenklassifikationen in Azure beschreiben
-- skill: Azure Datenschutzmechanismen identifizieren
-- skill: Azure Datenverschlüsselungsmethoden implementieren
-- skill: Internetprotokolle schützen und wie man sie in Azure implementiert
-- skill: Beschreiben von Azure Security Diensten und Funktionen
+- skill: Implementieren Sie Governance-Unternehmesstrategien, einschließlich rollenbasierter Zugriffssteuerung, Azure-Richtlinien und Ressourcensperren.
+- skill: Implementieren Sie eine Azure AD-Infrastruktur mit Benutzern, Gruppen und Multi-Faktor-Authentifizierung.
+- skill: Implementieren Sie den Azure AD-Identitätsschutz, einschließlich Risikorichtlinien, bedingtem Zugriff und Zugriffsüberprüfungen.
+- skill: Implementieren Sie die Verwaltung privilegierter Azure AD-Identitäten, einschließlich Azure AD-Rollen und Azure-Ressourcen.
+- skill: Implementieren Sie Azure AD Connect einschließlich Authentifizierungsmethoden und lokaler Verzeichnissynchronisierung.
+- skill: Implementieren Sie Perimeter-Sicherheitsstrategien, einschließlich Azure Firewall.
+- skill: Implementieren Sie Netzwerksicherheitsstrategien, einschließlich Netzwerksicherheitsgruppen und Anwendungssicherheitsgruppen.
+- skill: Implementieren Sie Host-Sicherheitsstrategien, einschließlich Endpunktschutz, RAS-Verwaltung, Update-Verwaltung und Festplattenverschlüsselung.
+- skill: Implementieren Sie Containersicherheitsstrategien, einschließlich Azure Container-Instanzen, Azure Container-Register und Azure Kubernetes.
+- skill: Implementieren Sie Azure Key Vault, einschließlich Zertifikaten, Schlüsseln und Geheimnissen.
+- skill: Implementieren Sie Anwendungssicherheitsstrategien, einschließlich App-Registrierung, verwaltete Identitäten und Service-Endpunkte.
+- skill: Implementieren Sie Speichersicherheitsstrategien, einschließlich gemeinsam genutzter Zugriffssignaturen, Blob-Aufbewahrungsrichtlinien und Azure Dateien-Authentifizierung.
+- skill: Implementieren Sie Datenbanksicherheitsstrategien, einschließlich Authentifizierung, Datenklassifizierung, dynamische Datenmaskierung, und das immer verschlüsselt.
+- skill: Implementieren Sie Azure Monitor, einschließlich verbundener Quellen, Protokollanalysen und Warnungen.
+- skill: Implementieren Sie Azure Security Center. einschließlich Richtlinien, Empfehlungen und Just-in-Time-Zugriff auf virtuelle Maschinen.
+- skill: Implementieren Sie Azure Sentinel, einschließlich Arbeitsmappen, Ereignissen und Wiedergabebüchern.
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -31,49 +41,107 @@ products:
 exams:
 - uid: exam.az-500
 summary: |-
-  In diesem Kurs lernen die Studenten die Kenntnisse und
-  Die Fähigkeiten um Sicherheitskontrolle hu implementieren, Sciherheit zu erhalten
-  Und Schwächen zu identifizieren und beheben druch verschiedene sicherheits
-  Tools. Der Kurs deckt Skripting und Automatisierung, Virtualisierung und Cloud
-  N-Tier Architektur ab.
+  Dieser Kurs vermittelt IT-Sicherheitsexperten die Kenntnisse und Fähigkeiten, die zur Implementierung von Sicherheitskontrollen, zur Aufrechterhaltung der Sicherheitslage eines Unternehmens sowie zur Identifizierung und Behebung von Sicherheitslücken erforderlich sind. Dieser Kurs beinhaltet Sicherheit für Identität und Zugriff, Plattformschutz, Daten und Anwendungen sowie Sicherheitsvorgänge.
 
   #### Zielgruppenprofil
-  Die Teilnehmer sollten mindestens ein Jahr praktische Erfahrung in der Sicherung von Azure-Workloads und Erfahrung mit Sicherheitskontrollen für Azure-Workloads haben.
+  Dieser Kurs richtet sich an Azure Security Engineers, die die zugehörige Zertifizierungsprüfung ablegen möchten oder bei ihrer täglichen Arbeit Sicherheitsaufgaben ausführen. Dieser Kurs ist auch für Ingenieure hilfreich, die sich auf die Bereitstellung von Sicherheit für Azure-basierte digitale Plattformen spezialisieren und eine wichtige Rolle beim Schutz der Daten eines Unternehmens spielen möchten.
 prerequisitesSection: |-
-  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/learn/certifications/azure-administrator)
+  Um das Beste aus diesem Kurs herauszuholen, sollten die&#58;
+  - bewährte Sicherheitsmethoden und Sicherheitsanforderungen der Branche verstehen, z. B. gestaffelte Verteidigung, Zugriff mit geringsten Berechtigungen, rollenbasierte Zugriffskontrolle, Multi-Faktor-Authentifizierung, gemeinsame Verantwortung und Null-Vertrauens-Modell.
+  - sich mit Sicherheitsprotokollen wie VPN (Virtual Private Networks), IPSec (Internet Security Protocol), SSL (Secure Socket Layer), Festplatten- und Datenverschlüsselungsmethoden vertraut machen.
+  - Erfahrung in der Bereitstellung von Azure-Workloads haben. Dieser Kurs behandelt nicht die Grundlagen der Azure-Verwaltung, sondern der Kursinhalt baut auf diesem Wissen auf und vermittelt weitere sicherheitsspezifische Informationen.
+  - Erfahrung mit Windows- und Linux-Betriebssystemen und Skriptsprachen. Kurslabs können PowerShell und die CLI verwenden.
+
+  Um sich auf den Unterricht vorzubereiten, sollten Sie diese kostenlose Onlineschulung in Betracht ziehen.
+  - [Azure-Grundlagen](/learn/paths/azure-fundamentals/)
+  - [AZ-104&#58; Voraussetzungen für Azure-Administratoren](/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
-  ### Modul 1&#58; Identität und Zugriff
+  ### Modul 1&#58; Identität und Zugriff verwalten
+  Dieses Modul behandelt Azure Active Directory, Azure Identity Protection, Unternehmensverwaltung, Azure AD PIM und hybride Identität.
   #### Lektionen
-  -  Azure Active Directory für Azure workloads und subscriptions konfigurieren
+  - Azure Active Directory
+  - Azure-Identitätsschutz
+  - Unternehmensführung
   - Implementierung von Azure AD Privilegiertes Identitätsmanagement
-  - Sicherheit für eine Azure Subscription konfigurieren
+  - Hybride Identität
+
+  #### Lab&#58; Rollenbasierte Zugriffskontrolle
+
+  #### Lab&#58; Azure-Richtlinie
+
+  #### Lab&#58; Ressourcenmanagersperren
+
+  #### Lab&#58; MFA, bedingter Zugriff und AAD-Identitätsschutz
+
+  #### Lab&#58; Azure AD Privilegiertes Identitätsmanagement
+
+  #### Lab&#58; Directory Synchronisation implementieren
+
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Implementieren Sie Governance-Unternehmesstrategien, einschließlich rollenbasierter Zugriffssteuerung, Azure-Richtlinien und Ressourcensperren.
+  - Implementieren Sie eine Azure AD-Infrastruktur mit Benutzern, Gruppen und Multi-Faktor-Authentifizierung.
+  - Implementieren Sie den Azure AD-Identitätsschutz, einschließlich Risikorichtlinien, bedingtem Zugriff und Zugriffsüberprüfungen.
+  - Implementieren Sie die Verwaltung privilegierter Azure AD-Identitäten, einschließlich Azure AD-Rollen und Azure-Ressourcen.
+  - Implementieren Sie Azure AD Connect einschließlich Authentifizierungsmethoden und lokaler Verzeichnissynchronisierung.
 
 
-  ### Modul 2&#58; Platform Protection
+  ### Modul 2&#58; Plattformschutz implementieren
+  Dieses Modul behandelt die Perimeter-, Netzwerk-, Host- und Containersicherheit.
   #### Lektionen
-  - Verstehen der Cloud-Architektur
-  - Netzwerk bauen
-  - Netzwerk sichern
-  - Implementieren der Host-Sicherheit
-  - Implementieren der Plattform-Sicherheit
-  - Implementieren der Azure-Sicherheit
+  - Sicherheitsumfang
+  - Netzwerksicherheit
+  - Host-Sicherheit
+  - Container-Sicherheit
+
+  #### Lab&#58; Netzwerksicherheitsgruppen und Anwendungssicherheitsgruppen
+
+  #### Lab&#58; Azure Firewall
+
+  #### Lab&#58; Konfigurieren und Sichern von ACR und AKS
+
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Implementieren Sie Perimeter-Sicherheitsstrategien, einschließlich Azure Firewall.
+  - Implementieren Sie Netzwerksicherheitsstrategien, einschließlich Netzwerksicherheitsgruppen und Anwendungssicherheitsgruppen.
+  - Implementieren Sie Host-Sicherheitsstrategien, einschließlich Endpunktschutz, RAS-Verwaltung, Update-Verwaltung und Festplattenverschlüsselung.
+  - Implementieren Sie Containersicherheitsstrategien, einschließlich Azure Container-Instanzen, Azure Container-Register und Azure Kubernetes.
 
 
-  ### Modul 3&#58; Security Operations
+  ### Modul 3&#58; Daten und Anwendungen sichern
+  Dieses Modul behandelt Azure Key Vault, Anwendungssicherheit, Speichersicherheit und SQL-Datenbanksicherheit.
   #### Lektionen
-  - Konfigurieren von Sicherheitsdiensten
-  - Konfigurieren von Sicherheitsrichtlinien durch Azure Security Center
-  - Verwalten von Sicherheitswarnungen
-  - Auf sicheheitsprobleme reagieren
-  - Sicherheitsgrundlagen erstellen
+  - azure-key-vault
+  - Anwendungssicherheit
+  - Speichersicherheit
+  - SQL Datenbank-Sicherheit
+
+  #### Lab&#58; Key Vault (Implementieren sicherer Daten durch die Einstellung „immer verschlüsselt")
+
+  #### Lab&#58; Sichern der Azure SQL-Datenbank
+
+  #### Lab&#58; Service-Endpunkte und Speicher sichern
+
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Implementieren Sie Azure Key Vault, einschließlich Zertifikaten, Schlüsseln und Geheimnissen.
+  - Implementieren Sie Anwendungssicherheitsstrategien, einschließlich App-Registrierung, verwaltete Identitäten und Service-Endpunkte.
+  - Implementieren Sie Speichersicherheitsstrategien, einschließlich gemeinsam genutzter Zugriffssignaturen, Blob-Aufbewahrungsrichtlinien und Azure Dateien-Authentifizierung.
+  - Implementieren Sie Datenbanksicherheitsstrategien, einschließlich Authentifizierung, Datenklassifizierung, dynamische Datenmaskierung, und das immer verschlüsselt.
 
 
-  ### Modul 4&#58; Daten und Anwendungen
+  ### Modul 4&#58; Sicherheitsvorgänge verwalten
+  Dieses Modul behandelt Azure Monitor, Azure Security Center und Azure Sentinel.
   #### Lektionen
-  - Konfigurieren von Sicherheitsrichtlinien zur Datenverwaltung
-  - Sicherheit für die Dateninfrastruktur konfigurieren
-  - Konfigurieren der Verschlüsselung für Daten im Ruhezustand
-  - Sicherheit der Anwendung verstehen
-  - Sicherheit für die Bereitstellung von Anwendungen implementieren
-  - Anwendungen sichern
-  - Konfigurieren und Verwalten von Azure-Key-Vault
+  - Azure-Monitor
+  - Azure Security Center
+  - Azure Sentinel
+
+  #### Lab&#58; Azure Monitor
+
+  #### Lab&#58; Azure Security Center
+
+  #### Lab&#58; Azure Sentinel
+
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Implementieren Sie Azure Monitor, einschließlich verbundener Quellen, Protokollanalysen und Warnungen.
+  - Implementieren Sie Azure Security Center. einschließlich Richtlinien, Empfehlungen und Just-in-Time-Zugriff auf virtuelle Maschinen.
+  - Implementieren Sie Azure Sentinel, einschließlich Arbeitsmappen, Ereignissen und Wiedergabebüchern.
+

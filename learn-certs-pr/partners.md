@@ -2,13 +2,12 @@
 title: 'Microsoft Learning Partners and Providers | Microsoft Docs'
 description: 'Microsoft Learning Partners and Providers'
 documentationcenter: NA
-author: micsullivan
+author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 06/02/2020
-ms.author: msulliv
-ms.prod: non-product-specific
+ms.author: micsullivan
 ---
 # Microsoft Learning Partners: Die Fähigkeiten von morgen heute lehren.
 
@@ -18,7 +17,7 @@ Unabhängig davon, ob Sie Ihre Fertigkeiten verbessern und Ihre nächste Positio
 
 ## Finden Sie einen Microsoft Learning Partner im jeweiligen Land
 
-Unser weltweites Partnernetzwerk bietet flexible, lösungsorientierte und maßgeschneiderte Schulungen zu Microsoft-Technologien. Alle Ausbilder sind Microsoft Certified Trainer (MCTs), die strenge Schulungen abgeschlossen und strenge technische Zertifizierungsanforderungen erfüllt haben.
+Unser weltweites Partnernetzwerk bietet flexible, rollenbasierte, maßgeschneiderte Schulungen und Zertifizierungen für Microsoft-Technologien. Alle Ausbilder sind Microsoft Certified Trainer (MCTs), die strenge Schulungen abgeschlossen und strenge technische Zertifizierungsanforderungen erfüllt haben.
 
 Land auswählen:
 > [!div class="op_single_selector"]
@@ -143,7 +142,7 @@ Land auswählen:
 
 | <a name="bangladesh"></a>Bangladesch |
 |-----------|
-| [New Horizons CLC of Bangladesh](https://www.newhorizons.com/mspartner) |
+| [New Horizons CLC of Bangladesch ](https://www.newhorizons.com/mspartner) |
 
 | <a name="belarus"></a>Weißrussland |
 |-----------|
@@ -445,10 +444,12 @@ Land auswählen:
 |-----------|
 | [SMACLINK ACADEMY](https://smaclink.com/category/khoa-dao-tao/theo-hang-cong-nghe/microsoft/)   </br>[Trainocate](https://trainocate.com/courses/Microsoft) |
 
+
 ## Erkunden Sie über 1000 Lösungsanbieter
 
 > [!div class="nextstepaction"]
 > [EINEN MICROSOFT-LÖSUNGSANBIETER FINDEN](https://www.microsoft.com/en-us/solution-providers/search?cacheId=6b7c41ec-9246-4196-9541-7a4427a37f97)
+
 
 ## Vorteile für IT-Profis und Entwickler
 

@@ -183,7 +183,7 @@ Ein wichtiger Teil der Prüfungsentwicklung ist die Beta-Prüfung. Durch Ablegen
 
 ### So können Sie teilnehmen
 
-Microsoft Beta-Prüfungen werden mit einem Rabatt von 80% angeboten (Code erforderlich). Kandidaten, die das Examen ablegen, erhalten 25% Rabatt auf ihr nächstes Examen, nachdem das Umschreiben fertiggestellt wurde, wie hier unter [Updates](/learn/certifications/posts/updates-on-microsoft-beta-exam-program) im Programm Microsoft Beta-Examen erläutert.
+Microsoft Beta-Prüfungen werden mit einem Rabatt von 80% angeboten (Code erforderlich). Kandidaten, die den 80% -Rabatt für die Beta-Prüfung nutzen, erhalten 25% Rabatt auf ihre nächste Prüfung nach Abschluss der erneuten Bewertung, wie hier erläutert: [Updates für das Microsoft Beta-Prüfungsprogramm](/learn/certifications/posts/updates-on-microsoft-beta-exam-program). _Dieser Rabatt steht NICHT gemeinhin allen Beta-Teilnehmern zur Verfügung. Wenn Sie die Beta-Prüfung mit einer anderen Methode bezahlen, haben Sie keinen Anspruch auf den 25%.
 
 Um den Code zu erhalten, können Sie entweder Mitglied unserer SME -Profildatenbank sein oder ihn über den Abschnitt Ankündigungen auf der linken Seite unserer [Prüfungsrichtlinien und FAQs](/learn/certifications/certification-exam-policies). Qualifizierte Teilnehmer am Datenbankprogramm für SME -Profile erhalten einen eindeutigen Rabattcode für die Teilnahme an Beta-Prüfungen - das erhöht die Wahrscheinlichkeit, einen Platz in der Beta-Prüfung zu erhalten.
 
@@ -215,9 +215,9 @@ Sie erhalten in der Regel Ihre Prüfungsergebnisse innerhalb von 2-3 Wochen nach
 
 ### Bestehen der Beta-Prüfung
 
-Das Bestehen einer Beta-Prüfung in Ihrem Zertifizierungspfad wird für Ihre Zertifizierung angerechnet. Sie müssen die Prüfung nicht in der endgültigen Version erneut ablegen. Stellen Sie sicher, dass Sie innerhalb eines Jahres eine weitere Prüfung ablegen, damit Sie den 25% Rabatt nutzen können, den Sie für die Teilnahme an der Beta-Prüfung erhalten haben.
+Das Bestehen einer Beta-Prüfung in Ihrem Zertifizierungspfad wird für Ihre Zertifizierung angerechnet. Sie müssen die Prüfung nicht in der endgültigen Version erneut ablegen. Um die 25% Rabatt nutzen zu können, die Sie für die Beta-Prüfung durch unser Beta-Prüfungsrabattprogramm erhalten haben, müssen Sie innerhalb eines Jahres eine weitere Prüfung ablegen.
 
-Wenn Sie die Beta-Prüfung nicht bestehen, können Sie sie nicht erneut ablegen. Wenn Sie daran interessiert sind, eine Zertifizierung zu erhalten, die den erfolgreichen Abschluss dieser Prüfung erfordert, müssen Sie warten, bis Sie die Prüfung zu regulären Kosten erneut ablegen, wenn sie live ist, oder Sie können den 25% Rabatt, den Sie für die Teilnahme an der Beta-Prüfung erhalten haben, anwenden.
+Wenn Sie die Beta-Prüfung nicht bestehen, können Sie sie nicht erneut ablegen. Wenn Sie an einer Zertifizierung interessiert sind, die den erfolgreichen Abschluss dieser Prüfung erfordert, müssen Sie warten, bis die Prüfung zu regulären Kosten wiederholt wird, wenn sie live ist, oder Sie können den 25% -Rabatt, den Sie für die Teilnahme an der Beta-Prüfung erhalten haben, über unsere Beta-Prüfungsrabattprogramm anwenden.
 
 Wenn Sie glauben, dass Ihr Beta-Ergebnis verfügbar sein sollte (weil die Prüfung live ist oder Sie einen tweet gesehen haben, der angibt, dass es das war), überprüfen Sie zuerst, ob der Anbieter der Prüfungszustellung es online gestellt hat. Ist dies nicht der Fall, wenden Sie sich bitte an den Prüfungsanbieter. (Beachten Sie, dass es bis zu zwei Wochen nach Veröffentlichung der endgültigen Prüfungsversion dauern kann, bis Ihre Beta-Bewertung online zugänglich ist.) Wenn der Lieferant der Examensresultate eine Punktzahl veröffentlicht hat, diese jedoch nicht auf Ihrem Microsoft-Transkript angezeigt wird, wenden Sie sich an [Zertifizierungssupport](https://aka.ms/mcpforum).
 

@@ -1,12 +1,12 @@
 ### YamlMime:Role 
-title: Funktionale Berater 
+title: Functional Consultant 
 metadata: 
-  title: Funktionale Berater 
-  description: Funktionale Berater nutzen Microsoft Dynamics 365, um Kundenbedürfnisse zu antizipieren und zu planen. 
+  title: Functional Consultant 
+  description: Funktionsberater nutzen Microsoft Dynamics 365 und Microsoft Power Platform um Kundenbedürfnisse zu antizipieren und zu planen. 
 uid: role.functional-consultant 
 summary: | 
-  Funktionale Berater nutzen Microsoft Dynamics 365, um Kundenbedürfnisse zu antizipieren und zu planen.
-subTitle: Funktionale Berater nutzen Microsoft Dynamics 365, um Kundenbedürfnisse zu antizipieren und zu planen.
+  Funktionsberater nutzen Microsoft Dynamics 365 und Microsoft Power Platform um Kundenbedürfnisse zu antizipieren und zu planen.
+subTitle: Funktionsberater nutzen Microsoft Dynamics 365 und Microsoft Power Platform um Kundenbedürfnisse zu antizipieren und zu planen.
 certificationPaths: 
 - title: Dynamics 365 Customer Service Functional Consultant
   linkedInKeywords: Dynamics 365 Customer Service Functional Consultant
@@ -31,6 +31,7 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-field-service
     levels:
     - intermediate
+
 - title: Dynamics 365 Finance Functional Consultant
   linkedInKeywords: Dynamics 365 Finance Functional Consultant
   uid: certification-path.d365-functional-consultant-financials 
@@ -42,6 +43,8 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-financials
     levels:
     - intermediate
+
+
 - title: Dynamics 365 Manufacturing Functional Consultant
   linkedInKeywords: Dynamics 365 Manufacturing Functional Consultant
   uid: certification-path.d365-functional-consultant-manufacturing
@@ -53,6 +56,7 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-manufacturing
     levels:
     - intermediate
+
 - title: Dynamics 365 Marketing Functional Consultant
   linkedInKeywords: Dynamics 365 Marketing Functional Consultant
   uid: certification-path.d365-functional-consultant-marketing 
@@ -64,6 +68,7 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-marketing
     levels:
     - intermediate
+
 - title: Dynamics 365 Sales Functional Consultant
   linkedInKeywords: Dynamics 365 Sales Functional Consultant
   uid: certification-path.d365-functional-consultant-sales 
@@ -75,6 +80,7 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-sales
     levels:
     - intermediate
+
 - title: Dynamics 365 Supply Chain Management Functional Consultant
   linkedInKeywords: Dynamics 365 Supply Chain Management Functional Consultant
   uid: certification-path.d365-functional-consultant-supply-chain-management
@@ -86,6 +92,7 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-supply-chain-management
     levels:
     - intermediate
+
 certifications:
 - uid: certification.d365-functional-consultant-customer-service
   requiredExams:
@@ -122,13 +129,19 @@ certifications:
   requiredExams:
   - uid: exam.mb-300
   - uid: exam.mb-330  
+- uid: certification.power-platform-functional-consultant-associate
+  requiredExams:
+  - uid: exam.pl-200  
+- uid: certification.d365-business-central-functional-consultant-associate
+  requiredExams:
+  - uid: exam.mb-800
 resources:
 - title: Microsoft Leitfaden für Schulungen und Zertifizierungen
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Poster für Schulungen und Zertifizierungen
   description: Wählen Sie mit diesem Poster für Schulungen und Zertifizierungen Ihren Weg zum Erfolg.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Unterstützung von Zertifizierungen
   href: ../help.md
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.

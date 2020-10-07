@@ -1,6 +1,6 @@
 ---
-title: Microsoft Eingestellte Kurse | Microsoft Docs
-description: Microsoft Eingestellte Kurse
+title: Microsoft Retired Courses | Microsoft Docs
+description: Microsoft Retired Courses
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -15,7 +15,112 @@ In den folgenden Tabellen finden Sie eine Auflistung von Lehrmaterialien, die en
 
 Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem Link: [https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
 
-## Eingestelltes Lehrmaterial: Instruktorgeführte Ausbildung
+## Eingestelltes Lehrmaterial: Ausbilder-geführte Ausbildung
+
+* Ablauf von Kursmaterialien am, 31. Dezember 2020
+
+    | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
+    | --- | --- | --- | --- | --- |
+    | MB-200T00 | A | Microsoft Power Platform + Dynamics 365 Core | Englisch | 31/12/2020 |
+    | MB-400T00 | A | Microsoft Power Apps + Dynamics 365 Developer | Englisch | 31/12/2020 |
+
+* Ablauf von Kursmaterialien am, 30. November 2020
+
+    | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
+    | --- | --- | --- | --- | --- |
+    | 40512 | G | App modernization | Englisch | 11/30/2020 |
+    | 40528 | G | Business continuity and disaster recovery | Englisch | 11/30/2020 |
+    | 40503 | G | Enterprise-ready cloud | Englisch | 11/30/2020 |
+    | 40565 | G | Modernizing Data Analytics with SQL Server 2019 | Englisch | 11/30/2020 |
+    | 40533 | G | OSS PaaS and DevOps | Englisch | 11/30/2020 |
+    | 40563 | G | Real-time data with Azure Database for PostgreSQL Hyperscale | Englisch | 11/30/2020 |
+
+* Lernsoftwareeinstellung am 30. September 2020 und damit verbundene lokalisierte Kurseinstellungen am 30. Oktober 2020
+
+    | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
+    | --- | --- | --- | --- | --- |
+    | AZ-300T01 | A | Deploying the Modern Desktop | Englisch | 30/09/2020 |
+    | AZ-300T01ZH | A | Deploying the Modern Desktop | Chinesisch (Vereinfachtes) | 30/10/2020 |
+    | AZ-300T01KO | A | Deploying and Configuring Infrastructure | Koreanisch isch | 30/10/2020 |
+    | AZ-300T01JA | A | Deploying and Configuring Infrastructure | Japanisch| 30/10/2020 |
+    | AZ-300T02 | A | Implementing Workloads and Security | Englisch | 30/09/2020 |
+    | AZ-300T02ZH | A | Implementing Workloads and Security | Chinesisch (Vereinfachtes) | 30/10/2020 |
+    | AZ-300T02KO | A | Implementing Workloads and Security | Koreanisch isch | 30/10/2020 |
+    | AZ-300T02JA | A | Implementing Workloads and Security | Japanisch| 30/10/2020 |
+    | AZ-300T03 | A | Understanding Cloud Architect Technology Solutions | Englisch | 09/30/2020 |
+    | AZ-300T03ZH | A | Understanding Cloud Architect Technology Solutions | Chinesisch (Vereinfachtes) | 30/10/2020 |
+    | AZ-300T03KO | A | Understanding Cloud Architect Technology Solutions | Koreanisch | 30/10/2020 |
+    | AZ-300T03JA | A | Understanding Cloud Architect Technology Solutions | Japanisch| 30/10/2020 |
+    | AZ-300T04 | A | Creating and Deploying Apps | Englisch | 09/30/2020 |
+    | AZ-300T04ZH | A | Creating and Deploying Apps | Chinesisch (Vereinfachtes) | 30/10/2020 |
+    | AZ-300T04KO | A | Creating and Deploying Apps | Koreanisch | 30/10/2020 |
+    | AZ-300T04JA | A | Creating and Deploying Apps | Japanisch| 30/10/2020 |
+    | AZ-300T06 | A | Developing for the Cloud | Englisch | 09/30/2020 |
+    | AZ-300T06ZH | A | Developing for the Cloud | Chinesisch (Vereinfachtes) | 30/10/2020 |
+    | AZ-300T06KO | A | Developing for the Cloud | Koreanisch | 30/10/2020 |
+    | AZ-300T06JA | A | Developing for the Cloud | Japanisch| 30/10/2020 |
+    | AZ-301T01 | A | Designing for Identity and Security | Englisch | 09/30/2020 |
+    | AZ-301T01ZH | A | Designing for Identity and Security | Chinesisch (Vereinfachtes) | 30/10/2020 |
+    | AZ-301T01KO | A | Designing for Identity and Security | Koreanisch | 30/10/2020 |
+    | AZ-301T01JA | A | Designing for Identity and Security | Japanisch| 30/10/2020 |
+    | AZ-301T02 | A | Designing a Data Platform Solution | Englisch | 09/30/2020 |
+    | AZ-301T02ZH | A | Designing a Data Platform Solution | Chinesisch (Vereinfachtes) | 30/10/2020 |
+    | AZ-301T02KO | A | Designing a Data Platform Solution | Koreanisch | 30/10/2020 |
+    | AZ-301T02JA | A | Designing a Data Platform Solution | Japanisch| 30/10/2020 |
+    | AZ-301T03 | A | Design for Deployment, Migration, and Integration | Englisch | 09/30/2020 |
+    | AZ-301T03ZH | A | Design for Deployment, Migration, and Integration | Chinesisch (Vereinfachtes) | 30/10/2020 |
+    | AZ-301T03KO | A | Design for Deployment, Migration, and Integration | Koreanisch | 30/10/2020 |
+    | AZ-301T03JA | A | Design for Deployment, Migration, and Integration | Japanisch| 30/10/2020 |
+    | AZ-301T04 | A | Designing an Infrastructure Strategy | Englisch | 09/30/2020 |
+    | AZ-301T04ZH | A | Designing an Infrastructure Strategy | Chinesisch (Vereinfachtes) | 30/10/2020 |
+    | AZ-301T04KO | A | Designing an Infrastructure Strategy | Koreanisch | 30/10/2020 |
+    | AZ-301T04JA | A | Designing an Infrastructure Strategy | Japanisch| 30/10/2020 |
+
+* Courseware retirements on August 31st, 2020
+
+    | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
+    | --- | --- | --- | --- | --- |
+    | AZ-103T00 | A | Microsoft Azure Administrator | Englisch | 31/08/2020 |
+    | AZ-103T00ZH | A | Microsoft Azure Administrator | Chinesisch (Vereinfachtes) | 31/08/2020 |
+    | AZ-103T00KO | A | Microsoft Azure Administrator | Koreanisch | 31/08/2020 |
+    | AZ-103T00JA | A | Microsoft Azure Administrator | Japanisch| 31/08/2020 |
+    | AZ-203T01 | A | Develop Azure Infrastructure as a Service compute solutions | Englisch | 31/08/2020 |
+    | AZ-203T01ZH | A | Develop Azure Infrastructure as a Service compute solutions | Chinesisch (Vereinfachtes) | 31/08/2020 |
+    | AZ-203T01KO | A | Develop Azure Infrastructure as a Service compute solutions | Koreanisch | 31/08/2020 |
+    | AZ-203T01JA | A | Develop Azure Infrastructure as a Service compute solutions | Japanisch| 31/08/2020 |
+    | AZ-203T02 | A | Develop Azure Platform as a Service compute solutions | Englisch | 31/08/2020 |
+    | AZ-203T02ZH | A | Develop Azure Platform as a Service compute solutions | Chinesisch (Vereinfachtes) | 31/08/2020 |
+    | AZ-203T02KO | A | Develop Azure Platform as a Service compute solutions | Koreanisch | 31/08/2020 |
+    | AZ-203T02JA | A | Develop Azure Platform as a Service compute solutions | Japanisch| 31/08/2020 |
+    | AZ-203T03 | A | Develop for Azure storage | Englisch | 31/08/2020 |
+    | AZ-203T03ZH | A | Develop for Azure storage | Chinesisch (Vereinfachtes) | 31/08/2020 |
+    | AZ-203T03KO | A | Develop for Azure storage | Koreanisch | 31/08/2020 |
+    | AZ-203T03JA | A | Develop for Azure storage | Japanisch| 31/08/2020 |
+    | AZ-203T04 | A | Implement Azure security | Englisch | 31/08/2020 |
+    | AZ-203T04ZH | A | Implement Azure security | Chinesisch (Vereinfachtes) | 31/08/2020 |
+    | AZ-203T04KO | A | Implement Azure security | Koreanisch | 31/08/2020 |
+    | AZ-203T04JA | A | Implement Azure security | Japanisch| 31/08/2020 |
+    | AZ-203T05 | A | Monitor, troubleshoot, and optimize Azure solutions | Englisch | 31/08/2020 |
+    | AZ-203T05ZH | A | Monitor, troubleshoot, and optimize Azure solutions | Chinesisch (Vereinfachtes) | 31/08/2020 |
+    | AZ-203T05KO | A | Monitor, troubleshoot, and optimize Azure solutions | Koreanisch | 31/08/2020 |
+    | AZ-203T05JA | A | Monitor, troubleshoot, and optimize Azure solutions | Japanisch| 31/08/2020 |
+    | AZ-203T06 | A | Connect to and consume Azure and third-party services | Englisch | 31/08/2020 |
+    | AZ-203T06ZH | A | Connect to and consume Azure and third-party services | Chinesisch (Vereinfachtes) | 31/08/2020 |
+    | AZ-203T06KO | A | Connect to and consume Azure and third-party services | Koreanisch | 31/08/2020 |
+    | AZ-203T06JA | A | Connect to and consume Azure and third-party services | Japanisch| 31/08/2020 |
+    | MS-200T01 | A | Understanding the Modern Messaging Infrastructure | Englisch | 31/08/2020 |
+    | MS-200T02 | A | Managing Client Access and Mail Flow | Englisch | 31/08/2020 |
+    | MS-200T03 | A | Managing Messaging High Availability and Disaster Recovery | Englisch | 31/08/2020 |
+    | MS-201T01 | A | Defining a Hybrid Messaging Strategy | Englisch | 31/08/2020 |
+    | MS-201T02 | A | Managing Messaging Security, Hygiene, and Compliance | Englisch | 31/08/2020 |
+    | MS-300T01 | A | Managing Office 365 Content Services | Englisch | 31/08/2020 |
+    | MS-300T02 | A | Managing SharePoint Online | Englisch | 31/08/2020 |
+    | MS-300T03 | A | Enabling Microsoft Teams for Collaboration | Englisch | 31/08/2020 |
+    | MS-300T04 | A | Enabling Office 365 Workloads for Collaboration | Englisch | 31/08/2020 |
+    | MS-301T01 | A | Implementing SharePoint 2019 Infrastructure | Englisch | 31/08/2020 |
+    | MS-301T02 | A | Implementing SharePoint 2019 Service Applications | Englisch | 31/08/2020 |
+    | MS-301T03 | A | Implementing SharePoint Hybrid Scenarios | Englisch | 31/08/2020 |
+    | MS-301T04 | A | Migrating to SharePoint Online | Englisch | 31/08/2020 |
 
 * Ablauf von Kursmaterialien am, 30. Juni 2020
 
@@ -66,7 +171,7 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
     | 10165 | A | Updating Your Skills from Microsoft® Exchange Server 2003 or Exchange Server 2007 to Exchange Server 2010 SP1 | Englisch | 30/06/2020 |
     | 10169 | A | Implementing a Microsoft® SQL Server® 2008 Database | Brasilianisches Portugiesisch | 30/06/2020 |
     | 10174 | B | Configuring and Administering Microsoft® SharePoint® 2010 | Englisch | 30/06/2020 |
-    | 10175 | A | Microsoft® SharePoint® 2010, Application Development | Englisch | 30/06/2020 |
+    | 10175 | A | Microsoft® SharePoint® 2010, Application Development | Englisch 30/06/2020 |
     | 10215 | A | Implementing and Managing Microsoft® Server Virtualization | Englisch | 30/06/2020 |
     | 10221 | B | Configuração e solução de problemas de uma infraestrutura de rede do Windows Server® 2008 | Brazilian Portuguese | 30/06/2020 |
     | 10227 | A | Maintenance d'une base de données Microsoft SQL Server 2008 | Französisch | 30/06/2020 |
@@ -210,7 +315,7 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
     | MB-200T02 | A | Dynamics 365: Power Platform automation | Englisch | 31/01/2020 |
     | MB-200T03 | A | Dynamics 365: Power Platform integrations | Englisch | 31/01/2020 |
     | MB-200T04 | A | Dynamics 365: Power Platform test and deploy | Englisch | 31/01/2020 |
-    | MB-220T01 | A | Configure settings and core functionality in Dynamics 365 for Marketing  | Englisch | 31/01/2020 |
+    | MB-220T01 | A | Configure settings and core functionality in Dynamics 365 for Marketing | Englisch | 31/01/2020 |
     | MB-220T02 | A | Set Up events and surveys in Dynamics 365 for Marketing     | Englisch | 31/01/2020 |
     | MB-240T01 | A | Configuring Dynamics 365 for Field Service | Englisch | 31/01/2020 |
     | MB-240T02 | A | Work order and delivery execution for Dynamics 365 for Field Service | Englisch | 31/01/2020 |
@@ -367,8 +472,8 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
     | 20774 | A | Perform Cloud Data Science with Azure Machine Learning | Englisch | 30/6/2019
     | 20775 | A | Perform Data Engineering on Microsoft HD Insight | Englisch | 30/6/2019
     | 20776 | A | Engineering Data with Microsoft Cloud Services | Englisch | 30/6/2019
-    | 32410 | B | Installing and Configuring Windows Server 2012  | Türkisch | 30/6/2019
-    | 32411 | B | Administering Windows Server 2012  | Türkisch | 30/6/2019
+    | 32410 | B | Installing and Configuring Windows Server 2012 | Türkisch | 30/6/2019
+    | 32411 | B | Administering Windows Server 2012 | Türkisch | 30/6/2019
     | 40504 | G | Microsoft Cloud Workshop: Intelligent Vending Machines | Englisch | 30/6/2019
     | 40506 | G | Microsoft Cloud Workshop: Lift and Shift / Azure Resource Manager | Englisch | 30/6/2019
     | 40520 | G | Microsoft Cloud Workshop: Optimized Architecture | Englisch | 30/6/2019
@@ -390,20 +495,20 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
 
     | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
     | --- | --- | --- | --- | --- |
-    | 40536 | A | Build iOS apps with C# and .NET using the Xamarin tools for Visual Studio | Englisch | 01/5/2019
-    | 40537 | A | Build Android apps with C# and .NET using the Xamarin tools for Visual Studio | Englisch | 01/5/2019
-    | 40538 | A | Build native cross-platform mobile apps with a shared UI for iOS, Android, and UWP in C# .NET with Xamarin.Forms | Englisch | 01/5/2019
-    | 40539 | A | Build iOS apps with C# and .NET using the Xamarin tools for Visual Studio | Englisch | 01/5/2019
-    | 40540 | A | Build Android apps with C# and .NET using the Xamarin tools for Visual Studio | Englisch | 01/5/2019
-    | 40541 | A | Build native cross-platform mobile apps with a shared C# business logic for iOS, Android, and UWP in C# .NET with Xamarin and Visual Studio | Englisch | 01/5/2019
-    | 40542 | A | Build native cross-platform mobile apps with a shared UI for iOS, Android, and UWP in C# .NET with Xamarin.Forms (Einstellung am 1. Mai 2019) | Englisch | 01/5/2019
-    | AZ-200T01 | A | Select the appropriate Azure technology development solution | Englisch | 01/5/2019
-    | AZ-200T02 | A | Develop for Azure storage | Englisch | 01/5/2019
-    | AZ-200T03 | A | Develop Azure Platform as a Service solutions | Englisch | 01/5/2019
-    | AZ-200T04 | A | Implement security in Azure development solutions | Englisch | 01/5/2019
-    | AZ-201T01 | A | Develop for an Azure Cloud Model | Englisch | 01/5/2019
-    | AZ-201T02 | A | Implement Azure development integration Solutions | Englisch | 01/5/2019
-    | AZ-201T03 | A | Develop Azure Cognitive Services, Bot, and IoT solutions | Englisch | 01/5/2019
+    | 40536 | A | Build iOS apps with C# and .NET using the Xamarin tools for Visual Studio | Englisch | 01/05/2019
+    | 40537 | A | Build Android apps with C# and .NET using the Xamarin tools for Visual Studio | Englisch | 01/05/2019
+    | 40538 | A | Build native cross-platform mobile apps with a shared UI for iOS, Android, and UWP in C# .NET with Xamarin.Forms | Englisch | 01/05/2019
+    | 40539 | A | Build iOS apps with C# and .NET using the Xamarin tools for Visual Studio | Englisch | 01/05/2019
+    | 40540 | A | Build Android apps with C# and .NET using the Xamarin tools for Visual Studio | Englisch | 01/05/2019
+    | 40541 | A | Build native cross-platform mobile apps with a shared C# business logic for iOS, Android, and UWP in C# .NET with Xamarin and Visual Studio | Englisch | 01/05/2019
+    | 40542 | A | Build native cross-platform mobile apps with a shared UI for iOS, Android, and UWP in C# .NET with Xamarin.Forms (Einstellung am 1. Mai 2019) | Englisch | 01/05/2019
+    | AZ-200T01 | A | Select the appropriate Azure technology development solution | Englisch | 01/05/2019
+    | AZ-200T02 | A | Develop for Azure storage | Englisch | 01/05/2019
+    | AZ-200T03 | A | Develop Azure Platform as a Service solutions | Englisch | 01/05/2019
+    | AZ-200T04 | A | Implement security in Azure development solutions | Englisch | 01/05/2019
+    | AZ-201T01 | A | Develop for an Azure Cloud Model | Englisch | 01/05/2019
+    | AZ-201T02 | A | Implement Azure development integration Solutions | Englisch | 01/05/2019
+    | AZ-201T03 | A | Develop Azure Cognitive Services, Bot, and IoT solutions | Englisch | 01/05/2019
 
 * Ablauf von Kursmaterialien am, 31. März 2019
 
@@ -528,7 +633,7 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
     | 2261 | C | Supporting Users Running the Microsoft® Windows® XP Operating System | Englisch | 30/6/2018
     | 2272 | C | Implementing and Supporting Microsoft® Windows® XP Professional | Englisch | 30/6/2018
     | 2285 | B | Installing, Configuring & Administering Microsoft® Windows® XP Professional | Englisch | 30/6/2018
-    | 2311 | A | Advanced Web Application Development using Microsoft® ASP.NET  | Englisch | 30/6/2018
+    | 2311 | A | Advanced Web Application Development using Microsoft® ASP.NET | Englisch | 30/6/2018
     | 2335 | A | Assistance aux utilisateurs exécutant le système d'exploitation Microsoft® Windows® XP | Französisch | 30/6/2018
     | 2336 | A | Assistance aux utilisateurs exécutant des applications sous le système d'exploitation Microsoft® Windows® XP | Frranzösisch | 30/6/2018
     | 2349 | B | Programming with the Microsoft® .NET Framework Microsoft Visual C#™ .NET) | Englisch | 30/6/2018
@@ -552,11 +657,11 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
     | 2572 | A | Supporting Users Running the Microsoft® Windows® XP Operating System | Portugiesisch | 30/6/2018
     | 2573 | A | Supporting Users Running Applications on a Microsoft® Windows® XP Operating System | Portugiesisch | 30/6/2018
     | 2576 | A | Implementing And Administering Microsoft® Internet Information Services IIS) 6.0 | Englisch | 30/6/2018
-    | 2605 | A | Managing a Microsoft® Windows Server™ 2003 Environment  | Russisch | 30/6/2018
+    | 2605 | A | Managing a Microsoft® Windows Server™ 2003 Environment | Russisch | 30/6/2018
     | 2606 | A | Maintaining a Microsoft® Windows Server™ 2003 Environment | Russisch | 30/6/2018
     | 2667 | A | Introduction to Programming | Englisch | 30/6/2018
     | 2710 | B | Analyzing Requirements and Defining Microsoft® .NET Solution Architectures | Englisch | 30/6/2018
-    | 2717 | C | Introduction to Microsoft® .NET Development  | Englisch | 30/6/2018
+    | 2717 | C | Introduction to Microsoft® .NET Development | Englisch | 30/6/2018
     | 2730 | A | Building Microsoft® Content Management Server 2002 Solutions | Englisch | 30/6/2018
     | 2810 | A | Fundamentals of Network Security | Englisch | 30/6/2018
     | 2821 | A | Designing and Managing a Microsoft® Windows® Public Key Infrastructure | Englisch | 30/6/2018
@@ -568,16 +673,16 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
     | 2957 | B | Advanced Foundations of Microsoft® .NET 2.0 Development | Englisch | 30/6/2018
     | 3938 | C | Updating Your Skills from Microsoft® Exchange Server 2000 or Microsoft Exchange Server 2003 to Microsoft Exchange Server 2007 SP1 | Englisch | 30/6/2018
     | 4730 | A | Weiterführende Webanwendungstechnologien Mit Microsoft® Visual Studio® 2005 | Deutsch | 30/6/2018
-    | 4730 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005  | Deutsch | 30/6/2018
+    | 4730 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005 | Deutsch | 30/6/2018
     | 4994 | A | Introduction to Programming Microsoft .NET Applications with Microsoft Visual Studio 2005 | Englisch | 30/6/2018
     | 4995 | A | Programming with the Microsoft® .NET Framework using Microsoft Visual Studio® 2005 | Englisch | 30/6/2018
     | 5047 | B | Introduction to Installing and Managing Microsoft® Exchange Server 2007 SP1 | Englisch | 30/6/2018
-    | 5049 | A | Managing Messaging Security Using Microsoft Exchange Server 2007  | Englisch | 30/6/2018
+    | 5049 | A | Managing Messaging Security Using Microsoft Exchange Server 2007 | Englisch | 30/6/2018
     | 5050 | A | Recovering Messaging Servers and Databases Using Microsoft Exchange | Englisch | 30/6/2018
     | 5051 | A | Monitoring and TroubleShooting Microsoft Exchange Server 2007 | Englisch | 30/6/2018
     | 5053 | A | Designing a Messaging Infrastructure Using Microsoft Exchange Server 2007 | Englisch | 30/6/2018
     | 5054 | A | Designing a High Availability Messaging Solution Using Microsoft Exchange Server 2007 | Englisch | 30/6/2018
-    | 5058 | A | Projektserie: Deploying Microsoft Office 2007 Professional Edition  | Englisch | 30/6/2018
+    | 5058 | A | Projektserie: Deploying Microsoft Office 2007 Professional Edition | Englisch | 30/6/2018
     | 5060 | A | Implementing Windows® SharePoint® Services 3.0 | Englisch | 30/6/2018
     | 5061 | A | Implementing Microsoft Office SharePoint Server 2007 | Englisch | 30/6/2018
     | 5105 | C | Deploying Windows Vista® Business Desktops | Englisch | 30/6/2018
@@ -603,7 +708,7 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
     | 5945 | A | Implementing Microsoft® Office SharePoint® Server 2007 | Deutsch | 30/6/2018
     | 5947 | A | Deploying Microsoft® Windows Vista™ Business Desktops - Deutsch | Deutsch | 30/6/2018
     | 5949 | A | Installing and Configuring the Windows Vista Operating System | Deutsch | 30/6/2018
-    | 5949 | A | Installing and Configuring the Windows Vista™ Operating System  | Deutsch | 30/6/2018
+    | 5949 | A | Installing and Configuring the Windows Vista™ Operating System | Deutsch | 30/6/2018
     | 5951 | A | Configuring Windows Vista™ Applications and Tools - | Deutsch | 30/6/2018
     | 5954 | A | Résolution des problèmes et maintenance des ordinateurs Windows Vista™ | Französisch | 30/6/2018
     | 5955 | A | Verwalten von Computern und Problembehandlung unter Windows Vista | Deutsch | 30/6/2018
@@ -611,7 +716,7 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
     | 5957 | A | Unterstützung von Windows Vista und Windows Vista Anwendungen | Deutsch | 30/6/2018
     | 5970 | A | Installing and Configuring the Windows Vista Operating System - | Japanisch | 30/6/2018
     | 5971 | A | Configuring Windows Vista Mobile Computing and Applications - | Japanisch | 30/6/2018
-    | 5981 | A | Maintaining and Troubleshooting Windows Vista Computers - | Japanisch |  30/6/2018
+    | 5981 | A | Maintaining and Troubleshooting Windows Vista Computers - | Japanisch | 30/6/2018
     | 6066 | A | Developing Managed Applications for Microsoft Windows Mobile 6.0 | Englisch | 30/6/2018
     | 6067 | A | Developing Native Applications for Microsoft Windows Mobile 6.0 | Englisch | 30/6/2018
     | 6111 | A | Core Data Access with Microsoft® Visual Studio® 2005 | Chinesisch | 30/6/2018
@@ -708,7 +813,7 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
     | 80630 | A | Service clientèle dans Microsoft Dynamics® CRM 2013 | Französisch | 30/6/2018
     | 80631 | A | Customer Service in Microsoft Dynamics® CRM 2013 (Japanisch) | Japanisch | 30/6/2018
 
-* Ablauf von Kursmaterialien am 30. März 2018
+* Ablauf von Kursmaterialien am, 30. März 2018
 
     | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
     | --- | --- | --- | --- | --- |
@@ -933,7 +1038,7 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
     | 50430 | B | Administering Team Foundation Server 2010 | Englisch | 31/8/2015
     | 50523 | A | Deploying the Optimized Desktop with Windows 7 and Office 2010 | Englisch | 31/8/2015
 
-* Ablauf von Kursmaterialien am 30. Juni 2015
+* Ablauf von Kursmaterialien am, , 30. Juni 2015
 
   [Laden Sie die vollständige Liste der ausscheidenden, von Lehrkräften geleiteten Kurse herunter](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
 
@@ -1031,7 +1136,7 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
   * [Laden Sie die vollständige Liste der auslaufenden SA-E-Learning-Kurse herunter](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
   * [Laden Sie die vollständige Liste der auslaufenden MSIA-Learning-Kurse herunter.](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
 
-* Ablauf von Kursmaterialien am, 15. August 2017
+* Ablauf von Kursmaterialien am 15. August 2017
 
     | Kursnummer | Titel | Sprache | Ablaufdatum |
     | --- | --- | --- | --- |
@@ -1042,7 +1147,7 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
   * [Laden Sie die vollständige Liste der auslaufenden SA-E-Learning-Kurse herunter](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
   * [Laden Sie die vollständige Liste der auslaufenden MSIA E-Learning-Kurse herunter](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
 
-* Ablauf von Kursmaterialien am 30. Juni 2015
+* Ablauf von Kursmaterialien am, , 30. Juni 2015
 
   * [Laden Sie die vollständige Liste der auslaufenden E-Learning-Kurse herunter](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
 

@@ -12,7 +12,7 @@ skillsGained:
 - skill: Implementieren Sie Identitäts-Services.
 - skill: Verwalten von Netzwerkinfrastruktur-Services.
 - skill: Konfigurieren Sie Dateiserver und Speicher.
-- skill: Verwalten Sie virtuelle Maschinen mithilfe von Hyper-V-Virtualisierung und -Containern.
+- skill: Verwalten Sie virtuelle Maschinen mithilfe von Hyper-V-Virtualisierung und -Containern
 - skill: Implementieren Sie Lösungen für hohe Verfügbarkeit und Notfallwiederherstellung.
 - skill: Wenden Sie Sicherheitsfunktionen an, um kritische Ressourcen zu schützen.
 - skill: Konfigurieren Sie Remotedesktop-Services.
@@ -26,7 +26,7 @@ locales:
 levels:
 - intermediate
 roles:
-- developer
+- administrator
 products:
 - windows-server
 summary: |-
@@ -47,16 +47,15 @@ outlineSection: |-
   ### Modul 1&#58; Übersicht über die Windows Server-Verwaltung
   In diesem Modul wird beschrieben, wie man verschiedene Windows Server 2019-Editionen und -Techniken für Bereitstellung, Wartung und Aktivierung unterscheidet. In diesem Modul wird auch Windows Server Core eingeführt und mit der Desktop Experience-Version verglichen. Das Modul beschreibt Tools und Konzepte zum Verwalten von Windows Server, z. B. Windows Admin Center, PowerShell und Delegieren von Berechtigungen.
   #### Lektionen
+  - Übersicht über die Verwaltungsprinzipien und -tools von Windows Server
   - Einführung in Windows Server 2019
   - Windows Server Core-Übersicht
-  - Übersicht über die Verwaltungsprinzipien und Tools von Windows Server
-
 
   #### Lab&#58; Bereitstellen und Konfigurieren von Windows Server
   - Bereitstellen und Konfigurieren von Server Core
   - Implementieren und Verwenden der Remote-Serververwaltung
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
+  Nach Abschluss dieses Moduls können die Schüler&#58;
   - Beschreiben von Windows Server sowie von Techniken für die Bereitstellung, Wartung und Aktivierung.
   - Beschreiben von Windows Server Core, seiner Besonderheiten und Möglichkeiten zur Verwaltung.
 
@@ -64,24 +63,23 @@ outlineSection: |-
   ### Modul 2&#58; Identitäts-Services in Windows Server
   Dieses Modul führt Identitäts-Services ein und beschreibt Active Directory-Domain-Services (AD DS) in einer Windows Server-Umgebung. Das Modul beschreibt die Bereitstellung von Domain-Controllern in AD DS sowie das Azure Active Directory (AD) und die Vorteile der Integration von Azure AD in AD DS. Das Modul behandelt auch die Grundlagen der Gruppenrichtlinie und das Konfigurieren von Gruppenrichtlinienobjekten (Group Policy Objects, GPOs) in einer Domainumgebung. Schließlich beschreiben die Module die Rolle der Active Directory-Zertifikatdienste und die Zertifikatsverwendung.
   #### Lektionen
-  - Übersicht über AD DS
+  - Überblick über AD DS
   - Bereitstellen von Windows Server-Domain-Controllern
-  - Azure AD Übersicht
+  - Übersicht über Azure AD
   - Implementieren der Gruppenrichtlinie.
-  - Active Directory-Zertifikatsdienste Überblick
+  - Übersicht über Active Directory-Zertifikatdienste
 
-
-  #### Lab &#58; Implementieren von Identitäts-Services und Gruppenrichtlinien
+  #### Lab&#58; Implementieren von Identitäts-Services und Gruppenrichtlinien
   - Bereitstellen eines neuen Domain-Controllers auf Server Core
   - Konfigurieren von Gruppenrichtlinien
   - Bereitstellen und Verwenden von Zertifikats-Services
-  - Erläutern Sie die Grundlagen der Gruppenrichtlinien und konfigurieren Sie Gruppenrichtlinienobjekte in einer Domainumgebung.
-  - Beschreiben Sie die Rolle der Active Directory-Zertifikat-Services und der Zertifikatsverwendung
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
+  Nach Abschluss dieses Moduls können die Schüler&#58;
   - Beschreiben Sie AD DS in einer Windows Server-Umgebung.
   - Stellen Sie Domain-Controller in AD DS bereit.
   - Beschreiben von Azure AD und der Vorteile der Integration von Azure AD in AD DS.
+  - Erläutern Sie die Grundlagen der Gruppenrichtlinien und konfigurieren Sie Gruppenrichtlinienobjekte in einer Domainumgebung.
+  - Beschreiben Sie die Rolle der Active Directory-Zertifikat-Services und der Zertifikatsverwendung
 
 
   ### Modul 3&#58; Netzwerkinfrastruktur-Services in Windows Server
@@ -90,15 +88,12 @@ outlineSection: |-
   - Bereitstellen und Verwalten von DHCP
   - Bereitstellen und Verwalten des DNS-Services
   - Bereitstellen und Verwalten von IPAM
-  - RAS-Services in Windows Server
 
-
-  #### Lab &#58; Implementieren und Konfigurieren von Netzwerkinfrastruktur-Services in Windows Server
+  #### Lab&#58; Implementieren und Konfigurieren von Netzwerkinfrastruktur-Services in Windows Server
   - Bereitstellen und Konfigurieren von DHCP
   - Bereitstellen und Verwalten von DNS
-  - Web-Anwendungs-Proxy implementieren
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
+  Nach Abschluss dieses Moduls können die Schüler&#58;
   - Beschreiben, Bereitstellen und Konfigurieren des DHCP-Services.
   - DNS bereitstellen, konfigurieren und verwalten.
   - Beschreiben, Bereitstellen und Verwalten von IPAM.
@@ -114,19 +109,18 @@ outlineSection: |-
   - Implementierung von iSCSI
   - Bereitstellen eines verteilten Dateisystems
 
-
-  #### Lab &#58; Implementieren von Speicherlösungen in Windows Server
+  #### Lab&#58; Implementieren von Speicherlösungen in Windows Server
   - Datendeduplizierung implementieren
   - Konfigurieren von iSCSI-Speicher
   - Konfigurieren redundanter Speicherplätze
   - „Direkte Speicherplätze“ implementieren
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Implementieren der Freigabe in Windows Server.
-  - Bereitstellen der Speicherplatz-Technologie.
-  - Implementieren Sie die Datendeduplizierungsfunktion.
-  - Implementieren Sie iSCSI-basierte Speicher.
-  - Bereitstellen und Verwalten des Distributed File Systems (DFS).
+  Nach Abschluss dieses Moduls können die Schüler&#58;
+  - Implementieren der Freigabe in Windows Server
+  - Bereitstellen der Speicherplatz-Technologie
+  - Implementieren Sie die Datendeduplizierungsfunktion
+  - Implementieren Sie iSCSI-basierte Speicher
+  - Bereitstellen und Verwalten des Distributed File Systems (DFS)
 
 
   ### Modul 5&#58; Hyper-V-Virtualisierung und Container in Windows Server
@@ -138,12 +132,11 @@ outlineSection: |-
   - Container in Windows Server
   - Übersicht über Kubernetes
 
-
-  #### Lab &#58; Implementieren und Konfigurieren der Virtualisierung in Windows Server
+  #### Lab&#58; Implementieren und Konfigurieren der Virtualisierung in Windows Server
   - Erstellen und Konfigurieren von VMs
   - Container installieren und konfigurieren
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
+  Nach Abschluss dieses Moduls können die Schüler&#58;
   - Die wichtigsten Funktionen von Hyper-V in Windows Server beschreiben.
   - VM-Einstellungen und Bereitstellen und Konfigurieren von VMs in Hyper-V beschreiben.
   - Verwendung von Sicherheitstechnologien für die Virtualisierung erläutern.
@@ -159,13 +152,13 @@ outlineSection: |-
   - Übersicht über Stretch-Cluster
   - Hochverfügbarkeits- und Disaster Recovery-Lösungen mit Hyper-V-VMs
 
-
-  #### Lab &#58; Implementieren von Failover-Clustering
-  - Speicher konfigurieren und Cluster erstellen
+  #### Lab&#58; Implementieren von Failover-Clustering
+  - Konfigurieren von iSCSI-Speicher
+  - Konfigurieren eines Failover-Clusters
   - Bereitstellen und Konfigurieren eines hochverfügbaren Dateiservers
   - Überprüfung der Bereitstellung eines hochverfügbaren Dateiservers
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
+  Nach Abschluss dieses Moduls können die Schüler&#58;
   - Beschreiben des Failover-Clusters und der Überlegungen zu dessen Implementierung.
   - Erstellen und konfigurieren Sie Failovercluster.
   - Beschreiben Sie Stretch-Cluster.
@@ -178,12 +171,11 @@ outlineSection: |-
   - Hyper-V-Replik
   - Sichern und Wiederherstellen der Infrastruktur in Windows Server
 
-
-  #### Lab &#58; Implementieren von Hyper-V Replik und Windows Server Backup
+  #### Lab&#58; Implementieren von Hyper-V Replik und Windows Server Backup
   - Implementieren von Hyper-V Replica
   - Implementieren der Sicherung und Wiederherstellung mit Windows Server Backup
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
+  Nach Abschluss dieses Moduls können die Schüler&#58;
   - Hyper-V-Replikate planen und implementieren.
   - Beschreiben der Azure Site-Wiederherstellung.
   - Beschreiben und Implementieren der Windows Server-Sicherung.
@@ -193,19 +185,18 @@ outlineSection: |-
   ### Modul 8&#58; Übersicht über die Windows Server-Sicherheit
   Dieses Modul beschreibt die Sicherheitsfunktionen von Windows Server und deren Implementierung. Das Modul behandelt die in Windows Server verwendeten Anmeldeinformationen und erläutert die Implementierung des Schutzes für privilegierten Zugriff. Das Modul beschreibt nicht nur Methoden und Technologien zum Absichern der Windows Server-Sicherheit, sondern erklärt auch, wie Sie Just Enough Administration (JEA) konfigurieren und den SMB-Verkehr sichern. Schließlich behandelt das Modul Windows Update, seine Bereitstellungs- und Verwaltungsoptionen.
   #### Lektionen
-  - Anmeldeinformationen und privilegierter Zugriffsschutz
+  - Anmeldeinformationen und privilegierter Zugriffsschutz in Windows Server
   - Hardening des Windows Servers
-  - JEA in Windows Server
+  - Gerade genug Verwaltung in Windows Server
   - Sicherung und Analyse des SMB-Verkehrs
   - Windows Server-Updateverwaltung
-
 
   #### Lab&#58; Sicherheit in Windows Server konfigurieren
   - Konfigurieren von Windows Defender Credential Guard
   - Auffinden problematischer Konten
   - LAPS implementieren
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
+  Nach Abschluss dieses Moduls können die Schüler&#58;
   - Beschreiben Sie die in Windows Server verwendeten Anmeldeinformationen.
   - Erläutern Sie, wie Sie den Schutz für privilegierten Zugriff implementieren.
   - Beschreiben von Methoden und Technologien zur Sicherung der Sicherheit in Windows Server.
@@ -214,59 +205,57 @@ outlineSection: |-
   - Beschreiben von Windows Update und seiner Bereitstellungs- und Verwaltungsoptionen.
 
 
-  ### Modul 9&#58; RDS in Windows Server
+  ### Modul 9&#58; Remotedesktop-Services in Windows Server
   Dieses Modul beschreibt die wichtigsten Funktionen für RDP (Remote Desktop Protocol) und VDI (Virtual Desktop Infrastructure) in Windows Server. Das Modul behandelt die Bereitstellung sitzungsbasierter Desktops und beschreibt persönliche und gepolte virtuelle Desktops.
   #### Lektionen
-  - Überblick über RDS
+  - Übersicht über Remotedesktop-Services
   - Konfigurieren einer session-basierten Desktop-Bereitstellung
   - Übersicht über persönliche und gepoolte virtuelle Desktops
 
-
-  #### Lab &#58; RDS in Windows Server implementieren
+  #### Lab&#58; RDS in Windows Server implementieren
   - RDS implementieren
-  - Konfigurieren der Sitzungssammlungseinstellungen und Verwenden von RDC
+  - Konfigurieren der RemoteApp-Erfassungseinstellungen
   - Konfigurieren einer virtuellen Desktop-Vorlage
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
+  Nach Abschluss dieses Moduls können die Schüler&#58;
   - Beschreiben der Remotedesktop-Services (RDS) in Windows Server.
   - Beschreiben und Bereitstellen von session-basierten Desktops.
   - Beschreiben persönlicher und gepoolter virtueller Desktops.
 
 
   ### Modul 10&#58; Remote access and web services in Windows Server
-  In diesem Modul wird beschrieben, wie man virtuelle private Netzwerke (VPNs), Network Policy Server (NPS) und Microsoft Internet Information Services (IIS) implementiert. Das Modul beschreibt die Always On VPN-Funktionalität sowie die Konfiguration von NPS und Web Server (IIS) in Windows Server.
+  In diesem Modul wird beschrieben, wie man virtuelle private Netzwerke (VPNs), Network Policy Server (NPS) und Microsoft Internet Information Services (IIS) implementiert. Das Modul bietet einen Überblick über RAS-Services und beschreibt die „Always On" VPN-Funktionalität sowie die Konfiguration von NPS und Webserver (IIS) in Windows Server.
   #### Lektionen
+  - Übersicht über RAS in Windows Server
   - Implementierung von VPNs
-  - Implementierung von Always On VPN
   - NPS implementieren
+  - Implementierung von Always On VPN
   - Implementieren des Webservers in Windows Server
 
-
-  #### Lab &#58; Implementieren von Netzwerkdiensten
+  #### Lab&#58; Implementieren von Netzwerkdiensten
+  - Web-Anwendungs-Proxy implementieren
   - RDS in Windows Server implementieren
   - Bereitstellen und Konfigurieren des Web-Servers
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
+  Nach Abschluss dieses Moduls können die Schüler&#58;
   - Beschreiben der VPN-Optionen in Windows Server.
   - Beschreiben der Always On VPN-Funktionalität.
   - NPS beschreiben und konfigurieren.
   - Beschreiben und Konfigurieren des Webservers (IIS).
 
 
-  ### Modul 11&#58; Server- und Leistungsüberwachung in Windows Server
+  ### Modul 11&#58; Überwachung, Performance und Fehlerbehebung
   In diesem Modul wird beschrieben, wie Sie die Service- und Leistungsüberwachung implementieren und die Fehlerbehebung in Windows Server anwenden. Das Modul hebt Überwachungstools hervor und beschreibt, wie die Leistung überwacht wird, einschließlich der Ereignisprotokollierung, und wie die Überwachung der Ereignisprotokollierung zur Fehlerbehebung durchgeführt wird.
   #### Lektionen
   - Überblick über die Verwaltung von Windows server Überwachungstools
   - Verwendung des Leistungsmonitors
   - Überwachen von Ereignisprotokollen zur Fehlerbehebung
 
-
   #### Lab&#58; Überwachen und Entstören von Windows Server
   - Festlegung einer Leistungsgrundlage
   - Identifizieren der Quelle eines Leistungsproblems
+  - Anzeigen und Konfigurieren von zentralisierten Ereignisprotokollen
   - Identifizieren der Quelle eines Leistungsproblems
-
-  Identifizieren der Quelle eines Leistungsproblems
   - Beschreiben der Überwachungstools in Windows Server.
   - Beschreiben Sie die Leistungsüberwachung und verwenden Sie sie in Windows Server.
   - Beschreiben Sie die Ereignisprotokollierung und führen Sie zur Fehlerbehebung eine Überwachung der Ereignisprotokollierung durch.
@@ -279,11 +268,11 @@ outlineSection: |-
   - Speichermigrations-Service
   - Windows Server-Migrationstools
 
-
   #### Lab&#58; Server-Workloads migrieren
-  - Speichermigrations-Service implementieren
+  - Auswählen eines Prozesses zum Migrieren von Server-Workloads
+  - Planen der Migration von Dateien mit Hilfe des Speichermigrations-Services
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
+  Nach Abschluss dieses Moduls können die Schüler&#58;
   - Für die AD DS-Migration zu verwendende Tools beschreiben.
   - Beschreiben des Speichermigrations-Services.
   - Beschreiben der Windows Server-Migrationstools und ihrer Verwendungsszenarien.

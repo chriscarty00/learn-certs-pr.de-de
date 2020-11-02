@@ -5,8 +5,8 @@ metadata:
   description: 'Exam 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
 uid: exam.77-729
 displayName: 77-729
-summary: |+
-  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Erfahren Sie mehr</a>.</strong></font><br/><br/></div>
 
   Erfolgreiche Kandidaten verfügen über grundlegendes Verständnis der PowerPoint-Umgebung und demonstrieren die korrekte Anwendung von PowerPoint 2016. Kandidaten erstellen, bearbeiten und verbessern Präsentationen und Bildschirmpräsentationen. Beispielpräsentationen umfassen professionelle Verkaufspräsentationen, Angestelltenschulungen, Ausbildermaterial und Kiosk Slideshows
 
@@ -41,29 +41,31 @@ locales:
 levels:
 - intermediate
 skills:
-- Erstellen und Verwalten von Präsentationen (30-35%)
-- Texte, Formen und Bilder einfügen (20-25%)
+- Präsentationen erstellen und verwaltern (30-35%)
+- Text, Formen und Bilder einfügen und formatieren (20-25%)
 - Tabellen, Diagramme, SmartArt und Medien einfügen (20-25%)
 - Übergänge und Animationen anwenden (10-15%)
 - Mehrfache Präsentation verwalten (5-10%)
 roles:
-- developer
+- business-user
 products:
 - office-powerpoint
 relatedCertifications:
 - related:
     uid: certification.mos-powerpoint-2016
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2016
 resources:
-- title: Schulungs- und Zertifizierungsleitfaden
+- title: Informieren Sie sich über die Zertifizierungen
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
-- title: Prüfungsrichtlinien und FAQs
+- title: Prüfungsrichtlinien und häufig gestellten Fragen
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
 

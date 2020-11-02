@@ -5,8 +5,8 @@ metadata:
   description: 'Exam 77-726: Word 2016 Expert: Creating Documents for Effective Communication'
 uid: exam.77-726
 displayName: 77-726
-summary: |+
-  <div style='color&#58; red;'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Erfahren Sie mehr</a>.</strong></font><br/><br/></div>
 
   Kandiaten auf Experten Niveau für die Word 2016 Prüfung können die forgeschrittenen Funktionen von Word 2016 für Dokument und Contant-Management und für fortgeschrittenes Formatieren verwenden.
 
@@ -34,28 +34,30 @@ locales:
 levels:
 - intermediate
 skills:
-- Dokumentoptionen und -einstellungen verwalten (35-40%)
-- Fortgeschrittene Dokumente entwickeln (20-25%)
-- Fortgeschrittene Referenzen erstellen und verwaltern (20-25%)
-- Benutzerdefinierte Wordelemente erstellen (15-20%)
+- Verwalten von Dokumentoptionen und -einstellungen (35-40%)
+- Entwerfen erweiterter Dokumente (20-25%)
+- Erstellen erweiterter Referenzen (20-25%)
+- Erstellen benutzerdefinierter Word-Elemente (15-20%)
 roles:
-- developer
+- business-user
 products:
 - office
 relatedCertifications:
 - related:
     uid: certification.mos-word-2016-expert
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2016
 resources:
-- title: Schulungs- und Zertifizierungsleitfaden
+- title: Informieren Sie sich über die Zertifizierungen
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
-- title: Prüfungsrichtlinien und FAQs
+- title: Prüfungsrichtlinien und häufig gestellten Fragen
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
 

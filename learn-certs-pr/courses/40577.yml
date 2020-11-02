@@ -1,0 +1,55 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Innovate and modernize apps with Data and AI'
+metadata:
+  title: 'Course 40577-G: Microsoft Cloud Workshop: Innovate and modernize apps with Data and AI'
+  description: 'Course 40577-G: Microsoft Cloud Workshop: Innovate and modernize apps with Data and AI'
+uid: course.40577
+courseNumber: '40577-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Erfassung von Internet of Things (IoT)-Gerätedaten mit Azure IoT Hub
+- skill: Verarbeitung von Gerätedaten mit Azure Stream Analytics
+- skill: Anwendung des CQRS-Muster (Command and Query Responsibility Segregation) mit Azure-Funktionen
+- skill: Erstellung eines vorausschauenden Wartungsmodells mit Azure Synapse Analytics Spark-Notebooks
+- skill: Anwendung des Modells in einem Azure Machine Learning Modellregister
+- skill: Anwendung des Modells in einer Azure-Container-Instanz
+- skill: Erzeugung von Vorhersagen mit Azure-Funktionen, die auf einen Cosmos DB Änderungsfeed zugreifen
+- skill: Anwendungen modernisieren und künstliche Intelligenz in die Anwendung integrieren
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  In diesem Workshop werden Sie sich mit dem Prozess der Implementierung einer modernen Application mit Azure-Services befassen. Der Workshop umfasst Event Sourcing und Command and Query Responsibility Segregation (CQRS)-Muster, Laden von Daten, Datenvorbereitung, Datentransformation, Data Serving, Erkennung von Anomalien, Erstellung eines prädiktiven Wartungsmodells und Echtzeit-Bewertung eines prädiktiven Wartungsmodells.
+
+
+  #### Zielgruppe
+  Dieser Workshop richtet sich an Cloud-ArchitektInnen und IT-Fachleute, die über architektonisches Fachwissen zu Infrastruktur- und Lösungsdesign in Cloud-Technologien verfügen und mehr über Azure und Azure-Dienste erfahren möchten, wie sie in den Bereichen 'Über diesen Kurs' und 'Abschluss des Kurses' beschrieben sind. TeilnehmerInnen dieses Workshops sollten Erfahrung mit anderen Nicht-Microsoft-Cloud-Technologien haben, die Kursvoraussetzungen erfüllen und Azure genauer kennenlernen wollen.
+prerequisitesSection: |-
+  Der Inhalt des Workshops setzt eine architektonische Fachkompetenz auf 300 Ebenen in Bezug auf Infrastruktur- und Lösungsdesign voraus. Wir empfehlen den TeilnehmerInnen, diese Voraussetzung vor der Teilnahme an diesem Workshop zu erfüllen.
+  - Microsoft Azure Essentials Course, http&#58;//www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Modul 1&#58; Whiteboard-Design-Session - Modernisieren und verbessern von Apps mit Daten und KI
+  #### Einheiten
+  - Prüfung der Kunden-Fallstudie
+  - Gestaltung einer Proof-of-Concept-Lösung
+  - Präsentation der Lösung
+
+
+  ### Modul 2&#58; Hands-On Lab - Modernisieren und verbessern von Apps mit Daten und KI
+  #### Einheiten
+  - Einsatz eines Factory Load Simulators
+  - Anwendung von Azure Machine Learning, um ein prädiktives Instandhaltungsmodell zu trainieren und zu registrieren
+  - Erstellung einer Azure-Funktion, um Ereignis-Telemetrie an Cosmos DB zu übermitteln
+  - Erweiterung der Ereignistelemetrie mit prädiktiven Wartungsergebnissen
+  - Erweiterung der Ereignistelemetrie mit automatischer Anomalieerkennung
+  - Übermittlung von analysierten Telemetriedaten an PostgreSQL
+  - Modernisierung der Dienstleistungslogik zur Nutzung von Event Sourcing und CQRS
+  - Anzeigen des Factory Status in einem Power BI-Bericht
+

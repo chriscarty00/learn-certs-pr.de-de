@@ -1,33 +1,58 @@
 - name: Microsoft-Zertifizierungen
   href: index.yml
-- name: Offers
+- name: Angebote
   href: deals.md
 - name: Volumen-Lizensierung
   href: volume-licensing-program.md
 - name: Microsoft Learning Partners
   href: partners.md
-- name: Eingestellte Zertifizierungen, Prüfungen und Kurse
+- name: Abgelaufene Zertifizierungen, Prüfungen und Kurse
   expanded: false
   items:
   - name: Eingestellte Zertifizierungen
     href: retired-certifications.md
   - name: Eingestellte Prüfungen
-    href: retired-certification-exams.md 
+    href: retired-certification-exams.md
   - name: Eingestellte Kurse
     href: retired-courses.md
-- name: Werden Sie ein Microsoft zertifizierter Trainer
+- name: Werden Sie ein Microsoft-zertifizierter Trainer
   href: mct-certification.md
-- name: Informationen zu Microsoft-Zertifizierungsexamen
+- name: Informationen zu Microsoft-Zertifizierungsprüfungen
   href: certification-exams.md
 - name: Microsoft Prüfungs- und Zertifizierungsabzeichen
   href: badges.md
-- name: Über Online-Prüfungen
+- name: Über Online-Prüfungen mit Pearson VUE
   href: online-exams.md
+- name: Über Online-Prüfungen mit PSI
+  href: online-exams-psi.md
 - name: Prüfungsrichtlinien und FAQs
-  href: certification-exam-policies.md
-- name: Zertifizierungshilfe
+  expanded: false
+  items:
+  - name: Prüfungsprozessübersicht
+    href: exam-process-overview.md
+  - name: Prüfungssicherheitsrichtlinie und Prüfungswiederholungsrichtlinie
+    href: exam-security-policy-and-exam-retake-policy.md
+  - name: Prüfungsverschiebungs- und Stornierungsbedingungen
+    href: exam-reschedule-and-cancellation-policy.md
+  - name: Microsoft-Zertifizierungsprogramm-Vereinbarung
+    href: microsoft-certification-program-agreement.md
+  - name: Geheimhaltungsvereinbarung für Microsoft-Prüfungen
+    href: microsoft-exam-non-disclosure-agreement.md
+  - name: Unterkünfte anfordern
+    href: request-accommodations.md
+  - name: Prozess zur Anfechtung von Prüfungsteilen
+    href: exam-item-challenge-process.md
+  - name: Beta-Prüfungen
+    href: beta-exams.md
+  - name: College-Kredit für Zertifizierungsprüfungen
+    href: college-credit-for-certification-exams.md
+  - name: Studentenermäßigungen
+    href: student-discounts.md
+- name: Hilfe zur Zertifizierung
   href: help.md
-- name: Häufig gestellte Fragen zum Microsoft-Zertifizierungsprogramm 
+- name: Hilfe mit Microsoft Official Courseware (MOC)
+  href: certification-and-training-help.md
+- name: Microsoft Certification program FAQs
   href: microsoft-certification-program-faqs.md
 - name: Microsoft Learning verschieben...
   href: learnfaq.md

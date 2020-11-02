@@ -2,12 +2,13 @@
 title: Hilfe zur Microsoft-Zertifizierung | Microsoft Docs
 description: Hilfe zur Microsoft-Zertifizierung
 documentationcenter: NA
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 08/20/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # Hilfe zur Microsoft-Zertifizierung
 

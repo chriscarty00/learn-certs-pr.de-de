@@ -6,22 +6,22 @@ metadata:
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Erfahren Sie mehr</a>.</strong></font><br/><br/></div>
 
   Microsoft 365 Enterprise Administrators bewerten, planen, migrieren, stellen bereit und verwalten Microsoft 365 Services.
 
-  <div><br/><strong>Die MCSE Productivity Solutions Expert-Zertifizierung wird am 31. Januar 2021 eingestellt. Daher gilt die MCSE Productivity Solutions Expert-Zertifizierung nicht als Voraussetzung für Microsoft 365 Certified&#58; Enterprise Administrator Expert-Zertifizierung nach dem 31. Januar 2022 (1 Jahr nach der Einstellung von MCSE).</strong></div>
+  <div><br/><strong>MCSE&#58; Productivity Solutions Expert-Zertifizierung wird am 31. Januar 2021 eingestellt. Es wird bis zum 31. Januar 2022 (ein Jahr nach der Einstellung der Zertifizierung) weiterhin als Voraussetzung für diese Zertifizierung gelten.</strong></div>
 subTitle: Microsoft 365 Enterprise Administrators bewerten, planen, migrieren, stellen bereit und verwalten Microsoft 365 Services.
 levels:
 - advanced
 skills:
-- Entwerfen und Implementieren sie Microsoft 365-Dienste
-- Verwalten Sie Benutzeridentität und Rollen
-- Verwalten Sie den Zugriff und die Authentifizierung
-- Planen Sie Office 365-Workloads und -Anwendungen
-- Implementieren von modernen Geräte-Services
-- Implementieren Sie das Microsoft 365-Security und Threat-Management
-- Verwalten von Microsoft 365 Governance und Konformität
+- Entwerfen und Implementieren von Microsoft 365-Services
+- Benutzeridentität und Rollen verwalten
+- Zugriff und Authentifizierung verwalten
+- Office 365-Workloads und -Anwendungen planen
+- Implementieren moderner Geräteservices
+- Microsoft 365 Sicherheits- und Bedrohungsmanagement implementieren
+- Microsoft 365-Governance und -Konformität verwalten
 roles:
 - administrator
 type: role-based
@@ -32,8 +32,6 @@ courses:
 - uid: course.ms-101t00
 prerequisites:
 - uid: certification.modern-desktop
-  isOptional: false
-- uid: certification.m365-teamwork-administrator
   isOptional: false
 - uid: certification.m365-security-administrator
   isOptional: false
@@ -48,13 +46,13 @@ exams:
 - uid: exam.ms-100
 - uid: exam.ms-101
 resources:
-- title: Schulungs- und Zertifizierungsleitfaden
+- title: Informieren Sie sich über die Zertifizierungen
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: Prüfungswiederholung
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: deals.md
 - title: Unterstützung von Zertifizierungen

@@ -7,13 +7,13 @@ uid: exam.dp-300
 displayName: DP-300
 summary: |-
   <div>
-  <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong></font><br/><br/></div>
-  <div><strong>Der Inhalt dieser Prüfung wird am 24. September 2020 aktualisiert. Bitte laden Sie das unten stehende Dokument zur Kompetenzmessung herunter, um zu sehen, was sich ändern wird.</strong><br/><br/></div>
+  <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Erfahren Sie mehr</a>.</strong></font><br/><br/></div>
+  <div><strong>Der Inhalt dieser Prüfung wurde am 24. September 2020 aktualisiert. Bitte laden Sie das untenstehende Dokument „Skills measured” herunter, um zu sehen, was sich geändert hat.</strong><br/><br/></div>
   </div>
 
-  Kandidaten für dieses Examen sind Datenbankadministratoren und Datenverwaltungsspezialisten, die vor Ort und in Beziehung zu Cloud stehende Datenbanken verwalten, die auf Microsoft SQL Server- und Microsoft Azure-Datendiensten basieren.
+  Kandidaten für diese Prüfung sind Datenbankadministratoren und Datenverwaltungsspezialisten, die vor Ort und in Beziehung zu Cloud stehende Datenbanken verwalten, die auf Microsoft SQL Server- und Microsoft Azure-Datenservices basieren.
 
-  'Der Azure-Database Administrator implementiert und verwaltet die betrieblichen Aspekte von Cloud-nativen und hybriden Datenplattformlösungen, die auf Microsoft Azure Data Services und Microsoft SQL Server basieren. Der Azure-Datenbankadministrator verwendet eine Vielzahl von Methoden und Tools, um alltägliche Vorgänge auszuführen, einschließlich der Anwendung von Kenntnissen über die Verwendung von T-SQL für Verwaltungsverwaltungszwecke.
+  Der Azure-Database-Administrator implementiert und verwaltet die betrieblichen Aspekte von Cloud-nativen und hybriden Datenplattformlösungen, die auf Azure Data Services und SQL Server basieren. Der Azure-Datenbankadministrator verwendet eine Vielzahl von Methoden und Tools, um alltägliche Vorgänge auszuführen, einschließlich der Anwendung von Kenntnissen über die Verwendung von T-SQL für Verwaltungsverwaltungszwecke.
 
   Diese Rolle ist verantwortlich für die Verwaltung, Verfügbarkeit, Sicherheit und Leistungsüberwachung sowie die Optimierung moderner relationaler Datenbanklösungen. Diese Rolle arbeitet mit der Azure Data Engineer-Rolle zusammen, um betriebliche Aspekte von Datenplattformlösungen zu verwalten.
 subTitle: 'Dieses Examen misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Planen und Implementieren von Datenplattformressourcen; eine sichere Umgebung implementieren; Überwachung und Optimierung der Betriebsressourcen; Abfrageleistung optimieren; Automatisierung von Aufgaben durchführen; Planen und Implementieren einer HADR-Umgebung (High Availability and Disaster Recovery); und die Verwaltung mit T-SQL durchführen.'
@@ -22,17 +22,20 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3y
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=DP-300&examname=Exam%20DP-300:%20Administering%20Relational%20Databases%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-300
 locales:
 - en
+- zh-cn
+- ja
+- ko
 levels:
 - intermediate
 skills:
 - Der Inhalt dieser Prüfung wird am 24. September 2020 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich ändern wird.
 - Planen und Implementieren von Datenplattformressourcen (15-20%)
 - Implementieren Sie eine sichere Umgebung (15-20%)
-- Überwachung und Optimierung der Betriebsressourcen (15-20%)
-- Optimieren Sie die Abfrageleistung (5-10%)
+- Überwachung und Optimierung der Betriebsressourcen (5-10%)
+- Optimieren Sie die Abfrageleistung (10-15%)
 - Automatisierung von Aufgaben durchführen (10-15%)
-- Planen und Implementieren einer HADR-Umgebung (High Availability and Disaster Recovery) (15-20%)
-- Führen Sie die Administration mit T-SQL durch (10-15%)
+- Planen und Implementieren einer HADR-Umgebung (15-20%)(High Availability and Disaster Recovery)
+- Die Verwaltung mit T-SQL durchführen (10-15%)
 roles:
 - database-administrator
 products:
@@ -61,13 +64,13 @@ resources:
 - title: Reise zur Zertifizierung
   description: Informieren Sie sich über die nötigen Schritte für eine Zertifizierung als Azure Database Administrator Associate und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
-- title: Schulungs- und Zertifizierungsleitfaden
+- title: Informieren Sie sich über die Zertifizierungen
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: Prüfungswiederholung
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
@@ -77,9 +80,9 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
-- title: Prüfungsrichtlinien und FAQs
+- title: Prüfungsrichtlinien und häufig gestellten Fragen
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
 

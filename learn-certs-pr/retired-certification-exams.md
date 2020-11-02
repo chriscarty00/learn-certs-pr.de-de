@@ -2,12 +2,13 @@
 title: Microsoft Retired Exam | Microsoft Docs
 description: Microsoft Retired Exam
 documentationcenter: NA
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 07/30/2019
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # Prüfungen, die bald aus dem Programm genommen werden
 
@@ -64,12 +65,6 @@ Prüfungen suchen, die in den nächsten 12 Monaten aus dem Programm genommen we
 | [MB-200](/learn/certifications/exams/mb-200): Microsoft Power Platform + Dynamics 365 Core |
 | [MB-400](/learn/certifications/exams/mb-400): Microsoft Power Apps + Dynamics 365 Developer |
 
-| Einstellung am, 30. September 2020 |
-| --- |
-| [AZ-300](/learn/certifications/exams/AZ-300): Microsoft Azure Architect Technologies |
-| [AZ-301](/learn/certifications/exams/AZ-301): Microsoft Azure Architect Design |
-
-
 ## Kürzlich eingestellte Prüfungen
 
 Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, noch für einen Zeitraum von 12 Monaten einen Link zu ihrer Prüfungsdetailseite enthalten.
@@ -84,6 +79,8 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | AZ-201 | Microsoft Azure Developer Advanced Solutions (veröffentlicht am 24. September 2018) | 3. Januar 2019
 | AZ-202 | Microsoft Azure Developer Certification Transition (veröffentlicht am 24. September 2018) | 31. März 2019
 | [AZ-203](/learn/certifications/exams/AZ-203) | Developing Solutions for Microsoft Azure | August 31, 2020
+| [AZ-300](/learn/certifications/exams/AZ-300) | Microsoft Azure Architect Technologies | September 30, 2020
+| [AZ-301](/learn/certifications/exams/AZ-301) | Microsoft Azure Architect Design | September 30, 2020
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 30. Juni 2019
 | [MS-200](/learn/certifications/exams/ms-200) | Planning and Configuring a Messaging Platform | August 31, 2020
 | [MS-201](/learn/certifications/exams/ms-201) | Implementing a Hybrid and Secure Messaging Platform | August 31, 2020
@@ -268,8 +265,8 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | 70-458 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012, Part 2 | 31. Jul 2016
 | 70-459 | Transition Your MCITP: Database Administrator 2008 or MCITP: Database Developer 2008 to MCSE: Data Platform | 31. Januar 2016
 | 70-460 | Transition Your MCITP: Business Intelligence Developer 2008 to MCSE: Business Intelligence | 31. Januar 2016
-| 70-469 | Recertification for MCSE: Data Platform | 31. März 2017
-| 70-470 | Recertification for MCSE: Business Intelligence | 31. März 2017
+| 70-469 | Recertification for MCSE: Data Platform | Freitag, 31. März 2017
+| 70-470 | Recertification for MCSE: Business Intelligence | Freitag, 31. März 2017
 | 70-481 | Essentials of Developing Windows Store Apps Using HTML5 and JavaScript | 30. September 2016
 | 70-482 | Advanced Windows Store App Development Using HTML5 and JavaScript | 30. September 2016
 | 70-484 | Essentials of Developing Windows Store Apps Using C# | 30. September 2016
@@ -277,7 +274,7 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | 70-490 | Recertification for MCSD: Windows Store Apps Using HTML5 | 31. März 2017
 | 70-491 | Recertification for MCSD: Windows Store Apps Using C# | 31. März 2017
 | 70-492 | Upgrade Your MCPD: Web Developer 4 to MCSD: Web Applications | 30. September 2016
-| 70-494 | Recertification for MCSD: Web Applications | 31. März 2017
+| 70-494 | Recertification for MCSD: Web Applications | Freitag, 31. März 2017
 | 70-499 | Recertification for MCSD: Application Lifecycle Management | 31. März 2017
 | 70-500 | TS: Microsoft Windows Mobile 5.0, Implementing and Managing | 31. März 2011
 | 70-501 | TS: Windows Server 2003 Hosted Environments, Configuration and Management | 31. Oktober 2010
@@ -333,7 +330,7 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | 70-580 | TS: Windows Mobile 6.5, Application Development | 31. Dezember 2011
 | 70-582 | TS: Windows Embedded Standard 7 for Developers | 31. Juli 2014
 | 70-583 | PRO: Designing and Developing Microsoft Azure Applications | 31. Juli 2014
-| 70-595 | TS: Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2010 | 31. Juli 2015
+| 70-595 | TS: Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2010 | Freitag, 31. Juli 2015
 | 70-599 | Pro: Designing and Developing Windows Phone Applications | 30. September 2014
 | 70-620 | TS: Configuring Microsoft Windows Vista Client | 31. Juli 2013
 | 70-621 | PRO: Upgrading Your MCDST Certification to MCITP Enterprise Support | 31. März 2011
@@ -401,7 +398,7 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | 74-139 | Deploying Business Desktops with Microsoft Windows Server 2003 and Microsoft Office 2003 | 31. Oktober 2010
 | 74-322 | Microsoft Lync Server 2010—Advanced Design and Deployment | 31. Juli 2015
 | 74-324 | Administering Office 365 for Small Businesses | 24. August 2013
-| 74-325 | Administering Office 365 for Small Businesses | 31. Januar 2015
+| 74-325 | Administering Office 365 for Small Businesses | Samstag, 31. Januar 2015
 | 74-335 | Lync Network Readiness Assessment | 30. März 2016
 | 74-338 | Lync 2013 Depth Support Engineer | 30. März 2016
 | 74-353 | Windows UX Design | 31. Januar 2015
@@ -425,7 +422,7 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | 88-966 | Windows Server 2008 R2: Directory Knowledge Exam | 1. Januar 2014
 | 88-968 | Lync Server 2010 Knowledge Exam | 1. Januar 2014
 | 88-969 | Lync Server 2010 Lab Exam | 1. Januar 2014
-| 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | 31. Dezember 2013
+| 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | Dienstag, 31. Dezember 2013
 | 88-981 | Windows Server 2008 R2: Directory Lab Exam | 1. Januar 2014
 | 98-362 | Windows Development Fundamentals | 31. Juli 2014
 | 98-363 | Web Development Fundamentals | 31. Juli 2015
@@ -458,7 +455,7 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | MB2-876 | Extending Microsoft Dynamics CRM 2011 | Sonntag, 31. Januar 2016
 | MB3-408 | Microsoft Dynamics GP 9,0 Inventory and Order Processing | 11. Januar 2011
 | MB3-409 | Microsoft Dynamics GP 9,0 Financials | 11. Januar 2011
-| MB3-412 | Microsoft Dynamics GP 9,0 Installation and Configuration | 11. Januar 2011
+| MB3-412 | Microsoft Dynamics GP 9,0 Installation and Configuration | Dienstag, 11. Januar 2011
 | MB3-413 | Microsoft Dynamics GP 9,0 Project Series | 11. Januar 2011
 | MB3-430 | Microsoft Dynamics GP 9.0 Manufacturing Applications | 11. Januar 2011
 | MB3-451 | Microsoft Dynamics GP 9.0 Report Writer | 11. Januar 2011
@@ -473,15 +470,15 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | MB3-533 | GP 10.0 Human Resources with Payroll | 31. Dezember 2013
 | MB3-637 | GP 10.0 Manufacturing Applications | 31. Dezember 2013
 | MB3-700 | Microsoft Dynamics GP 2013 Installation & Configuration | 31. Juli 2015
-| MB3-701 | Microsoft Dynamics GP 2013 Financials | 31. Juli 2015
-| MB3-859 | Microsoft Dynamics GP 2010 Financials | 31. Dezember 2014
-| MB3-860 | Microsoft Dynamics GP 2010 Project Series | 31. Dezember 2014
+| MB3-701 | Microsoft Dynamics GP 2013 Financials | Freitag, 31. Juli 2015
+| MB3-859 | Microsoft Dynamics GP 2010 Financials | Mittwoch, 31. Dezember 2014
+| MB3-860 | Microsoft Dynamics GP 2010 Project Series | Mittwoch, 31. Dezember 2014
 | MB3-861 | Microsoft Dynamics GP 2010 Installation and Configuration | 31. Dezember 2014
-| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | 31. Dezember 2014
-| MB4-348 | SL 6.5 Financials | 31. März 2011
+| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | Mittwoch, 31. Dezember 2014
+| MB4-348 | SL 6.5 Financials | Donnerstag, 31. März 2011
 | MB4-349 | SL 6.5 Installation & Configuration | 31. März 2011
-| MB4-534 | SL 7.0 Installation & Configuration | 31. Dezember 2013
-| MB4-535 | SL 7.0 Financials | 31. Dezember 2013
+| MB4-534 | SL 7.0 Installation & Configuration | Dienstag, 31. Dezember 2013
+| MB4-535 | SL 7.0 Financials | Dienstag, 31. Dezember 2013
 | MB4-536 | SL 7.0 Project Series | 31. Dezember 2013
 | MB4-640 | SL 7.0 Customization Manager | 31. Dezember 2013
 | MB4-641 | SL 7.0 Tools for VB | 31. Dezember 2013
@@ -499,7 +496,7 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | MB5-854 | C5 2010 Programming | 1. Oktober 2013
 | MB5-855 | C5 2010 Advanced Programming | 1. Oktober 2013
 | MB5-856 | C5 2010 Application Consultant | 1. Oktober 2013
-| MB5-858 | Managing Microsoft Dynamics Implementations | 20. September 2013
+| MB5-858 | Managing Microsoft Dynamics Implementations | Freitag, 20. September 2013
 | MB6-202 | Axapta 3.0 Programming | 12. Januar 2010
 | MB6-203 | Axapta 3.0 Financials | 12. Januar 2010
 | MB6-204 | Axapta 3.0 Trade and Logistics | 12. Januar 2010
@@ -514,15 +511,15 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | MB6-295 | Axapta 3.0 Enterprise Portal Development | 12. Januar 2010
 | MB6-502 | AX 4.0 Product Builder | 30. September 2011
 | MB6-503 | AX 4.0 Installation and Configuration | 30. September 2011
-| MB6-504 | AX 4.0 Project Series | 30. September 2011
+| MB6-504 | AX 4.0 Project Series | Freitag, 30. September 2011
 | MB6-506 | AX 4.0 Questionnaire | 30. September 2011
-| MB6-507 | AX 4.0 Financials | 30. September 2011
+| MB6-507 | AX 4.0 Financials | Freitag, 30. September 2011
 | MB6-508 | AX 4.0 Development Introduction | 30. September 2011
 | MB6-509 | AX 4.0 Trade and Logistics | 30. September 2011
 | MB6-510 | AX 4.0 Human Resource Management | 30. September 2011
-| MB6-511 | AX 4.0 Production | 30. September 2011
+| MB6-511 | AX 4,0 Production | 30. September 2011
 | MB6-512 | AX 4.0 Enterprise Portal Development | 30. September 2011
-| MB6-513 | AX 4.0 MorphX Solution Development | 30. September 2011
+| MB6-513 | AX 4,0 MorphX Solution Development | 30. September 2011
 | MB6-700 | Microsoft Dynamics AX 2012 R2 Project | 31. Dezember 2016
 | MB6-701 | Microsoft Dynamics AX 2012 R3 Retail | 31. März 2017
 | MB6-702 | Microsoft Dynamics AX 2012 R3 Financials | 31. Dezember 2016
@@ -561,7 +558,7 @@ Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, no
 | MB7-515 | Microsoft Dynamics NAV 5.0 Financials | 30. November 2012
 | MB7-516 | Microsoft Dynamics NAV 5.0 C/SIDE Solution Development | 30. November 2012
 | MB7-517 | Microsoft Dynamics NAV 5.0 Installation and Configuration | 30. November 2012
-| MB7-700 | Microsoft Dynamics NAV 2013 Installation and Configuration | 31. Juli 2015
+| MB7-700 | Microsoft Dynamics NAV 2013 Installation and Configuration | Freitag, 31. Juli 2015
 | MB7-701 | Microsoft Dynamics NAV 2013 Core Setup and Finance | 31. Juli 2015
 | MB7-702 | Microsoft Dynamics NAV 2013 C/Side Development | 31. Juli 2015
 | MB7-838 | NAV 2009 Installation & Configuration | 30. Juni 2014

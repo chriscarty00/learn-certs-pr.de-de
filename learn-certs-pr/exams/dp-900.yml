@@ -6,7 +6,10 @@ metadata:
 uid: exam.dp-900
 displayName: DP-900
 summary: |-
+  <div>
   <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Erfahren Sie mehr</a>.</strong></font><br/><br/></div>
+  <div><strong>Der Inhalt dieser Prüfung wird am 2. Oktober 2020 aktualisiert. Bitte laden Sie das unten stehende Dokument zur Kompetenzmessung herunter, um zu sehen, was sich ändern wird.</strong><br/><br/></div>
+  </div>
 
   Kandidaten für die Azure Data Fundamentals-Zertifizierung sollten über grundlegende Kenntnisse von Kerndatenkonzepten und deren Implementieren mit Hilfe von Microsoft Azure-Daten-Services verfügen.
 
@@ -15,19 +18,29 @@ summary: |-
   Die Kandidaten sollten mit den Konzepten relationaler und nicht relationaler Daten sowie mit verschiedenen Arten von Daten-Workloads wie Transaktions- oder Analysedaten vertraut sein.
 
   Azure Data Fundamentals kann verwendet werden, um sich auf andere rollenbasierte Azure-Zertifizierungen wie Azure Database Administrator Associate oder Azure Data Engineer Associate vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen.
-subTitle: 'Beweisen Sie, dass Sie Folgendes beschreiben können: Kerndatenkonzepte; Arbeiten mit relationalen Daten in Azure; Arbeiten mit nicht-relationalen Daten in Azur sowie eine Workload-Analyse bei Azure.'
+subTitle: 'Beweisen Sie, dass Sie Folgendes beschreiben können: Kerndatenkonzepte; Arbeiten mit relationalen Daten in Azure; Arbeiten mit nicht-relationalen Daten in Azur sowie eine Workload-Analyse bei Azure'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
+practiceTestUrl: https://in.mindhub.com/dp-900-microsoft-azure-data-fundamentals-microsoft-official-practice-test/p/MU-DP-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 - providerType: gsi
   examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=DP-900&provider=psi&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
 locales:
 - en
+- ja
+- zh-cn
+- ko
+- fr
+- de
+- es
 levels:
 - beginner
 skills:
+- Der Inhalt dieser Prüfung wird am 22. Oktober 2020 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich ändern wird.
 - Beschreiben von Kerndatenkonzepten (15-20%)
 - Beschreiben, wie man mit relationalen Daten in Azure arbeitet (25-30%)
 - Beschreiben, wie man mit nicht-relationalen Daten in Azure arbeitet (25-30%)
@@ -51,13 +64,13 @@ resources:
 - title: Reise zur Zertifizierung
   description: Informieren Sie sich über die nötigen Schritte für eine Zertifizierung als Azure Data Fundamentals und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AM8g
-- title: Schulungs- und Zertifizierungsleitfaden
+- title: Informieren Sie sich über die Zertifizierungen
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: Prüfungswiederholung
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
@@ -69,7 +82,7 @@ resources:
 - title: Unterkünfte anfordern
   description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
-- title: Prüfungsrichtlinien und FAQs
+- title: Prüfungsrichtlinien und häufig gestellten Fragen
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
 

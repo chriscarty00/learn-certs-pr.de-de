@@ -1,0 +1,48 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Implementing Windows Virtual Desktop in the enterprise'
+metadata:
+  title: 'Course 40578-G: Microsoft Cloud Workshop: Implementing Windows Virtual Desktop in the enterprise'
+  description: 'Course 40578-G: Microsoft Cloud Workshop: Implementing Windows Virtual Desktop in the enterprise'
+uid: course.40578
+courseNumber: '40578-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Nutzung von Microsoft 365- und Azure-Technologien zum Aufbau einer virtuellen Windows-Desktop-Infrastruktur.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  Dieser Workshop bietet Ihnen die Möglichkeit, Erfahrungen mit dem Design von Lösungen für Windows Virtual Desktop unter Verwendung von Microsoft 365 und Azure-Technologien sammeln. Die folgenden Komponenten müssen als Teil der Lösungen bestimmt werden. Die erste besteht aus einem Microsoft 365-Abonnement, das erforderlich ist, um den Usern die Sicherheitsanforderungen, Azure Active Directory, Apps und Windows-Lizenzen zur Verfügung zu stellen. Als nächster Schritt muss die Azure-Infrastruktur konfiguriert werden, die für die Unterstützung der Windows Virtual Desktop-Umgebung erforderlich ist. Schließlich müssen die Netzwerkanforderungen für die Konnektivität mit der bestehenden lokalen Infrastruktur für Anwendungsserver und den ordnungsgemäßen Zugriff auf die Benutzer-Desktops und das lokale Netzwerk mit hohen Sicherheitsstandards und limitierter Latenz festgelegt werden.
+
+  #### Zielgruppe
+  Dieser Workshop richtet sich an Cloud-ArchitektInnen und IT-Fachleute, die über architektonisches Fachwissen zu Infrastruktur- und Lösungsdesign in Cloud-Technologien verfügen und mehr über Azure und Azure-Dienste erfahren möchten, wie sie in den Bereichen 'Über diesen Kurs' und 'Abschluss des Kurses' beschrieben sind. TeilnehmerInnen dieses Workshops sollten Erfahrung mit anderen Nicht-Microsoft-Cloud-Technologien haben, die Kursvoraussetzungen erfüllen und Azure genauer kennenlernen wollen.
+prerequisitesSection: |-
+  Der Inhalt des Workshops setzt eine architektonische Fachkompetenz auf 300 Ebenen in Bezug auf Infrastruktur- und Lösungsdesign voraus. Wir empfehlen den TeilnehmerInnen, diese Voraussetzung vor der Teilnahme an diesem Workshop zu erfüllen.
+  - Microsoft Azure Essentials Course, http&#58;//www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Modul 1&#58; Whiteboard-Design-Session - Implementierung von Windows Virtual Desktop im Unternehmen
+  #### Einheiten
+  - Prüfung der Kunden-Fallstudie
+  - Gestaltung einer Proof-of-Concept-Lösung
+  - Präsentation der Lösung
+
+
+
+  ### Modul 2&#58; Hands-On Lab - Implementierung von Windows Virtual Desktop im Unternehmen
+  #### Einheiten
+  - Konfigurieren von Azure AD Connect mit AD DS
+  - Azure AD-Gruppen für WVD erstellen
+  - Erstellen einer Azure-Dateifreigabe für FSLogix
+  - Master-Image für WVD erstellen
+  - Erstellen eines Host-Pools für persönliche Desktops
+  - Erstellen eines Host-Pools und gepoolte Remote-Anwendungen zuweisen.
+  - Eine Verbindung  zur WVD mit dem Web-Client herstellen
+  - Monitoring für WVD einrichten
+

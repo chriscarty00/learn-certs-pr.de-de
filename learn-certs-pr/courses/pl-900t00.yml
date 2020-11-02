@@ -8,12 +8,12 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 'Beschreiben der Power Platform-Komponenten: Power Apps, Power BI und Microsoft Automate '
-- skill: 'Beschreiben der Power Platform-Komponenten: Allgemeiner Daten-Service, Connector und AI Builder'
-- skill: Beschreiben von Cloud-übergreifenden Szenarien für M365-, Dynamics 365-, Microsoft Azure- und Drittanbieter-Dienste
-- skill: Identifizieren von Vorteilen und Funktionen von Power Platform
-- skill: Identifizieren der grundlegenden Funktionen und des Geschäftswert der Power Platform-Komponenten
-- skill: Umsetzen einfacher Lösungen mit Microsoft Automate, Power BI und Power Apps
+- skill: die Komponenten der Leistungsplattform, sprich Power Apps, Power BI und Microsoft Automate zu beschreiben
+- skill: die Komponenten der Leistungsplattforml, sprich Gemeinsamer Datendienst, Konnektoren und AI-Builder zu beschreiben
+- skill: Cross-Cloud-Szenarien für M365, Dynamics 365, Microsoft Azure und Dienste von Drittanbietern zu erklären
+- skill: Vorteile und Fähigkeiten der Power Platform zu identifizieren
+- skill: grundlegende Funktionalität und des Geschäftswerts der Power Platform-Komponenten zu identifizieren
+- skill: einfache Lösungen mit Power Apps, Power Automate, Power BI und Power Virtual Agents zu implementieren
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -26,93 +26,118 @@ products:
 exams:
 - uid: exam.pl-900
 summary: |-
-  Erfahren Sie mehr über den Geschäftswert und die Produktfunktionen von Power Platform. Erstellen Sie eine einfache Power App, verbinden Sie Daten mit dem Common Data Service, erstellen Sie ein Power BI-Dashboard und automatisieren Sie einen Prozess mit Power Automate.
+  Lernen Sie den Geschäftswert und die Produktfunktionen von Power Platform kennen. Erstellen Sie einfache Power Apps, verbinden Sie Daten mit Common Data Service, erstellen Sie ein Power BI-Dashboard, automatisieren Sie einen Prozess mit Power Automate und erstellen Sie einen Chatbot mit Power Virtual Agents.
 
-  #### Zielgruppenprofil
-  Kandidaten für diese Prüfung sind Anwender, die eine Produktivitätssteigerung durch Automatisierung von Geschäftsprozessen, durch Datenanalyse zum Erlangen geschäftlicher Erkenntnisse und durch effektiveres Handeln durch Erstellen einfacher App-Funktionen anstreben.
+  #### Zielgruppe
+  KandidatInnen für diese Prüfung sind AnwenderInnen, die ihre Produktivität durch die Automatisierung von Geschäftsprozessen, die Analyse von Daten zur Gewinnung von Geschäftserkenntnissen und durch die Erstellung einfacher App-Erlebnisse steigern möchten.
 prerequisitesSection: |-
-  Keine Vorbedingungen für diesen Kurs
+  Keine Voraussetzungen für diesen Kurs
 outlineSection: |-
-  ### Modul 1&#58; Einführung in Power Platform
-  Erfahren Sie mehr über die Komponenten von Power Platform, Möglichkeiten zum Verbinden von Daten und wie Unternehmen diese Technologie nutzen können, um Geschäftslösungen zu erstellen.
-  #### Lektionen
-  - Übersicht über Power Platform
-  - Modulübersicht
+  ### Modul 1&#58; Einführung in die Leistungsplattform
+  Informieren Sie sich über die Komponenten der Power Platform, Möglichkeiten zur Verbindung von Daten und darüber, wie Unternehmen diese Technologie zur Erstellung von Geschäftslösungen nutzen können.
+  #### Einheiten
+  - Überblick über die Leistungsplattform
+  - Modul-Zusammenfassung
 
-  Nach Abschluss dieses Moduls können die Schüler&#58;
-  - Identifizieren Sie, wann jede Power Platform-Komponentenanwendung zur Erstellung von Geschäftslösungen verwendet werden soll
-  - Lernen Sie den Wert der Nutzung von Power Platform zur Erstellung von Geschäftslösungen kennen
-  - Lernen Sie die Komponenten und Funktionen von Power Platform kennen
+  Nach Abschluss dieses Moduls sind die TeilnehmerInnen in der Lage,&#58;
+  - zu bestimmen, wann die einzelnen Power Platform-Komponentenanwendungen zur Erstellung von Geschäftslösungen eingesetzt werden sollen
+  - den Wert der Nutzung von Power Platform zur Erstellung von Geschäftslösungen zu kennen
+  - die Komponenten und Funktionen von Power Platform zu kennen
 
 
-  ### Modul 2&#58; Einführung in den allgemeinen Datenservice
-  Mit dem Common Data Service können Sie in leistungsstarke, skalierbare Datenlösungen in der Cloud eintauchen. Erfahren Sie, was den Common Data Service ausmacht und wie er mit der Power Platform zusammenarbeitet, um einzigartige und effiziente Geschäftslösungen zu erstellen.
-  #### Lektionen
-  - Überblick über den Common Data Service
-  - Modulübersicht
+  ### Modul 2&#58; Einführung in den gemeinsamen Datendienst
+  Der Common Data Service ermöglicht es Ihnen, sich mit leistungsstarken, skalierbaren Datenlösungen in der Cloud zu beschäftigen. Erfahren Sie, wie der Common Data Service funktioniert und wie er mit der Power Platform zusammenarbeitet, um einzigartige und effiziente Geschäftslösungen zu erstellen.
+  #### Einheiten
+  - Überblick über den gemeinsamen Datendienst
+  - Modul-Zusammenfassung
 
-  #### Lab&#58; Datenmodellierung
-  - Umgebung und Lösung schaffen
+  #### Labor &#58; Datenmodellierung
+  - Lösung erstellen
   - Entitäten und Beziehungen erstellen
   - Daten importieren
 
-  Nach Abschluss dieses Moduls können die Schüler&#58;
-  - Beschreiben Sie den Unterschied zwischen Common Data Service und Common Data Model
-  - Erklären Sie Anwendungsfälle und Einschränkungen von Geschäftsregeln und Prozessabläufen
-  - Erklären Sie, welche Umgebungen, Entitäten, Felder und Beziehungen im gemeinsamen Datendienst enthalten sind
+  Nach Abschluss dieses Moduls sind die TeilnehmerInnen in der Lage,&#58;
+  - den Unterschied zwischen Common Data Service und Common Data Model zu beschreiben
+  - Anwendungsfälle und Einschränkungen von Geschäftsregeln und Prozessabläufen zu erklären
+  - zu erklären, welche Umgebungen, Entitäten, Felder und Beziehungen im gemeinsamen Datendienst enthalten sind
 
 
   ### Modul 3&#58; Erste Schritte mit Power Apps
-  Erfahren Sie mehr über den Wert und die Funktionen von Power Apps und darüber, wie andere Unternehmen diese Technologie nutzen, um einfache Anwendungen für ihr Unternehmen zu erstellen.
-  #### Lektionen
-  - Übersicht über Power Apps
-  - Wie man eine App-Lösung erstellt
+  Erfahren Sie mehr den Wert und die Möglichkeiten von Power Apps und lernen Sie, wie andere Organisationen diese Technologie nutzen, um einfache Anwendungen für ihr Unternehmen zu entwickeln.
+  #### Einheiten
+  - Einführung in Power Apps
+  - Wie man eine Canvas-Anwendung erstellt
+  - Wie man eine modellgesteuerte Anwendung erstellt
+  - Einführung in Power Apps-Portale
 
-  #### Lab&#58; Canvas App, Teil 1
-  - Staff Canvas App erstellen
+  #### Lab &#58; Wie man eine Canvas-Anwendung erstellt, Teil 1
+  - Personal-Canvas-Anwendung erstellen
   - Vervollständigen Sie die App
 
-  #### Lab&#58; Canvas App, Teil 2
+  #### Lab &#58; Wie man eine Canvas-Anwendung erstellt, Teil 2
   - Sicherheits-Canvas-App erstellen
 
-  #### Lab&#58; Modellgetriebene App
+  #### Lab &#58; Wie man eine modellgesteuerte App erstellt
   - Anpassen von Ansichten und Formularen
-  - Modellgetriebene Anwendung erstellen
+  - Modellgetriebene App erstellen
 
-  Nach Abschluss dieses Moduls können die Schüler&#58;
-  - Erfahren Sie, wie andere Organisationen ihre Prozesse mit Power Apps digitalisieren
-  - Sehen Sie Power Apps in Aktion und lernen Sie Optionen für die Erstellung Ihrer ersten App kennen.
-  - Erfahren Sie, was Power Apps ist und welchen geschäftlichen Wert es hat
+  #### Lab &#58; Wie man ein Power Apps-Portal aufbaut
+  - Bereitstellung eines Power Apps-Portals
+  - Erstellen einer Portal-Webseite
+  - Ändern des Portal-Themas
+
+  Nach Abschluss dieses Moduls sind die TeilnehmerInnen in der Lage,&#58;
+  - zu erfahren, wie andere Organisationen ihre Prozesse mit Power Apps digitalisieren
+  - Power Apps in Aktion zu sehen und zu erfahren, wie Sie Ihre erste Anwendung erstellen können.
+  - zu erfahren, was Power Apps ist und welchen geschäftlichen Wert Power Apps mit sich bringt
 
 
   ### Modul 4&#58; Erste Schritte mit Power Automate
-  Erfahren Sie, wie Benutzer Power Automate zur Verbesserung der Effizienz und Produktivität von Unternehmen einsetzen können.
-  #### Lektionen
-  - Übersicht über Power Automate
+  Erfahren Sie, wie Anwender Power Automate zur Verbesserung der Unternehmenseffizienz und -produktivität einsetzen können.
+  #### Einheiten
+  - Überblick über Power Automate
   - Wie man eine automatisierte Lösung erstellt
 
-  #### Lab&#58; Power Automate
-  - Besuchsmeldungsfluss anlegen
-  - Sicherheitssweep-Flow erstellen
+  #### Labor &#58; Power Automate
+  - Visit-Notification-Flow erstellen
+  - Sicherheits-Sweep-Flow erstellen
 
-  Nach Abschluss dieses Moduls können die Schüler&#58;
-  - Sehen Sie, wie Power Automate funktioniert und aus der Perspektive des Benutzers aussieht
-  - Erstellen Sie einen einfachen Ablauf
-  - Lernen Sie den geschäftlichen Nutzen und die Funktionen von Power Automate kennen
+  Nach Abschluss dieses Moduls sind die TeilnehmerInnen in der Lage,&#58;
+  - zu sehen, wie Power Automate aus der Perspektive des Benutzers funktioniert und aussieht
+  - einen einfachen Ablauf aufzubauen
+  - den geschäftlichen Nutzen und die Funktionen von Power Automate zu kennen
 
 
   ### Modul 5&#58; Erste Schritte mit Power BI
-  Erfahren Sie, wie Unternehmen Power BI nutzen können, um Daten einfach zu bereinigen, anzuzeigen und zu verstehen, um besser informierte Entscheidungen zu gewährleisten.
-  #### Lektionen
-  - Power BI-Übersicht
-  - Wie man ein einfaches Dashboard erstellt
+  Erfahren Sie, wie Unternehmen mit Power BI Daten auf einfache Weise bereinigen, anzeigen und verstehen können, um besser informierte Entscheidungen zu gewährleisten.
+  #### Einheiten
+  - Power BI Überblick
+  - Wie man ein einfaches Dashboard aufbaut
 
-  #### Lab&#58; Power BI
-  - Erstellen Sie einen Power BI-Bericht
-  - Erstellen Sie ein Power BI-Dashboard
+  #### Lab &#58; Wie man ein einfaches Dashboard baut
+  - Power BI-Bericht erstellen
+  - Power BI-Dashboard erstellen
 
-  Nach Abschluss dieses Moduls können die Schüler&#58;
-  - Sehen Sie, wie Power BI aus der Sicht des Benutzers funktioniert und aussieht
-  - Erfahren Sie, wie Sie ein einfaches Power BI-Dashboard erstellen
-  - Beschreiben Sie den Geschäftswert und die Funktionen von Power BI
+  Nach Abschluss dieses Moduls sind die TeilnehmerInnen in der Lage,&#58;
+  - zu sehen, wie Power BI aus der Sicht des Anwenders funktioniert und aussieht
+  - zu wissen, wie man ein einfaches Power BI-Dashboard erstellt
+  -  den Geschäftswert und die Merkmale von Power BI zu kennen und beschreiben zu können
+
+  ### Modul 6&#58; Einführung in Power Virtual Agents
+  Informieren Sie sich über den Wert und die Fähigkeiten von Power Virtual Agents und darüber, wie Unternehmen diese Technologie nutzen können, um Chatbot-Lösungen für ihr Unternehmen zu entwickeln.
+  #### Einheiten
+  - Überblick über virtuelle Power-Agenten
+  - Wie man einen Chatbot programmiert
+
+  #### Lab &#58; Wie man einen einfachen Chatbot programmiert
+  - Melden Sie sich für PVA an und erstellen Sie einen neuen Bot
+  - Themen erstellen
+  - Test-Themen
+  - Ändern der Begrüßung
+  - Den Bot veröffentlichen
+
+  Nach Abschluss dieses Moduls sind die TeilnehmerInnen in der Lage,&#58;
+  - den Geschäftswert und die Merkmale von Power Virtual Agents zu beschreiben
+  - einen einfachen Chatbot zu bauen
+  - die wesentlichen Komponenten zu kennen, aus denen Power Virtual Agents und Chatbots bestehen
 

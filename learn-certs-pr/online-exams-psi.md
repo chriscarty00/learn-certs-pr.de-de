@@ -2,16 +2,17 @@
 title: Über Online-Prüfungen mit PSI | Microsoft Docs
 description: Über Online-Prüfungen mit PSI 
 documentationcenter: NA 
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 09/01/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # Über Online-Prüfungen mit PSI
 
-Grundlagen- und rollenbasierte Zertifizierungsprüfungen, die Teil des [Prüfungsangebots für Arbeitssuchende](https://aka.ms/skillscert) sind, müssen online über PSI abgelegt werden. Die Online-Prüfung bietet eine vollständig digitale Erfahrung in der Bequemlichkeit Ihres Zuhauses oder Büros, wobei die Integrität der Prüfungsergebnisse durch die Überwachung durch eine Aufsichtsperson über Webcam und Mikrofon gewahrt wird. Um zu verstehen, wie diese Erfahrung aussieht, [sehen Sie sich das PSI’ YouTube-Video](https://www.youtube.com/watch?v=FvqONzwF2nM) an und erfahren Sie mehr über das Ablegen von Online-Prüfungen unter Aufsicht mit PSI.
+Grundlagen und rollenbasierte Zertifizierungsprüfungen, die Teil des [USD15-Prüfungsangebots für Arbeitssuchende](https://aka.ms/skillscert) sind, müssen online über PSI, den Prüfungspartner von Microsoft für dieses Angebot, abgelegt werden. Die Online-Prüfung bietet eine vollständig digitale Erfahrung in der Bequemlichkeit Ihres Zuhauses oder Büros, wobei die Integrität der Prüfungsergebnisse durch die Überwachung durch eine Aufsichtsperson über Webcam und Mikrofon gewahrt wird. Um zu verstehen, wie diese Erfahrung aussieht, [sehen Sie sich das PSI’ YouTube-Video](https://www.youtube.com/watch?v=FvqONzwF2nM) an und erfahren Sie mehr über das Ablegen von Online-Prüfungen unter Aufsicht mit PSI.
 
 ## <a name="participating-countries-and-supported-languages"></a> Teilnehmende Länder und unterstützte Sprachen
 
@@ -21,9 +22,9 @@ Online-Prüfungen mit PSI sind in den meisten Ländern verfügbar und können in
 
 1. Lesen Sie die [Systemanforderungen](#system-requirements) und [Testprotokollanforderungen](#testing-protocol-requirements) auf dieser Seite.
 2. Führen Sie die erforderliche [Systemprüfung](#run-a-system-check) auf demselben Computer und am selben Ort durch, von dem aus Sie testen werden, um die Kompatibilität mit der Online-Proctoring-Software sicherzustellen.
-3. Bestätigen Sie, dass Ihre ID konform ist (lesen Sie die [Anforderungen an die Identitätsprüfung](/learn/certifications/online-exams-psi#identity-verification-requirements) weiter unten) und dass der Name in Ihrem Microsoft-Zertifizierungsprofil, der bei der Anmeldung zum Prüfungstermin verwendet wird, auf dem neuesten Stand ist. Um die Prüfung ablegen zu können, muss Ihr Name, der bei der Anmeldung zum Prüfungstermin verwendet wurde, mit der von Ihnen angegebenen ID übereinstimmen.
+3. Bestätigen Sie, dass Ihre ID konform ist (lesen Sie die [Anforderungen an die Identitätsprüfung](/learn/certifications/online-exams-psi#identity-verification-requirements) weiter unten) und dass der Name in Ihrem Microsoft-Zertifizierungsprofil, der bei der Anmeldung zum Prüfungstermin verwendet wird, auf dem neuesten Stand ist. Um die Prüfung ablegen zu können, muss Ihr Name, der bei der Anmeldung zum Prüfungstermin verwendet wurde, mit der von Ihnen angegebenen ID übereinstimmen .
 
-Wenn Sie Prüfungsanpassungen beantragen möchten, [senden Sie bitte eine entsprechende Anfrage an das PSI](https://psihelpdesk1522166508.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000991532), bevor Sie eine Prüfung planen; PSI wird innerhalb von 24-48 Geschäftsstunden antworten.
+Wenn Sie Prüfungsanpassungen beantragen möchten, [senden Sie bitte eine entsprechende Anfrage an das PSI](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872), bevor Sie eine Prüfung planen; PSI wird innerhalb von 24-48 Geschäftsstunden antworten.
 
 ## <a name="system-requirements"></a> Systemvoraussetzungen
 
@@ -47,7 +48,7 @@ Möglicherweise müssen Sie in Ihrer Internetsicherheits- und Antivirussoftware 
             <p>Mac OS X 10.13 und höher</p>
             <p>Hinweis: Windows-Betriebssysteme müssen die Echtheitsprüfung von Windows bestehen.</p>
             <p>
-            Windows Vista, Windows XP, Windows 7 und alle Linux/Unix-basierten Betriebssysteme sind für die Durchführung von Prüfungen strengstens untersagt.</p>
+            Windows Vista, Windows XP, Windows 7 und alle Linux / Unix-basierten Betriebssysteme sind für die Durchführung von Prüfungen strengstens untersagt.</p>
             </td>
         </tr>
         <tr>
@@ -143,7 +144,7 @@ Ihre Büro- oder Heimumgebung muss die folgenden Anforderungen erfüllen:
 
 ### Kommunikation mit Empfangs- und Aufsichtsperson:
 
-- **Telefon.** Während des Check-in-Vorgangs werden Sie aufgefordert, Ihre Telefonnummer einzugeben.  Wenn ein technisches Problem auftritt, werden Sie vom technischen Support unter der angegebenen Telefonnummer angerufen.
+- **Telefon.** Während des Check-in-Vorgangs werden Sie aufgefordert, Ihre Telefonnummer einzugeben. Wenn ein technisches Problem auftritt, werden Sie vom technischen Support unter der angegebenen Telefonnummer angerufen.
 - **Chat-Fenster.** Die gesamte Kommunikation mit der Empfangs und der Aufsichtsperson erfolgt über das Chat-Fenster.
 - **Sprache.** Die gesamte Kommunikation mit der Empfangs und der Aufsichtsperson erfolgt nur auf Englisch.
 
@@ -152,9 +153,9 @@ Ihre Büro- oder Heimumgebung muss die folgenden Anforderungen erfüllen:
 - Sie müssen einen aktuellen amtlichen Ausweis wie z. B. einen der folgenden vorweisen:
   - Führerschein
   - Reisepass
-  - Personalausweis (nationaler/staatlicher/regionaler Personalausweis)
+  - Personalausweis (nationaler / staatlicher / regionaler Personalausweis)
   - Ausländerregistrierungskarte (Green Card, Daueraufenthaltsgenehmigung, Visum)
-  - Von der Regierung ausgestellter Ausweis in der Landessprache (nicht in römischen Zeichen) - _wird nur akzeptiert, wenn er aus dem Land stammt, in dem der Kandidat den Test durchführt_
+  - Von der Regierung ausgestellter Ausweis in der Landessprache (nicht in römischen Zeichen) - wird nur akzeptiert, wenn er aus dem Land stammt, in dem der Kandidat den Test durchführt_
 - Ein Webcam-Foto wird von Ihnen und Ihrem Lichtbildausweis gemacht.
 - Der Name auf der ID muss genau mit dem Namen in Ihren Microsoft-Certification - und PSI-Profilen übereinstimmen.
 - Beachten Sie, dass Namensänderungsformulare, darunter Ausweis-Erneuerungsformulare, nicht für die online Bereitstellung verwendet werden können, falls Ihr Ausweis derzeit bearbeitet oder erneuert wird.
@@ -176,7 +177,7 @@ Ihre Büro- oder Heimumgebung muss die folgenden Anforderungen erfüllen:
 - Wenn Sie eine Krawatte tragen, werden Sie aufgefordert, die Krawatte anzuheben, um der Empfangsperson zu zeigen, dass unter der Krawatte nichts versteckt ist.
 - Wenn Sie lange Haare haben, die Ihre Ohren bedecken, werden Sie aufgefordert, Ihre Haare nach hinten zu streichen, um der Empfangsperson zu zeigen, dass an Ihrem Ohr nichts befestigt ist (z. B. ein Bluetooth-Ohrhörer).
 
-### Keine Pausen, Essen/Trinken:
+### Keine Pausen, Essen / Trinken:
 
 - Pausen, egal aus welchem Grund, sind während der Prüfung nicht zulässig. Sie verstehen und erklären sich damit einverstanden, dass bei einer Pause Ihr Prüfungsergebnis ungültig wird und Sie die Prüfung später nicht wieder aufnehmen können.
 - Essen, Trinken, Rauchen und Kaugummi kauen sind während der Prüfung verboten.
@@ -199,7 +200,7 @@ Ihre Büro- oder Heimumgebung muss die folgenden Anforderungen erfüllen:
 ### Weitere wichtige Informationen:
 
 - Wie bei jeder anderen Microsoft-Certification Prüfung müssen Sie die Bedingungen in unserer [Geheimhaltungsvereinbarung](/learn/certifications/certification-exam-policies#non-disclosure-agreement) (NDA) lesen und diesen zustimmen, sowie die Verhaltensanforderungen für Bewerber erfüllen. Dazu gehört unter anderem Folgendes:
-  - Sie dürfen keine Fragen oder Antworten aus der Prüfung kopieren oder aufzeichnen.
+  - Sie dürfen keine Fragen oder Antworten aus der Prüfung kopieren oder aufzeichnen. 
   - Sie dürfen die in der Prüfung enthaltenen Fragen oder Antworten nicht mit anderen teilen oder diskutieren.
 - Wenn Sie die [non-disclosure agreement](/learn/certifications/certification-exam-policies#non-disclosure-agreement) nicht befolgen oder in Verdacht geraten, zu betrügen oder die Software von PSI oder seinem Subunternehmer zu manipulieren, oder wenn ein Dritter in dem Raum gesehen wird, in dem Sie während der physisch sitzen, bricht der Aufsichtsführende die Prüfung sofort ab und meldet den Verstoß zusammen mit Audio- und/oder Videobeweisen an PSI und Microsoft. Ihre Prüfung kann für ungültig erklärt werden und Microsoft ergreift unter Umständen andere Maßnahmen, wie z. B. Ihre Zertifizierungen zu widerrufen und Sie von jedweder zukünftigen Beteiligung am Microsoft-Zertifizierungsprogramm auszuschließen.
 
@@ -209,8 +210,8 @@ Führen Sie vor der Registrierung und dem Kauf Ihrer Prüfung den [erforderliche
 
 ## <a name="schedule-for-an-online-exam"></a> Zeitplan für eine Online-Prüfung
 
-- Um einen Termin für eine Online-Prüfung mit PSI zu vereinbaren, klicken Sie auf die Microsoft-Certification Prüfung, die Sie ablegen möchten, in der [Liste der teilnahmeberechtigten Prüfungen](/learn/certifications/skillingoffer?WT.mc_id=gsi#discounted-microsoft-certification-exams-available-through-this-offer) und wählen Sie dann die Schaltfläche "**Termin für USD15**".
-- Wenn in Ihrem Land Online-Prüfungen verfügbar sind, können Sie diese Option während des Prüfungsplanungsprozesses auswählen. Sie werden zur PSI-Prüfungsplanungsseite gebracht, wo Sie Ihr Land und Ihre Zeitzone, eine Sprache sowie Datum und Uhrzeit für Ihre Prüfung auswählen.
+- Um einen Termin für eine Online-Prüfung mit PSI zu vereinbaren, klicken Sie auf die Microsoft-Certification Prüfung, die Sie ablegen möchten, in der [Liste der teilnahmeberechtigten Prüfungen](/learn/certifications/skillingoffer?WT.mc_id=gsi#discounted-microsoft-certification-exams-available-through-this-offer) und wählen Sie dann die Schaltfläche "**Termin für USD15**". 
+- Wenn in Ihrem Land Online-Prüfungen verfügbar sind, können Sie diese Option während des Prüfungsplanungsprozesses auswählen. Sie werden zur PSI-Prüfungsplanungsseite gebracht, wo Sie Ihr Land und Ihre Zeitzone, eine Sprache sowie Datum und Uhrzeit für Ihre Prüfung auswählen. 
 - Nach Abschluss der Prüfung müssen Sie für die Prüfung bezahlen.
 
 ## Starten der Prüfung und Eincheckvorgangs des Kandidaten
@@ -236,7 +237,7 @@ Sie erhalten innerhalb weniger Minuten nach Abschluss der Prüfung eine Benachri
 
 Sobald Sie Ihre Prüfung mit PSI abgeschlossen haben, **deinstallieren Sie die ausführbare Datei für den PSI Secure Browser**, indem Sie sie in Windows 10 aus den Apps und Funktionen entfernen oder auf MacOS in den Papierkorb verschieben.
 
-## <a name="frequently-asked-questions"></a> Häufig gestellte Fragen
+## <a name="frequently-asked-questions"></a> Häufig gestellte Fragen (FAQ)
 
 Hier finden Sie Antworten auf häufig gestellte Fragen zu den von PSI angebotenen Online-Prüfungen unter Aufsicht.
 
@@ -250,7 +251,7 @@ Nein, Sie sollten sich nicht zu einer Online-Prüfung mit PSI anmelden, wenn Ihr
 
 ### Wie beantrage ich Prüfungsanpassungen?
 
-Wenn Sie Prüfungsanpassungen beantragen möchten, reichen Sie bitte [eine Unterkunftsanfrage bei PSI ein](https://psihelpdesk1522166508.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000991532), bevor Sie eine Prüfung planen. PSI wird die Anfrage innerhalb von 24-48 Geschäftsstunden beantworten.
+Wenn Sie Prüfungsanpassungen beantragen möchten, reichen Sie bitte [eine Unterkunftsanfrage bei PSI ein](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872), bevor Sie eine Prüfung planen. PSI wird die Anfrage innerhalb von 24-48 Geschäftsstunden beantworten.
 
 ### Wie kann ich einen Termin für eine Online-Prüfung mit PSI vereinbaren?
 
@@ -334,7 +335,7 @@ Sie erhalten innerhalb weniger Minuten nach Abschluss der Prüfung eine Benachri
 
 Der Ergebnisbericht ist eine E-Mail, die eine numerische Punktzahl für die Gesamtleistung der Prüfung, den Status "bestanden/nicht bestanden", Informationen über Ihre Leistung in jedem bei der Prüfung bewerteten Kompetenzbereich sowie Einzelheiten zur Interpretation Ihrer Ergebnisse und zu den nächsten Schritten enthält.
 
-### Was bedeuten die Balken im Bewertungsbericht?
+### Was bedeuten die Prozente im Bewertungsbericht?
 
 Die Prozentsätze zeigen Ihre Leistung in jedem Abschnitt oder Kompetenzbereich, der in der Prüfung bewertet wurde. Diese Prozentsätze geben Auskunft über Ihre Leistung auf Sektionsebene. Höhere Prozentsätze spiegeln eine bessere Leistung wider.
 

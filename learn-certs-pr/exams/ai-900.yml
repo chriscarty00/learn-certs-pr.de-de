@@ -5,15 +5,30 @@ metadata:
   description: 'Exam AI-900: Microsoft Azure AI Fundamentals'
 uid: exam.ai-900
 displayName: AI-900
-summary: "<div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Mehr erfahren</a>.</strong></font><br/><br/></div>\r\n\r\nKandidaten für diese Prüfung sollten über grundlegende Kenntnisse der Konzepte maschinellen Lernens (ML) und künstlicher Intelligenz (AI) sowie der zugehörigen Microsoft Azure-Services verfügen.\r\n\r\nDieses Prüfung bietet Gelegenheit, Kenntnisse über gängige ML- und AI-Workloads und deren Implementieren in Azure nachzuweisen.  \r\n\r\nDieses Prüfung richtet sich an Kandidaten mit technischem wie auch nichttechnischem Hintergrund. Erfahrung in Data-Science und Software-Engineering ist nicht erforderlich. Einige allgemeine Programmierkenntnisse oder -erfahrungen wären jedoch von Vorteil.  \r\n\r\nAzure AI-Grundlagen können verwendet werden, um sich auf andere rollenbasierte Azure-Zertifizierungen wie Azure Data Scientist Associate oder Azure AI Engineer Associate vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen."
+summary: |-
+  <div>
+  <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Erfahren Sie mehr</a>.</strong></font><br/><br/></div>
+  <div><strong>Der Inhalt dieser Prüfung wird am 2. Oktober 2020 aktualisiert. Bitte laden Sie das unten stehende Dokument zur Kompetenzmessung herunter, um zu sehen, was sich ändern wird.</strong><br/><br/></div>
+  </div>
+
+  Kandidaten für diese Prüfung sollten über grundlegende Kenntnisse der Konzepte maschinellen Lernens (ML) und künstlicher Intelligenz (AI) sowie der zugehörigen Microsoft Azure-Services verfügen.
+
+  Dieses Prüfung bietet Gelegenheit, Kenntnisse über gängige ML- und AI-Workloads und deren Implementieren in Azure nachzuweisen.  
+
+  Dieses Prüfung richtet sich an Kandidaten mit technischem wie auch nichttechnischem Hintergrund. Erfahrung in Data-Science und Software-Engineering ist nicht erforderlich. Einige allgemeine Programmierkenntnisse oder -erfahrungen wären jedoch von Vorteil.  
+
+  Azure AI-Grundlagen können verwendet werden, um sich auf andere rollenbasierte Azure-Zertifizierungen wie Azure Data Scientist Associate oder Azure AI Engineer Associate vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen.
 subTitle: 'Beweisen Sie, dass Sie Folgendes beschreiben können: AI-Workloads und Überlegungen; Grundprinzipien des maschinellen Lernens in Azure; Funktionen von Computer Vision-Workloads in Azure; Funktionen von NLP-Workloads (Natural Language Processing) in Azure; und Funktionen von dialogorientierten AI-Workloads in Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
+practiceTestUrl: https://www.mindhub.com/p/MU-AI-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 - providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AI-900&provider=psi&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
 locales:
 - en
 - ja
@@ -25,6 +40,7 @@ locales:
 levels:
 - beginner
 skills:
+- Der Inhalt dieser Prüfung wird am 22. Oktober 2020 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich ändern wird.
 - AI-Workloads und Überlegungen dazu beschreiben (15-20%)
 - Grundprinzipien des maschinellen Lernens in Azure beschreiben (30-35%)
 - Funktionen von Computer Vision-Workloads in Azure beschreiben (15-20%)
@@ -66,13 +82,13 @@ resources:
 - title: Reise zur Zertifizierung
   description: Informieren Sie sich über die Schritte zur Zertifizierung als Azure AI Fundamentals und über die verfügbaren Ressourcen, die Ihnen bei der Vorbereitung helfen können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARlg
-- title: Schulungs- und Zertifizierungsleitfaden
+- title: Informieren Sie sich über die Zertifizierungen
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: Prüfungswiederholung
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
@@ -82,9 +98,9 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
-- title: Prüfungsrichtlinien und FAQs
+- title: Prüfungsrichtlinien und häufig gestellten Fragen
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
 

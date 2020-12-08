@@ -1,0 +1,214 @@
+### YamlMime:Course
+title: Designing and Implementing a Microsoft Azure AI Solution
+metadata:
+  title: 'Course AI-102T00-A: Designing and Implementing a Microsoft Azure AI Solution'
+  description: 'Course AI-102T00-A: Designing and Implementing a Microsoft Azure AI Solution'
+  iltScheduling: false
+uid: course.ai-102t00
+courseNumber: 'AI-102T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Erstellen, Konfigurieren, Bereitstellen und Sichern von kognitiven Azure-Cognitive Services
+- skill: Sprachdienste integrieren
+- skill: Textanalyse integrieren
+- skill: Sprachverständnisfunktionen mit LUIS erstellen
+- skill: Kognitive Azure-Suchlösungen erstellen und verwalten 
+- skill: Intelligente Agenten mit Hilfe des Bot-Rahmenwerks erstellen
+- skill: Computervisionslösungen implementieren
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- ai-engineer
+products:
+- azure
+- azure-cognitive-services
+- azure-bot-service
+- azure-machine-learning-service
+- azure-machine-learning-studio
+- azure-search
+exams:
+- uid: exam.ai-100
+summary: |-
+  AI-102 Das Entwerfen und Implementieren einer Azure AI-Lösung ist für Softwareentwickler gedacht, die KI-infundierte Anwendungen erstellen möchten, die kognitive Azure Services, die kognitive Suche in Azure und das Microsoft Bot-Rahmenwerk nutzen. Der Kurs verwendet C#, Python oder JavaScript als Programmiersprache.
+
+  #### Zielgruppenprofil
+  Softwareentwickler, die sich mit der Erstellung, Verwaltung und Bereitstellung von KI-Lösungen befassen, die kognitive Azure Services, die kognitive Suche in Azure und das Microsoft Bot-Rahmenwerk nutzen. Sie sind mit C#, Python oder JavaScript vertraut und verfügen über Kenntnisse in der Verwendung von REST-basierten APIs zum Erstellen von Computervisions-, Sprachanalyse-, Knowledge Mining-, intelligenten Such- und Konversations-KI-Lösungen in Azure.
+prerequisitesSection: |-
+  Kenntnisse in Microsoft Azure und Fähigkeit zur Navigation im Azure-Portal
+
+  Kenntnisse in C#, Python oder JavaScript
+outlineSection: |-
+  ### Modul 1&#58; Erstellen und Verwalten von kognitiven Services in Azure
+  Bevor Sie auf eine der kognitiven Service-Funktionen in Azure zugreifen können, müssen Sie eine Ressource für kognitive Service erstellen. Für die Verwendung der verschiedenen Services (Sprache, Computervision usw.) sind mindestens ein Zugriffsschlüssel und eine Service-Endpunkt-URL erforderlich. Die Informationen werden für die Autorisierung von Anwendungen benötigt, die auf diese Services zugreifen. Abhängig von den Services, auf die Sie zugreifen, erstellen Sie entweder eine einzelne oder eine Multi-Service-Ressource. 
+  #### Lektionen
+  - Erstellen und Verwalten von kognitiven Servicekonten
+  - Sichere kognitive Services
+  - Bereitstellen und Verwenden von Containers für kognitive Services
+
+  #### Labor&#58; Erstellen von kognitiven Azure Service-Ressourcen
+  - Erstellen einer kognitiven Azure Service-Ressource
+  - Zugriffstasten
+  - Verwenden einer Diagnoseüberwachung
+
+  #### Labor&#58; Sichere kognitive Azure Services
+  - Sichere Schlüssel mit Azure Key Vault
+
+  #### Labor&#58; Kognitive Azure-Services in Container verpacken
+  - Container zur Wiederverwendung erstellen
+  - In einem Container bereitstellen
+  - Kognitive Services von einem Container verbrauchen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - kognitive Azure Services-Ressourcen zu erstellen und darauf zuzugreifen
+  - kognitive Azure-Ressourcen zu sichern
+  - kognitive Azure-Services mit Hilfe von Containern bereitzustellen und zu verwenden
+
+  ### Modul 2&#58; Implementieren von Computervisionslösungen
+  Erfahren Sie, wie man mit Hilfe der Computervision von Azure visuelle KI in Anwendungen integriert. Erkennen und identifizieren Sie Gesichter oder Objekte in Bildern und Videos, führen Sie Objekterkennungen durch, klassifizieren Sie Bilder und implementieren Sie benutzerdefinierte Bildverarbeitungslösungen.
+  #### Lektionen
+  - Identifizieren von Gesichtern und Ausdrücken mit Hilfe der Computervisions-API
+  - Verarbeiten von Bildern mit dem Computervisions-Service
+  - Bewerten der Anforderungen für die Implementierung benutzerdefinierter Vision-APIs
+  - Klassifizieren von Bildern mit dem benutzerdefinierten Microsoft-Visions-Service
+  - Mit dem Video Indexer-Service Erkenntnisse aus Videos extrahieren
+
+  #### Labor&#58; Gesichter erkennen
+  - Abonnementschlüssel erhalten
+  - Gesichtserkennung testen
+
+  #### Labor&#58; Erstellen eines benutzerdefinierten Vision-Services
+  - Service erstellen
+  - Markierte Bilder hochladen
+  - Zugmodell
+  - Testmodell
+  - Prognoseendpunkt aufrufen
+
+  #### Labor&#58; Erkenntnisse aus Videos mit Video Indexer extrahieren 
+  - Abonnieren der Video Indexer API
+  - Bilder hochladen und indizieren
+  - Output untersuchen
+  - Momente im Video finden
+  - Einblicke anzeigen und bearbeiten
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Computervisionslösungen zur Gesichts- und Objekterkennung zu implementieren
+  - Bilder mit Hilfe des Computervisionsservices zu verarbeiten
+  - Benutzerdefinierte Visionslösungen zu implementieren
+  - Einblicke aus Videodateien mit Hilfe des Video-Indexer-Services zu extrahieren
+
+
+  ### Modul 3&#58; Implementieren von Sprachanalyselösungen
+  Erfahren Sie, wie Sie Funktionen für natürliche Sprachen in Ihre Anwendungen implementieren können, indem Sie den Service zum Sprachverständnis integrieren. Erhalten Sie Einblicke in die Absichten Ihrer Benutzer durch Textanalysefunktionen wie Stimmungsanalyse und Spracherkennung. Identifizieren Sie wichtige Informationen in Textdateien mit Funktionen zum Extrahieren von Entitäten und Schlüsselphrasen.
+  #### Lektionen
+  - Fügen Sie Ihrer App grundlegende Konversations-Intelligenz mit Hilfe von Sprachverständnis hinzu
+  - Verwalten Ihres Sprachverständnisservices
+  - Verwenden von Containern für Ihren Sprachverständnis-Service
+  - Die Stimmung im Text mit der Textanalyse-API entdecken
+  - Entitäten im Text mit der Textanalytise-API erkennen
+  - Schlüsselphrasen aus dem Text mit der Textanalyse-API extrahieren
+  - Sprache mit der Textanalyse-API erkennen 
+
+  #### Labor&#58; Implementieren Sie den Sprachverständnis-Service
+  - Erstellen eines Sprachverständnis-Services
+  - Mit Absichten arbeiten
+  - Mit Äußerungen arbeiten
+  - Mit Entitäten arbeiten
+  - Ein Modell trainieren und veröffentlichen
+
+  #### Labor&#58; Verwalten Sie Ihren Sprachverständnis-Service
+  - Verwalten Ihrer Schlüssel
+  - Versionsverwaltung verwalten
+  - Scripting-Automatisierung
+
+  #### Labor&#58; Sprachverständnis in Container verpacken 
+  - Container installieren und ausführen
+
+  #### Labor&#58; Führen Sie eine Stimmungsanalyse durch
+  - Stimmungsanalyse mit der API-Testkonsole testen
+  - Eine Funktions-App erstellen
+  - Gefühlsanalyse-API von einer Funktion aus aufrufen
+  - Nachrichten sortieren
+
+  #### Labor&#58; Entitätserkennung durchführen
+  - Entitäten aus Text extrahieren
+
+  #### Labor&#58; Führen Sie die Extraktion der Schlüsselphrasen durch
+  - Schlüsselphrasen aus dem Text extrahieren
+
+  #### Labor&#58; Spracherkennung durchführen
+  - Sprache im Text erkennen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Sprachverständnis-Services zu implementieren und zu verwalten 
+  - Sprachverständnis in einer Containerumgebung zu implementieren 
+  - die Stimmung im Text zu erkennen
+  - Entitäten und Extrahieren von Schlüsselphrasen im Text zu erkennen
+  - Sprache im Text zu erkennen
+
+
+  ### Modul 4&#58; Implementieren Sie Lösungen zur Wissensgewinnung
+  Azure Cognitive Search bietet eine Cloud-basierte Lösung zum Indizieren und Abfragen einer Vielzahl von Datenquellen sowie zum Erstellen umfassender und umfangreicher Suchlösungen. Erfahren Sie, wie man eine Lösung implementiert, in der Dokumente indiziert und einfach zu durchsuchen sind.
+  #### Lektionen
+  - Azure Cognitive Search erstellen 
+  - Erstellen einer Anreicherungspipeline mit Azure Cognitive Search
+  - Erstellen eines Wissensspeichers mit Azure Cognitive Search
+
+  #### Labor&#58; Erstellen einer kognitiven Azure-Suchlösung
+  - Erstellen einer Azure-Ressource für die Suche
+  - Erstellen einer Datenquelle
+  - Erstellen eines Index
+  - Erstellen und Ausführen eines Indexers
+  - Suche und Index
+  - Anwenden von Filtern und Sortieren
+  - Erweitern des Index
+
+  #### Labor&#58; Erstellen einer Anreicherungspipeline
+  - Erstellen einer Azure-Ressource
+  - Erstellen einer Datenquelle
+  - Erstellen eines Skillsets
+  - Erstellen eines Index
+  - Erstellen und Ausführen eines Indexers
+  - Durchsuchen eines erweiterten Index
+  - Erstellen einer benutzerdefinierten Fähigkeit
+  - Aktualisieren des Index
+  - Durchsuchen des aktualisierten Index
+
+  #### Labor&#58; Erstellen eines Wissensspeichers
+  - Erstellen von Azure-Ressourcen
+  - Erstellen einer Datenquelle
+  - Erstellen eines Skillsets
+  - Erstellen eines Index
+  - Erstellen und Ausführen eines Indexers
+  - Erkunden eines Wissensspeichers
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - eine Azure Cognitive Search-Lösung zu erstellen
+  - eine Anreicherungspipeline mit Azure Cognitive Search zu erstellen
+  - einen Wissensspeicher mit Azure Cognitive Search zu erstellen
+
+
+  ### Modul 5&#58; implementieren Sie Konversations-KI-Lösungen
+  Verwenden des Microsoft Bot Frameworks und des Bot Framework Composers, um Konversations-KI-Lösungen zu entwerfen und zu erstellen.
+  #### Lektionen
+  - Erstellen eines Chat-Bots im Azure-Portal
+  - Entwerfen eines Bot-Konversationsflusses
+  - Erstellen eines Bot mit dem Bot Framework Composer
+
+  #### Labor&#58; Erstellen eines Bots mit dem Azure-Portal
+  - Erstellen Sie basischen Bots mit dem Azure-Portal
+
+  #### Labor&#58; Erstellen Sie einen Bot mit dem Bot Framework Composer
+  - Erstellen eines Bots mit dem Bot Framework Composer
+  - Hilfe hinzufügen und Funktionalität abbrechen
+  - Integrieren der Sprachgenerierung
+  - Karten verwenden
+  - Sprachverständnis integrieren
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - einen einfachen Bot im Azure-Portal zu erstellen
+  - Konversationsfluss für einen Bot zu erstellen
+  - einen Bot mit dem Bot Framework Composer zu erstellen

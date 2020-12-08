@@ -28,7 +28,7 @@ Die Prüfungsdetailseite für jede Prüfung enthält einen "Kompetenzmessungs"-A
 
 #### Von Ausbildern geführte Kurse
 
-[Finden Sie In-Classroom und On-Demand-Training auf Microsoft-Technologien, die durch von Microsoft Certified Trainers [Microsoft zertifizierte Schulungsleiter] angeboten werden.](https://www.microsoft.com/learning/find-partner.aspx)
+[Finden Sie In-Classroom und On-Demand-Training auf Microsoft-Technologien, die durch von Microsoft Certified Trainers [Microsoft zertifizierte Schulungsleiter] angeboten werden.](/learn/certifications/partners)
 
 #### Entdecken Sie kostenlose Online-Schulungen
 
@@ -185,7 +185,7 @@ Ein wichtiger Teil der Prüfungsentwicklung ist die Beta-Prüfung. Durch Ablegen
 
 Microsoft Beta-Prüfungen werden mit einem Rabatt von 80% angeboten (Code erforderlich). Kandidaten, die den 80% -Rabatt für die Beta-Prüfung nutzen, erhalten 25% Rabatt auf ihre nächste Prüfung nach Abschluss der erneuten Bewertung, wie hier erläutert: [Updates für das Microsoft Beta-Prüfungsprogramm](/learn/certifications/posts/updates-on-microsoft-beta-exam-program). _Dieser Rabatt steht NICHT gemeinhin allen Beta-Teilnehmern zur Verfügung. Wenn Sie die Beta-Prüfung mit einer anderen Methode bezahlen, haben Sie keinen Anspruch auf den 25%.
 
-Um den Code zu erhalten, können Sie entweder Mitglied unserer SME -Profildatenbank sein oder ihn über den Abschnitt Ankündigungen auf der linken Seite unserer [Prüfungsrichtlinien und FAQs](/learn/certifications/certification-exam-policies). Qualifizierte Teilnehmer am Datenbankprogramm für SME -Profile erhalten einen eindeutigen Rabattcode für die Teilnahme an Beta-Prüfungen - das erhöht die Wahrscheinlichkeit, einen Platz in der Beta-Prüfung zu erhalten.
+Um den Code zu erhalten, können Sie entweder Mitglied unserer KMU-Profildatenbank sein oder ihn aus den Ankündigungen im [Microsoft Learn Blog](https://aka.ms/learningblog) beziehen. Qualifizierte Teilnehmer am Datenbankprogramm für SME -Profile erhalten einen eindeutigen Rabattcode für die Teilnahme an Beta-Prüfungen - das erhöht die Wahrscheinlichkeit, einen Platz in der Beta-Prüfung zu erhalten.
 
 Das Datenbankprogramm für KMU-Profile wird jetzt auf [Microsoft Collaborate](https://aka.ms/collaborate) gehostet. Siehe den Community-Blog [Helfen Sie uns, Examen und Lerninhalte zu erstellen! Treten Sie noch heute unserer KMU-Datenbank bei!](/learn/certifications/posts/help-us-create-exams-and-learning-content) finden Sie Anweisungen zur Teilnahme am Programm für Collaborate.
 

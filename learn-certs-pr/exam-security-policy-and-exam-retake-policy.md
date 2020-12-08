@@ -12,15 +12,13 @@ ms.prod: non-product-specific
 ---
 # Prüfungssicherheitsrichtlinie und Prüfungswiederholungsrichtlinie
 
-## <a name="security-policies"></a> Richtlinien und Vereinbarungen
-
 Bei Microsoft gelten bestimmte Richtlinien für die Sicherheitsbereiche im Hinblick auf Microsoft-Zertifizierun.
 
-### Ablauf der Zertifizierung und erneute Zertifizierung
+## Ablauf der Zertifizierung und erneute Zertifizierung
 
 Microsoft-rollenbasierte Zertifizierungen und Spezialzertifizierungen sind derzeit zwei Jahre ab Datum der Erlangung der Zertifizierung gültig. Aufgrund der COVID-19-Pandemie und ihrer Auswirkungen auf Einzelpersonen und Unternehmen haben wir Verlängerungen für Einzelpersonen bereitgestellt, deren Zertifizierungen ursprünglich vor dem 31. Dezember 2020 ablaufen sollten. Wir werden die COVID-19-Situation weiterhin überwachen. Bei Bedarf werden wir Personen, deren Zertifizierungen ablaufen, benachrichtigen und mehr Zeit zur Verfügung stellen. Zu diesem Zeitpunkt müssen Sie keine Maßnahmen ergreifen, um sicherzustellen, dass Ihre Zertifizierungen gültig bleiben. Wir werden Sie weiterhin über die Situation und Änderungen informieren. Bleiben Sie über zukünftige Programmaktualisierungen und Anforderungen für die Rezertifizierung auf dem Laufenden, indem Sie den [Microsoft Learn Blog](https://aka.ms/learningblog) abonnieren.
 
-### Sperren von Kandidaten
+## Sperren von Kandidaten
 
 Wenn ein Kandidat gegen eine Prüfungsvorschrift, eine Prüfungsrichtlinie oder eine Klausel in der Prüfungsvereinbarung (NDA) verstößt oder ein Fehlverhalten an den Tag legt, das die Sicherheit und Integrität des Microsoft-Zertifizierungsprogramms in irgendeiner Weise beeinträchtigt, kann dem Kandidaten dauerhaft die Teilnahme an zukünftigen Microsoft Certification exams untersagt werden. Darüber hinaus können dem Kandidaten Zertifizierungen des Microsoft-Zertifizierungsprogramms aberkannt und Testergebnisse für ungültig erklärt werden.
 
@@ -41,7 +39,7 @@ Nachstehend finden Sie einige Beispiele für solches Fehlverhalten, einschließl
 - Verstoß gegen die Microsoft Geheimhaltungsvereinbarung (NDA) in jeglicher Hinsicht
 - Verstöße gegen das Übereinkommen mit dem Prüfungsanbieter
 
-### Einspruchsverfahren der Kandidaten
+## Einspruchsverfahren der Kandidaten
 
 1. Die Kandidaten können gegen ihre Sperrung Einspruch erheben, indem sie eine Beschwerde an [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com) richten.
 2. Ein Kandidat kann eine Sperrung wegen der Fälschung eines Bewertungsberichts anfechten, indem er den Originalbericht (keine Scans oder elektronischen Kopien) vorlegt dem:
@@ -52,7 +50,7 @@ Nachstehend finden Sie einige Beispiele für solches Fehlverhalten, einschließl
 
 3. Das Microsoft Worldwide Learning Security Team prüft alle eingereichten Beschwerdeanträge, führt eine gründliche Untersuchung jedes einzelnen Falles durch und kommuniziert direkt mit dem Kandidaten über den Abschluss der Untersuchung und die endgültige Beschwerdeentscheidung.
 
-### Richtlinien für die Prüfungswiederholung
+## Richtlinien für die Prüfungswiederholung
 
 1. Allgemeine Richtlinien zur Wiederholung der Microsoft-Zertifizierungsprüfung
     1. Wenn ein Kandidat bei der erstmaligen Prüfung keinen ausreichenden Punktwert erzielt, muss er 24 Stunden warten, bevor er die Exam Replay kann. Nach diesem Zeitraum können sich die Kandidaten in ihr [Zertifizierungs-Dashboard](https://aka.ms/certdashboard) einloggen und die Prüfung selbst neu planen.
@@ -92,20 +90,20 @@ Nachstehend finden Sie einige Beispiele für solches Fehlverhalten, einschließl
     1. Beta-Prüfungen dürfen nur einmal während des Beta-Zeitraums abgelegt werden. Wenn der Kandidat die Prüfung besteht (festgelegt nach Ablauf der Beta-Phase), wird die Zertifizierung angerechnet. Wenn der Kandidat die Prüfung nicht besteht, kann sie gemäß den oben genannten Richtlinien wiederholt werden.
     2. Diese Richtlinien ersetzen die allgemeinen Wiederholungsrichtlinien.
 
-### Schließungen der Testcenter aus Gründen der Sicherheit
+## Schließungen der Testcenter aus Gründen der Sicherheit
 
 1. Microsoft kann Tests an beliebigen Standorten aussetzen, wenn wir der Meinung sind, dass ein Sicherheits- oder Integritätsproblem besteht.
 2. Microsoft kann Tests an Standorten aussetzen, die zu Teststandorten mit Sicherheitsrisiken gehören.
 
-### Einspruchsverfahren von Testcentern
+## Einspruchsverfahren von Testcentern
 
 Betreiber von Testcentern können gegen die Standortschließung Einspruch einlegen, indem sie diesen Einspruch einreichen bei [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 
-### Datenforensik
+## Datenforensik
 
 Microsoft setzt Datenforensik als Grundlage für Vollstreckungsmaßnahmen gegen Kandidaten ein. Statistische Daten können verminderte Prüfungsintegrität belegen und/oder verwendet werden, um den Verdacht auf regelwidrige Aktivitäten zu erhärten. Auf der Grundlage statistischer Daten können Prüfungen und Bewertungen aufgehoben, Kandidaten gesperrt und Testcenter geschlossen werden.
 
-### Auslandstests
+## Auslandstests
 
 **Um eine Prüfung für eine Microsoft Certification exam in einem-Testcenter in Indien, China oder Pakistan abzulegen, müssen Sie rechtmäßiger Einwohner des betreffenden Landes sein. Wenn Sie rechtmäßiger Einwohner des betreffenden Landes sind, beachten Sie Folgendes:**
 
@@ -121,15 +119,15 @@ Aufgrund der Datenschutzgesetze in Slowenien können online-beaufsichtigte Prüf
 
 - Kandidaten mit Wohnsitz außerhalb Sloweniens sehen Online-Beaufsichtigung möglicherweise als verfügbare Testoption an. Sie können den Test jedoch nicht erfolgreich abschließen, wenn sie einen slowenischen Staatsbürgerschaftsausweis (Reisepass oder einen anderen Ausweis) als Identitätsnachweis vorlegen. Diese Kandidaten sollten eine Prüfung in einem Testzentrum festlegen.
 
-### Nachprüfung des Kandidaten auf Anforderung von Microsoft
+## Nachprüfung des Kandidaten auf Anforderung von Microsoft
 
 1. Microsoft behält sich das Recht vor, Kandidaten jederzeit bei mutmaßlichen betrügerischen Aktivitäten oder ungewöhnlichen Testmustern zu einer Nachprüfung aufzufordern.
 2. Die Nachprüfung findet in einer von Microsoft ausgewählten Einrichtung zu einem von Microsoft und dem Kandidaten vereinbarten Zeitpunkt statt.
 
-### Widerruf von Zertifizierungen
+## Widerruf von Zertifizierungen
 
 Wenn ein Kandidat gegen eine Prüfungsvorschrift, eine Prüfungsrichtlinie oder eine Klausel in der Prüfungsvereinbarung (NDA) verstößt oder ein Fehlverhalten an den Tag legt, das die Sicherheit und Integrität des Microsoft-Zertifizierungsprogramms in irgendeiner Weise beeinträchtigt, kann dem Kandidaten dauerhaft die Teilnahme an zukünftigen Microsoft Certification exams untersagt werden. Darüber hinaus können dem Kandidaten Zertifizierungen des Microsoft-Zertifizierungsprogramms aberkannt und Testergebnisse für ungültig erklärt werden.
 
-### Ausschlussrecht
+## Ausschlussrecht
 
 Auf der Grundlage von Sicherheits- und Integritätsbedenken behält Microsoft sich das Recht vor, bestimmte Regionen, Länder und Testcenter insgesamt aus dem Microsoft-Zertifizierungsprogramm auszuschließen.

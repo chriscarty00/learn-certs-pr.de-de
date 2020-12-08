@@ -273,7 +273,7 @@ Der Arbeitsbereich sollte frei von allen Materialien, einschließlich der folgen
 
 ### Weitere wichtige Informationen
 
-- Wie bei jeder anderen Microsoft-Zertifizierungsprüfung müssen Sie die Bedingungen in unserer [Geheimhaltungsvereinbarung](/learn/certifications/certification-exam-policies#non-disclosure-agreement) (NDA) lesen und diesen zustimmen. Sie haben nur 5 Minuten Zeit, um es zu lesen. Wir empfehlen Ihnen daher, es vor Ihrer Prüfung zu lesen, um sicherzustellen, dass Sie die Anforderungen vollständig verstehen und ihnen zustimmen können, ohne dass Ihnen die Zeit ausgeht. Wenn Sie der NDA nicht in der vorgegebenen Zeit zustimmen, können Sie die Prüfung nicht ablegen.
+- Wie bei jeder anderen Microsoft-Zertifizierungsprüfung müssen Sie die Bedingungen in unserer [Geheimhaltungsvereinbarung](/learn/certifications/microsoft-exam-non-disclosure-agreement) (NDA) lesen und diesen zustimmen. Sie haben nur 5 Minuten Zeit, um es zu lesen. Wir empfehlen Ihnen daher, es vor Ihrer Prüfung zu lesen, um sicherzustellen, dass Sie die Anforderungen vollständig verstehen und ihnen zustimmen können, ohne dass Ihnen die Zeit ausgeht. Wenn Sie der NDA nicht in der vorgegebenen Zeit zustimmen, können Sie die Prüfung nicht ablegen.
 - Sie müssen auch die Verhaltensanforderungen des Kandidaten erfüllen. Dazu gehört unter anderem Folgendes:
   - Sie dürfen keine Fragen oder Antworten aus der Prüfung kopieren oder aufzeichnen.
   - Sie dürfen die in der Prüfung enthaltenen Fragen oder Antworten nicht mit anderen teilen oder diskutieren.
@@ -306,7 +306,7 @@ wird Ihnen helfen.)
 
 **Hinweis** Sie können bis zu 30 Minuten warten, bevor Sie sich mit einem Begrüßer (erforderlich zur Bestätigung der Identität oder der Raumanforderungen) oder einem Aufsichtführenden verbinden, nachdem Sie die Selbstanmeldung abgeschlossen haben.
 
-Wenn Sie 30 Minuten **nach Ihrer geplanten Prüfungszeit** nicht mit einem Prüfer verbunden sind, wurde die Verbindung unterbrochen. Sie können Ihre Prüfung auf 24 bis 30 Stunden nach dem ursprünglichen Prüfungstermin verschieben. Melden Sie sich einfach in Ihrem [Zertifizierungs-Dashboard](https://www.microsoft.com/learning/dashboard.aspx) mit der E-Mail an, die Ihrem Microsoft-Zertifizierungsprofil zugeordnet ist, um einen neuen Termin zu vereinbaren. Wir empfehlen, dass Sie sich so weit wie möglich selbst helfen. Sie können sich aber auch an Pearson VUE [Support](https://home.pearsonvue.com/microsoft/contact) wenden, um Hilfe bei der Verschiebung einer Prüfung zu erhalten. Bitte haben Sie etwas Geduld, da die Reaktionen aufgrund von COVID-19 langsamer als normal sind (bis zu fünf Tage).
+Wenn Sie 30 Minuten **nach Ihrer geplanten Prüfungszeit** nicht mit einem Prüfer verbunden sind, wurde die Verbindung unterbrochen. Sie können Ihre Prüfung auf 24 bis 30 Stunden nach dem ursprünglichen Prüfungstermin verschieben. Melden Sie sich einfach in Ihrem [Zertifizierungs-Dashboard](https://aka.ms/certdashboard) mit der E-Mail an, die Ihrem Microsoft-Zertifizierungsprofil zugeordnet ist, um einen neuen Termin zu vereinbaren. Wir empfehlen, dass Sie sich so weit wie möglich selbst helfen. Sie können sich aber auch an Pearson VUE [Support](https://home.pearsonvue.com/microsoft/contact) wenden, um Hilfe bei der Verschiebung einer Prüfung zu erhalten. Bitte haben Sie etwas Geduld, da die Reaktionen aufgrund von COVID-19 langsamer als normal sind (bis zu fünf Tage).
 
 - Die Identitätsprüfung und Raumscans werden vom Begrüßer nach Abschluss der Selbstanmeldung durchgeführt. Wenn bei der Begrüßungsüberprüfung dieser Artefakte keine Probleme oder Bedenken festgestellt werden, werden Sie in die Warteschlange der Aufsichtsführenden gesetzt. Sobald ein Aufsichtsführender verfügbar ist, können Sie mit Ihrer Prüfung beginnen. In Fällen, in denen der Begrüßer Fragen zu den bereitgestellten Artefakten hat, arbeitet der Begrüßer mit Ihnen zusammen, um diese zu lösen.
 - Nach Abschluss dieses Vorgangs beginnt die Prüfung. Ihr Prüfer wird während der Prüfung keinen Kontakt mit Ihnen aufnehmen, es sei denn, ein Problem liegt vor.
@@ -328,10 +328,10 @@ Auf Ergebnisberichte kann über Ihr [Zertifizierungs-Dashboard](https://aka.ms/c
 Hier finden Sie Antworten auf häufig gestellte Fragen zu online beaufsichtigten Prüfungen.
 
 ### Woher weiß ich, ob eine Online-Prüfung für mich geeignet ist?
-Stellen Sie zunächst sicher, dass Ihr Computer die [Systemanforderungen](/learn/certifications/online-exams#testing-session-protocol) erfüllt, und führen Sie den erforderlichen [Systemtest](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) durch. Überprüfen Sie das [Testsitzungsprotokoll](/learn/certifications/online-exams#testing-session-protocol), um zu erfahren, was Sie während der Prüfung erwartet. Wenn Sie Zweifel oder Bedenken haben, ob Ihr System die Anforderungen oder das Protokoll der Testsitzung erfüllt, empfehlen wir Ihnen, Ihre Prüfung in einem Testcenter zu planen.
+Stellen Sie zunächst sicher, dass Ihr Computer die [Systemanforderungen](/learn/certifications/online-exams#system-requirements) erfüllt, und führen Sie den erforderlichen [Systemtest](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) durch. Überprüfen Sie das [Testsitzungsprotokoll](/learn/certifications/online-exams#testing-session-protocol), um zu erfahren, was Sie während der Prüfung erwartet. Wenn Sie Zweifel oder Bedenken haben, ob Ihr System die Anforderungen oder das Protokoll der Testsitzung erfüllt, empfehlen wir Ihnen, Ihre Prüfung in einem Testcenter zu planen.
 
 ### Kann ich meine Prüfung online ablegen, auch wenn mein System den Systemtest nicht besteht?
-Nein. Sie sollten sich nicht für eine Online-Prüfung registrieren, wenn Ihr System den [Systemtest](/learn/certifications/online-exams#take-a-system-test),  nicht besteht, und Sie sollten auch keine Online-Prüfung planen, wenn Sie kein klares Foto Ihres Ausweises machen können.
+Nein. Sie sollten sich nicht für eine Online-Prüfung registrieren, wenn Ihr System den [Systemtest](/learn/certifications/online-exams#system-requirements),  nicht besteht, und Sie sollten auch keine Online-Prüfung planen, wenn Sie kein klares Foto Ihres Ausweises machen können.
 
 ### Wie melde ich mich für eine Online-Prüfung an?
 
@@ -344,7 +344,7 @@ Wir unternehmen alles, um die Integrität unserer Prüfungen sicherzustellen, un
 Nein, Sie können die Lieferungsmethoden kombinieren (online oder persönlich in einem Testzentrum).
 
 ### Wieviel Zeit habe ich, die Prüfung abzuschließen, nachdem meine Prüfung gestartet und mir ein Prüfer zugewiesen wurde?
-Ihnen steht für das Ablegen der Prüfung genauso viel Zeit wie bei der Prüfung in einem Pearson VUE-Testcenter zur Verfügung. Überprüfen Sie die [Prüfungsrichtlinien und FAQs] [Exam policies and FAQs](/learn/certifications/certification-exam-policies#frequently-asked-questions) auf Prüfungszeiten, die auf der Art der Prüfung basieren.
+Ihnen steht für das Ablegen der Prüfung genauso viel Zeit wie bei der Prüfung in einem Pearson VUE-Testcenter zur Verfügung. Überprüfen Sie die [Prüfungsprozessübersicht](/learn/certifications/exam-process-overview) auf Prüfungszeiten, die auf der Art der Prüfung basieren.
 
 ### Sind Online-Prüfungen schwieriger als Prüfungen in Testzentren?
 Nein. Die Prüfungen sind in Bezug auf den Schwierigkeitsgrad gleichwertig.
@@ -362,7 +362,7 @@ Verwenden Sie bei Fragen zur Registrierung bitte die während der Registrierung 
 Eine Liste der akzeptablen Identifikationen finden Sie in der aktuellen [ID-Richtlinie](https://home.pearsonvue.com/Policies/1S/English). **Der Name in Ihrem Microsoft-Zertifizierungsprofil muss genau mit dem Namen übereinstimmen, der auf dem von der Regierung ausgestellten Ausweis angegeben ist, den Sie zur Teilnahme an der Prüfung vorlegen**. Beachten Sie, dass Namensänderungsformulare, darunter Ausweis-Erneuerungsformulare, nicht für die online Bereitstellung verwendet werden können, falls Ihr Ausweis derzeit bearbeitet oder erneuert wird.
 
 ### Wie ändere ich meinen richtigen Namen in meinem Microsoft-Zertifizierungsprofil?
-Der Name in Ihrem Microsoft-Zertifizierungsprofil muss genau mit dem von der Regierung ausgestellten Ausweis übereinstimmen, den Sie beim Einchecken der Prüfung eingeben. Wenn Sie Ihren Namen ändern müssen, wenden Sie sich bitte an [Zertifizierungssupport](https://aka.ms/mcpforum). Ein Forum-Moderator hilft Ihnen dabei.
+Der Name in Ihrem Microsoft-Zertifizierungsprofil muss genau mit dem von der Regierung ausgestellten Ausweis übereinstimmen, den Sie beim Einchecken der Prüfung eingeben. Wenn Sie Ihren Namen ändern müssen, senden Sie bitte eine Anfrage über das [Formular zur Aktualisierung des legalen Namens](https://aka.ms/MSCertificationLegalNamechange).
 
 ### Ich habe einen geplanten Termin für eine Online-Prüfung. Wie starte ich sie?
 Wir empfehlen, sich 15 Minuten früher anzumelden, um den Eincheckvorgang zu starten. Sie haben nur bis zu 15 Minuten nach Ihrem geplanten Termin Zeit, mit dem Prüfungsprozess zu beginnen.

@@ -1,0 +1,188 @@
+### YamlMime:Course
+title: Microsoft Power Platform Functional Consultant
+metadata:
+  title: 'Course PL-200T00-A: Microsoft Power Platform Functional Consultant'
+  description: 'Course PL-200T00-A: Microsoft Power Platform Functional Consultant'
+uid: course.pl-200t00
+courseNumber: 'PL-200T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Arbeiten Sie mit einer Organisation zusammen, um Anforderungen zu erfassen und Power Plattform-Lösungen zu implementieren
+- skill: Erstellen Sie modellgesteuerte, Canvas- und Portal-Apps
+- skill: Erstellen Sie Power Automate-Flows
+- skill: Entwerfen Sie einen einfachen Chatbot mit Power Virtual Agents
+- skill: Analysieren Sie Daten mit Hilfe von Power BI-Visualisierungen und Dashboards
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-200
+summary: |-
+  Mit der Power-Plattform können Unternehmen Geschäftsprozesse automatisieren, ihre eigenen umfassenden App-Erfahrungen entwickeln und sich besser und schneller mit Kunden verbinden. Die Teilnehmer lernen in diesem Kurs, Entdeckungen durchzuführen, Anforderungen zu erfassen, Fachexperten und Stakeholder einzubeziehen, Anforderungen zu übersetzen und Power-Plattform-Lösungen und -Apps zu konfigurieren. Sie werden ihre Erkenntnisse durch praktische Übungen ergänzen, um Anwendungsverbesserungen, benutzerdefinierte Benutzererfahrungen, Systemintegrationen, Datenkonvertierungen, benutzerdefinierte Prozessautomatisierung und benutzerdefinierte Visualisierungen zu erstellen. Power Platform besteht aus vier Schlüsselprodukten: Power Apps, Power Automate, Power BI und Power Virtual Agents. In diesem Kurs werden diese vier Anwendungen ausführlich behandelt, wobei der Schwerpunkt auf dem allgemeinen Daten-Service, KI-Builder, Konnektoren und Portalen liegt.
+
+  #### Zielgruppenprofil
+  Ein Fachberater für Power Platform ist dafür verantwortlich, die Ermittlungen durchzuführen, Anforderungen zu erfassen, Fachexperten und Stakeholder einzubeziehen, Anforderungen zu übersetzen und Power Platform-Lösungen und -Apps zu konfigurieren. Der Fachberater implementiert Komponenten einer Lösung, die Anwendungsverbesserungen, benutzerdefinierte Benutzererfahrungen, Systemintegrationen, Datenkonvertierungen, benutzerdefinierte Prozessautomatisierung und benutzerdefinierte Visualisierungen umfasst.
+prerequisitesSection: |-
+  - Erfahrung als IT-Experte oder Student
+  - Kenntnisse der Power Platform und ihrer Schlüsselkomponenten
+  - Kenntnis der Konzepte für allgemeinen Daten-Service und Sicherheit
+outlineSection: |-
+  ### Modul 1&#58; Einführung in die Power Platform
+  Dieses Modul bietet Teilnehmern Hintergrundinformationen zur Power Platform und ihren 4 Schlüsselkomponenten&#58; Power Apps, Power Automate, Power BI und Power Virtual Agents.
+  #### Lektionen
+  - Übersicht über die Power Platform
+
+  #### Labor&#58; Überprüfen der Lab-Umgebung
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - die Schlüsselkomponenten der Power Platform zu identifizieren
+  - die Rolle eines Fachberaters zu beschreiben
+
+
+  ### Modul 2&#58; Arbeiten mit dem allgemeinen Daten-Service
+  In diesem Modul lernen die Teilnehmer, wie man mit Hilfe des allgemeinen Daten-Service ein Datenmodell erstellen kann, einschließlich Daten importieren, Verwendung tabellarischer Berichtsoptionen und Konfiguration der Sicherheit. Sie lernen auch, wie man mit AI Builder eine einfache KI erstellt.
+  #### Lektionen
+  - Arbeiten mit dem Datenmodell
+  - Prozesse erstellen und verwalten
+  - Arbeiten mit AI Builder
+  - Konfigurieren von Einstellungen für den allgemeinen Datenservice
+  - Daten im- und exportieren
+  - Verwenden tabellarischer Berichtsoptionen
+  - Konfigurieren von Sicherheitseinstellungen
+
+  #### Labor&#58; Erstellen einer App
+
+  #### Labor&#58; Erstellen von Entitäten und Feldern
+
+  #### Labor&#58; Erstellen von Beziehungen
+
+  #### Labor&#58; Zusätzliche Entitätsoptionen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Ein Datenmodell zu erstellen
+  - Die Einstellungen für den allgemeinen Daten-Service zu erstellen
+  - Sicherheit zu konfigurieren
+
+
+  ### Modul 3&#58; Erstellen von Power Apps
+  In diesem Modul lernen die Teilnehmer den Unternehmenswert der drei Arten von Power Apps kennen. Anschließend lernen sie, wie man sie konfiguriert und gestaltet, einschließlich Überlegungen zur Benutzererfahrung für jeden Anwendungstyp.
+  #### Lektionen
+  - Erstellen modellgetriebener Apps
+  - Erstellen von Canvas-Apps
+  - Erstellen von Portal-Apps
+
+  #### Labor&#58; App Designer
+
+  #### Labor&#58; Formulare ändern
+
+  #### Labor&#58; Ansichten ändern
+
+  #### Labor&#58; Erstellen von Dashboards
+
+  #### Labor&#58; Grundlagen der Canvas-App
+
+  #### Labor&#58; Arbeiten mit Daten und Services
+
+  #### Labor&#58; Benutzererfahrung
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Eine Power-app zu erstellen und zu entwerfen
+  - Eine Power App mit Daten zu verbinden
+  - App-Navigation zu erstellen
+
+
+  ### Modul 4&#58; Erstellen Sie Power Automate-Abläufe
+  In diesem Modul lernen die Teilnehmer, wie man Geschäftsprozesse mit Hilfe von Power Automate-Abläufen, Abläufe von Geschäftsprozessen und UI-Abläufen automatisiert.
+  #### Lektionen
+  - Flows erstellen
+  - Abläufe von Geschäftsprozessen erstellen
+  - UI-Flows erstellen
+
+  #### Labor&#58; Benutzer erstellen
+
+  #### Labor&#58; Sicherheitsrolle erstellen
+
+  #### Labor&#58; Eine neue Geschäftsregel konfigurieren
+
+  #### Labor&#58; Erweiterte Geschäftsregeln
+
+  #### Labor&#58; Erstellen eines Ablaufs
+
+  #### Labor&#58; Genehmigungsablauf erstellen
+
+  #### Labor&#58; Erstellen eines Ablaufs für einen Geschäftsprozess
+
+  #### Labor&#58; Verzweigungen zum Geschäftsprozessablauf hinzufügen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Geschäftsprozesse mit Hilfe von Abläufen zu automatisieren
+  - Eine Verbindung zu Daten in Power Automate herzustellen
+  - Einen Geschäftsprozessablauf mit Verzweigungslogik zu erstellen
+
+
+  ### Modul 5&#58; Arbeiten mit Power Virtual Agents
+  In diesem Modul erfahren die Teilnehmer, wie Kundeninteraktionen mit einem Chatbot, mit Hilfe von Power Virtual Agents, automatisiert werden.
+  #### Lektionen
+  - Erstellen eines Chatbots
+  - Themen konfigurieren
+  - Automatisieren und integrieren
+  - Entitäten konfigurieren
+  - Testen und veröffentlichen von Chatbots
+
+  #### Labor&#58; Erstellen Sie einen Chatbot
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Themen, Entitäten und Variablen zu konfigurieren
+  - einen Chatbot zu erstellen
+  - eine Integration mit Omnichannel für den Kundenservice vorzunehmen
+  - in der PVA-Schnittstelle zu arbeiten
+
+
+  ### Modul 6&#58; Analysieren Sie Daten mit Power BI
+  In diesem Modul lernen die Teilnehmer, wie man mit Power BI Desktop und Power BI Service arbeitet, um Daten zu analysieren und Visualisierungen zu erstellen.
+  #### Lektionen
+  - Mit Power BI beginnen
+  - Daten in Power BI modellieren
+  - Visualisierungen erstellen
+  - Dashboards erstellen
+  - Veröffentlichen und teilen in Power BI
+
+  #### Labor&#58; Erstellen Sie eine Word-Vorlage
+
+  #### Labor&#58; Erstellen einer Excel-Vorlage
+
+  #### Labor&#58; Duplikat-Erkennung
+
+  #### Labor&#58; Daten importieren
+
+  #### Labor&#58; Export von Daten
+
+  #### Labor&#58; Massenlöschung
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Visualisierungen zu erstellen
+  - Daten in Power BI zu verbrauchen
+  - Datenvisualisierungen für Stakeholder zu exportieren
+
+
+  ### Modul 7&#58; Beraterfähigkeiten
+  In diesem Modul erfahren die Teilnehmer mehr über die Rolle des Fachberaters und die Fähigkeiten, die für die erfolgreiche Implementierung einer Power Plattform-Lösung für ein Unternehmen erforderlich sind.
+  #### Lektionen
+  - Überblick über die Fähigkeiten von Beratern
+  - Dokumentation erstellen und validieren
+  - Stakeholder einbeziehen
+  - Qualitätssicherung durchführen
+  - Integrationen konfigurieren
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - entsprechende Dokumentation zu identifizieren
+  - eine Geschäftsanforderung zu schreiben
+  - Stakeholder mit Demos einzubeziehen
+  - an ALM und Tests teilzunehmen

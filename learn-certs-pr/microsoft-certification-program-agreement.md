@@ -12,8 +12,6 @@ ms.prod: non-product-specific
 ---
 # Microsoft-Zertifizierungsprogramm-Vereinbarung
 
-## Richtlinien und Vereinbarungen
-
 Diese Microsoft-Zertifizierungsprogramm-Vereinbarung (**"Vereinbarung"**) ist ein Rechtsdokument zwischen Ihnen (**"Sie"** bzw. **"Ihr/e"**) und der Microsoft Corporation (**"Microsoft"**) bezüglich Ihrer Teilnahme am Microsoft-Zertifizierungsprogramm (**"Programm"**). Die Bestimmungen dieser Vereinbarung gelten für (a) alle Microsoft Certification, die Sie erworben haben, und (b) Ihre Teilnahme am Programm, einschließlich Ihres Zugriffs auf und Ihrer Nutzung von Leistungen des Microsoft-Zertifizierungsprogramms und der Microsoft-Zertifizierungsberechtigung, die Ihnen Microsoft als Teil des Programms zur Verfügung stellt. Bitte lesen Sie diese Vereinbarung aufmerksam durch. MIT DEM ZUGRIFF AUF ODER DER NUTZUNG EINES MICROSOFT-ZERTIFIZIERUNGSPROGRAMMS ODER EINER MICROSOFT-ZERTIFIZIERUNGSBERECHTIGUNG AKZEPTIEREN SIE DIE BEDINGUNGEN DIESER VEREINBARUNG. WENN SIE DIESE VEREINBARUNG NICHT AKZEPTIEREN, GREIFEN SIE NICHT AUF DIE VORTEILE DES MICROSOFT-ZERTIFIZIERUNGSPROGRAMMS ODER DER MICROSOFT-ZERTIFIZIERUNG ZU ODER NUTZEN DIESE.
 
 1. DEFINITIONEN

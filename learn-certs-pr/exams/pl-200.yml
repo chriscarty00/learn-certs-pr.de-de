@@ -13,7 +13,9 @@ summary: |-
   Die Kandidaten setzen das von einem Lösungsarchitekten und in Zusammenarbeit mit ihm erstellte Design sowie die von den Designern der Benutzererfahrung festgelegten Standards, das Branding und die Artefakte um. Sie entwerfen Integrationen, um eine nahtlose Integration mit Anwendungen und Diensten von Drittanbietern zu ermöglichen.
 
   Die Kandidaten arbeiten aktiv mit Mitgliedern des Qualitätssicherungsteams zusammen, um sicherzustellen, dass die Lösungen den funktionalen und nicht funktionalen Anforderungen entsprechen. Sie identifizieren, generieren und liefern Artefakte für die Verpackung und Bereitstellung an DevOps-Ingenieure und bieten Power Platform-Administratoren Betriebs- und Wartungstrainings an.
-
+  
+  Funktionsberater von Power Platform sollten mit modellgetriebenen Dynamics 365-Anwendungen vertraut sein und Erfahrung mit der Verwendung der Power Platform-Komponenten zum Erweitern und Anpassen modellgesteuerter Dynamics 365-Anwendungen haben. 
+  
   <div><strong><br/>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. Um mehr zu erfahren <a href="/learn/certifications/certification-exams#participating-in-beta-exams">about the value and importance of beta exams</a>.</strong></div>
 subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden Aufgaben auszuführen: Konfigurieren des Common Data Services; Apps mit Hilfe von Power Apps erstellen. Erstellen und Verwalten von Power Automate; Power Virtual Agents Chatbots erstellen sowie Power Apps in andere Apps und Services integrieren.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -42,6 +44,8 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+courses:
+- uid: course.pl-200t00
 paths:
 - uid: learn-dynamics.get-started-using-common-data-service
 - uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
@@ -60,6 +64,9 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-functional-consultant-associate
 resources:
+- title: Lernpfad zur Zertifizirung
+  description: Empfohlene Schulungsressourcen, die Ihnen helfen, sich auf die erforderlichen Prüfungen vorzubereiten und Ihre Zertifizierung zu erhalten.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GP08
 - title: Informieren Sie sich über die Zertifizierungen
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

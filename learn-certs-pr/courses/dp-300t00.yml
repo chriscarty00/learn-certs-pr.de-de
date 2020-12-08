@@ -35,9 +35,16 @@ summary: |-
   #### Zielgruppenprofil
   Die Zielgruppe dieses Kurses sind Datenfachleute, die Daten und Datenbanken verwalten und mehr über die Verwaltung der in Microsoft Azure verfügbaren Datenplattformtechnologien erfahren möchten. Dieser Kurs ist auch für Datenarchitekten und Anwendungsentwickler hilfreich, die verstehen müssen, welche Technologien für die Datenplattform mit Azure verfügbar sind und wie man mit diesen Technologien über Anwendungen arbeiten kann.
 prerequisitesSection: |-
-  Zusätzlich zu ihrer beruflichen Erfahrung sollten die Teilnehmer des Kurses technische Kenntnisse besitzen, die vergleichbar sind mit den folgenden Kursen&#58;
-  - Azure Fundamentals
-  - Azure Data Fundamentals
+  Erfolgreiche Azure-Datenbankadministratoren beginnen diese Rolle mit Berufserfahrung in der Datenbankverwaltung und technischem Wissen über Cloud-Technologien.
+
+  Insbesondere&#58;
+  - Arbeiten mit, Verwalten und Entwickeln mit SQL Server
+  - Erfahrung mit Azure, z. B. Bereitstellen und Verwalten von Ressourcen
+
+  Sie sollten mindestens die Informationen in der folgenden Online-Schulung kennen, bevor Sie an dem Kurs teilnehmen&#58; 
+  - [Introduction to Azure SQL](/learn/modules/azure-sql-intro/)
+  - [Azure Fundamentals](/learn/certifications/azure-fundamentals)
+  - [Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals) 
 outlineSection: |-
   ### Modul 1&#58; Die Rolle des Azure-Datenbankadministrators
   In diesem Modul wird die Rolle eines Datenbankadministrators in der Welt von Azure untersucht. Es enthält auch einige grundlegende Informationen, die für den Gesamtinhalt relevant sind. Dies umfasst eine Überprüfung der verschiedenen SQL Server-basierten Optionen (SQL Server in einer VM, verwaltete Instanzen und Azure SQL-Datenbank). Die Schüler lernen, warum die Kompatibilitätsstufe bei der Arbeit mit SQL-Datenbanken in Azure ein entscheidendes Konzept ist. Die Schüler werden neben den auf SQL Server basierenden auch mit anderen auf Azure verfügbaren Datenbankplattformen vertraut gemacht, insbesondere mit PostgreSQL und MySQL 
@@ -48,13 +55,13 @@ outlineSection: |-
   - Azure-Vorschaufunktionen
 
 
-  #### Lab &#58; Verwenden von Azure Portal und SQL Server Management Studio
+  #### Labor &#58; Verwenden von Azure Portal und SQL Server Management Studio
   - Stellen Sie einen SQL Server auf einer virtuellen Azure-Maschine bereit
   - Stellen Sie eine Verbindung zu SQL Server her und stellen Sie eine Sicherung wieder her
 
   Nach Abschluss dieses Moduls die Teilnehmer&#58;
   - Grundlegendes zur Rolle des Azure-Datenbankadministrators und wie sie zu anderen Datenplattformrollen passt
-  die wichtigsten Unterschiede zwischen der SQL Server-basierten Database beschreiben
+  - die wichtigsten Unterschiede zwischen der SQL Server-basierten Database beschreiben
   - den Unterschied zwischen Versionen und Kompatibilitätsstufen beschreiben
   - wissen, wie Vorschau-Funktionen aktiviert und deaktiviert werden 
 
@@ -66,7 +73,7 @@ outlineSection: |-
   - Bereitstellen von SQL Server mit Hilfe von PaaS
   - Bereitstellen von Open Source-Datenbanklösungen in Azure
 
-  #### Lab &#58; Bereitstellen einer Azure SQL-Datenbank
+  #### Labor &#58; Bereitstellen einer Azure SQL-Datenbank
   - Stellen Sie eine VM mit Hilfe einer ARM-Vorlage bereit
   - Konfigurieren Sie die benötigten Ressourcen, bevor Sie eine Datenbank erstellen
   - Stellen Sie eine Azure SQL-Datenbank bereit
@@ -89,7 +96,7 @@ outlineSection: |-
   - Implementieren Sie die Sicherheit für Daten in Transit
   - Implementieren Sie Compliance-Kontrollen für sensible Daten
 
-  #### Lab &#58; Implementieren Sie eine sichere Umgebung
+  #### Labor &#58; Implementieren Sie eine sichere Umgebung
   - Konfigurieren Sie eine serverbasierte Firewall-Regel mit Hilfe des Azure-Portals
   - Autorisieren Sie den Zugriff auf die Azure SQL-Datenbank mit Azure Active Directory
   - Aktivieren Sie die erweiterte Datensicherheit und Datenklassifizierung
@@ -107,10 +114,10 @@ outlineSection: |-
   - Basislinien und Leistungsüberwachung
   - Hauptursachen für Leistungsprobleme
   - Konfigurieren von Ressourcen für optimale Leistung
-  Database-Konfiguration für Benutzer
+  - Database-Konfiguration für Benutzer
   - Leistungsbezogene Wartungsaufgaben
 
-  #### Lab &#58; Überwachung und Optimierung der Betriebsressourcen
+  #### Labor &#58; Überwachung und Optimierung der Betriebsressourcen
   - CPU-Probleme isolieren
   - Verwenden Sie den Abfragespeicher, um Blockierungsprobleme zu beobachten
   - Fragmentierungsprobleme erkennen und beheben
@@ -130,7 +137,7 @@ outlineSection: |-
   - Entdecken Sie das leistungsbasierte Datenbankdesign
   - Bewerten Sie Leistungsverbesserungen
 
-  #### Lab &#58; Fehlerbehebung bei der Abfrageleistung
+  #### Labor &#58; Fehlerbehebung bei der Abfrageleistung
   - Identifizieren Sie Probleme mit dem Datenbankdesign AdventureWorks2017
   - Isolieren Sie Problembereiche in Abfragen mit schlechter Leistung in AdventureWorks2017
   - Verwenden Sie den Abfragespeicher, um Regressionen in AdventureWorks2017 zu erkennen und zu verarbeiten
@@ -151,7 +158,7 @@ outlineSection: |-
   - Erweiterte Ereignisse konfigurieren
   - Verwalten von Azure PaaS-Ressourcen mit Hilfe automatisierter Methoden
 
-  #### Lab &#58; Aufgaben automatisieren
+  #### Labor &#58; Aufgaben automatisieren
   - Stellen Sie eine Azure-Vorlage aus einer Schnellstartvorlage auf GitHub bereit
   - Konfigurieren Sie Benachrichtigungen basierend auf Leistungsmetriken
   - Stellen Sie ein Azure Automation Runbook (oder einen elastischen Job) bereit, um Indizes in einer Azure SQL-Datenbank neu zu erstellen 
@@ -171,7 +178,7 @@ outlineSection: |-
   - PaaS-Plattform- und Datenbank-Tools für HADR
   - Datenbanksicherung und -wiederherstellung
 
-  #### Lab &#58; Planen und Implementieren einer Hochverfügbarkeits- und Notfallwiederherstellungsumgebung
+  #### Labor &#58; Planen und Implementieren einer Hochverfügbarkeits- und Notfallwiederherstellungsumgebung
   - Erstellen Sie eine ständig verfügbare Erreichbarkeits-Gruppe
   - Aktivieren Sie die Georeplikation für die Azure SQL-Datenbank
   - Sichern auf URL und Wiederherstellen von URL

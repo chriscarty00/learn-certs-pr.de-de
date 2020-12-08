@@ -40,13 +40,7 @@ ms.author: micsullivan
     </table>
 </div>
 
-
-## Sparen Sie Geld mit Studentenermäßigungen
-Nutzen Sie umfassende Preisnachlässe für Microsoft Certified Professional (MCP)-Prüfungen, indem Sie Ihren Studentenstatus vor der Registrierung für eine Prüfung nachweisen. *Hinweis: Studentenermäßigungen für Microsoft Certified-Prüfungen sind in Indien und China nicht verfügbar.*
-
-[**Mehr erfahren**](/learn/certifications/certification-exam-policies)
-
-## Häufig gestellte Fragen
+## <a name="frequently-asked-questions"></a>Häufig gestellte Fragen
 
 **Fr.: Was bedeutet die Exam Replay?**
 

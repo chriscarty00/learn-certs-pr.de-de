@@ -1,6 +1,6 @@
 ---
-title: 'Prüfungsprozessübersicht | Microsoft Docs'
-description: Prüfungsprozessübersicht 
+title: 'Häufig gestellte Fragen | Microsoft Docs'
+description: Häufig gestellte Fragen 
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -10,22 +10,11 @@ ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Prüfungsprozessübersicht
-
-## Richtlinien und Vereinbarungen
+# Häufig gestellte Fragen
 
 Hier finden Sie Antworten auf häufig gestellte Fragen zu Microsoft Certification.
 
-- Prüfungsgrundlagen
-- Prüfungsdetails
-- Bewertung und Ergebnisse
-- Richtlinien für Sicherheit und Integrität von Prüfungen
-- Leistungsbasiertes Prüfen
-- Rollenbasierte Zertifizierungen
-- Preisgestaltung für akdemische Prüfungen
-- Unterkunftsanfragen
-
-### Prüfungsgrundlagen
+## Prüfungsgrundlagen
 
 **Wie viele Fragen enthält die Prüfung?**
 
@@ -76,7 +65,7 @@ Microsoft Certified Trainer arbeiten mit vielen Kandidaten bei der Vorbereitung 
 
 Sie können auch andere Teilnehmer fragen, wie Sie diese Aufgaben bewältigen. Lesen Sie White Papers, MSDN-Artikel, und TechNet Infos, um zusätzliche Informationen zu den Prüfungsaufgaben zu erhalten. Nutzen Sie auch Ressourcen wie die Vorbereitungsmaterialien im entsprechenden Abschnitt der Seite mit den Prüfungsdetails. Sie bieten unter anderem Links zu verfügbaren Onlinekursen, Mikrolern-Einheiten und zu einem Portal, auf dem Sie Präsenzkurse in Ihrer Region finden.
 
-Zusätzlich werden [Microsoft Official Practice Tests](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) für einige unserer Zertifizierungsprüfungen durchgeführt. Diese können Ihnen mehr Informationen über Ihre speziellen Stärken und Schwächen liefern. Allerdings ist das Bestehen eines Praxistests keine Garantie dafür, dass Sie die Zertifizierungsprüfung bestehen werden.
+Zusätzlich werden [Microsoft Official Practice Tests](https://www.measureup.com/microsoft/microsoft-technical/microsoft-practice-tests.html) für einige unserer Zertifizierungsprüfungen durchgeführt. Diese können Ihnen mehr Informationen über Ihre speziellen Stärken und Schwächen liefern. Allerdings ist das Bestehen eines Praxistests keine Garantie dafür, dass Sie die Zertifizierungsprüfung bestehen werden.
 
 Wenn Sie die Prüfung abgelegt und nicht bestanden haben, priorisieren Sie die Kompetenzen, die Sie üben sollten, indem Sie sich auf die Inhalte konzentrieren, in denen Ihre Prüfungsleistung am schwächsten war und auf die Inhalte, die den höchsten Prozentsatz an Fragen haben.
 
@@ -86,11 +75,11 @@ Besuchen Sie die [Prüfungsanmeldeseite](https://docs.microsoft.com/learn/certif
 
 **Muss ich die Prüfung auf Englisch ablegen?**
 
-Microsoft Zertifizierungsprüfungen stehen in verschiedenen Sprachen zur Verfügung. Bewerber, die Prüfung auf Englisch statt in ihrer Muttersprache ablegen müssen, können eine Verlängerung der Prüfungszeit beantragen. Die Genehmigung für zusätzliche Zeit wird von Fall zu Fall erteilt und muss vor der Prüfung angefordert werden. Dies sollte über den [Unterbringungsprozess](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams) angefordert werden.
+Microsoft Zertifizierungsprüfungen stehen in verschiedenen Sprachen zur Verfügung. Bewerber, die Prüfung auf Englisch statt in ihrer Muttersprache ablegen müssen, können eine Verlängerung der Prüfungszeit beantragen. Die Genehmigung für zusätzliche Zeit wird von Fall zu Fall erteilt und muss vor der Prüfung angefordert werden. Dies sollte über den [Unterbringungsprozess](/learn/certifications/request-accomodations) angefordert werden.
 
 **Welche Unterkünfte stehen für Behinderte zur Verfügung?**
 
-Microsoft hat es sich zum Ziel gesetzt, dass unsere Prüfungen für jedermann zugänglich sind, einschließlich Menschen mit Behinderungen. Eine Liste verfügbarer Unterkünfte finden Sie im [Abschnitt Unterkünfte](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams).
+Microsoft hat es sich zum Ziel gesetzt, dass unsere Prüfungen für jedermann zugänglich sind, einschließlich Menschen mit Behinderungen. Eine Liste verfügbarer Unterkünfte finden Sie im [Abschnitt Unterkunftsanfragen](/learn/certifications/exam-process-overview#accommodation-requests).
 
 **Wie viel kosten die Prüfungen?**
 
@@ -114,7 +103,7 @@ Um andere Arten von Feedback anzubieten, wenden Sie sich bitte an [Zertifizierun
 
 Um ein Sicherheitsproblem zu melden, wenden Sie sich bitte an [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 
-### Prüfungsdetails
+## Prüfungsdetails
 
 **Welche Arten von Fragen kommen in Microsoft Certification exams vor?**
 
@@ -195,7 +184,7 @@ Da Sie für falsche Antworten nicht bestraft werden und Prüfungen Elemente bein
 
 Nein. Die gleiche Prüfung kann nicht wahlweise verwendet werden, um die Anforderungen für ein MCSA-, MCSE- oder MCSD-Zertifikat zu erfüllen.
 
-### Bewertung und Ergebnisse
+## Bewertung und Ergebnisse
 
 **Wie und wann erhalte ich meine Prüfungsergebnisse?**
 
@@ -317,7 +306,7 @@ Eine Neubewertung ist nicht sehr wahrscheinlich, da dies selten ändert, ob die 
 
 **Wie kann ich eine Prüfungsfrage zur Überprüfung übermitteln?**
 
-Wenn Sie der Meinung sind, dass eine Frage zu einer Microsoft-Zertifizierungsprüfung ungenau ist, können Sie eine Bewertung dieser Frage mit dem [Exam Item Challenge process](/learn/certifications/exam-reschedule-and-cancellation-policy) innerhalb von 30 Kalendertagen nach der Prüfung anfordern. Der Evaluierungsprozess hilft uns, problematische Fragen zu identifizieren und zu korrigieren und die Prüfungen entsprechend zu aktualisieren.
+Wenn Sie der Meinung sind, dass eine Frage zu einer Microsoft-Zertifizierungsprüfung ungenau ist, können Sie eine Bewertung dieser Frage mit dem [Exam Item Challenge process](/learn/certifications/exam-item-challenge-process) innerhalb von 30 Kalendertagen nach der Prüfung anfordern. Der Evaluierungsprozess hilft uns, problematische Fragen zu identifizieren und zu korrigieren und die Prüfungen entsprechend zu aktualisieren.
 
 **Überprüft und bewertet ein Microsoft-Mitarbeiter die Prüfungsfrage, die ich zur Überprüfung übermittle?**
 
@@ -335,7 +324,7 @@ Zum Schutz der Prüfungssicherheit behandeln wir die Begründung für Entscheidu
 
 Nein. Microsoft bietet keine Rückerstattung bei Prüfungen, die Sie nicht bestehen, oder bei verpassten Prüfungsterminen.
 
-### Richtlinien für Sicherheit und Integrität von Prüfungen
+## Richtlinien für Sicherheit und Integrität von Prüfungen
 
 **Warum muss ich vor einer Prüfung eine Geheimhaltungsvereinbarung (NDA) akzeptieren?**
 
@@ -399,7 +388,7 @@ Senden Sie eine E-Mail an [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com
 
 Ja. Alle Korrespondenz an [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com) kann anonym bleiben, und wir geben Ihre Kontaktinformationen an niemanden weiter. Wenn Sie Ihre Kontaktinformationen angeben möchten, damit wir weitere Informationen bei Ihnen einholen können, tragen wir Sorge dafür, dass die Daten sicher bleiben.
 
-### Leistungsbasiertes Prüfen
+## Leistungsbasiertes Prüfen
 
 **Was ist leistungsbasiertes Prüfen (PBT)?**
 
@@ -448,7 +437,7 @@ Die meisten Aufgaben bringen einen Punkt, sollte eine Aufgabe mehr Punkte bringe
 
 **Wie viel Zeit habe ich zum Abschluss der Labore?**
 
- Labore werden zeitmäßig nicht anders berechnet als der Rest der Prüfung. Zu Beginn der Prüfung werden die Anzahl von Labors, Fallbeispielen und Fragen angegeben, ebenso die zur Verfügung stehende Gesamtzeit. Sie müssen alle Fragen beantworten und die Aufgaben der Labore gelöst haben, bevor die Zeit verstrichen ist. Teilen Sie sich Ihre Zeit also gut ein, so dass Sie alles beenden können.
+Labore werden zeitmäßig nicht anders berechnet als der Rest der Prüfung. Zu Beginn der Prüfung werden die Anzahl von Labors, Fallbeispielen und Fragen angegeben, ebenso die zur Verfügung stehende Gesamtzeit. Sie müssen alle Fragen beantworten und die Aufgaben der Labore gelöst haben, bevor die Zeit verstrichen ist. Teilen Sie sich Ihre Zeit also gut ein, so dass Sie alles beenden können.
 
 **Habe ich genug Zeit zum Abschluss der Labore?**
 
@@ -490,7 +479,7 @@ Nein. Die bewerteten Kompetenzen bleiben unabhängig vom Format der Frage gleich
 
 Prüfungen, zu denen auch Labors gehören, erfordern Testzentren, die bestimmte Anforderungen an die Internetkonnektivität erfüllen, so dass eine kleinere Anzahl von Testzentren zur Verfügung steht. Da die Labore zu weiteren der neuen funktionsspezifischen Prüfungen hinzukommen, werden sie auch den gleichen Testzentren angehören. Wenn Sie bestimmte Testzentren im Sinn haben, wenden Sie sich an das jeweilige Testzentrum, um zu erfahren, ob es Labore liefern kann; alternativ werden sie nach Auswahl der Prüfung nicht mehr als verfügbare Testzentren aufgeführt. In diesem Fall empfehlen wir, ein anderes Prüfungszentrum zu finden oder die Prüfung durch Online-Proctoring abzulegen. Hinweis: Möglicherweise können Sie Labs mittels Online-Beaufsichtigung absolvieren. Dies hängt jedoch von Ihrer Bandbreite und Internetverbindung ab.
 
-### Rollenbasierte Zertifizierungen
+## Rollenbasierte Zertifizierungen
 
 **Wie werden die frollenbasierten Zertifizierungen benannt? Heißen sie immer noch MCSA, MCSD und MCSE?**
 
@@ -512,7 +501,7 @@ Bevor die Prüfungen aus dem Programm genommen werden, sollten Sie alle diejenig
 
 Nein, wir reduzieren nicht den Erfahrungsschatz, den Menschen benötigen, um die Prüfungen zu bestehen oder unsere Zertifizierungen zu erhalten. Die Schulung dient der Vorbereitung auf die Prüfungen, ist aber an sich wahrscheinlich unzureichend. Die Fragen zu unseren rollenbasierten Prüfungen erfordern, dass Sie die im Training von realen Problemen erworbenen Kompetenzen und Kenntnisse anwenden.
 
-### Preisgestaltung für akdemische Prüfungen
+## Preisgestaltung für akdemische Prüfungen
 
 **Erhalte ich eine Rückerstattung, wenn ich ursprünglich ohne Überprüfung meiner Berechtigung für einen akademischen Rabatt eine Prüfung angemeldet und bezahlt habe, dies jetzt aber bestätigt ist?**
 
@@ -530,11 +519,11 @@ Ja. Sie müssen den gleichen Ablauf wie Studenten befolgen. Das heißt, Sie müs
 
 Wenn Sie allgemeine Fragen zur Prüfungsregistrierung oder zu einer neuen oder ausstehenden Überprüfungsanfrage haben, wenden Sie sich bitte an [Zertifizierungssupport](https://aka.ms/mcpforum).
 
-### Unterkunftsanfragen
+## Unterkunftsanfragen
 
 **Wie kann ich eine Unterkunft buchen?**
 
-Wenn Sie während einer Prüfung spezielle Materielien oder eine andere Unterkunft benötigen, können Sie über [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) mit dem "Reasonable Adjustments Request System" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) eine Unterkunft anfordern. Weitere Informationen finden Sie im Abschnitt [Spezielle Unterkünfte bei Prüfungen](/learn/certifications/request-accomodations) oben.
+Wenn Sie während einer Prüfung spezielle Materielien oder eine andere Unterkunft benötigen, können Sie über [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) mit dem "Reasonable Adjustments Request System" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) eine Unterkunft anfordern. Weitere Informationen finden Sie im Abschnitt [Unterkünfte anfragen](/learn/certifications/request-accomodations) oben.
 
 **Warum muss ich Unterlagen einreichen?**
 

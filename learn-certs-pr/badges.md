@@ -63,15 +63,14 @@ Wenn Sie kein Acclaim-Account haben , können Sie ein Account auf der Plattforms
 
 *Bitte beachten Sie, dass dieser Link Sie zur Plattform von Credlys Acclaim führt, einer Drittpartei, deren Datenschutzpraktiken von denen von Microsoft abweichen. Wenn Sie Acclaim personenbezogene Daten zur Verfügung stellen, unterliegen Ihre Daten den Datenschutzbestimmungen.
 
-Bin ich dazu berechtigt, ein Abzeichen zu erhalten?
+## Bin ich dazu berechtigt, ein Abzeichen zu erhalten?
 
 Wir stellen Badges für alle aktiven Prüfungen und Zertifizierungen im Rahmen des Microsoft Zertifizierung Programms aus.  
 
-In Fällen, in denen das Bestehen einer Prüfung zu einer Zertifizierung führt, wird anstelle der Prüfung ein Badge für die Zertifizierung ausgestellt.
-
+- In Fällen, in denen das Bestehen einer Prüfung zu einer Zertifizierung führt, wird anstelle der Prüfung ein Badge für die Zertifizierung ausgestellt.
 - Prüfung 74-343 Projektverwaltung mit Microsoft Project (eingestellt im Juli 2019).
-- MOS 2010 Püfungen (74-881, 74-882, 74-883, 74-884, 74-885, MB2-887, MB2-888).
-- Microsoft Dynamics CRM Püfungen (MB2-706, MB2-707, MB2-708, MB2-710, MB2-711, MB2-712, MB2-713, MB2-714 (alle eingestellt am 31. Dezember 2019)).
+- MOS 2010 Prüfungen und Zertifizierungen.
+- Microsoft Dynamics CRM-Prüfungen (MB2-706, MB2-707, MB2-708, MB2-710, MB2-711, MB2-712, MB2-713, MB2-714 (alle am 31. Dezember 2019 eingestellt)).
 - Vorhandene Prüfungen und Zertifizierungen. Für einige unserer bestehenden Prüfungen und Zertifizierungen sind keine Badges verfügbar. Wenn Sie in Ihrem Acclaim-Profil keinen Badge für eine ältere Prüfung oder Zertifizierung sehen, haben wir keinen Badge für dieses examens oder Zertifizierung ausgestellt.
 
 Wenn Sie einen Badge für eine Prüfung oder Zertifizierung erworben haben, der , war, können Sie Ihren Badge trotzdem über Credlys Acclaim-Plattform beanspruchen und ihn an andere Plattformen oder per E-Mail weitergeben. Sehen Sie die Antwort auf Haben Sie nicht beanspruchte Badges? in den FAQs, um zu erfahren, wie.

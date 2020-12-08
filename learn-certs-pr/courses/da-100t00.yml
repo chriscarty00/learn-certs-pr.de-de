@@ -31,7 +31,15 @@ summary: |-
   #### Zielgruppenprofil
   Die Zielgruppe für diesen Kurs sind Datenprofis und Business Intelligence-Experten, die lernen möchten, wie man akkurate Datenanalysen mit Power BI drchführen kann. Dieser Kurs richtet sich auch an Personen, die Berichte entwickeln, die Daten aus Datenplattformtechnologien visualisieren, die sowohl in der Cloud als auch lokal vorhanden sind.
 prerequisitesSection: |-
-  Zusätzlich zu ihrer Berufserfahrung sollten Studenten, die an dieser Schulung teilnehmen, über technische Kenntnisse verfügen, die den Informationen im Azure Fundamentals-Kurs entsprechen.
+  Erfolgreiche Datenanalysten beginnen diese Rolle mit der Erfahrung in der Arbeit mit Daten in der Cloud.
+
+  Insbesondere&#58;
+  - Grundlegende Datenkonzepte verstehen.
+  - Kenntnisse in der Arbeit mit relationalen Daten in der Cloud.
+  - Kenntnisse in der Arbeit mit nicht relationalen Daten in der Cloud.
+  - Kenntnisse über Datenanalyse- und Visualisierungskonzepte.
+
+  Sie können die Voraussetzungen und ein besseres Verständnis für die Arbeit mit Daten in Azure erlangen, indem Sie [Microsoft Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals) ausfüllen, bevor Sie an diesem Kurs teilnehmen.
 outlineSection: |-
   ### Modul 1&#58; Erste Schritte mit Microsoft Data Analytics
   In diesem Modul werden die verschiedenen Rollen im Datenbereich untersucht, die wichtigen Rollen und Verantwortlichkeiten eines Datenanalysten erläutert und anschließend die Landschaft des Power BI-Portfolios untersucht.
@@ -39,7 +47,7 @@ outlineSection: |-
   - Data Analytics und Microsoft
   - Erste Schritte mit Power BI
 
-  #### Lab&#58; Erste Schritte
+  #### Labor&#58; Erste Schritte
   - Erste Schritte
 
   Nach Abschluss dieses Moduls können Sie&#58;
@@ -56,7 +64,7 @@ outlineSection: |-
   - Leistung optimieren
   - Beheben Sie Datenfehler
 
-  #### Lab&#58; Vorbereiten von Daten in Power BI Desktop
+  #### Labor&#58; Vorbereiten von Daten in Power BI Desktop
   - Daten vorbereiten
 
   Nach Abschluss dieses Moduls können Sie&#58;
@@ -73,7 +81,7 @@ outlineSection: |-
   - Erweitern Sie die Datenstruktur
   - Daten-Profiling
 
-  #### Lab&#58; Daten transformieren und laden
+  #### Labor&#58; Daten transformieren und laden
   - Daten laden
 
   Nach Abschluss dieses Moduls können die Schüler&#58;
@@ -89,13 +97,13 @@ outlineSection: |-
   - Arbeiten mit Tabellen
   - Dimensionen und Hierarchien
 
-  #### Lab&#58; Datenmodellierung in Power BI Desktop
+  #### Labor&#58; Datenmodellierung in Power BI Desktop
   - Modellbeziehungen erstellen
   - Tabellen konfigurieren
   - Die Modellschnittstelle überprüfen
   - Schnelle Maßnahmen erstellen
 
-  #### Lab&#58; Erweiterte Datenmodellierung in Power BI Desktop
+  #### Labor&#58; Erweiterte Datenmodellierung in Power BI Desktop
   - Konfigurieren Sie viele-zu-viele-Beziehungen
   - Sicherheit auf Zeilenebene durchsetzen
 
@@ -113,12 +121,12 @@ outlineSection: |-
   - DAX-Kontext
   - Erweiterter DAX
 
-  #### Lab&#58; Einführung in DAX in Power BI Desktop
+  #### Labor&#58; Einführung in DAX in Power BI Desktop
   - Kalkulierte Tabellen erstellen
   - Berechnete Spalten erstellen
   - Maßnahmen erstellen
 
-  #### Lab&#58; Erweiterter DAX in Power BI Desktop
+  #### Labor&#58; Erweiterter DAX in Power BI Desktop
   - Verwenden Sie die Funktion CALCULATE(), um den Filterkontext zu bearbeiten
   - Zeitintelligenz-Funktionen verwenden
 
@@ -150,12 +158,12 @@ outlineSection: |-
   - Entwerfen Sie einen Bericht
   - Verbessern Sie den Bericht
 
-  #### Lab&#58; Entwerfen eines Berichts in Power BI
+  #### Labor&#58; Entwerfen eines Berichts in Power BI
   - Erstellen Sie eine Live-Verbindung in Power BI Desktop
   - Entwerfen Sie einen Bericht
   - Konfigurieren Sie visuelle Felder und formatieren Sie Eigenschaften
 
-  #### Lab&#58; Verbessern von Power BI-Berichten durch Interaktion und Formatierung
+  #### Labor&#58; Verbessern von Power BI-Berichten durch Interaktion und Formatierung
   - Erstellen und konfigurieren Sie Sync Slicer
   - Erstellen Sie eine Drillthrough-Seite
   - Bedingte Formatierung anwenden
@@ -177,7 +185,7 @@ outlineSection: |-
   - Echtzeit-Dashboards
   - Verbessern Sie ein Dashboard
 
-  #### Lab&#58; eines Berichts in Power BI Desktop - Teil 1
+  #### Labor&#58; eines Berichts in Power BI Desktop - Teil 1
   - Ein Dashboard erstellen
   - Bildmaterial an ein Dashboard anheften
   - Eine Dashboard-Kachelwarnung konfigurieren
@@ -189,13 +197,13 @@ outlineSection: |-
   - Die Benutzerfreundlichkeit des Dashboards verbessern
 
 
-  ### Modul Module 9&#58; Erstellen paginierter Berichte in Power BI
+  ### Modul 9&#58; Erstellen paginierter Berichte in Power BI
   In diesem Modul erfahren Sie mehr über paginierte Berichte, einschließlich der Art und Weise, wie sie in Power BI hineinpassen. Anschließend erfahren Sie, wie man einen Bericht erstellt und veröffentlichten.
   #### Lektionen
   - Übersicht paginierte Berichte
   - Erstellen Sie paginierte Berichte
 
-  #### Lab&#58; Erstellen eines paginierten Berichts
+  #### Labor&#58; Erstellen eines paginierten Berichts
   - Verwenden von Power BI Report Builder
   - Entwerfen von mehrseitigen Berichtslayouts
   - Bestimmen einer Datenquelle
@@ -217,7 +225,7 @@ outlineSection: |-
   - Advanced Analytics
   - Dateneinsichten mit Hilfe von AI-Bildmaterial
 
-  #### Lab&#58; Datenanalyse in Power BI Desktop
+  #### Labor&#58; Datenanalyse in Power BI Desktop
   - Animierte Streudiagramme erstellen
   - Bildmaterial verwenden, um Werte zu prognostizieren
   - Mit dem visuellen Dekompositionsbaum arbeiten
@@ -238,7 +246,7 @@ outlineSection: |-
   - Erstellen von Arbeitsbereichen
   - Teilen und Verwalten von Assets
 
-  #### Lab&#58; Veröffentlichen und Freigeben von Power BI-Inhalten
+  #### Labor&#58; Veröffentlichen und Freigeben von Power BI-Inhalten
   - Ordnen Sie Sicherheitsprinzipalen Datensatz-Rollen zu
   - Teilen Sie ein Dashboard
   - Veröffentlichen Sie eine APP

@@ -12,8 +12,6 @@ ms.prod: non-product-specific
 ---
 # Prozess zur Anfechtung von Prüfungsteilen
 
-## Richtlinien und Vereinbarungen
-
 Mit Microsoft-Zertifizierungsprüfungen soll sichergestellt werden, dass Kandidaten, die Prüfungen bestehen und unsere Zertifizierungen erhalten, die erforderlichen Kompetenzniveaus in allen Kompetenzbereichen nachgewiesen haben. Jede Frage zur Microsoft-Zertifizierungsprüfung wird von einem Gremium aus Fach- und Funktionsexperten sorgfältig auf technische Genauigkeit, Klarheit und Relevanz geprüft. Wenn Sie der Meinung sind, dass eine Frage zu einer Microsoft-Zertifizierungsprüfung ungenau ist, können Sie über den Prozess zur Anfechtung von Prüfungsteilen eine Bewertung der Frage anfordern, damit problematische Fragen identifiziert und korrigiert werden können. Selbst wenn eine Frage in irgendeiner Weise fehlerhaft ist, können wir nicht davon ausgehen, dass Sie sie richtig beantwortet hätten, wenn dies nicht der Fall gewesen wäre. Daher werden die meisten Prüfungen nicht erneut bewertet. In solchen Fällen geben wir Teilnehmern die Möglichkeit, die Prüfung kostenfrei wiederholen.
 
 ### Kriterien für die Annahme einer Anfechtung von Teilen der Prüfung:

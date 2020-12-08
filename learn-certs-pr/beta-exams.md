@@ -12,12 +12,10 @@ ms.prod: non-product-specific
 ---
 # Beta-Prüfungen
 
-## Programminformationen
-
 Etwa 400 Personen können die Beta-Prüfung zu einem reduzierten Preis ablegen. Um diesen ermäßigten Tarif nutzen zu können, benötigen Sie einen Beta-Code, der bei der Registrierung als Teil Ihrer Zahlung eingegeben werden muss. Um diesen Code zu erhalten, können Sie:
 
 1. Mitglied werden in unserer SME-Profile-Datenbank. Mitglieder, deren Kompetenzen zu den Prüfungsinhalten passen, erhalten eine E-Mail mit diesem Code, der für diese Gruppe einzigartig ist. Wenn Sie ein Mitglied unserer KMU-Datenbank sind, erfordert der frühe Zugang zur Beta, dass Sie Ihr Profil auf dem neuesten Stand halten, da wir die Verteilung dieser Codes an diejenigen anstreben, die über Fähigkeiten im Zusammenhang mit der neuen Prüfung verfügen. (das KMU-Profil-Datenbankprogramm wird jetzt gehostet auf [Microsoft Collaborate](https://aka.ms/collaborate). Besuchen Sie den Blog-Post [Helfen Sie uns, Prüfungen und Lerninhalte zu erstellen!](/learn/certifications/posts/help-us-create-exams-and-learning-content) Lassen Sie sich noch heute in unsere SME-Datenbank aufnehmen!)
-2. Sehen Sie sich die Ankündigungen auf Microsoft Learn oder unseren [Community-Blog](https://www.microsoft.com/en-us/learning/community-blog.aspx) an, um Informationen über bevorstehende Beta-Prüfungen zu erhalten. Diese Beiträge enthalten einen Code, mit dem Sie einen Rabatt auf die Prüfung erhalten können. Die Beiträge werden in der Regel an dem Tag veröffentlicht, an dem die Registrierung für eine Beta-Prüfung beginnt. Dieser Code ist anders als der, der an SMEs gesendet wird, die bereits in unserer Datenbank sind.
+2. Informationen zu bevorstehenden Beta-Prüfungen finden Sie in den Ankündigungen im [Microsoft Learn Blog](https://aka.ms/learningblog). Diese Beiträge enthalten einen Code, mit dem Sie einen Rabatt auf die Prüfung erhalten können. Die Beiträge werden in der Regel an dem Tag veröffentlicht, an dem die Registrierung für eine Beta-Prüfung beginnt. Dieser Code ist anders als der, der an SMEs gesendet wird, die bereits in unserer Datenbank sind.
 
 Beachten Sie, dass die Plätze begrenzt sind und in der Reihenfolge ihres Eintreffens vergeben werden, und dass Beta-Prüfungen in China, Indien, Pakistan oder der Türkei aus Sicherheitsgründen nicht angeboten werden.
 

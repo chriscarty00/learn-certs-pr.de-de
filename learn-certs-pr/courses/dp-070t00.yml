@@ -26,8 +26,17 @@ summary: |-
   Die primäre Zielgruppe für diesen Kurs sind Datenbankentwickler, die planen, ihre MySQL- oder Postgres-DB-Workloads auf Azure SQL DB zu migrieren.
   Die sekundäre Zielgruppe für diesen Kurs sind MySQL/Postgres-Administratoren, um das Bewusstsein für die Features und Vorteile von Azure SQL DB zu erhöhen.
 prerequisitesSection: |-
-  Zusätzlich zu ihrer Berufserfahrung sollten Kandidaten, die den Kurs besuchen, bereits über die folgenden technischen Kenntnisse verfügen&#58;
-  - Einige Erfahung mit Open Source relationalen Datenbankverwaltungssystem wie Postgres und/oder MySQL, SQL administration, Backup und Recovery Techniken z.B. Taple Data löschen
+  Erfolgreiche Studenten beginnen diese Rolle mit einem grundlegenden Wissen über Cloud-Computing-Konzepte und Erfahrung mit relationalen Open-Source-Datenbankmanagementsystemen.
+  Insbesondere&#58;
+  - Arbeiten mit PostgreSQL und/oder MySQL
+  - Verwenden von Sicherungs- und Wiederherstellungstechniken mit Open Source-Daten
+  - SQL-Administration
+
+  Um diese Fähigkeiten zu erwerben, nehmen Sie an der folgenden kostenlosen Online-Schulung teil, bevor Sie an dem Kurs teilnehmen&#58; 
+  - [Kern-Cloud-Services - Azure-Rechenoptionen](/learn/modules/intro-to-azure-compute/)
+  - [MariaDB, MySQL und PostgreSQL unter Azure bereitstellen](/learn/modules/deploy-mariadb-mysql-postgresql-azure/)
+  - [Einführung in Azure SQL](/learn/modules/azure-sql-intro/)
+  - [Einführung in die Open Source-Datenbankmigration zu Azure Cosmos DB](/learn/modules/introduction-open-source-database-migration-azure-cosmos-db/)
 outlineSection: |-
   ### Modul 1&#58; Migration nach Azure SQL DB für MySQL & PostgreSQL
   Dieses Modul beschreibt die Vorteile und Architektur Azure SQL DB.

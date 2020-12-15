@@ -14,10 +14,6 @@ ms.prod: non-product-specific
 
 Bei Microsoft gelten bestimmte Richtlinien für die Sicherheitsbereiche im Hinblick auf Microsoft-Zertifizierun.
 
-## Ablauf der Zertifizierung und erneute Zertifizierung
-
-Microsoft-rollenbasierte Zertifizierungen und Spezialzertifizierungen sind derzeit zwei Jahre ab Datum der Erlangung der Zertifizierung gültig. Aufgrund der COVID-19-Pandemie und ihrer Auswirkungen auf Einzelpersonen und Unternehmen haben wir Verlängerungen für Einzelpersonen bereitgestellt, deren Zertifizierungen ursprünglich vor dem 31. Dezember 2020 ablaufen sollten. Wir werden die COVID-19-Situation weiterhin überwachen. Bei Bedarf werden wir Personen, deren Zertifizierungen ablaufen, benachrichtigen und mehr Zeit zur Verfügung stellen. Zu diesem Zeitpunkt müssen Sie keine Maßnahmen ergreifen, um sicherzustellen, dass Ihre Zertifizierungen gültig bleiben. Wir werden Sie weiterhin über die Situation und Änderungen informieren. Bleiben Sie über zukünftige Programmaktualisierungen und Anforderungen für die Rezertifizierung auf dem Laufenden, indem Sie den [Microsoft Learn Blog](https://aka.ms/learningblog) abonnieren.
-
 ## Sperren von Kandidaten
 
 Wenn ein Kandidat gegen eine Prüfungsvorschrift, eine Prüfungsrichtlinie oder eine Klausel in der Prüfungsvereinbarung (NDA) verstößt oder ein Fehlverhalten an den Tag legt, das die Sicherheit und Integrität des Microsoft-Zertifizierungsprogramms in irgendeiner Weise beeinträchtigt, kann dem Kandidaten dauerhaft die Teilnahme an zukünftigen Microsoft Certification exams untersagt werden. Darüber hinaus können dem Kandidaten Zertifizierungen des Microsoft-Zertifizierungsprogramms aberkannt und Testergebnisse für ungültig erklärt werden.

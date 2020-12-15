@@ -34,8 +34,11 @@ ms.author: micsullivan
 ### Informationen zum Microsoft-Zertifizierungsprogramm
 1. [Was ist das Microsoft-Zertifizierungsprogramm?](#c1)
 
+### Zur Erneuerung der Zertifizierung
+1. [Wie erneuere ich meine Microsoft-Zertifizierung oder halte sie auf dem neuesten Stand?](#d1)
+
 ### Kontakt-Support
-1. [Wie kontaktiere ich den Support des Microsoft-Zertifizierungsprogramms?](#d1)
+1. [Wie kontaktiere ich den Support des Microsoft-Zertifizierungsprogramms?](#e1)
 
 <br/>
 
@@ -147,8 +150,16 @@ Um Ihr Account aktiv zu halten, greifen Sie bitte alle 12 Monate auf Ihr Microso
 
 <br/>
 
+## Zur Erneuerung der Zertifizierung
+
+**Fr.: Wie erneuere ich meine Microsoft-Zertifizierung oder halte sie auf dem neuesten Stand?**<a name="d1"></a>
+
+**A:** Informationen zum Verwalten und Aktualisieren Ihrer Microsoft-Zertifizierungen finden Sie auf der Seite [Microsoft-Zertifizierung erneuern](/learn/certifications/renew-your-microsoft-certification).
+
+<br/>
+
 ## Kontakt-Support
 
-**Fr.: Wie kontaktiere ich den Support des Microsoft-Zertifizierungsprogramms?**<a name="d1"></a>
+**Fr.: Wie kontaktiere ich den Support des Microsoft-Zertifizierungsprogramms?**<a name="e1"></a>
 
 **A:** Wenn Sie Hilfe bei Ihrem Microsoft-Zertifizierungsprofil benötigen, Ihren Ergebnisbericht ansehen, auf Ihre Ergebnisse zugreifen oder andere Hilfe beim Programm benötigen, wenden Sie sich an [Zertifizierungssupport](https://aka.ms/mcpforum). Ein Forum-Moderator wird Ihnen innerhalb von 24 Geschäftsstunden antwortenund weiterhelfen.

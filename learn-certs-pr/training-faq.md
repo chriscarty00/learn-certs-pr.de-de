@@ -85,11 +85,11 @@ Dies ist ein neuer Dienst, der in der ‚Public Preview' mit einer kleinen Anzah
 
 ### Wie kommt es, dass andere Schulungskurse mehr oder weniger kosten als derjenige, den ich besuchen möchte?
 
-Wie bei jedem Marktplatz wird der Preis des Kurses von jedem Lernpartner festgelegt. Die Partner müssen eine vollständige Microsoft Official Course-Schulung zu dem Preis anbieten, der auf dem Microsoft Learn-Tool für die Terminplanung angegeben ist. Es ist den Partnern gestattet, zusätzliche Produkte und Dienstleistungen zu bewerben, die optional sind. Wenn Sie der Meinung sind, dass die angezeigten Preise irreführend oder ungenau sind, wenden Sie sich bitte an das [Learning Partner instructor-led course scheduling on Learn support forum](https://trainingsupport.microsoft.com/iltvilt/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1).
+Wie bei jedem Marktplatz wird der Preis des Kurses von jedem Lernpartner festgelegt. Die Partner müssen eine vollständige Microsoft Official Course-Schulung zu dem Preis anbieten, der auf dem Microsoft Learn-Tool für die Terminplanung angegeben ist. Es ist den Partnern gestattet, zusätzliche Produkte und Dienstleistungen zu bewerben, die optional sind. Wenn Sie der Meinung sind, dass die angezeigten Preise irreführend oder ungenau sind, wenden Sie sich bitte an das [Learning Partner instructor-led course scheduling on Learn support forum](https://trainingsupport.microsoft.com/en-us/iltvilt/forum).
 
 ### Die Filterung nach Kursort, Datum usw. funktioniert nicht richtig.
 
-Wenn die Filterung nicht funktioniert, aktualisieren Sie bitte Ihren Browser und versuchen Sie es erneut. Wenn Sie der Meinung sind, dass die Filter immer noch nicht funktionieren, können Sie Ihre Frage im [Lernpartner: von einem Ausbilder geleitete Kursplanung im Supportforum Lernen](https://trainingsupport.microsoft.com/iltvilt/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1). Dies ist die beste Ressource, um zu suchen und um Hilfe zu bitten, ein Problem zu melden und Ratschläge zu erhalten.
+Wenn die Filterung nicht funktioniert, aktualisieren Sie bitte Ihren Browser und versuchen Sie es erneut. Wenn Sie der Meinung sind, dass die Filter immer noch nicht funktionieren, können Sie Ihre Frage im [Lernpartner: von einem Ausbilder geleitete Kursplanung im Supportforum Lernen](https://trainingsupport.microsoft.com/en-us/iltvilt/forum). Dies ist die beste Ressource, um zu suchen und um Hilfe zu bitten, ein Problem zu melden und Ratschläge zu erhalten.
 
 ### Ich kann den Lernpartner in meinem Gebiet nicht finden.
 
@@ -101,4 +101,4 @@ Mit der Einführung dieses neuen Dienstes begrenzen wir die Anzahl der qualifizi
 
 Der Lernpartner ist für die Unterstützung bei der Terminplanung auf seiner Website verantwortlich. Sie können verschiedene Nummern für den Lernpartner ausprobieren, indem Sie sich seine Website ansehen.
 
-Wenn Sie den Lernpartner immer noch nicht erreichen können, können Sie Ihre Frage im [Lernpartner: von Ausbildern geleitete Kursplanung im Supportforum für Lernende](https://trainingsupport.microsoft.com/iltvilt/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) stellen. Dies ist die beste Ressource, um Hilfe zu bitten, ein Problem zu melden und Rat zu erhalten.
+Wenn Sie den Lernpartner immer noch nicht erreichen können, können Sie Ihre Frage im [Lernpartner: von Ausbildern geleitete Kursplanung im Supportforum für Lernende](https://trainingsupport.microsoft.com/en-us/iltvilt/forum) stellen. Dies ist die beste Ressource, um Hilfe zu bitten, ein Problem zu melden und Rat zu erhalten.

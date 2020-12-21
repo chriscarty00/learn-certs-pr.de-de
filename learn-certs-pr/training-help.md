@@ -52,18 +52,9 @@ Die Kursanmeldung wird zu Beginn nur auf Englisch verfügbar sein. Weitere quali
 			<td>
 				<ul>
 					<li>Bitte lesen Sie die <a href="/learn/certifications/training-faq">FAQs</a>.</li>
-					<li>Wenn Sie keine Antwort auf Ihre Frage finden, stellen Sie Ihre Frage bitte in der vom <a href="https://trainingsupport.microsoft.com/iltvilt/forum">Lernpartner geleiteten Kursplanung im Supportforum von Learn</a>.
+					<li>Wenn Sie keine Antwort auf Ihre Frage finden, stellen Sie Ihre Frage bitte in der vom <a href="https://trainingsupport.microsoft.com/en-us/iltvilt/forum">Lernpartner geleiteten Kursplanung im Supportforum von Learn</a>.
 </li>
 				</ul>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><strong><em>Allgemeines Feedback</em></strong> zur Verbesserung der Erfahrung oder des Service </p>
-            </td>
-            <td>
-                <p>Bitte reichen <a href="/learn/support/troubleshooting#report-feedback">Sie Ihre Rückmeldung mit diesem Formular</a> ein und wählen Sie 'Produkt oder Funktionalität', dann 'Ausbilder-geführte Schulung' und geben Sie Ihre detaillierte Rückmeldung ab.</p>
-				<p> Bitte seien Sie versichert, dass Ihr Feedback berücksichtigt wird, aber Sie werden keine Antwort auf Ihr Feedback erhalten.</p>
             </td>
         </tr>
         <tr>

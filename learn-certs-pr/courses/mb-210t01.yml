@@ -5,7 +5,7 @@ metadata:
   description: 'Kurs MB-210T01-A: Dynamics 365 for customer engagement for sales'
 uid: course.mb-210t01
 courseNumber: 'MB-210T01-A'
-hoursToComplete: 24
+hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Installieren und Konfigurieren des application
@@ -27,66 +27,56 @@ products:
 exams:
 - uid: exam.mb-210
 summary: |-
-  Microsoft Dynamics 365 für den Vertrieb ist eine Komplett-Anwendung zur Verwaltung des Umgangs mit Kunden bzw. potenziellen Kunden. Es hilft bei der Nachverfolgung von Daten anhand von Verkaufszielen, der Automatisierung von bewähren Praktiken, dem Lernen aus Daten und vielem mehr.
-
-  Unser Team weltweit anerkannter Experten leitet die Studenten Schritt für Schritt an, von der Zuleitung über die Chance bis zum Abschluss. Anhand der verfügbaren Automatisierungs- und Anpassungsoptionen der Anwendung lernen die Studenten, wie sie dem Vertriebspersonal zu gesteigerter Produktivität verhelfen können.
-
+  Microsoft Dynamics 365 Sales ist eine End-to-End-Anwendung zur Verwaltung des Umgangs mit Kunden und potenziellen Kunden. Mit Dynamics 365 Sales können Unternehmen Daten anhand von Vertriebszielen verfolgen, bewährte Praktiken automatisieren, aus Daten lernen und vieles mehr.
+  
+  Schließen Sie sich unserem Team von weltweit anerkannten Experten an, die Sie Schritt für Schritt vom Lead über die Gelegenheit bis zum Abschluss eines Geschäfts begleiten. Anhand der verfügbaren Automatisierungs- und Anpassungsoptionen der Anwendung lernen die Teilnehmer, wie sie dem Vertriebspersonal zu gesteigerter Produktivität verhelfen können. 
+  
   #### Zielgruppenprofil
-  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von sowie Lösungen und Anwendungen zu konfigurieren. Der Modulbetreuer implementiert eine Lösung mit gebrauchsfertigen Funktionen, codefreier Erweiterungsmöglichkeit, sowie Anwendungs- und Service-Integrationen.
+  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von Bedürfnissen, sowie Lösungen und Anwendungen zu konfigurieren. Der Modulbetreuer implementiert eine Lösung mit Hilfe von gebrauchsfertigen Funktionen, codefreier Erweiterungsmöglichkeit sowie Anwendungs- und Service-Integrationen. 
 prerequisitesSection: |-
-  Vertrautheit mit Geschäftsanwendungen und der Wunsch, diese für Ihr Unternehmen anzupassen und zu implementieren.
+  Vertrautheit mit Geschäftsanwendungen und das Bestreben, diese für Ihr Unternehmen anzupassen und zu implementieren.
 outlineSection: |-
-  ### Modul 1&#58; Vertriebsübersicht
-  In diesem Modul lernen die Studenten die Grundlagen des Vertriebs in Dynamics 365. Sie installieren und konfigurieren die Anwendung und lernen Sicherheitsrollen, Schlüsselbegriffe und das Datenmodell kennen.
+  ### Modul 1&#58; Dynamics 365 Sales konfigurieren
+  In diesem Modul erfahren Sie, wie Sie die Vertriebsanwendung so konfigurieren, dass sie den spezifischen Anforderungen eines Unternehmens entspricht.
   #### Lektionen
-  - Vertriebsübersicht
-  - Konfigurieren des Vertriebs
-  - Modulübersicht
-
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Installieren und konfigurieren der Vertriebsanwendung
-  -Gängige Vertriebsszenarien identifizieren
-
-
-  ### Modul 2&#58; Mit Chancen arbeiten
-  In diesem Modul lernen die Studenten, Kundendaten zu verwalten, integrierte Vertriebstools anzuwenden und einen Anhaltspunkt für eine Chance zu finden.
+  - Konfigurieren Sie die Organisations- und Verwaltungseinstellungen
+  - Verkaufsvisualisierungen erstellen und konfigurieren
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - die Verkaufsanwendung zu installieren und zu konfigurieren.
+  - Gängige Vertriebsszenarien identifizieren.
+  
+  ### Modul 2&#58; Verwalten von Kunden, Leads und Gelegenheiten
+  In diesem Modul erfahren Sie, wie Sie Kundendatensätze verwalten, integrierte Verkaufstools verwenden und einen Lead durch den Lead-Lebenszyklus führen.
   #### Lektionen
-  - Kunden verwalten
-  - Arbeiten mit Gelegenheiten
-  - Eingebettete Intelligenz
-  - Playbooks
-  - Integrierte Vertriebstools
-  - Modulübersicht
-
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Kundendatensätze erstellen
-  -Vertriebstools nutzen
-
-
-  ### Modul 3&#58; Von Angeboten zu Bestellungen
-  In diesem Modul lernen die Teilnehmer, wie man Angebote und Aufträge mit Dynamics 365 für den Vertrieb nutzt, um Vertriebsmöglichkeiten bis hin zu abgeschlossenen Geschäften zu verwalten.
+  - Kunden mit Hilfe von Accounts und Kontakten verwalten
+  - Leads verwalten
+  - Chancen verwalten
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Kundendatensätze zu erstellen.
+  - Vertriebstools nutzen.
+  - Erstellen von Leads und Gelegenheiten.
+  
+  ### Modul 3&#58; Kundenaufträge bearbeiten
+  In diesem Modul erfahren Sie, wie Sie Dynamics 365 Sales für Angebote und Bestellungen nutzen, um Ihre Verkaufschancen zu verwalten und sie in abgeschlossene Geschäfte zu verwandeln.
   #### Lektionen
-  - Auftragsabwicklung (Übersicht)
-  - Produktkatalog verwalten
-  - Angebote erstellen und verwalten
-  - Erstellen und Verwalten von Bestellungen und Rechnungen
-  - Modulübersicht
-
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  -Den Produktkatalog erstellen und verwenden
-  - Angebote zu Möglichkeiten hinzu zu fügen
-  - Schließen Sie einen Verkauf mit einer Bestellung ab
-
-
-  ### Modul 4&#58; Vertriebsanalyse und Erkenntnisse
-  In diesem Modul lernen die Studenten, wie man Ziele erstellt und verwendet, sowie diese in PowerBI integriert und AI für den Vertrieb aktiviert.
+  - Verwalten von Angeboten, Bestellungen und Rechnungen
+  - Verwalten und organisieren des Produktkatalogs
+  - Prognosen verwalten
+  - Playbooks konfigurieren
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - den Produktkatalog zu erstellen und zu nutzen.
+  - Angebote zu Möglichkeiten hinzu zu fügen.
+  - einen Verkauf mit einer Bestellung abzuschließen.
+  
+  ### Modul 4&#58; Integrieren von Komponenten in Dynamics 365 Sales
+  In diesem Modul erfahren Sie, wie Sie mit Hilfe von Vertriebsanalysetools das Vertriebsteam stärken.
   #### Lektionen
-  - Übersicht
-  - Power BI
-  - AI für den Vertrieb
-  - Modulübersicht
-
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Ziele erstellen und nutzen
-  - In PowerBI integrieren
-  - AI-Funktionalität für den Vertrieb aktivieren
+  - Nutzen von Embedded Intelligence in Dynamics 365 Sales
+  - Verwalten von Beziehungen mit Social Selling
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Embedded Intelligence-Tools zu verwenden.
+  - Verwalten Sie Beziehungen mit Hilfe von Social-Selling-Tools.

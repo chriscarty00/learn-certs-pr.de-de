@@ -38,11 +38,19 @@ summary: |-
   #### Zielgruppenprofil
   Dieser Kurs richtet sich an IT-Experten mit Fachkenntnissen im Entwerfen und Implementieren von Lösungen, die unter Microsoft Azure ausgeführt werden. Die Kandidaten sollten über fortgeschrittene Erfahrung und Kenntnisse des IT-Betriebs verfügen, einschließlich Netzwerk, Virtualisierung, Identität, Sicherheit, Geschäftskontinuität, Notfallwiederherstellung, Datenplattform, Budgetierung und Governance. Azure Solution Architects verwenden das Azure Portal und verwenden die Befehlszeilenschnittstelle, sobald sie sachkundiger sind. Die Kandidaten müssen über Expertenkenntnisse in der Azure-Verwaltung verfügen und Erfahrung mit Azure-Entwicklungsprozessen und DevOps-Prozessen haben.
 prerequisitesSection: |-
-  Erfolgreiche Azure-Administratoren beginnen diese Rolle mit Erfahrung in den Bereichen Betriebssysteme, Virtualisierung, Cloud-Infrastruktur, Speicherstrukturen und Netzwerk.
+  Erfolgreiche Azure Architekten beginnen diese Rolle mit Erfahrung in Betriebssystemen, Virtualisierung, Cloud-Infrastruktur, Speicherstrukturen, Netzwerken, Anwendungen und Datenbanken.
   - Verständnis lokaler Virtualisierungstechnologien&#58;VMs, virtueller Netzwerke und virtueller Festplatten.
   - Grundlegendes zur Netzwerkkonfiguration, einschließlich TCP/IP, DNS (Domain Name System), VPNs (Virtual Private Networks), Firewalls und Verschlüsselungstechnologien.
   - Grundlegendes zu Active Directory-Konzepten, einschließlich Domains, Gesamtstrukturen, Domain-Controllern, Replikation, Kerberos-Protokoll und LDAP (Lightweight Directory Access Protocol).
   - Grundlegendes zu Ausfallsicherheit und Notfallwiederherstellung, einschließlich Sicherungs- und Wiederherstellungsvorgängen.
+  - Verständnis von Anwendungsentwicklung und APIs.
+  - Verständnis von Datenbanken, sowohl SQL wie MS SQL, MySQL oder Postgres, als auch Nicht-SQL-Datenbanken wie MongoDB.
+  - Verständnis der Entkopplung von Anwendungen und Services, z. B. Warteschlangen, Tabellen, Cache.
+  - Verständnis der Sicherheitskonzepte zum Schutz Ihrer Umgebung, z. B. Verschlüsselung in Ruhe, Verschlüsselung während des Transports, SSL, TLS.
+  
+  Vorausgesetzte Kurse (oder gleichwertige Kenntnisse)&#58;
+  - AZ-900 Azure Fundamentals 
+  - AZ-303 Azure Solution Architect Technologies 
 outlineSection: |-
   ### Modul 1&#58; Entwerfen Sie eine Compute-Lösung
   In diesem Modul lernen Sie die entsprechenden Compute-Technologien kennen, einschließlich virtueller Maschinen, App Services, Service Fabric, Azure-Funktionen, Windows Virtual Desktop und Container.

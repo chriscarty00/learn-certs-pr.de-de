@@ -1,6 +1,6 @@
 ---
-title: 'College-Kredit für Zertifizierungsprüfungen | Microsoft Docs'
-description: 'College-Kredit für Zertifizierungsprüfungen' 
+title: 'NCCRS College-Gutschriften für Zertifizierungsprüfungen | Microsoft Docs'
+description: 'NCCRS College-Gutschriften für Zertifizierungsprüfungen' 
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -10,7 +10,7 @@ ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# College-Kredit für Zertifizierungsprüfungen
+# NCCRS College-Gutschriften für Zertifizierungsprüfungen 
 
 ## Zertifizierung für Schüler
 

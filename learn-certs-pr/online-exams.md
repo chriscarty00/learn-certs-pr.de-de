@@ -11,8 +11,10 @@ ms.author: micsullivan
 ---
 # Über Online-Prüfungen mit Pearson VUE
 
-Sie können jede rollenbasierte oder grundlegende Microsoft-Zertifizierungsprüfung bei Pearson VUE online und bequem von zu Hause oder vom Büro aus ablegen. Durch die beaufsichtigte Online-Prüfung bleibt die Integrität der Prüfungsergebnisse erhalten, indem Ihre Prüfungserfahrung von einem Aufsichtsführenden per Webcam und Mikrofon überwacht wird. Wenn Sie an einer Online-Prüfung durch Pearson VUE interessiert sind und vor der Registrierung besser verstehen möchten, was Sie erwartet, werden auf dieser Seite die Details erläutert. Sehen Sie sich das [YouTube-Video](https://youtu.be/Gm1PqdbwBP0) von Pearson VUE an, um mehr über die Teilnahme an beaufsichtigten Online-Prüfungen zu erfahren. (Dieser Artikel behandelt keine von Certiport durchgeführten Prüfungen).
+Sie können jede rollenbasierte oder grundlegende Microsoft-Zertifizierungsprüfung bei Pearson VUE online und bequem von zu Hause oder vom Büro aus ablegen.Durch die beaufsichtigte Online-Prüfung bleibt die Integrität der Prüfungsergebnisse erhalten, indem Ihre Prüfungserfahrung von einem Aufsichtsführenden per Webcam und Mikrofon überwacht wird.Wenn Sie an einer Online-Prüfung durch Pearson VUE interessiert sind und vor der Registrierung besser verstehen möchten, was Sie erwartet, werden auf dieser Seite die Details erläutert.Sehen Sie sich das folgende Video an, um mehr über die Teilnahme an beaufsichtigten Online-Prüfungen zu erfahren.(Dieser Artikel behandelt keine von Certiport durchgeführten Prüfungen.)
+<br/>
 
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4IFBp]
 
 ## <a name="take-a-system-test"></a> Machen Sie einen Systemtest
 

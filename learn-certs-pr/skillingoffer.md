@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 Erweitern Sie Ihre Optionen für eine Karriere in der IT-Branche, indem Sie Ihre Glaubwürdigkeit mit einer Microsoft Certification erhöhen, die Ihre Fähigkeiten und Fertigkeiten zur Ausübung einer Tätigkeit mit Microsoft-Technologien bestätigt. Da die digitale Transformation die Art und Weise, wie wir unser Geschäft betreiben, weiterentwickelt, kann Ihnen eine Schulung und Zertifizierung dabei helfen, Ihre Fähigkeit zu beschleunigen, eine gefragte technische Rolle zu übernehmen.
 
-Arbeitssuchende, die eine Schulung für diese Microsoft-spezifischen technischen Funktionen absolviert haben und bescheinigen können, dass sie aufgrund von COVID-19 arbeitslos oder beurlaubt sind, können eine branchenweit anerkannte Microsoft Certification zu einer ermäßigten Gebühr von USD15 erhalten. Testkandidaten haben die Möglichkeit, eine Prüfung **vor dem 31. Dezember 2020 anzusetzen und haben bis zum 31. März 2021** Zeit, um zur Prüfung zu erscheinen und diese zu absolvieren. Siehe [Bedingungen und Konditionen](#Bedingungen-Konditionen).
+Arbeitssuchende, die eine Schulung für diese Microsoft-spezifischen technischen Funktionen abgeschlossen haben und nachweisen können, dass sie auf Grund von COVID-19 arbeitslos oder beurlaubt waren, können sich eine branchenweit anerkannte Microsoft-Zertifizierung zu einem ermäßigten Preis von 15 USD sichern.Testkandidaten haben die Möglichkeit, eine Prüfung **vor dem 30. Dezember 2021 zu planen und bis zum 31. Dezember 2021** zur Prüfung zu erscheinen und diese abzuschließen.Siehe [Allgemeine Geschäftsbedingungen](#terms-conditions).
 <br/>
 <br/>
 
@@ -41,7 +41,7 @@ Mit branchenanerkannten Zertifizierungen haben Sie die Möglichkeit, Ihr LinkedI
 
 ## Checkliste zur Prüfungsplanung
 
-Um Sie vorzubereiten und sicherzustellen, dass Sie in der Lage sind, sich zu registrieren und Ihre Microsoft-Zertifizierungsprüfung abzulegen, befolgen Sie bitte die folgenden Schritte. **Hinweis:** Berechtigte Teilnehmer müssen die ermäßigte Prüfung vor dem 31. Dezember 2020 ansetzen.
+Um Sie vorzubereiten und sicherzustellen, dass Sie in der Lage sind, sich zu registrieren und Ihre Microsoft-Zertifizierungsprüfung abzulegen, befolgen Sie bitte die folgenden Schritte. **Hinweis:** Berechtigte Teilnehmer müssen die ermäßigte Prüfung vor dem 30. Dezember 2021 ansetzen.
 
 1. Lesen Sie die folgenden wichtigen Microsoft-Zertifizierungsressourcen:
 	1. [Über Online-Prüfungen mit PSI](/learn/certifications/online-exams-psi)– enthält die teilnehmenden Länder, Systemanforderungen, Anforderungen an das Prüfungsprotokoll, Online-Prüfungsverfahren und mehr.  
@@ -62,16 +62,17 @@ Häufig gestellte Fragen und Antworten zu Online-Prüfungen mit PSI finden Sie u
 - Dieses Prüfungsangebot steht Arbeitssuchenden zur Verfügung, die nachweisen können, dass sie aufgrund von COVID-19 arbeitslos oder beurlaubt sind.
 - Sie müssen mindestens 18 Jahre alt sein, um auf dieses Prüfungsangebot zugreifen und es nutzen zu können.
 - Dieses Prüfungsangebot steht für eine begrenzte Anzahl von berechtigten Personen und Prüfungsterminen zur Verfügung.
-- Dieses Prüfungsangebot berechtigt Sie zur Anmeldung und Teilnahme an einer (1) gültigen Microsoft-Zertifizierungsprüfung zu einem zeitlich begrenzten Sonderpreis von USD15. Das Angebot gilt bis zum 31. Dezember 2020.
+- Dieses Prüfungsangebot berechtigt Sie zur Anmeldung und Teilnahme an einer (1) gültigen Microsoft-Zertifizierungsprüfung zu einem zeitlich begrenzten Sonderpreis von USD15. Das Angebot gilt bis zum 31. Dezember 2021.
 - Dieses Prüfungsangebot kann gegen die Teilnahme an einer (1) gültigen Microsoft-Zertifizierungsprüfung eingelöst werden, die nur als Online-Prüfung unter Aufsicht angeboten wird.
 - Dieses Prüfungsangebot ist prüfungsspezifisch und kann nur für ausgewählte Microsoft-Zertifizierungsprüfungen eingelöst werden.
-- Das Zeitfenster für die Planung des Prüfungsangebots wird später in diesem Jahr zwischen dem 1. September 2020 und dem 31. Dezember 2020 verfügbar sein.
-- Das Prüfungsangebot muss bis zum 31. Dezember 2020 geplant werden. Prüfungstermine müssen bis zum 31. März 2021 abgeschlossen sein.
+- Das Fenster zum Planen des Prüfungsangebots wird später in diesem Jahr zwischen dem 1. September 2020 und dem 31. &#42;Dezember 2021 verfügbar sein. Das Prüfungsangebot muss bis zum 30. Dezember 2021 geplant werden.&#42; Prüfungstermine müssen bis zum 31. Dezember 2021 abgeschlossen sein.
 - Das Ablaufdatum dieses Prüfungsangebots kann unter keinen Umständen verlängert werden.
 - Dieses Prüfungsangebot kann nicht eingelöst oder gegen Bargeld, Gutschrift, oder Rückerstattung eingetauscht werden.
 - Dieses Prüfungsangebot ist nicht übertragbar und entfällt, wenn Sie es in irgendeiner Weise ändern, überarbeiten, oder übertragen.
 - Es gelten die Stornierungs- und Verschiebungsrichtlinien und alle damit verbundenen Gebühren.
 - Prüfungskandidaten müssen der [Vertraulichkeitsvereinbarung zur Zertifizierungsprüfung](/learn/certifications/certification-exam-policies#non-disclosure-agreement) zustimmen.
 - Testkandidaten müssen die [Systemanforderungen](/learn/certifications/online-exams-psi#system-requirements) und [Testprotokollanforderungen](/learn/certifications/online-exams-psi#testing-protocol-requirements) erfüllen.
+
+*&#42;Prüfungen müssen 24 Stunden im Voraus geplant werden.Wenn Sie am letzten Tag des Angebots, dem 31. Dezember 2021, eine Prüfung ablegen möchten, müssen Sie den Termin bis zum 30. Dezember 2021 festlegen.*
 
 Weitere Informationen finden Sie in den vollständigen [Microsoft-Nutzungsbedingungen](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx).

@@ -65,6 +65,10 @@ Prüfungen suchen, die in den nächsten 12 Monaten aus dem Programm genommen we
 | [MB-200](/learn/certifications/exams/mb-200): Microsoft Power Platform + Dynamics 365 Core |
 | [MB-400](/learn/certifications/exams/mb-400): Microsoft Power Apps + Dynamics 365 Developer |
 
+| Wird am 30. Juni 2021 eingestellt |
+| --- |
+| [MB-901](/learn/certifications/exams/mb-901): Microsoft Dynamics 365 Fundamentals |
+
 ## Kürzlich eingestellte Prüfungen
 
 Zu Referenzzwecken werden Prüfungen, die im letzten Jahr eingestellt wurden, noch für einen Zeitraum von 12 Monaten einen Link zu ihrer Prüfungsdetailseite enthalten.

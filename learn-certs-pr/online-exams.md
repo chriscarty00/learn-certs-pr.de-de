@@ -118,7 +118,7 @@ Besuchen Sie [Apple Support](https://support.apple.com/), um Hilfe beim Einricht
                 <p><strong>Internet Browser</strong></p>
             </td>
             <td>
-                <p>Die neuesten Versionen von Microsoft <strong>Edge</strong>, <strong>Safari</strong>, <strong>Chrome</strong> und <strong>Firefox</strong> für Webregistrierungen oder zum Herunterladen des sicheren Browsers oder von <strong>Internet Explorer 11</strong>.</p>
+                <p>Die neuesten Versionen von Microsoft <strong>Edge</strong>, <strong>Safari</strong>, <strong>Chrome</strong>, und <strong>Firefox</strong>.</p>
             </td>
         </tr>
         <tr>

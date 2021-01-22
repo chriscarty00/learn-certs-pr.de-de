@@ -13,7 +13,7 @@ learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
-- beginner
+- intermediate
 roles:
 - functional-consultant
 products:
@@ -25,507 +25,257 @@ summary: |-
   Dieser Kurs behandelt die finanziellen Aspekte von Dynamics 365&#58; Konfigurieren und Verwenden wesentlicher Finanzkomponenten, Kreditorenbuchhaltung, Debitorenbuchhaltung, Inkasso, Budgetierung, Anlagevermögen und zusätzliche Funktionen
 
   #### Zielgruppenprofil
-  Zu den Aufgaben des Dynamics 365 Finance Functional Consultant gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von sowie Lösungen und Anwendungen zu konfigurieren. Der Modulbetreuer implementiert eine Lösung mit gebrauchsfertigen Funktionen, codefreier Erweiterungsmöglichkeit, sowie Anwendungs- und Service-Integrationen.
+  Zu den Aufgaben des Dynamics 365-Modulberaters für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Interessenvertretern, das Übersetzen von Bedürfnissen, sowie Lösungen und Anwendungen zu konfigurieren.Der Modulbetreuer implementiert eine Lösung mit Hilfe gebrauchsfertiger Funktionen, codefreier Erweiterungsmöglichkeiten sowie Anwendungs- und Service-Integrationen.
 prerequisitesSection: |-
-  Grundlegende BuchhaltungsfähigkeitenKernkompetenzen in Dynamics 365 Core
+  Grundlegende Buchhaltungsfähigkeiten  
+  Kernkompetenzen in Dynamics 365 Core
 outlineSection: |-
-  ### Modul 1&#58; Finanzverwaltung
-  In diesem Modul lernen die Studenten einige der Vorteile des Finanzmanagements von Dynamics 365 for Finance and Operations kennen.
-  #### Lektionen
-  - Vorteile des Finanzmanagements
-  - Finnzverwaltung
-  - Modulübersicht
-
-  Sie haben sich mit Modulen in Finanzen und Betrieb im Zusammenhang mit Finanzmanagement und deren vertraut gemacht
-
-  ### Modul 2&#58; Zahlungsmittel konfigurieren
-  Einer der ersten und wichtigsten Schritte zur Implementierung des Finanzmanagements in Dynamics 365 for Finance and Operations ist das Einrichten von Zahlungsmitteln. Das Einrichten von Zahlungsmitteln ist ein erforderlicher Schritt in der Konfiguration des Systems und wird zur Erfassung von Finanztransaktionen verwendet. In diesem Modul wird das Zahlungsmittelmanagement in Finance and Operations erläutert.
+  ### Modul 1&#58; Übersicht über Dynamics 365 Finance
+  In diesem Modul werden die Kernkomponenten des Finanzwesens erörtert und die beteiligten Module betrachtet.
   #### Lektionen
   - Einführung
-  - Einrichten von Zahlungsmitteln und Umrechnungen für juristische Einheiten
-  - Konfigurieren und Importieren von Wechselkursen
-  - Übungslabor
+  - Lektion 1&#58; Übersicht über die Funktionen und Möglichkeiten von Dynamics 365 Finance
+  - Lektion 2&#58; Kernkomponenten von Dynamics 365 Finance
+  - Lektion 3&#58; Übersicht über Finanzverwaltungsmodule in Dynamics 365 Finance
+  - Lektion 4&#58; Vorteile von Dynamics 365 Finance
   - Modulübersicht
+  - Wissensprüfung
 
-  Die Studenten haben nun verschiedene Arten von Zahlungsmitteln in Finanzen und Operations kennengelernt. Du bist auch fam
-
-  ### Modul 3&#58; Steuerkalender, Jahre und Perioden erstellen
-  Vor dem Buchen von Transaktionen muss ein neues Geschäftsjahr in Perioden unterteilt werden. Dies liegt daran, dass Transaktionen nur gebucht werden können, wenn ein Zeitraum für das Buchungsdatum erstellt und von mehreren juristischen Einheiten gemeinsam genutzt wird. Die gemeinsame Nutzung von Steuerkalendern hat den Vorteil, dass für jede Rechtsperson mehrere Steuerkalender unterstützt werden.
-
-  Das Geschäftsjahr in Finance and Operations kann auf eine beliebige Länge festgelegt und in eine beliebige Anzahl von Perioden unterteilt werden.
+  Sie haben einige Vorteile des Finanzmanagements von Dynamics 365 Finance kennengelernt.
+  
+  
+  ### Modul 2&#58; Finanzmanagement einrichten und konfigurieren
+  In diesem Modul wird erläutert, wie man eine neue juristische Person (Firma) erstellt und das Finanzmanagement dafür einrichtet und konfiguriert.Dieses Modul enthält den Ledger.
   #### Lektionen
   - Einführung
-  - Erstellen von Steuerkalendern, Jahren und Perioden
-  - Erstellen von Datumsintervallen
-  - Übungslabor
+  - Lektion 1&#58; Neue juristische Person erstellen und konfigurieren
+  - Lektion 2&#58; Definieren und Konfigurieren eines Kontenplans
+  - Lektion 3&#58; Konfigurieren von Ledgern und Währungen
+  - Lektion 4&#58; Journals implementieren und verwalten
+  - Lektion 5&#58; Cash und Bank implementieren und verwalten
+  - Lektion 6&#58; Kostenrechnung und Kostenmanagement implementieren
+  - Lektion 7&#58; Regelmäßige Prozesse durchführen
+  - Lektion 8&#58; Steuern konfigurieren, sammeln und melden
   - Modulübersicht
-
-  In diesem Modul haben Sie gelernt, wie Sie&#58; zwischen Hauptbuch- und Steuerkalendern unterscheiden, konfigurieren und
-
-  ### Modul 4&#58; Kontenplan konfigurieren
-  Ein Kontenplan besteht aus einer Reihe von Hauptkonten in Finance and Operations, die beim Buchen eines Journals Finanzinformationen erfassen. Jedem Konto wird eine Kontonummer als eindeutige Kennung zugewiesen.
+  - Wissensprüfung
+  
+  #### Lab&#58; Übung 1&#58; Konfigurieren einer neuen juristischen Person
+  
+  #### Lab&#58; Übung 2&#58; Erstellen von Kontenplan und Hauptkonten
+  
+  #### Lab&#58; Übung 3&#58; Erstellen erweiterter Regelstrukturen
+  
+  #### Lab&#58; Übung 4&#58; Erstellen eines Geschäftskalenders, Jahre und Perioden
+  
+  #### Lab&#58; Übung 5&#58; Wechselkurse über einen Anbieter importieren
+  
+  #### Lab&#58; Übung 6&#58; Erstellen und Verwenden von Gutscheinvorlagen
+  
+  #### Lab&#58; Übung 7&#58; Konfigurieren und Testen von Abgrenzungsschemata
+  
+  #### Lab&#58; Übung 8&#58; Regeln für die Ledger-Zuordnung konfigurieren und testen
+  
+  #### Lab&#58; Übung 9&#58; Einrichten und Verwenden der konzerninternen Buchhaltung
+  
+  #### Lab&#58; Übung 10&#58; Bankvorgangsarten und Bankvorgangsgruppen erstellen
+  
+  #### Lab&#58; Übung 11&#58; Eine Bankgruppe und ein Bankkonto erstellen
+  
+  #### Lab&#58; Übung 12&#58; Einzahlungen tätigen und Zahlungsstornierungen durchführen
+  
+  #### Lab&#58; Übung 13&#58; Arbeitsbereiche für die Bankverwaltung verwenden
+  
+  #### Lab&#58; Übung 14&#58; Erstellen der Kostenrechnung mit Hilfe eines Assistenten
+  
+  #### Lab&#58; Übung 15&#58; Jahresabschluss durchführen
+  
+  #### Lab&#58; Übung 16&#58; Konfigurieren der indirekten Umsatzsteuer
+  Sie können das Finanzmanagement einrichten und konfigurieren, indem Sie die Hauptbuchhaltung und anderes vorbereiten.
+  
+  
+  ### Modul 3&#58; Implementieren und Verwalten der gemeinsam genutzten Konfiguration für A / P und A / R
+  Dynamics 365 Finance bietet umfangreiche Funktionen zum Einrichten verschiedener Zahlungsoptionen, die von Kreditoren- und Debitorenmodulen gemeinsam genutzt werden.
   #### Lektionen
   - Einführung
-  - Kontenplan zu definieren und konfigurieren
-  - Finanziellen Dimensionen definieren und konfigurieren
-  - Kontostrukturen und Regeln definieren und konfigurieren
-  - Übungslabore
+  - Lektion 1&#58; Zahlungsbedingungen konfigurieren
+  - Lektion 2&#58; Konfigurieren von Zahlungstagen und Zahlungsplänen
+  - Lektion 3&#58; Skonti konfigurieren
+  - Lektion 4&#58; Zahlungskalender konfigurieren
+  - Lektion 5&#58; Zahlungsgebühren konfigurieren
   - Modulübersicht
-
-  Erforderlichen Komponenten für den Kontenplan zu identifizieren.
-  - Kontenplan zu definieren und konfigurieren.
-  - Die finanziellen Dimensionen und Dimensionssätze zu definieren und konfigurieren.
-  - Kontenplan, Hauptkonten, Kategorien, Vorlagen, Hauptbuch-Alias und Kontostandskontrolle zu konfigurieren
-  - Kontostrukturen und erweiterte Regeln konfiguriert.
-
-
-  ### Modul 5&#58; Hauptbuch und Journale konfigurieren
-  Ein Journal ist ein Arbeitsblatt, das Sie verwenden können, bevor Sie Buchungen manuell in das System eingeben. Bei korrekter Einrichtung ermöglichen Journale eine schnelle und effiziente Verwaltung der Buchung. Um ein Journal verwenden zu können, müssen Sie einen Journalnamen haben und die Konfiguration des Ledgers, des Journals und der Buchung des Hauptbuchmoduls abschließen.
-
-  Wenn man das Hauptbuchjournal direkt oder über den Arbeitsbereich für die Hauptbuchverarbeitung verwendet, kann jemand die täglichen Aktivitäten ausführen, dem die entsprechende Sicherheitsrolle für den Zugriff auf das Hauptbuch zugewiesen wurde.
-
-  Mit einem Journalnamen können Verantwortliche im Finanzbereich die Validierung der Dateneingabe steuern und das Buchen eines Journalnamens für Benutzer unterschiedlich einschränken.
-  #### Lektionen
-  - Journale und deren Einrichtung
-  - Hauptbuch- und Journalerstellung konfigurieren
-  - Benutzerjournale
-  - Übungslabor
-  - Modulübersicht
-
-  Verstehen Verschiedene Arten von Journalen und deren Aufbau.
-  - Wissen, wie man das Ledger- und Buchungssetup konfiguriert.
-  - Wissen, wie man Journale konfiguriert und verwendet.
-
-
-  ### Modul 6&#58; Cash- und Bank-Management konfigurieren
-  In Dynamics 365 for Finance and Operations verwenden Unternehmen das Modul „Cash and bank management" zur Erstellung und Verwaltung von Bankkonten. Die Bankkontentabelle enthält einen Datensatz für jedes Bankkonto. Jeder Datensatz enthält Bankkontoinformationen, z. B. die folgenden&#58;
-  - Registrierungsnummer und Kontonummer
-  - Anschrift
-  - Weitere Kontaktinformationen
-  - Währung
-  - Einrichtung prüfen
-  - Hauptkonto für die Buchung
-
-  Finance and Operations verwendet diese Informationen, um Bankgeschäfte wie z.B. Zahlungen und Einzahlungen zu verarbeiten.
+  - Wissensprüfung
+  
+  #### Lab&#58; Übung 1&#58; Zahlungsbedingungen konfigurieren
+  
+  #### Lab&#58; Übung 2&#58; Zahlungsplan konfigurieren
+  
+  #### Lab&#58; Übung 3&#58; Skonti konfigurieren
+  
+  #### Lab&#58; Übung 4&#58; Erstellen eines Zahlungskalenders
+  
+  #### Lab&#58; Übung 5&#58; Zahlungsgebühren konfigurieren
+  Sie werden in der Lage sein, Zahlungs- und Bankinformationen zu konfigurieren
+  
+  
+  ### Modul 4&#58; Kreditorenbuchhaltung implementieren und verwalten
+  Bei diesem Thema werden die Grundeinstellungen für Kreditorenbuchhaltung und die Lieferantenkonfiguration für die effiziente Verwaltung von Lieferanten und Lieferantentransaktionen in Dynamics 365 Finance erläutert.
   #### Lektionen
   - Einführung
-  - Arten und Gruppen von Bankgeschäften
-  - Einrichten von Parametern für die Cash- und Bankverwaltung
-  - Banken und Bankschecks konfigurieren
-  - Einzahlungs- und Rückerstattungsschecks
-  - Cashflow
-  - Übungslabore
+  - Lektion 1&#58; Erstellen und Pflegen der Kreditorenzahlungen
+  - Lektion 2&#58; Erstellen und Pflegen von Lieferantengruppen und Lieferanten
+  - Lektion 3&#58; Erstellen und Konfigurieren des Lieferantenbuchungsprofils
+  - Lektion 4&#58; Konfigurieren der Rechnungsprüfungsrichtlinien
+  - Lektion 5&#58; Bestellungen, Rechnungen und Zahlungen verarbeiten
+  - Lektion 6&#58; Das Portal für die Zusammenarbeit von Anbietern für einen Anbieter aktivieren und testen
+  - Lektion 7&#58; Kreditorenbuchhaltung konfigurieren
+  - Lektion 8&#58; Konfigurieren und Verwenden von Positive Pay
   - Modulübersicht
-
-  Banken erstellt und konfiguriert
-  - Banklayouts erstellt und konfiguriert
-  - Cash- und Bankverwaltungsparameter konfiguriert
-  - Lieferanten- und Kundenbanken konfiguriert
-  - Cashflow-Prognosen und Berichte konfiguriert
-
-
-  ### Modul 7&#58; Cash- and Bank-Management nutzen
-  In diesem Modul werden die Hauptverfahren des Moduls Cash- und Bankmanagement in Finance and Operations behandelt.
-
-  Sie lernen, wie Sie mit Arbeitsbereichen für Bargeld und Bankverwaltung wie Bankverwaltung und Bargeldübersichten arbeiten. Die Studenten lernten auch Abläufe und Verfahren für das Cash- und Bankmanagement kennen, z. B. Einzahlungen vornehmen und Zahlungen stornieren (Einzahlungen).
-
-  Finance and Operations bietet Funktionen zum Verwalten von Scheckzahlungen sowie Verfahren zum Beheben spezieller Situationen mit Schecks.
-
-  Sie können Schecks löschen, erstatten und stornieren sowie Schecks gemäß Unternehmensspezifikationen erstellen und ausstellen.
-
-  Da in Finance and Operations alle Finanztransaktionen erfasst werden, können Unternehmen mit Hilfe der Funktion zum Kontenabgleich interne Firmendatensätze von Transaktionen mit Kontoauszügen abgleichen.
-  #### Lektionen
-  - Einzahlungen vornehmen und Zahlungsstornierungen durchführen
-  - Cash- und Bankverwaltungsarbeitsbereiche nutzt
-  - Übungslabore
-  - Modulübersicht
-
-  Mit Cash- und Bankverwaltungsprozessen arbeitet.
-  - Cash- und Bankverwaltungsarbeitsbereiche nutzt.
-  - Einzahlungen macht.
-  - Zahlungen storniert.
-
-
-  ### Modul 8&#58; Akkreditive und Garantien konfiguriert
-  Die Studenten haben jetzt gelernt, was Bankbriefe sind; wie man Akkreditive zur Erstellung von Bankdokumente einrichtet, die üblicherweise für den Kauf und Verkauf von Waren über internationale Grenzen hinweg verwendet werden. Und etwas über Bürgschaftserklärungen, wobei sich eine Bank bereit erklärt, einer Person einen bestimmten Geldbetrag zu zahlen, wenn einer der Kunden der Bank mit einer Zahlung oder einer Verpflichtung gegenüber dieser Person in Verzug gerät.
-  #### Lektionen
-  - Einführung
-  - Akkreditive konfigurieren
-  - Garantieerklärungen konfigurieren
-  - Modulübersicht
-
-  Die Studenten lernen etwas über Bankbriefe, Akkreditive und Garantien.
-
-  ### Modul 9&#58; Tägliche Prozeduren durchführen
-  Jede in Finanzen und Betrieb eingegebene manuelle Buchung wird über ein Journal erfasst. Ein Journal ist eine Art Arbeitsblatt, in dem Einträge nicht sofort verbucht werden. Sie können abgeschlossene Journale durchsehen, ändern und überprüfen, bis sie zum Verbuchen bereit sind.
-
-  Eine Belegvorlage ist ein Beleg, der als Grundlage für zukünftige Belege in anderen Journaleinträgen verwendet werden kann. Sie können Belegvorlagen für ein allgemeines Journal oder eines der Finanzunterjournale verwenden, z. B. Kreditoren- und Debitorenjournale.
-
-  Sie können Einschränkungen für Unternehmen, Kontotyp und Segmentwerte festlegen.
-  #### Lektionen
-  - Mehr erfahren über Hauptbuchprozesse
-  - Erstellen von Belegvorlagen
-  - Einrichten von Journal-Steuerelementen
-  - Übungslabor
-  - Modulübersicht
-
-  Sie haben jetzt gelernt, wie Sie tägliche Aktivitäten im Hauptbuch verarbeiten und die Journalsteuerung verwenden, um ap
-  - Sie haben mit Saldenkontrollkonten gearbeitet, um die Salden von Banken oder Liquiditätskonten anzuzeigen.
-  - Sie haben gelernt, wie Sie von Gutscheinvorlagen für den Betrag profitieren können, bei denen einfach der genaue Betrag kopiert wird
-
-
-  ### Modul 10&#58; Konzerninterne Buchhaltung
-  Die konzerninterne Buchhaltung kann Organisationen durch Bereitstellung eines zentralen Einstiegspunkts für Transaktionen, die für mehrere Unternehmen aufgezeichnet werden müssen, helfen. Das Durchführen von Transaktionen von einem einzelnen Unternehmen aus spart Zeit bei der Dateneingabe und stellt sicher, dass Transaktionen, die mehrere Unternehmen betreffen, in jedem Unternehmen erfasst werden.
-
-  Finance and Operations hilft auch dabei, die konzerninternen Einträge durch das ganze System zu verfolgen. Es verfügt über die Funktion, konzerninterne Transaktionen zu verarbeiten, die von den meisten Unternehmen benötigt wird. Dazu gehört die Möglichkeit, konzerninterne Kundenaufträge, Bestellungen und Barauszahlungen effizient zu erfassen.
-  #### Lektionen
-  - Einrichtung und Nutzung der konzerninternen Buchhaltung
-  - Übungslabor
-  - Modulübersicht
-
-  Die Studenten sind in der Lage, eine konzerninterne Buchhaltung einzurichten und anzuwenden.
-
-  ### Modul 11&#58; Hauptbuchzuordnungen und -Rückstellungen konfigurieren
-  Finance and Operations bietet die Möglichkeit, Rückstellungsprogramme zu unterstützen.
+  - Wissensprüfung
+  
+  #### Lab&#58; Übung 1&#58; Zahlungsbedingungen konfigurieren
+  
+  #### Lab&#58; Übung 2&#58; Erstellen einer Lieferantengruppe und eines Lieferanten
+  
+  #### Lab&#58; Übung 3&#58; Das Lieferantenbuchungsprofil erstellen und konfigurieren
+  
+  #### Lab&#58; Übung 4&#58; Die Lieferantenrechnung erfassen und mit der erhaltenen Menge vergleichen
+  
+  #### Lab&#58; Übung 5&#58; Die Richtlinien für den Lieferantenabgleich verwenden
+  
+  #### Lab&#58; Übung 6&#58; Die Rechnung mit Hilfe des Rechnungsregisters, der Bestätigung und der Rechnungsjournale zu erfassen
+  
+  #### Lab&#58; Übung 7&#58; Die Lieferantenzahlung mit Hilfe eines Zahlungsjournals verarbeiten
+  
+  #### Lab&#58; Übung 8&#58; Konfigurieren der Lieferantenzusammenarbeit
+  
+  #### Lab&#58; Übung 9&#58; Gebühren verwalten
+  Sie haben jetzt gelernt&#58;
+  - dass die Zahlungsoptionen in Dynamics 365 Finance flexibel sind
+  - Zahlungspläne einzurichten und zu verwenden
+  - Skonti zu verwalten
+  - mit Lieferantengruppen zu arbeiten
+  - Funktionen wie Vorauszahlungen zu nutzen
+  
+  
+  ### Modul 5&#58; Kostenmanagement implementieren und verwalten
+  Mit Hilfe der Kostenverwaltung der Dynamics 365 Finance and Operations-Apps können Sie einen integrierten Workflow erstellen, in dem Sie Informationen zu Zahlungsmethoden speichern, Kreditkartentransaktionen importieren und das Geld verfolgen können, das Mitarbeiter ausgeben, wenn ihnen Kosten für Ihr Unternehmen entstehen. Sie können auch Kostenrichtlinien definieren und die Erstattung von Reisekosten automatisieren. Der Eintrag in der Spesenabrechnung wurde neu gestaltet, um die Erfahrung zu vereinfachen und die Zeit zu verkürzen, die zum Ausfüllen der Spesenabrechnungen erforderlich ist. Sie können diese Funktionalität in der Funktionsverwaltung aktivieren.Sie können eine neue Einrichtungsseite hinzufügen, um die Sichtbarkeit von Ausgabenfeldern zu konfigurieren und anzugeben, welche Daten erforderlich, optional oder nicht verfügbar sind, wenn Spesenabrechnungen eingegeben werden.Wenn diese Funktion aktiviert ist, ist ein neuer Arbeitsbereich für Ausgaben verfügbar. Dieser Arbeitsbereich ersetzt den vorherigen Ausgabenarbeitsbereich und ist die Zielseite für die verbesserte Eingabeerfahrung. Das Reise- und Spesenmanagement hat ein starkes Leistungsversprechen für Unternehmen mit Ausgaben nach freiem Ermessen. Reise- und Unterhaltungskosten sind ein wesentlicher Teil der kontrollierbaren Kosten eines Unternehmens.Um diese Kosten einzudämmen, bietet das Kostenmanagement einen Mechanismus zum Definieren und Anwenden von Kostenrichtlinien sowie zum Kennzeichnen und Melden von Missbrauchern der Richtlinien.Durch die Automatisierung der Eingabe und Erstattung von Reise- und Unterhaltungskosten werden außerdem die Verarbeitungskosten im Vergleich zur manuellen Eingabe reduziert. Das Ausgabenmanagement ist eng in andere Module wie Kreditorenbuchhaltung, Hauptbuch, Beschaffung und Beschaffung sowie Projektmanagement und Buchhaltung integriert.
   #### Lektionen
   - Einführung
-  - Konfigurieren und Anwenden von Rückstellungsprogrammen
-  - Regeln für die Hauptbuchzuordnung konfigurieren
-  - Übungslabore
+  - Lektion 1&#58; Kostenmanagement konfigurieren und verwenden
   - Modulübersicht
-
-  Die Teilnehmer haben gelernt, wie man Zuordnungsregeln sowie Rückstellungsprogramme konfiguriert und anwendet.
-
-  ### Modul 12&#58; Umsatzsteuer konfigurieren
-  Die Anforderungen an die Steuerberechnung und Steuererklärung unterscheiden sich für verschiedene Länder oder Regionen erheblich. Daher ist das Steuermodul von Dynamics 365 for Finance and Operations äußerst umfangreich.
-  #### Lektionen
-  - Steuermodellkomponenten verstehen
-  - Übungslabor
-  - Modulübersicht
-
-  Die Studenten haben nun Informationen zu regionalen und landespezifischen Steuererklärungen in Finance and Operations erhalten.
-  - Konfigurieren Sie Steuerkomponenten wie Umsatzsteuerbehörden, Abrechnungszeiträume und Umsatzsteuerkennzeichen
-  - Umsatzsteuerkennzeichen sind die Hauptkomponente zum Definieren von Steuerberechnungen und zum Verbinden aller anderen Komponenten
-
-
-  ### Modul 13&#58; Kreditorenbuchhaltung konfigurieren
-  Dynamics 365 for Finance und Operations bietet umfangreiche Funktionen zum Einrichten verschiedener Zahlungsoptionen für Kreditoren.
-  #### Lektionen
-  - Die Funktionsweise des Task-Rekorders verstehen
-  - Konfigurieren der Kreditorenparameter
-  - Lieferanten erstellen und verwalten
-  - Kreditorenbuchhaltung konfigurieren
-  - Positive Zahlung konfigurieren und verwenden
-  - Übungslabor
-  - Modulübersicht
-
-  Kreditorenkomponenten konfiguriert.
-  - Das Erstellen und verwalten einen Lieferanten.
-  - Kreditorenzahlungen konfigurieren.
-  - Kreditorenbuchungsprofile einrichten.
-  - Kreditorenbuchhaltung konfigurieren.
-
-
-  ### Modul 14&#58; Tägliche Abläufe in der Kreditorenbuchhaltung durchführen
-  Der Einkauf von Waren zum Wiederverkauf oder als Material für die Herstellung oder für Dienstleistungen ist eine große Verantwortung. Die Nachverfolgung dieser Einkäufe und die Bezahlung der Lieferanten, die die Waren liefern, ist ebenso anspruchsvoll.
-
-  Unternehmen müssen die Kreditorenbuchhaltung genau überwachen und Verfahren implementieren, damit das Management auf einfache Weise Finanzinformationen abrufen kann, die sie benötigen, um über Änderungen der Warenkosten informiert zu bleiben. Um einen genauen Überblick über die Finanzlage des Geschäfts zu erhalten, werden alle erfolgswirksamen Aufwendungen in die Verbindlichkeiten einbezogen.
-
-  In diesem Modul wird erläutert, wie man Vorauszahlungen verwaltet und anwende, Rechnungen erfasst und Zahlungen verarbeitet.
+  - Wissensprüfung
+  
+  #### Lab&#58; Übung 1&#58; Erstellen einer Ausgabenkategorie
+  
+  #### Lab&#58; Übung 2&#58; Erstellen einer Ausgabenrichtlinie
+  
+  #### Lab&#58; Übung 3&#58; Erstellen einer Überwachungsrichtlinie
+  
+  #### Lab&#58; Übung 4&#58; Erstellen und Senden einer Spesenabrechnung
+  Sie haben einige der Vorteile sowie die allgemeinen Merkmale und Funktionen des Ausgabenmanagements kennengelernt.
+  
+  
+  ### Modul 6&#58; Implementieren und Verwalten von Forderungen sowie Kredite und Inkasso
+  Sie müssen das Debitorenmodul konfigurieren, um A / R-Funktionen ausführen zu können.Sie können dann Kundenrechnungen erstellen, Packzettel ausstellen, Freitextrechnungen verwenden, die sich nicht auf Kundenaufträge beziehen, und Zahlungen erhalten, indem Sie verschiedene Zahlungsarten wie Bargeld, Schecks, Kreditkarten und elektronische Zahlungen Ihrer Kunden verwenden. Durch die ordnungsgemäße Verwaltung von Interessenten und Kunden können Unternehmen einige ihrer Anforderungen erfüllen, z. B. die Kundenzufriedenheit. Gleichzeitig vermeidet eine ordnungsgemäße Verwaltung Verluste, indem viele Faktoren wie das Kreditlimit überprüft werden und die Bearbeitung der Bestellung blockiert wird, wenn dies gegen die Richtlinien des Unternehmens verstößt. Verkäufer sind der Schlüssel für den Umsatz des Unternehmens, und ihre Provisionen sollten nach Abschluss des Verkaufszyklus gezahlt werden.
   #### Lektionen
   - Einführung
-  - Bestellungen, Rechnungen und Zahlungen bearbeiten
-  - Verwalten und Anwenden von Vorauszahlungen
-  - Übungslabore
+  - Lektion 1&#58; Zahlungsmethode konfigurieren
+  - Lektion 2&#58; Erstellen und Pflegen von Kundengruppen und Kunden
+  - Lektion 3&#58; Erstellen und Konfigurieren des Kundenbuchungsprofils
+  - Lektion 4&#58; Bestellungen, Rechnungen und Zahlungen verarbeiten
+  - Lektion 5&#58; Konfigurieren der Debitorengebühren
+  - Lektion 6&#58; Verwalten von Krediten und Sammlungen
+  - Lektion 7&#58; Konfigurieren der Umsatzrealisierung
   - Modulübersicht
-
-  Sie können Lieferantenrechnungen manuell eingeben oder elektronisch über eine Dateneinheit empfangen
-  - Sie können die Rechnungen mithilfe eines Rechnungsgenehmigungsjournals oder der Seite &quot;Lieferantenrechnung&quot; überprüfen und genehmigen
-  - wie Sie den Rechnungsabgleich, die Richtlinien für Lieferantenrechnungen und den Workflow verwenden können, um den Überprüfungsprozess zu automatisieren
-  - Wie Sie mit Vorauszahlungen an Ihre Lieferanten umgehen
-
-
-  ### Modul 15&#58; Kostenzuordnung und Rechnungsbestätigung verwenden
-  In diesem Modul erfahren Sie, wie Sie Transaktionen abwickeln und die Abwicklung und Verteilung von Geldern mit Hilfe von Kostenzuordnung rückgängig machen. Die Studenten lernen auch, wie ein Rechnungsabgleich durchgeführt wird.
-
-  Kostenzuordnung wird verwendet, um zu definieren, wie ein Betrag verbucht wird, z. B. wie die Ausgaben, Steuern oder Gebühren auf einer Lieferantenrechnung verbucht werden. Jeder Betrag, der bei der Erfassung der Kreditorenrechnung verbucht werden muss, weist eine oder mehrere Kostenzuordnungen auf.
-
+  - Wissensprüfung
+  
+  #### Lab&#58; Übung 1&#58; Zahlungsbedingungen konfigurieren
+  
+  #### Lab&#58; Übung 2&#58; Erstellen einer neuen Kundengruppe und eines neuen Kunden
+  
+  #### Lab&#58; Übung 3&#58; Kunden konfigurieren und pflegen
+  
+  #### Lab&#58; Übung 4&#58; Erstellen und Konfigurieren eines Kundenbuchungsprofils
+  
+  #### Lab&#58; Übung 5&#58; Erstellen und Verarbeiten von Freitextrechnungen
+  
+  #### Lab&#58; Übung 6&#58; Rechnung bearbeiten und gegen Zahlung begleichen
+  
+  #### Lab&#58; Übung 7&#58; Gebührencodes für Debitoren einrichten
+  
+  #### Lab&#58; Übung 8&#58; Guthaben und Sammlungen konfigurieren
+  
+  #### Lab&#58; Übung 9&#58; Abschreibungen durchführen
+  
+  #### Lab&#58; Übung 10&#58; Guthaben und Inkasso verarbeiten
+  Sie haben gelernt, wie man&#58;
+  - eine Zahlungsmethode konfiguriert
+  - elektronische Zahlungsformate beschreibt und konfiguriert
+  - Kundengruppen und Kunden erstellt und pflegt
+  - ein Kundenbuchungsprofil erstellt und konfiguriert
+  - Bestellungen, Rechnungen und Zahlungen bearbeitet
+  - Debitoren konfiguriert
+  - Kundenkredite und -sammlungen verwaltet
+  - Umsatzrealisierung konfiguriert
+ 
+  ### Modul 7&#58; Budgetierung konfigurieren und verwalten
+  Jede private oder öffentliche Organisation legt finanzielle und operative Ziele fest, indem sie Budgets erstellt.Wenn das Budget feststeht, überwacht das Management die Aktivitäten innerhalb des Budgetrahmens.
   #### Lektionen
   - Einführung
-  - Transaktion abwickeln und Abrechnungen rückgängig machen
-  - Mittel verteilen
-  - Rechnungsprüfungsrichtlinien konfigurieren
-  - Übungslabore
+  - Lektion 1&#58; Grundbudgetierung konfigurieren und verwenden
+  - Lektion 2&#58; Konfigurieren und Verwenden von Budgetkontrollen
+  - Lektion 3&#58; Registrierungseinträge erstellen und konfigurieren
+  - Lektion 4&#58; Budgetplanung konfigurieren und verwenden
   - Modulübersicht
-
-  Transaktionen abwickeln und Abrechnungen rückgängig machen.
-  - Gelder mittels Kostenzuordnung verteilen.
-  - Rechnungsprüfungsrichtlinien konfigurieren.
-
-
-  ### Modul 16&#58; Debitorenbuchhaltung konfigurieren
-  Das Modul Debitorenbuchhaltung muss so konfiguriert werden, dass Kundenrechnungen erstellt, Lieferscheine gebucht, freie Textrechnungen verwendet werden können, die sich nicht auf Kundenaufträge beziehen, und dass schließlich Zahlungen mit verschiedenen Zahlungsarten wie Bargeld, Schecks, Kreditkarten und elektronische Zahlungen von Kunden geleistet werden können.
-
-  Dieses Modul enthält Informationen zur Konfiguration wesentlicher Komponenten des Moduls „Debitoren" und zum Kunden-Setup für eine effiziente Verwaltung von Kunden und Kundentransaktionen in Finance and Operations.
-
-  #### Lektionen
-  - Debitoren konfigurieren
-  - Kundenkonten anlegen und warten
-  - Kundenbuchungsprofile einrichtet
-  - Konfiguration der Debitorengebühren
-  - Übungslabor
-  - Modulübersicht
-
-  Debitoren konfiguriert
-  - Kundenkonten anlegt und wartet
-  - Kundenzahlungen konfiguriert.
-  - Kundenbuchungsprofile einrichtet
-  - Konfiguration der Debitorengebühren
-
-
-  ### Modul 17&#58; Tägliche Abläufe in der Debitorenbuchhaltung durchführen
-  Erfahren Sie, wie Sie freie Textrechnungen erstellen, Zahlungen von Kunden erhalten und bei der Bank einzahlen. Sie erfahren auch, wie Sie einem Kunden den Überzahlungsbetrag oder andere Gründe wie das Kundenrückgabeszenario erstatten, bei dem Sie dem Kunden nicht nur die Zahlung, sondern auch die eingezogene Steuer erstatten müssen, indem Sie Stornierungen verwenden und Transaktionsstornierungen in den Forderungen verwenden. Die Sie lernen auch, wie sie Gelder mit Hilfe von Kostenzuordnung in einer freien Textrechnung verteilen.
-  #### Lektionen
-  - Erstellen freier Textrechnungen und erfassen von Kundenzahlungen
-  - Transaktionen abwickeln und die Abwicklung rückgängig machen
-  - Übungslabor
-  - Modulübersicht
-
-  Gelder mittels Kostenzuordnung verteilen
-  - Erstellen freier Textrechnungen und erfassen von Kundenzahlungen
-  - Konfigurieren wiederkehrender Rechnungen
-  - Stornos in der Debitorenbuchhaltung verwenden
-  - Bestellungen bearbeiten, Rechnungen erfassen und Zahlungen bearbeiten
-
-
-  ### Modul 18&#58; Kredit und Inkasso konfigurieren
-  Obwohl die meisten Kunden ihre Rechnungen pünktlich bezahlen, muss es möglich sein, Rechnungen zu verarbeiten, die nicht bis zu ihrem jeweiligen Fälligkeitsdatum bezahlt werden.
-
-  In diesem Abschnitt wird erläutert, wie Sie überfällige Kunden verwalten, indem Sie das Modul „Guthaben und Inkasso" in Dynamics 365 for Finance and Operations konfigurieren. Um das Modul Kredit und Inkasso verwenden zu können, müssen Sie die Konfiguration der Forderungen bereits abgeschlossen haben.
-
+  - Wissensprüfung
+  
+  #### Lab&#58; Übung 1&#58; Konfigurieren grundlegender Budgetierungskomponenten
+  
+  #### Lab&#58; Übung 2&#58; Konfigurieren von Budgetsteuerungskomponenten
+  
+  #### Lab&#58; Übung 3&#58; Verwenden von Budgetregistereinträgen
+  
+  #### Lab&#58; Übung 4&#58; Konfigurieren der Budgetplanung, Erstellen und Verwenden eines Planungsprozesses
+  Sie haben gelernt, wie man&#58;
+  - Budgetierungsprozesse konfiguriert und verwaltet
+  - Budgetierungskomponente konfiguriert, einschließlich Budgetmodellen, Codes, Zuordnungsbedingungen, Zyklen und Übertragungsregeln
+  - Budgetkontrollen konfiguriert, einschließlich Zykluszeitspannen, Budgetparameter, Verfügbarkeit von Budgetmitteln...
+  - ... Optionen, Regeln und Gruppen für die Budgetkontrolle sowie Berechtigungen für das Überbudget
+  - Budget-Workflows implementiert
+  - Registrierungseinträge erstellt und konfiguriert
+  - Budgetprüfungen für Dokumente und Journale durchführt
+  - einen Budgetplan mit Szenarien, Phasen, Zuordnungsphasen, Phasenzuweisungen und Vorlagen erstellt
+  - einen Budgetplanungsprozess definiert und ein Budget plant
+  
+  
+  ### Modul 8&#58; Anlagevermögen konfigurieren und verwalten
+  Die Art und Weise, wie mit dem Anlagevermögen umgegangen wird, muss sowohl internationalen Rechnungslegungsstandards als auch den Rechnungslegungsvorschriften jedes Landes / jeder Region entsprechen. Zu den Anforderungen können Regeln für die Erfassung von Akquisitions- und Veräußerungstransaktionen, Abschreibungen, Lebensdauern sowie Zuschreibungen und Abschreibungen auf Sachanlagen gehören.Die Anlagefunktionalität enthält viele dieser Standards und Regeln.
   #### Lektionen
   - Einführung
-  - Kredit- und Inkassokomponenten konfiguriert
-  - Einrichten und Verwalten von Interessen
-  - Aufheben, wiedereinsetzen oder umkehren
-  - Einrichten und Verwalten von Inkassoschreiben
-  - Übungslabor
+  - Lektion 1&#58; Komponenten des Anlagevermögens konfigurieren
+  - Lektion 2&#58; Anlagevermögen verwalten
+  - Lektion 3&#58; Erwerb, Abschreibung und Veräußerung von Sachanlagen
+  - Lektion 4&#58; Sachanlageintegration
   - Modulübersicht
-
-  Kredit- und Inkassokomponenten konfiguriert
-  - Konfigurieren Sie Restantenlisten, Kundenpools, Inkassoagenten und definition von Restantenzeiträumen
-  - Interessen einrichten und verwalten
-  - Einrichten und Verwalten von Inkassoschreiben
-
-
-  ### Modul 19&#58; Kredit und Inkasso bearbeiten
-  Obwohl die meisten Kunden ihre Rechnungen pünktlich bezahlen, muss es möglich sein, Rechnungen zu verarbeiten, die nicht bis zu ihrem jeweiligen Fälligkeitsdatum bezahlt werden.
-
-  In diesem Abschnitt wird die Verarbeitung von Gutschriften und Sammlungen erläutert.
-  #### Lektionen
-  - Einführung
-  - Verstehen, wie Sammlungen verarbeitet werden
-  - Verwalten von Kundenkrediten und -sammlungen
-  - Übungslabore
-  - Modulübersicht
-
-  Kundenstatements
-  - Wie man ein Inkasso verarbeitet
-
-
-  ### Modul 20&#58; Vordatierte Schecks konfigurieren
-  Vordatierte Schecks werden ausgestellt, um Zahlungen zu einem späteren Zeitpunkt zu tätigen und zu erhalten. Daher kann der Scheck nicht vor dem angegebenen Datum eingelöst werden.
-
-  Microsoft Dynamics 365 for Finance and Operations unterstützt den vollständigen Verwaltungszyklus fürvordatierte Schecks in der Debitoren- und Kreditorenbuchhaltung. In diesem Abschnitt wird erläutert, wie vordatierte Schecks eingerichtet und verarbeitet werden.
-
-  #### Lektionen
-  - Einführung
-  - Verwalten von vordatierten Schecks
-  - Übungslabore
-  - Modulübersicht
-
-  Vordatierte Schecks bearbeitet
-  - Vordatierte Schecks einrichtet
-  - Registrieren und verbuchen eines vordatierten Schecks für einen Kunden
-  - Verrechnen eines vordatierten Schecks eines Kunden
-  - Registrieren und verbuchen eines vordatierten Schecks für einen Lieferanten
-  - Einlösen eines vordatierten Schecks für einen Lieferanten
-
-
-  ### Modul 21&#58; Konfigurieren und Verwenden von grundlegenden Budgetierungs- und Budgetkontrollprozessen
-  Jede private oder öffentliche Organisation legt finanzielle und operative Ziele fest, indem sie Budgets erstellt. Wenn das Budget feststeht, überwacht das Management die Aktivitäten innerhalb des Budgetrahmens.
-
-  Dieses Modul enthält Informationen zum Konfigurieren und Verwenden der grundlegenden Budgetierung und Budgetkontrolle.
-  #### Lektionen
-  - Einführung
-  - Konfigurieren von grundlegende Budgetierungskomponenten
-  - Budgetkontrollkomponenten konfigurieren
-  - Erstellen und Testen von Budgetregistrierungseinträgen
-  - Verwenden von Anfragen und Berichten
-  - Übungslabore
-  - Modulübersicht
-
-  Konfigurieren von grundlegende Budgetierungskomponenten
-  - Budgetkontrollkomponenten konfigurieren
-  - Verwenden Sie Anfragen und Berichte
-  - Erstellen und verwenden von Budgetregistrierungseinträgen
-
-
-  ### Modul 22&#58; Konfigurieren und Verwenden von Budgetplanungsprozessen
-  Mit der Budgetplanungsfunktion können Sie mehrere Budgetpläne auf niedrigeren Ebene in einem einzigen übergeordneten Budgetplan auf einer höheren Ebene in der Organisation zusammenfassen. Dies wird als Bottom-up-Ansatz-Budgetplanung bezeichnet, bei der ein Budgetplaner andere Pläne zu einem übergeordneten oder Unternehmensplan für die Budgetierung zusammenfassen kann.
-
-  Man kann auch den Top-Down-Ansatz wählen, bei dem ein einziger Budgetplan auf einer höheren Ebene der Organisation erstellt und das Budget auf eine niedrigere Ebene der Organisation aufgeteilt wird. Verwenden Sie diese Methode, wenn Sie sich auf historische Finanztransaktionen des Unternehmens verlassen, und erstellen Sie einen zentralen Plan, der über verschiedene Betriebseinheiten verteilt werden kann, die von einer Organisationshierarchie mit Budgetplanungszweck definiert werden.
-
-  Der Budgetplaner generiert als letzten Schritt der Budgetplanung den Budgetregistereintrag auf Basis des Budgetplans.
-
-  Eine Organisation kann die Budgetplanung konfigurieren und anschließend gemeinsame Prozesse für die Budgetplanung einrichten, um die Richtlinien, Verfahren und Anforderungen für die Budgetvorbereitung zu erfüllen. In diesem Modul wird das Konfigurieren und Testen von Budgetplanungsprozessen erläutert.
-
-  #### Lektionen
-  - Einführung
-  - Budgetplanungskomponenten konfigurieren
-  - Übungslabor
-  - Modulübersicht
-
-  Budgetplanungskomponenten konfigurieren
-  - Eine Budgetplanvorlage erstellt
-  - Budgetierungsprozesse konfiguriert
-  - Erstellen eines Budgetplans mit Hilfe des Budgetplanassistenten
-
-
-  ### Modul 23&#58; Verwaltung der Anlagenbuchhaltung
-  In diesem Modul werden zunächst die Konzepte des Anlagevermögens erläutert. Anschließend erfahren Sie, wie Sie das Modul „Anlagevermögen" in Dynamics 365 for Finance and Operations konfigurieren und verwenden.
-  #### Lektionen
-  - Einführung
-  - Konfigurieren der Komponenten des Anlagevermögens
-  - Aktivieren Sie die Anlagenintegration
-  - Anlagevermögen anlegen
-  - Übungslabore
-  - Modulübersicht
-
-  Komponenten des Anlagevermögens konfiguriert
+  - Wissensprüfung
+  
+  #### Lab&#58; Übung 1&#58; Komponenten des Anlagevermögens konfigurieren
+  
+  #### Lab&#58; Übung 2&#58; Einrichten und Erstellen von Abschreibungsprofilen
+  
+  #### Lab&#58; Übung 3&#58; Erwerb eines Vermögenswerts über das Anlagevermögen-Journal
+  
+  #### Lab&#58; Übung 4&#58; Abschreibung und Veräußerung eines Vermögenswertes
+  Sie haben gelernt, wie man&#58;
+  - das Anlagevermögen implementiert und verwaltet
+  - Sachanlagen und Sachanlagengruppen erstellt
+  - Sachbücher und Abschreibungen beschreibt und konfiguriert
   - Parameter des Anlagevermögens konfiguriert
-  - Die Integration von Anlagevermögen in den Einkauf aktiviert
-  - Anlagevermögen anlegen
-
-
-  ### Modul 24&#58; Anlagevermögen verwalten
-  Um Transaktionen von Anlagevermögen mit Hilfe von Journalen zu erfassen, muss im Setup des Hauptbuchmoduls mindestens ein Journalname mit dem Journaltyp Anlagevermögen buchen erstellt werden. Wenn Budgets für Sachanlagen erforderlich sind, muss auch ein Journalname erstellt werden, der den Journaltyp Sachanlagenbudget verwendet. In diesem Modul erfahren Sie, wie Sie Sachanlagen bearbeiten und verwalten.
-  #### Lektionen
-  - Einführung
-  - Aufgaben des Anlagevermögens ausführen
-  - Übungslabore
-  - Modulübersicht
-
-  Die Anschaffung des Anlagevermögens durchführt
-  - Eine Abschreibung des Anlagevermögens durchführt
-  - Die Abgänge des Anlagevermögens durchführen
-
-
-  ### Modul 25&#58; Konfigurieren und Verwenden der Kostenrechnung
-  Mit der Kostenrechnung können Sie Daten aus verschiedenen Quellen erfassen, z. B. aus dem Hauptbuch, Nebenbüchern, Budgets und statistischen Informationen. Anschließend können Kostendaten analysiert, zusammengefasst und ausgewertet werden, sodass das Management die bestmöglichen Entscheidungen für Preisaktualisierungen, Budgets, Kostenkontrolle usw. treffen kann. Die für die Kostenanalyse verwendeten Quelldaten werden in der Kostenrechnung unabhängig behandelt. Aktualisierungen in der Kostenrechnung wirken sich daher nicht auf die Quelldaten aus.
-  #### Lektionen
-  - Einführung
-  - Arbeitsbereich für die Kostenkontrolle
-  - Übungslabor
-  - Modulübersicht
-
-  Arbeitsbereich für die Kostenkontrolle
-  - Erstellen eines Kostenrechnungaufstellung mit Hilfe des Installationsassistenten für die Kostenrechnung
-
-
-  ### Modul 26&#58; Periodische Prozesse konfigurieren und verwenden
-  Im Hauptbuch können Abschlussverfahren für einen Zeitraum oder ein Jahr abgeschlossen werden. Abschlussprozesse bereiten das System auf eine neue Periode vor.
-
-  Es gibt viele Aufgaben, wie das Vorbereiten von Anmeldungen, das Schließen von Lagerbeständen, die Konsolidierung und vieles mehr, die zuerst erledigt werden müssen.
-
-  Um das System auf ein neues Jahr vorzubereiten, müssen Sie den Abschlussprozess zum Jahresende ausführen. Jede Organisation hat unterschiedliche Prozesse und Schritte, die sie am Ende einer Periode ausführt.
-  #### Lektionen
-  - Einführung
-  - Kontenabgleichung
-  - Finanzperiodenabschluss konfigurieren
-  - Regelmäßige Einreichungen vornehmen
-  - Prozesse zur Neubewertung von Fremdwährungen durchführen
-  - Finanzkonsolidierungen durchführen
-  - Jahresabschluss abwickeln
-  - Übungslabore
-  - Modulübersicht
-
-  Finanzperiodenabschluss konfigurieren
-  - Bankkonten abgleichen
-  - Periodische und Jahresabschlüsse durchführt
-  - Regelmäßige Einreichungen vornehmen
-  - Configure and test Vendor 1099s process
-  - Prozesse zur Neubewertung von Fremdwährungen durchführen
-  - Finanzielle Konsolidierungs- und Eliminierungsprozesse durchführen
-  - Verwenden Sie Finanzberichte, um Abschlüsse zu erstellen
-  - Steuererklärung zum Jahresende abwickeln
-
-
-  ### Modul 27&#58; Konfigurieren des elektronischen Berichtsrahmens
-  Die allgemeine elektronischen Berichterstattung (GER) oder einfach der elektronische Bericht (ER) ist ein konfigurierbares Tool für die behördliche Berichterstattung, Zahlungen und die elektronische Rechnungsstellung.
-
-  Das ER-Tool richtet sich an Geschäftsanwender und nicht an Entwickler. Da Sie Formate anstelle von Codes konfiguriert werden, sind die Prozesse zum Erstellen und Anpassen von Formaten für elektronische Dokumente schneller und einfacher.
-
-  ER unterstützt derzeit die Arbeitsblattformate TEXT, XML, PDF, Microsoft Word und OPENXML. Eine Schnittstellenerweiterung bietet jedoch Unterstützung für zusätzliche Formate.
-
-  #### Lektionen
-  - Einführung
-  - Konfigurieren der elektronischen Berichterstattung
-  - Formel-Designer in der elektronischen Berichterstattung
-  - Übungslabor
-  - Modulübersicht
-
-  Konfigurieren der elektronischen Berichterstattung (ER)
-  - Erstellen Sie ER-Konfigurationen (Electronic Reporting)
-  - Periodische und Jahresabschlüsse durchführt
-  - Formel-Designer in der elektronischen Berichterstattung(ER)
-
-
-  ### Modul 28&#58; Konfigurieren lokalisierter Eigenschaften
-  Dynamics 365 für Finance and Operations enthält Funktionen für die Länder und Regionen, die im Handbuch zur Produktlokalisierung und Übersetzungsverfügbarkeit dokumentiert sind.
-
-  In diesem Modul wird erläutert, wie Sie einige Beispiele für regionale Funktionen in Finance and Operations konfigurieren. Bitte lesen Sie die Informationen auf der Seite Lokalisierungs- und Regulierungsfunktionen, um über die regionalen Funktionen von Finance and Operations für alle Länder / Regionen auf dem Laufenden zu bleiben.
-  #### Lektionen
-  - Einführung
-  - Lokalisierungs- und Regulierungsfunktionen
-  - Klassifizierung mexikanischer Lokalisierungsmerkmale
-  - Verstehen globaler Steuermotoren
-  - Merkmale von Steuerbehörden und Dokumenten für die brasilianische Lokalisierung verstehen
-  - Wechsel
-  - Elektronische Rechnungen
-  - Übungslabore
-  - Modulübersicht
-
-  Lokalisierungs- und Regulierungsfunktionen
-  - Klassifizierung Lokalisierungsmerkmale
-  - So wenden Sie den Länder- und Regionenkontext an
-  - Konfiguration und Demonstration der Funktionen von Steuerbehörden und Steuerdokumenten für eine brasilianische Lokalisierung
-
-
-  ### Modul 29&#58; Finanzmanagement für den öffentlichen Sektor konfigurieren
-  Der öffentliche Sektor, auch als staatlicher und lokaler Sektor bezeichnet, ist vorwiegend ein Dienstleistungssektor, der das Wohlergehen seiner Bürger verwaltet. Der öffentliche Sektor umfasst Organisationen in den Bereichen Kommunen, Bildung, Gesundheitswesen, öffentliche Sicherheit, öffentliche Arbeiten und Infrastruktur, Landesverteidigung, Steuern und verschiedene soziale Programme.
-  #### Lektionen
-  - Einführung
-  - Einrichten von Mitteln für den öffentlichen Sektor
-  - Abgeleitete Finanzhierarchien einrichten
-  - Rechnungscodes für freie Textrechnungen konfigurieren
-  - Übungslabore
-  - Modulübersicht
-
-  Einrichten von Mitteln für den öffentlichen Sektor
-  - Kontenagleichsmethoden verstehen
-  - Abgeleitete Dimensionen einrichten
-  - Einrichten von abgeleiteten Finanzhierarchien für den öffentlichen Sektor
-  - Erweiterte Funktionen für Hauptbuchposten im öffentlichen Sektor
-  - Rechnungscodes für freie Textrechnungen konfigurieren
-
-
-  ### Modul 30&#58; Abschluss des Kurses
-  Abschließende Bewertung und Kurszusammenfassung sowie eine Umfrage nach dem Kurs.
-  #### Lektionen
-  - Abschließende Bewertung
-  - Kurszusammenfassung
-  - Umfrage nach dem Kurs
-
-  Du wirst haben den Kurs abgeschlossen.
+  - Anlagevermögen erwirbt und abschreibt
+  - das Leasing von Anlagevermögen hantiert
+  - Doppelwährung bei Anlagevermögen hantiert
+  - Organisationsweite Anlagenkennungen hantiert
+  - Veräußerung von Sachanlagen hantiert
+  - Sachbudgets erstellt und diese in das Budgetierungsmodul überträgt
+  - die Eliminierung eines Projekts für ein Anlagevermögen abschätzt und durchführt
 

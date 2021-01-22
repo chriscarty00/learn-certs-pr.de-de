@@ -6,19 +6,18 @@ metadata:
 uid: certification.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Erfahren Sie mehr</a>.</strong></font><br/><br/></div><div><strong> MB-200 WIRD IM SEPTEMBER 2020 DURCH EINE NEUE PRÜFUNG, <a href="/learn/certifications/exams/pl-200">PL-200</a>, ERSETZT. Sie können diese Zertifizierung erwerben, indem Sie MB-200 oder PL-200 plus MB-210 bestehen, bevor MB-200 am 31. Dezember 2020 eingestellt wird. Nach der Einstellung von MB-200 müssen Sie PL-200 und MB-210 bestehen, um diese Zertifizierung zu erhalten.</strong><br/><br/></div></div>
+  <div><div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Erfahren Sie mehr</a>.</strong></font><br/><br/></div><div><strong> PRÜFUNG <a href="/learn/certifications/exams/mb-200">MB-200</a> WIRD DURCH EINE NEUE PRÜFUNG <a href="/learn/certifications/exams/pl-200">PL-200 </a>ERSETZT. Sie können diese Zertifizierung erwerben, indem Sie MB-200 oder PL-200 plus MB-210 bestehen, bevor MB-200 am 31. Dezember 2020 eingestellt wird.Nach der Einstellung von MB-200 müssen Sie PL-200 und MB-210 bestehen, um diese Zertifizierung zu erhalten. Hinweis: Die Prüfungen werden um 23:59 Uhr Zentrale Standardzeit (USA) eingestellt.</strong><br/><br/></div></div>
 
   Microsoft Dynamics 365 Sales Functional Consultants implementieren Lösungen, die Kundenverbindungen antizipieren und planen, Geschäfte durch Verarbeitung und Abschluss verwalten und die Leistung des Vertriebsteams mithilfe von Datenanalysen beschleunigen.
 subTitle: Microsoft Dynamics 365 Sales Functional Consultants implementieren Lösungen, die Kundenverbindungen antizipieren und planen, Geschäfte durch Verarbeitung und Abschluss verwalten und die Leistung des Vertriebsteams mithilfe von Datenanalysen beschleunigen.
 levels:
 - intermediate
 skills:
-- Ermittlung, Planung und Analyse durchführen
-- Design zur Benutzererfahrung verwalten
-- Entitäten und Daten verwalten
-- Sicherheit implementieren
-- Integration implementieren
-- Bereitstellung und Testen von Lösungen durchführen
+- Konfigurieren Sie den allgemeinen Datenservice 
+- Erstellen Sie Apps mit Hilfe von Power Apps 
+- Erstellen und Verwalten Sie Power Automate 
+- Implementieren Sie Power Virtual Agents Chatbots 
+- Integrieren Sie Power Apps in andere Apps und Services
 - Konfiguration durchführen
 - Die wichtigsten Vertriebseinheiten verwalten
 - Zusätzliche Tools und Services konfigurieren
@@ -29,21 +28,27 @@ products:
 - dynamics-365
 - dynamics-sales
 courses:
-- uid: course.mb-200t00
+- uid: course.pl-200t00
 - uid: course.mb-210t01
 paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
-- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.create-business-process-flow
 - uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-bizapps.get-started-power-apps-portals
-- uid: learn-bizapps.extend-power-apps-portals
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 - uid: learn-dynamics.dynamics-365-for-sales
 - uid: learn-bizapps.applying-goal-management
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6I
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 - uid: exam.mb-210
 resources:
 - title: Zertifizierungsposter

@@ -8,19 +8,18 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div>
   <div><font color='red'><strong>Als Reaktion auf die Situation mit dem Coronavirus (COVID-19) führt Microsoft mehrere vorübergehende Änderungen an unserem Schulungs- und Zertifizierungsprogramm durch. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Erfahren Sie mehr</a>.</strong></font><br/><br/></div>
-  <div><strong>MB-200 WIRD IM SEPTEMBER 2020 DURCH EINE NEUE PRÜFUNG, <a href="/learn/certifications/exams/pl-200">PL-200</a>, ERSETZT. Sie können diese Zertifizierung erwerben, indem Sie MB-200 oder PL-200 plus MB-230 bestehen, bevor MB-200 am 31. Dezember 2020 eingestellt wird. Nach der Einstellung von MB-200 müssen Sie PL-200 und MB-230 bestehen, um diese Zertifizierung zu erhalten.</strong><br/><br/></div></div>
+  <div><strong>PRÜFUNG <a href="/learn/certifications/exams/mb-200">MB-200</a> WIRD DURCH EINE NEUE PRÜFUNG <a href="/learn/certifications/exams/pl-200">PL-200 </a>ERSETZT. Sie können diese Zertifizierung erwerben, indem Sie MB-200 oder PL-200 plus MB-230 bestehen, bevor MB-200 am 31. Dezember 2020 eingestellt wird. Nach der Einstellung von MB-200 müssen Sie PL-200 und MB-230 bestehen, um diese Zertifizierung zu erhalten. Hinweis: Die Prüfungen werden um 23:59 Uhr Zentrale Standardzeit (USA) eingestellt.</strong><br/><br/></div></div>
 
   Microsoft Dynamics 365 Customer Service Functional Consultants schafft CX Lösungen, die schnell und flexibel sind und KI nutzen, um praxisorientierte Einsichten zu liefern, damit Verbraucheranforderungen vorausgesehen werden können.
 subTitle: Microsoft Dynamics 365 Customer Service Functional Consultants schafft CX Lösungen, die schnell und flexibel sind und KI nutzen, um praxisorientierte Einsichten zu liefern, damit Verbraucheranforderungen vorausgesehen werden können.
 levels:
 - intermediate
 skills:
-- Ermittlung, Planung und Analyse durchführen
-- Design zur Benutzererfahrung verwalten
-- Entitäten und Daten verwalten
-- Sicherheit implementieren
-- Integrierung implementieren
-- Bereitstellung und Testen von Lösungen durchführen
+- Konfigurieren Sie den allgemeinen Datenservice 
+- Erstellen Sie Apps mit Hilfe von Power Apps 
+- Erstellen und Verwalten Sie Power Automate 
+- Implementieren Sie Power Virtual Agents Chatbots 
+- Integrieren Sie Power Apps in andere Apps und Services
 - Verwalten von Fällen und Wissensmanagement
 - Verwalten von Warteschlangen, Berechtigungen und Dienstleistungsvereinbarungen (SLAs)
 - Zeitplanung implementieren
@@ -33,23 +32,29 @@ products:
 - dynamics-365
 - dynamics-customer-service
 courses:
-- uid: course.mb-200t00
+- uid: course.pl-200t00
 - uid: course.mb-230t01
 paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
-- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.create-business-process-flow
 - uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-bizapps.get-started-power-apps-portals
-- uid: learn-bizapps.extend-power-apps-portals
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
 - uid: learn-dynamics.create-surveys
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6G
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 - uid: exam.mb-230
 resources:
 - title: Zertifizierungsposter

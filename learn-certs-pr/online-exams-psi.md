@@ -213,6 +213,7 @@ Führen Sie vor der Registrierung und dem Kauf Ihrer Prüfung den [erforderliche
 - Um einen Termin für eine Online-Prüfung mit PSI zu vereinbaren, klicken Sie auf die Microsoft-Certification Prüfung, die Sie ablegen möchten, in der [Liste der teilnahmeberechtigten Prüfungen](/learn/certifications/skillingoffer?WT.mc_id=gsi#discounted-microsoft-certification-exams-available-through-this-offer) und wählen Sie dann die Schaltfläche "**Termin für USD15**". 
 - Wenn in Ihrem Land Online-Prüfungen verfügbar sind, können Sie diese Option während des Prüfungsplanungsprozesses auswählen. Sie werden zur PSI-Prüfungsplanungsseite gebracht, wo Sie Ihr Land und Ihre Zeitzone, eine Sprache sowie Datum und Uhrzeit für Ihre Prüfung auswählen. 
 - Nach Abschluss der Prüfung müssen Sie für die Prüfung bezahlen.
+- Prüfungen müssen 24 Stunden im Voraus geplant werden.Wenn Sie am letzten Tag des Angebots, dem 31. Dezember 2021, eine Prüfung ablegen möchten, müssen Sie den Termin bis zum 30. Dezember 2021 festlegen.
 
 ## Starten der Prüfung und Eincheckvorgangs des Kandidaten
 
@@ -261,7 +262,9 @@ Siehe Abschnitt "**[Anmeldung zu einer Online-Prüfung](/learn/certifications/on
 
 Ja, aber Sie müssen dies mindestens 24 Stunden vor Ihrem Prüfungstermin tun. Melden Sie sich bei Ihrem [Microsoft Certification dashboard](https://aka.ms/CertDashboard) an und wählen Sie die Schaltfläche "**Absagen/Verlegen**" im Abschnitt **Termine**. Sie werden dann auf die PSI-Site weitergeleitet, um Ihre Prüfung zu stornieren oder zu verschieben.  
 
-Hinweis: Das Prüfungsangebot für Arbeitsuchende im Wert von USD15 muss bis zum 31. Dezember 2020 eingeholt und die Prüfung bis zum 31. März 2021 abgelegt werden. Eine Verschiebung der Prüfung kann jederzeit vor dem 31. Dezember 2020 erfolgen; wenn Sie jedoch Ihren Prüfungstermin nach dem 31. Dezember 2020 stornieren, können Sie das vergünstigte Angebot nicht erneut nutzen.
+Hinweis: Das Prüfungsangebot für Arbeitssuchende für 15 USD muss bis zum 31. Dezember 2021&#42; geltend gemacht werden und die Prüfung bis zum 31. Dezember 2021 abgelegt sein. Eine Verschiebung der Prüfung kann jederzeit vor dem 30. Dezember 2021 erfolgen. Wenn Sie Ihren Prüfungstermin jedoch nach dem 31. Dezember 2021&#42; stornieren, können Sie mit dem ermäßigten Angebot keinen erneuten Termin vereinbaren.
+
+*&#42;Prüfungen müssen 24 Stunden im Voraus geplant werden.Wenn Sie am letzten Tag des Angebots, dem 31. Dezember 2021, eine Prüfung ablegen möchten, müssen Sie den Termin bis zum 30. Dezember 2021 festlegen.*
 
 ### Kann ich die Prüfung zum ermäßigten Preis von USD15 wiederholen?
 

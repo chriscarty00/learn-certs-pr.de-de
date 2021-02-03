@@ -32,36 +32,144 @@ prerequisitesSection: |-
   - Erstellen von Cloud-Ressourcen in Microsoft Azure.
   - Verwenden von Python zum Erkunden und Visualisieren von Daten.
   - Schulung und Validierung von Modellen für maschinelles Lernen unter Verwendung gängiger Frameworks wie Scikit-Learn, PyTorch und TensorFlow.
+  - Arbeiten mit Containern
 
   Um diese erforderlichen Fähigkeiten zu erwerben, absolvieren Sie die folgende kostenlose Online-Schulung, bevor Sie an dem Kurs teilnehmen&#58; 
   - [Microsoft Cloud-Konzepte erkunden](/learn/paths/explore-microsoft-azure-cloud-concepts/).
-  - [Modelle für maschinelles Lernen erstellen](/learn/paths/create-machine-learn-models/). 
+  - [Modelle für maschinelles Lernen erstellen](/learn/paths/create-machine-learn-models/).
+  - [Verwalten Sie Container in Azure](/learn/paths/administer-containers-in-azure/) 
 
   Wenn Sie mit Datenwissenschaft und maschinellem Lernen noch nicht vertraut sind, schließen Sie bitte zuerst [Microsoft Azure AI-Fundamentals](/learn/certifications/azure-ai-fundamentals) ab.
 outlineSection: |-
-  ### Modul 1&#58; Data Science in Azure
-  Der Teilnehmer lernt etwas über die Data Science Prozesse und die Rolle des Datenwissenschaftler.  Dies wird dann darauf angewendet, die Azure Services, die Data Science Prozesse unterstützen und ergänzen, zu verstehen
+  ### Modul 1&#58; Erste Schritte mit Azure Machine Learning
+  In diesem Modul lernen Sie, wie Sie einen Azure Machine Learning-Arbeitsbereich bereitstellen und diesen zur Verwaltung von maschinellen Lernmitteln wie Daten, Berechnungen, ModellTrainingscode, protokollierten Metriken und trainierten Modellen verwenden. Sie werden lernen, wie Sie die webbasierte Azure Machine Learning-Studioschnittstelle sowie das Azure Machine Learning SDK und Entwicklerwerkzeuge wie Visual Studio Code und Jupyter Notebooks verwenden, um mit den Objekten in Ihrem Arbeitsbereich zu arbeiten.
+  
   #### Lektionen
-  - Einführung in den Data Science Prozess
-  - Überblick über Azure Data Science Optionen
-  - Einführung in Azure-notebooks
+  - Einführung in Azure Machine Learning
+  - Arbeiten mit Azure-Machine Learning
+  
+  #### Übung&#58; Erstellen Sie einen Azure-Arbeitsbereich für maschinelles Lernen
+  
+  Nach Abschluss dieses Moduls sind Sie in der Lage zur
+  - Bereitstellung eines Azure Machine LearningArbeitsplatzes
+  - Verwendung von Werkzeugen und Codes für die Arbeit mit Azure Machine Learning
 
-
-  ### Modul 2&#58; Data Science mit Azure Machine Learning service
-  Der Teilnehmer lernt, wie man den Azure Machine Learning Service (AML) nutzt, um den datenwissenschaftlichen Prozess von Anfang bis Ende zu automatisieren.
+  ### Modul 2&#58; Maschinelles Lernen ohne Code
+  In diesem Modul werden die visuellen Tools für automatisiertes maschinelles Lernen und Designer vorgestellt, mit denen Sie Modelle für maschinelles Lernen trainieren, bewerten und bereitstellen können, ohne Code schreiben zu müssen.
   #### Lektionen
-  - Einführung von AML Service
-  - ML Modelle mit AML Service registrieren und bereitstellen
+  - Automatisiertes maschinelles Lernen
+  - Azure Machine Learning Designer
+  
+  #### Übung&#58; Automatisiertes maschinelles Lernen anwenden
+  #### Übung&#58; Verwenden von Azure Machine Learning Designer
+  
+  Nach Abschluss dieses Moduls sind sie in der Lage 
+  - automatisiertes maschinelles Lernen zu nutzen, um ein Modell für maschinelles Lernen zu trainieren
+  - den Azure Machine Learning-Designer zu verwenden, um ein Modell zu schulen
 
-
-  ### Modul 3&#58; Machine Learning mit AML service automatisieren
-  In diesem Modul lernt der Teilnehmer die Machine Learning pipeline kennen und wie die AML-Dienste AutoML und HyperDrive einige der mühsamen Teile davon automatisieren können.
+  ### Modul 3&#58; Durchführung von Experimenten und Trainingsmodellen
+  In diesem Modul werden Sie mit Experimenten beginnen, die Datenverarbeitung und Trainingscode modellieren und diese zum Training von Modellen für maschinelles Lernen verwenden.
   #### Lektionen
-  - Machine Learning Model Selection automatisieren
-  - Hyperparameter Tuning mit HyperDrive automatisieren
+  - Einführung in die Experimente
+  - Ausbildungs und Registrierungsmodelle
+  
+  #### Übung&#58; Experimente durchführen
+  #### Übung&#58; Modelle trainieren
 
-
-  ### Modul 4&#58; Machine Learning Models mit dem AML service verwalten und überwachen
-  In diesem Modul lernt der Teilnehmer wie Machine Learning Modelle im AML Service automatisch verwaltet und Überwacht werden.
+  Nach Abschluss dieses Moduls sind Sie in der Lage zur&#58;
+  - Ausführen von codebasierten Experimenten in einem Azure Machine Learning-Arbeitsbereich
+  - Modelle für maschinelles Lernen trainieren und registrieren
+  
+  ### Modul 4&#58; Arbeiten mit Daten
+  Daten sind ein grundlegendes Element in jedem Workload beim maschinellen Lernen, daher lernen Sie in diesem Modul, wie man Datenspeicher und Datensätze in einem Azure Machine Learning-Arbeitsbereich erstellt und verwaltet und wie man sie in Modell-Trainingsexperimenten verwendet.
   #### Lektionen
-  - Machine Learning Models verwalten und überwachen
+  - Arbeiten mit Datenspeichern
+  - Arbeiten mit Datensätzen
+  
+  #### Übung&#58; Mit Daten arbeiten
+  
+  Nach Abschluss dieses Moduls sind sie in der Lage&#58; 
+  - Datenspeicher zu erstellen und verwenden 
+  - Datensätze zu erstellen und zu verwenden
+  
+  
+  ### Modul 5&#58; Arbeiten mit Compute
+  Einer der Hauptvorteile der Cloud ist die Möglichkeit, Rechenressourcen nach Bedarf zu nutzen und sie zur Skalierung von maschinellen Lernprozessen in einem Umfang zu nutzen, der auf der eigenen Hardware nicht möglich wäre. In diesem Modul lernen Sie, wie Sie Experimentierumgebungen verwalten können, die eine konsistente Laufzeitkonsistenz für Experimente gewährleisten, und wie Sie Rechenziele für Experimentläufe erstellen und verwenden können.
+  #### Lektionen
+  - Arbeiten mit Umgebungen
+  - Arbeiten mit Rechenzielen
+  
+  #### Übung&#58; Arbeiten mit Compute
+
+  Nach Abschluss dieses Moduls sind Sie in der Lage zur&#58;
+  - Erstellen und Verwenden von Umgebungen
+  - Erstellen und Verwenden von Rechenzielen  
+  
+  ### Modul 6&#58; Orchestrieren von Operationen mit Pipelines
+  Jetzt, da Sie die Grundlagen der Ausführung von Workloads als Experimente verstehen, die Datenbestände und Berechnungsressourcen nutzen, ist es an der Zeit zu lernen, wie man diese Workloads als Pipeline zusammenhängender Schritte orchestrieren kann. Pipelines sind der Schlüssel zur Implementierung einer effektiven ML OpsLösung (Machine Learning Operationalization) in Azure, daher werden Sie in diesem Modul untersuchen, wie sie bestimmt und ausgeführt werden können.
+  #### Lektionen
+  - Einführung in Pipelines
+  - Veröffentlichung und Betrieb von Pipelines
+  
+  #### Übung&#58; Erstellen Sie eine Pipeline
+
+  Nach Abschluss dieses Moduls sind Sie in der Lage zur
+  - Erstellen von Pipelines zur Automatisierung von maschinellen Lernprozessen
+  - Pipeline-Services veröffentlichen und betreiben
+  
+  ### Modul 7&#58; Bereitstellen und Verwenden von Modellen
+  Modelle sollen die Entscheidungsfindung durch Vorhersagen unterstützen, daher sind sie nur dann nützlich, wenn sie eingesetzt werden und für eine Anwendung zur Verfügung stehen. In diesem Modul lernen Sie, wie man Modelle für Echtzeit- und Batch-Inferenzierung einsetzt.
+  #### Lektionen
+  - Echtzeit-Inferenzierung
+  - Batch-Inferenzierung
+  - Kontinuierliche Integration und Lieferung
+  
+  #### Übung&#58; Erstellen Sie einen Echtzeit-Inferenz-Service 
+  #### Übung&#58; Erstellen Sie einen Batch-Inferenz-Service
+
+  Nach Abschluss dieses Moduls sind sie in der Lage&#58; 
+  - ein Modell als Echtzeit-Inferenzservice zu veröffentlichen 
+  - ein Modell als Batch-Inferenz-Service zu veröffentlichen 
+  - Techniken zur Implementierung einer kontinuierlichen Integration und Bereitstellung zu beschreiben
+  
+  ### Modul 8&#58; Ausbildung optimaler Modelle
+  In dieser Phase des Kurses haben Sie den End-to-End-Prozess für die Schulung, den Einsatz und die Nutzung von maschinellen Lernmodellen kennen gelernt; aber wie stellen Sie sicher, dass Ihr Modell die besten Vorhersageergebnisse für Ihre Daten liefert? In diesem Modul werden Sie untersuchen, wie Sie Hyperparameter-Tuning und automatisiertes maschinelles Lernen einsetzen können, um die Vorteile der CloudScale-Berechnung zu nutzen und das beste Modell für Ihre Daten zu finden.
+  #### Lektionen
+  - Hyperparameter-Abstimmung
+  - Automatisiertes maschinelles Lernen
+  
+  #### Übung&#58; Hyperparameter einstellen
+  #### Übung&#58; Verwenden Sie automatisiertes maschinelles Lernen aus dem SDK
+
+  - Nach Abschluss dieses Moduls sind Sie in der Lage zur
+  - Optimieren von Hyperparametern für das Modelltraining
+  - Verwenden des automatisierten maschinellen Lernens, um das optimale Modell für Ihre Daten zu finden
+  
+  ### Modul 9&#58; Verantwortungsbewusstes maschinelles Lernen
+  Datenwissenschaftler müssen sicherstellen, dass sie Daten analysieren und Modelle für maschinelles Lernen verantwortungsbewusst trainieren. Achtung der Privatsphäre des Einzelnen, Minderung von Voreingenommenheit und Gewährleistung von Transparenz.In diesem Modul werden einige Überlegungen und Techniken zur Anwendung verantwortungsbewusster Prinzipien des maschinellen Lernens erläutert.
+  #### Lektionen
+  - Differenzielle Privatsphäre
+  - Modellinterpretierbarkeit
+  - Gerechtigkeit
+  
+  #### Übung&#58; Entdecken Sie die differenzierte Vorsehung
+  #### Übung&#58; Modelle interpretieren
+  #### Übung&#58; Ungerechtigkeit erkennen und mindern
+  
+  Nach Abschluss dieses Moduls sind sie in der Lage&#58;
+  - eine differenzierte Provacy auf die Datenanalyse anzuwenden
+  - Erklärer zu verwenden, um Modelle für maschinelles Lernen zu interpretieren
+  - Modelle auf Fairness zu bewerten
+  
+  ### Modul 10&#58; Überwachungsmodelle
+  Nach der Einführung eines Modells ist es wichtig zu verstehen, wie das Modell in der Produktion eingesetzt wird, und jede Beeinträchtigung seiner Wirksamkeit aufgrund von Datenabweichungen zu erkennen. Dieses Modul beschreibt Techniken zur Überwachung von Modellen und ihren Daten.
+  #### Lektionen
+  - Überwachungsmodelle mit Application Insights
+  - Überwachung der Datenverschiebung
+  
+  #### Übung&#58; Überwachen Sie ein Modell mit Application Insights
+  #### Übung&#58; Überwachen Sie den Datendrift
+
+  Nach Abschluss dieses Moduls sind Sie in der Lage zur&#58;
+  - Verwenden von Application Insights zur Überwachung eines veröffentlichten Modells
+  - Überwachung der Datendrift

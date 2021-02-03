@@ -34,7 +34,6 @@ Suchen zertifizierungen, die in den nächsten 12 Monaten aus dem Programm genomm
 | [MCSE: Core Infrastructure](/learn/certifications/mcse-core-infrastructure) | Einstellung am 31. Januar 2021 |
 | [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | Einstellung am 31. Januar 2021 |
 | [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | Einstellung am 31. Januar 2021 |
-| [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | Am 31. Dezember 2020 in den Ruhestand treten |
 | [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | Wird am 30. Juni 2021 eingestellt |
 
 ## Eingestellte Zertifizierungen
@@ -45,6 +44,7 @@ HINWEIS: Nach dem Auslaufen einer Zertifizierung prüft Microsoft weiterhin die 
 
 | Rollenbasiert                                                                         |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
+| [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 31. Dezember 2020 |
 | [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)              | 31. August 2020 |
 
 | Microsoft Certified Solutions Developer                                            |

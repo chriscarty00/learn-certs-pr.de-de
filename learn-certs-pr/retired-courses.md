@@ -17,6 +17,12 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
 
 ## Eingestelltes Lehrmaterial: Ausbilder-geführte Ausbildung
 
+* Einstellung der Lernsoftware am 31. März 2021
+
+    | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
+    | --- | --- | --- | --- | --- |
+    | 20778 | C | Analyzing Data with Power BI | Englisch | 03/31/2021 |
+
 * Ablauf von Kursmaterialien am, 31. Dezember 2020
 
     | Kursnummer | Version | Titel | Sprache | Ablaufdatum |

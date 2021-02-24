@@ -35,6 +35,7 @@ Suchen zertifizierungen, die in den nächsten 12 Monaten aus dem Programm genomm
 | [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | Einstellung am 31. Januar 2021 |
 | [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | Einstellung am 31. Januar 2021 |
 | [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | Wird am 30. Juni 2021 eingestellt |
+| [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | Wird am 30. Juni 2021 eingestellt |
 
 ## Eingestellte Zertifizierungen
 

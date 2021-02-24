@@ -34,12 +34,12 @@ exams:
 - uid: exam.az-304
 summary: |-
   In diesem Kurs lernen Lösungsarchitekten, wie man Geschäftsanforderungen in sichere, skalierbare und zuverlässige Lösungen umsetzt. Die Lektionen umfassen Entwurfsüberlegungen in Bezug auf Protokollierung, Kostenanalyse, Authentifizierung und Autorisierung, Governance, Sicherheit, Speicherung, Hochverfügbarkeit und Migration. Diese Rolle erfordert Entscheidungen in mehreren Bereichen, die sich auf eine Gesamtentwurfslösung auswirken.
-
+  
   #### Zielgruppenprofil
   Dieser Kurs richtet sich an IT-Experten mit Fachkenntnissen im Entwerfen und Implementieren von Lösungen, die unter Microsoft Azure ausgeführt werden. Die Kandidaten sollten über fortgeschrittene Erfahrung und Kenntnisse des IT-Betriebs verfügen, einschließlich Netzwerk, Virtualisierung, Identität, Sicherheit, Geschäftskontinuität, Notfallwiederherstellung, Datenplattform, Budgetierung und Governance. Azure Solution Architects verwenden das Azure Portal und verwenden die Befehlszeilenschnittstelle, sobald sie sachkundiger sind. Die Kandidaten müssen über Expertenkenntnisse in der Azure-Verwaltung verfügen und Erfahrung mit Azure-Entwicklungsprozessen und DevOps-Prozessen haben.
 prerequisitesSection: |-
   Erfolgreiche Azure Architekten beginnen diese Rolle mit Erfahrung in Betriebssystemen, Virtualisierung, Cloud-Infrastruktur, Speicherstrukturen, Netzwerken, Anwendungen und Datenbanken.
-  - Verständnis lokaler Virtualisierungstechnologien&#58;VMs, virtueller Netzwerke und virtueller Festplatten.
+  - Verständnis lokaler Virtualisierungstechnologien&#58; VMs, virtueller Netzwerke und virtueller Festplatten.
   - Grundlegendes zur Netzwerkkonfiguration, einschließlich TCP/IP, DNS (Domain Name System), VPNs (Virtual Private Networks), Firewalls und Verschlüsselungstechnologien.
   - Grundlegendes zu Active Directory-Konzepten, einschließlich Domains, Gesamtstrukturen, Domain-Controllern, Replikation, Kerberos-Protokoll und LDAP (Lightweight Directory Access Protocol).
   - Grundlegendes zu Ausfallsicherheit und Notfallwiederherstellung, einschließlich Sicherungs- und Wiederherstellungsvorgängen.
@@ -49,8 +49,9 @@ prerequisitesSection: |-
   - Verständnis der Sicherheitskonzepte zum Schutz Ihrer Umgebung, z. B. Verschlüsselung in Ruhe, Verschlüsselung während des Transports, SSL, TLS.
   
   Vorausgesetzte Kurse (oder gleichwertige Kenntnisse)&#58;
-  - AZ-900 Azure Fundamentals 
-  - AZ-303 Azure Solution Architect Technologies 
+  - Kostenlos online&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
+  - Kurs unter Anleitung eines Kursleiters&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
+  - Voraussetzungen für Azure administratoren (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### Modul 1&#58; Entwerfen Sie eine Compute-Lösung
   In diesem Modul lernen Sie die entsprechenden Compute-Technologien kennen, einschließlich virtueller Maschinen, App Services, Service Fabric, Azure-Funktionen, Windows Virtual Desktop und Container.
@@ -59,18 +60,18 @@ outlineSection: |-
   - Bestimmen Sie geeignete Computertechnologien
   - Empfehlen Sie eine Lösung für Container
   - Empfehlen Sie eine Lösung zur Automatisierung des Compute-Managements
-
+  
   #### Lab&#58; Implementieren von Containern in Azure
   - Implementieren Sie Container, die in Azure-VMs ausgeführt werden
   - Stellen Sie Container für Azure-Containerinstanzen bereit
   - Stellen Sie Container in AKS-Clustern (Azure Kubernetes Service) bereit
-
+  
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Siehe Lösung zur Automatisierung der Computerverwaltung
   - Empfehlen Sie die entsprechenden Computertechnologien, einschließlich virtueller Maschinen und App Services
   - Empfehlen Sie die entsprechenden AKS und ACI sowie die Konfigurationen
-
-
+  
+  
   ### Modul 2&#58; Entwerfen Sie eine Netzwerklösung
   In diesem Modul lernen Sie Lösungen für Netzwerkadressierung und Namensauflösung, Netzwerkbereitstellung und Netzwerksicherheit kennen.
   #### Lektionen
@@ -80,27 +81,27 @@ outlineSection: |-
   - Empfehlen Sie eine Lösung für Internet-Konnektivität und lokale Netzwerke
   - Empfehlen Sie eine Lösung zur Automatisierung des Netzwerkmanagements
   - Empfehlen Sie eine Lösung für Belastungsausgleich und Verkehrsführung
-
+  
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Lösungen für Netzwerkadressierung und Namensauflösung
   - Lösungen für die Netzwerksicherheit, einschließlich privater Endpunkte, Firewalls und Gateways
   - Empfehlungen für die Netzwerkverbindung zum Internet, zu lokalen Netzwerken und anderen
   - Empfehlungen für Belastungsausgleich und Verkehrsführung
-
-
+  
+  
   ### Modul 3&#58; Entwerfen für die Migration
   In diesem Modul erfahren Sie, wie Sie eine Lösung für die Migration von Anwendungen und VMs sowie eine Lösung für die Migration von Datenbanken empfehlen.
   #### Lektionen
   - Bewerten und lokale Server und Anwendungen für die Migration
   - Empfehlen Sie eine Lösung für die Migration von Anwendungen und VMs
   - Empfehlen Sie eine Lösung für die Migration von Datenbanken
-
+  
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Bewerten Sie lokale Server und Anwendungen für die Migration
   - Lösungsvorschläge für die Migration von Anwendungen und VMs
   - Bestimmen des Migrationsumfangs, einschließlich redundanter, verwandter, trivialer und veralteter Daten
-
-
+  
+  
   ### Modul 4&#58; Authentifizierung und Autorisierung entwerfen
   In diesem Modul lernen Sie, wie Sie Identitäten für Services bereitstellen und die Hierarchie von Verwaltungsgruppen und Abonnements verstehen.
   #### Lektionen
@@ -111,32 +112,32 @@ outlineSection: |-
   - Empfehlen Sie eine Lösung für eine hybride Identität
   - Empfehlen Sie eine Lösung für die B2B-Integration
   - Empfehlen Sie eine hierarchische Struktur für Managementgruppen
-
+  
   #### Lab&#58; Verwalten der Azure AD-Authentifizierung und -Autorisierung
   - Stellen Sie eine Azure-VM bereit, auf der sich ein AD DS-Domaincontroller befindet
   - Erstellen und konfigurieren Sie einen Azure AD-Mandanten
   - Integrieren Sie eine AD DS-Gesamtstruktur in einen Azure AD-Mandanten
-
+  
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Empfehlen Sie eine Hierarchie für Verwaltungsgruppen und Abonnements
   - Konfigurieren Sie benutzerdefinierte RBAC-Rollendefinitionen und -zuweisungen
   - Planen Sie eine MFA-Bereitstellung
   - Empfehlen Sie eine Lösung für das einmalige Anmelden (SSO)
   - Empfehlen Sie eine Lösung für eine hybride Identität
-
-
+  
+  
   ### Modul 5&#58; Governance entwerfen
   In diesem Modul erfahren Sie, wie Sie eine Azure-Richtlinie anwenden, nicht konforme Ressourcen identifizieren und Tag-Governance mit der Azure-Richtlinie verwalten.
   #### Lektionen
   - Empfehlen Sie eine Lösung für die Verwendung von Azure Policy
   - Empfehlen Sie eine Lösung für die Verwendung von Azure Blueprint
-
+  
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Richtlinien mit Initiativen organisieren
   - Verwalten der Tag-Governance mit Azure-Richtlinien
   - Geben Sie Anleitungen zu Azure Blueprints
-
-
+  
+  
   ### Modul 6&#58; Entwerfen Sie eine Lösung für Datenbanken
   In diesem Modul können Sie den entsprechenden Datenspeicher empfehlen und die Ebenen Azure SQL-Datenbank und Azure SQL Managed Instance Service empfehlen.
   #### Lektionen
@@ -145,49 +146,49 @@ outlineSection: |-
   - Empfehlen Sie die Dimensionierung der Datenbank-Servicestufe
   - Dynamische Skalierung von Azure SQL-Datenbank- und Azure SQL-verwalteten Instanzen
   - Empfehlen Sie eine Lösung zum Verschlüsseln von Daten in Ruhe, Übertragung und Verwendung
-
+  
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Empfehlen Sie die Dimensionierung der Datenbank-Servicestufe
   - Empfehlen Sie eine Lösung zum Verschlüsseln von Daten in Ruhe, Übertragung und Verwendung
   - Grundlegendes zu Azure Data Lake Store- und Azure Blob-Speichercontainern
-
-
+  
+  
   ### Modul 7&#58; Wählen Sie einen geeigneten Speicher-Account aus
   In diesem Modul erfahren Sie, wie Sie eine Strategie für die Verwendung von abgestufter Speicherung und die Verwaltung von abgestufter Speicherung mithilfe von Azure-Tools empfehlen.
   #### Lektionen
   - Grundlegendes zu Speicherstufen
   - Empfehlen Sie eine Speicherzugriffslösung
   - Empfehlen Sie Speicher-Management-Tools
-
+  
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Empfehlen Sie Tools für die Arbeit mit Azure Storage
   - Entwerfen Sie Blob-Speicherzugriffsebenen für Azure
-
-
+  
+  
   ### Modul 8&#58; Entwerfen Sie Daten-Integration
   In diesem Modul lernen Sie Datenflüsse mithilfe der Azure Data Factory- und der Azure Synapse Analytics-Architektur kennen.
   #### Lektionen
   - Empfehlen Sie einen Datenfluss
   - Empfehlen Sie eine Lösung für die Daten-Integration
-
-  Nach Abschluss dieses Moduls können die Schüler&#58; 
+  
+  Nach Abschluss dieses Moduls können die Schüler&#58;
   - Implementieren Sie Azure Synapse Analytics
   - Beschreiben Sie, wie Daten mit Hilfe von Azure Data Factory fließen
   - Demonstrieren Sie, wie man mit Azure Data Factory Daten in SQL Data Warehouse lädt
-
-
+  
+  
   ### Modul 9&#58; Entwerfen Sie eine Lösung für die Protokollierung und Überwachung
   In diesem Modul erfahren Sie mehr über Azure Monitor, Azure Application Insights und Azure Sentinel. Sie können Azure-Ressourcen mit Azure Monitor überwachen und Ressourcenprotokolle für Azure sammeln und analysieren.
   #### Lektionen
   - Azure-Überwachungs-Services
   - Azure-Monitor
-
+  
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Überwachen Sie Azure-Ressourcen mit Azure Monitor
   - Sammeln und Analysieren von Ressourcenprotokollen für Azure-Ressourcen
   - Grundlegendes dazu, wie Azure Sentinel Daten auf Geräten, Benutzern, Infrastrukturen und Anwendungen sammelt
-
-
+  
+  
   ### Modul 10&#58; Entwerfen Sie eine Lösung für Sicherung und Wiederherstellung
   In diesem Modul erfahren Sie mehr über Lösungen für die Standortwiederherstellungskapazität sowie für Standort-Failover und -Failback. Sie werden in der Lage sein, Lösungen für die Wiederherstellung in verschiedenen Regionen zu empfehlen.
   #### Lektionen
@@ -196,14 +197,14 @@ outlineSection: |-
   - Empfehlen Sie eine Lösung für die Wiederherstellung in verschiedenen Regionen
   - Empfehlen Sie eine Lösung für Azure Backup Management
   - Entwerfen Sie eine Lösung für die Datenarchivierung und -speicherung
-
+  
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Empfehlen Sie Lösungen für Azure-Hybrid- und lokale Workloads, die die Wiederherstellungsziele erfüllen
   - Empfehlen Sie eine Lösung für die Standortwiederherstellungskapazität
   - Empfehlung von Speichertypen und Methodik für die Datenarchivierung
   - Identifizieren Sie die Anforderungen für die Datenarchivierung
-
-
+  
+  
   ### Modul 11&#58; Entwurf für hohe Verfügbarkeit
   In diesem Modul lernen Sie Lösungen für die Redundanz von Anwendungen und Workloads kennen, einschließlich Computing, Datenbank und Speicher.
   #### Lektionen
@@ -212,51 +213,50 @@ outlineSection: |-
   - Identifizieren Sie Ressourcen, die Hochverfügbarkeit erfordern
   - Identifizieren Sie Speicher-Typen für Hochverfügbarkeit
   - Empfehlen Sie eine Lösung für die Geo-Redundanz von Workloads
-
+  
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Empfehlen Sie eine Lösung für die automatische Skalierung
   - Identifizieren von Speichertypen für eine hohe Verfügbarkeit
   - Empfehlen Sie eine Lösung für die Geo-Redundanz von Workloads
-
-
+  
+  
   ### Modul 12&#58; Design zur Kostenoptimierung
   In diesem Modul erfahren Sie, wie Sie die Kosten anhand von Empfehlungen optimieren, die Kosten nach Azure Service aufschlüsseln und Nutzungsdetails herunterladen und überprüfen. 01-Ansicht
   #### Lektionen
   - Lösungen für das Kostenmanagement empfehlen
   - Empfohlene Gesichtspunkte zur Kostenminimierung
-
+  
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Optimieren Sie mit Azure Cost Management
   - Design unter Berücksichtigung der Kosten
   - Optimieren Sie Kosten anhand von Empfehlungen
-
-
+  
+  
   ### Modul 13&#58; Entwerfen einer Anwendungsarchitektur
   In diesem Modul erfahren Sie mehr über eine Lösung für die Bereitstellung von Anwendungen, einschließlich ARM-Vorlagen, Logik-Apps oder Azure-Funktionen. Außerdem erfahren Sie mehr über die Microservices-Architektur, einschließlich Event Grid, Event Hubs, Service Bus, Speicherwarteschlangen, Logik-Apps, Azure-Funktionen und Webhooks.
   #### Lektionen
   - Empfehlen Sie eine Microservices-Architektur
   - Empfehlen Sie eine Orchestrierungslösung für die Bereitstellung von Anwendungen
   - Empfehlen Sie eine Lösung für die API Integration
-
+  
   #### Übung&#58; Implementieren Sie die Integration von Azure Logic Apps in Azure Event Grid
   - Integrieren Sie Azure Logic Apps in Event Grid
   - Ausführung von Logik-Apps als Reaktion auf ein Ereignis auslösen, das eine Änderung einer Ressource darstellt innerhalb von-
-
-  Nach Abschluss dieses Moduls verstehen die Teilnehmer&#58; 
+  
+  Nach Abschluss dieses Moduls verstehen die Teilnehmer&#58;
   - Empfehlen Sie Bereitstellungslösungen mit ARM-Vorlagen, Logik-Apps oder Azure-Funktionen
   - Empfehlen Sie eine Lösung zur Überwachung der Automatisierung
   - Empfehlung einer Hosting-Struktur für die API-Verwaltung
-
-
+  
+  
   ### Modul 14&#58; Entwerfen Sie Sicherheit für Anwendungen
   In diesem Modul erfahren Sie mehr über eine Lösung für die Bereitstellung von Anwendungen, einschließlich ARM-Vorlagen, Logik-Apps oder Azure-Funktionen. Außerdem erfahren Sie mehr über die Microservices-Architektur, einschließlich Event Grid, Event Hubs, Service Bus, Speicherwarteschlangen, Logik-Apps, Azure-Funktionen und Webhooks.
   #### Lektionen
   - Sicherheit für Anwendungen und Services
   - Empfehlen Sie eine Lösung mit Hilfe von Key Vault
   - Empfehlen Sie Lösungen mit Azure AD Managed Identities
-
+  
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Verstehen der Authentifizierung und Autorisierung von Key Vault
   - Verfügbarkeit und Redundanz von Azure Key Vault verstehen
   - Verstehen Sie, wie sich Blueprints von Resource Manager-Vorlagen und Azure-Richtlinien unterscheiden
-

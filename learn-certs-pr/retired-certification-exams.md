@@ -60,9 +60,12 @@ Prüfungen suchen, die in den nächsten 12 Monaten aus dem Programm genommen we
 | [MB6-897](/learn/certifications/exams/mb6-897): Microsoft Dynamics 365 for Retail |
 | [MB6-898](/learn/certifications/exams/mb6-898): Microsoft Dynamics 365 for Talent |
 
-
 | Wird am 30. Juni 2021 eingestellt |
 | --- |
+| [AI-100](/learn/certifications/exams/ai-100): Designing and Implementing an Azure AI Solution |
+| [DP-200](/learn/certifications/exams/dp-200): Implementing an Azure Data Solution |
+| [DP-201](/learn/certifications/exams/dp-201): Designing an Azure Data Solution |
+| [MB-600](/learn/certifications/exams/mb-600): Microsoft Dynamics 365 + Power Platform Solution Architect |
 | [MB-901](/learn/certifications/exams/mb-901): Microsoft Dynamics 365 Fundamentals |
 
 ## Kürzlich eingestellte Prüfungen

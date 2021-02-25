@@ -1,0 +1,74 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: DevOps Engineer Expert'
+metadata:
+  title: 'Microsoft Certified: DevOps Engineer Expert'
+  description: 'Die Experten von Azure DevOps kombinieren Menschen, Prozesse und Technologien, um kontinuierlich wertvolle Produkte und Dienstleistungen bereitzustellen, die den Bedürfnissen der Endverbraucher und den Geschäftszielen entsprechen.'
+uid: certification.devops-engineer
+certificationRenewalUid: renewal.devops-engineer
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Kandidaten für die DevOps Engineer Expert-Zertifizierung sollten über Fachkenntnisse im Umgang mit Menschen, Prozessen und Technologien verfügen, um kontinuierlich geschäftlichen Nutzen zu erzielen.
+  
+  Zu den Aufgaben für diese Rolle gehören das Entwerfen und Implementieren von Strategien für Zusammenarbeit, Code, Infrastruktur, Quellcodeverwaltung, Sicherheit, Compliance, kontinuierliche Integration, Testen, Bereitstellung, Überwachung und Feedback.
+  
+  Ein Kandidat für diese Zertifizierung muss sowohl mit der Azure-Verwaltung als auch mit der Entwicklung vertraut sein und Experte in mindestens einem dieser Bereiche sein.
+subTitle: Die Experten von Azure DevOps kombinieren Menschen, Prozesse und Technologien, um kontinuierlich wertvolle Produkte und Dienstleistungen bereitzustellen, die den Bedürfnissen der Endverbraucher und den Geschäftszielen entsprechen.
+levels:
+- advanced
+skills:
+- Entwickeln Sie eine Instrumentierungsstrategie
+- Entwicklung einer Zuverlässigkeitstechnik (SRE)-Strategie
+- Entwicklung eines Sicherheits- und Compliance-Plans
+- Quellcode verwalten
+- Ermöglichen der Kommunikation und Zusammenarbeit
+- Kontinuierliche Integration definieren und definieren
+- Definieren und implementieren Sie eine kontinuierliche Liefer- und Release-Management-Strategie
+roles:
+- devops-engineer
+type: role-based
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+paths:
+- uid: learn.az-400-develop-instrumentation-strategy
+- uid: learn.az-400-develop-sre-strategy
+- uid: learn.az-400-develop-security-compliance-plan
+- uid: learn.az-400-manage-source-control
+- uid: learn.az-400-facilitate-communication-collaboration
+- uid: learn.az-400-define-implement-continuous-integration
+courses:
+- uid: course.az-400t00
+prerequisites:
+- uid: certification.azure-administrator
+  isOptional: false
+- uid: certification.azure-developer
+  isOptional: false
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP84
+exams:
+- uid: exam.az-400
+resources:
+- title: Azure-Zertifizierungsplakat
+  description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Azure an.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Reise zur Zertifizierung
+  description: Informieren Sie sich über die Schritte zur Zertifizierung als DevOps Engineer Expert und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
+- title: Schulungs- und Zertifizierungsleitfaden
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+  href: deals.md
+- title: Unterstützung von Zertifizierungen
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  href: help.md
+- title: Zertifizierungsdashboard
+  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,0 +1,69 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Security Engineer Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Security Engineer Associate'
+  description: Die Azure Sicherheitstechniker implementieren Sicherheitskontrollen und Bedrohungsschutz, verwalten Identität und Zugriff und schützen Daten, Anwendungen und Netzwerke in Cloud- und Hybridumgebungen als Teil einer End-to-End-Infrastruktur.
+uid: certification.azure-security-engineer
+certificationRenewalUid: renewal.azure-security-engineer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Kandidaten für Azure Security Engineer certification sollten über Fachkenntnisse bei der Implementieren von Sicherheitskontrollen und Schutz vor Bedrohungen, Verwalten von Identität und Zugriff und Schutz von Daten, Anwendungen und Netzwerke in Cloud- und Hybridumgebungen als Teil einer kompletten Infrastruktur verfügen.
+  
+  Zu den Aufgaben in dieser Position gehören das Aufrechterhalten der Sicherheitslage, das Erkennen und Beheben von Sicherheitslücken mit Hilfe verschiedener Sicherheitstools, das Implementieren eines Schutzes vor Bedrohung und das Reagieren auf Eskalationen von Sicherheitsvorfällen.
+  
+  Azure Security-Engineers sind häufig Teil eines größeren Teams, das sich mit Cloud-basierten Verwaltungs- und Sicherheitsumgebungen oder Hybridumgebungen als Teil einer kompletten Infrastruktur befasst.
+  
+  Ein Kandidat für dieses Zertifizierung sollte über fundierte Kenntnisse in Skripten und Automatisierung, ein tiefgreifendes Verständnis der Netzwerk-, Virtualisierungs- und Cloud-N-Tier-Architektur sowie eine umfassende Vertrautheit mit Cloud-Funktionen und -Produkten und -Services für Azure sowie anderen Microsoft-Produkten und -Services verfügen.
+subTitle: Die Azure Sicherheitstechniker implementieren Sicherheitskontrollen und Bedrohungsschutz, verwalten Identität und Zugriff und schützen Daten, Anwendungen und Netzwerke in Cloud- und Hybridumgebungen als Teil einer End-to-End-Infrastruktur.
+levels:
+- intermediate
+skills:
+- Verwalten von Identität und Zugriff
+- Plattform-Schutz implementieren
+- Verwaltung von Sicherheitsvorgängen
+- Sichern von Daten und Anwendungen
+roles:
+- security-engineer
+type: role-based
+products:
+- azure
+- azure-active-directory
+- azure-policy
+- azure-virtual-network
+- azure-monitor
+- azure-key-vault
+courses:
+- uid: course.az-500t00
+paths:
+- uid: learn.security.secure-your-cloud-apps
+- uid: learn.security.implement-resource-mgmt-security
+- uid: learn.security.implement-network-security
+- uid: learn.security.implement-host-security
+- uid: learn.security.manage-identity-and-access
+- uid: learn.security.manage-security-operations
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUH
+exams:
+- uid: exam.az-500
+resources:
+- title: Azure-Zertifizierungsplakat
+  description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Azure an.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Reise zur Zertifizierung
+  description: Informieren Sie sich über die Schritte zur Zertifizierung als Azure Security Engineer Associate und über die verfügbaren Ressourcen, die Ihnen bei der Vorbereitung helfen können.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
+- title: Schulungs- und Zertifizierungsleitfaden
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+  href: deals.md
+- title: Unterstützung von Zertifizierungen
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  href: help.md
+- title: Zertifizierungsdashboard
+  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

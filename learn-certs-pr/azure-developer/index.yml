@@ -1,0 +1,81 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Developer Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Developer Associate'
+  description: 'Azure-Entwickler entwerfen, erstellen, testen und warten Cloud-Anwendungen und -Services.'
+uid: certification.azure-developer
+certificationRenewalUid: renewal.azure-developer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Kandidaten für Azure Developer Associate certification sollten über Fachkenntnisse im Entwerfen, Erstellen, Testen und Verwalten von Cloud-Anwendungen und -Services in Microsoft Azure verfügen.
+  
+  Zu den Aufgaben eines Azure-Entwicklers gehört die Teilnahme an allen Phasen der Cloud-Entwicklung, von der Definition und dem Entwerfen der Anforderungen bis hin zur Entwicklung, Bereitstellung und Wartung, Leistungsoptimierung und Überwachung.
+  
+  Azure-Entwickler arbeiten mit Cloud-Lösungsarchitekten, Cloud-Datenbankadministratoren (DBAs), Cloud-Administratoren und Clients zusammen, um Lösungen zu implementieren.
+  
+  Ein Kandidat für Diese Zertifizierung sollte über 1-2 Jahre Berufserfahrung und Erfahrung mit Microsoft Azure verfügen. Darüber hinaus sollte jemand in dieser Position über die Fähigkeit verfügen, in einer von Azure unterstützten Sprache zu programmieren und über Kenntnisse in Azure SDKs, Azure PowerShell, Azure CLI, Datenspeicheroptionen, Datenverbindungen, APIs, App-Authentifizierung und -Autorisierung, Computer- und Containerbereitstellung, Debugging und Leistungsoptimierung und Überwachung verfügen.
+subTitle: Azure-Entwickler entwerfen, erstellen, testen und warten Cloud-Anwendungen und -Services.
+levels:
+- intermediate
+skills:
+- Entwicklung von Azure-Computerlösungen
+- Entwickeln für Azure-Storage
+- Implementieren der Azure-Sicherheit
+- Überwachung, Fehlerbehebung und Optimierung von Azure Lösungen
+- Verbindung zu Azure-Diensten und Diensten von Drittanbietern herstellen und nutzen
+roles:
+- developer
+type: role-based
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+courses:
+- uid: course.az-204t00
+- uid: course.az-020t00
+paths:
+- uid: learn.create-serverless-applications
+- uid: learn.connect-your-services-together
+- uid: learn.work-with-relational-data-in-azure
+- uid: learn.store-data-in-azure
+- uid: learn.deploy-a-website-with-azure-virtual-machines
+- uid: learn.manage-resources-in-azure
+- uid: learn.deploy-a-website-with-azure-app-service
+- uid: learn.data-science
+- uid: learn.secure-your-cloud-data
+- uid: learn.modern-data-warehouse
+- uid: learn.work-with-nosql-data-in-azure-cosmos-db
+- uid: learn.data-ai.intro-to-ml-with-python
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUJ
+exams:
+- uid: exam.az-204
+resources:
+- title: Azure-Zertifizierungsplakat
+  description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Azure an.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Reise zur Zertifizierung
+  description: Informieren Sie sich über die nötigen Schritte für eine Zertifizierung als Azure AI Engineer Associate und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
+- title: Schulungs- und Zertifizierungsleitfaden
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+  href: deals.md
+- title: Unterstützung von Zertifizierungen
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  href: ../help.md
+- title: Zertifizierungsdashboard
+  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

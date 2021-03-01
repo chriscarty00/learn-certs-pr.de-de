@@ -1,0 +1,77 @@
+### YamlMime:Certification
+title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
+metadata:
+  title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
+  description: 'Ein Microsoft 365 Enterprise Administrator nimmt teil an der Bewertung, Planung, Migration, Bereitstellung und Verwaltung von Microsoft 365 Diensten.'
+uid: certification.m365-enterprise-administrator
+certificationRenewalUid: renewal.m365-enterprise-administrator
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Microsoft 365 Enterprise Administrators bewerten, planen, migrieren, stellen bereit und verwalten Microsoft 365 Services.
+  
+  <div><br/><strong>MCSE&#58; Productivity Solutions Expert-Zertifizierung wird am 31. Januar 2021 eingestellt. Es wird bis zum 31. Januar 2022 (ein Jahr nach der Einstellung der Zertifizierung) weiterhin als Voraussetzung für diese Zertifizierung gelten.</strong></div>
+subTitle: Microsoft 365 Enterprise Administrators bewerten, planen, migrieren, stellen bereit und verwalten Microsoft 365 Services.
+levels:
+- advanced
+skills:
+- Entwerfen und Implementieren von Microsoft 365-Services
+- Benutzeridentität und Rollen verwalten
+- Zugriff und Authentifizierung verwalten
+- Office 365-Workloads und -Anwendungen planen
+- Implementieren moderner Geräteservices
+- Microsoft 365 Sicherheits- und Bedrohungsmanagement implementieren
+- Microsoft 365-Governance und -Konformität verwalten
+roles:
+- administrator
+type: role-based
+products:
+- m365
+courses:
+- uid: course.ms-100t00
+- uid: course.ms-101t00
+paths:
+- uid: learn-m365.identity-and-access
+- uid: learn.security.manage-identity-and-access
+- uid: learn-m365.microsoft-365-get-modern
+- uid: learn-m365.m365-stay-current
+- uid: learn-m365.manage-enterprise-deployment-m365
+- uid: learn-m365.m365-cloud-security
+- uid: learn-m365.m365-security-threat-protection
+- uid: learn-m365.m365-security-management
+- uid: learn.security.manage-security-operations
+- uid: learn-m365.m365-messaging-secure-environment
+- uid: learn-m365.m365-compliance-information
+- uid: learn-m365.audit-safeguard-customer-data
+- uid: learn-m365.compliance-discover
+prerequisites:
+- uid: certification.modern-desktop
+  isOptional: false
+- uid: certification.m365-security-administrator
+  isOptional: false
+- uid: certification.m365-messaging-administrator
+  isOptional: false
+- uid: certification.mcse-productivity-certification
+  isOptional: false
+- uid: certification.m365-teams-administrator-associate
+  isOptional: false
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUi7
+exams:
+- uid: exam.ms-100
+- uid: exam.ms-101
+resources:
+- title: Informieren Sie sich über die Zertifizierungen
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Prüfungswiederholung
+  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+  href: deals.md
+- title: Unterstützung von Zertifizierungen
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  href: ../help.md
+- title: Zertifizierungsdashboard
+  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

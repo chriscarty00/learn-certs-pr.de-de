@@ -1,0 +1,71 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Database Administrator Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Database Administrator Associate'
+  description: 'Der Azure-Database Administrator implementiert und verwaltet die betrieblichen Aspekte von Cloud-nativen und hybriden Datenplattformlösungen, die auf Microsoft Azure Data Services und Microsoft SQL Server basieren.'
+uid: certification.azure-database-administrator-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Der Azure-Database-Administrator implementiert und verwaltet die betrieblichen Aspekte von Cloud-nativen und hybriden Datenplattformlösungen, die auf Microsoft Azure Data Services und Microsoft SQL Server basieren. Der Azure-Datenbankadministrator verwendet eine Vielzahl von Methoden und Tools, um alltägliche Vorgänge auszuführen, einschließlich der Anwendung von Kenntnissen über die Verwendung von T-SQL für Verwaltungsverwaltungszwecke.
+
+  <div></br>
+  Kandidaten für diese Rolle sollten alle in Prüfung DP-900 behandelten Konzepte verstehen <a href='/learn/certifications/exams/dp-900'>: Microsoft Azure Fundamentals</a>.</div>
+subTitle: "Der Azure-Database Administrator implementiert und verwaltet die betrieblichen Aspekte von Cloud-nativen und hybriden Datenplattformlösungen, die auf Microsoft Azure Data Services und Microsoft SQL Server basieren."
+levels:
+- intermediate
+skills:
+- Planen und Implementieren von Datenplattformressourcen
+- Implementieren Sie eine sichere Umgebung
+- Überwachung und Optimierung der Betriebsressourcen
+- Optimieren Sie die Abfrageleistung
+- Automatisierung von Aufgaben durchführen
+- Planen und Implementieren einer HADR-Umgebung (High Availability and Disaster Recovery)
+- Die Verwaltung mit T-SQL durchführen
+roles:
+- database-administrator
+type: role-based
+products:
+- azure
+- azure-automation
+- azure-database-mysql
+- azure-database-postgresql
+- azure-sql-database
+- azure-storage
+- azure-virtual-machines
+- sql-server
+courses:
+- uid: course.dp-300t00
+paths:
+- uid: learn.azure-sql-fundamentals
+- uid: learn.wwl.plan-implement-data-platform-resources
+- uid: learn.wwl.implement-secure-environment-database-service
+- uid: learn.wwl.monitor-optimize-operational-resources-sql-server
+- uid: learn.wwl.optimize-query-performance-sql-server
+- uid: learn.wwl.automate-tasks-sql-server
+- uid: learn.wwl.plan-implement-ha-dr-environment
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qjf6
+exams:
+- uid: exam.dp-300
+resources:
+- title: Azure-Zertifizierungsplakat
+  description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Azure an.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Reise zur Zertifizierung
+  description: Informieren Sie sich über die nötigen Schritte für eine Zertifizierung als Azure Database Administrator Associate und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
+- title: Informieren Sie sich über die Zertifizierungen
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Prüfungswiederholung
+  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+  href: deals.md
+- title: Unterstützung von Zertifizierungen
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  href: ../help.md
+- title: Zertifizierungsdashboard
+  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

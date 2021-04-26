@@ -10,10 +10,11 @@ summary: |-
   
   Kandidaten für diese Prüfung sollten C#, Python oder JavaScript beherrschen und in der Lage sein, REST-basierte APIs und SDKs zu verwenden, um Computervision, Verarbeitung natürlicher Sprache, Knowledge-Mining und Konversations-AI-Lösungen auf Azure zu erstellen. Sie sollten auch die Komponenten des Azure AI-Portfolios und die verfügbaren Datenspeicheroptionen verstehen. Außerdem müssen die Kandidaten die Prinzipien verantwortungsvoller AI verstehen und anwenden können.
   
-  <div><br/><font color='red'><strong>Hinweis&#58; Diese Prüfung wird am 23. Februar 2021 verfügbar sein.</strong></font></div>
-subTitle: 'Diese Prüfung wird am 23. Februar 2021 verfügbar sein. Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben auszuführen: Planen und Verwalten einer Azure Cognitive Services-Lösung ; Implementierung von Computervisions-Lösungen, Implementieren von Lösungen zur Verarbeitung natürlicher Sprache, Implementierung von Knowledge-Mining-Lösungen und Konversations-AI -Lösungen.'
+  <div><br/><font color='red'><strong>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Erfahren Sie mehr über den Wert und die Bedeutung von Beta-Prüfungen</a>.</strong></font></div>
+subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben auszuführen: Planen und Verwalten einer Azure Cognitive Services-Lösung; Implementierung von Computervisions-Lösungen, Implementieren von Lösungen zur Verarbeitung natürlicher Sprache, Implementierung von Knowledge-Mining-Lösungen und AI-Konversations-Lösungen.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYD
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AI-102&examname=Exam%20AI-102:%20Designing%20and%20Implementing%20a%20Microsoft%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-102
 locales:
 - en
 levels:
@@ -45,10 +46,22 @@ products:
 - azure-translator-speech
 - azure-translator-text
 - azure-video-indexer
+courses:
+- uid: course.ai-102t00
+paths:
+- uid: learn.data-ai.evaluate-text-with-language-services
+- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
+- uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
+- uid: learn.wwl.process-natural-language-azure-cognitive-language-services
+- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
+- uid: learn.wwl.create-conversational-ai-solutions
 relatedCertifications:
 - related:
     uid: certification.azure-ai-engineer
 resources:
+- title: Der Weg zur Zertifizierung
+  description: Informieren Sie sich über die Schritte zur Zertifizierung als Azure AI Engineer Associate und über die verfügbaren Ressourcen, die Ihnen bei der Vorbereitung helfen können.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWy1S2
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

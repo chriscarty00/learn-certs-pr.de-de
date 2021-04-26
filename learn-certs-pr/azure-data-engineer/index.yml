@@ -7,19 +7,28 @@ uid: certification.azure-data-engineer
 certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color="red"><strong>DIE PRÜFUNGEN DP-200 UND DP-201 WERDEN<a href="/learn/certifications/exams/ai-203">EXAM DP-203</a> AM 23. FEBRUAR 2021 DURCH DIE PRÜFUNG DP-203 ERSETZT. Sie können diese Zertifizierung weiterhin erhalten, indem Sie DP-200 und DP-201 bestehen, bevor diese am 30. Juni 2021 eingestellt werden.</strong></font><br/><br/></div>
+  <div><font color='red'><strong><a href='/learn/certifications/exams/dp-203'>PRÜFUNG DP-203</a> ERSETZT DIE PRÜFUNGEN DP-200 UND DP-201. DP-200 und DP-201 wird am 30. Juni 2021 eingestellt.</strong></font><br/><br/></div>
   
-  Azure Data Engineers entwerfen und implementieren das Management, die Überwachung, die Sicherheit und den Datenschutz von Daten unter Verwendung des gesamten Stapels von Azure Data Services, um die Geschäftsanforderungen zu erfülle
+  Ein Kandidat für die Azure Data Engineer Associate-Zertifizierung sollte über Fachkenntnisse verfügen, um Daten aus verschiedenen strukturierten und unstrukturierten Datensystemen in Strukturen zu integrieren, zu transformieren und zu konsolidieren, die für die Erstellung von Analyselösungen geeignet sind.
+  
+  Zu den Aufgaben für diese Rolle gehört es, den Interessenvertretern zu helfen, die Daten durch Exploration, Aufbau und Wartung sicherer und konformer Datenverarbeitungs-Pipelines mit Hilfe verschiedener Tools und Techniken zu verstehen. Dieser Fachmann verwendet verschiedene Azure-Datenservices und -Sprachen, um bereinigte und erweiterte Datasets für die Analyse zu speichern und zu erstellen.
+  
+  Ein Azure-Dateningenieur stellt außerdem sicher, dass Datenpipelines und Datenspeicher unter bestimmten geschäftlichen Anforderungen und Einschränkungen leistungsstark, effizient, organisiert und zuverlässig sind. Dieser Fachmann kümmert sich zeitnah um unerwartete Probleme und minimiert Datenverluste. Ein Azure Dateningenieur entwirft, implementiert, überwacht und optimiert Datenplattformen, um die Anforderungen der Datenpipeline zu erfüllen.
+  
+  Ein Kandidat für diese Zertifizierung muss über fundierte Kenntnisse in Datenverarbeitungssprachen wie SQL, Python oder Scala verfügen und die Muster der Parallelverarbeitung und Datenarchitektur verstehen.
+  
+  <div><br/><strong>Sie erhalten diese Zertifizierung, wenn Sie eine der folgenden Optionen ausführen&#58;</strong><br/>
+  <ul>
+  <li>Bestehen Sie <a href="/learn/certifications/exams/dp-200">DP-200</a> und <a href="/learn/certifications/exams/dp-201"></a> DP-201 (Einstellung am 30. Juni 2021) <strong>oder</strong></li>
+  <li>bestehen Sie <a href="/learn/certifications/exams/dp-203">DP-203</a> (Beta veröffentlicht am 23. Februar 2021)</li></ul></div>
 subTitle: Azure Data Engineers integrieren, transformieren und konsolidieren Daten aus verschiedenen strukturierten und unstrukturierten Datensystemen in Strukturen, die für die Erstellung von Analyselösungen geeignet sind.
 levels:
 - intermediate
 skills:
-- Implementieren von Datenspeicherlösungen
-- Verwalten und Entwickeln der Datenverarbeitung
-- Überwachen und Optimieren von Datenlösungen
-- Entwickeln von Azure-Datenspeicherlösungen
-- Entwerfen von Datenverarbeitungslösungen
-- Entwickeln für Datensicherheit und Compliance
+- Entwerfen und Implementieren der Datenspeicherung
+- Entwerfen und Entwickeln der Datenverarbeitung
+- Entwerfen und Implementieren von Datensicherheit
+- Überwachung und Optimierung der Datenspeicherung und Datenverarbeitung
 roles:
 - data-engineer
 type: role-based
@@ -30,29 +39,27 @@ products:
 - azure-event-hubs
 - azure-data-lake
 - azure-databricks
-courses:
-- uid: course.dp-200t01
-- uid: course.dp-201t01
 paths:
 - uid: learn.data-ai.azure-for-the-data-engineer
 - uid: learn.store-data-in-azure
-- uid: learn.work-with-relational-data-in-azure
-- uid: learn.work-with-nosql-data-in-azure-cosmos-db
+- uid: learn.wwl.data-integration-scale-azure-data-factory
+- uid: learn.wwl.realize-integrated-analytical-solutions-with-azure-synapse-analytics
+- uid: learn.wwl.work-with-data-warehouses-using-azure-synapse-analytics
+- uid: learn.wwl.perform-data-engineering-with-azure-synapse-apache-spark-pools
+- uid: learn.wwl.work-with-hybrid-transactional-analytical-processing-solutions
+- uid: learn.wwl.data-engineer-azure-databricks
 - uid: learn.data-ai.data-processing-with-azure-adls
 - uid: learn.data-ai.implement-data-streaming-with-asa
-- uid: learn.data-ai.implement-sql-data-warehouse
-- uid: learn.wwl.data-engineer-azure-databricks
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUG
 exams:
-- uid: exam.dp-200
-- uid: exam.dp-201
+- uid: exam.dp-203
 resources:
+- title: Reise zur Zertifizierung
+  description: Informieren Sie sich über die Schritte zur Zertifizierung als Azure Data Engineer Associate und über die verfügbaren Ressourcen, die Ihnen bei der Vorbereitung helfen können.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxODZ
 - title: Azure-Zertifizierungsplakat
   description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Azure an.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: Reise zur Zertifizierung
-  description: Informieren Sie sich über die Schritte zur Zertifizierung als Azure Data Engineer Associate und über die verfügbaren Ressourcen, die Ihnen bei der Vorbereitung helfen können.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARli
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -68,4 +75,3 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-

@@ -1,0 +1,81 @@
+### YamlMime:Examination
+title: 'Microsoft Security, Compliance, and Identity Fundamentals (beta)'
+metadata:
+  title: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals (beta)'
+  description: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals (beta)'
+uid: exam.sc-900
+displayName: SC-900
+summary: |-
+  Diese Prüfung richtet sich an Personen, die sich mit den Grundlagen von Sicherheit, Compliance und Identität (SCI) in Cloud-basierten und verwandten Microsoft-Services vertraut machen möchten.
+  
+  Dies umfasst eine breite Zielgruppe, zu der Geschäftsinteressenten, neue oder bestehende IT-Experten oder Studenten gehören können, die ein Interesse an Microsoft-Sicherheits-, Compliance- und Identitätslösungen haben.
+  
+  Kandidaten sollten mit Microsoft Azure und Microsoft 365 vertraut sein und wissen, wie sich Microsoft-Sicherheits-, Compliance- und Identitätslösungen über diese Lösungsbereiche erstrecken können, um eine ganzheitliche und durchgängige Lösung bereitzustellen.
+  
+  <div><br/><font color='red'><strong>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Erfahren Sie mehr über den Wert und die Bedeutung von Beta-Prüfungen</a>.</strong></font></div>
+subTitle: 'Diese Prüfung misst Ihre Fähigkeit, Folgendes zu beschreiben: Konzepte für Sicherheit, Compliance und Identität; Funktionen der Microsoft - Identität und Lösungen zur Zugriffsverwaltung; Funktionen von Microsoft-Sicherheitslösungen und Funktionen von Microsoft-Compliance-Lösungen.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
+locales:
+- en
+levels:
+- beginner
+skills:
+- Konzepte zu Sicherheit, Compliance und Identität beschreiben (5-10%)
+- Die Funktionen von Microsoft Identitäts- and Management-Lösungen für den Zugang beschreiben (25-30%)
+- Die Funktionen von Microsoft-Sicherheitslösungen beschreiben (30-35%)
+- Die Funktionen von Microsoft-Compliance-Lösungen beschreiben (25-30%)
+roles:
+- business-user
+- student
+products:
+- azure
+- azure-active-directory
+- azure-bastion
+- azure-blueprints
+- azure-ddos-protection
+- azure-firewall
+- azure-policy
+- azure-security-center
+- azure-sentinel
+- azure-web-application-firewall
+- m365
+- mem-intune
+- m365-ems-cloud-app-security
+- m365-threat-protection
+- m365-security-score
+- m365-security-center
+- mdatp
+- mem
+- office-365-atp
+paths:
+- uid: learn.wwl.describe-concepts-of-security-compliance-identity
+- uid: learn.wwl.describe-capabilities-of-microsoft-identity-access-management-solutions
+- uid: learn.wwl.describe-capabilities-of-microsoft-security-solutions
+- uid: learn.wwl.describe-capabilities-of-microsoft-compliance-solutions
+relatedCertifications:
+- related:
+    uid: certification.security-compliance-and-identity-fundamentals
+resources:
+- title: Informieren Sie sich über die Zertifizierungen
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Zertifizierungsposter
+  description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Dynamics 365 und Power Platform an.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Prüfungswiederholung
+  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+  href: ../deals.md
+- title: Unterstützung bei Zertifizierungsprüfungen
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  href: ../help.md
+- title: Zertifizierungsdashboard
+  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Unterkünfte anfordern
+  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  href: ../request-accommodations.md
+- title: Prüfungsrichtlinien und häufig gestellten Fragen
+  description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
+  href: ../certification-exam-policies.md

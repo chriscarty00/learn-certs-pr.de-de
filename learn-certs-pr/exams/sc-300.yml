@@ -1,0 +1,67 @@
+### YamlMime:Examination
+title: 'Microsoft Identity and Access Administrator (Sicherheitsprüfung Beta)'
+metadata:
+  title: 'Exam SC-300: Microsoft Identity and Access Administrator (Sicherheitsprüfung Beta)'
+  description: 'Exam SC-300: Microsoft Identity and Access Administrator (Sicherheitsprüfung Beta)'
+uid: exam.sc-300
+displayName: SC-300
+summary: |-
+  Der Microsoft-Identitäts- und Zugangsadministrator entwirft, implementiert und betreibt die Identitäts- und Zugriffsverwaltungssysteme eines Unternehmens mit Hilfe von Azure Active Directory (Azure AD). Sie verwalten Aufgaben wie z. B. die Bereitstellung einer sicheren Authentifizierung und des autorisierten Zugriffs auf Unternehmensanwendungen. Der Administrator bietet allen Benutzern nahtlose Benutzererfahrungen und Self-Service-Verwaltungsfunktionen. Adaptiver Zugang und Governance sind Kernelemente der Rolle. Diese Rolle ist auch für die Fehlerbehebung, Überwachung und Berichterstellung für die Identitäts- und Zugriffsumgebung verantwortlich.
+  
+  Der Identitäts- und Zugriffsadministrator kann eine einzelne Person oder ein Mitglied eines größeren Teams sein. Diese Rolle arbeitet mit vielen anderen Rollen im Unternehmen zusammen, um strategische Identitätsprojekte zur Modernisierung von Identitätslösungen, zur Implementierung hybrider Identitätslösungen und zur Implementierung von Identitäts-Governance voranzutreiben.
+  
+  <div><br/><font color='red'><strong>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Erfahren Sie mehr über den Wert und die Bedeutung von Beta-Prüfungen</a>.</strong></font></div>
+subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Implementierung einer Identitätsmanagementlösung; Implementierung einer Authentifizierungs- und Zugriffsverwaltungslösung; Implementieren der Zugriffsverwaltung für Apps. und eine Identitäts-Governance-Strategie planen und umsetzen.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp5
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=SC-300&examname=Exam%20SC-300:%20Microsoft%20Identity%20and%20Access%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-300
+locales:
+- en
+levels:
+- advanced
+skills:
+- Implementieren einer Identitätsmanagementlösung (25-30%)
+- Implementieren einer Authentifizierungs- und Zugriffsverwaltungslösung (25-30%)
+- Implementieren einer Zugriffsverwaltung für Apps (10-15%)
+- Planung und Umsetzung einer Identitäts-Governance-Strategie (25-30%)
+roles:
+- administrator
+- identity-access-admin
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-log-analytics
+- azure-sentinel
+courses:
+- uid: course.sc-300t00
+paths:
+- uid: learn.wwl.implement-identity-management-solution
+- uid: learn.wwl.implement-authentication-access-management-solution
+- uid: learn.wwl.implement-access-management-for-apps
+- uid: learn.wwl.plan-implement-identity-governance-strategy
+relatedCertifications:
+- related:
+    uid: certification.identity-and-access-administrator
+resources:
+- title: Informieren Sie sich über die Zertifizierungen
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Zertifizierungsposter
+  description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Dynamics 365 und Power Platform an.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Prüfungswiederholung
+  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+  href: ../deals.md
+- title: Unterstützung bei Zertifizierungsprüfungen
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  href: ../help.md
+- title: Zertifizierungsdashboard
+  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Unterkünfte anfordern
+  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  href: ../request-accommodations.md
+- title: Prüfungsrichtlinien und häufig gestellten Fragen
+  description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
+  href: ../certification-exam-policies.md

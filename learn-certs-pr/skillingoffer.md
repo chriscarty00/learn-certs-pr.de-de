@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 Erweitern Sie Ihre Optionen für eine Karriere in der IT-Branche, indem Sie Ihre Glaubwürdigkeit mit einer Microsoft Certification erhöhen, die Ihre Fähigkeiten und Fertigkeiten zur Ausübung einer Tätigkeit mit Microsoft-Technologien bestätigt. Da die digitale Transformation die Art und Weise, wie wir unser Geschäft betreiben, weiterentwickelt, kann Ihnen eine Schulung und Zertifizierung dabei helfen, Ihre Fähigkeit zu beschleunigen, eine gefragte technische Rolle zu übernehmen.
 
-Arbeitssuchende, die eine Schulung für diese Microsoft-spezifischen technischen Funktionen abgeschlossen haben und nachweisen können, dass sie auf Grund von COVID-19 arbeitslos oder beurlaubt waren, können sich eine branchenweit anerkannte Microsoft-Zertifizierung zu einem ermäßigten Preis von 15 USD sichern.Testkandidaten haben die Möglichkeit, eine Prüfung **vor dem 30. Dezember 2021 zu planen und bis zum 31. Dezember 2021** zur Prüfung zu erscheinen und diese abzuschließen.Siehe [Allgemeine Geschäftsbedingungen](#terms-conditions).
+Arbeitssuchende, die eine Schulung für diese Microsoft-spezifischen technischen Funktionen abgeschlossen haben und nachweisen können, dass sie auf Grund von COVID-19 arbeitslos oder beurlaubt waren, können sich eine branchenweit anerkannte Microsoft-Zertifizierung zu einem ermäßigten Preis von 15 USD sichern.Testkandidaten haben die Möglichkeit, eine Prüfung **vor dem 30. Dezember 2021 zu planen und bis zum 31. Dezember 2021** zur Prüfung zu erscheinen und diese abzuschließen. Siehe [Allgemeine Geschäftsbedingungen](#terms-conditions).
 <br/>
 <br/>
 
@@ -48,18 +48,18 @@ Um Sie vorzubereiten und sicherzustellen, dass Sie in der Lage sind, sich zu reg
 	2. [Führen Sie eine Systemprüfung durch](https://syscheck.bridge.psiexams.com/) auf demselben Computer und am selben Ort, von dem aus Sie die Prüfung ablegen werden.
 2. Stellen Sie sicher, dass Sie über ein Microsoft-Konto verfügen
 	1. Wenn Sie bereits eine Microsoft Certification haben oder eine Microsoft-Zertifizierungsprüfung abgelegt haben, verwenden Sie dasselbe Microsoft-Konto.  
-	2. Wenn Sie ein Microsoft-Konto benötigen, [erstellen Sie eines](https://account.microsoft.com/account/manage-my-account).
+	2. Wenn Sie ein Microsoft-Konto benötigen, [erstellen Sie eine](https://account.microsoft.com/account/manage-my-account)
 3. Wenn Sie noch kein Microsoft-Zertifizierungsprofil haben, werden Sie bei der Planung Ihrer Prüfung aufgefordert, eines zu erstellen. <br/>**Wichtig:** Achten Sie bei der Erstellung Ihres Zertifizierungsprofils darauf, dass Ihr Name genau mit dem von der Regierung ausgestellten Ausweis übereinstimmt, den Sie bei Ihrer Prüfung verwenden werden. Die Aufsichtsperson wird den Namen auf Ihrem Ausweis mit dem Namen in Ihrem Zertifizierungsprofil als Teil des Identifikationsüberprüfungsprozesses vergleichen. Erfahren Sie mehr über [Identifizierungsanforderungen](/learn/certifications/online-exams-psi#identity-verification-requirements).
 
-Wenn Sie Hilfe benötigen, besuchen Sie bitte das [Microsoft Certification Support Forum](https://aka.ms/mcpforum). Um einen Kundenbetreuer zu erreichen, klicken Sie oben auf der Seite auf *Frage stellen* und füllen Sie das Formular aus. Ein Support-Mitarbeiter sollte innerhalb von 1 Werktag antworten.
+Wenn Sie Hilfe benötigen, besuchen Sie bitte das [Microsoft Certification Support Forum.](https://aka.ms/mcpforum) Um einen Kundenbetreuer zu erreichen, klicken Sie oben auf der Seite auf *Frage stellen* und füllen Sie das Formular aus. Ein Support-Mitarbeiter sollte innerhalb von 1 Werktag antworten.
 
 ## FAQ
 
-Häufig gestellte Fragen und Antworten zu Online-Prüfungen mit PSI finden Sie unter [FAQ auf der Seite Über Online-Prüfungen mit PSI](/learn/certifications/online-exams-psi#frequently-asked-questions). Allgemeine Fragen und Antworten zur Qualifizierungsinitiative finden Sie unter [FAQ zur Qualifizierungsinitiative](https://aka.ms/JobSeekerFAQ).
+Häufig gestellte Fragen und Antworten zu Online-Prüfungen mit PSI finden Sie unter [FAQ auf der Seite Über Online-Prüfungen mit PSI](/learn/certifications/online-exams-psi#frequently-asked-questions). Allgemeine Fragen und Antworten zur Qualifizierungsinitiative finden Sie unter [FAQ zur Qualifizierungsinitiative.](https://aka.ms/JobSeekerFAQ)
 
 ## <a name="terms-conditions"></a> Allgemeine Geschäftsbedingungen
 
-- Dieses Prüfungsangebot steht Arbeitssuchenden zur Verfügung, die nachweisen können, dass sie aufgrund von COVID-19 arbeitslos oder beurlaubt sind.
+- Dieses Prüfungsangebot steht Arbeitssuchenden zur Verfügung, die nachweisen können, dass sie auf Grund von COVID-19 arbeitslos oder freigestellt waren, und Studenten, die aktiv an einer Hochschule, einem College, einer Universität oder bei einem anderen professionellen technischen Ausbildungsprogramm eingeschrieben sind.
 - Sie müssen mindestens 18 Jahre alt sein, um auf dieses Prüfungsangebot zugreifen und es nutzen zu können.
 - Dieses Prüfungsangebot steht für eine begrenzte Anzahl von berechtigten Personen und Prüfungsterminen zur Verfügung.
 - Dieses Prüfungsangebot berechtigt Sie zur Anmeldung und Teilnahme an einer (1) gültigen Microsoft-Zertifizierungsprüfung zu einem zeitlich begrenzten Sonderpreis von USD15. Das Angebot gilt bis zum 31. Dezember 2021.
@@ -75,4 +75,4 @@ Häufig gestellte Fragen und Antworten zu Online-Prüfungen mit PSI finden Sie u
 
 *&#42;Prüfungen müssen 24 Stunden im Voraus geplant werden.Wenn Sie am letzten Tag des Angebots, dem 31. Dezember 2021, eine Prüfung ablegen möchten, müssen Sie den Termin bis zum 30. Dezember 2021 festlegen.*
 
-Weitere Informationen finden Sie in den vollständigen [Microsoft-Nutzungsbedingungen](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx).
+Weitere Informationen finden Sie in den vollständigen [Microsoft-Nutzungsbedingungen.](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx)

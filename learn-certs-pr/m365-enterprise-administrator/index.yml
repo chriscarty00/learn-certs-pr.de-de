@@ -9,7 +9,6 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
   Microsoft 365 Enterprise Administrators bewerten, planen, migrieren, stellen bereit und verwalten Microsoft 365 Services.
   
-  <div><br/><strong>MCSE&#58; Productivity Solutions Expert-Zertifizierung wird am 31. Januar 2021 eingestellt. Es wird bis zum 31. Januar 2022 (ein Jahr nach der Einstellung der Zertifizierung) weiterhin als Voraussetzung für diese Zertifizierung gelten.</strong></div>
 subTitle: Microsoft 365 Enterprise Administrators bewerten, planen, migrieren, stellen bereit und verwalten Microsoft 365 Services.
 levels:
 - advanced
@@ -49,10 +48,10 @@ prerequisites:
 - uid: certification.m365-security-administrator
   isOptional: false
 - uid: certification.m365-messaging-administrator
-  isOptional: false
-- uid: certification.mcse-productivity-certification
-  isOptional: false
+  isOptional: false												   
 - uid: certification.m365-teams-administrator-associate
+  isOptional: false
+- uid: certification.identity-and-access-administrator
   isOptional: false
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUi7
 exams:
@@ -74,4 +73,7 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Teilen Sie Ihre Zertifizierungsabzeichen
+  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+  href: ../badges.md
 

@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: Data Engineering on Microsoft Azure (beta)
+title: Data Engineering on Microsoft Azure
 metadata:
-  title: 'Exam DP-203: Data Engineering on Microsoft Azure (beta)'
-  description: 'Exam DP-203: Data Engineering on Microsoft Azure (beta)'
+  title: 'Exam DP-203: Data Engineering on Microsoft Azure'
+  description: 'Exam DP-203: Data Engineering on Microsoft Azure'
 uid: exam.dp-203
 displayName: DP-203
 summary: |-
@@ -10,7 +10,6 @@ summary: |-
   
   Kandidaten für die Prüfung DP-203&#58; Data Engineering on Microsoft Azure müssen über fundierte Kenntnisse in Datenverarbeitungssprachen wie SQL, Python oder Scala verfügen und die Struktur von Parallelverarbeitung und Datenarchitektur verstehen.
   
-  <div><br/><font color='red'><strong>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Erfahren Sie mehr über den Wert und die Bedeutung von Beta-Prüfungen</a>.</strong></font></div>
 subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Entwerfen und Implementieren von Datenspeicherung; Datenverarbeitung entwerfen und entwickeln; Entwurf und Implementieren von Datensicherheitsmaßnahmen und Überwachung und Optimierung der Datenspeicherung und -verarbeitung.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT
@@ -33,6 +32,8 @@ products:
 - azure-event-hubs
 - azure-data-lake
 - azure-databricks
+courses:
+- uid: course.dp-203t00
 paths:
 - uid: learn.data-ai.azure-for-the-data-engineer
 - uid: learn.store-data-in-azure
@@ -53,10 +54,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxODZ
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md

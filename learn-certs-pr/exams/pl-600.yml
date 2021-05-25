@@ -12,7 +12,7 @@ summary: |-
   
   Lösungsarchitekten verfügen über Erfahrung in verschiedenen funktionalen und technischen Disziplinen der Power Platform. Lösungsarchitekten sollten in der Lage sein, Designentscheidungen in den Bereichen Entwicklung, Konfiguration, Integration, Infrastruktur, Sicherheit, Verfügbarkeit, Speicherung und Änderungsmanagement zu erleichtern. Diese Funktion gleicht die Geschäftsanforderungen eines Projekts aus und erfüllt gleichzeitig funktionale und nicht-funktionale Anforderungen.
   
-  <div><br/><font color='red'><strong>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Erfahren Sie mehr über den Wert und die Bedeutung von Beta-Prüfungen</a>.</strong></font></div>
+  <div><br/><font color='red'><strong>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. <a href="/learn/certifications/beta-exams">Erfahren Sie mehr über den Wert und die Bedeutung von Beta-Prüfungen</a>.</strong></font></div>
 subTitle: "Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Lösungskonzeption und Anforderungsanalyse durchführen, eine Lösung entwickeln und implementieren."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
@@ -45,13 +45,16 @@ products:
 - azure-api-apps
 - azure-app-configuration
 - azure-app-service
+paths:
+- uid: learn-dynamics.become-solution-architect
+- uid: learn-bizapps.solution-architect-design
 relatedCertifications:
 - related:
     uid: certification.power-platform-solution-architect-expert
 resources:
 - title: Informieren Sie sich über die Zertifizierungen
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Dynamics 365 und Power Platform an.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

@@ -6,15 +6,9 @@ metadata:
 uid: exam.az-104
 displayName: AZ-104
 summary: |-
-  <div>
-  <div><strong>Der Inhalt dieser Prüfung wird am 27. Januar 2021 aktualisiert. Bitte laden Sie das unten stehende Dokument zur Kompetenzmessung herunter, um zu sehen, was sich ändern wird.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Der Inhalt dieser Prüfung wird am 25. Mai 2021 aktualisiert. Bitte laden Sie das unten stehende Dokument zur Kompetenzmessung herunter, um zu sehen, was sich ändert.</strong></font><br/><br/></div>
 
   Kandidaten für dieses examens sollten über Fachkenntnisse in der Implementieren, Verwaltung und Überwachung der Microsoft Azure-Umgebung eines Unternehmens verfügen.
-
-  Zu den Aufgaben eines Azure-Administrators gehören das Implementieren, Verwalten und Überwachen von Identitäts-, Governance-, Speicher-, Compute- und virtuellen Netzwerken in einer Cloud-Umgebung sowie die Bereitstellung, Größe, Überwachung und Anpassung von Ressourcen, je nach Bedarf.
-
-  Ein Azure-Administrator ist häufig Teil eines größeren Teams, das sich mit der Implementieren der Cloud-Infrastruktur Ihres Unternehmens befasst.
 
   Ein Kandidat für dieses examens sollte mindestens sechs Monate praktische Erfahrung in der Verwaltung von Azure sowie ein umfassendes Verständnis der wichtigsten Azure-Services, Azure-Workloads, Sicherheit und Governance haben. Darüber hinaus sollte man in dieser Rolle Erfahrung mit PowerShell-, Azure CLI-, Azure Portal- und Azure Resource Manager-Vorlagen haben.
 
@@ -36,11 +30,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Der Inhalt dieser Prüfung wird am 27. Januar 2021 aktualisiert.Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich ändern wird.
+- Der Inhalt dieser Prüfung wird am 25. Mai 2021 aktualisiert.Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich ändert.
 - Verwalten von Azure-Identitäten und -Governance (15-20%)
 - Speicherplatz implementieren und verwalten (10-15%)
-- Bereitstellen und Verwalten von Azure-Rechenressourcen (25-30%)
-- Virtuelle Netzwerke konfigurieren und verwalten (30-35%)
+- Bereitstellen und Verwalten von Azure-Rechenressourcen (20-25%)
+- Virtuelle Netzwerke konfigurieren und verwalten (25-30%)
 - Überwachen und Sichern von Azure-Ressourcen (10-15%)
 roles:
 - administrator
@@ -65,10 +59,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElC
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md

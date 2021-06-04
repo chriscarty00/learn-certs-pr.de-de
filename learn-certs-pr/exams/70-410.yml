@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-410
 displayName: 70-410
 summary: |-
-  <div>
-  <div><strong>Diese Prüfung wird am 31. Januar 2021 um 23&#58;59 Uhr (Ortszeit) eingestellt. Nach diesem Datum können Sie die Prüfung nicht mehr ablegen. Erfahren Sie mehr über <a href='/learn/certifications/retired-certification-exams'>bevorstehende Prüfungseinstellungen</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
 
   Diese Prüfung ist die erste von drei Prüfungen, welche die erforderlichen Fähigkeiten und Kenntnisse zur Implementierung einer zentralen Infrastruktur für Windows Server 2012 in einer bestehenden Unternehmensumgebung testen. Das Bestehen dieser Prüfung bestätigt die Fähigkeit eines Kandidaten, Windows Server 2012 Kerndienste wie Active Directory und die Netzwerkdienste zu implementieren und zu konfigurieren. Das Bestehen dieser Prüfung, zusammen mit den anderen beiden Prüfungen, bestätigt, dass der Kandidat über die erforderlichen Fähigkeiten und Kenntnisse für die Implementierung, Verwaltung, Wartung und Bereitstellung von Diensten und Infrastruktur in einer Windows Server 2012-Umgebung verfügt.
 
@@ -17,7 +15,6 @@ subTitle: Diese Prüfung ist die erste von drei Prüfungen, welche die erforderl
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJk
 practiceTestUrl: https://www.mindhub.com/70-410-Installing-and-Configuring-Windows-Server-p/mu-70-410_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=de-de&examcode=410&examname=Installing%20and%20Configuring%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-410
 locales:
 - en
 - zh-cn
@@ -34,6 +31,7 @@ skills:
 - Bereitstellen und Konfigurieren von Kernnetzwerkdiensten (15-20%)
 - Install and administer Active Directory (15–20%)
 - Erstellen und Verwalten von Gruppenrichtlinien (15-20%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-467
 displayName: 70-467
 summary: |-
-  <div>
-  <div><strong>Diese Prüfung wird am 31. Januar 2021 um 23&#58;59 Uhr (Ortszeit) eingestellt. Nach diesem Datum können Sie die Prüfung nicht mehr ablegen. Erfahren Sie mehr über <a href='/learn/certifications/retired-certification-exams'>bevorstehende Prüfungseinstellungen</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
 
   Diese Prüfung ist für Business-Intelligence (BI)-Architekten gedacht, die für die Gestaltung einer BI-Infrastruktur und die Beziehungen zu anderen verwendeten Datensystemen verantwortlich sind.
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: Diese Prüfung ist für Business-Intelligence (BI)-Architekten gedacht, die für die Gestaltung einer BI-Infrastruktur und die Beziehungen zu anderen verwendeten Datensystemen verantwortlich sind.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXf
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=de-de&examcode=467&examname=Designing%20Business%20Intelligence%20Solutions%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-467
 locales:
 - en
 - zh-cn
@@ -32,6 +29,7 @@ skills:
 - Entwurf einer Berichtslösung (20–25%)
 - BI-Datenmodelle entwerfen (30–35%)
 - Entwurf einer ETL-Lösung (10–15%)
+retirementDate: 01/31/2021
 roles:
 - data-engineer
 products:

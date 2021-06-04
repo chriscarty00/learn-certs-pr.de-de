@@ -8,8 +8,8 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: die Komponenten der Leistungsplattform, sprich Power Apps, Power BI und Microsoft Automate zu beschreiben
-- skill: die Komponenten der Leistungsplattforml, sprich Gemeinsamer Datendienst, Konnektoren und AI-Builder zu beschreiben
+- skill: Beschreiben der Power Platform-Komponenten
+- skill: Beschreiben von Microsoft Dataverse, Connectors und AI Builder
 - skill: Cross-Cloud-Szenarien für M365, Dynamics 365, Microsoft Azure und Dienste von Drittanbietern zu erklären
 - skill: Vorteile und Fähigkeiten der Power Platform zu identifizieren
 - skill: grundlegende Funktionalität und des Geschäftswerts der Power Platform-Komponenten zu identifizieren
@@ -26,7 +26,7 @@ products:
 exams:
 - uid: exam.pl-900
 summary: |-
-  Lernen Sie den Geschäftswert und die Produktfunktionen von Power Platform kennen. Erstellen Sie einfache Power Apps, verbinden Sie Daten mit Common Data Service, erstellen Sie ein Power BI-Dashboard, automatisieren Sie einen Prozess mit Power Automate und erstellen Sie einen Chatbot mit Power Virtual Agents.
+  Erfahren Sie mehr über den Geschäftswert und die Produktfunktionen der Power-Plattform. Erstellen Sie einfache Power Apps, verbinden Sie Daten mit Dataverse, erstellen Sie ein Power BI-Dashboard, automatisieren Sie Prozesse mit Power Automate und erstellen Sie einen Chatbot mit Power Virtual Agents
 
   #### Zielgruppe
   KandidatInnen für diese Prüfung sind AnwenderInnen, die ihre Produktivität durch die Automatisierung von Geschäftsprozessen, die Analyse von Daten zur Gewinnung von Geschäftserkenntnissen und durch die Erstellung einfacher App-Erlebnisse steigern möchten.
@@ -45,21 +45,22 @@ outlineSection: |-
   - die Komponenten und Funktionen von Power Platform zu kennen
 
 
-  ### Modul 2&#58; Einführung in den gemeinsamen Datendienst
-  Der Common Data Service ermöglicht es Ihnen, sich mit leistungsstarken, skalierbaren Datenlösungen in der Cloud zu beschäftigen. Erfahren Sie, wie der Common Data Service funktioniert und wie er mit der Power Platform zusammenarbeitet, um einzigartige und effiziente Geschäftslösungen zu erstellen.
-  #### Einheiten
-  - Überblick über den gemeinsamen Datendienst
-  - Modul-Zusammenfassung
+  ### Modul 2&#58; Einführung in Microsoft Dataverse
+  Mit Dataverse können Sie in leistungsstarke, skalierbare Datenlösungen in der Cloud eintauchen. Erfahren Sie, wie Dataverse funktioniert und wie es mit der Power Platform zusammenarbeitet, um einzigartige und effiziente Geschäftslösungen zu erstellen.
+  #### Lektionen
+  - Microsoft Dataverse-Übersicht
+  - Modulübersicht
 
-  #### Labor &#58; Datenmodellierung
+  #### Lab&#58; Datenmodellierung
   - Lösung erstellen
-  - Entitäten und Beziehungen erstellen
+  - Neue Tabellen erstellen und vorhandene hinzufügen 
+  - Beziehungen erstellen
   - Daten importieren
-
-  Nach Abschluss dieses Moduls sind die TeilnehmerInnen in der Lage,&#58;
-  - den Unterschied zwischen Common Data Service und Common Data Model zu beschreiben
-  - Anwendungsfälle und Einschränkungen von Geschäftsregeln und Prozessabläufen zu erklären
-  - zu erklären, welche Umgebungen, Entitäten, Felder und Beziehungen im gemeinsamen Datendienst enthalten sind
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - den Unterschied zwischen Dataverse und Common Data Model zu beschreiben
+  - Anwendungsfälle und Einschränkungen bei Geschäftsregeln und Prozessabläufen zu erläutern 
+  - zu erklären, welche Umgebungen, Tabellen, Spalten und Beziehungen sich in Dataverse befinden
 
 
   ### Modul 3&#58; Erste Schritte mit Power Apps
@@ -98,7 +99,7 @@ outlineSection: |-
   - Überblick über Power Automate
   - Wie man eine automatisierte Lösung erstellt
 
-  #### Labor &#58; Power Automate
+  #### Lab &#58; Power Automate
   - Visit-Notification-Flow erstellen
   - Sicherheits-Sweep-Flow erstellen
 
@@ -121,7 +122,7 @@ outlineSection: |-
   Nach Abschluss dieses Moduls sind die TeilnehmerInnen in der Lage,&#58;
   - zu sehen, wie Power BI aus der Sicht des Anwenders funktioniert und aussieht
   - zu wissen, wie man ein einfaches Power BI-Dashboard erstellt
-  -  den Geschäftswert und die Merkmale von Power BI zu kennen und beschreiben zu können
+  - den Geschäftswert und die Merkmale von Power BI zu kennen und beschreiben zu können
 
   ### Modul 6&#58; Einführung in Power Virtual Agents
   Informieren Sie sich über den Wert und die Fähigkeiten von Power Virtual Agents und darüber, wie Unternehmen diese Technologie nutzen können, um Chatbot-Lösungen für ihr Unternehmen zu entwickeln.
@@ -132,8 +133,8 @@ outlineSection: |-
   #### Lab &#58; Wie man einen einfachen Chatbot programmiert
   - Melden Sie sich für PVA an und erstellen Sie einen neuen Bot
   - Themen erstellen
-  - Test-Themen
-  - Ändern der Begrüßung
+  - Themen testen
+  - Die Begrüßung ändern
   - Den Bot veröffentlichen
 
   Nach Abschluss dieses Moduls sind die TeilnehmerInnen in der Lage,&#58;

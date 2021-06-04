@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-464
 displayName: 70-464
 summary: |-
-  <div>
-  <div><strong>Diese Prüfung wird am 31. Januar 2021 um 23&#58;59 Uhr (Ortszeit) eingestellt. Nach diesem Datum können Sie die Prüfung nicht mehr ablegen. Erfahren Sie mehr über <a href='/learn/certifications/retired-certification-exams'>bevorstehende Prüfungseinstellungen</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
 
   Diese Prüfung ist für Datenbankexperten bestimmt, die Datenbanken entwickeln und unternehmensweit implementieren und die eine hohe Datenverfügbarkeit sicherstellen. Ihre Aufgaben umfassen&#58; Erstellung von Datenbankdateien, Datentypen und Tabellen; Planen, Erstellen und Optimieren von Indizes; Gewährleistung der Datenintegrität; Implementierung von Ansichten, gespeicherten Prozeduren und Funktionen; Verwaltung von Transaktionen und Sperren.
 
@@ -17,7 +15,6 @@ subTitle: 'Diese Prüfung ist für Datenbankexperten bestimmt, die Datenbanken e
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkI
 practiceTestUrl: https://www.mindhub.com/70-464-developing-microsoft-sql-server-databases/p/MU-70-464?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=de-de&examcode=464&examname=Developing%20Microsoft%20SQL%20Server%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-464
 locales:
 - en
 - zh-cn
@@ -32,6 +29,7 @@ skills:
 - Programmierobjekte implementieren (15-20%)
 - Entwerfen von Datenbankobjekten (25–30%)
 - Optimierung und Fehlerbehebung bei Abfragen (25–30%)
+retirementDate: 01/31/2021
 roles:
 - data-engineer
 products:

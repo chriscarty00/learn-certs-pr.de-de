@@ -1,0 +1,275 @@
+### YamlMime:Course
+title: Microsoft Security Operations Analyst
+metadata:
+  title: 'Course SC-200T00-A: Microsoft Security Operations Analyst'
+  description: 'Course SC-200T00-A: Microsoft Security Operations Analyst'
+uid: course.sc-200t00
+courseNumber: 'SC-200T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Erläutern Sie, wie Microsoft Defender for Endpoint Risiken in Ihrer Umgebung beheben kann
+- skill: Erstellen Sie eine Microsoft Defender for Endpoint-Umgebung 
+- skill: Konfigurieren Sie die Regeln zur Reduzierung der Angriffsfläche auf Windows 10-Geräten
+- skill: Führen Sie Aktionen auf einem Gerät mit Microsoft Defender for Endpoint aus
+- skill: Untersuchen Sie Domain- und IP-Adressen in Microsoft Defender for Endpoint
+- skill: Untersuchen Sie Benutzerkonten in Microsoft Defender for Endpoint
+- skill: Konfigurieren Sie Warnungseinstellungen in Microsoft Defender for Endpoint
+- skill: Erklären Sie, wie sich die Bedrohungslandschaft entwickelt
+- skill: Führen Sie die erweiterte Jagd in Microsoft 365 Defender durch
+- skill: Verwalten von Vorfällen in Microsoft 365 Defender
+- skill: Erläutern Sie, wie Microsoft Defender for Identity Risiken in Ihrer Umgebung beheben kann.
+- skill: Untersuchen Sie DLP-Warnungen in Microsoft Cloud App Security
+- skill: Erläutern Sie die Arten von Maßnahmen, die Sie in einem Insider-Risikomanagement-Fall ergreifen können.
+- skill: Konfigurieren Sie die automatische Bereitstellung in Azure Defender
+- skill: Korrigieren Sie Alarme in Azure Defender
+- skill: Konstruieren Sie KQL-Anweisungen
+- skill: Filtern Sie Suchvorgänge, basierend auf Ereigniszeit, Schweregrad, Domain und anderen relevanten Daten mit Hilfe von KQL
+- skill: Extrahieren Sie Daten aus unstrukturierten Zeichenfolgenfeldern mit KQL
+- skill: Verwalten eines Azure Sentinel-Arbeitsbereichs 
+- skill: Verwenden Sie KQL, um auf die Überwachungsliste in Azure Sentinel zuzugreifen
+- skill: Verwalten von Bedrohungsindikatoren in Azure Sentinel
+- skill: Erläutern Sie die Unterschiede zwischen dem allgemeinen Ereignisformat und dem Syslog-Connector in Azure Sentinel
+- skill: Verbinden Sie virtuelle Azure Windows-Maschinen mit Azure Sentinel
+- skill: Konfigurieren Sie den Log Analytics-Agenten so, dass Sysmon-Ereignisse erfasst werden
+- skill: Erstellen Sie mit dem Assistenten für Analyseregeln neue Analyseregeln und -abfragen
+- skill: Erstellen Sie ein Playbook, um eine Reaktion auf Vorfälle zu automatisieren
+- skill: Verwenden Sie Abfragen, um nach Bedrohungen zu suchen
+- skill: Bedrohungen über die Zeit mit Livestream zu beobachten
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- security-engineer
+- security-operations-analyst
+products:
+- azure
+- azure-sentinel
+- m365-threat-protection
+exams:
+- uid: exam.sc-200
+summary: |-
+  Erfahren Sie, wie man mit Microsoft Azure Sentinel, Azure Defender und Microsoft 365 Defender nach Bedrohungen sucht, darauf reagiert und nach ihnen sucht.In diesem Kurs lernen Sie, wie man Cyber-Bedrohungen mit Hilfe dieser Technologien verringern kann. Insbesondere konfigurieren und verwenden Sie Azure Sentinel sowie Kusto Query Language (KQL), um Erkennung, Analyse und Berichterstellung durchzuführen. Der Kurs richtet sich an Personen, die in einer Sicherheitsfunktion für Sicherheitsunternehmen arbeiten, und hilft Teilnehmern, sich auf die Prüfung SC-200 vorzubereiten&#58; Microsoft Security Operations Analyst.
+
+  #### Zielgruppenprofil
+  Der Microsoft Security Operations Analyst arbeitet mit Stakeholdern des Unternehmens zusammen, um Informationstechnologiesysteme für das Unternehmen zu sichern.Ihr Ziel ist es, das organisatorische Risiko zu reduzieren, indem aktive Angriffe in der Umgebung schnell behoben, Verbesserungen der Bedrohungsschutzpraktiken empfohlen und Verstöße gegen organisatorische Richtlinien an geeignete Interessenvertreter weitergeleitet werden.Zu den Aufgaben gehören das Bedrohungsmanagement, die Überwachung und die Reaktion mit Hilfe einer Vielzahl von Sicherheitslösungen in der gesamten Umgebung. Die Rolle untersucht, reagiert und sucht in erster Linie nach Bedrohungen beim Umgang mit Microsoft Azure Sentinel, Azure Defender, Microsoft 365 Defender und Sicherheitsprodukten von Drittanbietern.Da der Analyst für Sicherheitsoperationen die Betriebsleistung dieser Tools nutzt, ist er auch ein wichtiger Interessenvertreter bei der Konfiguration und Bereitstellung dieser Technologien.
+prerequisitesSection: |-
+  - Grundlegendes Verständnis von Microsoft 365
+  - Grundlegendes Verständnis der Microsoft-Produkte für Sicherheit, Compliance und Identität
+  - Fortgeschrittenes Verständnis von Windows 10
+  - Vertraut sein mit Azure-Services, insbesondere Azure SQL-Datenbank und Azure-Speicher
+  - Vertraut sein mit virtuellen Azure-Maschinen und virtuellen Netzwerken
+  - Grundlegendes Verständnis von Skriptkonzepten.
+outlineSection: |-
+  ### Modul 1&#58; Reduzieren von Bedrohungen mit Microsoft Defender for Endpoint
+  Implementieren Sie die Microsoft Defender for Endpoint-Plattform, um erweiterte Bedrohungen zu erkennen, zu untersuchen und darauf zu reagieren. Erfahren Sie, wie Microsoft Defender for Endpoint Ihrem Unternehmen dabei helfen kann, sicher zu bleiben. Erfahren Sie, wie man die Microsoft Defenderfor Endpoint-Umgebung bereitstellt, einschließlich Integration von Geräten und Konfiguration der Sicherheit. Erfahren Sie, wie man Vorfälle und Warnungen mit Microsoft Defender for Endpoints untersucht.Führen Sie fortgeschrittene Jagd durch und konsultieren Sie Bedrohungsexperten. Außerdem erfahren Sie, wie man Automatisierung in Microsoft Defender for Endpoint konfiguriert, indem man Umgebungseinstellungen verwaltet. Zuletzt lernen Sie die Schwachstellen Ihrer Umgebung kennen, indem Sie das Bedrohungs- und Schwachstellenmanagement in Microsoft Defender for Endpoint verwenden.
+  #### Lektionen
+  - Schutz vor Bedrohungen mit Microsoft Defender für Endpoint
+  - Bereitstellen der Microsoft Defender für Endpoint Umgebung
+  - Implementieren von Windows 10 Sicherheitsverbesserungen mit Microsoft Defender for Endpoint
+  - Verwalten von Warnungen und Ereignissen in Microsoft Defender for Endpoint
+  - Durchführen von Geräteprüfungen in Microsoft Defender for Endpoint
+  - Auf einem Gerät Aktionen durchführen mit Microsoft Defender for Endpoint
+  - Beweis und Entitätenuntersuchungen mit Microsoft Defender for Endpoint
+  - Automatisierung konfigurieren und verwalten mit Microsoft Defender for Endpoint
+  - Warnungen und Detektion konfigurieren in Microsoft Defender for Endpoint
+  - Verwenden des Bedrohungs- und Anfälligkeitsmanagements in Microsoft Defender for Endpoint
+
+  #### Lab &#58; Bedrohungen minimieren mit Microsoft Defender for Endpoint
+  - Bereitstellen von Microsoft Defender for Endpoint
+  - Angriffe begrenzen mit Defender für Endpoint
+  
+  Nach Abschluss des Moduls sind die Teilnehmer in der Lage&#58;
+  - die Fähigkeiten von Microsoft Defender for Endpoint zu definieren
+  - Umgebungseinstellungen für Microsoft Defender for Endpoint zu konfigurieren
+  - Regeln zur Reduzierung der Angriffsfläche auf Windows 10 Geräten zu konfigurieren
+  - Warnungen in Microsoft Defender for Endpoint
+  - Forensische Geräteinformationen beschreiben, die erfasst wurde von Microsoft Defender for Endpoint zu untersuchen
+  - Forensische Geräteinformationen zu beschreiben, die von Microsoft Defender for Endpoint erfasst wurden
+  - Forensische Daten mit Hilfe von Microsoft Defender for Endpoint zu sammeln
+  - Automatisierungseinstellungen in Microsoft Defender for Endpoint zu verwalten 
+  - Indikatoren in Microsoft Defender for Endpoint zu verwalten
+  - Bedrohungs- und Anfälligkeitsmanagement in Microsoft Defender for Endpoint zu beschreiben
+  
+  
+  ### Modul 2&#58; Bedrohungen minimieren mit Microsoft 365 Defender
+  Analyse von Bedrohungsdaten, domainübergreifend, und schnell Bedrohungen beseitigen mit integrierter Orchestrierung und Automatisierung unter Microsoft 365 Defender. Erfahren Sie mehr über Cybersicherheitsbedrohungen und wie die neuen Bedrohungsschutz-Tools von Microsoft Benutzer, Geräte und Daten Ihres Unternehmens schützen. Verwenden Sie die erweiterte Erkennung und Behebung identitätsbasierter Bedrohungen, um Ihre Azure Active Directory-Identitäten und -Anwendungen vor Gefährdung zu schützen.
+  #### Lektionen
+  - Einführung in den Bedrohungsschutz mit Microsoft 365
+  - Verringern von Vorfällen mit Microsoft 365
+  - Identitäten mit Azure AD Identity Protection schützen
+  - Risiken mit Microsoft Defender für Office 365 beheben
+  - Schützen Ihrer Umgebung mit Microsoft Defender for Identity
+  - Sichern Ihrer Cloud-Apps und -Services mit Microsoft Cloud App Security
+  - Mit Microsoft 365 auf Warnungen zur Verhinderung von Datenverlust reagieren
+  - Verwalten des Insider-Risikos in Microsoft 365
+    
+  #### Lab&#58; Reduzieren Sie Bedrohungen mit Microsoft 365 Defender
+  - Mildern Sie Angriffe mit Microsoft 365 Defender
+    
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - zu erklären, wie sich die Bedrohungslandschaft entwickelt.
+  - Vorfälle in Microsoft 365 Defender zu verwalten
+  - in Microsoft 365 Defender eine erweiterte Jagd durchzuführen
+  - die Untersuchungs- und Korrekturfunktionen von Azure Active Directory Identity Protection zu beschreiben.
+  - die Funktionen von Microsoft Defender for Endpoint zu definieren.
+  - zu erläutern, wie Microsoft Defender for Endpoint Risiken in Ihrer Umgebung beheben kann.
+  - das Cloud App Sicherheits-Framework zu definieren 
+  - zu erklären, wie man mit Cloud Discovery sehen kann, was in Ihrem Unternehmen vor sich geht
+  
+  
+  ### Modul 3&#58; Reduzieren von Bedrohungen mit Azure Defender
+  Verwenden Sie Azure Defender, das in Azure Security Center integriert ist, für Azure, Hybrid Cloud und lokalen Workload-Schutz und -Sicherheit. Erfahren Sie mehr über den Zweck von Azure Defender, die Beziehung von Azure Defender zum Azure Security Center und wie man Azure Defender aktiviert. Außerdem erfahren Sie mehr über die Schutz- und Erkennungsfunktionen von Azure Defender für jede Cloud-Workload. Erfahren Sie, wie Sie Ihrer Hybridumgebung Azure Defender-Funktionen hinzufügen können.
+  #### Lektionen
+  - Den Schutz der Cloud-Workload in Azure Defender planen
+  - Erläutern Sie die Cloud-Workload-Schutzvorkehrungen in Azure Defender
+  - Azure-Assets mit Azure Defender verbinden 
+  - Nicht-Azure-Ressourcen mit Azure Defender verbinden
+  - Korrigieren von Sicherheitswarnungen mit Azure Defender
+    
+  #### Lab&#58; Reduzieren von Bedrohungen mit Azure Defender
+  - Azure Defender bereitstellen
+  - Angriffe mit Azure Defender verringern
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - die Azure Defender-Funktionen zu beschreiben
+  - Azure Security Center-Funktionen zu erläutern
+  - zu erläutern, welche Workloads von Azure Defender geschützt werden
+  - zu erläutern, wie der Azure Defender-Schutz funktioniert 
+  - die automatische Bereitstellung in Azure Defender bereitzustellen 
+  - die manuelle Bereitstellung in Azure Defender zu beschreiben
+  - Nicht-Azure-Computer mit Azure Defender zu verbinden
+  - Alarme in Azure Defender zu beschreiben
+  - Alarme in Azure Defender zu korrigieren
+  - Antworten in Azure Defender zu automatisieren
+  
+  
+  ### Modul 4&#58; Erstellen von Abfragen für Azure Sentinel mit Kusto Query Language (KQL)
+  Schreiben Sie KQL-Anweisungen (Kusto Query Language), um Protokolldaten abzufragen und Erkennungen, Analysen und Berichte in Azure Sentinel durchzuführen.Dieses Modul konzentriert sich auf die am häufigsten verwendeten Betreiber. Die  Beispiel-KQL-Anweisungen zeigen sicherheitsrelevante Tabellenabfragen. KQL ist die Abfragesprache, mit der Daten analysiert werden, um Analysen und Arbeitsmappen zu erstellen und die Jagd in Azure Sentinel durchzuführen. Erfahren Sie, wie die grundlegende  Struktur von KQL-Anweisungen die Grundlage für die Erstellung komplexerer Anweisungen bildet. Erfahren Sie, wie man Daten mit einer KQL-Anweisung zusammenfasst und visualisiert. Dies ist die Grundlage für die Erstellung von Erkennungen in Azure Sentinel. Erfahren Sie, wie man die Kusto Query Language (KQL)verwendet, um aus Protokollquellen aufgenommene Zeichenfolgendaten zu bearbeiten.
+  #### Lektionen
+  - Erstellen von KQL-Anweisungen für Azure Sentinel
+  - Analysieren der Abfrageergebnisse mit KQL
+  - Erstellen von Anweisungen mit mehreren Tabellen unter Verwendung von KQL
+  - Arbeiten mit Daten in Azure Sentinel mit Hilfe der Kusto Query Sprache
+    
+  #### Lab&#58; Erstellen von Abfragen für Azure Sentinel mit Kusto Query Language (KQL). 
+  - Erstellen der grundlegenden KQL-Anweisungen
+  - Analysieren der Abfrageergebnisse mit KQL
+  - Erstellen von Anweisungen mit mehreren Tabellen mit Hilfe von KQL
+  - Arbeiten mit String-Daten mit Hilfe von KQL-Anweisungen 
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - KQL-Anweisungen zu konstruieren
+  - Protokolldateien mit KQL nach Sicherheitsereignissen zu durchsuchen
+  - Suchvorgänge zu filtern, basierend auf Ereigniszeit, Schweregrad, Domain und anderen relevanten Daten mit Hilfe von KQL
+  - Daten mit KQL-Anweisungen zusammenzufassen 
+  - Visualisierungen mit KQL-Anweisungen zu rendern
+  - Daten aus unstrukturierten Zeichenfolgenfeldern mit KQL zu extrahieren
+  - Daten aus strukturierten Zeichenfolgendaten mit KQL zu extrahieren
+  - Funktionen mit KQL zu erstellen
+    
+    
+  ### Modul 5&#58; Konfigurieren Ihrer Azure Sentinel-Umgebung
+  Beginnen Sie mit Azure Sentinel, indem Sie den Azure Sentinel-Arbeitsbereich ordnungsgemäß konfigurieren. Die Einrichtung und Konfiguration herkömmlicher SIEM-Systeme (Security Information and Event Management) dauert in der Regel sehr lange. Sie sind auch nicht unbedingt für Cloud-Workloads konzipiert. Mit Azure Sentinel können Sie schnell wertvolle Sicherheitsinformationen aus Ihrer Cloud und von lokalen Daten abrufen.Dieses Modul hilft Ihnen beim Einstieg. Erfahren Sie mehr über die Architektur von Azure Sentinel-Arbeitsbereichen, um sicherzustellen, dass Sie Ihr System so konfigurieren, dass es die Sicherheitsanforderungen Ihres Unternehmens erfüllt.Als Security Operations Analyst müssen Sie die in Ihrem Arbeitsbereich aufgenommenen Tabellen, Felder und Daten verstehen. Erfahren Sie, wie man die am häufigsten verwendeten Datentabellen in Azure Sentinel abfragt.
+  #### Lektionen
+  - Einführung in Azure Sentinel
+  - Erstellen und Verwalten von Azure Sentinel-Arbeitsbereichen
+  - Abfrageprotokolle in Azure Sentinel
+  - Überwachungslisten in Azure Sentinel verwenden
+  - Bedrohungsinformationen in Azure Sentinel verwenden
+    
+  #### Lab&#58; Konfigurieren Ihrer Azure Sentinel-Umgebung
+  - Erstellen eines Azure Sentinel-Arbeitsbereichs
+  - Erstellen einer Beobachtungsliste
+  - Erstellen eines Bedrohungsindikator 
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - die verschiedenen Komponenten und Funktionen von Azure Sentinel zu identifizieren.
+  - Anwendungsfälle zu identifizieren, für die Azure Sentinel eine gute Lösung wäre.
+  - Beschreiben der Azure Sentinel-Arbeitsbereichsarchitektur
+  - AzureSentinel-Arbeitsbereich installieren
+  - Verwalten eines Azure Sentinel-Arbeitsbereichs
+  - Erstellen einer Überwachungsliste in Azure Sentinel
+  - Verwenden von KQL, um auf die Überwachungsliste in Azure Sentinel zuzugreifen
+  - Verwalten von Bedrohungsindikatoren in Azure Sentinel
+  - Verwenden von KQL, um auf Bedrohungsindikatoren in Azure Sentinel zuzugreifen
+    
+    
+  ### Modul 6&#58; Protokolle mit Azure Sentinel verbinden
+  Verbinden Sie Daten im Cloud-Maßstab mit allen Benutzern, Geräten, Anwendungen und Infrastrukturen, mit Azure Sentinel, sowohl lokal als auch in mehreren Clouds. Der primäre Ansatz zum Verbinden von Protokolldaten ist die Verwendung der von Azure Sentinel bereitgestellten Datenanschlüsse.Dieses Modul bietet einen Überblick über die verfügbaren Datenanschlüsse. Sie erfahren mehr über die Konfigurationsoptionen und Daten, die von Azure Sentinel- Datenanschlüssen für Microsoft 365 Defender bereitgestellt werden.
+  #### Lektionen
+  - Daten über Datenanschlüsse mit Azure Sentinel verbinden
+  - Microsoft-Services mit Azure Sentinel verbinden
+  - Microsoft 365 Defender mit Azure Sentinel verbinden
+  - Windows-Hosts mit Azure Sentinel verbinden
+  - Protokolle im allgemeinen Ereignisformat mit Azure Sentinel verbinden
+  - Syslog-Datenquellen mit Azure Sentinel verbinden
+  - Bedrohungsindikatoren mit Azure Sentinel verbinden
+    
+  #### Lab&#58; Protokolle mit Azure Sentinel verbinden
+  - Microsoft-Services mit Azure Sentinel verbinden
+  - Windows-Hosts mit Azure Sentinel verbinden
+  - Linux-Hosts mit Azure Sentinel verbinden
+  - Threat Intelligence mit Azure Sentinel verbinden
+   
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - die Verwendung von Datenanschlüssen in Azure Sentinel zu erläutern
+  - die Unterschiede zwischen dem allgemeinen Ereignisformat und dem Syslog-Anschluss in Azure Sentinel zu erläutern
+  - Microsoft Service Anschlüsse zu verbinden 
+  - zu erläutern, wie Anschlüsse Vorfälle in Azure Sentinel automatisch erstellen
+  - den Microsoft 365 Defender-Anschluss in Azure Sentinel zu aktivieren
+  - virtuelle Azure Windows-Maschinen mit Azure Sentinel zu verbinden
+  - Nicht-Azure-Windows-Hosts mit Azure Sentinel verbinden
+  - den Log Analytics-Agenten so zu verbinden, dass Sysmon-Ereignisse erfasst werden
+  - die Bereitstellungsoptionen für den Anschluss für das allgemeine Ereignisformat in Azure Sentinel zu erläutern
+  - den TAXII-Anschluss in Azure Sentinel konfigurieren
+  - Bedrohungsindikatoren in Azure Sentinel anzeigen
+    
+    
+  ### Modul 7&#58; Erkennungen erstellen und Untersuchungen
+  mit Azure Sentinel durchführen Erkennen Sie zuvor aufgedeckte Bedrohungen und beheben Sie Bedrohungen schnell durch integrierte Orchestrierung und Automatisierung in Azure Sentinel. Sie erfahren, wie man Azure Sentinel-Playbooks erstellt, um auf Sicherheitsbedrohungen zu reagieren. Sie untersuchen Verwaltung von Azure Sentinel-Vorfällen, erfahren mehr über Azure Sentinel-Ereignisse und -Entitäten und finden Möglichkeiten zur Lösung von Vorfällen. Außerdem erfahren Sie, wie man Daten in Azure Sentinel abfragt, visualisiert und überwacht.
+  #### Lektionen
+  - Bedrohungserkennung mit Azure Sentinel Analytics
+  - Bedrohungsreaktion mit Azure Sentinel-Playbooks
+  - Verwaltung von Sicherheitsvorfällen in Azure Sentinel
+  - Analyse des Entitätsverhaltens in Azure Sentinel verwenden
+  - Abfragen, Visualisieren und Überwachen von Daten in Azure Sentinel
+    
+  #### Lab&#58; Erstellen Sie Erkennungen und führen Untersuchungen mit Azure Sentinel durch
+  - Erstellen analytischer Regeln
+  - Modellangriffe zum Definieren der Regellogik
+  - Abschwächen von Angriffen mit Hilfe von Azure Sentinel
+  - Erstellen von Arbeitsmappen in Azure Sentinel
+    
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - die Bedeutung von Azure Sentinel Analytics zu erläutern.
+  - Regeln aus Vorlagen zu erstellen.
+  - Regeln mit Änderungen zu verwalten.
+  - Azure Sentinel SOAR-Funktionen zu erläutern.
+  - ein Playbook zu erstellen, um eine Reaktion auf Vorfälle zu automatisieren.
+  - eine Vorfalllösung zu untersuchen und zu verwalten.
+  - die Analyse des Benutzer- und Entitätsverhaltens in Azure Sentinel zu erläutern
+  - Entitäten in Azure Sentinel zu untersuchen
+  - Sicherheitsdaten mit Hilfe von Azure Sentinel-Arbeitsmappen zu visualisieren.
+    
+    
+  ### Modul 8&#58; Führen Sie die Bedrohungssuche in Azure Sentinel durch
+  In diesem Modul lernen Sie, das Bedrohungsverhalten mit Hilfe von Azure Sentinel-Abfragen proaktiv zu identifizieren.Sie werden auch lernen, Lesezeichen und Livestream zu verwenden, um Bedrohungen zu suchen. Außerdem erfahren Sie, wie man Notebooks in Azure Sentinel für die erweiterte Suche verwendet.
+  #### Lektionen
+  - Bedrohungsjagd mit Azure SentineL
+  - Suchen Sie mit Hilfe von Notizbüchern in Azure Sentinel nach Bedrohungen
+  
+  
+  #### Lab&#58; Bedrohungssuche in Azure Sentinel
+  - Bedrohungssuche in Azure Sentinel
+  - Bedrohungssuche mit Hilfe von Notizbüchern 
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Bedrohungssuchkonzepte zur Verwendung mit Azure Sentinel zu beschreiben
+  - eine Bedrohungssuchhypothese zur Verwendung in Azure Sentinel zu definieren
+  - Abfragen zu verwenden, um nach Bedrohungen zu suchen.
+  - Bedrohungen über die Zeit mit Livestream zu beobachten.
+  - API-Bibliotheken für die erweiterte Bedrohungssuche in Azure Sentinel zu durchsuchenl
+  - Notizbücher in Azure Sentinel zu erstellen und verwenden.

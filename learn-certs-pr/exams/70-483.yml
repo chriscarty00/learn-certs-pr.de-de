@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-483
 displayName: 70-483
 summary: |+
-  <div>
-  <div><strong>Diese Prüfung wird am 31. Januar 2021 um 23&#58;59 Uhr (Ortszeit) eingestellt. Nach diesem Datum können Sie die Prüfung nicht mehr ablegen. Erfahren Sie mehr über <a href='/learn/certifications/retired-certification-exams'>bevorstehende Prüfungseinstellungen</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
 
   Kandidaten für diese Prüfung sind Entwickler mit mindestens einem Jahr Erfahrung in der Programmierung essentieller Geschäftslogik für eine Vielzahl von Anwendungstypen, Hardware- und Softwareplattformen unter Verwendung von C#.
 
@@ -27,7 +25,6 @@ subTitle: Kandidaten für diese Prüfung sind Entwickler mit mindestens einem Ja
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMh
 practiceTestUrl: https://www.mindhub.com/70-483-Programming-in-C-p/mu-70-483_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=de-de&examcode=483&examname=Programming%20in%20C%23&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-483
 locales:
 - en
 - zh-cn
@@ -43,6 +40,7 @@ skills:
 - Typen erstellen und verwenden (25-30%)
 - Debuggen von Anwendungen und Implementieren von Sicherheit (25-30%)
 - Datenzugriff implementieren (25-30%)
+retirementDate: 01/31/2021
 roles:
 - developer
 products:

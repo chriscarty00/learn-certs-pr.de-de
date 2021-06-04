@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-745
 displayName: 70-745
 summary: |-
-  <div>
-  <div><strong>Diese Prüfung wird am 31. Januar 2021 um 23&#58;59 Uhr (Ortszeit) eingestellt. Nach diesem Datum können Sie die Prüfung nicht mehr ablegen. Erfahren Sie mehr über <a href='/learn/certifications/retired-certification-exams'>bevorstehende Prüfungseinstellungen</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
 
   Kandidaten für diese Prüfung sind IT-Experten, die für die Implementierung eines softwaredefinierten Datencenters (SDDC) mit Windows Server 2016 und Microsoft System Center 2016 Virtual Machine Manager (SCVMM) verantwortlich sind.
 
@@ -18,7 +16,6 @@ summary: |-
 subTitle: Kandidaten für diese Prüfung sind IT-Experten, die für die Implementierung eines softwaredefinierten Datencenters (SDDC) mit Windows Server 2016 und Microsoft System Center 2016 Virtual Machine Manager (SCVMM) verantwortlich sind.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1k
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=de-de&examcode=745&examname=Implementing%20a%20Software-Defined%20Datacenter&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-745
 locales:
 - en
 levels:
@@ -30,6 +27,7 @@ skills:
 - Implementieren von Datacenter Compute-Lösungen mit dem Virtual Machine Manager (VMM)
 - Sichern Sie Ihre Software-Definierten Datencenter
 - Überwachen und Verwalten des Software-Definierten Datencenters
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

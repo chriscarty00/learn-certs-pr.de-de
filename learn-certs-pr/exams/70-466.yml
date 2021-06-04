@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-466
 displayName: 70-466
 summary: |-
-  <div>
-  <div><strong>Diese Prüfung wird am 31. Januar 2021 um 23&#58;59 Uhr (Ortszeit) eingestellt. Nach diesem Datum können Sie die Prüfung nicht mehr ablegen. Erfahren Sie mehr über <a href='/learn/certifications/retired-certification-exams'>bevorstehende Prüfungseinstellungen</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
 
   Diese Prüfung ist für Business-Intelligence (BI)-Entwickler gedacht, mit Schwerpunkt auf der Erstellung von BI-Lösungen, für die mehrdimensionale Datenmodelle implementiert, OLAP-Cubes implementiert und verwaltet sowie Informationsanzeigen für die geschäftliche Entscheidungsfindung erstellt werden müssen.
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: Diese Prüfung ist für Business-Intelligence (BI)-Entwickler gedacht, mit Schwerpunkt auf der Erstellung von BI-Lösungen, für die mehrdimensionale Datenmodelle implementiert, OLAP-Cubes implementiert und verwaltet sowie Informationsanzeigen für die geschäftliche Entscheidungsfindung erstellt werden müssen.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkJ
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=de-de&examcode=466&examname=Implementing%20Data%20Models%20and%20Reports%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-466
 locales:
 - en
 - zh-cn
@@ -31,6 +28,7 @@ skills:
 - Verwaltung, Wartung und Fehlerbehebung einer SQL Server Analysis Services (SSAS)-Datenbank (15-20%)
 - Aufbau eines tabellarischen Datenmodells (15-20%)
 - Erstellen eines Berichts mit SQL Server Reporting Services (SSRS) (25-30%)
+retirementDate: 01/31/2021
 roles:
 - data-engineer
 products:

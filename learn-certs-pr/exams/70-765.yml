@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-765
 displayName: 70-765
 summary: |-
-  <div>
-  <div><strong>Diese Prüfung wird am 31. Januar 2021 um 23&#58;59 Uhr (Ortszeit) eingestellt. Nach diesem Datum können Sie die Prüfung nicht mehr ablegen. Erfahren Sie mehr über <a href='/learn/certifications/retired-certification-exams'>bevorstehende Prüfungseinstellungen</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
 
   Diese Prüfung richtet sich an Architekten, Senior-Entwickler, Infrastrukturspezialisten und Entwicklungsführungen. Die Kandidaten verfügen über Grundkenntnisse der verschiedenen Clouddienstmodelle und Dienstmodellarchitekturen, Datenspeicherungsoptionen und Techniken zur Datensynchronisierung. Die Kandidaten verfügen außerdem über Grundkenntnisse der Bereitstellungsmodelle, Datenbank-Upgrades und -Migrationen sowie Anwendungen und Dienste und zusätzlich der Integration von Azure-Anwendung mit externen Ressourcen.
 
@@ -17,7 +15,6 @@ subTitle: Diese Prüfung richtet sich an Architekten, Senior-Entwickler, Infrast
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7mn
 practiceTestUrl: https://www.mindhub.com/70-765-Provisioning-SQL-Databases-p/mu-70-765_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=de-de&examcode=765&examname=Provisioning%20SQL%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-765
 locales:
 - en
 levels:
@@ -26,6 +23,7 @@ skills:
 - SQL in Azure implementieren (40-45%)
 - Datenbanken und Instanzen verwalten (30-35%)
 - Verwalten von Speicherplatz (30-35%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

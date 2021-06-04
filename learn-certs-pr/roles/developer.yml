@@ -21,37 +21,37 @@ certificationPaths:
     - intermediate 
 - title: Dynamics 365 Finance and Operations Apps Developer
   linkedInKeywords: Dynamics 365 Finance and Operations Apps Developer
-  uid: certification.d365-finance-and-operations-apps-developer-associate
+  uid: certification-path.d365-finance-and-operations-apps-developer-associate
   prerequisites: 
   - uid: certification.d365-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.d365-finance-and-operations-apps-developer-associate
     levels:
-    - intermediate 
+    - intermediate
 - title: Microsoft 365 Developer
   linkedInKeywords: Microsoft 365 Developer
-  uid: certification.m365-developer-associate
-  prerequisites: 
+  uid: certification-path.m365-developer-associate
+  prerequisites:
   - uid: certification.microsoft-365-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.m365-developer-associate
     levels:
-    - intermediate 
-- title: Power Apps + Dynamics 365 Developer
-  linkedInKeywords: Power Apps + Dynamics 365 Developer
-  uid: certification.power-apps-and-d365-developer-associate
-  prerequisites: 
+    - intermediate
+- title: Power Platform Developer
+  linkedInKeywords: Power Platform Developer
+  uid: certification-path.power-platform-developer-associate
+  prerequisites:
   - uid: certification.power-platform-fundamentals
     isOptional: true
     levels:
-    - beginner 
-  - uid: certification.power-apps-and-d365-developer-associate
+    - beginner
+  - uid: certification.power-platform-developer-associate
     levels:
-    - intermediate 
+    - intermediate
 certifications:
 - uid: certification.azure-developer
   requiredExams:
@@ -72,10 +72,10 @@ certifications:
 resources:
 - title: Microsoft Leitfaden für Schulungen und Zertifizierungen
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster für Schulungen und Zertifizierungen
   description: Wählen Sie mit diesem Poster für Schulungen und Zertifizierungen Ihren Weg zum Erfolg.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Unterstützung von Zertifizierungen
   href: ../help.md
   description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.

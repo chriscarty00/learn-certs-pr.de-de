@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-742
 displayName: 70-742
 summary: |-
-  <div>
-  <div><strong>Diese Prüfung wird am 31. Januar 2021 um 23&#58;59 Uhr (Ortszeit) eingestellt. Nach diesem Datum können Sie die Prüfung nicht mehr ablegen. Erfahren Sie mehr über <a href='/learn/certifications/retired-certification-exams'>bevorstehende Prüfungseinstellungen</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
 
   Die Kandidaten für diese Prüfung verwalten Identitäten mit Hilfe der Funktionalitäten von Windows Server 2016. Die Kandidaten installieren, konfigurieren, verwalten und warten der Active Directory Domain Services (AD DS) und implementieren von Group Policy Objekten (GPOs).
 
@@ -19,7 +17,6 @@ subTitle: Die Kandidaten für diese Prüfung verwalten Identitäten mit Hilfe de
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1l
 practiceTestUrl: https://www.mindhub.com/70-742-Identity-with-Windows-Server-2016-Microsoft-p/mu-70-742_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=de-de&examcode=742&examname=Identity%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-742
 locales:
 - en
 - es
@@ -37,6 +34,7 @@ skills:
 - Erstellen und Verwalten von Gruppenrichtlinien (25-30%)
 - Implementieren von Active Directory-Zertifikatdiensten (Active Directory Certificate Services, AD CS) (10-15%)
 - Implementieren von Identity Federations- und Access-Lösungen (15-20%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

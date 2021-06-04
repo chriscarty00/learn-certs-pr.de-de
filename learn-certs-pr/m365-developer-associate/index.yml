@@ -8,7 +8,7 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   Microsoft 365 Developer entwerfen, erstellen, testen und warten Anwendungen und Lösungen, die für die Produktivitäts- und Kollaborationsanforderungen von Unternehmen optimiert sind, die die Microsoft 365-Plattform nutzen.
 
-  Microsoft 365 Developer beherrschen Microsoft Identity und Microsoft Graph. Sie verfügen über allgemeine Kenntnisse über UI-Elemente (Adaptive Cards und UI Fabric), Integrationspunkte (einschließlich Microsoft Teams, Office Add-Ins, SharePoint Framework, Actionable Messages) und die Festlegung von Workload-Plattform-Zielen.
+  Microsoft 365-Entwickler beherrschen Microsoft Identity und Microsoft Graph. Sie verfügen über allgemeine Kenntnisse zu UI-Elementen (einschließlich Adaptive Cards und Office UI Fabric (Fluent UI)), Integrationspunkten (einschließlich Microsoft Teams, Office-Add-Ins, SharePoint Framework,  umsetzbare Nachrichten) und zum Bestimmen von Workload-Plattformzielen.
 subTitle: Microsoft 365 Developer entwerfen, erstellen, testen und warten Anwendungen und Lösungen, die für die Produktivitäts- und Kollaborationsanforderungen von Unternehmen optimiert sind, die die Microsoft 365-Plattform nutzen.
 levels:
 - intermediate
@@ -29,6 +29,7 @@ paths:
 - uid: learn-m365.m365-extend-fundamental
 - uid: learn-m365.msgraph-associate
 - uid: learn-m365.identity-associate
+- uid: learn-m365.msteams-associate
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcG
 exams:
 - uid: exam.ms-600
@@ -38,10 +39,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md

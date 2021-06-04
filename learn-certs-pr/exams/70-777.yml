@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-777
 displayName: 70-777
 summary: |-
-  <div>
-  <div><strong>Diese Prüfung wird am 31. Januar 2021 um 23&#58;59 Uhr (Ortszeit) eingestellt. Nach diesem Datum können Sie die Prüfung nicht mehr ablegen. Erfahren Sie mehr über <a href='/learn/certifications/retired-certification-exams'>bevorstehende Prüfungseinstellungen</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
 
   Kandidaten für diese Prüfung sind Entwickler und Architekten, die Azure Cosmos DB einsetzen. Kandidaten sollten grundlegende Konzepte der Partitionierung, Replikation und Ressourcenverwaltung verstehen, um skalierbare Anwendungen zu erstellen und zu konfigurieren, die eine Cosmos DB API nicht kennen. Die Kandidaten sollten auch über grundlegende Kenntnisse im Umgang mit der Cosmos DB SQL API verfügen.
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: Kandidaten für diese Prüfung sind Entwickler und Architekten, die Azure Cosmos DB einsetzen. Kandidaten sollten grundlegende Konzepte der Partitionierung, Replikation und Ressourcenverwaltung verstehen, um skalierbare Anwendungen zu erstellen und zu konfigurieren, die eine Cosmos DB API nicht kennen. Die Kandidaten sollten auch über grundlegende Kenntnisse im Umgang mit der Cosmos DB SQL API verfügen.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjS
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=de-de&examcode=777&examname=Implementing%20Microsoft%20Azure%20Cosmos%20DB%20Solutions&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-777
 locales:
 - en
 levels:
@@ -26,6 +23,7 @@ skills:
 - Daten auf der ganzen Welt replizieren
 - Optimieren und Debuggen von Azure Cosmos DB-Lösungen
 - Integrations- und Entwicklungslösungen durchführen
+retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:

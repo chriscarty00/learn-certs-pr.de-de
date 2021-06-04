@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-743
 displayName: 70-743
 summary: |-
-  <div>
-  <div><strong>dieses examens wird am 31. Januar 2021 um 23&#58;59 Uhr (Ortszeit) eingestellt. Nach diesem Datum können Sie die Prüfung nicht mehr ablegen. Mehr erfahren über <a href='/learn/certifications/retired-certification-exams'>bevorstehende Prüfungseinstellungen</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
 
   Kandidaten für dieses examens sind IT-Fachleute, die zentralen Infrastrukturdienste von Windows Server 2016 implementieren.
 
@@ -19,7 +17,6 @@ subTitle: Kandidaten für dieses examens sind IT-Fachleute, die zentralen Infras
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IoQP
 practiceTestUrl: https://www.mindhub.com/70-743-Upgrade-Your-Skills-to-Windows-Server-2016-p/mu-70-743_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=de-de&examcode=743&examname=Upgrading%20Your%20Skills%20to%20MCSA:%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-743
 locales:
 - en
 - es
@@ -42,6 +39,7 @@ skills:
 - Implementieren einer erweiterten Netzwerkinfrastruktur
 - Installieren und Konfigurieren von Active Directory-Domaindiensten (AD DS)
 - Implementieren von Identity Federation- und Access-Lösungen
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

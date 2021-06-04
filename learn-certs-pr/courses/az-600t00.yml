@@ -1,0 +1,160 @@
+### YamlMime:Course
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub
+metadata:
+  title: 'Course AZ-600T00-A: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  description: 'Course AZ-600T00-A: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+uid: course.az-600t00
+courseNumber: 'AZ-600T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Bereitstellung von Azure Stack Hub vorbereiten
+- skill: Verwalten von Infrastrukturzertifikaten für Azure Stack Hub
+- skill: Verwalten der Azure Stack Hub-Registrierung 
+- skill: Konfigurieren des Azure Stack Hub-Benutzerverzeichnis
+- skill: Bereitstellen eines Leistungsträgers für Azure Stack Hub 
+- skill: Empfehlen einer BCDR-Strategie (Business Continuity Disaster Recovery)
+- skill: Verwalten des Azure Stack Hubs mit Hilfe privilegierter Endpunkte
+- skill: Verwalten des Azure Stack Hub-Marktplatzes 
+- skill: App Services und Event Hub-Ressourcenanbieter anbieten
+- skill: Nutzung und Abrechnung verwalten
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+- azure-stack
+- azure-stack-edge
+- azure-stack-hci
+- azure-stack-hub
+- azure-app-service
+- azure-event-hubs
+- azure-active-directory
+exams:
+- uid: exam.az-600
+summary: |-
+  In diesem Kurs lernen Azure-Administratoren und Azure Stack Hub-Betreiber, wie die Azure Stack Hub-Infrastruktur geplant, bereitgestellt, gepackt, aktualisiert und gewartet wird. Zu den Lektionen gehören die Bereitstellung von Azure Stack Hub, die Verwaltung des Azure Stack Hub-Marktplatzes, das Anbieten von App Services- und Event Hub-Ressourcenanbietern, die Verwaltung der Azure Stack Hub-Registrierung und die Aufrechterhaltung des Systemzustands.
+
+  #### Zielgruppenprofil
+  Studenten für AZ-600&#58; „Konfigurieren und Betreiben einer Hybrid-Cloud mit Microsoft Azure Stack Hub" sind daran interessiert, Azure Stack Hub-Betreiber zu werden, die Cloud-Services and Endbenutzer oder Kunden aus ihrem eigenen Rechenzentrum heraus mit Hilfe von Azure Stack Hub bereitstellen.
+  Zu den Verantwortlichkeiten der Azure Stack Hub-Betreiber gehören das Planen, Bereitstellen, Packen, Aktualisieren und Warten der Azure Stack Hub-Infrastruktur. Sie bieten auch hybride Cloud-Ressourcen und gewünschte Services an und verwalten die Infrastruktur-as-a-Service (IaaS) und die Plattform-as-a-Service (PaaS).
+prerequisitesSection: |-
+  Erfolgreiche Azure Stack Hub-Studenten haben bereits Erfahrung mit Betriebssystemen, Virtualisierung, Cloud-Infrastruktur, Speicherstrukturen und Netzworking&#58;
+  - Verständnis der lokalen Virtualisierungstechnologien, einschließlich VMs und virtueller Netzwerke
+  - Verständnis der Netzwerkkonfiguration, einschließlich TCP/IP, DNS (Domain Name System), VPNs (Virtual Private Networks), Firewalls und Verschlüsselungstechnologien
+  - Verständnis von Active Directory-Konzepten, einschließlich Domains, Gesamtstrukturen und Domaincontrollern
+  
+  Wenn Sie Azure und Cloud Computing noch nicht kennen, sollten Sie eine der folgenden Ressourcen in Betracht ziehen&#58;
+  - Kostenlos online&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
+  - Kurs unter Anleitung eines Dozenten&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
+  - Voraussetzungen für Azure-Administratoren (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
+outlineSection: |-
+  ### Modul 1&#58; Übersicht über Azure Stack Hub
+  In diesem Modul erfahren Sie, das Azure Stack Hub eine Erweiterung von Azure bildet, mit der Sie Apps in einer lokalen Umgebung ausführen und Azure-Services in Ihrem Rechenzentrum bereitstellen können.
+  #### Lektionen
+  - Azure Stack Hub
+  - Integration des Rechenzentrums 
+  - Azure Stack Hub PowerShell
+  - Fragen zur Modulüberprüfung
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Edge- und nicht-integrierte Lösungen zu beschreiben
+  - Integrierte Systemarchitektur von Azure Stack Hub beschreiben 
+  - Bereitstellungsoptionen für Azure Stack Hub beschreiben
+  - Unterschiede zwischen Azure Stack Hub, Azure Stack HCI und globalem definieren 
+    
+  
+  ### Modul 2&#58; Services bereitstellen
+  In diesem Modul erfahren Sie, wie man den Azure Stack Hub-Marktplatz in einer nicht verbundenen Umgebung bevölkern, einen App Services-Ressourcenanbieter bereitstellen, Event Hubs-Ressourcen bereitstellen, Kontingente, Pläne, Angebote und Abonnements erstellen und verwalten sowie Nutzung und Abrechnung verwalten kann.
+  #### Lektionen
+  - Verwalten des Azure Stack Hub Marketplace
+  - Anbieten eines App Services Ressourcen-Providers
+  - Anbieten eines. Event Hubs Ressourcen-Providers
+  - Anbieten von Services
+  - Verwaltung der Nutzung und Rechnungsstellung
+  - Modul Überprüfungsfragen
+    
+  #### Lab &#58; Verwalten von Angeboten und Plänen in Azure Stack Hub
+    
+  #### Lab &#58; Hinzufügen individueller Marketplace Items unter Einsatz des Azure Gallery Packagers
+   
+  #### Lab &#58; Validieren der Azure Ressource Manager (ARM) Formatvorlagen mit Azure Stack Hub
+
+  #### Lab &#58; Optionales Lab &#58; Implementieren von SQL Server Ressourcen-Provider in Azure Stack Hub
+    
+  Nach Abschluss des Moduls sind die Teilnehmer in der Lage&#58;
+  - ein individuellen Azure Stack Hub Marketplace Item zu erstellen
+  - einen App Services Ressourcen-Provider bereitzustellen und zu aktualisieren 
+  - einen Event Hubs Ressourcen-Provider
+  - Erstellen und Verwalten von User Abos
+  - die Verwalten von Nutzung und Rechnungsstellung in Multi-Tenant und CSP Szenarios
+    
+    
+  ### Module 3&#58; Implementierung der Data Center Integration
+  In diesem Modul lernen Sie, wie sie einen Stack Hub Bereitstellen, die Empfehlung und Validierung von Zertifikaten, und registrieren in verbundenen und nicht verbundenen Umgebungen
+  #### Lektionen 
+  - Bereiten Sie die Bereitstellung von Azure Stack Hub vor
+  - Verwalten der Azure Stack Hub-Registrierung
+  - Fragen zur Modulüberprüfung
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Nutzungsdaten mit Hilfe der Nutzungs-API anzuzeigen und abzurufen
+  - eine Strategie zur Namensauflösung zu empfehlen 
+  - die Integration des Identitätsanbieters u überprüfen
+  - Zertifikate zu validieren
+  - einen Registrierungsmodus zu empfehlen
+
+
+  ### Modul 4&#58; Verwalten von Identität und Zugriff für Azure Stack Hub
+  In diesem Modul erfahren Sie, wie man das Azure Stack Hub-Ausgangsverzeichnis konfiguriert, das Gastmandantenverzeichnis bei Azure Stack Hub registriert und eine geeignete Zugriffsmethode (Leistungsträger, Benutzer, Gruppen) identifiziert.
+  #### Lektionen
+  - Mandantenfähigkeit verwalten
+  - Zugriff verwalten
+  - Fragen zur Modulüberprüfung
+
+  #### Lab&#58; Angebotsverwaltung in Azure Stack Hub delegieren
+  #### Lab&#58; Verwalten von Serviceprinzipien in Azure Stack Hub
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - das Gastmandantenverzeichnis bei Azure Stack Hub zu registrieren
+  - das Gastmandantenverzeichnis zu aktualisieren
+  - den Zugriff in Azure Stack Hub zu konfigurieren
+  - eine benutzerdefinierte Rolle zu erstellen
+  
+  
+  ### Modul 5&#58; Verwalten der Azure Stack Hub-Infrastruktur
+  In diesem Modul erfahren Sie, wie man den Systemzustand mit Hilfe der REST-API überwacht, den Systemzustand mit Hilfe des Syslog Servers überwacht, Diagnoseprotokolle bei Bedarf mit Hilfe von Powershell erfasst, ein Speicherziel für die Infrastruktursicherung konfiguriert und Aktualisierungspakete manuell herunterlädt und importiert.
+  #### Lektionen 
+  - Verwalten Sie den Systemzustand 
+  - Azure Monitor auf Azure Stack Hub
+  - Geschäftskontinuität und Notfallwiederherstellung planen und konfigurieren
+  - Kapazität verwalten
+  - Infrastruktur aktualisieren
+  - Den Azure Stack Hub mit Hilfe privilegierter Endpunkte verwalten
+  - Fragen zur Modulüberprüfung
+  
+  #### Lab&#58; Stellen Sie über PowerShell eine Verbindung zum Azure Stack Hub her
+    
+  #### Lab&#58; In Azure Stack Hub auf den privilegierten Endpunkt zugreifen
+
+  #### Lab&#58; Verwalten der Protokollsammlung in Azure Stack Hub
+
+  #### Lab&#58; Konfigurieren und Verwalten von Azure Stack Hub-Speicherkonten 
+  
+  #### Lab&#58; Verwalten öffentlicher IP-Adressen in Azure Stack Hub
+
+  #### Lab&#58; Konfigurieren der Azure Stack Hub-Infrastruktursicherung 
+  
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Ressourcenanbieter wie Event Hubs einbeziehen
+  - den Austausch oder die Reparatur vor Ort zu verwalten
+  - Speicherziele für Infrastruktur-Backups zu konfigurieren
+  - den Azure Stack Hub zu aktualisieren
+  - eine Support-Sitzung freizuschalten
+  - eine Verbindung zu einem privilegierten Endpoint herzustellen
+  - die Systemdiagnose mit Test-AzureStack durchzuführen 

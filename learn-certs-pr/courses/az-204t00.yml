@@ -51,7 +51,16 @@ summary: |-
   #### Zielgruppe
   Die TeilnehmerInnen dieses Kurses sind an der Azure-Entwicklung interessiert oder arbeiten daran, die Microsoft Azure Developer Associate-Zertifizierungsprüfung zu absolvieren.
 prerequisitesSection: |-
-  Die TeilnehmerInnen sollten 1-2 Jahre Berufserfahrung im Development und zusätzlich Erfahrung mit Microsoft Azure gesammelt haben. Sie müssen in der Lage sein, in einer Azure-unterstützten Sprache zu programmieren.
+  Um in diesem Kurs erfolgreich zu sein, sollten die Teilnehmer Folgendes aufweisen&#58;
+  - Praktische Erfahrung mit Azure IaaS-und PaaS-Lösungen sowie dem  Azure-Portal.
+  - Erleben Sie das Schreiben in einer von Azure unterstützten Sprache auf mittlerer Ebene. (C#, JavaScript, Python oder Java)
+  - Möglichkeit, Code zu schreiben, um eine Verbindung herzustellen und Vorgänge für ein SQL- oder NoSQL-Datenbankprodukt auszuführen. (SQL Server, Oracle, MongoDB, Cassandra oder ähnliches)
+  - Erfahrung im Schreiben von Code für die Authentifizierung, Autorisierung und andere Sicherheitsprinzipien auf mittlerer Ebene.
+  - Allgemeines Verständnis von HTML, dem HTTP-Protokoll und REST-API-Schnittstellen.
+  
+  Wenn Sie Azure und Cloud Computing noch nicht kennen, sollten Sie eine der folgenden Ressourcen in Betracht ziehen&#58;
+  - Kostenlos online&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
+  - Kurs unter Anleitung eines Dozenten&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
 outlineSection: |-
   ### Modul 1&#58; Erstellen von Azure App Service Webanwendungen
   Die TeilnehmerInnen bekommen vermittelt, wie man eine Webanwendung auf der Azure App Service Plattform erstellt. Sie werden lernen, wie die Plattform funktioniert und wie sie erstellt, konfiguriert, skaliert, gesichert und auf der App Service Plattform eingesetzt wird.

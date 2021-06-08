@@ -1,0 +1,103 @@
+### YamlMime:Course
+title: Microsoft Security, Compliance, and Identity Fundamentals
+metadata:
+  title: 'Course SC-900T00-A: Microsoft Security, Compliance, and Identity Fundamentals'
+  description: 'Course SC-900T00-A: Microsoft Security, Compliance, and Identity Fundamentals'
+uid: course.sc-900t00
+courseNumber: 'SC-900T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Beschreiben grundlegender Konzepte für Sicherheit, Compliance und Identität.
+- skill: Beschreiben der Konzepte und Funktionen von Microsoft- Identität sowie Zugriffsverwaltungslösungen.
+- skill: Funktionen der Microsoft-Sicherheitslösungen beschreiben.
+- skill: Beschreiben der Compliance-Verwaltungsfunktionen in Microsoft.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-user
+- student
+products:
+- m365
+exams:
+- uid: exam.sc-900
+summary: |-
+  Dieser Kurs vermittelt grundlegende Kenntnisse über Sicherheits-, Compliance- und Identitätskonzepte sowie zugehörige Cloud-basierte Microsoft-Lösungen.
+
+  #### Zielgruppenprofil
+  Kandidaten für diesen Kurs möchten sich mit den Grundlagen von Sicherheit, Compliance und Identität (SCI) in Cloud-basierten und verwandten Microsoft-Services vertraut machen. Der Inhalt dieses Kurses richtet sich nach der Zielsetzung der Prüfung SC-900 aus. Kandidaten sollten mit Microsoft Azure und Microsoft 365 vertraut sein und wissen, wie sich Microsoft-Sicherheits-, Compliance- und Identitätslösungen über diese Lösungsbereiche erstrecken können, um eine ganzheitliche und durchgängige Lösung bereitzustellen.
+prerequisitesSection: |-
+  Vor dem Besuch dieses Kurses müssen die Studenten&#58; 
+  - Grundlegende Kenntnisse von Netzwerk- und Cloud-Computing-Konzepten haben.
+  - Grundlegende IT-Kenntnisse oder allgemeine Erfahrung in einer IT-Umgebung haben.
+  - Grundlegende Kenntnisse von Microsoft Azure und Microsoft 365 haben.
+outlineSection: |-
+  ### Modul 1&#58; Beschreiben grundlegender Konzepte für Sicherheit, Compliance und Identität.
+  Erfahren Sie mehr über Kernkonzepte, -prinzipien und -methoden, die für Sicherheits-, Compliance- und Identitätslösungen von grundlegender Bedeutung sind, einschließlich Zero-Trust, geteilter Verantwortung, unsere Datenschutzprinzipien und mehr.
+  #### Lektionen
+  - Beschreiben von Sicherheitskonzepten und -methoden.
+  - Beschreiben der Sicherheits- und Compliance-Grundsätze von Microsoft.
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Sicherheitskonzepte und -methoden zu beschreiben.
+  - das Service Trust Portal zu untersuchen.
+  - zu wissen, wo sie die Azure-Konformitätsdokumentation finden und überprüfen können.
+    
+    
+  ### Modul 2&#58; Beschreiben der Konzepte und Funktionen von Microsoft Identitäts- und Zugriffsverwaltungslösungen
+  Erfahren Sie mehr über Azure AD-Services und Identitätsprinzipien, sichere Authentifizierung, Zugriffsverwaltungsfunktionen sowie Identitätsschutz und -verwaltung.
+  #### Lektionen
+  - Identitätskonzepte beschreiben
+  - Beschreiben der grundlegenden Services und Identitätstypen von Azure AD
+  - Beschreiben der Authentifizierungsfunktionen von Azure AD
+  - Beschreiben der Zugriffsverwaltungsfunktionen von Azure AD
+  - Beschreiben der Identitätsschutz- und Governance-Funktionen von Azure AD
+    
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Grundlegende Identitätskonzepte zu beschreiben.
+  - grundlegenden Services und Identitätstypen von Azure AD zu beschreiben
+  - die Authentifizierungsfunktionen von Azure AD zu beschreiben.
+  - die Zugriffsverwaltungsfunktionen von Azure AD zu beschreiben.
+  - die Identitätsschutz- und Governance-Funktionen von Azure AD zu beschreiben.
+    
+    
+  ### Modul 3&#58; Beschreiben der Funktionen von Microsoft-Sicherheitslösungen 
+  Erfahren Sie mehr über Sicherheitsfunktionen in Microsoft. Zu den behandelten Themen gehören Netzwerk- und Plattformfunktionen von Azure, Azure Sicherheitsverwaltung und Sentinel. Sie lernen den Bedrohungsschutz mit Microsoft 365 Defender und die Microsoft 365 Sicherheitsverwaltung sowie den Endpunktschutz mit Intune kennen.
+  #### Lektionen
+  - Beschreiben der grundlegenden Sicherheitsfunktionen in Azure
+  - Beschreiben der Sicherheitsverwaltungsfunktionen in Azure
+  - Beschreiben der Sicherheitsfunktionen in Azure Sentinel
+  - Beschreiben der Bedrohungsschutzfunktionen von Microsoft 365
+  - Beschreiben der Sicherheitsverwaltungsfunktionen von Microsoft 365
+  - Beschreiben der Endpunktsicherheit mit Microsoft Intune
+  - Modulübersicht
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - die grundlegenden Sicherheitsfunktionen in Azure zu beschreiben.
+  - Beschreiben der Sicherheitsverwaltungsfunktionen von Azure.
+  - Beschreiben der Sicherheitsfunktionen von Azure Sentinel.
+  - Beschreiben der Bedrohungsschutzfunktionen von Microsoft 365.
+  - Beschreiben der Sicherheitsverwaltungsfunktionen von Microsoft 365.
+  - Beschreiben der Endpunktsicherheit von Microsoft Intune.
+    
+    
+  ### Modul 4&#58; Beschreiben der Funktionen von Microsoft-Compliance-Lösungen 
+  Erfahren Sie mehr über Compliance-Lösungen in Microsoft. Zu den behandelten Themen gehören Compliance-Center, Informationsschutz und Governance in Microsoft 365-, Insider Risiko-, Audit- und eDiscovery-Lösungen. Darüber hinaus werden Funktionen zur Verwaltung von Azure-Ressourcen behandelt.
+  #### Lektionen
+  - Beschreiben der Compliance-Verwaltungsfunktionen in Microsoft
+  - Beschreiben der Informationsschutz- und Governance-Funktionen von Microsoft 365
+  - Beschreiben der Insider-Risikofunktionen in Microsoft 365
+  - Beschreiben der eDiscovery-Funktionen von Microsoft 365
+  - Beschreiben der Überwachungsfunktionen von Microsoft 365
+  - Beschreiben der Ressourcenverwaltungsfunktionen in Azure
+    
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - die Compliance-Verwaltungsfunktionen in Microsoft zu beschreiben.
+  - Beschreiben der Informationsschutz- und Governance-Funktionen von Microsoft 365
+  - Beschreiben der Insider-Risikofunktionen in Microsoft 365.
+  - Beschreiben der eDiscovery-Funktionen von Microsoft 365.
+  - Beschreiben der Überwachungsfunktionen von Microsoft 365.
+  - Beschreiben der Ressourcenverwaltungsfunktionen in Azure.

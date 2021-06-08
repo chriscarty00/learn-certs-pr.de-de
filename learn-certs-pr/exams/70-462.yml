@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-462
 displayName: 70-462
 summary: |-
-  <div>
-  <div><strong>Diese Prüfung wird am 31. Januar 2021 um 23&#58;59 Uhr (Ortszeit) eingestellt. Nach diesem Datum können Sie die Prüfung nicht mehr ablegen. Erfahren Sie mehr über <a href='/learn/certifications/retired-certification-exams'>bevorstehende Prüfungseinstellungen</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
 
   Diese Prüfung ist für Datenbankexperten bestimmt, die Aufgaben zur Installation, Wartung und Konfiguration durchführen. Weitere Aufgaben betreffen die Einrichtung von Datenbanksystemen, sicherzustellen, dass diese Systeme wirksam funktionieren, sowie regelmäßiges Speichern, Sichern und Schützen der Daten vor unbefugtem Zugriff.
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: Diese Prüfung ist für Datenbankexperten bestimmt, die Aufgaben zur Installation, Wartung und Konfiguration durchführen. Weitere Aufgaben betreffen die Einrichtung von Datenbanksystemen, sicherzustellen, dass diese Systeme wirksam funktionieren, sowie regelmäßiges Speichern, Sichern und Schützen der Daten vor unbefugtem Zugriff.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIN
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=de-de&examcode=462&examname=Administering%20Microsoft%20SQL%20Server%202012/2014%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-462
 locales:
 - en
 - zh-cn
@@ -33,6 +30,7 @@ skills:
 - Verwalten von Daten (20-25%)
 - Sicherheit implementieren (15-20%)
 - Implementieren von Hochverfügbarkeit (5-10%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

@@ -104,6 +104,7 @@ Es steht eine begrenzte Anzahl von Pässen zur Verfügung, die an Lernpartner un
 - MB-400T00 Microsoft Power Apps + Dynamics 365 Developer
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
 - MS-600T00 Erstellen von Anwendungen und Lösungen mit Microsoft 365-Kern-Services
+- PL-400T00 Microsoft Power Platform Developer
 - WS-050T00 Migrating Application Workloads to Azure
 
 Hinweis: Diese Liste kann sich ändern und Titel können zu dieser Liste hinzugefügt oder daraus entfernt werden, wenn neue Versionen oder Kurse veröffentlicht und ältere Versionen und Kurse eingestellt werden.

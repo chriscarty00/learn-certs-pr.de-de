@@ -1,0 +1,275 @@
+### YamlMime:Course
+title: Supporting and Troubleshooting Windows 10
+metadata:
+  title: 'Course 10982-E: Supporting and Troubleshooting Windows 10'
+  description: 'Course 10982-E: Supporting and Troubleshooting Windows 10'
+uid: course.10982
+courseNumber: '10982-E'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Beschreiben Sie die Prozesse zur Planung und Verwendung einer Fehlerbehebungsmethode für Windows10.
+- skill: Beheben Sie Startprobleme und Betriebssystemdienste auf einem Windows 10-PC.
+- skill: Führen Sie eine Systemwiederherstellung durch.
+- skill: Beheben Sie Probleme im Zusammenhang mit Hardwaregeräten und Gerätetreibern.
+- skill: Verwalten Sie Windows 10-Geräte.
+- skill: Beheben Sie Probleme im Zusammenhang mit der Netzwerkkonnektivität.
+- skill: Konfigurieren Sie Windows 10-Geräte mit Hilfe von Gruppenrichtlinien.
+- skill: Konfigurieren Sie Benutzereinstellungen und beheben Fehler.
+- skill: Konfigurieren Sie den Ressourcenzugriff und beheben Fehler.
+- skill: Implementieren Sie Remote-Konnektivität.
+- skill: Bereitstellen und Beheben von Problemen mit Anwendungen.
+- skill: Pflegen Sie Windows 10-Geräte.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- windows
+summary: |-
+  Dies ist ein 5-tägiger ILT-Kurs, der Teilnehmern die Kenntnisse und Fähigkeiten vermittelt, die zur Unterstützung und Fehlerbehebung von Windows 10-PCs und -Geräten in einer Windows Server-Domainumgebung erforderlich sind. Zu diesen Fähigkeiten gehört das Verständnis der Windows10-Funktionen, ihrer Verwendung in einer ActiveDirectory-Umgebung und ihrer Fehlerbehebung.
+
+  #### Zielgruppenprofil
+  Die Hauptzielgruppe für diesen Kurs ist der Enterprise Desktop Support Techniker (EDST), der Benutzern, die Windows 10-PCs und -Geräte in mittleren bis großen Unternehmensorganisationen in einer Windows-Domainumgebung ausführen, Tier 2-Support bietet. EDSTs konzentrieren sich auf eine breite Palette technischer Probleme für Windows-Betriebssysteme, Geräte, Cloud-Services, Anwendungen, Networking und Hardware-Support. Wenn im übergeordneten Szenario ein Unternehmen den Service anbietet, wird der EDST um Unterstützung gebeten.
+  
+  Zu den Hauptaufgaben gehören die Lösung technischer Probleme im Zusammenhang mit der Installation und Migration von Windows 10, der Aktivierung, der Leistung, den Profilen und den Einstellungen sowie der Gerätesynchronisation. Einige andere Hauptaufgaben umfassen den lokalen und Remote-Netzwerkzugriff. Zugriff auf Anwendungen, Zugriff auf Daten und Drucker; Authentifizierung, Endpoint-Sicherheit und -Richtlinien, Betriebssystem und Datenwiederherstellung.
+  
+  Die sekundäre Zielgruppe dieses Kurses sind IT-Experten, die Windows10-Desktops, Geräte, Benutzer und zugehörige Netzwerk- und Sicherheitsressourcen verwalten und unterstützen. Studenten, die eine Zertifizierung für die folgenden Prüfungen anstreben, profitieren ebenfalls von diesem Kurs&#58;
+  - 70-697&#58; Konfigurieren von Windows-Geräten
+  - 70-698&#58; Installieren und Konfigurieren von Windows 10
+prerequisitesSection: |-
+  Neben ihrer Berufserfahrung sollten Teilnehmer an dieser Schulung bereits über folgende technische Kenntnisse verfügen&#58;
+  - Grundlagen des Networkings, einschließlich TCP/IP (Transmission Control Protocol/Internet Protocol), UDP (User Datagram Protocol und DNS (Domain Name System). 
+  - AD DS-Prinzipien (Microsoft Active Directory-Domain-Services). 
+  - Verständnis der PKI-Komponenten (Public Key Infrastructure). 
+  - Grundlagen von Windows Server 2016. 
+  - Grundlegendes zum Microsoft Windows-Client; zum Beispiel Erfahrung mit Windows 10 oder Kenntnisse aus den Kursen 20697-1 und 20697-2.
+outlineSection: |-
+  ### Modul 1&#58; Implementieren einer Fehlerbehebungsmethode
+  Dieses Modul beschreibt die neuen Funktionen und Geräte des Windows 10-Betriebssystems. Außerdem wird der Prozess zum Entwickeln und Anwenden einer Windows 10-Fehlerbehebungsmethode beschrieben.
+  #### Lektionen
+  - Übersicht über Windows 10
+  - Einführung in die EDST-Jobrolle
+  - Übersicht über die Schritte zur Fehlerbehebung
+  - Tools zur Fehlerbehebung
+
+  #### Lab&#58;  Verwenden von Tools zur Fehlerbehebung
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - das Windows 10-Betriebssystems, die unterstützten Geräte und die Windows 10-Architektur zu beschreiben.
+  - Erläutern Sie die Fehlerbehebungsmethode für Windows10.
+  - Beschreiben der Windows 10-Tools zur Fehlerbehebung
+
+
+  ### Modul 2&#58; Fehlerbehebung bei Startproblemen
+  In diesem Modul wird beschrieben, wie man Startprobleme identifiziert und behebt, sowie problematische Services, die auf einem Windows10-Betriebssystem ausgeführt werden. Dieses Modul zeigt potenzielle Probleme auf, die Startprobleme in Windows 10 verursachen können. Es bietet auch einen Überblick über den Windows-Startvorgang, einschließlich der Windows-Wiederherstellungsumgebung (Windows RE) und der Startkonfigurationsdaten (BCD).
+  #### Lektionen
+  - Übersicht über die Windows 10 Startup Recovery-Umgebung
+  - Die Registrierung konfigurieren
+  - Fehlerbehebung bei den Starteinstellungen
+  - Wiederherstellen von BitLocker-geschützten Laufwerken
+
+  #### Lab&#58;  Fehlerbehebung bei Startproblemen
+  - Erkunden von Windows RE
+  - Beheben eines Startproblems
+
+  #### Lab&#58;  Wiederherstellen von BitLocker-verschlüsselten Laufwerken
+  - Wiederherstellen eines BitLocker-verschlüsselten Laufwerks
+  - Erstellen eines neuen BitLocker-Passworts
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - zu beschreiben, wie die Registrierung konfiguriert wird.
+  - Erläutern Sie die Fehlerbehebung bei Starteinstellungen.
+  - Wiederherstellen von mit Windows BitLocker Drive Encryption verschlüsselten Laufwerken 
+  
+  
+  ### Modul 3&#58; Durchführen der Systemwiederherstellung
+  In diesem Modul wird beschrieben, wie man Probleme im Zusammenhang mit Betriebssystemdiensten behebt und einen Computer wiederherstellt.
+  #### Lektionen 
+  - Fehlerbehebung bei Problemen mit dem Betriebssystem-Service
+  - Wiederherstellen eines Computers
+
+  #### Lab&#58;  Systemwiederherstellung durchführen
+  - Vorbereiten der Systemwiederherstellung
+  - Wiederherstellen eines Computers
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Fehler bei Betriebssystem-Services zu beheben.
+  - Stellen Sie einen Computer wieder her, auf dem Windows 10 ausgeführt wird.
+  
+
+  ### Modul 4&#58; Fehlerbehebung bei Hardware - und Gerätetreibern
+  In diesem Modul wird erläutert, wie Probleme im Zusammenhang mit Gerätetreibern und Hardwaregeräten behoben werden können.
+  #### Lektionen
+  - Fehlerbehebung bei Gerätetreiberfehlern
+  - Übersicht über die Hardware-Fehlerbehebung
+
+  #### Lab&#58;  Fehlerbehebung bei Hardware- und Gerätetreiberproblemen
+  - Fehlerbehebung bei einem fehlenden Gerätetreiber
+  - Beheben von Hardwareproblemen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Fehler bei Gerätetreibern zu beheben.
+  - Beschreiben des Prozesses zur Fehlerbehebung bei Hardware.
+  
+  
+  ### Modul 5&#58; Verwalten von Windows 10
+  In diesem Modul wird beschrieben, wie man die verschiedenen Verwaltungstools in Windows 10 verwendet, um Probleme zu beheben. Es beschreibt die Merkmale und Funktionen von Tools wie Windows Admin Center, Remotedesktop, Quick Assist und Windows PowerShell.
+  #### Lektionen
+  - Übersicht über die Verwaltungstools
+  - Verwenden von Remotedesktop
+  - Einführung in Windows PowerShell
+  - Remoting mit Windows PowerShell
+  - Einführung in die Bereitstellung
+
+  #### Lab&#58;  Fehlerbehebung bei Remotecomputern über Remotedesktop
+  - Verwenden von Remotedesktop
+
+  #### Lab&#58;  Fehlerbehebung bei einem Remotecomputer mit Hilfe von Windows PowerShell
+  - Verwenden von Windows PowerShell Remoting
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Verwenden Sie Remotedesktop, um Remotecomputer zu verwalten.
+  - Verwenden Sie Windows PowerShell-Cmdlets und -Skripts.
+  - Verwenden Sie Windows PowerShell-Remoting, um Remotecomputer zu verwalten.
+  - Bereitstellungspakete implementieren.
+  
+  
+  ### Modul 6&#58; Beheben von Problemen mit der Netzwerkkonnektivität
+  In diesem Modul wird beschrieben, wie man Netzwerkeinstellungen identifiziert und Probleme im Zusammenhang mit der Netzwerkkonnektivität in kabelgebundenen und kabellosen Netzwerken, der IPv4- und IPv6-Konnektivität sowie der Namensauflösung behebt.
+  #### Lektionen
+  - Festlegen der Netzwerkeinstellungen
+  - Fehlerbehebung bei der Netzwerkkonnektivität
+  - Fehlerbehebung bei der Namensauflösung
+
+  #### Lab&#58;  Beheben von Netzwerkverbindungsproblemen
+  - Konfigurieren der Netzwerkeinstellungen
+  - Beheben eines Netzwerkproblems (1) 
+  - Beheben eines Netzwerkproblems (2)
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - die Netzwerkeinstellungen in Windows 10 zu bestimmen.
+  - Beheben Sie Probleme mit der Netzwerkkonnektivität.
+  - Beheben Sie Probleme mit der Namensauflösung.
+  
+  
+  ### Modul 7&#58; Fehlerbehebung bei Gruppenrichtlinien
+  Dieses Modul bietet einen Überblick über die Gruppenrichtlinienanwendung und beschreibt, wie Probleme in der Gruppenrichtlinienobjektanwendung für die Clientkonfiguration behoben werden.
+  #### Lektionen
+  - Übersicht über die Gruppenrichtlinienanwendung
+  - Beheben von Clientkonfigurationsfehlern und GPO-Anwendungsproblemen
+
+  #### Lab&#58;  Fehlerbehebung bei Problemen mit Gruppenrichtlinienanwendungen
+  - Arbeiten mit Gruppenrichtlinienobjekten
+  - Auflösen der Gruppenrichtlinienanwendung (1)
+  - Auflösen der Gruppenrichtlinienanwendung (2)
+  - Auflösen der Gruppenrichtlinienanwendung (3)
+
+  #### Lab&#58;  Beheben von Problemen mit Gruppenrichtlinien
+  - Auflösen der Gruppenrichtlinienanwendung (4)
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - zu beschreiben, wie man Gruppenrichtlinienobjekte auf Computer anwendet.
+  - clientseitige Konfigurationsfehler und Probleme mit Gruppenrichtlinienobjektanwendungen zu beheben.
+  
+
+  ### Modul 8&#58; Konfigurieren und Beheben von Problemen mit Benutzereinstellungen
+  In diesem Modul werden die häufigsten Anmeldeprobleme beschrieben, wie sie erkannt werden und wie diese Probleme behoben werden. Das Modul bietet auch einen Überblick über die vonWindows 10 unterstützten Benutzer-Accounttypen und die Funktionsweise der Authentifizierung für diese Konten.
+  #### Lektionen
+  - Fehlerbehebung bei Anmeldeproblemen
+  - Fehlerbehebung bei der Anwendung der Benutzereinstellungen
+
+  #### Lab&#58;  Fehlerbehebung bei Anmeldeproblemen
+  - Beheben eines Anmeldeproblems
+
+  #### Lab&#58;  Konfigurieren und Beheben von Problemen bei der Anwendung von Benutzereinstellungen
+  - Konfigurieren von UEV
+  - Konfigurieren der Ordnerumleitung
+  - Beheben eines Problems mit der Ordnerumleitung
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Probleme bei der Benutzeranmeldung zu beheben.
+  - Fehler bei der Anwendung von Benutzereinstellungen zu beheben.
+  
+
+  ### Modul 9&#58; Konfigurieren und Beheben von Problemen beim Ressourcenzugriff
+  In diesem Modul wird beschrieben, wie man Probleme mit Dateiberechtigungen und Druckerzugriff behebt. Außerdem wird beschrieben, wie man Dateisynchronisierung und -wiederherstellung in Windows 10 konfiguriert und verwaltet.
+  #### Lektionen
+  - Fehlerbehebung bei Problemen mit Dateiberechtigungen
+  - Fehlerbehebung bei Problemen mit dem Druckerzugriff
+  - Konfigurieren und Beheben von Problemen bei der Dateisynchronisierung
+  - Durchführen der Dateiwiederherstellung unter Windows 10
+
+  #### Lab&#58;  Fehlerbehebung bei Dateizugriffsproblemen
+  - Beheben eines Dateizugriffsproblems (1)
+  - Beheben eines Dateizugriffsproblems (2)
+  - Beheben eines Dateizugriffsproblems (3)
+
+  #### Lab&#58;  Fehlerbehebung bei Druckerproblemen
+  - Beheben eines Druckerproblems (1)
+  - Beheben eines Druckerproblems (2)
+
+  #### Lab&#58;  Konfigurieren und Beheben von Problemen bei der Dateisynchronisierung
+  - Fehlerbehebung bei Arbeitsordnern
+
+  #### Lab&#58;  Daten wiederherstellen
+  - Vorbereiten der Dateiwiederherstellung
+  - Beheben von Problemen mithilfe früherer Versionen (optional)
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Probleme mit Dateiberechtigungen zu beheben.
+  - Probleme beim Zugriff auf Drucker zu beheben.
+  - Probleme bei der Dateisynchronisierung zu konfigurieren und zu beheben.
+  - Probleme bei der Wiederherstellung von Dateien zu konfigurieren und zu beheben.
+  
+  
+  ### Modul 10&#58; Fehlerbehebung bei der Remoteverbindung
+  Dieses Modul bietet einen Überblick über den Remotezugriff und beschreibt die Behebung von Problemen mit VPN-Konnektivität.
+  #### Lektionen
+  - Übersicht über den Fernzugriff
+  - Fehlerbehebung bei Problemen mit VPN-Konnektivität
+
+  #### Lab&#58;  Fehlerbehebung bei der VPN-Konnektivität
+  - Fehlerbehebung bei VPN-Konnektivität Problem 1 
+  - Fehlerbehebung bei VPN-Konnektivitäts Problem 2
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - gängige Fernzugriffstechnologien zu beschreiben.
+  - Probleme mit der VPN-Konnektivität zu beheben.
+  
+  
+  ### Modul 11&#58; Fehlerbehebung bei Anwendungen
+  In diesem Modul wird erläutert, wie man häufig auftretende Probleme mit dem Betrieb von Desktop-Apps behebt. Außerdem werden die Universal Windows-Apps, der Microsoft Store und der Microsoft Store for Business beschrieben und die Behebung von Problemen im Zusammenhang mit Universal Windows-Apps erläutert.
+  #### Lektionen
+  - Fehlerbehebung bei Desktop Apps
+  - Verwalten von universellen Windows Apps
+
+  #### Lab&#58;  Fehlerbehebung bei Desktop Apps
+  - Fehlerbehebung bei AppLocker-Richtlinienanwendungen
+  - Fehlerbehebung bei Anwendungskompatibilitätsproblemen
+
+  #### Lab&#58;  Bereitstellung eines Kioskgeräts
+  - Erstellen eines Bereitstellungspakets
+  - Anwenden eines Bereitstellungspakets
+
+  Nach Abschluss dieses Moduls sind sie in der Lage&#58; 
+  - Fehlerbehebung bei Desktop-Apps durchzuführen.
+  - universelle Windows-Apps zu verwalten.
+  
+  
+  ### Modul 12&#58; Windows 10 warten
+  In diesem Modul wird beschrieben, wie man Performance-Probleme in Windows 10 behebt. Außerdem wird erläutert, wie man Windows-Updates anwendet und Fehler behebt.
+  #### Lektionen
+  - Überwachung und Fehlerbehebung der Computerleistung
+  - Anwenden von Windows-Updates 
+  
+  #### Lab&#58;  Wartung von Windows
+  - Verwenden des Leistungsmonitors
+  - Konfigurieren der Windows Update-Einstellungen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Problemen mit der Windows 10-Performance zu überwachen und zu beheben.
+  - Anwendungen und Windows10 zu aktualisieren.

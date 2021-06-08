@@ -7,18 +7,24 @@ uid: role.devops-engineer
 summary: | 
   DevOps-Techniker kombinieren Menschen, Prozesse und Technologien, und stellen kontinuierlich wertvolle Produkte und Dienstleistungen bereit, die den Bedürfnissen der Endverbraucher und den Unternehmenszielen entsprechen.
 subTitle: DevOps-Techniker kombinieren Menschen, Prozesse und Technologien, und stellen kontinuierlich wertvolle Produkte und Dienstleistungen bereit, die den Bedürfnissen der Endverbraucher und den Unternehmenszielen entsprechen.
-certificationPaths: 
-- title: Azure DevOps Engineer
-  linkedInKeywords: Azure DevOps Engineer
-  uid: certification-path.devops 
-  prerequisites: 
+certificationPaths:
+- title: DevOps Engineer
+  linkedInKeywords: DevOps Engineer
+  uid: certification-path.devops-engineer
+  prerequisites:
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
+  - uid: certification.azure-administrator
+    levels:
+    - intermediate
+  - uid: certification.azure-developer
+    levels:
+    - intermediate
   - uid: certification.devops-engineer
     levels:
-    - advanced    
+    - advanced
 certifications:
 - uid: certification.devops-engineer
   requiredExams:
@@ -26,10 +32,10 @@ certifications:
 resources:
 - title: Microsoft Leitfaden für Schulungen und Zertifizierungen
   description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster für Schulungen und Zertifizierungen
   description: Wählen Sie mit diesem Poster für Schulungen und Zertifizierungen Ihren Weg zum Erfolg.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Unterstützung von Zertifizierungen
   href: ../help.md
   description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.

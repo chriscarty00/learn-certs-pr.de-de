@@ -7,30 +7,71 @@ uid: role.security-engineer
 summary: | 
   Sicherheitstechniker implementieren Sicherheitskontrollen und Bedrohungsschutz, verwalten Identitäten und Zugriffe und schützen Daten, Anwendungen und Netzwerke.
 subTitle: Sicherheitstechniker implementieren Sicherheitskontrollen und Bedrohungsschutz, verwalten Identitäten und Zugriffe und schützen Daten, Anwendungen und Netzwerke.
-certificationPaths: 
-- title: Azure Sicherheitstechniker
-  linkedInKeywords: Azure Sicherheitstechniker
-  uid: certification-path.azure-security-engineer 
-  prerequisites: 
+certificationPaths:
+- title: Azure Security Engineer
+  linkedInKeywords: Azure Security Engineer
+  uid: certification-path.azure-security-engineer
+  prerequisites:
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.azure-security-engineer
     levels:
     - intermediate
-   
+- title: Identity and Access Administrator
+  linkedInKeywords: Identity and Access Administrator
+  uid: certification-path.identity-and-access-administrator
+  prerequisites:
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner
+  - uid: certification.identity-and-access-administrator
+    levels:
+    - intermediate
+- title: Information Protection Administrator
+  linkedInKeywords: Information Protection Administrator
+  uid: certification-path.information-protection-administrator
+  prerequisites:
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner
+  - uid: certification.information-protection-administrator
+    levels:
+    - intermediate
+- title: Security Operations Analyst
+  linkedInKeywords: Security Operations Analyst
+  uid: certification-path.security-operations-analyst
+  prerequisites:
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner
+  - uid: certification.security-operations-analyst
+    levels:
+    - intermediate
 certifications:
 - uid: certification.azure-security-engineer
   requiredExams:
   - uid: exam.az-500
+- uid: certification.security-operations-analyst
+  requiredExams:
+  - uid: exam.sc-200
+- uid: certification.identity-and-access-administrator
+  requiredExams:
+  - uid: exam.sc-300
+- uid: certification.information-protection-administrator
+  requiredExams:
+  - uid: exam.sc-400
 resources:
 - title: Microsoft Leitfaden für Schulungen und Zertifizierungen
   description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster für Schulungen und Zertifizierungen
   description: Wählen Sie mit diesem Poster für Schulungen und Zertifizierungen Ihren Weg zum Erfolg.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Unterstützung von Zertifizierungen
   href: ../help.md
   description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.

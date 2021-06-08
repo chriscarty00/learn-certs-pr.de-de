@@ -1,0 +1,352 @@
+### YamlMime:Course
+title: Data Engineering on Microsoft Azure
+metadata:
+  title: 'Course DP-203T00-A: Data Engineering on Microsoft Azure'
+  description: 'Course DP-203T00-A: Data Engineering on Microsoft Azure'
+  iltScheduling: true
+uid: course.dp-203t00
+courseNumber: 'DP-203T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Informieren Sie sich über Rechen- und Speicheroptionen für Data Engineering-Workloads in Azure
+- skill: Entwerfen und Implementieren der Ausgabeebene
+- skill: Überlegungen zum Data Engineering verstehen
+- skill: Führen Sie interaktive Abfragen mit serverlosen SQL-Pools aus 
+- skill: Durchsuchen, transformieren und laden von Daten in das Daten-Warehouse mit Apache Spark
+- skill: Führen Sie die Datenexploration und -transformation in Azure Databricks durch
+- skill: Daten aufnehmen und in das Daten-Warehouse laden
+- skill: Transformieren Sie Daten mit Azure Data Factory- oder Azure Synapse-Pipelines
+- skill: Integrieren Sie Daten von Notebooks in Azure Data Factory- oder Azure Synapse-Pipelines
+- skill: Optimieren Sie die Abfrageleistung mit dedizierten SQL-Pools in Azure Synapse
+- skill: Analysieren und optimieren Sie den Daten-Warehouse-Speicher
+- skill: Unterstützung der Hybrid-Transaktionsanalysebearbeitung (HTAP) mit Azure Synapse Link
+- skill: Führen Sie mit Azure Synapse Analytics End-to-End-Sicherheit durch
+- skill: Führen Sie eine Echtzeit-Stream-Verarbeitung mit Stream Analytics durch
+- skill: Erstellen Sie eine Stream-Verarbeitungslösung mit Event Hubs und Azure Databricks 
+- skill: Erstellen Sie Berichte mit Hilfe der Power BI-Integration mit Azure Synapse Analytics
+- skill: Führen Sie integrierte maschinelle Lernprozesse in Azure Synapse Analytics durch
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure-data-factory
+- azure-synapse-analytics
+- azure-stream-analytics
+- azure-event-hubs
+- azure-data-lake
+- azure-databricks
+exams:
+- uid: exam.dp-203
+summary: |-
+  In diesem Kurs lernen die Teilnehmer die Data Engineering-Muster und -Praktiken kennen, die sich auf die Arbeit mit Batch- und Echtzeit-Analyselösungen unter Verwendung von Azure-Datenplattformtechnologien beziehen.Die Teilnehmer beginnen mit Grundlagen der wichtigsten Computer- und Speichertechnologien, die zum Erstellen einer analytischen Lösung verwendet werden.Anschließend werden sie untersuchen, wie analytische Ausgabeebenen entworfen werden und sich auf datentechnische Überlegungen für die Arbeit mit Quelldateien konzentrieren.Die Teilnehmer lernen, wie man Daten, die in Dateien in einem Datenmeer gespeichert sind, interaktiv untersuchen kann. Sie lernen die verschiedenen Aufnahmetechniken kennen, die zum Laden von Daten mit Hilfe der Apache Spark-Funktion in Azure Synapse Analytics oder Azure Databricks oder zum Aufnehmen mit Hilfe von Azure Data Factory- oder Azure Synapse-Pipelines verwendet werden können.Die Teilnehmer lernen auch die verschiedenen Möglichkeiten kennen, wie man Daten mit denselben Technologien transformieren kann, mit denen sie aufgenommen werden.Die Teilnehmer wird während des Kurses lernen, wie die Leistung des Analysesystems überwacht und analysiert wird, um die Leistung beim Laden von Daten oder bei Abfragen, die an die Systeme gesendet werden, zu optimieren.Sie werden verstehen, wie wichtig es ist, Sicherheit zu implementieren, um sicherzustellen, dass die Daten in Ruhe oder während des Transports geschützt sind. Teilnehmer zeigen dann, wie die Daten in einem Analysesystem zum Erstellen von Dashboards oder zum Erstellen von Vorhersagemodellen in Azure Synapse Analytics verwendet werden können.
+
+  #### Zielgruppenprofil
+  Die primäre Zielgruppe für diesen Kurs sind Datenfachleute, Datenarchitekten und Experten für Geschäftsintelligenz, die mehr über Daten-Engineering und das Erstellen von Analyselösungen mit Hilfe von Datenplattformtechnologien in Microsoft Azure erfahren möchten. Die sekundäre Zielgruppe für diesen Kurs sind Datenanalysten und Datenwissenschaftler, die mit auf Microsoft Azure basierenden Analyselösungen arbeiten.
+prerequisitesSection: |-
+  Erfolgreiche Teilnehmer beginnen diesen Kurs mit Kenntnissen in Cloud Computing und Kerndatenkonzepten sowie Berufserfahrung mit Datenlösungen. 
+  
+  Speziell abschließen&#58;
+  
+  - AZ-900 - Azure Fundamentals
+  - DP-900 - Microsoft Azure Data Fundamentals
+outlineSection: |-
+  ### Modul 1&#58; Untersuchen von Rechen- und Speicheroptionen für Daten-Engineering-Workloads
+  Dieses Modul bietet einen Überblick über die Optionen der Azure-Computer- und Speichertechnologie, die Dateningenieuren zur Verfügung stehen, die analytische Workloads erstellen.In diesem Modul erfahren Sie, wie man das Datenmeer strukturiert und die Dateien für Explorations-, Streaming- und Batch-Workloads optimieren kann.Die Teilnehmer lernen, wie man das Datenmeer in Ebenen der Datenverfeinerung organisiert, während Dateien durch Stapel- und Stream-Verarbeitung transformiert werden. Anschließend lernen sie, wie man Indizes für ihre Datensets wie CSV-, JSON- und Parkettdateien erstellen und diese für eine mögliche Beschleunigung von Abfragen und Workloads verwenden kann.
+  #### Lektionen
+  - Einführung in Azure Synapse Analytics
+  - Beschreiben von Azure Databricks
+  - Einführung in den Azure Datenmeer-Speicher 
+  - Die Architektur des Datenmeeres beschreiben
+  - Arbeiten mit Datenströmen, mit hilfe von Azure Stream Analytics
+
+  #### Lab&#58; Erkunden Sie die Rechen- und Speicheroptionen für Daten-Engineering-Workloads
+  - Kombinieren Sie Streaming und Stapelverarbeitung mit einer einzigen Pipeline
+  - Organisieren Sie das Datenmeer in Dateitransformationsebenen
+  - Indizieren Sie den Datenmeer-Speicher für Abfrage- und Workload-Beschleunigung
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Azure Synapse Analytics zu beschreiben
+  - Azure Databricks zu beschreiben
+  - Azure Datenmeer-Speichers zu beschreiben
+  - die Architektur des Datenmeeres zu beschreiben
+  - Azure Stream Analytics zu beschreiben
+  
+  
+  ### Modul 2&#58; Entwerfen und Implementieren der Ausgabeebenen. 
+  In diesem Modul erfahren Sie, wie man Datenspeicher in einem modernen Daten-Warehouse entwerfen und implementieren kann, um analytische Workloads zu optimieren.Die Teilnehmer lernen, wie man ein mehrdimensionales Schema zum Speichern von Fakten- und Dimensionsdaten entwirft. Anschließend lernen die Teilnehmer, wie sich langsam ändernde Dimensionen durch inkrementelles Laden von Daten aus Azure Data Factory gefüllt werden.
+  #### Lektionen
+  - Entwerfen eines mehrdimensionales Schemas, um analytische Workloads zu optimieren
+  - Codefreie Transformation im Maßstab mit Azure Data Factory
+  - Sich langsam ändernde Dimensionen in Azure Synapse Analytics-Pipelines füllen
+  
+  #### Lab&#58; Entwerfen und Implementieren der Ausgabeebene
+  - Entwerfen eines Sternschema für analytische Workloads
+  - Sich langsam ändernde Dimensionen mit Azure Data Factory anfüllen und Datenflüsse zuordnen
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - ein Sternschema für analytische Workloads zu entwerfen
+  - sich langsam ändernde Dimensionen mit Azure Data Factory zu füllen und Datenflüsse zuzuordnen
+  
+  
+  ### Modul 3&#58; Überlegungen zum Daten-Engineering für Quelldateien
+  In diesem Modul werden Überlegungen zum Daten- Engineering erläutert, die beim Laden von Daten in ein modernes Daten-Warehouse häufig vorkommen, das analytisch aus in einem Azure Datenmeer gespeicherten Dateien geladen wird, und Grundlagen zu Sicherheitsaspekten beim Speichern von im Datenmeer gespeicherten Dateien vermittelt.
+  #### Lektionen
+  - Entwerfen Sie ein modernes Daten-Warehouse mit Azure Synapse Analytics
+  - Sichern Sie ein Daten-Warehouse in Azure Synapse Analytics
+    
+  #### Lab&#58; Überlegungen zum Daten-Engineering
+  - Verwalten von Dateien in einem Azure-Datenmeer
+  - Sichern von Dateien, die in einem Azure-Datenmeer gespeichert sind 
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - ein modernes Daten-Warehouse mit Azure Synapse Analytics zu entwerfen
+  - ein Daten Warehouse in Azure Synapse Analytics zu sichern
+    
+    
+  ### Modul 4&#58; Führen Sie interaktive Abfragen mit serverlosen SQL-Pools von Azure Synapse Analytics aus
+  In diesem Modul lernen die Teilnehmer anhand von T-SQL-Anweisungen, die von einem serverlosen SQL-Pool in Azure Synapse Analytics ausgeführt werden, wie man mit Dateien arbeitet, die im Datenmeer und in externen Dateiquellen gespeichert sind. Die Teilnehmer fragen Parkettdateien ab, die in einem Datenmeer gespeichert sind, sowie CSV-Dateien, die in einem externen Datenspeicher gespeichert sind. Als Nächstes erstellen sie Azure Active Directory-Sicherheitsgruppen und erzwingen den Zugriff auf Dateien im Datenmeer über die rollenbasierte Zugriffssteuerung (RBAC) und Zugriffssteuerungslisten (ACLs).
+  #### Lektionen
+  - Erkunden Sie die Funktionen der serverlosen SQL-Poolsvon AzureSynapse
+  - Abfragen vonDaten im Meer mit Hilfevon serverlosen SQL-Pools von Azure Synapse 
+  - Erstellen Sie Metadatenobjekte in serverlosen SQL-Pools von Azure Synapse
+  - Sichern Sie Daten und verwalten Sie Benutzer in serverlosen SQL-Poolsvon Azure Synapse
+
+  #### Lab&#58; Führen Sie interaktive Abfragen mit serverlosen SQL-Pools aus
+  - Abfragenvon Parkettdaten mit serverlosen SQL-Pools 
+  - Erstellen externer Tabellen für Parkett- und CSV-Dateien 
+  - Erstellen von Ansichten mitserverlosen SQL-Pools
+  - Zugriff auf Daten in einem Datensee bei Verwendung von serverlosen SQL-Pools sichern
+  - Konfigurieren von Datenmeer-Sicherheit mit Hilfe rollenbasierter Zugriffssteuerung (RBAC) und der Zugriffssteuerungsliste
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Funktionen der serverlosen SQL-Poolsvon AzureSynapse zu verstehen
+  - Daten im Datenmeer mit Hilfevon serverlosen SQL-Pools von Azure Synapse abzufragen 
+  - Metadatenobjekte inserverlosen SQL-Poolsvon Azure Synapse zu erstellen 
+  - Daten zu sichern und Benutzer inserverlosen SQL-Poolsvon Azure Synapse zu verwalten 
+
+
+  ### Modul 5&#58; Durchsuchen, Transformieren und Laden von Daten in das Daten-Warehouse mit Apache Spark
+  In diesem Modul erfahren Sie, wie man in einem Datenmeer gespeicherte Daten untersucht, die Daten transformiert und Daten in einen relationalen Datenspeicher lädt. Die Teilnehmer werden Parkett- und JSON-Dateien untersuchen und Techniken verwenden, um JSON-Dateien mit hierarchischen Strukturen abzufragen und zu transformieren. Anschließend verwenden die Teilnehmer Apache Spark, um Daten in das Daten-Warehouse zu laden und Parkettdaten im Datenmeer mit Daten im dedizierten SQL-Pool zu verknüpfen.
+  #### Lektionen
+  - Grundlegendes zum Engineering großer Datenmengen mit Apache Spark in Azure Synapse Analytics
+  - Daten mit Apache Spark-Notebooks in Azure Synapse Analytics aufnehmen
+  - Daten mit Data Frames in Apache Spark-Pools in Azure Synapse Analytics transformieren 
+  - SQL- und Apache Spark-Pools in Azure Synapse Analytics integrieren
+  
+  #### Lab&#58; Durchsuchen, transformieren und laden Sie Daten mit Apache Spark in das Daten-Warehouse
+  - Führen Sie eine Datenexploration in Synapse Studio durch
+  - Daten mit Spark-Notebooks in Azure Synapse Studio aufnehmen
+  - Transformieren Sie Daten mit Data Frames in Spark-Pools in Azure Synapse Analytics
+  - Integrieren Sie SQL- und Spark-Pools in Azure Synapse Analytics
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Engineering großer Datenmengen mit Apache Spark in Azure Synapse Analytics zu beschreiben 
+  - Daten mit Apache Spark-Notebooks in Azure Synapse Analytics aufzunehmen
+  - Daten mit Data Frames in Apache Spark-Pools in Azure Synapse Analytics zu transformieren
+  - SQL- und Apache Spark-Pools in Azure Synapse Analytics zu integrieren
+
+
+  ### Modul 6&#58; Datenexploration und -transformation in Azure Databricks
+  In diesem Modul erfahren Sie, wie man mit verschiedenen Apache Spark Data Frame-Methoden Daten in Azure Databricks untersuchen und transformieren kann.Die Teilnehmer lernen, wie man Standard-Data Frame-Methoden zum Erkunden und Transformieren von Daten ausführen kann.Sie lernen auch, wie man erweiterte Aufgaben ausführen, z. B. doppelte Daten entfernen, Datums- / Zeitwerte bearbeiten, Spalten umbenennen und Daten aggregieren kann.
+  #### Lektionen
+  - Beschreiben von Azure Databricks
+  - Lesen und Schreiben von Daten in Azure Databricks
+  - Arbeiten mit Data Frames in Azure Databricks
+  - Arbeiten mit erweiterten Data Frames-Methoden in Azure Databricks
+    
+  #### Lab&#58; Datenexploration und -transformation in Azure Databricks
+  - Verwenden von Data Frames in Azure Databricks, um Daten zu untersuchen und zu filtern
+  - Einen Data Frame für schnellere nachfolgende Abfragen zwischen zuspeichern
+  - Entfernen doppelter Daten
+  - Manipulieren von Datums- / Zeitwerten
+  - Entfernen und umbenennen von Data Frame-Spalten 
+  - In einem Data Frame gespeicherte Daten aggregieren 
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Azure Databricks zu beschreiben
+  - Daten in Azure Databricks zu lesen und zu schreiben 
+  - mit Data Frames in Azure Databricks zu arbeiten
+  - mit erweiterten Data Frame-Methoden in Azure Databricks zu arbeiten
+    
+    
+  ### Modul 7&#58; Daten aufnehmen und in das Daten- Warehouse laden
+  In diesem Modul lernen die Teilnehmer, wie man Daten über T-SQL-Skripte und Synapse Analytics-Integrationspipelines in das Daten-Warehouse aufnimmt. Die Teilnehmer lernen, wie Daten mit PolyBase und COPY mit Hilfe von T-SQL in dedizierte Synapse-SQL-Pools geladen werden. Die Teilnehmer werden außerdem lernen, wie das Workload-Management, zusammen mit einer Kopieraktivität in einer Azure Synapse-Pipeline für die Datenaufnahme im Petabyte-Bereich verwendet wird.
+  #### Lektionen
+  - Verwenden Sie bewährte Praktiken zum Laden von Daten in Azure Synapse Analytics
+  - Aufnahme im Petabyte-Bereich mit Azure Data Factory
+    
+  #### Lab&#58; Daten aufnehmen und in das Daten-Warehouse laden
+  - Führen Sie mit Azure Synapse Pipelines eine Aufnahme im Petabyte-Bereich durch
+  - Importieren Sie Daten mit PolyBase und COPY mit Hilfe von-SQL
+  - Verwenden Sie bewährte Praktiken zum Laden von Daten in Azure Synapse Analytics
+    
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - bewährte Praktiken zum Laden von Daten in Azure Synapse Analytics verwenden
+  - Aufnahme im Petabyte-Bereich mit Azure Data Factory
+    
+    
+  ### Modul 8&#58; Transformieren von Daten mit Azure Data Factory- oder Azure Synapse-Pipelines
+  In diesem Modul lernen die Teilnehmer, wie man Datenintegrations-Pipelines erstellt, um sie aus mehreren Datenquellen aufzunehmen, Daten mit Hilfe von Mapping-Datenflüssen zu transformieren und Daten in eine oder mehrere Datensenken zu verschieben.
+  #### Lektionen
+  - Datenintegration mit Azure Data Factory- oder Azure Synapse-Pipelines
+  - Codefreie Transformation im Maßstab mit Azure Data Factory- oder Azure Synapse-Pipelines
+    
+  #### Lab&#58; Transformieren Sie Daten mit Azure DataFactory-oder Azure Synapse-Pipelines 
+  - Führen Sie mit Azure Synapse Pipelines skalierungsfreie Code-Transformationen aus 
+  - Erstellen Sie eine Datenpipeline, um schlecht formatierte CSV-Dateien zu importieren 
+  - Erstellen Sie Zuordnungsdatenflüsse
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - die Datenintegration mit Azure Data Factory durchzuführen
+  - mit Azure Data Factory eine codefreie Transformation in großem Maßstab durchzuführen 
+  
+  
+  ### Modul 9&#58; Verschieben und Verschieben von Daten in Azure Synapse-Pipelines orchestrieren
+  In diesem Modul erfahren Sie, wie man verknüpfte Services erstellt und die Datenverschiebung und -transformation mit Hilfe von Notebooks in Azure Synapse-Pipelines koordiniert.
+  #### Lektionen
+  - Orchestrieren der Datenverschiebung und -transformation in Azure Data Factory
+   
+  #### Lab&#58; Orchestrieren der Datenverschiebung und -transformation in Azure Synapse-Pipelines
+  - Integrieren Sie Daten aus Notebooks in Azure Data Factory- oder Azure Synapse-Pipelines
+    
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Datenverschiebung und -transformation in Azure Synapse-Pipelines zu orchestrieren 
+    
+    
+  ### Modul 10&#58; Optimieren Sie die Abfrageleistung mit dedizierten SQL-Pools in Azure Synapse
+  In diesem Modul lernen die Teilnehmer Strategien zur Optimierung der Datenspeicherung und -verarbeitung bei Verwendung dedizierter SQL-Pools in Azure Synapse Analytics. Die Teilnehmer lernen zu verstehen, wie Entwicklerfunktionen wie Fenster- und HyperLogLog-Funktionen, bewährte Methoden zum Laden von Daten verwendet werden und die Abfrageleistung optimiert und verbessert wird.
+  #### Lektionen
+  - Optimierung der Leistung der Abfragen des Daten-Warehouses in Azure Synapse Analytics
+  - Kenntnis der Data Warehouse Entwickler-Features von Azure Synapse Analytics
+  
+  #### Lab &#58; Optimieren der Abfrageleistung mit dezidierten SQL Pools in Azure Synapse
+  - Verstehen der Entwickler-Features von Azure Synapse Analytics
+  - Optimieren der Data Warehouse Abfrageleistung in Azure Synapse Analytics
+  - Verbessern der Leistung von Abfragen
+  
+  Nach Abschluss des Moduls sind die Teilnehmer in der Lage&#58;
+  - die Performance der Abfragen des Daten-Warehouses in Azure Synapse Analytics zu optimieren
+  - Daten Warehouse Entwickler-Features von Azure Synapse Analytics verstehen
+  
+  
+  ### Module 11&#58; Analyse und Optimierung der Daten Warehouse Speicherung
+  In diesem Modul lernen die Teilnehmer, wie man die Datenspeicherung von Azure Synapse dezidiertem SQLanalysiert und optimiert.Die Teilnehmer werden Techniken erlernen, um die Verwendung des Tabellenbereichs und die Speicherdetails des Spaltenspeichers zu verstehen.Als Nächstes werden die Teilnehmer die Speicheranforderungen zwischen identischen Tabellen vergleichen, die unterschiedliche Datentypen verwenden.Schließlich werden die Teilnehmer beobachten, welche Auswirkungen materialisierte Ansichten haben, wenn sie anstelle komplexer Abfragen ausgeführt werden, und lernen, wie durch Optimierung der Löschvorgänge eine umfangreiche Protokollierung vermieden werden kann.
+  #### Lektionen
+  - Analysieren und optimieren Sie den Daten-Warehouse-Speicher in Azure Synapse Analytic
+    
+  #### Lab&#58; Analysieren und Optimieren des Daten- Warehouse-Speichers 
+  - Überprüfen Sie, ob Daten und Speicherplatz verzerrt sind
+  - Details zur Speicherung von Spaltenspeichern zu verstehen
+  - Untersuchen Sie die Auswirkungen materialisierter Ansichten
+  - Erkunden Sie Regeln für minimal protokollierte Vorgänge
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
+  - Analysieren und optimieren Sie den Daten-Warehouse-Speicher in Azure Synapse Analytics
+    
+    
+  ### Modul 12&#58; Unterstützung von HTAP (Hybrid Transactional Analytical Processing ) mit Azure Synapse Links
+  In diesem Modul erfahren die Teilnehmer, wie Azure Synapse Link die nahtlose Verbindung eines Azure Cosmos DB-Kontos mit einem Synapse-Arbeitsbereich ermöglicht. Die Teilnehmer lernen zu verstehen, wie man die Synapse-Verknüpfung aktiviert und konfiguriert und wie der Azure Cosmos DB-Analysespeicher mit Apache Spark und serverlosem SQL abgefragt wird.
+  #### Lektionen
+  - Entwerfen Sie hybride Transaktions- und Analyseverarbeitung mit Azure Synapse Analytics
+  - Konfigurieren Sie Azure Synapse Link mit Azure Cosmos DB
+  - Fragen Sie Azure Cosmos DB mit Apache Spark-Pools ab
+  - Fragen Sie Azure Cosmos DB mit serverlosen SQL-Pools ab
+  
+  #### Lab&#58; Unterstützung von HTAP (Hybrid Transactional Analytical Processing ) mit dem Azure Synapse Link
+  - Konfigurieren Sie den Azure Synapse Link mit Azure Cosmos
+  - Fragen Sie Azure Cosmos DB mit Apache Spark für Synapse Analytics ab
+  - Fragen Sie Azure Cosmos DB mit serverlosem SQL-Pool für Azure Synapse Analytics ab
+    
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - hybride Transaktions- und Analyseverarbeitung mit Azure Synapse Analytics zu entwerfen
+  - Azure Synapse Link mit Azure Cosmos DB zu konfigurieren
+  - Fragen Sie Azure Cosmos DB mit Apache Spark für Azure Synapse Analytics ab
+  - Fragen Sie Azure Cosmos DB mit serverlosem SQL für Azure Synapse Analytics ab
+    
+    
+  ### Modul 13&#58; End-to-End-Sicherheit mit Azure Synapse Analytics
+  In diesem Modul lernen die Teilnehmer, wie man einen Synapse Analytics-Arbeitsbereich und seine unterstützende Infrastruktur sichert. Der Schüler beobachtet den SQL Active Directory-Administrator, verwaltet IP-Firewall-Regeln, verwaltet Geheimnisse mit Azure Key Vault und greift über einen mit Key Vault verknüpften Service und Pipeline-Aktivitäten auf diese Geheimnisse zu. Die Teilnehmer werden verstehen, wie Sicherheit auf Spaltenebene, Sicherheit auf Zeilenebene und dynamische Datenmaskierung implementiert wird, wenn dedizierte SQL-Pools verwendet werden.
+  #### Lektionen
+  - Sichern Sie ein Daten-Warehouse in Azure Synapse Analytics
+  - Konfigurieren und Verwalten von Geheimnissen in Azure Key Vault
+  - Implementieren Sie Compliance-Kontrollen für sensible Daten
+  
+  #### Lab&#58; End-to-End-Sicherheit mit Azure Synapse Analytics
+  - Sichern Sie Azure Synapse Analytics-unterstützende Infrastruktur
+  - Sichern der Azure Synapse Analytics-Arbeitsbereich und die verwalteten Services
+  - Sichern der Azure Synapse Analytics-Arbeitsbereichsdaten
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Daten-Warehouse in Azure Synapse Analytics zu sichern zu konfigurieren Konfigurieren und Verwalten von
+  - Konfigurieren und Verwalten von- Geheimnissen in Azure Key Vault zu
+  - Implementieren Sie Compliance-Kontrollen für sensible Daten
+
+
+  ### Modul 14&#58; Echtzeit-Stream-Verarbeitung mit Stream Analytics
+  In diesem Modul lernen die Teilnehmer, wie man Streaming-Daten mit Azure Stream Analytics verarbeitet. Die Teilnehmer nehmen Fahrzeugtelemetriedaten in Event Hubs auf und verarbeiten diese Daten dann in Echtzeit mit Hilfe verschiedener Fensterfunktionen in Azure Stream Analytics. Sie geben die Daten an Azure Synapse Analytics aus.Schließlich lernen die Teilnehmer, wie man den Stream Analytics-Job skaliert, um den Durchsatz zu erhöhen.
+  #### Lektionen
+  - Aktivieren Sie zuverlässiges Messaging für Big Data-Anwendungen mit Hilfe von Azure Event Hubs
+  - Arbeiten Sie mit Datenströmen mit Hilfe von Azure Stream Analytics
+  - Datenströme mit Azure Stream Analytics aufnehme
+    
+  #### Lab&#58; Echtzeit-Stream-Verarbeitung mit Stream Analytics
+  - Verwenden Sie Stream Analytics, um Echtzeitdaten von Event Hubs zu verarbeiten
+  - Verwenden Sie die Fensterfunktionen von Stream Analytics, um Aggregate zu erstellen und in Synapse Analytics auszugeben 
+  - Skalieren Sie den Azure Stream Analytics-Job, um den Durchsatz durch Partitionierung zu erhöhen
+  - Partitionieren Sie den Stream-Eingang neu, um die Parallelisierung zu optimieren
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - zuverlässiges Messaging für Big Data-Anwendungen mit Hilfe von Azure Event Hubs zu aktiviere
+  - mit Datenströmen mit Hilfe von Azure Stream Analytics zu arbeiten
+  - Datenströme mit Azure Stream Analyticsaufzunehmen
+    
+    
+  ### Modul 15&#58; Erstellen einer Stream-Verarbeitungslösung mit Event Hubs und Azure Databricks
+  In diesem Modul lernen die Teilnehmer, wie man Streaming-Daten mit Event Hubs und Spark Structured Streaming in Azure Databricks maßstabsgetreu erfassen und verarbeiten kann.Der Teilnehmer lernen die wichtigsten Funktionen und Verwendungszwecke von Structured Streaming kennen.Die Teilnehmer implementieren Schiebefenster, um Datenblöcke zu aggregieren und wenden Wasserzeichen an, um veraltete Daten zu entfernen. Schließlich stellen die Teilnehmer eine Verbindung zu Event Hubs her, um Streams zu lesen und zu schreiben.
+  #### Lektionen
+  - Verarbeiten von Streaming-Daten mit strukturiertem Azure Databricks-Streaming
+  
+  #### Lab&#58; Erstellen Sie eine Stream-Verarbeitungslösung mit Event Hubs und Azure Databricks
+  - Entdecken Sie die wichtigsten Funktionen und Verwendungsmöglichkeiten von Structured Streaming
+  - Streamen Sie Daten aus einer Datei und schreiben Sie sie in ein verteiltes Dateisystem
+  - Verwenden Sie Schiebefenster, um lediglich Datenblöcke und nicht alle Daten zu aggregieren
+  - Wenden Sie ein Wasserzeichen an, um veraltete Daten zu entfernen
+  - Stellen Sie eine Verbindung zu den Lese- und Schreib-Streams von Event Hubs her 
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Streaming-Daten mit strukturiertem Azure Databricks-Streaming zu verarbeiten
+
+
+  ### Modul 16&#58; Erstellen von Berichten mit Hilfe der Power BI-Integration mit Azure Synapse Analytics
+  In diesem Modul lernen die Teilnehmer, wie man Power BI in ihren Synapse-Arbeitsbereich integriert, um Berichte in Power BI zu erstellen. Die Teilnehmer erstellen eine neue Datenquelle und einen neuen Power BI-Bericht in Synapse Studio.Anschließend lernen die Teilnehmer, wie man die Abfrageleistung durch materialisierte Ansichten und Zwischenspeichern von Ergebnismengen verbessern kann. Schließlich werden die Teilnehmer das Datenmeer mit serverlosen SQL-Pools erkunden und Visualisierungen für diese Daten in Power BI erstellen.
+  #### Lektionen
+  - Erstellen Sie Berichte mit Power BI mit Hilfe der Integration in Azure Synapse Analytics
+    
+  #### Lab&#58; Erstellen Sie Berichte mit Hilfe der PowerBI-Integration mit Azure Synapse Analytics
+  - Integrieren Sie einen Azure Synapse-Arbeitsbereich und Power BI
+  - Optimieren Sie die Integration mit Power BI
+  - Verbessern Sie die Abfrageleistung mit materialisierten Ansichten und Caching von Ergebnismengen
+  - Visualisieren Sie Daten mit serverlosem SQL und erstellen Sie einen PowerBI-Bericht
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Erstellen Sie Berichte mit Power BI mit Hilfe der Integration in Azure Synapse Analytics
+    
+    
+  ### Modul 17&#58; Integrierte maschinelle Lernprozesse in Azure Synapse Analytics ausführe
+  In diesem Modul wird die integrierte, durchgängige Erfahrung mit Azure maschinellen Lernen und Azure kognitiven Services in Azure Synapse Analytics erläutert. Sie erfahren, wie Sie einen Azure Synapse Analytics-Arbeitsbereich mithilfe eines verknüpften Services mit einem Azure Machine Learning-Arbeitsbereich verbinden und anschließend ein automatisiertes ML-Experiment auslösen, das Daten aus einer Spark-Tabelle verwendet. Außerdem erfahren Sie, wie man trainierte Modelle aus Azure-maschiniertem Lernen oder Azure kognitiven Services verwenden, um Daten in einer SQL-Pooltabelle anzureichern und anschließend mit Hilfe von Power BI Prognoseergebnisse bereitzustellen.
+  #### Lektionen
+  - Verwenden Sie den integrierten maschinellen Lernprozess in Azure Synapse Analytics
+    
+  #### Lab&#58; Führen Sie integrierte maschinelle Lernprozesse in Azure Synapse Analytics durch
+  - Erstellen Sie einen verknüpften Azure Service mit maschinellem Lernen
+  - Lösen Sie ein Auto-ML-Experiment mit Daten aus einer Spark-Tabelle aus
+  - Daten mit trainierten Modellen anreichern
+  - Bereitstellen von Vorhersageergebnissen mit Power BI
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Wenden Sie den integrierten maschinellen Lernprozess in Azure Synapse Analytics an 

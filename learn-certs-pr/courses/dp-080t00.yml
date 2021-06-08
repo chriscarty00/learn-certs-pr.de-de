@@ -1,0 +1,113 @@
+### YamlMime:Course
+title: Querying Data with Microsoft Transact-SQL
+metadata:
+  title: 'Course DP-080T00--A: Querying Data with Microsoft Transact-SQL'
+  description: 'Course DP-080T00--A: Querying Data with Microsoft Transact-SQL'
+uid: course.dp-080T00
+courseNumber: 'DP-080T00'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Verwenden Sie SQL Server-Abfragetools
+- skill: Schreiben Sie SELECT-Anweisungen, um Spalten aus einer oder mehreren Tabellen abzurufen
+- skill: Ausgewählte Daten sortieren und filtern
+- skill: Verwenden Sie integrierte Funktionen, um Datenwerte zurückzugeben
+- skill: Erstellen Sie Datengruppen und aggregieren Sie die Ergebnisse
+- skill: Ändern Sie Daten mit Transact-SQL mit INSERT, UPDATE, DELETE und MERGE
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- database-administrator
+products:
+- azure
+summary: |-
+  In diesem Kurs werden die Grundlagen des Microsoft-Dialekts der Standard-SQL-Sprache vermittelt&#58; Transact-SQL. Zu den Themen gehören das Abfragen und Ändern von Daten in relationalen Datenbanken, die in Microsoft SQL Server-basierten Datenbanksystemen gehostet werden. Dazu gehören&#58; Microsoft SQL Server, Azure SQL-Datenbank und Azure Synapse Analytics.
+
+  #### Zielgruppenprofil
+
+  Dieser Kurs kann für alle nützlich sein, die grundlegende SQL-oder Transact-SQL-Abfragen schreiben müssen. Dies schließt jeden ein, der als Datenanalyst, Dateningenieur, Datenwissenschaftler, Datenbankadministrator oder Datenbankentwickler mit Daten arbeitet. Es kann auch für andere Personen nützlich sein, die sich am Rande mit Daten befassen oder mehr über die Arbeit mit Daten erfahren möchten, z. B. Lösungsarchitekten, Studenten und Technologiemanager.
+outlineSection: |-
+  ### Modul 1&#58; Erste Schritte mit Transact-SQL
+  In diesem Modul lernen Sie die Grundlagen der Transact-SQL-Sprache (T-SQL) sowie die allgemeinen Eigenschaften und die Terminologie relationaler Datenbanken kennen. Dieses Modul führt auch die grundlegende SELECT-Anweisung zum Abrufen von Daten aus einer Tabelle ein.
+  
+  #### Lektionen
+  - Einführung in Transact-SQL
+  - Verwenden der SELECT-Anweisung 
+  
+  #### Lab&#58; Erste Schritte mit SQLServer-Abfragetools und Schreiben von Abfragen in T-SQL
+    
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - ein Abfragetool zum Schreiben und Ausführen von Abfragen in Transact-SQL zu verwenden
+  - Grundkonzepte der relationalen Datenbank und der T-SQL-Sprache zu verstehen
+  - SELECT-Anweisungen zu schreiben, um Daten aus einer relationalen Datenbanktabelle abzurufen
+  - Grundlegende Datentypen und deren Verwendung zu verstehen
+  - die Grundlagen von NULL-Werten zu verstehen
+
+
+  ### Modul 2&#58; Sortieren und Filtern von Abfrageergebnissen
+  Im diesem Modul erfahren Sie, wie man steuern kann, welche Daten zurückgegeben werden und in welcher Reihenfolge sie zurückgegeben werden. Sie verwenden die ORDER BY-Klausel mit und ohne Paging. Sie lernen verschiedene Arten von Filtern kennen, die in der WO-Klausel verwendet werden können um zu steuern, welche Datenzeilen zurückgegeben werden. Sie erfahren auch, wie man Ergebnisse verwaltet, indem Sie Duplikate mit DISTINCT entfernen.
+  #### Lektionen
+  - Sortieren der Abfrageergebnisse
+  - Filtern der Daten
+
+  #### Lab&#58; Von SELECT-Abfragen zurückgegebene Daten sortieren und filtern
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - ORDER BY zu verwenden, um die Ergebnisse einer T-SQL SELECT-Anweisung zu sortieren 
+  - eine TOP-Klausel hinzuzufügen, um die Anzahl der zurückgegebenen Zeilen zu begrenzen
+  - die sortierten Daten mit OFFSET-FET zu durchblättern
+  - WO-Klauseln zu schreiben, um die zurückgegebenen Zeilen zu filtern
+  - DISTINCT zu verwenden, um doppelte Zeilen in den Ergebnissen zu entfernen
+
+
+  ### Modul 3&#58; Verwenden von Joins und Unterabfragen
+  In diesem Modul werden Sie T-SQL-Abfragen untersuchen, die mit verschiedenen Arten von JOIN-Operationen und einfachen Unterabfragen auf Daten aus mehreren Tabellen zugreifen.
+  #### Lektionen
+  - Verwenden von JOIN-Operationen
+  - Unterabfragen verwenden
+
+  #### Lab&#58; Schreiben Sie Abfragen mit JOIN-Operationen
+
+  #### Lab&#58; Schreiben Sie SELECT-Anweisungen mit Hilfe von Unterabfragen
+  
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Abfragen mit JOIN-Operationen zu schreiben, die auf Daten aus mehreren Tabellen zugreifen 
+  - die Unterschiede zwischen den Typen von JOIN-Operationen zu verstehen&#58; INNER JOIN, OUTER JOIN, CROSS JOIN
+  - zu verstehen, wie man eine Tabelle mit einem Self-Join mit sich selbst verbindet
+  - Unterabfragen innerhalb einer SELECT-Anweisung zu schreiben 
+  - den Unterschied zwischen skalaren und mehrwertigen Unterabfragen zu verstehen
+  - den Unterschied zwischen korrelierten und in sich geschlossenen Unterabfragen zu verstehen
+  
+  
+  ### Modul 4&#58; Verwenden integrierter Funktionen
+  In diesem Modul werden Sie die Verwendung integrierter Funktionen zur Rückgabe berechneter oder spezieller Werte in der SELECT-Liste oder in der WHERE-Klausel untersuchen. Zu den Funktionen gehören mathematische Funktionen, Zeichenfolgenfunktionen und Systemfunktionen. Es gibt andere Arten von Funktionen, die erwähnt, aber nicht im Detail besprochen werden. Außerdem erfahren Sie, wie man Datenzeilen zu einer einzigen Gruppe zusammenfasst und zusammenfassende Informationen für die Gruppe bereitstellt, z. B. SUMME, MIN oder MAX.
+  #### Lektionen
+  - Erste Schritte mit Skalarfunktionen
+  - Gruppieren aggregierter Ergebnisse
+
+  #### Lab&#58; Integrierte Funktionen
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Abfragen mit Hilfe von Skalarfunktionen zu schreiben
+  - Abfragen mit Hilfe von Aggregatfunktionen zu schreiben
+  - GROUP BY zu verwenden, um Daten, basierend auf einem gemeinsamen Spaltenwert, zu Gruppen zusammenzufassen
+  - zu verstehen, wie HAVING zum Filtern von Zeilengruppen verwendet wird
+  
+  
+  ### Modul 5&#58; Daten ändern
+  In diesem Modul lernen Sie die T-SQL-Anweisungen zum Ändern von Tabellendaten einschließlich UPDATE, DELETE und MERGE sowie verschiedene Optionen für INSERT kennen, einschließlich Erstellen einer neuen Tabelle mit Daten aus einer vorhandenen Tabelle. Sie erfahren auch, wie das System beim Einfügen der Daten automatisch Werte für Spalten bereitstellt.
+  #### Lektionen
+  - Einfügen von Daten in Tabellen
+  - Ändern und Löschen von Daten
+
+  #### Lab&#58; Daten ändern
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Daten in eine vorhandene Tabelle einzufügen
+  - anzugeben, ob eine Spalte automatisch mit einem IDENTITÄTS- oder einem SEQUENZ-Wert gefüllt werden soll
+  - Daten mit der UPDATE-Anweisung zu ändern
+  - Daten mit der Anweisung DELETE zu löschen
+  - Daten mit MERGE zu ändern, um zwei Tabellen zu synchronisieren

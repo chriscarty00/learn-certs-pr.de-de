@@ -145,7 +145,7 @@ Zu den berechtigten Prüfungen gehören alle Microsoft-Grundlagen-, rollenbasier
 
 **Fr.: Was passiert, wenn ich meinen Prüfungstermin verpasse und diesen nicht geändert oder storniert habe?**
 
-**A:** Wenn Sie Ihren Prüfungstermin verpasst haben und Ihren Termin nicht gemäß der [Stornierungs- und Neuplanungsrichtlinie](learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) verschieben oder stornieren, verfällt möglicherweise Ihr Angebot für eine kostenlose Prüfung.
+**A:** Wenn Sie Ihren Prüfungstermin verpasst haben und Ihren Termin nicht gemäß der [Stornierungs- und Neuplanungsrichtlinie](/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) verschieben oder stornieren, verfällt möglicherweise Ihr Angebot für eine kostenlose Prüfung.
 
 ### Wiederholungsrichtlinie
 

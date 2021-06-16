@@ -32,7 +32,7 @@ Im Folgenden finden Sie schrittweise Anleitungen, wie Sie Ihre kostenlose Prüfu
 2. Melden Sie sich in Ihrem bestehenden Microsoft-Zertifizierungsprofil an oder erstellen Sie eines mit einem  Microsoft-Account.
 <br/>
 <br/>
-![Anmelden im Microsoft-Zertifizierungsprofil ](images/microsoft-ignite-free-zertifizierungsprüfung-angebot-marz-2021-step-2.png)
+![Anmelden im Microsoft-Zertifizierungsprofil ](images/microsoft-ignite-free-certification-exam-offer-march-2021-step-2.png)
 <br/>
 <br/>
 3. Bestätigen Sie nach dem Anmelden, dass die Angaben in Ihrem Zertifizierungsprofil korrekt sind.

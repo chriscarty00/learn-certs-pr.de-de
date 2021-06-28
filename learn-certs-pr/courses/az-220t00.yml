@@ -37,14 +37,14 @@ summary: |-
   #### Zielgruppe
 
   Der Azure IoT-Entwickler ist für die Implementierung und die Codierung verantwortlich, die zum Erstellen und Verwalten des Cloud- und Edge-Teils einer IoT-Lösung erforderlich sind. Neben der Konfiguration und Wartung der Geräte mit Hilfe von Azure IoT-Diensten und anderen Microsoft-Tools richtet der IoT-Entwickler auch die physischen Geräte ein und ist für die Wartung der Geräte während des gesamten Lebenszyklus verantwortlich. Der IoT-Entwickler implementiert Designs für IoT-Lösungen, einschließlich Gerätetopologie, Konnektivität, Debugging und Sicherheit. Für Edge-Geräte-Szenarien setzt der IoT-Entwickler auch Compute/Container ein und konfiguriert die Gerätevernetzung, die verschiedene Edge-Gateway-Implementierungen umfassen kann. Der IoT-Entwickler implementiert Designs für Lösungen zur Verwaltung von Datenpipelines, einschließlich Überwachung und Datentransformation im Zusammenhang mit IoT. Der IoT-Entwickler arbeitet mit Dateningenieuren und anderen Beteiligten zusammen, um eine erfolgreiche Geschäftsintegration zu gewährleisten. IoT-Entwickler sollten ein gutes Verständnis der Azure-Dienste haben, einschließlich Datenspeicheroptionen, Datenanalyse, Datenverarbeitung und der Azure IoT-Optionen PaaS versus SaaS. IoT-Entwickler sollten über grundlegende Programmierkenntnisse in mindestens einer Azure-unterstützten Sprache verfügen, einschließlich C#, Node.js, C, Python oder Java.
-prerequisitesSection: "
+prerequisitesSection: |-
   Um in diesem Kurs erfolgreich zu sein, sollten die Teilnehmer Folgendes aufweisen&#58;
 
 - Cloud Solution Awareness&#58; Die TeilnehmerInnen sollten Erfahrung im Umgang mit dem Azure-Portal und ein grundlegendes Verständnis von PaaS-, SaaS- und IaaS-Implementierungen haben.
 - Erfahrung in der Software-Entwicklung&#58; Erfahrung in der Software-Entwicklung ist eine Voraussetzung für diesen Kurs. Eine spezielle Software-Sprache ist nicht erforderlich und die Erfahrung muss nicht auf einem professionellen, beruflichen Niveau sein. 
 - Datenverarbeitungserfahrung&#58; Allgemeines Verständnis von Datenspeicherung und Datenverarbeitung wird empfohlen, ist aber nicht erforderlich. \n\nWenn Sie neu im Bereich Azure und Cloud Computing sind, sollten Sie eine der folgenden Ressourcen in Betracht ziehen&#58;
 - Kostenlos online&#58; Azure Grundlagen (https&#58;//docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
-- Von einem/r AusbildnerIn geleiteter Kurs&#58; AZ-900&#58; Azure Fundamentals (https&#58;//docs.microsoft.com/en-us/learn/certifications/courses/az-900t01) "
+- Von einem/r AusbildnerIn geleiteter Kurs&#58; AZ-900&#58; Azure Fundamentals (https&#58;//docs.microsoft.com/en-us/learn/certifications/courses/az-900t01)
 outlineSection: |-
   ### Modul 1&#58; Einführung in IoT- und Azure IoT-Dienste
   In diesem Modul werden die TeilnehmerInnen zunächst die geschäftlichen Überlegungen für verschiedene IoT-Implementierungen untersuchen und überprüfen, wie die Azure IoT-Referenzarchitektur IoT-Lösungen unterstützt. In diesem Modul erhalten die TeilnehmerInnen auch einen Überblick über die in einer IoT-Lösung üblicherweise verwendeten Azure-Dienste und lernen das Azure-Portal kennen.

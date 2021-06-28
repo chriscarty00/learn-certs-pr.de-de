@@ -35,7 +35,7 @@ Wenn Sie Ihre Prüfung online ablegen, sollten Sie vorab eine Systemprüfung dur
 
 Ausführliche Anweisungen zur Durchführung der Systemvorprüfung für Ihren ausgewählten Prüfungsanbieter finden Sie unter: [Über Online-Prüfungen mit Pearson VUE](/learn/certifications/online-exams) oder [Über Online-Prüfungen mit PSI](/learn/certifications/online-exams-psi). Certiport bietet derzeit keine beaufsichtigten Online-Prüfungen an.
 
-Wenn Sie sich nicht sicher sind, welchen Prüfungsanbieter Sie auswählen sollen, gehen Sie auf: [So wählen Sie einen Prüfungsanbieter aus](#how-to-choose-an-exam-delivery-anbieter).
+Wenn Sie sich nicht sicher sind, welchen Prüfungsanbieter Sie auswählen sollen, gehen Sie auf: [So wählen Sie einen Prüfungsanbieter aus](#how-to-choose-an-exam-delivery-provider).
 
 ## Schritt-für-Schritt-Anleitung zur Prüfungsanmeldung
 

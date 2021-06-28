@@ -1,6 +1,6 @@
 ---
-title: Hilfe zu Microsoft Official Courseware (MOC) | Microsoft Docs
-description: Hilfe mit Microsoft Official Courseware (MOC)
+title: Microsoft Official Courseware (MOC) Unterstützung | Microsoft Docs
+description: Microsoft Official Courseware (MOC)-Unterstützung
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,11 +9,15 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Hilfe mit Microsoft Official Courseware (MOC)
+# Microsoft Official Courseware (MOC)-Unterstützung
 
-Benötigen Sie Unterstützung mit der Microsoft Official Courseware (MOC)? Wenden Sie sich über die unten stehende Länderliste an Ihr regionales Support-Center. Bitte beachten Sie, dass diese Support-Optionen nur für MOC gelten. Hilfe zu Microsoft-Zertifizierungen oder -Prüfungen finden Sie unter [Zertifizierungshilfe](/learn/certifications/help).
+## Über MOC-Unterstützung
+
+Microsoft Official Courseware (MOC) ist das Material, das in unseren Kursen verwendet wird. Die Unterstützung für MOC wird weltweit nach Regionen verwaltet.
 
 ## MOC Regionale Kontaktinformationen
+
+Bitte beachten Sie, dass diese Support-Optionen nur für MOC gelten. Hilfe zu Microsoft-Zertifizierungen oder -Prüfungen finden Sie unter: [Zertifizierungsbegleitung](/learn/certifications/help).
 
 | Land | Telefon + Sprache | E-Mail | Zusätzliche Informationen | Kontaktdaten |
 | ------- | ---------------- | --------- | ------------- | ---------------- |

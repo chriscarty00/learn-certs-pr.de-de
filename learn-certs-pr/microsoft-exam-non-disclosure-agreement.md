@@ -12,7 +12,7 @@ ms.prod: non-product-specific
 ---
 # Geheimhaltungsvereinbarung für Microsoft-Prüfungen
 
-### MICROSOFT ZERTIFIZIERUNG PRÜFUNGSVEREINBARUNG
+## MICROSOFT ZERTIFIZIERUNG PRÜFUNGSVEREINBARUNG
 
 **BITTE LESEN SIE DIESE MICROSOFT ZERTIFIZIERUNGSPRÜFUNGSVEREINBARUNG ("VEREINBARUNG") SORGFÄLTIG DURCH. DURCH KLICKEN AUF DIE SCHALTFLÄCHE "JA" BESTÄTIGEN SIE, DASS SIE DIE BERECHTIGUNG ZUM ABSCHLUSS DIESER VEREINBARUNG HABEN UND STIMMEN ALLEN GESCHÄFTSBEDINGUNGEN DIESER VEREINBARUNG ZU. WENN SIE NICHT EINVERSTANDEN SIND, WÄHLEN SIE "NEIN". SIE MÜSSEN "JA" WÄHLEN, UM DIE ZERTIFIZIERUNGSPRÜFUNG FÜR MICROSOFT ZU ABSOLVIEREN.**
 
@@ -63,22 +63,22 @@ Diese Vereinbarung wird zum Zeitpunkt Ihrer Zustimmung zwischen Ihnen (**Sie** o
 
     Durch die Teilnahme an dieser Prüfung stimmen Sie zu, dass Microsoft, seine verbundenen Unternehmen und der Prüfungsanbieter berechtigt sind:
 
-    1. Ihre persönlichen Daten und Prüfungsdaten miteinander zu teilen, um die Prüfung abzuschließen, das Prüfungsprogramm und die Prüfungsprozedur zu verbessern, die statistische Analyse zu erleichtern und festzustellen, ob Sie die Prüfung bestanden haben;
-    2. Mit Ihnen Kontakt aufzunehmen bezüglich der Zertifikate, die belegen, dass Sie die Prüfung bestanden haben, oder bezüglich des Microsoft-Zertifizierungsprogramms;
-    3. Ihre persönlichen Daten und Prüfungsergebnisse an andere Microsoft-Programme, z.B. das Microsoft Partner Network-Programm, weiterzugeben, um die Einhaltung der Programmanforderungen durch Sie und Ihren Arbeitgeber zu überprüfen;
-    4. Ihre Informationen an Normierungs- und Zertifizierungsstellen weiterzugeben, die mit der akademischen Einrichtung, dem Unternehmen oder der Behörde verbunden sind, die Ihnen einen Prüfungsbeleg ausgestellt hat; und
-    5. Ihre Prüfungsergebnisse und Ihre persönlichen Daten an die Stelle weiterzugeben, die den Gutschein ausgestellt hat oder die Standortlizenz erworben hat, wenn die Prüfung Ihnen durch eine der folgenden Art und Weisen zur Verfügung gestellt wurde:
+    - Ihre persönlichen Daten und Prüfungsdaten miteinander zu teilen, um die Prüfung abzuschließen, das Prüfungsprogramm und die Prüfungsprozedur zu verbessern, die statistische Analyse zu erleichtern und festzustellen, ob Sie die Prüfung bestanden haben;
+    - Mit Ihnen Kontakt aufzunehmen bezüglich der Zertifikate, die belegen, dass Sie die Prüfung bestanden haben, oder bezüglich des Microsoft-Zertifizierungsprogramms;
+    - Ihre persönlichen Daten und Prüfungsergebnisse an andere Microsoft-Programme, z.B. das Microsoft Partner Network-Programm, weiterzugeben, um die Einhaltung der Programmanforderungen durch Sie und Ihren Arbeitgeber zu überprüfen;
+    - Ihre Informationen an Normierungs- und Zertifizierungsstellen weiterzugeben, die mit der akademischen Einrichtung, dem Unternehmen oder der Behörde verbunden sind, die Ihnen einen Prüfungsbeleg ausgestellt hat; und
+    - Ihre Prüfungsergebnisse und Ihre persönlichen Daten an die Stelle weiterzugeben, die den Gutschein ausgestellt hat oder die Standortlizenz erworben hat, wenn die Prüfung Ihnen durch eine der folgenden Art und Weisen zur Verfügung gestellt wurde:
         - durch ein Unternehmen oder eine Behörde, die Gutscheine erwirbt und diese dann an die Mitarbeiter oder Auftragnehmer ausgibt,
         - durch eine akademische Einrichtung, die Gutscheine erwirbt und diese dann an ihre Studenten oder Mitarbeiter ausgibt.
         - durch eine akademische Einrichtung oder Behörde, die ein Prüfungszentrum betreibt und Ihnen keine eigenständige Gebühr für die Teilnahme an der Prüfung berechnet, oder.
         - durch eine Behörde, die Weiterbildungsstipendien vergibt, die auf der Grundlage von Abschlussbedingungen und dem von Microsoft festgelegten Überprüfungsprozess anzuwenden sind.
-    6. Wenn Sie Ihre Prüfungsergebnisse und Ihre persönlichen Daten einer Stelle vermitteln, die Ihre Prüfung finanziert hat, wenn die Finanzierung über eine Regierungsbehörde bereitgestellt wurde, die Weiterbildungsstipendien bereitstellt, die auf der Grundlage von Abschlussbedingungen und dem von Microsoft festgelegten Überprüfungsprozess vergeben werden.
+    - Wenn Sie Ihre Prüfungsergebnisse und Ihre persönlichen Daten einer Stelle vermitteln, die Ihre Prüfung finanziert hat, wenn die Finanzierung über eine Regierungsbehörde bereitgestellt wurde, die Weiterbildungsstipendien bereitstellt, die auf der Grundlage von Abschlussbedingungen und dem von Microsoft festgelegten Überprüfungsprozess vergeben werden.
 
     Weitere Informationen über die Datenerhebung und Verfahrensweisen von Microsoft finden Sie unter [https://privacy.microsoft.com](https://privacy.microsoft.com/). Um mehr über die Datenerhebung und die Verwendung der Praktiken des Prüfungsanbieters zu erfahren, wenden Sie sich bitte an den Prüfungsanbieter.
 
 6. **HINWEIS ZUR DATENÜBERMITTLUNG**
 
-    Ihre personenbezogenen Daten, Prüfungsinformationen und Prüfungsergebnisse (einschließlich der aus der Europäischen Union, dem Europäischen Wirtschaftsraum und der Schweiz gesammelten personenbezogenen Daten) können in die Vereinigten Staaten oder jedes andere Land, in dem Microsoft oder seine verbundenen Unternehmen oder Subunternehmer Einrichtungen betreiben, gespeichert und verarbeitet werden. Sie gestatten Microsoft, seinen verbundenen Unternehmen und dem Prüfungsanbieter, eine derartige Übermittlung Ihrer Daten, Prüfungsinformationen und Prüfungsergebnisse in ein solches Land durchzuführen und Ihre Daten zu speichern und zu verarbeiten. Microsoft hält sich an d Safe-Harbor-Richtlinien der EU und die vom U.S.-Handelsministerium festgelegten Safe-Harbor-Richtlinien für die Erhebung, Verwendung und Speicherung von Daten aus der Europäischen Union, dem Europäischen Wirtschaftsraum und der Schweiz.
+     Ihre personenbezogenen Daten, Prüfungsinformationen und Prüfungsergebnisse (einschließlich personenbezogener Daten, die aus dem Europäischen Wirtschaftsraum, Großbritannien und der Schweiz erhoben wurden) können in die Vereinigten Staaten von Amerika oder in jedes andere Land, in dem Microsoft oder seine verbundenen Unternehmen oder Subunternehmer Einrichtungen haben, übertragen werden. Sie beauftragen Microsoft und seine verbundenen Unternehmen, eine solche Übertragung Ihrer Daten, Prüfungsinformationen und Prüfungsergebnisse in ein solches Land durchzuführen und Ihre Daten zu speichern und zu verarbeiten. Weitere Informationen darüber, wie wir Ihre Daten erheben, verwenden und weitergeben, finden Sie in der [Datenschutzerklärung von Microsoft](https://go.microsoft.com/fwlink/?LinkId=248681).
 
 7. **EIGENTUM UND ALLE RECHTE VORBEHALTEN**
 

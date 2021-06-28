@@ -1,6 +1,6 @@
 ---
-title: Microsoft Retired Courses | Microsoft Docs
-description: Microsoft Retired Courses
+title: Kurseinstellung | Microsoft Docs
+description: Kurseinstellung
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,19 +9,54 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Eingestelltes Lehrmaterial:
+# Kurseinstellung
 
-In den folgenden Tabellen finden Sie eine Auflistung von Lehrmaterialien, die entweder eingestellt wurden oder bald ausscheiden. Nach der Einstellung werden die Kurse nicht mehr verkauft.
+## Informationen zur Kurseinstellung
 
-Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem Link: [https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+Microsoft überwacht kontinuierlich Branchentrends und überarbeitet die Zertifizierungsanforderungen, um mit technologischen Veränderungen Schritt halten zu können. Damit Sie auf dem neuesten Stand der Technik sind und um Ihnen die relevantesten Weiterbildungsmöglichkeiten bieten, führen wir regelmäßig neue Kurse ein und überarbeiten ältere Kurse oder stellen diese ein.
 
-## Eingestelltes Lehrmaterial: Ausbilder-geführte Ausbildung
+Sobald ein Kurs eingestellt wird, ist er nicht mehr verfügbar. Der Kurs kann nicht mehr gekauft werden und Personen, die ihn zuvor gekauft haben, haben keinen Zugriff mehr auf die Kursunterlagen.
+
+## Eingestellte Kurse Von Dozenten geleitete Schulung
+
+* Ausmusterung der Kursunterlagen am 31. Mai 2021
+
+    | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
+    | --- | --- | --- | --- | --- |
+    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | Englisch | 5/31/2021 |
+    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | Englisch | 5/31/2021 |
+    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | Englisch| 5/31/2021 |
+
+*  Ausmusterung der Kursunterlagen am 30. April 2021
+
+    | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
+    | --- | --- | --- | --- | --- | 
+    | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | Englisch| 04/30/2021 |
 
 * Einstellung der Lernsoftware am 31. März 2021
 
     | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
     | --- | --- | --- | --- | --- |
     | 20778 | C | Analyzing Data with Power BI | Englisch | 03/31/2021 |
+    | 40037 | A | Database Administration Fundamentals: MTA Exam 98-364 | Japanisch | 3/31/2021 |
+    | 40038 | A | Networking Fundamentals: MTA Exam 98-366 | Japanisch | 3/31/2021 |
+    | 40039 | A | Security Fundamentals: MTA Exam 98-367 | Japanisch | 3/31/2021 |
+    | 40040 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | Japanisch | 3/31/2021 |
+    | 40240 | A | MTA Mobility & Device Fundamentals 98-368 Windows (Japanisch) | Japanisch | 3/31/2021 |
+    | 40241 | A | MTA Cloud Fundamentals 98-369 (Japanisch) | Japanisch | 3/31/2021 |
+	| 40349 | B | Windows OS Fundamentals | Englisch | 03/31/2021 |
+    | 40361 | A | Software Development Fundamentals: Training for MTA Exam 98-361 | Englisch | 3/31/2021 |
+    | 40362 | A | Windows Development Fundamentals: Training for MTA Exam 98-362 | Englisch | 3/31/2021 |
+    | 40363 | A | Web Development Fundamentals: Training for MTA Exam 98-363 | Englisch | 3/31/2021 |
+    | 40364 | A | Database Administration Fundamentals: Training for MTA Exam 98-364 | Englisch | 3/31/2021 |
+    | 40366 | B | Networking Fundamentals | Englisch | 03/31/2021 |
+    | 40367 | B | Security Fundamentals | Englisch | 03/31/2021 |
+    | 40368 | A | Mobility & Devices Fundamentals: MTA Exam 98-368 | Englisch| 03/31/2021 |
+    | 40369 | A | Cloud Fundamentals: MTA Exam 98-369 | Englisch | 03/31/2021 |
+	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | Englisch | 3/31/2021 |
+    | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | Englisch | 3/31/2021 |
+    | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | Englisch | 3/31/2021 |
+    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | Englisch | 3/31/2021 |
 
 * Ablauf von Kursmaterialien am, 31. Dezember 2020
 
@@ -989,7 +1024,7 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
 
 * Ablauf von Kursmaterialien am, 24. Juni 2016
 
-  [Laden Sie die vollständige Liste der auslaufenden E-Learning-Kurse herunter](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
+  [Laden Sie die vollständige Liste der auslaufenden E-Learning-Kurse herunter.](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
 * Ablauf von Kursmaterialien am, 15. Juni 2016
 
@@ -1025,7 +1060,7 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
 
 * Ablauf von Kursmaterialien am, 31. Dezember 2015
 
-  [Laden Sie die vollständige Liste der ausscheidenden, von Lehrkräften geleiteten Kurse herunter](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
+  [Laden Sie die vollständige Liste der ausscheidenden, von Lehrkräften geleiteten Kurse herunter.](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
 * Ablauf von Kursmaterialien am, 31. August 2015
 
@@ -1046,7 +1081,7 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
 
 * Ablauf von Kursmaterialien am, , 30. Juni 2015
 
-  [Laden Sie die vollständige Liste der ausscheidenden, von Lehrkräften geleiteten Kurse herunter](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
+  [Laden Sie die vollständige Liste der ausscheidenden, von Lehrkräften geleiteten Kurse herunter.](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
 
 * Ablauf von Kursmaterialien am, 31. Januar 2015
 
@@ -1139,7 +1174,7 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
 
 * Ablauf von Kursmaterialien am, 29. Dezember 2017
 
-  * [Laden Sie die vollständige Liste der auslaufenden SA-E-Learning-Kurse herunter](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [Laden Sie die vollständige Liste der auslaufenden SA-E-Learning-Kurse herunter.](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
   * [Laden Sie die vollständige Liste der auslaufenden MSIA-Learning-Kurse herunter.](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
 
 * Ablauf von Kursmaterialien am 15. August 2017
@@ -1150,62 +1185,58 @@ Wenn Sie nach eingestellten MOC On-Demand-Kursen suchen, folgen Sie bitte diesem
 
 * Ablauf von Kursmaterialien am, 30. Juni 2017
 
-  * [Laden Sie die vollständige Liste der auslaufenden SA-E-Learning-Kurse herunter](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
-  * [Laden Sie die vollständige Liste der auslaufenden MSIA E-Learning-Kurse herunter](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
+  * [Laden Sie die vollständige Liste der auslaufenden SA-E-Learning-Kurse herunter.](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
+  * [Laden Sie die vollständige Liste der auslaufenden MSIA E-Learning-Kurse herunter.](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
 
 * Ablauf von Kursmaterialien am, , 30. Juni 2015
 
-  * [Laden Sie die vollständige Liste der auslaufenden E-Learning-Kurse herunter](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
+  * [Laden Sie die vollständige Liste der auslaufenden E-Learning-Kurse herunter.](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
 
 * Ablauf von Kursmaterialien am, 12. März 2014
 
-  * [Laden Sie die vollständige Liste der auslaufenden Learning-Kurse herunter](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
+  * [Laden Sie die vollständige Liste der auslaufenden Learning-Kurse herunter.](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
 
-## Schulungsunterlagen und MOC Einstellung bei Bedarf Häufig gestellte Fragen (FAQ)
- 
-**Fr.: Warum werden Kurse nicht mehr angeboten?**
-  
-Microsoft beobachtet kontinuierlich die Branchentrends und überarbeitet die Zertifizierungsanforderungen, um mit den technologischen Veränderungen Schritt zu halten. Um sicherzustellen, dass wir Ihnen nur relevante Ausbildungsmöglichkeiten bieten, führen wir regelmäßig neue Kurse ein und überarbeiten oder beenden ältere Kurse. 
+## Eingestellte Kurse MOC On-Demand
 
-**Fr.: Nach welchen Kriterien wird festgelegt, dass ein Kurs nicht mehr angeboten werden soll?**
+Alle offiziellen Microsoft (MOC) On-Demand-Kurse wurden zum 30. Juni 2020 eingestellt. Eine vollständige Liste der eingestellten Kurse finden Sie unter: [MOC On-Demand-Kurse sind eingestellt worden](/learn/certifications/retired-on-demand-online-courses).
+
+## Häufig gestellte Fragen zur Einstellung von Kursen und MOC On-Demand
+
+**Nach welchen Kriterien wird festgelegt, dass ein Kurs nicht mehr angeboten werden soll?**
  
 Normalerweise wird ein Kurs in einem der folgenden Szenarien beendet:
 
 - Der Kurs wurde ersetzt. Es wird ein neuer Kurs herausgegeben, der einen oder mehrere vorhergehende Kurse ersetzt und das Material auf eine neue, verbesserte Art und Weise abdeckt.
-- Wenn die Technologie, die in einem Kurs behandelt wird, nicht mehr von Microsoft unterstützt wird, wird die Schulungssoftware in der Regel eingestellt.
+- Wenn die in einem Kurs behandelte Technologie nicht mehr von Microsoft unterstützt wird, wird der Kurs in der Regel eingestellt.
 - Geschäftsentscheidungen, die sich auf den Erfolg eines Kurses oder die Kosten für die Aktualisierung eines Kurses beziehen, können zur Beendigung des Kurses führen.
-- Die Zertifizierung wurde eingestellt. Wenn der Kurs für eine Zertifizierung konzipiert wurde, die nicht mehr angeboten wird, können die Schulungsunterlagen aus dem Programm genommen werden.
+- Die Zertifizierung wurde eingestellt. Wenn der Kurs für eine Zertifizierung konzipiert wurde, die nicht mehr angeboten wird, kann der Kurs eingestellt werden.
 - Kurse, die von Nicht-Microsoft-Autoren über das Community-Autorenprogramm angeboten werden, können auf Wunsch des Autors aus beliebigen Gründen eingestellt werden.
 - Qualitätsbedenken können dazu führen, dass der Kurs eingestellt wird. Wenn Qualitätsprobleme mit einem Kurs identifiziert werden, kann dieser bis zur Verbesserung der Qualität eingestellt werden.
   
-**Fr.: Wie erfahre ich, ob ein Kurs eingestellt wurde?**
+**Wie erfahre ich, ob ein Kurs eingestellt wurde?**
   
 Microsoft veröffentlicht vierteljährlich eine Liste von Kursen, die eingestellt werden und solche, die innerhalb der nächsten drei bis sechs Monate eingestellt werden sollen. Die Ankündigungen für die Einstellung werden über die Kommunikation mit Schulungspartnern, Trainern, Verkäufern und anderen interessierten Zielgruppen ausgetauscht. Die Kursbeschreibungen im Microsoft Trainingskatalog und im Courseware Library Catalog werden mit einer Ankündigung des Einstellungsdatums aktualisiert.
 
-**Fr.: Wie kann ich einen Kurs nach der Einstellung erwerben?**
+**Wie kann ich einen Kurs nach der Einstellung erwerben?**
 
 Nach der Einstellung werden die Kurse nicht mehr verkauft. Das Einstellungsdatum wird über die Katalog-Webseite für jeden Kurs und über regelmäßige Kommunikationskanäle für das jeweilige Publikum veröffentlicht. Zum Zeitpunkt der Einstellung wird das Lernmaterial als nicht mehr verkäuflich gekennzeichnet. Um Verwirrung zu vermeiden, bleibt der Kurs für einen Zeitraum nach der effektiven Einstellung als nicht verkäuflich gekennzeichnet, bis er archiviert und vollständig aus dem Katalog entfernt wird.
 
-**Fr.: Kann ich die digitale Version eines Kurses vor der Einstellung kaufen und herunterladen oder nach der Einstellung verwenden?**
+**Kann ich die digitale Version eines Kurses vor der Einstellung kaufen und herunterladen oder nach der Einstellung verwenden?**
 
 Nach der Einstellung des Kurses kann er nicht mehr heruntergeladen werden. Wenn Sie die Schulungsunterlagen vor dem Einstellungsdatum heruntergeladen oder erhalten haben, dürfen Sie sie gemäß den Lizenzbedingungen verwenden.
 
-**Fr.: Was passiert mit eingestellten Kursen, die mir vor der Einstellung in meinem Lernplan zugewiesen und/oder unter der Rubrik "Meine Kurse" hinzugefügt wurden?**
+**Was passiert mit eingestellten Kursen, die mir vor der Einstellung in meinem Lernplan zugewiesen und/oder unter der Rubrik "Meine Kurse" hinzugefügt wurden?**
 
-Sie werden diese Kurse auch nach ihrer Einstellung im Abschnitt "Meine Kurse" sehen, aber der Versuch, einen ausgemusterten Kurs zu starten, führt zu einer Fehlermeldung.
+Sie werden diese Kurse auch nach deren Einstellung weiterhin im Abschnitt „Meine Kurse“ sehen, aber der Versuch, einen eingestellten Kurs zu beginnen, führt zu einer Fehlermeldung.
 
-**Fr.: Wenn ich einen Kurs nicht vor seiner Einstellung abgeschlossen habe, darf ich ihn dann nach seiner Einstellung abschließen?**
+**Wenn ich einen Kurs vor dessen Einstellung nicht abgeschlossen habe, darf ich ihn dann nach der Einstellung noch abschließen?**
 
 Nein. Nach der Einstellung eines Kurses können Sie nicht mehr darauf zugreifen.
-  
-**Fr.: Wie werden die Berichte über die Kursaktivitäten in den laufenden Kursen zum Zeitpunkt ihrer Einstellung berücksichtigt?**
+
+**Wie werden die Berichte über die Kursaktivitäten in den laufenden Kursen zum Zeitpunkt ihrer Einstellung berücksichtigt?**
 
 Die Berichte über die Kursaktivitäten berücksichtigen die Fortschritte, die Sie bei einem Kurs zum Zeitpunkt seiner Einstellung gemacht haben. Wenn z.B. ein Kurs zu 60% von einem Benutzer absolviert worden ist, wenn der Kurs beendet wird, werden in den Berichten über die Kursaktivität 60% des Kurses angezeigt. Der Fertigstellungsgrad eines Kurses kann nicht mehr geändert werden, nachdem ein Kurs eingestellt wurde.
 
-**Fr.: Kann ich auf der Online-Learningseite noch einen ausgemusterten Kurs finden?**
+**Kann ich auf der Online-Learningseite noch einen ausgemusterten Kurs finden?**
 
 Nein. Ausgemusterte Kurse erscheinen nicht mehr in den Suchergebnissen oder im Kurskatalog.
-
-**Fr.: Wenn ein Kurs ausläuft, wird dann der zugehörige MOC On-Demand (MOD) auch ausgemustert?**
-
-Ja. Da der Microsoft On-Demand-Kurs auf die Kursunterlagen abgestimmt ist, wird er an demselben Datum wie der Kurs eingestellt.

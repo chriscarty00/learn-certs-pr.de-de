@@ -22,41 +22,30 @@ Ca. sechs Monate nach Einführung rollenbasierter und spezieller Zertifizierunge
 
 Wenn Sie berechtigt sind, Ihre Zertifizierung zu erneuern, werden auf der E-Mail -Adresse verständigt, die mit Ihrer Microsoft-Zertifizierungs-ID (MCID) verlinkt ist. Sie bekommen dann bis zu vier Erinnerungs-E-Mails, bevor Ihre Zertifizierung abläuft. Nachdem Sie Ihre Zertifizierung erneuert haben, bekommen Sie keine Erinnerungsschreiben mehr, bis es wieder Zeit zum Erneuern ist.
 
-Gehen Sie nachstehende Roadmap (Änderungen vorbehalten) durch, da wir anfänglich Erneuerungsbewertungen für Zertifizierungen starten, die auf dem Markt sind.
+Die ersten verfügbaren Verlängerungsbewertungen sind hier aufgelistet. Diese werden in der Reihenfolge geplant, in der die Berechtigung der einzelnen Teilnehmer für Verlängerungen geöffnet wird. Teilnehmer haben Anspruch auf Verlängerungen innerhalb von sechs Monaten vor Ablauf ihrer Zertifizierung. Bitte überprüfen Sie diese Seite auf Aktualisierungen/Änderungen zur Liste. 
 
-| Erneuerungsbewertungen verfügbar ab Anfang Februar 2021 |
+| Verlängerungsbewertung verfügbar März 2021 |
 | --- |
 | Microsoft Certified: Azure Administrator Associate |
 | Microsoft Certified: Azure Developer Associate |
 | Microsoft Certified: Azure Security Engineer Associate |
 | Microsoft Certified: DevOps Engineer Expert |
 | Microsoft Certified: Azure Solutions Architect Expert |
-| Microsoft Certified: Azure for SAP Workloads Specialty |
-| Microsoft Certified: Azure IoT Developer Specialty |
+| Microsoft Certified: Azure AI Engineer Associate |
+| Microsoft Certified: Azure Data Engineer Associate |
 | Microsoft Certified: Azure Data Scientist Associate |
 | Microsoft 365 Certified: Modern Desktop Administrator Associate |
 | Microsoft 365 Certified: Messaging Administrator Associate |
-| Microsoft 365 Certified: Security Administrator Associate |
-| Microsoft 365 Certified: Developer Associate |
-| Microsoft 365 Certified: Teams Administrator Associate |
+| Microsoft 365 Certified: Security Administrator Associate |	  
 | Microsoft 365 Certified: Enterprise Administrator Expert |
+| Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate |
+| Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate |
-
-| Erneuerungsbewertungen verfügbar von Mitte Februar bis März 2021 |
-| --- |
-| Microsoft Certified: Azure AI Engineer Associate |
-| Microsoft Certified: Azure Data Engineer Associate |
-| Microsoft Certified: Azure Database Administrator Associate |
-| Microsoft Certified: Data Analyst Associate |
-| Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Finance and Operations Apps Developer Associate |
-| Microsoft Certified: Dynamics 365 Finance and Operations Apps Solution Architect Expert |
-
+	
 ## Vorteile der Erneuerung Ihrer Zertifizierung
 
 - Halten Sie Ihre Microsoft Zertifizierung mit einer Weiterbildungseinstellung aufrecht und halten Sie Ihre Fähigkeiten kostenlos auf Stand.
@@ -78,7 +67,7 @@ Gehen Sie nachstehende Roadmap (Änderungen vorbehalten) durch, da wir anfängli
 
 ## Änderungen zur Zertifizierungsablauf-Richtlinie
 
-Am 15. Dezember 2020 haben wir [eine Änderung an der Zertifizierungsablauf-Richtlinie angekündigt](https://aka.ms/CertRenewalBlog). Ab Juni 2021 gilt jede erworbene [rollenbasierte](/learn/certifications/browse/?type=role-based) oder [spezielle Zertifizierung](/learn/certifications/browse/?type=specialty) für ein Jahr ab dem Zeitpunkt, an dem Sie sie erworben haben. Rollenbasierte und spezielle Zertifizierungen, die vor Juni 2021 erworben werden, gelten zwei Jahre ab dem Zeitpunkt ihrer Erlangung.
+Am 15. Dezember 2020 [kündigten wir eine Änderung der Richtlinien zum Ablauf der Zertifizierung an.](https://aka.ms/CertRenewalBlog) die am Mittwoch, 30. Juni 2021 um 12 Uhr GMT (29. Juni 2021 um 17 Uhr PT) in Kraft tritt, jede [Rollen -basierte](/learn/certifications/browse/?type=rollenbasiert) oder [Spezialzertifizierung](/learn/certifications/browse/?type=specialty) ist ein Jahr ab dem Datum gültig, an dem Sie diese erworben haben. die vor Juni 2021 erworben werden, gelten zwei Jahre ab dem Zeitpunkt ihrer Erlangung.
 
 ## Häufig gestellte Fragen
 
@@ -100,38 +89,42 @@ Für weitere Informationen, gehen Sie die FAQ über die Erneuerung von Microsoft
 
     Ihr Docs Profil auf Microsoft Learn beinhaltet die Aktivitätshistorie über Microsoft Learn, Docs, Q&A und Codebeispiele hinweg. Zum Zugriff verwenden Sie entweder einen persönlichen Microsoft Account oder einen Arbeits- oder Schul-Account.
 
-4. **Meine Zertifizierung ist abgelaufen. Was passiert jetzt?**
+4. **Ich habe ein Microsoft-Zertifizierungsprofil und ein Docs-Profil auf Learn, die jeweils mit verschiedenen persönlichen Accounts verknüpft sind. Wie verbinde ich diese beiden Profile?**
+
+    Bevor Sie ein Microsoft-Zertifizierungsprofil und ein Docs Profil auf Learn miteinander verbinden können, die jeweils unterschiedliche persönliche Accounts verwenden, müssen Sie für beide ein und dasselbe persönliches Account auswählen. Um Ihre Optionen zum Verbinden dieser Accounts zu überprüfen, lesen Sie bitte das Dokument „[Aligning accounts between Certification Profile and Learn Profile](/learn/certifications/aligning-accounts-between-certification-profile-and-learn-profile)“.
+
+5. **Meine Zertifizierung ist abgelaufen. Was passiert jetzt?**
 
     Wenn Ihre Zertifizierung abläuft, müssen Sie sie durch Ablegen der erforderlichen Prüfung(en) erneut erwerben.
 
-5. **Kann ich meine Zertifizierung durch Ablegen einer Beta-Prüfung oder durch Wiederholung einer Prüfung, bevor meine Zertifizierung abläuft, erneuern?**
+6. **Kann ich meine Zertifizierung durch Ablegen einer Beta-Prüfung oder durch Wiederholung einer Prüfung, bevor meine Zertifizierung abläuft, erneuern?**
 
     Nein. Zum Erneuern Ihrer Zertifizierung müssen Sie die Erneuerungsprüfung ablegen, bevor Ihre Zertifizierung abläuft.
 
-6. **Besitzen alle Microsoft Zertifizierungen die Erneuerungsoption?**
+7. **Besitzen alle Microsoft Zertifizierungen die Erneuerungsoption?**
 
     Microsofts rollenbasierte und spezielle Zertifizierungen, die über sechs Monate verfügbar sind, haben diese Erneuerungsoption.
 
-7. **Muss ich meine Microsoft Grundlagen-Zertifizierung erneuern?**
+8. **Muss ich meine Microsoft Grundlagen-Zertifizierung erneuern?**
 
     Nein. Der Zertifizierungserneuerungsprozess gilt nicht für Grundlagen-Zertifizierungen, denn diese laufen nicht ab.
 
-8. **Sind die Erneuerungsprüfungen mit dem regulären Aktualisierungs-Takt abgestimmt?**
+9. **Sind die Erneuerungsprüfungen mit dem regulären Aktualisierungs-Takt abgestimmt?**
 
     Ja, Aktualisierungen zu den Prüfungen sind mit den Zertifizierungsprüfungs-Aktualisierungen abgestimmt.
 
-9. **In welchen Sprachen stehen die Prüfungen zur Verfügung?**
+10. **In welchen Sprachen stehen die Prüfungen zur Verfügung?**
 
     Erneuerungsprüfungen auf Microsoft Learn stehen in denselben Sprachen zur Verfügung wie die entsprechenden Zertifizierungsprüfungen.
 
-10. **Wie oft kann ich die Prüfung wiederholen?**
+11. **Wie oft kann ich die Prüfung wiederholen?**
 
     Sie können die Prüfung so oft wiederholen, bis Sie sie bestehen, und Sie müssen sie bestehen, bevor Ihre Zertifizierung abläuft. Bestehen Sie sie beim ersten Mal nicht, können Sie gleich wieder antreten. Nach dem zweiten Versuch müssen Sie jedoch 24 Stunden warten, bevor Sie es erneut versuchen.
 
-11. **Wenn ich meine rollenbasierte Expert-Level-Zertifizierung erneuere und eine Associate-Level-Zertifizierung Voraussetzung ist, wird damit automatisch auch meine Associate-Level-Zertifizierung erneuert?**
+12. **Wenn ich meine rollenbasierte Expert-Level-Zertifizierung erneuere und eine Associate-Level-Zertifizierung Voraussetzung ist, wird damit automatisch auch meine Associate-Level-Zertifizierung erneuert?**
 
     Nein. Jede Zertifizierung ist separat durch Bestehen der entsprechenden Prüfung zu erneuern.
 
-12. **Meine Experten-Level-Zertifizierung setzt die Erlangung einer Zertifizierung auf Associate-Level voraus. Wenn die Associate-Level-Zertifizierung abläuft, läuft dann auch mein Experten-Level automatisch ab ?**
+13. **Meine Experten-Level-Zertifizierung setzt die Erlangung einer Zertifizierung auf Associate-Level voraus. Wenn die Associate-Level-Zertifizierung abläuft, läuft dann auch mein Experten-Level automatisch ab ?**
 
     Nein, Ihre Expert-Level-Zertifizierung läuft nicht automatisch ab, wenn Ihre Associate-Level-Zertifizierung abläuft. Jede Zertifizierung ist separat durch Bestehen der entsprechenden Prüfung zu erneuern.

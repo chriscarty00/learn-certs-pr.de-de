@@ -1,0 +1,129 @@
+### YamlMime:Course
+title: Implementing a Machine Learning Solution with Microsoft Azure Databricks
+metadata:
+  title: 'Course DP-090T00--A: Implementing a Machine Learning Solution with Microsoft Azure Databricks'
+  description: 'Course DP-090T00--A: Implementing a Machine Learning Solution with Microsoft Azure Databricks'
+uid: course.dp-090t00
+courseNumber: 'DP-090T00'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Stellen Sie einen Azure Databricks-Arbeitsbereich sowie ein Cluster bereit
+- skill: Verwenden Sie Azure Databricks, um ein Modell für maschinelles Lernen zu trainieren
+- skill: Verwenden Sie MLflow, um Experimente zu verfolgen und Modelle für maschinelles Lernen zu verwalten
+- skill: Integrieren Sie Azure Databricks in Azure Machine Learning
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-scientist
+products:
+- azure
+summary: |-
+  Azure Databricks ist eine cloudbasierte Plattform für Datenanalysen und maschinelles Lernen. In diesem eintägigen Kurs erfahren Sie, wie man mit Azure Databricks Daten untersuchen, vorbereiten und modellieren sowie Databricks-Prozesse für maschinelles Lernen in Azure Machine Learning integrieren kann.
+
+  #### Zielgruppenprofil
+
+  Deser Kurs richtet sich an Datenwissenschaftler mit Erfahrung in Phyton, die lernen müssen, wie sie ihre Fähigkeiten als Datenwissenschaftler und im maschinellen Lernen in Azure Databricks anwenden kann
+prerequisitesSection: |-
+  Bevor Sie an diesem Kurs teilnehmen, sollten Sie Erfahrung in der Verwendung von Python für die Arbeit mit Daten sowie Kenntnisse in Konzepten für maschinelles Lernen haben. Bevor Sie an diesem Kurs teilnehmen, führen Sie den folgenden Lernpfad in Microsoft Learn durch:1613
+
+  *   [Modelle für maschinelles Lernen erstellen](https://docs.microsoft.com/learn/paths/create-machine-learn-models/)
+outlineSection: |-
+  ### Modul 1&#58; Einführung in Azure Databricks
+
+  Einführung in Azure DatabricksIn diesem Modul erfahren Sie, wie Sie einen Azure Databricks-Arbeitsbereich und Cluster bereitstellen und diese zum Arbeiten mit Daten verwenden.
+
+  #### Lektionen
+
+  * Erste Schritte mit Azure Databricks
+
+  * Arbeiten mit Daten in Azure Databricks
+
+  #### Labor&#58; Erste Schritte mit Azure Databricks
+
+  ####
+
+  #### Labor&#58; Arbeiten mit Daten in Azure Databricks
+
+  ####
+
+  Nach Abschluss dieses Moduls sind Sie in der Lage&#58;
+
+  * einen Azure Databricks-Arbeitsbereich und Cluster bereitzustellen
+
+  * Azure Databricks zum Arbeiten mit Daten zu verwenden
+
+  ### Modul 2&#58; Trainieren und Bewerten von Modellen für maschinelles Lernen
+
+  In diesem Modul erfahren Sie, wie man mit Azure Databricks Daten für die Modellierung vorbereiten und ein Modell für maschinelles Lernen trainieren und validieren kann.
+
+  #### Lektionen
+
+  * Vorbereiten von Daten für maschinelles Lernen
+
+  * Trainieren eines Modells für maschinelles Lernen
+
+  #### Labor&#58; Trainieren eines Modells für maschinelles Lernen
+
+  ####
+
+  #### Labor&#58; Vorbereiten von Daten für maschinelles Lernen
+
+  ####
+
+  Nach Abschluss dieses Moduls können Sie Azure Databricks verwenden, um&#58;
+
+  * Daten zur Modellierung aufzubereiten
+
+  * ein Modell für maschinelles Lernen zu trainieren und zu validieren
+
+  ### Modul 3&#58; Verwalten von Experimenten und Modellen
+
+  In diesem Modul erfahren Sie, wie man mit MLflow Experimente verfolgt, die in Azure Databricks ausgeführt werden, und wie man Modelle für maschinelles Lernen verwaltet.
+
+  #### Lektionen
+
+  * Verwenden von MLflow zum Verfolgen von Experimenten
+
+  * Verwalten von Modellen
+
+  #### Labor&#58; Verwenden von MLflow zum Verfolgen von Experimenten
+
+  ####
+
+  #### Labor&#58; Modelle verwalten
+
+  ####
+
+  Nach Abschluss dieses Moduls sind Sie in der Lage&#58;
+
+  * MLflow zur Verfolgung von Experimenten zu verwenden
+
+  * Modelle zu verwalten
+
+  ### Modul 4&#58; Integrieren von Azure Databricks und Azure Machine Learning
+
+  In diesem Modul erfahren Sie, wie man Azure Databricks in Azure Machine Learning integriert
+
+  #### Lektionen
+
+  * Experimente mit Azure Machine Learning verfolgen
+
+  * Modelle bereitstellen
+
+  #### Labor&#58; Bereitstellen von Modellen in Azure Machine Learning
+
+  ####
+
+  #### Labor&#58; Ausführen von Experimenten in Azure Machine Learning
+
+  ####
+
+  Nach Abschluss dieses Moduls sind Sie in der Lage&#58;
+
+  * Azure Machine Learning-Experimente auf Azure Databricks Compute auszuführen
+
+  * mit Azure Databricks trainierte Modelle für Azure Machine Learning bereitzustellen

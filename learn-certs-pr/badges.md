@@ -1,6 +1,6 @@
 ---
-title: Microsoft Exam and Certification Badges | Microsoft Docs
-description: Microsoft Prüfungs- und Zertifizierungsabzeichen 
+title: Zertifizierungsabzeichen verwenden und teilen | Microsoft Docs
+description: Zertifizierungsabzeichen verwenden und teilen
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -9,120 +9,103 @@ ms.workload: NA
 ms.date: 05/28/2020
 ms.author: micsullivan
 ---
-# Microsoft Prüfungs- und Zertifizierungsabzeichen
+# Zertifizierungsabzeichen verwenden und teilen
 
-Informieren Sie die Welt über Ihre Leistungen, sobald Sie eine Prüfung bestehen oder eine neue Zertifizierung mit einem digitalen Abzeichen erwerben!
+## Über digitale Abzeichen
 
-Digitale Abzeichenermöglichen es Ihnen, Ihre Fähigkeiten auf eine vertrauenswürdige und überprüfbare Art und Weise zu teilen.
+Sie erhalten Abzeichen für das Bestehen von Prüfungen, die Teil einer Mehrfachprüfungszertifizierung sind, und für den Erwerb von Zertifizierungen. Wenn Sie Ihre Erfolge über ein digitales Abzeichen mit der Welt teilen, können Sie andere über Ihre Kompetenzen informieren.
 
-Ihr Abzeichen von Microsoft bietet Ihnen folgende Vorteile:
+Abzeichen sind digitale Darstellungen Ihrer Leistungen, bestehend aus einem Image und Metadaten, die eindeutig mit Ihnen verknüpft sind Wenn jemand Ihr Abzeichen anschaut, kann er mehr über Ihre Kompetenzen erfahren und die Authentizität des Abzeichens überprüfen. So kann jemand Ihre Kompetenzen auf einfache Weise bestätigen.
 
-Teilen Sie Ihre Zertifizierungen und Prüfungen ganz einfach mit Ihrem professionellen Netzwerk.
-Erfahren Sie, welche Arbeitgeber nach Personen mit Ihren Fähigkeiten suchen.
-Entdecken Sie das Gehalt, das Sie in Jobs erwarten können, die Ihre Microsoft-Kenntnisse voraussetzen.
-Suchen Sie nach neuen Stellenangeboten im Zusammenhang mit Ihrer Zertifizierung und bewerben Sie sich mit wenigen Klicks.
+Wenn Sie Ihr digitales Abzeichen auf beliebten Websites wie LinkedIn, Facebook und Twitter teilen oder es in Ihren Lebenslauf, Ihre persönliche Website oder Ihre E-Mail-Signatur einbetten, erkennt jeder, der Ihr Abzeichen sieht, es sofort als vertrauenswürdige Microsoft-Validierung Ihrer Leistung.
+
+## Über die Credly-Plattform
+
+Microsoft Partners arbeitet mit Credly zusammen, um Ihnen die Möglichkeit zu bieten, Ihre Microsoft-Zertifizierungen zu verwalten, freizugeben und zu überprüfen. Die Plattform bietet Ihnen auch Einblicke in den Arbeitsmarkt, die Ihnen helfen können, Stellenangebote zu erkunden, die Ihren Kompetenzen entsprechen. Über Credly und ihren Partner Gartner TalentNeuron™ erhalten Sie rund um die Uhr Zugang zu mehr als 25.000 globalen Jobbörsen und Karriereseiten von Unternehmen.
+
+Mit der Credly-Plattform können Sie:
+- Ihr Abzeichen-Image und Ihre URL herunterladen, um sie in einen Lebenslauf, eine Website oder eine E-Mail-Signatur einzubetten.
+- Ihre Prüfungen und Zertifizierungen ganz einfach mit Ihrem professionellen Netzwerk teilen.
+- Erfahren Sie, welche Arbeitgeber nach Personen mit Ihren Fähigkeiten suchen.
+- Entdecken Sie das Gehalt, das Sie in Jobs erwarten können, die Ihre Microsoft-Kenntnisse voraussetzen.
+- Suchen Sie nach neuen Stellenangeboten im Zusammenhang mit Ihrer Zertifizierung und bewerben Sie sich mit wenigen Klicks.
+- Arbeitsmarkteinblicke und Jobchancen erkunden. Sehen Sie sich das Video an: [Credly: Arbeitsmarkteinblicke](https://vimeo.com/379867308), um zu sehen, wie einfach es ist, Chancen in Ihrem Markt schnell zu entdecken.
+Weitere Informationen finden Sie in unserem Blog-Post.
 
 Weitere Informationen finden Sie in unserem Blogbeitrag [Unlock Active Job Postings with Your Microsoft Certification](/learn/certifications/posts/unlock-active-job-postings-with-your-microsoft-certification).
 
-## Was ist ein digitales Abzeichen?
+## So fordern Sie Ihr(e) Abzeichen(s) an
 
-Microsoft ist eine Partnerschaft mit der Credly's Acclaim-Plattform eingegangen, um Badges für Ihre Zertifizierungsleistungen zu vergeben.
+Das Anfordern Ihres Microsoft-Abzeichens ist einfach und Sie können es jederzeit beanspruchen, auch wenn Sie es bereits in der Vergangenheit erworben haben. Nachdem Sie ein Abzeichen erworben haben, erhalten Sie eine Benachrichtigungs-E-Mail von Microsoft mit Informationen zum Einfordern Ihres Anspruchs.
 
-Diese -Badge sind digitale Darstellungen Ihrer Microsoft-Zertifizierungen, die aus einem Bild und Metadaten bestehen, die eindeutig mit Ihnen verknüpft sind. Wenn jemand Ihr -Badge sieht, kann er mehr über Ihre Fähigkeiten erfahren und seine Authentizität überprüfen - so dass nur Sie die Anerkennung für Ihre Fähigkeiten erhalten können.
+1. Klicken Sie auf den Link in der E-Mail, um Ihr Abzeichen anzufordern. Dadurch gelangen Sie zur Credly-Plattform.
+2. Erstellen Sie einen Account auf Credly. Verwenden Sie dieselbe E-Mail-Adresse, die Sie zum Einrichten Ihres Microsoft-Accounts verwendet haben.
+3. Bestätigen Sie Ihren Account bei Credly, indem Sie auf den Link in einer Bestätigungs-E-Mail klicken, die nach der Einrichtung Ihres Accounts generiert wird.
+4. Um zukünftige Abzeichen zu beanspruchen, müssen Sie einfach auf den Link in der Benachrichtigungs-E-Mail klicken und sich bei Ihrem Acclaim-Account anmelden.
 
-Darüber hinaus haben wir vor kurzem das Erscheinungsbild unserer Ausweise erweitert dass sie sich besser an die anderen Anmeldeinformationen anpassen, die Sie von Microsoft erhalten können. Wenn Sie Ihren digitalen Ausweis auf beliebten Online-Sites wie LinkedIn, Facebook und Twitter freigeben oder ihn in Ihren Lebenslauf, Ihre persönliche Website oder Ihre E-Mail-Signatur einbetten, erkennt jeder, der Ihren Ausweis betrachtet, sofort, dass er von Microsoft ausgestellt wurde.
+Wenn Sie die Benachrichtigungs-E-Mail nicht mehr haben, um Ihr Abzeichen zu beanspruchen, erstellen Sie einfach einen Account auf der Credly*-Plattform mit derselben E-Mail-Adresse, die bei Microsoft für Sie hinterlegt ist. Ihr Abzeichen wartet in Ihrem Account darauf, dass Sie es anfordern.
 
-Wie sieht der Prozess zum Beantragen eines Abzeichens aus?
+_*Bitte beachten Sie, dass dieser Link Sie zu Credly führt, einem Drittanbieter, dessen Datenschutzpraktiken sich von denen von Microsoft unterscheiden. Wenn Sie Credly personenbezogene Daten zur Verfügung stellen, unterliegen Ihre Daten deren Datenschutzerklärung_.
 
-Das Beantragen Ihres Microsoft-Abzeichens ist äußerst einfach. Nachdem Sie eine Zertifizierung erhalten oder eine Prüfung bestanden haben, erhalten Sie eine Benachrichtigungs-E-Mail von Microsoft. So beantragen Sie Ihr Abzeichen:  
+## So akzeptieren Sie Abzeichen von Credly automatisch 
 
-1. Klicken Sie auf den Link in Ihrer e-mail.
-2. Erstellen Sie ein Konto auf der Acclaim-Plattform.
-3. Bestätigen Sie Ihr Konto, indem Sie auf den Link in einer Bestätigungs-E-Mail klicken, die nach der Einrichtung Ihres Kontos generiert wird.
+Passen Sie auf der Acclaim-Plattform von Credly Ihre Accounteinstellungen so an, dass an Sie ausgestellte Abzeichen automatisch akzeptiert werden. Sehen Sie sich dieses Schritt-für-Schritt-Verfahren im Acclaim-Video „[How to manage your badge.](https://www.youtube.com/watch?v=rMeSQM0h1_Y)”an. Beachten Sie, dass das Video zwar E-Mail-Benachrichtigungen für Abzeichen zeigt, die von Acclaim kommen, Ihre E-Mail-Benachrichtigungen kommen jedoch von Microsoft.
 
-Die Beantragung zukünftiger Badges ist so einfach wie das Anklicken des Links in der Benachrichtigungs-E-Mail und das Einloggen in unser Acclaim-Konto.
+## So teilen Sie Ihr Abzeichen
 
-Möchten Sie diesen Prozess vereinfachen?
+Jedes Mal, wenn Sie eine neue Microsoft-Kompetenz erlernen oder eine Microsoft-Zertifizierung in Ihrem Bereich erwerben, lohnt es sich, diese Leistung mit Ihrem Netzwerk zu teilen und zu feiern.
 
-Passen Sie einfach Ihre Kontoeinstellungen an, um die an Sie ausgegebenen Badges automatisch zu akzeptieren. Sie können den schrittweisen Prozess im Video verfolgen [Acclaim How To: Manage your badge](https://www.youtube.com/watch?v=rMeSQM0h1_Y). (Wenn das Video Badge-E-Mail-Benachrichtigungen von Acclaim zeigt, kommen Ihre E-Mail-Benachrichtigungen von Microsoft.)
+Nachdem Sie Ihr Microsoft-Zertifizierungsabzeichen beansprucht haben, teilen Sie es und auch Ihren Zertifizierungsstatus :
 
-Nutzen Sie die Vorteile der Funktionen der Credly Acclaim-Plattform:
+1. Rufen Sie die Credly-Plattform auf, entweder über Ihr [Microsoft-Zertifizierungs-Dashboard](https://aka.ms/certdashboard) oder über den Link in Ihrer E-Mail zum Antrag auf Abzeichen von Microsoft.
+2. Melden Sie sich bei Ihrem Credly-Account an.
+3. Um zur Seite „Ihre Abzeichen teilen“ zu gelangen, wählen Sie **Teilen**.
+4. Um Ihr Abzeichen auf Social Media (wie z.B. LinkedIn) zu teilen oder es in Ihren Lebenslauf, Ihre E-Mail-Signatur oder Ihre persönliche Website einzubetten, verwenden Sie die einfachen Funktionen zum Teilen auf dieser Seite.
 
-Teilen Sie Ihr Abzeichen auf LinkedIn, Facebook und Twitter.
-Laden Sie Ihre Abzeichengrafik und URL herunter, um diese in einen Lebenslauf, eine Website oder E-Mail-Signatur zu integrieren.
-Personalisieren Sie Ihr Profil auf der Acclaim-Plattform.
-Loten Sie Ihre Aussichten auf dem Arbeitsmarkt und Ihre Jobchancen aus. Sehen Sie sich das Video an [Acclaim How To: Explore labor market insights](https://www.youtube.com/watch?v=G4qBl17VgBo) , um zu sehen, wie einfach es ist, Chancen in Ihrem Markt schnell zu entdecken.
-
-Ihr digitales Abzeichen ist eine weitere Möglichkeit, die Microsoft bietet, um die Entwicklung und Wertschätzung Ihrer beruflichen Fertigkeiten zu unterstützen. Nutzen Sie dieses neue Programm dazu, Ihrer Karriere einen Schub zu verleihen.
-
-## Haben Sie nicht abgeholte Abzeichen?
-
-Sie können Ihr Abzeichen jederzeit in Anspruch nehmen, auch wenn Sie in der Vergangenheit eine Prüfung bestanden oder eine Zertifizierung erhalten haben. Alle Badges, die Sie von Microsoft auf der Grundlage Ihrer bisherigen Zertifizierung erworben haben, sind über die Acclaim-Plattform verfügbar. Loggen Sie sich einfach in Ihr Konto ein und fordern Sie es an!
-
-Wenn Sie kein Acclaim-Account haben , können Sie ein Account auf der Plattformsite [Acclaim](https://www.youracclaim.com/)* mit derselben E-Mail-Adresse erstellen, die Microsoft für Sie gespeichert hat. Ihr Abzeichen wird in Ihrem Konto auf Sie warten, damit Sie es einfordern können.
-
-*Bitte beachten Sie, dass dieser Link Sie zur Plattform von Credlys Acclaim führt, einer Drittpartei, deren Datenschutzpraktiken von denen von Microsoft abweichen. Wenn Sie Acclaim personenbezogene Daten zur Verfügung stellen, unterliegen Ihre Daten den Datenschutzbestimmungen.
-
-## Bin ich dazu berechtigt, ein Abzeichen zu erhalten?
+## Prüfungen und Zertifizierungen, die zu einem Abzeichen berechtigen
 
 Wir stellen Badges für alle aktiven Prüfungen und Zertifizierungen im Rahmen des Microsoft Zertifizierung Programms aus.  
 
 - In Fällen, in denen das Bestehen einer Prüfung zu einer Zertifizierung führt, wird anstelle der Prüfung ein Badge für die Zertifizierung ausgestellt.
-- Prüfung 74-343 Projektverwaltung mit Microsoft Project (eingestellt im Juli 2019).
-- MOS 2010 Prüfungen und Zertifizierungen.
-- Microsoft Dynamics CRM-Prüfungen (MB2-706, MB2-707, MB2-708, MB2-710, MB2-711, MB2-712, MB2-713, MB2-714 (alle am 31. Dezember 2019 eingestellt)).
-- Vorhandene Prüfungen und Zertifizierungen. Für einige unserer bestehenden Prüfungen und Zertifizierungen sind keine Badges verfügbar. Wenn Sie in Ihrem Acclaim-Profil keinen Badge für eine ältere Prüfung oder Zertifizierung sehen, haben wir keinen Badge für dieses examens oder Zertifizierung ausgestellt.
+- Für einige unserer bestehenden Prüfungen und Zertifizierungen sind keine Badges verfügbar. Wenn Sie in Ihrem Acclaim-Profil keinen Badge für eine ältere Prüfung oder Zertifizierung sehen, haben wir keinen Badge für dieses examens oder Zertifizierung ausgestellt.
 
-Wenn Sie einen Badge für eine Prüfung oder Zertifizierung erworben haben, der , war, können Sie Ihren Badge trotzdem über Credlys Acclaim-Plattform beanspruchen und ihn an andere Plattformen oder per E-Mail weitergeben. Sehen Sie die Antwort auf Haben Sie nicht beanspruchte Badges? in den FAQs, um zu erfahren, wie.
+Wenn Sie ein Abzeichen für eine Prüfung oder Zertifizierung erworben haben, die eingestellt wurde, können Sie trotzdem Ihr Abzeichen über die Credly-Plattform anfordern.
 
-## Häufig gestellte Fragen
+## Häufig gestellte Fragen zu Abzeichen Credlys
 
-**Fr.: Entstehen durch das Beantragen, Verwalten oder Teilen meines Microsoft-Abzeichens Kosten?**
+**Entstehen durch das Beantragen, Verwalten oder Teilen meines Microsoft-Abzeichens Kosten?**
 
-**A.** Nein, es entstehen keine Kosten in Zusammenhang mit dem Beantragen, Verwalten oder Bereitstellen (Teilen) Ihres Microsoft-Abzeichens. Es handelt sich hierbei um einen Service, den Microsoft kostenfrei anbietet.
+Nein. Dies ist ein kostenloser Service von Microsoft .
 
-**Fr.: Wie wird meine Zertifizierung als Microsoft-Abzeichen angezeigt?**
+**Wie wird meine Zertifizierung als Microsoft-Abzeichen angezeigt?**
 
-**A.** Die Acclaim-Plattform von Credly verwendet die von Mozilla definierten Open Badges-Standards, um Ihre Anmeldeinformationen in ein digitales Bild zu übersetzen, das mit Metadaten verknüpft ist, die eindeutig mit Ihnen verbunden sind. Diese Norm erleichtert es Ihnen, Ihr digitales Abzeichen online in einer Form, die Arbeitgeber und Berufskollegen gleichermaßen überprüfen können, zu teilen.
+Plattform verwendet die von Mozilla definierten offenen Standards für Abzeichen, um Ihre Zugangsdaten in ein digitales Image zu übersetzen, das mit Metadaten verknüpft ist, die eindeutig mit Ihnen verbunden sind.
 
-**Fr.: Mein Abzeichen sieht anders aus. Was hat sich geändert?**
+**Mein neueres Abzeichen sieht anders aus als die, die ich zuvor erworben habe. Was hat sich verändert?**
 
-**A.** Das Erscheinungsbild unserer Badges wurde aktualisiert, um sie an das Erscheinungsbild anzupassen und die Badges zu fühlen, die Sie in ganz Microsoft verdienen können. Das neue Design hat die gleiche Funktionalität wie zuvor und wir ermutigen Sie weiterhin, Ihre Fähigkeiten mit Ihren Kollegen und sozialen Kanälen zu teilen.
+Das Erscheinungsbild unserer Abzeichen wurde aktualisiert, um es an das Erscheinungsbild der Abzeichen anzupassen, die Sie überall bei Microsoft erwerben können. Das neue Design hat die gleiche Funktionalität wie zuvor.
 
-**Fr.: Wann und wie kann ich mein Abzeichen beantragen?**
+**Was ist, wenn ich nicht möchte, dass mein Microsoft-Abzeichen veröffentlicht wird?**
 
-**A.** Sie können Ihr Abzeichen jederzeit beantragen. Sie können auf Ihren Badge über jede der Badge-Benachrichtigungs- oder Erinnerungs-E-Mails zugreifen. Oder, wenn Sie diese E-Mails nicht mehr haben, können Sie dies tun, indem Sie auf Ihr Acclaim-Konto zugreifen. Wenn Sie kein Account haben, können Sie ein Account auf [der Acclai-Plattform](https://www.youracclaim.com/)* mit derselben E-Mail-Adresse erstellen, die Microsoft für Sie gespeichert hat. Ihr Abzeichen wartet in Ihrem Konto auf Sie. Bitte beachten Sie, dass Microsoft dieses Programm für digitale Abzeichen jederzeit beenden kann.
+Sie bestimmen selbst, wie und wann Ihr Abzeichen veröffentlicht wird. Sie können die Datenschutzeinstellungen in Ihrem Account auf der Credly-Plattform anpassen, um Ihr Profil und Ihre Abzeichen privat zu halten. Sie müssen Ihre Abzeichen nicht akzeptieren und können die Benachrichtigungs-E-Mails ignorieren, wenn Sie nicht am Microsoft Abzeichen-Programm teilnehmen möchten.
 
-*Bitte beachten Sie, dass dieser Link Sie zur Plattform von Credlys Acclaim führt, einer Drittpartei, deren Datenschutzpraktiken von denen von Microsoft abweichen. Wenn Sie Acclaim personenbezogene Daten zur Verfügung stellen, unterliegen Ihre Daten den Datenschutzbestimmungen.
+**An wen kann ich mich bei Fragen zu meinem Microsoft-Abzeichen wenden?**
 
-**Fr.: Ich habe Ansprüche auf mehrere Abzeichen von Microsoft erworben. Muss ich jedes Abzeichen, das für mich ausgestellt wird, einzeln manuell beantragen?**
+Besuchen Sie: [Zertifizierungsbegleitung](/learn/certifications/help).
 
-**A.** Sie können die Einstellungen in Ihrem Konto auf der Acclaim-Plattform so anpassen, dass Sie automatisch ausgegebene Badges akzeptieren. Sehen Sie sich dieses [Video](https://www.youtube.com/watch?v=rMeSQM0h1_Y) an, um zu erfahren, wie das funktioniert.
+Wenn Sie Fragen zur Credly-Plattform oder zur Beantragung Ihres Abzeichens haben, wenden Sie sich an ​​[CredlysSupport](https://support.youracclaim.com/)
 
-**Fr.: Was passiert, wenn ich nicht will, dass mein Microsoft-Abzeichen veröffentlicht wird?**
+**Was ist, wenn ich über Certiport ein Microsoft-Abzeichen erworben habe, das Abzeichen jedoch noch nicht erhalten habe?**
 
-**A.** Sie bestimmen selbst, wie und wann Ihr Abzeichen veröffentlicht wird. Sie können die Datenschutzeinstellungen in Ihrem Konto auf der Acclaim-Plattform anpassen, um Ihr Profil und Ihre Badges privat zu machen. Sie sind nicht verpflichtet, Ihre Abzeichen zu akzeptieren und können die Benachrichtigungs-E-Mails ignorieren, wenn Sie nicht am Microsoft-Abzeichen-Programm teilnehmen möchten.
-
-**Fr.: Was ist die Acclaim-Plattform von Credly?**
-
-**A.** Die Acclaim-Plattform ist eine unabhängige Badging-Plattform im Besitz von Credly. Acclaim bietet eine Möglichkeit, Ihre Microsoft-Zertifizierungen zu verwalten, freizugeben und zu überprüfen. Die Plattform bietet Ihnen auch Einblicke in den Arbeitsmarkt, die Ihnen helfen können, Stellenangebote zu finden, die Ihren Fähigkeiten entsprechen. [Learn more about Acclaim](https://www.youracclaim.com/).
-
-**Fr.: Wenn ich Fragen zu meinem Microsoft-Abzeichen habe: An wen kann ich mich wenden?**
-
-**A.** Wenn Sie glauben, dass Sie sich für ein Badge qualifizieren, aber keine Informationen dazu erhalten haben, wenden Sie sich an [Zertifizierungs-Support](https://aka.ms/MCPForum). Wenn Sie Fragen zur Acclaim-Plattform oder zur Beantragung Ihres Badges haben, wenden Sie sich an [Credly Support](https://support.youracclaim.com/).
-
-**Fr.: Was passiert, wenn ich über Certiport einen Microsoft-Abzeichen erworben habe, aber noch keinen Abzeichen erhalten habe?**
-
-**A.** Bitte wenden Sie sich direkt an Certiport unter 
-[https://certiport.pearsonvue.com/Support/Support-for-test-candidates/Customer-service](https://certiport.pearsonvue.com/Support/Support-for-test-candidates/Customer-service) um sich nach Ihrem fehlenden Abzeichen zu erkundigen.
+Bitte [kontaktieren Sie Certiport](https://certiport.pearsonvue.com/Support/Support-for-test-candidates/Customer-service), um nach Ihrem fehlenden Abzeichen zu fragen.
 
 Bitte beachten Sie Wenn einem Abzeichenträger die Abzeichen von Certiport fehlen, ist dies in der Regel auf einen der folgenden Gründe zurückzuführen:
 
 1. Ihre Standardsprache in Ihrem Certiport-Konto ist eine andere Sprache als Englisch.
 2. Sie haben zwei Konten im System Certiport‘s Zertifizierung.
 
-Es kann hilfreich sein, diese an den Certiport-Unterstützer weiterzugeben, um bei der Fehlersuche zu helfen.
+Es kann hilfreich sein, bei Certiport-Support zu erwähnen, dass Sie glauben, dass eines davon das Problem sein könnte, um bei der Fehlerbehebung zu helfen.
 
-**Fr.: Was passiert mit meinem Abzeichen, wenn eine Prüfung oder Zertifizierung ausfällt?**
+**Was passiert mit meinem Abzeichen, wenn eine Prüfung oder Zertifizierung ausfällt?**
 
-**A.** Wenn Sie ein Badge für eine Prüfung oder eine Zertifizierung erworben haben, die als Teil des Programms für digitale Badges ausgewählt wurde, aber später auf die [Abgangsliste](/learn/certifications/retired-certifications#retired-certifications) gesetzt wurde, können Sie dieses Badge weiterhin über die Acclaim-Plattform von Credly einlösen und es wie gewohnt mit anderen Plattformen oder per E-Mail teilen.
+Wenn Sie ein Abzeichen für eine Prüfung oder Zertifizierung erworben haben, die als Teil des digitalen Abzeichen-Programms ausgewählt, aber später [eingestellt](/learn/certifications/retired-certifications) wurde, können Sie das Abzeichen trotzdem über die Credly-Plattform akzeptieren.

@@ -27,7 +27,7 @@ Wenn Online-Prüfungen in Ihrem Land/Ihrer Region verfügbar sind, sind sie in d
 1. Stellen Sie sicher, dass Ihr Computer die Mindestsystemanforderungen erfüllt oder übertrifft (siehe unten).
 2. Führen Sie den erforderlichen [Systemtest](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) auf demselben Computer und an demselben Ort durch, von dem aus Sie Ihren Test machen möchten.
 3. Lesen Sie die folgenden Systemanforderungen, technischen Tipps und Anforderungen an die Testumgebung durch.
-4. Stellen Sie sicher, dass Ihre ID mit der Pearson VUE [ID-Richtlinie](https://home.pearsonvue.com/Policies/1S/English) übereinstimmt und dass der Name in Ihrem Microsoft-Zertifizierungsprofil genau mit dem Namen auf der von Ihnen amtlich ausgestellten ID übereinstimmt, die Sie vorweisen, um an der Prüfung teilzunehmen. Um mehr darüber zu erfahren, wie Sie den Namen in Ihrem Zertifizierungsprofil überprüfen können, gehen Sie auf: [Ihr Zertifizierungsprofil verwalten](/learn/certifications/manage-certification-profile)
+4. Stellen Sie sicher, dass Ihre ID mit der Pearson VUE [ID-Richtlinie](https://home.pearsonvue.com/Clients/Microsoft/Online-proctored.aspx#b4ExamDay) übereinstimmt und dass der Name in Ihrem Microsoft-Zertifizierungsprofil genau mit dem Namen auf der von Ihnen amtlich ausgestellten ID übereinstimmt, die Sie vorweisen, um an der Prüfung teilzunehmen. Um mehr darüber zu erfahren, wie Sie den Namen in Ihrem Zertifizierungsprofil überprüfen können, gehen Sie auf: [Ihr Zertifizierungsprofil verwalten](/learn/certifications/manage-certification-profile)
 5. Aktualisieren Sie Ihr Microsoft-Zertifizierungsprofil mit Ihrer Handynummer, einschließlich der Landesvorwahl, falls Pearson VUE Sie während der Prüfung kontaktieren muss. Wenn Sie während der Prüfung die Verbindung verlieren, kann Pearson VUE nur so Kontakt zu Ihnen aufnehmen. Anweisungen zum Aktualisieren Ihres Profils finden Sie unter: [Ihr Zertifizierungsprofil verwalten](/learn/certifications/manage-certification-profile)
 6. Lesen Sie die [Geheimhaltungsvereinbarung (NDA)](/learn/certifications/microsoft-exam-non-disclosure-agreement). Zu Beginn Ihrer Prüfung müssen Sie die NDA und die Allgemeinen Nutzungsbedingungen für Microsoft-Zertifizierungsprüfungen lesen und diesen zustimmen. Sobald die Prüfung beginnt, haben Sie nur 5 Minuten Zeit, diese durchzulesen. Lesen Sie es vor Ihrer Prüfung durch, um sicherzustellen, dass Sie die Anforderungen vollständig verstehen und ihnen zustimmen können, ohne dass Ihnen die Zeit wegläuft. Wenn Sie der NDA in der vorgegebenen Zeit nicht zustimmen, können Sie die Prüfung nicht ablegen.
 7 Wenn Sie eine Unterkunft für Ihre Prüfung anfragen möchten, stellen Sie bitte eine Unterkunftsanfrage bei Pearson VUE, **bevor** Sie Ihre Prüfung planen. Ausführliche Informationen zum Einreichen einer Anfrage finden Sie unter: [Unterkunft anfragen für Pearson VUE](/learn/certifications/request-accommodations).
@@ -221,22 +221,15 @@ Ihre Büro- oder Heimumgebung muss die folgenden Anforderungen erfüllen:
 
 ### Identitätsprüfung
 
-- Sie müssen einen aktuellen amtlichen Ausweis vorlegen, z. B. einen der folgenden:
-  - Führerschein.
-  - Militär-ID
-  - Reisepass.
-  - Personalausweis (nationaler / staatlicher / regionaler Personalausweis)
-  - Ausländerregistrierungskarte (Green Card, Daueraufenthaltsgenehmigung, Visum).
-  - Von der Regierung ausgestellter Ausweis in der Landessprache (nicht in römischen Zeichen) - wird nur akzeptiert, wenn er aus dem Land stammt, in dem der Kandidat die Prüfung ablegt.
-- Ein Mobiltelefon eignet sich am besten zum Erfassen des erforderlichen Gesichtsimages und der erforderlichen ID, Sie können aber auch eine Webcam verwenden, wenn Sie kein Mobiltelefon haben.
-- Der Name auf dem von Ihnen ausgestellten amtlichen Ausweis muss **genau** mit dem Namen in Ihrem Microsoft-Zertifizierungs- und Pearson VUE-Profil übereinstimmen.
+- Sie müssen einen aktuellen amtlichen Ausweis vorlegen. Annehmbare Beispiele finden Sie in der Pearson VUE [ID-Richtlinie](https://home.pearsonvue.com/Clients/Microsoft/Online-proctored.aspx#b4ExamDay).
+- Ein Mobiltelefon eignet sich am besten zum Erfassen des erforderlichen Gesichtsfotos und der erforderlichen ID.
+- Der Name auf dem von Ihnen ausgestellten amtlichen Ausweis muss **genau** mit dem Namen in Ihren Microsoft Certification - und Pearson VUE-Profilen übereinstimmen.
 - Wenn Sie gerade dabei sind, Ihren Ausweis zu aktualisieren oder zu erneuern, beachten Sie bitte, dass Dokumente zur Änderung des gesetzlichen Namens, einschließlich Dokumente zur Erneuerung des Personalausweises, für Online-Prüfungen nicht akzeptiert werden können.
-- Minderjährigen unter 18 Jahren ist zur Identifizierung die Vorlage eines gültigen Studentenausweises gestattet. Der Erziehungsberechtigte des Kandidaten muss ebenfalls einen gültigen Ausweis vorlegen und beim Einchecken eine mündliche Zustimmung erteilen.
 
 ### Prüfungsbereich scannen
 
 - Stellen Sie vor Beginn der Prüfung sicher, dass alle zusätzlichen Monitore ausgesteckt und von Ihnen weggedreht sind und alle anderen Computer ausgeschaltet und die Monitore dunkel sind.
-- Der Prüfungsbereich sollte frei von allen Materialien sein und Folgendes darf nicht in Reichweite sein: Bücher, Notizblöcke, Haftnotizen, getippte Notizen / Papiere oder Schreibgeräte wie z.B. Kugelschreiber, Marker, Whiteboards oder Bleistifte.
+- Der Prüfungsbereich sollte frei von allen Materialien sein und Folgendes darf nicht in Reichweite sein: Bücher, Notizblöcke, Haftnotizen, getippte Notizen/Papiere oder Schreibgeräte wie z.B. Kugelschreiber, Marker, Whiteboards oder Bleistifte.
 - Ein Mobiltelefon eignet sich am besten zum Erfassen des erforderlichen Fotos des Prüfungsbreichs und der erforderlichen ID, Sie können aber auch eine Webcam verwenden, wenn Sie kein Mobiltelefon haben. Wenn Sie Ihr Mobiltelefon verwenden, werden die Bilder hochgeladen und ein Begrüßer wird diese, zusammen mit Ihrem Gesichtsimage und Ihrer ID, überprüfen. Der Begrüßer sucht nach Sicherheitsrisiken und informiert Sie, wenn vor Beginn der Prüfung etwas angegangen werden muss.
 
 ### Keine persönlichen Gegenstände
@@ -274,7 +267,7 @@ Ihre Büro- oder Heimumgebung muss die folgenden Anforderungen erfüllen:
 - Sie müssen auch den Verhaltensanforderungen für Kandidaten nachkommen. Dazu gehört unter anderem Folgendes: 
   - Sie dürfen keine Fragen oder Antworten aus der Prüfung kopieren oder aufzeichnen.
   - Sie dürfen die in der Prüfung enthaltenen Fragen oder Antworten nicht mit anderen teilen oder diskutieren.
-- Wenn Sie die [Regeln zum Kandidatenverhalten](https://www.pearsonvue.com/rp/rp_candidate_rules_agreement.pdf) nicht befolgen oder in Verdacht geraten, zu betrügen oder die Software von Pearson VUE oder seinem Subunternehmer zu manipulieren, oder wenn ein Dritter in dem Raum gesehen wird, in dem Sie während der Prüfung physisch sitzen, bricht der Aufsichtsführende die Prüfung sofort ab und meldet den Verstoß, zusammen mit Audio- und / oder Videobeweisen, an Pearson VUE und Microsoft. Ihre Prüfung ist dann möglicherweise ungültig und Microsoft kann weitere Maßnahmen ergreifen, z. B. die Aberkennung Ihrer Zertifizierungen und / oder das Verbot, weiterhin am Microsoft-Zertifizierungsprogramm teilzunehmen.
+- Wenn Sie die [Regeln zum Kandidatenverhalten](https://www.pearsonvue.com/rp/rp_candidate_rules_agreement.pdf) nicht befolgen oder in Verdacht geraten, zu betrügen oder die Software von Pearson VUE oder seinem Subunternehmer zu manipulieren, oder wenn ein Dritter in dem Raum gesehen wird, in dem Sie während der Prüfung physisch sitzen, bricht der Aufsichtsführende die Prüfung sofort ab und meldet den Verstoß, zusammen mit Audio- und/oder Videobeweisen, an Pearson VUE und Microsoft. Ihre Prüfung ist dann möglicherweise ungültig und Microsoft kann weitere Maßnahmen ergreifen, z. B. die Aberkennung Ihrer Zertifizierungen und/oder das Verbot, weiterhin am Microsoft-Zertifizierungsprogramm teilzunehmen.
 
 ## Melden Sie sich für eine Online-Prüfung an
 

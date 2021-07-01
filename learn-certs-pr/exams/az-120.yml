@@ -7,19 +7,19 @@ uid: exam.az-120
 displayName: AZ-120
 summary: |-
   <div>
-  <div><font color='red'><strong>Der Inhalt dieser Prüfung wird am 28. Mai 2021 aktualisiert. Bitte laden Sie das unten stehende Dokument zur Kompetenzmessung herunter, um zu sehen, was sich ändert.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am 28. Mai 2021 aktualisiert.Bitte laden Sie das unten stehende Dokument zur Kompetenzmessung herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
   </div>
-
-  Kandidaten für diese Prüfung sollten Architekten oder Ingenieure sein, die über umfassende Erfahrung und Kenntnisse der SAP-Systemlandschaft und der Industriestandards verfügen, die für den langfristigen Betrieb einer SAP-Lösung unter Microsoft Azure spezifisch sind.
-
-  Zu den Aufgaben eines Architekten oder Ingenieurs für Azure for SAP Workloads gehören Empfehlungen zu Services und die Anpassung der Ressourcen entsprechend der optimalen Ausfallsicherheit, Leistung, Skalierung, Bereitstellung, Größe und Überwachung.
-
-  Architekten oder Ingenieure von Azure für SAP-Workload-Partner arbeiten mit Cloud-Administratoren, Cloud-Datenbankadministratoren und Kunden zusammen, um Lösungen zu implementieren.
-
-  Ein Kandidat für diese Prüfung sollte über umfangreiche Erfahrung und Kenntnisse in SAP-Anwendungen verfügen&#58; SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, Betriebssystemserver für SAP-Anwendungen und -Datenbanken, Azure-Portal, ARM-Vorlagen, Betriebssysteme, Virtualisierung, Cloud-Infrastruktur, Speicherstrukturen, Hochverfügbarkeitsdesign, Disaster Recovery-Design, Datenschutz Konzepte und Vernetzung.
-
-  Für diese Prüfung wird dringend empfohlen, zusätzlich zu den SAP-HANA- und Linux-Zertifizierungen eine Azure Administrator Associate- oder Azure Solutions Architect Expert-Zertifizierung zu erwerben.
-subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben auszuführen: Migrieren von SAP Workloads nach Azure, Entwerfen einer Azure-Lösung zur Unterstützung von SAP Workloads, Erstellen und Bereitstellen von Azure SAP Workloads, Validieren der Azure-Infrastruktur für SAP Workloads und die Azure SAP-Architektur operationalisieren.'
+  
+  Kandidaten für diese Prüfung sollten Architekten oder Ingenieure mit umfangreichen Erfahrungen und Kenntnissen der SAP Systemlandschaft und Branchenstandards sein, die spezifisch für die anfängliche Migration oder Integration und den langfristigen Betrieb einer SAP Lösung auf Microsoft Azure sind.
+  
+  Zu den Aufgaben eines Architekten oder Ingenieurs für Azure for SAP Workloads gehören Empfehlungen zu Services und die Anpassung von Ressourcen nach Bedarf, für optimale Ausfallsicherheit, Leistung, Skalierbarkeit, Bereitstellung, Größe und Überwachung.
+  
+  Architekten oder Ingenieure für Azure for SAP Workloads arbeiten mit Cloud administratoren, Cloud datenbankadministratoren und Kunden zusammen, um Lösungen zu implementieren.
+  
+  Ein Kandidat für diese Prüfung sollte über umfangreiche Erfahrung und Kenntnisse in SAP Anwendungen verfügen&#58; SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, OS Server für SAP-Anwendungen und -Datenbanken, Azure-Portal, Azure Marketplace, Azure Resource Manager-Vorlagen (ARM-Vorlagen), Virtualisierung, Cloud-Infrastruktur, Speicherstrukturen, Hochverfügbarkeitsdesign, Notfallwiederherstellungs-Design, Datenschutzkonzepte und Networking.
+  
+  Für diese Prüfung wird dringend empfohlen, dass Sie zusätzlich zu den SAP-Zertifizierungen über eine Azure Administrator Associate- oder Azure Solutions Architect Expert-Zertifizierung verfügen.
+subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erledigen: Migrieren Sie SAP-Workloads zu Azure; Entwerfen und Implementieren einer Infrastruktur zur Unterstützung von SAP-Workloads; Entwerfen und Implementieren von High Availability und Disaster Recovery; und Verwalten von SAP-Workloads in Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
@@ -31,12 +31,11 @@ locales:
 levels:
 - advanced
 skills:
-- Der Inhalt dieser Prüfung wird am 28. Mai 2021 aktualisiert.Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich ändert. 
-- SAP-Workloads nach Azure übertragen (10-15%)
-- Erstellen einer Azure-Lösung zur Unterstützung von SAP-Workloads (20-25%)
-- Erstellen und Bereitstellen von Azure SAP Workloads (35-40%)
-- Azure-Infrastruktur für SAP-Workloads überprüfen (10-15%)
-- Operationalisieren der Azure SAP-Architektur (10-15%)
+- Der Inhalt dieser Prüfung wurde am 28. Mai 2021 aktualisiert.Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich geändert hat.
+- SAP-Workloads nach Azure übertragen (25–30%)
+- Entwerfen und Implementieren einer Infrastruktur zur Unterstützung von SAP-Workloads (25–30%)
+- Design und Implementierung von High Availability und Disaster Recovery (HA/DR) (20–25%)
+- Pflegen Sie SAP-Workloads in Azure (15–20%)
 roles:
 - solution-architect
 - devops-engineer

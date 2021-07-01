@@ -19,6 +19,19 @@ Sobald ein Kurs eingestellt wird, ist er nicht mehr verfügbar. Der Kurs kann ni
 
 ## Eingestellte Kurse Von Dozenten geleitete Schulung
 
+* Einstellung von Kursmaterialien am 30. Juni 2021
+
+    | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
+    | --- | --- | --- | --- | --- |
+    | AI-100T01 | A | Designing and Implementing an Azure AI Solution | Englisch | 6/30/2021 |
+    | DP-200T01 | A | Implementing an Azure Data Solution | Englisch | 6/30/2021 |
+    | DP-201T01 | A | Designing an Azure Data Solution | Englisch | 6/30/2021 |
+    | MB-600T00 | A | Microsoft Dynamics 365 + Power Platform Solution Architect | Englisch | 6/30/2021 |
+    | MB-901T00 | A | Microsoft Dynamics 365 Fundamentals | Englisch | 6/30/2021 |
+    | AI-100T01JA | A | Designing and Implementing an Azure AI Solution | Japanisch | 6/30/2021 |
+    | AI-100T01KO | A | Designing and Implementing an Azure AI Solution | Koreanisch | 6/30/2021 |
+    | AI-100T01ZH | A | Designing and Implementing an Azure AI Solution | Chinesisch (Vereinfachtes) | 6/30/2021 |
+
 * Ausmusterung der Kursunterlagen am 31. Mai 2021
 
     | Kursnummer | Version | Titel | Sprache | Ablaufdatum |

@@ -21,8 +21,6 @@ products:
 - azure-active-directory
 - azure-virtual-network
 - azure-resource-manager
-exams:
-- uid: exam.az-104
 summary: |-
   In diesem Kurs lernen IT-Experten, wie sie ihre Azure-Abonnements verwalten, Identitäten sichern, die Infrastruktur verwalten, virtuelle Netzwerke konfigurieren, Azure- und lokale Standorte verbinden, den Netzwerkverkehr verwalten, Speicherlösungen implementieren, virtuelle Maschinen erstellen und skalieren, Webanwendungen und Container implementieren, Daten sichern und teilen und Ihre Lösung überwachen können.
   
@@ -52,7 +50,7 @@ outlineSection: |-
   - Azure Active Directory
   - Benutzer und Gruppen
   
-  #### Lab&#58; Verwalten von Azure Active Directory-Identitäten
+  #### Labor&#58; Verwalten von Azure Active Directory-Identitäten
   
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Identitäten mit Azure Active Directory sichern und verwalten.
@@ -66,9 +64,9 @@ outlineSection: |-
   - Azure Policy
   - Rollenbasierte Zugriffssteuerungsrollen (RBAC)
   
-  #### Lab&#58; Abonnements und RBAC verwalten
+  #### Labor&#58; Abonnements und RBAC verwalten
   
-  #### Lab&#58; Governance zu Azure-Richtlinien verwalten
+  #### Labor&#58; Governance zu Azure-Richtlinien verwalten
   
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Azure-Abonnements und -Accounts implementieren und verwalten.
@@ -78,19 +76,19 @@ outlineSection: |-
   
   ### Modul 3&#58; Azure-Administration
   In diesem Modul erfahren Sie mehr über die Tools, mit denen ein Azure-Administrator seine Infrastruktur verwaltet. Dies umfasst die Vorlagen für Azure Portal, Cloud Shell, Azure PowerShell, CLI sowie Ressourcenmanager-Vorlagen. Dieses Modul enthält&#58;
+  
   #### Lektionen
   - Azure Resource Manager
-  - Azure Portal und Cloud Shell
-  - Azure PowerShell und CLI
+  - Azure Administrator Tools
   - ARM-Vorlagen
   
-  #### Lab&#58; Verwalten von Azure-Ressourcen mit Hilfe des Azure-Portals
+  #### Labor&#58; Verwalten von Azure-Ressourcen mit Hilfe von ARM-Vorlagen
   
-  #### Lab&#58; Verwalten von Azure-Ressourcen mit Hilfe von ARM-Vorlagen
+  #### Labor&#58; Verwalten von Azure-Ressourcen mit Hilfe von Azure PowerShell (optional)
   
-  #### Lab&#58; von Azure-Ressourcen mit Hilfe von Azure PowerShell
+  #### Labor&#58; Verwalten von Azure-Ressourcen mit Hilfe von Azure CLI (optional)
   
-  #### Lab&#58; von Azure-Ressourcen mit Hilfe von Azure CLI
+  #### Labor&#58; Verwalten von Azure-Ressourcen mit Hilfe des Azure Portals
   
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Azure Resource Manager verwenden, um Ressourcen zu organisieren.
@@ -103,12 +101,11 @@ outlineSection: |-
   In diesem Modul lernen Sie grundlegende Konzepte für virtuelle Netzwerke wie z.B. virtuelle Netzwerke und Subnetze, IP-Adressierung, Netzwerksicherheitsgruppen, Azure Firewall und Azure DNS kennen.
   #### Lektionen
   - Virtuelle Netzwerke
-  - IP-Adressierung
   - Netzwerksicherheitsgruppen
   - Azure-Firewall
   - Azure DNS
   
-  #### Lab&#58; Implementieren eines virtuellen Netzwerks
+  #### Labor&#58; Implementieren eines virtuellen Netzwerks
   
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Virtuelle Netzwerke und Subnetzwerke implementieren.
@@ -125,7 +122,7 @@ outlineSection: |-
   - VPN-Gateway-Verbindungen
   - ExpressRoute und virtuelles WAN
   
-  #### Lab&#58; Umsetzen einer standortübergreifenden Konnektivität
+  #### Labor&#58; Umsetzen einer standortübergreifenden Konnektivität
   
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - VNet Peering konfigurieren.
@@ -140,7 +137,7 @@ outlineSection: |-
   - Azure Load Balancer
   - Azure Application Gateway
   
-  #### Lab&#58; Traffic-Management implementieren
+  #### Labor&#58; Traffic-Management implementieren
   
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Das Netzwerk-Routing einschließlich benutzerdefinierter Routen und Service-Endpunkte konfigurieren.
@@ -157,7 +154,7 @@ outlineSection: |-
   - Azure-Dateien und Dateisynchronisierung
   - Verwalten des Speichers
   
-  #### Lab&#58; Verwalten des Azure-Speichers
+  #### Labor&#58; Verwalten des Azure-Speichers
   
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Azure-Speicher-Accounts erstellen.
@@ -175,7 +172,7 @@ outlineSection: |-
   - Verfügbarkeit der virtuellen Maschine
   - Erweiterungen für virtuelle Maschinen
   
-  #### Lab&#58; Virtuelle Maschinen verwalten
+  #### Labor&#58; Virtuelle Maschinen verwalten
   
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Implementierung virtueller Maschinen planen.
@@ -192,11 +189,11 @@ outlineSection: |-
   - Container-Services
   - Azure Kubernetes Service
   
-  #### Lab&#58; Web Apps implementieren
+  #### Labor&#58; Web Apps implementieren
   
-  #### Lab&#58; Azure Container-Instanzen umsetzen
+  #### Labor&#58; Implementieren von Azure Kubernetes-Service
   
-  #### Lab&#58; Azure Kubernetes-Service implementieren
+  #### Labor&#58; Implementieren von Azure Container-Instanzen
   
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Einen App-Serviceplan erstellen.
@@ -211,7 +208,7 @@ outlineSection: |-
   - Datei- und Ordnersicherungen
   - Sicherungen virtueller Maschinen
   
-  #### Lab&#58; Datenschutz implementieren
+  #### Labor&#58; Datenschutz implementieren
   
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Sichern und Wiederherstellen von Dateien und Ordnern.
@@ -226,7 +223,7 @@ outlineSection: |-
   - Log-Analysen
   - Netzwerkbeobachter
   
-  #### Lab&#58; Überwachung implementieren
+  #### Labor&#58; Überwachung implementieren
   
   Nach Abschluss dieses Moduls können die Schüler&#58;
   - Azure-Monitor verwenden.

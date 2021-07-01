@@ -29,8 +29,7 @@ Mit der Credly-Plattform können Sie:
 - Erfahren Sie, welche Arbeitgeber nach Personen mit Ihren Fähigkeiten suchen.
 - Entdecken Sie das Gehalt, das Sie in Jobs erwarten können, die Ihre Microsoft-Kenntnisse voraussetzen.
 - Suchen Sie nach neuen Stellenangeboten im Zusammenhang mit Ihrer Zertifizierung und bewerben Sie sich mit wenigen Klicks.
-- Arbeitsmarkteinblicke und Jobchancen erkunden. Sehen Sie sich das Video an: [Credly: Arbeitsmarkteinblicke](https://vimeo.com/379867308), um zu sehen, wie einfach es ist, Chancen in Ihrem Markt schnell zu entdecken.
-Weitere Informationen finden Sie in unserem Blog-Post.
+- Loten Sie Ihre Aussichten auf dem Arbeitsmarkt und Ihre Jobchancen aus.Sehen Sie sich das Video an: [Labor Market Insights](https://support.credly.com/hc/en-us/articles/360041974091-Video-What-labor-market-insights-are-available-with-my-badge) um zu sehen, wie einfach es ist, schnell Chancen in Ihrem Markt zu entdecken.
 
 Weitere Informationen finden Sie in unserem Blogbeitrag [Unlock Active Job Postings with Your Microsoft Certification](/learn/certifications/posts/unlock-active-job-postings-with-your-microsoft-certification).
 
@@ -49,7 +48,7 @@ _*Bitte beachten Sie, dass dieser Link Sie zu Credly führt, einem Drittanbieter
 
 ## So akzeptieren Sie Abzeichen von Credly automatisch 
 
-Passen Sie auf der Acclaim-Plattform von Credly Ihre Accounteinstellungen so an, dass an Sie ausgestellte Abzeichen automatisch akzeptiert werden. Sehen Sie sich dieses Schritt-für-Schritt-Verfahren im Acclaim-Video „[How to manage your badge.](https://www.youtube.com/watch?v=rMeSQM0h1_Y)”an. Beachten Sie, dass das Video zwar E-Mail-Benachrichtigungen für Abzeichen zeigt, die von Acclaim kommen, Ihre E-Mail-Benachrichtigungen kommen jedoch von Microsoft.
+Passen Sie Ihre Accounteinstellungen auf der Credly-Plattform so an, dass an Sie ausgestellte Abzeichen automatisch akzeptiert werden. Sehen Sie sich diesen Schritt-für-Schritt-Prozess im Credly-Video an „[How do I manage and share my digital badge?](https://support.credly.com/hc/en-us/articles/360021222231-How-do-I-manage-and-share-my-digital-badge-)” Beachten Sie, dass das Video zwar E-Mail-Benachrichtigungen zu Abzeichen von Credly zeigt, Ihre E-Mail-Benachrichtigungen jedoch von Microsoft stammen.
 
 ## So teilen Sie Ihr Abzeichen
 
@@ -67,7 +66,7 @@ Nachdem Sie Ihr Microsoft-Zertifizierungsabzeichen beansprucht haben, teilen Sie
 Wir stellen Badges für alle aktiven Prüfungen und Zertifizierungen im Rahmen des Microsoft Zertifizierung Programms aus.  
 
 - In Fällen, in denen das Bestehen einer Prüfung zu einer Zertifizierung führt, wird anstelle der Prüfung ein Badge für die Zertifizierung ausgestellt.
-- Für einige unserer bestehenden Prüfungen und Zertifizierungen sind keine Badges verfügbar. Wenn Sie in Ihrem Acclaim-Profil keinen Badge für eine ältere Prüfung oder Zertifizierung sehen, haben wir keinen Badge für dieses examens oder Zertifizierung ausgestellt.
+- Für einige unserer alten Prüfungen und Zertifizierungen sind keine Abzeichen verfügbar. Wenn Sie in Ihrem Credly-Profil kein Abzeichen für eine ältere Prüfung oder Zertifizierung sehen , haben wir für diese Prüfung oder Zertifizierung keines ausgestellt.
 
 Wenn Sie ein Abzeichen für eine Prüfung oder Zertifizierung erworben haben, die eingestellt wurde, können Sie trotzdem Ihr Abzeichen über die Credly-Plattform anfordern.
 
@@ -79,7 +78,7 @@ Nein. Dies ist ein kostenloser Service von Microsoft .
 
 **Wie wird meine Zertifizierung als Microsoft-Abzeichen angezeigt?**
 
-Plattform verwendet die von Mozilla definierten offenen Standards für Abzeichen, um Ihre Zugangsdaten in ein digitales Image zu übersetzen, das mit Metadaten verknüpft ist, die eindeutig mit Ihnen verbunden sind.
+Die Plattform von Credly verwendet die von IMS Global definierten Normen für offene Abzeichen, um Ihre Anmeldeinformationen in ein digitales Bild zu übersetzen, das mit Metadaten verknüpft ist, die eindeutig mit Ihnen verbunden sind.Diese Norm erleichtert es Ihnen, Ihr digitales Abzeichen online in einer Form, die Arbeitgeber und Berufskollegen gleichermaßen überprüfen können, zu teilen.
 
 **Mein neueres Abzeichen sieht anders aus als die, die ich zuvor erworben habe. Was hat sich verändert?**
 
@@ -93,7 +92,7 @@ Sie bestimmen selbst, wie und wann Ihr Abzeichen veröffentlicht wird. Sie könn
 
 Besuchen Sie: [Zertifizierungsbegleitung](/learn/certifications/help).
 
-Wenn Sie Fragen zur Credly-Plattform oder zur Beantragung Ihres Abzeichens haben, wenden Sie sich an ​​[CredlysSupport](https://support.youracclaim.com/)
+Wenn Sie Fragen zur Credly-Plattform oder zur Beantragung Ihres Abzeichens haben, lesen Sie die Ressourcen im [Credly-Hilfecenter](https://support.credly.com/hc/en-us) oder [senden Sie eine Hilfeanfrage. ](https://support.credly.com/hc/en-us/requests/new)
 
 **Was ist, wenn ich über Certiport ein Microsoft-Abzeichen erworben habe, das Abzeichen jedoch noch nicht erhalten habe?**
 

@@ -68,7 +68,7 @@ Detaillierte Informationen zu den Anforderungen an das MCT-Programm finden Sie i
 
 ## Anforderungen zur Verlängerung Ihres MCT-Status
 
-- Besitzen einer aktuellen Microsoft-Certification oder -Qualifikation, die für das MCT-Programm berechtigt. (Siehe unten für eine Liste der qualifizierten Zertifizierungen.)
+- Besitzen einer aktuellen Microsoft-Certification oder -Qualifikation, die für das MCT-Programm berechtigt.(Siehe unten für eine Liste der qualifizierten Zertifizierungen.)
 
 - Erfüllen Sie die von [Metrics that Matter (MTM)](http://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) validierten Mindestanforderungen für den Unterricht in mindestens einer Klasse ODER ein anderes Umfragetool.
 
@@ -98,6 +98,7 @@ Detaillierte Informationen zu den Anforderungen an das MCT-Programm finden Sie i
 - [Microsoft Certified: Power Platform Functional Consultant Associate](/learn/certifications/power-platform-functional-consultant-associate)
 - [Microsoft Certified: Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker)
 - [Microsoft Certified: Power Platform Developer Associate](/learn/certifications/power-platform-developer-associate)
+- [Microsoft Certified: Power Platform Solution Architect Expert](/learn/certifications/power-platform-solution-architect-expert/)
 - [Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate](/learn/certifications/d365-business-central-functional-consultant-associate)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](/learn/certifications/d365-functional-consultant-sales)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](/learn/certifications/d365-functional-consultant-customer-service)
@@ -115,7 +116,7 @@ Detaillierte Informationen zu den Anforderungen an das MCT-Programm finden Sie i
 - [Microsoft Certified: Information Protection Administrator Associate](/learn/certifications/information-protection-administrator/)
 - [Microsoft Certified Solutions Associate (MCSA)](/learn/certifications/browse/?resource_type=Zertifizierung): BI Reporting (eingestellt am 31. Januar 2021), Microsoft Dynamics 365 for Operations (eingestellt am 31. Januar 2021; [hier geht es zu den Anforderungen für alle Microsoft Dynamics-Qualifikationen und Zertifizierung](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm)), SQL 2016 BI-Entwicklung (eingestellt am 31. Januar 2021), SQL 2016 Datenbankverwaltung (eingestellt am 31. Januar 2021), SQL 2016 Datenbankentwicklung (eingestellt am 31. Januar 2021 .), SQL Server 2012/2014 (eingestellt am 31. Januar 2021), Universelle Windows-Plattform (eingestellt am 31. Januar 2021), Web-Anwendungen (eingestellt am 31. Januar 2021), Windows Server 2012 (eingestellt am 31. Januar 2021) oder Windows Server 2016 (eingestellt am 31. Januar 2021)
 - [Microsoft Certified Solutions Expert (MCSE)](/learn/certifications/browse/?resource_type=certification): Geschäftsanwendungen (eingestellt am 31. Januar 2021), Datenmanagement und Analyse (eingestellt am 31. Januar 2021), Produktivität (eingestellt am 31. Januar 2021) oder Kerninfrastruktur (eingestellt am 31. Januar 2021)
-- [Microsoft Certified Solutions Developer (MCSD)](/learn/certifications/browse/?resource_type=certification): App-Builder (eingestellt am 31. Januar 2021)
+- [Microsoft Certified Solutions Developer (MCSD) ](/learn/certifications/browse/?resource_type=certification): App-Builder (eingestellt am 31. Januar 2021)
 - [Microsoft Office Specialist (MOS)](/learn/certifications/browse/?type=mos): [Master 2016](/learn/certifications/microsoft-office-specialist-master-certification-2016), [Master 2013](/learn/certifications/microsoft-office-specialist-master-certification-2013), [Expert Excel 2016 ](/learn/certifications/mos-excel-2016-expert), [Expert Excel 2013](/learn/certifications/mos-excel-2013-expert), [Expert Word 2016](/learn/certifications/mos-word-2016-expert), [Expert Word 2013](/learn/certifications/mos-word-2013-expert), [Word Associate (Word und Word 2019)](/learn/certifications/mos-word-2019), [ Excel Associate (Excel und Excel 2019)](/learn/certifications/mos-excel-2019), [PowerPoint Associate (PowerPoint und PowerPoint 2019)](/learn/certifications/mos-powerpoint-2019), [Outlook Associate (Outlook und Outlook 2019)](/learn/certifications/mos-outlook-2019), [Microsoft Office Spezialist: Associate (Office 365 und Office 2019)](/learn/certifications/microsoft-office-specialist-associate-2019), [Word Expert (Word und Word 2019)](/learn/certifications/mos-word-expert-2019) , [Excel Expert (Excel und Excel 2019)](/learn/certifications/mos-excel-expert-2019), [Access Expert (Access und Access 2019)](/learn/certifications/mos-access-expert-2019) oder [Microsoft Office-Spezialist: Expert (Office 365 und Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
 
 **Hinweis** Microsoft-Zertifizierungen und Qualifizierungen, die für das MCT-Programm qualifizieren, können Änderungen unterliegen. Alle neuen funktionsspezifischen Zertifizierungen kommen nach ihrer Veröffentlichung für das MCT-Programm in Frage. Zertifizierungen, die aus dem Programm genommen wurden, sind noch bis zu 6 Monate nach dem Datum der Herausnahme als Qualifikation für das MCT-Programm gültig. Um mehr über auslaufende Zertifizierungen zu erfahren, gehen Sie auf: [Einstellung der Zertifizerung](/learn/certifications/retired-certifications).
@@ -184,4 +185,4 @@ So werden Sie wieder MCT:
 
 ## MCT-Support
 
-Unterstützung bei Ihrem MCT-Antrag, Zahlung, Leistungen oder einer allgemeinen Frage zum MCT-Programm erhalten Sie in unserem moderierten Forum für MCTs. Ausführliche Informationen finden Sie unter: [Zertifizierungsbegleitung](/learn/certifications/help)
+Unterstützung bei Ihrem MCT-Antrag, Zahlung, Leistungen oder einer allgemeinen Frage zum MCT-Programm erhalten Sie in unserem moderierten Forum für MCTs. Ausführliche Informationen finden Sie unter: (Zertifizierungsbegleitung)

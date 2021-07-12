@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Securing the IoT end to end'
+metadata:
+  title: 'Course 40564-G: Microsoft Cloud Workshop: Securing the IoT end to end'
+  description: 'Course 40564-G: Microsoft Cloud Workshop: Securing the IoT end to end'
+uid: course.40564
+courseNumber: '40564-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Entwickeln Sie eine umfassende und sichere IoT-Lösung für die Öl- und Gasherstellung.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  In diesem Workshop sehen Sie sich den Prozess zum Entwerfen und Implementieren einer IoT-Lösung für die Öl- und Gasherstellung an, die nach Best Practices durchgängig abgesichert ist. Am Ende dieses Workshops sind Sie besser in der Lage, eine umfassende und sichere IoT-Lösung für die Öl- und Gasherstellung zu entwickeln.
+
+  #### Zielgruppenprofil
+  Dieser Workshop richtet sich an Cloud Architects und  IT-Experten, die über Architekturkenntnisse im Infrastruktur- und Lösungsdesign in Cloud-Technologien verfügen und mehr über Azure und Azure-Services erfahren möchten, wie in den Bereichen „Zusammenfassung“ und „Erworbene Fähigkeiten“ beschrieben.  Die Teilnehmer dieses Workshops sollten auch Erfahrung mit anderen nicht von Microsoft stammenden Cloud-Technologien haben, die Kursvoraussetzungen erfüllen und sich gleichzeitig in Azure schulen lassen.
+outlineSection: |-
+  ### Modul 1&#58; Whiteboard-Designsession – Absicherung des durchgehenden IoT 
+  #### Lektionen
+  - Überprüfen Sie die Kundenfallstudie
+  - Entwerfen einer Machbarkeitsnachweis-Lösung - Präsentieren Sie die Lösung
+
+  ### Modul 2&#58; Praktisches Lab – Sicherung des Idurchgängigen IoT
+  
+  #### Lektionen
+  - Sichern und konfigurieren von IoT Hub and Device Provisioning Service
+  - IoT-Geräte registrieren und bereitstellen
+  - IoT Edge installieren und konfigurieren
+  - Installieren des Azure Security IoT-Agenten
+  - IoT-Angriffe simulieren 
+  - Sicherheit und Warnungen konfigurieren

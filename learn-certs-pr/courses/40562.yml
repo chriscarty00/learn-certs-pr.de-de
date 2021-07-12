@@ -1,0 +1,41 @@
+### YamlMime:Course
+title: Migrating SQL databases to Azure
+metadata:
+  title: 'Course 40562-G: Migrating SQL databases to Azure'
+  description: 'Course 40562-G: Migrating SQL databases to Azure'
+uid: course.40562
+courseNumber: '40562-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Entwerfen Sie eine  Cloud-Migrationslösung für geschäftskritische Anwendungen und Datenbanken.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  In diesem Workshop arbeiten Sie als Gruppe an der Einrichtung und Konfiguration einer serverlosen Architektur in Azure mit einer Kombination aus Azure Functions, Logic Apps, Event Grid, Cosmos DB und Azure Storage.Der Fokus liegt darauf, das Servermanagement aus der Gleichung zu entfernen, die Lösung in kleinere Komponenten zu zerlegen, die individuell skalierbar sind, und dem Kunden zu ermöglichen, nur für das zu bezahlen, was er nutzt.
+
+  #### Zielgruppenprofil
+  Dieser Workshop richtet sich an Cloud Architects und  IT-Experten, die über Architekturkenntnisse im Infrastruktur- und Lösungsdesign in Cloud-Technologien verfügen und mehr über Azure und Azure-Services erfahren möchten, wie in den Bereichen „Zusammenfassung“ und „Erworbene Fähigkeiten“ beschrieben.  Die Teilnehmer dieses Workshops sollten auch Erfahrung mit anderen nicht von Microsoft stammenden Cloud-Technologien haben, die Kursvoraussetzungen erfüllen und sich gleichzeitig in Azure schulen lassen.
+outlineSection: |-
+  ### Modul 1&#58; Whiteboard-Designsession – Migrieren von SQL-Datenbanken zu Azure
+  #### Lektionen
+  - Überprüfen Sie die Kundenfallstudie
+  - Entwerfen einer Machbarkeitsnachweis-Lösung
+  - Präsentieren der Lösung
+
+  ### Modul 2&#58; Praktisches Lab – Migrieren von SQL-Datenbanken zu Azure
+  #### Lektionen
+  - Führen Sie Datenbankbewertungen durch 
+  - Migrieren Sie die Datenbank zu SQL
+  - Aktualisieren Sie die Webanwendung, um die neue SQL MI-Datenbank zu verwenden 
+  - Integrieren Sie App-Service in das virtuelle Netzwerk 
+  - Verbessern Sie die Datenbanksicherheit mit Advanced Data Security
+  - Dynamische Datenmaskierung aktivieren
+  - Online-Sekundär für schreibgeschützte Abfragen verwenden

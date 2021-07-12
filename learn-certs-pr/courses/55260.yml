@@ -1,0 +1,220 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 for Customer Service
+metadata:
+  title: 'Course 55260-A: Microsoft Dynamics 365 for Customer Service'
+  description: 'Course 55260-A: Microsoft Dynamics 365 for Customer Service'
+uid: course.55260
+courseNumber: '55260-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Die Funktionen und Tools verstehen, die in Microsoft Dynamics 365 für CSRs und Service-Manager vorhanden sind
+- skill: Machen Sie sich mit den Phasen des Service -Fall-Management-Prozesses in Microsoft Dynamics 365 vertraut
+- skill: Die Grundlagen des Case-Managements verstehen. In der Lage sein, Kundendienstanfragen mit Hilfe von Falldatensätzen in Microsoft Dynamics 365 zu verfolgen, zu verwalten und zu lösen
+- skill: Erfahren Sie, wie man Falldatensätze zuordnet, auflöst, reaktiviert, storniert und löscht
+- skill: Die Bedeutung von Service Level-Vereinbarungen verstehen und wie man einen Kundenplan erstellt und SLAs auf Kunden- und Falldatensätze durch Berechtigungen anwendet
+- skill: So richten Sie Warteschlangen ein, konfigurieren und verwenden Warteschlangen, um mit anderen CSRs und Teams an Fällen zusammenzuarbeiten. 
+- skill: So implementiert man eine Fall-Routing-Regel und verwendet man Warteschlangenelemente in Verfahren
+- skill: Den Prozess zum Erstellen und Verwalten von Fachartikeln in der Wissensdatenbank  verstehen
+- skill: Sich mit dem Genehmigungsprozess der Wissensdatenbank vertraut machen
+- skill: So durchsucht man die Wissensdatenbank und verknüpft Fachartikel mit Falldatensätzen
+- skill: So stellen Sie den interaktiven Service Hub bereit und navigieren ihn
+- skill: Effektive Interaktion mit den interaktiven Service Hub-Filtern, -Visualisierungen und -Dashboards
+- skill: Erstellen und Verwalten von Fachartikeln im interactiven Service Hub
+- skill: Fallmanagement im interaktiven Service Hub durchführen
+- skill: Erkunden Sie die Serviceberichte und erstellen Sie einen benutzerdefinierten Servicebericht mit dem Reporting Wizard in Microsoft Dynamics 365
+- skill: Die Bedeutung von zielgerichtetem Service-Management und Metriken inMicrosoft Dynamics 365 verstehen
+- skill: Service-Diagramme und Dashboards untersuchen und ein benutzerdefiniertes Service-Dashboard in Microsoft Dynamics 365 erstellen 
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+summary: |-
+  Dieser Kurs bietet Teilnehmern detaillierte praktische Erfahrungen mit den Vertriebsfunktionen und -komponenten von Microsoft Dynamics 365. 
+
+  Teilnehmer dieses Kurses erhalten ein tiefes Verständnis des Serviceverfahrens zum Fall-Management in Dynamics 365, einschließlich verstehen, wie man Kundenanfragen mit Falldatensätzen verfolgt und löst, gemeinsam an Problemen mit Warteschlangen arbeitet und Servicevereinbarungen (SLA) verwendet, um Serviceberechtigungen zu verwalten und die Wissensdatenbank zu nutzen, um Kundenprobleme schneller lösen zu können. In diesem Kurs werden auch die interaktiven Service-Hub- und Service-Analysefunktionen wie Serviceberichte, zielgerichtetes Servicemanagement, Servicediagramme und Dashboards vorgestellt. 
+
+  Der Kurs gilt sowohl für die Business- und Enterprise-Editionen von Dynamics 365 als auch für Online- und Vor-Ort-Bereitstellungen. 
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an Kundendienstmitarbeiter (CSR), Servicemanager und Endnutzer, die ein Interesse an den Servicekomponenten von Dynamics 365 haben. Teilnehmer sollten bereits über Kenntnisse in Microsoft Dynamics 365 oder Microsoft Dynamics CRM verfügen. Teilnehmer sollten zumindest den Vorkurs ,Introduction to Microsoft Dynamics 365' besuchen. 
+prerequisitesSection: |-
+  Vor einer Teilnahme an diesem Kurs müssen die Teilnehmer&#58;
+  - Kenntnisse in Microsoft Dynamics 365 oder Microsoft Dynamics CRM haben ODER 
+  - einen erfolgreicher Abschluss des  Kurses ,Introduction to Microsoft Dynamics 365' vorweisen
+outlineSection: |-
+  ### Modul 1&#58; Einführung
+  Dieses Modul bietet dem Teilnehmer eine Einführung in das Konzept des Kundenservices Microsoft Dynamics 365. 
+  #### Lektionen
+  - Untersuchen gängiger Kundenservice-Szenarien
+  - Eine Einführung in den Service in Dynamics 365
+  - Die Dynamics 365-Plattform
+  - Dynamics 365-Servicegrundlagen
+  - Sicherheitsüberlegungen
+  - Wo Sie Hilfe bekommen 
+  - Weiterführende Literatur und Ressourcen
+
+  #### Lab&#58; Service in Dynamics 365 Orientierung
+  - Servicefunktionen in Dynamics 365 untersuche
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58; 
+  - den Kundenserviceprozess in Bezug auf die Dynamics 365 Service App zu verstehen. 
+  - mit den Servicefunktionen der Dynamics 365 App vertraut zu sein. 
+  - die Auswirkungen der Sicherheitskonfiguration auf die Dynamics 365 Service App zu verstehen. 
+  - zu wissen, wo man Hilfe beim Navigieren und Verwenden der Dynamics 365 Service App erhält. 
+  - mit der weiterführenden Literatur und den Ressourcen vertraut sein, die Benutzern zur Verfügung steht. 
+
+
+  ### Modul 2&#58; Fallmanagement
+  Dieses Modul stellt den Service-Fall-Management-Prozess in Microsoft Dynamics 365 vor. Wir prüfen auch
+  die verschiedenen Phasen, die ein Falldatensatz während seiner Lebensdauer durchlaufen kann und wie Service-Level-Vereinbarungen mit Fällen verwendet werden, um Dienstberechtigungen zu definieren und zu verfolgen. 
+  #### Lektionen
+  - Der Fall-Management-Prozess
+  - Arbeiten mit Fallakten
+  - Arbeiten mit dem Fallformular
+  - Fallzuordnung und Routing
+  - Fälle und Aktivitäten
+  - Fälle lösen 
+  - Fälle reaktivieren, stornieren und löschen
+  - Service Level-Vereinbarungen
+
+  #### Lab&#58; Mit Fällen arbeiten
+  - Einen Falldatensatz erstellen
+  - Einen Falldatensatz zuweisen
+  - Auflösen eines Falldatensatzes
+  - Reaktivieren eines Falldatensatzes
+  - Stornieren eines Falldatensatzes
+
+  #### Lab&#58; Service Level-Vereinbarungen und Fälle
+  - Erstellen eines Kundenplans für SLA
+  - Erstellen einer neuen Service Level-Vereinbarung  
+  - Aktivieren einer Service Level-Vereinbarung 
+  - Erstellen einer Berechtigung
+  - Einen Fall mit einer Service Level-Vereinbarung verknüpfen
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
+  - den Falllösungsprozess in Bezug auf die Dynamics 365 Service App Zu verstehen
+  - zu wissen, wie man Fallakten erstellt, zuweist, verwaltet und auflöst. 
+  - die Bedeutung der zugehörigen Fallaktivitätsaufzeichnungen zu verstehen. 
+  - mit Service Level-Vereinbarungen und Kundenberechtigungen zu arbeiten. 
+
+
+  ### Modul 3&#58; Arbeiten mit Warteschlangen
+  In diesem Modul werden die Konzepte von Service-Warteschlangen in Microsoft Dynamics 365 vorgestellt. Wir untersuchen gängige Service-Szenarien, in denen Warteschlangen nützlich sein können, und führen den Prozess zum Erstellen und Verwalten von Warteschlangen durch. Wir sehen uns auch an, wie Workflow- und Routingregeln die Fallzuweisung mit Hilfe von Warteschlangen automatisieren können. 
+  #### Lektionen
+  - Einführung in Service-Warteschlangen
+  - Allgemeine Servicewarteschlangen-Szenarien
+  - Erstellen und Verwalten von Warteschlangen
+  - Arbeiten mit Warteschlangenelementen
+  - Regeln für die Weiterleitung von Fällen
+  - Prozesse und Warteschlangen
+
+
+  #### Lab&#58; Erstellen einer Fall-Routing-Warteschlange
+  - Erstellen von Warteschlangen
+  - Erstellen einer Fall-Routing-Regel
+  - Einen Fall an eine Warteschlange weiterleiten
+  - Arbeiten mit Warteschlangen und Warteschlangenelementen
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
+  - die Vorteile von Warteschlangen zu verstehen und wie sie im Falllösungsprozess verwendet werden. 
+  - Datensätze zu Warteschlangen hinzuzufügen und Warteschlangenelemente zu verwalten. 
+  - Fall-Routingregeln zu implementieren, um Fallzuweisung zu automatisieren. 
+  - die Verwaltung von Warteschlangenelementen mit Hilfe von Prozessen zu automatisieren. 
+
+
+  ### Modul 4&#58; Nutzung der Wissensdatenbank
+  In diesem Modul beginnen wir mit der Wissensdatenbank in Microsoft Dynamics 365. Wir sehen uns an, wo die Wissensdatenbank in den Service-Management-Prozess passt, präsentieren wissenschaftliche-Artikelvorlagen und untersuchen den Artikelfreigabeprozess. Schließlich schließen wir mit der Suche in der Wissensdatenbank und dem Zuordnen von Artikeln zu Falldatensätzen ab. 
+  #### Lektionen
+  - Einführung in die Wissensdatenbank
+  - Wissensdatenbankkonzepte
+  - Arbeiten mit Artikeln
+  - Durchsuchen der Wissensdatenbank
+  - Einen Wissensartikel per E-Mail senden
+
+
+  #### Lab&#58; Erstellen von Artikeln für die Wissenschaftsdatenbank
+  - Erstellen einer Artikelvorlage
+  - Aktualisieren des Themenbaums
+  - Erstellen eines neuen Artikels für die Wissensdatenbank
+  - Einen Artikel für die Wissensdatenbank zur Genehmigung einreichen
+  - Einen Artikel für die Wissensbank ablehnen
+  - Einen Artikel für die Wissensbank genehmigen
+
+  #### Lab&#58; Erstellen eines Falls und mit der Wissensdatenbank interagieren
+  - Erstellen eines neuen Falls 
+  - Einen Artikel für die Wissensdatenbank mit einem Fall verknüpfen
+  - Einen Artikel für die Wissensdatenbank per E-Mail an einen Kunden senden
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58; 
+  - mit der Wissensdatenbank in Dynamics 365 zu arbeiten. 
+  - Wissensdatenbankartikel und Artikelvorlagen zu erstellen und zu verwalten. 
+  - mit dem Artikelgenehmigungsprozess vertraut zu sein. 
+  - die Wissensdatenbank zu durchsuchen, um eine Fallakte aufzulösen. 
+  - einen Artikel per E-Mailan einen Kunden zu senden, um eine Fallakte zu lösen. 
+
+
+  ### Modul 5&#58; Der interaktive Service-Hub
+  Dieses Modul zeigt, wie CSRs und Service-Manager von den Funktionen des interaktiven Service-Hubs profitieren können. Wir betrachten die umfangreichen Bedienelemente und dynamischen Informationsströme, die von dieser alternativen Schnittstelle zu Microsoft Dynamics 365 bereit gestellt werden. Schließlich betrachten wir alternative Ansätze für das Fallmanagement, Wissensartikel und die Verfolgung von Serviceinformationen. 
+  #### Lektionen
+  - Einführung des interaktiven Service-Hubs
+  - Das Tier-1-Dashboard
+  - Das Tier-2-Dashboard
+  - Das Dashboard ""Mein Wissen""
+  - Das Dashboard ""Wissensmanager"" 
+  - Arbeiten mit Fällen im Hub
+  - Arbeiten mit Wissensartikeln im Hub
+  - Arbeiten mit Visualisierungen und Filtern im Hub
+
+  #### Lab&#58; Verwenden des interaktiven Service-Hubs
+  - Erkunden des interaktiven Service-Hubs
+  - Streams im interaktive Service Hub verwalten 
+  - Lösen eines Fall im interaktiven Service Hub
+  - Erstellen eines KB-Artikels im interaktive Service Hub
+  - KB-Artikel im interaktiven Service Hub verwalten
+  - Zuordnen eines Falls zu einem KB-Artikel im interaktiven Service-Hub 
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58; 
+  - mit dem interaktiven Service Hub in Dynamics 365 vertraut zu sein
+  - mit den interaktiven Service Hub-Dashboards, Streams, Indikatoren und Filtern zu interagieren. 
+  - Fallakten über den interaktiven Service Hub zu verwalten. 
+  - über den interaktiven Service Hub mit Artikeln aus der Wissensdatenbank zu arbeiten. 
+
+
+  ### Modul 6&#58; Serviceanalyse
+  Dieses Modul befasst sich mit den verschiedenen verfügbaren Methoden zum Analysieren von Service-Informationen, die in Microsoft Dynamics 365 gespeichert sind. Wir sehen uns die sofort einsehbaren Verkaufsberichte und den Prozess zum Erstellen eines benutzerdefinierten Berichts mit Dynamics 365 Report Wizard an. In diesem Modul werden auch das Diagramm und der Dashboard-Designer demonstriert sowie eine Überprüfung der sofort einsatzbereiten Service-Dashboards zur Analyse von Servicedaten vorgenommen. 
+  #### Lektionen
+  - Einführung in die Serviceanalyse in Dynamics 365
+  - Der Servicebericht
+  - Der Reporting Wizard
+  - Arbeiten mit Service-Charts
+  - Arbeiten mit Service-Dashboards
+  - Arbeiten mit Servicezielen und -metriken
+
+  #### Lab&#58; Untersuchen der Serviceberichte
+  - Untersuchen des Tabellenberichts zur Fallzusammenfassung
+  - Untersuchung des Berichts über vernachlässigte Fälle
+
+  #### Lab&#58; Servicezieleund Metriken
+  - Ziele für das Serviceteam erstellen
+  - Eine persönliche Ansicht erstellen
+  - Verkaufsziele und Diagramm anzeigen
+
+  #### Lab&#58; Untersuchen der Service-Diagramme und Dashboards
+  - Untersuchen der Falldiagramme
+  - Erstellen eines benutzerdefinierten Service-Diagramms
+  - Untersuchen der Service-Dashboards
+  - Erstellen eines benutzerdefinierten Service-Dashboards
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58; 
+  - die verschiedenen Möglichkeiten zum Analysieren von Servicedaten in Dynamics 365 zu verstehen. 
+  - mit den sofort einsatzbereiten Serviceberichten in Dynamics 365 zu arbeiten. 
+  - mit dem Reporting Wizard einen benutzerdefinierten Servicebericht zu erstellen. 
+  - mit den Service Charts und Dashboards zu arbeiten. 
+  Serviceziele und KPI-Visualisierungenin Dynamics365 zu erstellen. 
+  #### Zusätzliche Lektüre

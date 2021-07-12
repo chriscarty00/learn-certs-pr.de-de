@@ -1,0 +1,48 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Hybrid identity'
+metadata:
+  title: 'Course 40573-G: Microsoft Cloud Workshop: Hybrid identity'
+  description: 'Course 40573-G: Microsoft Cloud Workshop: Hybrid identity'
+uid: course.40573
+courseNumber: '40573-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Entwerfen virtueller Netzwerke in Azure mit mehreren Subnetzen, um den Netzwerkverkehr zu filtern und zu steuern.
+- skill: Erstellen eines virtuelles Netzwerks und Bereitstellen von Subnetzen.
+- skill: Erstellen von Routentabellen mit den erforderlichen Routen.
+- skill: Bauen einer Management-Jump-Box.
+- skill: Konfigurieren von Firewalls, um den Datenverkehrsfluss zu steuern.
+- skill: Konfigurieren einer Site-to-Site-Konnektivität.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  In diesem Workshop erfahren Sie, wie Sie eine hybride Identitätslösung einrichten und konfigurieren, die eine vorhandene lokale Identitätslösung mit Azure integriert.Sie erfahren, wie Sie das virtuelle Netzwerk sichern, indem Sie eine virtuelle Netzwerkappliance bereitstellen und Firewallregeln und Routingtabellen konfigurieren. Darüber hinaus richten Sie den Zugang zum virtuellen Netzwerk mit einer Jumpbox und einer Site-to-Site-VPN-Verbindung ein .
+
+  #### Zielgruppenprofil
+  Dieser Workshop richtet sich an Cloud Architects und  IT-Experten, die über Architekturkenntnisse im Infrastruktur- und Lösungsdesign in Cloud-Technologien verfügen und mehr über Azure und Azure-Services erfahren möchten, wie in den Bereichen „Zusammenfassung“ und „Erworbene Fähigkeiten“ beschrieben.  Die Teilnehmer dieses Workshops sollten auch Erfahrung mit anderen nicht von Microsoft stammenden Cloud-Technologien haben, die Kursvoraussetzungen erfüllen und sich gleichzeitig in Azure schulen lassen.
+prerequisitesSection: |-
+  Der Inhalt des Workshops setzt eine 300-stufige architektonische Expertise im Bereich Infrastruktur- und Lösungsdesign voraus.Wir empfehlen Studenten, diese Voraussetzung zu erfüllen, bevor sie an diesem Workshop teilnehmen.
+  - Microsoft Azure Essentials course, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Modul 1&#58; Whiteboard-Designsession – Hybride Identität
+  In diesem Workshop erfahren Sie, wie Sie eine hybride Identitätslösung einrichten und konfigurieren, die eine vorhandene lokale Identitätslösung mit Azure integriert.Sie erfahren, wie Sie das virtuelle Netzwerk sichern, indem Sie eine virtuelle Netzwerkappliance bereitstellen und Firewallregeln und Routingtabellen konfigurieren. Darüber hinaus richten Sie den Zugang zum virtuellen Netzwerk mit einer Jumpbox und einer Site-to-Site-VPN-Verbindung ein.
+  #### Lektionen
+  - Überprüfen Sie die Kundenfallstudie
+  - Entwerfen einer Machbarkeitsnachweis-Lösung
+  - Präsentieren Sie die Lösung
+
+
+  ### Modul 2&#58; Praktisches Lab - Hybride Identität
+  In diesem praxisorientierten Lab richten Sie eine Reihe verschiedener Hybrididentitätsszenarien ein und konfigurieren sie. Die Szenarien beinhalten eine Active Directory-Einzeldomänengesamtstruktur namens contoso.local, die in dieser Testumgebung (aus Gründen der Einfachheit) aus einem einzelnen Domaincontroller namens DC1 und einem einzelnen Domainmitgliedsserver namens APP1 besteht. Die Intention besteht darin, Azure AD-bezogene Funktionen zu erkunden, die es Ihnen ermöglichen, Active Directory in Azure Active Directory zu integrieren, die Hybridauthentifizierung und -autorisierung zu optimieren und sicheren Zugriff auf lokale Ressourcen aus dem Internet sowohl für Unternehmensbenutzer als auch für Benutzer, die Mitglieder von Partnerunternehmen sind, bereitzustellen.
+  #### Lektionen
+  - Integrieren Sie eine Active Directory-Gesamtstruktur in einen Azure Active Directory-Mandanten.
+  - Verwalten Sie Authentifizierung, Autorisierung und Zugriffskontrolle in Hybridszenarien.
+  - Konfigurieren Sie den Anwendungszugriff in Hybridszenarien.

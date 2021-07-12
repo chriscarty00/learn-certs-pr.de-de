@@ -1,0 +1,39 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+metadata:
+  title: 'Course 40557-G: Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+  description: 'Course 40557-G: Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+uid: course.40557
+courseNumber: '40557-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Implementieren Sie Lösungen, die die Stärken von Cosmos DB nutzen, um fortschrittliche Analyselösungen zu unterstützen, die eine hohe Durchsatzaufnahme, eine Bereitstellung mit geringer Latenz und eine globale Skalierung in Kombination mit skalierbaren Funktionen für maschinelles Lernen, Big Data und Echtzeitverarbeitung erfordern.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  In diesem Workshop lernen Sie, eine Datenpipeline-Lösung zu entwerfen, die Cosmos DB sowohl für die skalierbare Aufnahme von Streaming-Daten als auch für die global verteilte Bereitstellung von vorbewerteten Daten und Modellen für maschinelles Lernen nutzt. Die Lösung nutzt den Änderungsdaten-Feed von Cosmos DB in Verbindung mit Azure Databricks Delta, um eine moderne Daten-Warehouse-Lösung zu ermöglichen, die verwendet werden kann, um Lösungen zur Risikoreduzierung für das Scoring von Transaktionen auf Betrug im Offline-, Batch-Ansatz und in nahezu in Echtzeit erstellter Anfrage/ erstelltem Antwort-Ansatz.
+
+  #### Zielgruppenprofil
+  Dieser Workshop richtet sich an Cloud Architects und  IT-Experten, die über Architekturkenntnisse im Infrastruktur- und Lösungsdesign in Cloud-Technologien verfügen und mehr über Azure und Azure-Services erfahren möchten, wie in den Bereichen "Zusammenfassung“ und "Erworbene Fähigkeiten“ beschrieben. Die Teilnehmer dieses Workshops sollten auch Erfahrung mit anderen nicht von Microsoft stammenden Cloud-Technologien haben, die Kursvoraussetzungen erfüllen und sich gleichzeitig in Azure schulen lassen.
+outlineSection: |-
+  ### Modul 1&#58; Whiteboard Design-Session - Cosmos DB Moderne Analytik in Echtzeit
+  #### Lektionen
+  - Überprüfen Sie die Kundenfallstudie
+  - Entwerfen einer Machbarkeitsnachweis-Lösung 
+  - Präsentieren Sie die Lösung
+
+  ### Modul 2&#58; Praktisch - Cosmos DB erweiterte Echtzeitanalysen
+  #### Lektionen
+  - Sammeln von Streaming-Transaktionsdaten
+  - Verstehen und Aufbereiten der Transaktionsdaten in großem Maßstab 
+  - Erstellung und Bewertung von Betrugsmodellen
+  - Globale Skalierung 
+  - Berichterstattung

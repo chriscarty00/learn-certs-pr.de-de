@@ -1,0 +1,215 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Customer Engagement for Developers
+metadata:
+  title: 'Course 55259-A: Microsoft Dynamics 365 Customer Engagement for Developers'
+  description: 'Course 55259-A: Microsoft Dynamics 365 Customer Engagement for Developers'
+uid: course.55259
+courseNumber: '55259-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: In der Lage sein, Apps zu erstellen, die Code implementieren, um mit den verschiedenen APIs zu interagieren, die Entwicklern zur Verfügung stehen
+- skill:  Erfahren Sie, wie man Projekte in Visual Studio einrichtet, um sich auf das Schreiben von Code für Dynamics 365 vorzubereiten
+- skill: Entwicklerressourcen und -tools herunterladen und diese verwenden
+- skill: Server- und clientseitigen Code schreiben, um Befehle auszuführen, Daten zu und von Dynamics 365 zu lesen und zu schreiben
+- skill: Erstellen benutzerdefinierter Web- und UCI-Apps , die mit Dynamics 365-Daten und -Vorgängen interagieren 
+- skill: Anpassen der Microsoft Dynamics 365-Navigation
+- skill: Erstellen, implementieren und debuggen benutzerdefinierter Geschäftslogik in 'Plug-In'-Komponenten
+- skill: Erstellen benutzerdefinierter Workflow-Aktivitäten, um Dynamics 365-Processes zu erweitern
+- skill: Verwenden von JavaScript-Bibliotheken und Webressourcen, um das formular- und feldereignisgesteuerte Modell zu erweitern
+- skill: Verwenden der Web-API und des clientseitigen Codes, um mit HTML Web benutzerdefinierte Formularabschnitte und Bedienelemente zu erstellen
+- skill: Verwenden des App Designers und des Site Map-Designers, um benutzerdefinierte modellgesteuerte Apps zu erstellen
+- skill: Die Best-Practice-Methodik beim Erweitern und Schreiben von Code für Microsoft Dynamics 365 verstehen
+- skill: Funktionen und Tools verstehen, die in Microsoft Dynamics 365 Customer Engagement for Dev vorhanden sind
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- dynamics-365
+summary: |-
+  Dieser Kurs richtet sich an erfahrene  IT-Experten und Entwickler und bietet einen „schnellen"" Ansatz zum Erlernen der erforderlichen Fähigkeiten, um mit der Entwicklung von Code in Microsoft Dynamics 365 zu beginnen. Die Teilnehmer lernen, client- und serverseitigen Code zu schreiben, um die verschiedenen im Microsoft Dynamics 365 Customer Engagement-Framework verfügbaren APIs zu nutzen , benutzerdefinierte modellgesteuerte Apps zu erstellen, benutzerdefinierte Geschäftslogik in Plug-Ins und benutzerdefinierten Workflow-Aktivitätskomponenten zu erstellen und das Dynamics 365-Ereignismodell mit JavaScript- und HTML-Webressourcen zu erweitern . 
+  Der Kurs ist sowohl für die Business- als auch für die Enterprise-Edition von Microsoft Dynamics 365 Customer Engagement (Version 9.*) gedacht. Die in diesem Kurs erlernten Techniken können auf Web-, UCI- und Outlook-Apps angewendet werden. 
+  Bitte beachten&#58; Für diesen Kurs ist eine zugehörige Lab-Umgebung erforderlich, die auf der Learn on Demand-Plattform gehostet wird. Um Zugang zum Lab zu erwerben oder weitere Informationen zu diesem Kurs und ergänzenden Dynamics 365-Kursen zu erhalten, kontaktieren Sie uns bitte unter www. ttsolutions. com. au. 
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an Fachstudenten, Administratoren und Entwickler. Die Teilnehmer sollten bereits über Kenntnisse in Microsoft .Net und Visual Studio verfügen. Obwohl nicht obligatorisch, wird den Teilnehmern empfohlen, den Voraussetzungskurs „Introduction to Microsoft Dynamics 365"" zu absolvieren, der unter www. ttsolutions. com. au zu finden ist 
+prerequisitesSection: |-
+  - Idealerweise gute Kenntnisse in Microsoft .Net und Visual Studio
+  - Es wird allen Teilnehmern empfohlen, den Kurs ""Introduction to Microsoft Dynamics 365"" erfolgreich abzuschließen 
+outlineSection: |-
+  ### Modul 1&#58; Einführung in Dynamics 365 Development
+  Dieses Modul stellt das Konzept der Entwicklung und Erweiterung des Microsoft Dynamics 365 Frameworks vor. Sie lernen die Tools und Ressourcen kennen, die Entwicklern und Administratoren zur Verfügung stehen, sowie Best-Practice-Methoden und Grundlagen. 
+  #### Lektionen
+  - Einführung in Dynamics 365-Development
+  - Dynamics 365-Entwickleroptionen
+  - Entwicklungstools für Dynamics 365
+  - Das Kundenengagement-Toolkit (ehemals SDK)
+  - Dynamics 365-Entwicklungsumgebungen
+  - Wertvolle Fertigkeiten für Dynamics 365 Development
+  - Weiterführende Literatur und Ressourcen
+
+  #### Lab&#58; Dynamics 365-Entwicklerorientierung
+  - Entwicklerressourcen überprüfen
+  - Entwickler-Center und die Foren überprüfen
+  - Ein Paket von NuGet herunterladen
+  - Überprüfen der Entwicklerressourcen
+  - Überprüfen der Lab-Dateien
+  - Installieren von Beispieldaten
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
+  - mit dem Customer Engagement Toolkit und der Einrichtung von Visual Studio vertraut zu sein
+  - die Schlüsselfähigkeiten zu verstehen, die für die Entwicklung und Erweiterung von Dynamics 365 erforderlich sind
+  - zu wissen, wo Sie Hilfe und weiterführende Literatur finden können
+  - die wichtigsten Funktionen und Tools zu beschreiben, die Entwicklern in Microsoft Dynamics 365 CE Version 9 zur Verfügung stehen
+
+
+  ### Modul 2&#58; Die Dynamics 365-API
+  Dieses Modul stellt die verschiedenen Entwicklerressourcen, Web-Services und APIs vor, die Entwicklern in Microsoft Dynamics 365 zur Verfügung stehen. In diesem Modul erfahren Sie, wie man mit Microsoft .Net C# in Visual Studio Code schreibt, um die Web Services API-Endpunkte zu nutzen. 
+  #### Lektionen
+  - Einführung in die Dynamics 365-APIs
+  - Überlegungen zur Authentifizierung
+  - Die Web-API
+  - Der Discovery-Web Service
+  - Der Webservice der Organisation
+  - Kernbaugruppen
+  - Früh- und Spätunterricht
+  - Das Codegenerierungstool
+  - Servicekontext
+  - CRUD-Operationen
+  - Verwenden der QueryExpression-Class
+  - Verwenden von LINQ
+  - Verwenden von FetchXML
+
+
+  #### Lab&#58; Verwenden der Dynamics 365-Web-API mit serverseitigem Code
+  - Einrichten des Visual Studio-Projekts
+  - Entwickeln einer App, um Operationen mit Hilfe der Web-API auszuführen
+  - Testen Ihrer App
+
+  #### Lab&#58; Datensätze in Dynamics 365 abfragen
+  - Einrichten des Visual Studio-Projekts
+  - Abfragen von Dynamics 365 mit Hilfe der QueryExpression Class
+  - Dynamics 365-Datensätze in einer externen App anzeigen 
+
+  #### Lab&#58; CRUD-Operationen in Dynamics 365
+  - Einrichten des Visual Studio-Projekts
+  - Erstellen vo- Early-Bound Klassen
+  - Verwenden von LINQ zum Erstellen, Lesen, Aktualisieren und Löschen von Datensätzen
+  - Testen Ihrer App
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58; 
+  - zu verstehen, wie man Code schreibt, um die Web-API , Discovery- and Organization Services zu nutzen
+  - Visual Studio einzurichten, um mit der Entwicklung gegen das Dynamics 365-Framework zu beginnen
+  - die Unterschiede zwischen late- und early-bound Code zu verstehen 
+  - zu wissen, wie man sich von externen Apps aus gegenüber Dynamics 365 authentifiziert
+  - zu verstehen, wie man den Servicekontext verwendet, LINQ und FetchXML schreibt, um CRUD-Operationen auszuführen  
+  - mit den verschiedenen APIs vertraut zu sein, die Entwicklern in Microsoft Dynamics 365 CE Version 9 zur Verfügung stehen
+
+
+  ### Modul 3&#58; Entwicklung von Plug-Ins für Dynamics 365
+  In diesem Modul erfahren Sie, wie man mit Microsoft .Net C# in Visual Studio benutzerdefinierte Geschäftslogik in einer Plug-In-Komponente entwickelt. Außerdem erfahren Sie, wie man  mit Hilfe des Plug-In-Registrierungstools Plug-In-Komponenten in Microsoft Dynamics 365 bereitstellt. 
+  #### Lektionen
+  - Einführung in Plug-Ins
+  - Plug-In-Code schreiben
+  - Verwenden des Plug-In-Registrierungstools
+  - Debuggen von Plug-Ins mit dem Plug-In-Profiler
+  - Bereitstellen von Plug-Ins mit Lösungen
+
+  #### Lab&#58; Plug-In erstellen und bereitstellen
+  - Anpassen von Dynamics 365
+  - Einrichten des Visual Studio-Projekts
+  - Erstellen eines Plug-Ins
+  - Unterzeichnen und Bauen der Baugruppe
+  - Bereitstellen eines Plug-Ins mit dem Plug-In-Registrierungstool
+  - Testen Ihres Plug-Ins
+  - Debuggen des Plug-In-Codes mit dem Plug-In-Profiler-Tool
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
+  - zu wissen, wie man ein Visual Studio-Projekt einrichtet, um mit der Erstellung einer benutzerdefinierten Plug-In-Komponente zu beginnen
+  - mit dem Prozess zum Schreiben, Bereitstellen und Testen von Plug-In-Code in Visual Studio vertraut zu sein
+  - das Plug-In - Registrierungstool zu verwenden um ein Plug-In
+  für das Dynamics 365-Framework bereitzustellen
+  - Probleme mit Plug-In-Code mit dem Plug-In-Profiler-Tool zu debuggen
+  - zu verstehen, wie man Plug-Ins mit Hilfe von Solutions in einer Produktionsumgebung bereitstellt
+  - den Bedarf an benutzerdefinierter Geschäftslogik und Plug-Ins in Microsoft Dynamics 365 CE Version 9 zu verstehen 
+
+
+  ### Modul 4&#58; Entwicklung benutzerdefinierter Workflow-Aktivitäten
+  In diesem Modul erfahren Sie, wie man mit Microsoft .Net C# in Visual Studio eine benutzerdefinierte Workflowaktivität entwickelt. Außerdem erfahren Sie, wie man eine benutzerdefinierte Workflowaktivität als Workflowschritt in Microsoft Dynamics 365 verwendet. 
+  #### Lektionen
+  - Einführung in benutzerdefinierte Workflow-Aktivitäten
+  - Schreiben eines benutzerdefinierten Workflow-Aktivitätscodes
+  - Bereitstellen einer benutzerdefinierten Workflow-Aktivität
+
+  #### Lab&#58; Erstellen einer benutzerdefinierten Workflow-Aktivität
+  - Einrichten des Visual Studio-Projekts
+  - Erstellen Sie eine benutzerdefinierte Workflow-Aktivität
+  - Unterzeichnen und bauen der Baugruppe
+  - Bereitstellen einer benutzerdefinierten Workflow-Aktivität
+  - Erstellen eines Arbeitsablaufs
+  - Testen Ihrer benutzerdefinierten Workflow-Aktivitäten
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58; 
+  - zu verstehen, wie man ein Visual Studio-Projekt einrichtet, um mit dem Erstellen einer benutzerdefinierten Workflowaktivität zu beginnen
+  - mit dem Prozess zum Erstellen und Bereitstellen einer benutzerdefinierten Workflow-Aktivität mit der Plug-In-Reg vertraut zu sein
+  - zu verstehen, wie man eine benutzerdefinierte Workflow-Aktivität in Dynamics 365-Prozessen verwendet
+  - die Notwendigkeit benutzerdefinierter Workflow-Aktivitäten in Microsoft Dynamics 365 CE Version 9 zu verstehen
+
+
+  ### Modul 5&#58; Client-seitigen Code entwickeln
+  In diesem Modul werden die Konzepte zur Entwicklung von client-seitigem Code vorgestellt, der mit dem ereignisgesteuerten Modell in Microsoft Dynamics 365 funktioniert. Außerdem erfahren Sie, wie man client-seitige Komponenten mit Hilfe von Webressourcen erstellt und bereitstellt, die die Web-API verwenden,  um mit Daten in Microsoft Dynamics 365 zu arbeiten. 
+  #### Lektionen
+  - Einführung in die client-seitige Codierung
+  - Das ereignisgesteuerte Dynamics 365-Modell 
+  - Entwicklung von client-seitigem JavaScript-Code
+  - Verwenden von Webressourcen
+  - Client-seitige Codierung und die Web-API
+
+
+  #### Lab&#58; Schreiben eines JavaScript-Event-Handlers
+  - Schreiben einer JavaScript-Funktion
+  - Erstellen einer JavaScript-Webressource
+  -  Konfigurieren des Event-Handlers 
+  - Testen Ihres JavaScript-Codes
+
+  #### Lab&#58; Erstellen und Bereitstellen einer client-seitigen Komponente
+  - Schreiben eines clientseitigen Codes für die Web-API
+  - Erstellen einer HTML-Webressource
+  - Anpassen von Dynamics 365
+  - Testen Ihrer client-seitigen Komponente
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58; 
+  - zu wissen, wie man client-seitigen Code für das Dynamics 365 Event-Modell für Web and UCI Apps schreibt
+  - mit dem Konzept von Webressourcen und der Erstellung von HTML- und JavaScript-Komponenten vertraut sein
+  - zu  verstehen, wie man mit Hilfe von client-seitigem Code authentifizierT und Befehle für die Web-API ausführT
+  - das Konzept der client-seitigen Codierung in Microsoft Dynamics 365 CE Version 9 zu verstehen
+
+
+  ### Modul 6&#58; Entwicklung für das United Client Interface
+  Dieses Modul untersucht die Beziehung zwischen Dynamics 365 und PowerApps und berücksichtigt, was ein Entwickler wissen muss, wenn er eine Unified Client Interface (UCI) App erweitert. 
+  #### Lektionen
+  - Einführung in Dynamics 365, UCI und Power Apps
+  - Einführung in den App-Designer
+  - Einführung in den Site Map Designer
+  - UCI Apps mit Code erweitern
+  - Sicherheitsaktivierte Apps
+  - Anpassen der Dynamics 365-Navigatio
+  - Entwürfe und veröffentlichte Apps
+
+  #### Lab&#58; Erweitern einer Unified Client Interface (UCI)-App
+  - Erweitern einer Unified Client Interface (UCI) App mit Code
+  - Testen Ihres Codes
+
+  Nach Abschluss dieses Moduls  werden die Teilnehmer in der Lage sein&#58;
+  - zu wissen, wie man die Dynamics 365-Navigation mit dem Site Map Designeranpasst
+  - zu wissen, wie man UCI-Apps mit client-seitigem Code erweitert
+  - zu erfahren, wie man eine sicherheitsaktivierte benutzerdefinierte UCI-App mit dem App Designer veröffentlicht
+  - mit der EErstellung von UCI-Apps mit dem App Designer Tool in Dynamics 365 CE Version 9. vertraut zu sein
+
+  #### Zusätzliche Lektüre
+  Keine

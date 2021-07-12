@@ -1,0 +1,329 @@
+### YamlMime:Course
+title: Introduction to Python
+metadata:
+  title: 'Course 55284-A: Introduction to Python'
+  description: 'Course 55284-A: Introduction to Python'
+uid: course.55284
+courseNumber: '55284-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Verstehen, wie Python funktioniert und wozu es gut ist.
+- skill: den Platz von Python in der Welt der Programmiersprachen zu verstehen.
+- skill: Mit Zeichenketten in Python arbeiten und diese manipulieren können.
+- skill: Mathematische Operationen mit Python durchführen.
+- skill: 'Mit Sequenzen in Python arbeiten: Listen, Arrays, Dictionaries und Sets.'
+- skill: Benutzereingaben sammeln und Ergebnisse ausgeben.
+- skill: Flusssteuerungsverarbeitung in Python durchführen.
+- skill: Mit Python in Dateien schreiben und aus Dateien lesen.
+- skill: Funktionen in Python schreiben.
+- skill: Mit Exceptions in Python umgehen.
+- skill: Mit Daten und Zeiten in Python arbeiten.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+summary: |-
+  In diesem 4-tägigen Python-Training lernen die Teilnehmer, in Python zu programmieren. Der Kurs richtet sich an Teilnehmer, die neu in die Sprache einsteigen und möglicherweise bereits Erfahrung mit anderen Programmiersprachen haben.
+  Dieser Python-Kurs wird mit Python 3 unterrichtet; es wird jedoch auf die Unterschiede zwischen Python 2 und Python 3 hingewiesen. Bei privaten Python-Kursen kann unser Dozent auf Wunsch speziell auf Python 2 eingehen.
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an Teilnehmer, die Python erlernen möchten. Etwas Programmiererfahrung ist hilfreich, aber nicht erforderlich.
+prerequisitesSection: |-
+  Etwas Programmiererfahrung ist hilfreich, aber nicht erforderlich.
+outlineSection: |-
+  ### Modul 1&#58; Python-Grundlagen
+  Python, das erstmals 1991 erschien, ist eine der beliebtesten Programmiersprachen.  Python ist eine High-Level-Programmiersprache, d. h., sie verwendet eine relativ gut lesbare Syntax, die von einem Python-Interpreter in eine Sprache übersetzt wird, die Ihr Computer versteht. Beispiele für andere beliebte Hochsprachen sind C#, Objective-C, Java, PHP und JavaScript. Interessanterweise haben alle diese anderen Sprachen, im Gegensatz zu Python, eine C-ähnliche Syntax. Wenn Sie eine oder mehrere dieser Sprachen verwenden, werden Sie die Syntax von Python vielleicht ein wenig seltsam finden. Aber geben Sie ihr ein wenig Zeit. Sie werden feststellen, dass sie sehr programmiererfreundlich ist.
+
+  #### Lektionen
+  - Python ausführen
+  - Hallo, Welt!
+  - Literale
+  - Python-Kommentare
+  - Variablen
+  - WRiting eines Python-Moduls
+  - print()-Funktion
+  - Sammeln von Benutzereingaben
+  - Hilfe erhalten
+
+
+  #### Lab &#58; Übungen in dieser Lektion
+  - Hallo, Welt
+  - Typen erforschen
+  - Ein einfaches Python-Skript
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - zu verstehen, wie Python funktioniert.
+  - den Platz von Python in der Welt der Programmiersprachen zu verstehen.
+  - Den Unterschied zwischen Python 3.x und Python 2.x zu verstehen.
+  - Variablen und die Datentypen von Python zu verstehen.
+  - Einfache Module zu erstellen.
+  - Hilfe zu Python zu erhalten
+
+  ### Modul 2&#58; Funktionen und Module
+  Dieses Modul erklärt, wie man mit Funktionen und Modulen arbeitet.
+  #### Lektionen
+  - Definieren von Funktionen
+  - Variablenumfang
+  - Globale Variablen
+  - Funktionsparameter
+  - Rückgabe von Werten
+  - Module importieren
+
+
+  #### Lab &#58; Übungen in dieser Lektion
+  - Eine Funktion mit Parametern
+  - Parameter mit Standardwerten
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Funktionen zu definieren und aufzurufen.
+  - Parameter bei der Übergabe von Argumenten an Funktionen zu definieren.
+  - Standardwerte für Parameter festzulegen.
+  - Den Gültigkeitsbereich von Variablen zu verstehen.
+  - Rückgabe von Werten aus Funktionen.
+  - Module erstellen und importieren.
+
+
+  ### Modul 3&#58; Mathematik
+  Python enthält einige eingebaute mathematische Funktionen und einige zusätzliche eingebaute Bibliotheken, die erweiterte mathematische (und verwandte) Funktionen bereitstellen. In dieser Lektion behandeln wir die eingebauten Funktionen sowie die Bibliotheken math und random.
+
+  #### Lektionen
+  - Arithmetische Operatoren
+  - Zuweisungsoperatoren
+  - Eingebaute mathematische Funktionen
+  - Das math-Modul
+  - Das random-Modul
+
+
+  #### Lab &#58; Übungen in dieser Lektion
+  - Floor und Modulus
+  - Wie viele Pizzas brauchen wir
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
+  - Grundlegende mathematische Berechnungen in Python durchzuführen.
+  - Das Modul math für zusätzliche mathematische Operationen zu verwenden.
+  - Das Modul random zum Erzeugen von Zufallszahlen verwenden.
+
+
+  ### Modul 4&#58; Python Strings
+  Python enthält einige eingebaute mathematische Funktionen und einige zusätzliche eingebaute Bibliotheken, die erweiterte mathematische (und verwandte) Funktionen bereitstellen. In dieser Lektion behandeln wir die eingebauten Funktionen sowie die Bibliotheken math und random.
+
+  #### Lektionen
+  - Anführungszeichen und Sonderzeichen
+  - Indizierung von Zeichenketten
+  - Zerschneiden von Zeichenketten
+  - Verkettung und Wiederholung
+  - Allgemeine String-Methoden
+  - String-Formatierung
+  - Formatierte String-Literale (f-strings)
+  - Eingebaute String-Funktionen
+
+
+  #### Lab &#58; Übungen in dieser Lektion
+  - Indizierung von Strings
+  - Zerschneiden von Strings
+  - Wiederholung
+  - Mit Formatierung spielen
+  - Bekanntschaft mit f-Strings machen
+  - Tabulator-getrennten Text ausgeben
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Mit Strings zu arbeiten.
+
+  - Sonderzeichen zu entschlüsseln
+  - Mit mehrzeiligen Strings zu arbeiten.
+  - Strings zu indizieren und aufzuschneiden.
+  - Gängige String-Operatoren und -Methoden zu verwenden.
+  - Strings zu formatieren.
+  - Eingebaute String-Funktionen zu verwenden
+
+
+  ### Modul 5&#58; Iterables&#58; Sequenzen, Dictionaries und Sets
+  Iterables sind Objekte, die ihre Mitglieder nacheinander zurückgeben können. Die Iterablen, die wir in dieser Lektion behandeln, sind Listen, Tupel, Bereiche, Wörterbücher und Mengen.
+
+  #### Lektionen
+  - Definitionen
+  - Sequenzen
+  - Auspacken von Sequenzen
+  - Wörterbücher
+  - Die Funktion len()
+  - Sets
+  - *args und **kwargs
+
+
+  #### Lab &#58; Übungen in dieser Lektion
+  - Zufälliges Element entfernen und zurückgeben
+  - Einfach Stein, Papier, Schere Spiel
+  - Sequenzen zerschneiden
+  - Erstellen eines Wörterbuchs aus Benutzereingaben
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - die verschiedenen Typen von Iterables in Python zu verstehen
+  - Listen zu erstellen, zu modifizieren und mit ihnen zu arbeiten.
+  - Erstellen und Arbeiten mit Typles.
+  - Bereiche erstellen.
+  - Dictionaries erstellen, modifizieren und mit ihnen arbeiten.
+  - Sets erstellen und Sets verwenden, um Duplikate in Listen zu entfernen
+  - Die Parameter *args und **kwargs zu verstehen.
+
+
+  ### Modul 6&#58; Ablaufsteuerung
+  Im Allgemeinen läuft ein Programm Zeile für Zeile in sequenzieller Reihenfolge ab. Wir haben bereits gesehen, dass wir diesen Fluss durch den Aufruf von Funktionen ändern können. Der Ablauf kann auch durch bedingte Anweisungen und Schleifen verändert werden.
+
+  #### Lektionen
+  - Bedingte Anweisungen
+  - Schleifen in Python
+  - break und continue
+  - Die Funktion enumerate()
+  - Generatoren
+  - Listenkomplexe
+
+
+  #### Lab &#58; Übungen in dieser Lektion
+  - Alles Wahr und Jedes Wahr
+  - Wort-Ratespiel
+  - Finde die Nadel
+  - Würfeln
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Mit if-Bedingungen in Python zu arbeiten.
+  - Mit Schleifen in Python zu arbeiten.
+  - Generatorfunktionen zu erstellen
+
+  - Mit List Comprehensions arbeiten
+
+
+  ### Modul 7&#58; Virtuelle Umgebungen
+  Eine virtuelle Umgebung ist ein Container für eine Python-Entwicklungsplattform auf Ihrem Computer. In der virtuellen Umgebung können Pakete installiert werden, die von Ihrer Standard- oder nicht-virtuellen Umgebung getrennt sind.
+
+  #### Lektionen
+  - Virtuelle Umgebung
+
+
+  #### Lab &#58; Übungen in dieser Lektion
+  - Arbeiten mit einer virtuellen Umgebung
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - zu verstehen, was eine virtuelle Umgebung ist.
+  - Eine virtuelle Umgebung zu erstellen.
+  - Eine virtuelle Umgebung zu aktivieren und zu deaktivieren.
+  - Eine virtuelle Umgebung zu löschen.
+
+
+  ### Modul 8&#58; Reguläre Ausdrücke
+  Reguläre Ausdrücke werden in vielen Programmiersprachen für den Musterabgleich verwendet, z. B. in Java, PHP, JavaScript, C, C++ und Perl. Wir geben eine kurze Einführung in reguläre Ausdrücke und zeigen Ihnen dann, wie Sie mit ihnen in Python arbeiten können.
+
+  #### Lektionen
+  - Syntax regulärer Ausdrücke
+  - Pythons Umgang mit regulären Ausdrücken
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
+  - Reguläre Ausdrücke für den Mustervergleich zu erstellen.
+  - Reguläre Ausdrücke innerhalb von Python zu verwenden.
+
+
+  ### Modul 9&#58; Unicode und Kodierung
+  Dieses Modul erklärt, wie man mit Unicode und Kodierung arbeitet.
+  #### Lektionen
+  - Bits und Bytes
+  - Hexadezimale Zahlen
+  - Kodierung
+
+
+  #### Lab &#58; Übungen in dieser Lektion
+  - Zahlen zwischen Zahlensystemen umwandeln
+  - Finden von Confusables
+
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Binäre und hexadezimale Zahlen zu verstehen.
+  - Zahlen zwischen Zahlensystemen umzurechnen.
+
+
+  ### Modul 10&#58; Dateiverarbeitung
+  Mit Python können Sie auf Dateien und Verzeichnisse des Betriebssystems zugreifen und diese verändern.
+
+
+  Unter anderem können Sie&#58;
+  1. Neue oder bestehende Dateien öffnen und in Dateiobjektvariablen speichern.
+  2. Dateiinhalte lesen, auf einmal oder Zeile für Zeile.
+  3. An den Dateiinhalt anhängen.
+  4. Überschreiben des Dateiinhalts.
+  5. Verzeichnisinhalte auflisten.
+  6. Dateien und Verzeichnisse umbenennen.
+
+  #### Lektionen
+  - Öffnen von Dateien
+  - Die Module os und os.path
+
+
+  #### Lab &#58; Übungen in dieser Lektion
+  - Suchen von Text in einer Datei
+  - Schreiben in Dateien
+  - Listenerstellung
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Dateien auf dem Betriebssystem zu lesen.
+  - Dateien auf dem Betriebssystem zu erstellen und in sie zu schreiben.
+  - auf Verzeichnisse auf dem Betriebssystem zuzugreifen und mit ihnen zu arbeiten.
+  - mit den Modulen os und os.path zu arbeiten.
+
+
+  ### Modul 11&#58; Behandlung von Ausnahmen
+  In diesem Modul wird der Umgang mit Ausnahmen in Python erklärt.
+  #### Lektionen
+  - Platzhalter-Ausnahmeklauseln
+  - Informationen über Ausnahmen erhalten
+  - Die else-Klausel
+  - Die finally-Klausel
+  - Ausnahmen für die Ablaufsteuerung verwenden
+  - Eigene Exceptions auslösen
+  - Ausnahmenhierarchie
+
+
+  #### Lab &#58; Übungen in dieser Lektion
+  - Ausnahmen auslösen
+  - Summe ausführen
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
+  - Ausnahmen in Python zu behandeln.
+
+
+
+  ### Modul 12&#58; Python Daten und Zeiten
+  In diesem Modul wird erklärt, wie man mit Datums- und Zeitangaben in Python arbeitet.
+  #### Lektionen
+  - Verstehen der Zeit
+  - Das time-Modul
+  - Das datetime-Modul
+
+
+  #### Lab &#58; Übungen in dieser Lektion
+  - Bericht über Amtrack-Abfahrtszeiten
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Mit dem time-Modul zu arbeiten.
+  - Mit dem datetime-Modul zu arbeiten.
+
+
+  ### Modul 13&#58; Python-Skripte von der Kommandozeile aus ausführen
+  In diesem Modul wird erklärt, wie man Python-Skripte von der Kommandozeile aus ausführt.
+  #### Lektionen
+  - sys.arg
+  - sys.path
+
+
+  #### Lab &#58; Übungen in dieser Lektion
+  - Migrieren von Einstellungen mithilfe von Windows-EasyTransfer
+  - Konfigurieren eines Referenzabbilds von Windows 7
+  - Konfigurieren eines Referenzabbilds
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
+  - Python-Skripte über die Kommandozeile auszuführen.
+
+  #### Zusätzliche Lektüre
+  Keine

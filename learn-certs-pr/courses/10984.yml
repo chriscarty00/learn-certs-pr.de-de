@@ -1,0 +1,194 @@
+### YamlMime:Course
+title: Deploying and Managing Office 365 Hybrid Deployments
+metadata:
+  title: 'Course 10984-B: Deploying and Managing Office 365 Hybrid Deployments'
+  description: 'Course 10984-B: Deploying and Managing Office 365 Hybrid Deployments'
+uid: course.10984
+courseNumber: '10984-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Beschreiben Sie Office 365 -Verwaltungstools und Lizenzierungsoptionen.
+- skill: Stellen Sie die Verzeichnissynchronisierung in einer Office365-Bereitstellung bereit und konfigurieren Sie sie .
+- skill: Planen Sie die Hybridkonfiguration mit Exchange Server und Exchange Online.
+- skill: Führen Sie eine Bereitstellung einer Exchange Server-Hybridkonfiguration durch.
+- skill: Beschreiben und Bereitstellen von Skype for Business und Teams in einer Hybridbereitstellung.
+- skill: Stellen Sie SharePoint und OneDrive for Business in einer Hybridumgebung bereit.
+- skill: Beschreiben und Bereitstellen verschiedener Authentifizierungsmethoden in einer hybriden Office 365-Bereitstellung.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  Dies ist ein 3-tägiger ILT-Kurs, der auf die Bedürfnisse von IT-Experten abzielt, die an der Verwaltung, Konfiguration und dem Betrieb von Office 365-Services in hybriden Umgebungen teilnehmen, in denen ein Teil der Infrastruktur lokal gehostet wird. Dieser Kurs umfasst auch die Verwaltung von Identitäten, Authentifizierung und unterstützende Technologien für Office 365. Dieser Kurs konzentriert sich auf die Fähigkeiten, die für die Verwaltung und Fehlerbehebung eines Office365-Mandanten erforderlich sind, und auf wichtige Services von Office365 wie Exchange Online, SharePoint Online und Skype for Business sowie auf Services wie Azure Multi-Factor Authentication (MFA), Azure Active Directory Identity Protection und Azure Active Directory Privileged Identity Management.Alle diese Dienstleistungen werden unter dem Hybridaspekt abgedeckt. Dieser Kurs vermittelt Kenntnisse zur Verwendung von Office 365-Services sowohl für Cloud- als auch für lokale Ressourcen.
+
+  #### Zielgruppenprofil
+  Teilnehmer für diesen Kurs sind u.a. IT-Experten und Systemadministratoren, die lernen möchten, wie Office 365 in Hybridszenarien implementiert und gewartet wird, wobei sich ein Teil der Infrastruktur für die Zusammenarbeit lokal befindet und in Office 365-Services integriert  ist. Diese Fachleute sollten über mindestens 3 Jahre Erfahrung in ihrem jeweiligen Bereich verfügen, insbesondere werden Vorkenntnisse über Exchange Server, SharePoint Server und Skype for Business Server (z. B.  Lync-Server) erwartet. Von den Teilnehmern dieses Kurses wird auch erwartet , dass sie über ein ziemlich breites Verständnis der Office365-Dienstverwaltung im Allgemeinen sowie mehrerer lokaler Technologien wie DNS und AD DS verfügen.
+prerequisitesSection: |-
+  Teilnehmer, die diese Schulung besuchen, sollten neben ihrer Berufserfahrung bereits über folgende Fachkenntnisse verfügen&#58;
+  - Mindestens zwei Jahre Erfahrung in der Verwaltung des Windows Server-Betriebssystems, einschließlich Windows Server 2012 oder höher.
+  - Mindestens ein Jahr Erfahrung in der Arbeit mit Active Directory Domain Services.
+  - Mindestens ein Jahr Erfahrung in der Arbeit mit Namensauflösung, einschließlich Domain Name System (DNS).
+  - Erfahrung im Umgang mit Zertifikaten, einschließlich Public Key Infrastructure (PKI) -Zertifikaten
+  - Erfahrung in der Arbeit mit Windows PowerShell.
+  - Erfahrung in der Arbeit mit Exchange Server 2013 oder höher, Lync 2013 Server oder Skype for Business Server 2015 und SharePoint Server 2013 oder höher.
+  - Erfahrung in der Arbeit mit  wichtigen Office 365-Services wie Exchange Online, Skype for Business und SharePoint Online.
+
+  Ein Verständnis der folgenden Konzepte in Bezug auf Office 365&#58;
+  - Microsoft Cloud-Services
+  - Office 365-Plattform
+outlineSection: |-
+  ### Modul 1&#58; Einführung in die Administration und Lizenzierung von Office 365
+  Dieses Modul beschreibt Office365, seine Verwaltungstools und Lizenzierungsoptionen.
+  #### Lektionen
+  - Überblick über Office 365
+  - Office 365 Administration und Rollendelegierung;
+  - Office 365-Mandantenkonfiguration;
+  - Übersicht über die Hybridbereitstellung
+
+
+  #### Lab&#58; Bereitstellen und Konfigurieren eines Office 365-Mandanten&#58;
+  - Lokale DNS konfigurieren;
+  - Konfigurieren eines Office 365-Testmandanten;
+  - Erkunden der Microsoft 365-Admin-Schnittstellen
+
+  Nach Abschluss dieses Moduls sind Sie in der Lage&#58;
+  - die Microsoft Office 365-Komponenten und Abonnement-/Lizenzierungsoptionen zu beschreiben.
+  - Office 365-Verwaltungsportale , die Windows PowerShell-Verwaltung und Administratorrollen zu beschreiben.
+  - einen Office 365-Mandanten, benutzerdefinierter Domains und DNS-Einträge bereitzustellen und zu konfigurieren.
+  - die Optionen für die hybride Office 365-Konfiguration zu beschreiben.
+
+
+  ### Modul 2&#58; Bereitstellen und Konfigurieren der Verzeichnissynchronisierung; In diesem Modul wird erläutert, wie Sie die Verzeichnissynchronisierung in einer Office 365-Bereitstellung beschreiben und konfigurieren.
+  #### Lektionen
+  - Übersicht über Verzeichnissynchronisierung und Authentifizierung
+  - Bereitstellung und Konfiguration von Azure AD Connect
+  - Verwalten von Benutzer- und Gruppenobjekten in einer Office 365-Hybridumgebung; 
+
+  #### Lab&#58; Verwalten von Verzeichnissynchronisierung, Benutzern und Gruppen in einer  Office 365-Hybridumgebung
+  - Vorbereiten des Verzeichnisses und Konfigurieren von Azure AD Connect
+  - Verwalten von Office 365-Benutzern und -Gruppen mit einer GUI und Windows PowerShell
+  - Verwaltung  von Office 365-Kennwortrichtlinien und Self-Service-Kennwortzurücksetzung
+  
+  Nach Abschluss dieses Moduls sind Sie in der Lage&#58;
+  - die Verzeichnissynchronisierung und -authentifizierung zu beschreiben.
+  - Azure AD Connect bereitzustellen und zu konfigurieren.
+  - Verwalten Sie Benutzer- und Gruppenkonten in einer Microsoft Office 365-Hybridumgebung.
+
+
+  ### Modul 3&#58; Planung der hybriden Bereitstellung von Exchange Server; In diesem Modul wird erläutert, wie Sie eine Hybridkonfiguration mit Exchange Server und Exchange Online planen.
+  #### Lektionen
+  - Exchange Online-Übersicht
+  - Exchange Server-Hybridkonfigurationsoptionen und Bereitstellungsfunktionen
+  - Exchange Server-Services in der Hybridbereitstellung
+
+  #### Lab&#58; Planung und Gestaltung der Integration zwischen Exchange Online und Exchange Server 2019
+  - Entwerfen einer Exchange-Hybridbereitstellung
+  - Besprechung einer Lösung und Überprüfung des  Exchange Online-Setups
+
+  Nach Abschluss dieses Moduls sind Sie in der Lage&#58;
+  - Microsoft Exchange Online als Teil von Microsoft Office 365 zu beschreiben.
+  - die Hybridkonfigurations-und Bereitstellungsoptionen von Microsoft Exchange Server zu beschreiben.
+  - Exchange Server-Rollen in der Hybridbereitstellung zu beschreiben.
+
+
+  ### Modul 4&#58; Exchange Server-Hybridbereitstellung
+  In diesem Modul wird erläutert, wie man die Bereitstellung einer Exchange Server-Hybridkonfiguration durchführt.
+  #### Lektionen
+  - Verwenden Sie den Hybrid konfiguration sassistenten
+  - Verwalten und Konfigurieren der  Exchange-Hybridbereitstellung
+  - Implementieren Sie erweiterte Funktionen für Hybridbereitstellungen
+  - Konfigurieren Sie Nachrichten-Compliance und -Hygiene in einer hybriden Umgebung
+
+  #### Lab&#58; Implementieren der Exchange Server-Hybridbereitstellung
+  - Verwenden des Hybrid-Konfiguration sassistenten
+  - Verschieben von Postfächer zwischen Exchange lokal und Exchange Online
+  - Konfigurieren der Nachrichten-Compliance und -Sicherheit in der Hybridumgebung
+
+  Nach Abschluss dieses Moduls sind Sie in der Lage&#58;
+  - den Hybridkonfigurations-Assistenten zu verwenden,   um eine Exchange-Hybridumgebung einzurichten .
+  - Konfigurieren Sie eine Exchange-Hybrid-Bereitstellung.
+  - Implementieren Sie eine Hybridbereitstellung mit erweiterter Funktionalität.
+  - Beschreiben Sie die Kompatibilitätsfeatures für eine Exchange-Hybridbereitstellung.
+
+
+  ### Modul 5&#58; Skype for Business und Teams in der Office 365-Hybridbereitstellung
+  In diesem Modul wird erläutert, wie man Skype for Business und Teams in einer Hybridbereitstellung bereitstellt.
+  #### Lektionen
+  - Überblick über Microsoft Teams
+  - Planung und Vorbereitung der hybriden Skype for Business-Bereitstellung
+  - Verwenden der Skype for Business- Hybridkonfiguration mit dem Telefonsystem
+  - Konfigurieren einer Skype for Business-Hybridumgebung
+
+  #### Lab&#58; Implementieren der Skype for Business-Hybridkonfiguratio
+  - Bereitstellen von Skype for Business mit Enterprise-VoIP (Pre-Lab)
+  - Verschieben Sie Benutzer zu Skype for Business Online
+  - Aktivieren Sie das Office 365-Telefonsystem und Audiokonferenzen
+  - Entwerfen und implementieren Sie eine Skype for Business-Hybridkonfiguration
+
+  Nach Abschluss dieses Moduls sind Sie in der Lage&#58;
+  - Teams als Teil von Office 365 zu beschreiben.
+  - Bereiten Sie die Skype for Business-Hybridbereitstellung vor.
+  - Konfigurieren Sie die Skype for Business-Hybridumgebung.
+  - Beschreiben Sie hybride Bereitstellungsoptionen mit Office 365 Telefon-System.
+
+
+  ### Modul 6&#58; Hybridbereitstellung von SharePoint und OneDrive for Business
+  In diesem Modul wird erläutert, wie Sie SharePoint und OneDrive for Businessin Hybridumgebungen bereitstellen.
+  #### Lektionen
+  - Überblick über SharePoint Online
+  - Planen Sie eine SharePoint-Hybridbereitstellung
+  - Bereitstellen der SharePoint-Hybridkonfiguration
+  - Konfigurieren Sie  SharePoint-Services ein einer Hybridkonfiguration
+
+  #### Lab&#58; Implementieren von SharePoint und OneDrive for Business in einer Hybridkonfiguration 
+  - Entwerfen und Vorbereiten von SharePoint Server für eine Hybridkonfiguration
+  - Bereitstellen  von SharePoint-Services in einer Hybridkonfiguration
+  - Validieren Sie die SharePoint-Services-Funktionalität in einer Hybridkonfiguration
+
+
+  Nach Abschluss dieses Moduls sind Sie in der Lage&#58;
+  - SharePoint Online als Teil von Office 365 zu beschreiben.
+  - Planen Sie eine SharePoint-Hybridbereitstellung.
+  - Stellen Sie SharePoint Server in einer Hybridkonfiguration bereit.
+  - Konfigurieren Sie  SharePoint-Services in einer Hybridkonfiguration.
+
+
+  ### Modul 7&#58; Bereitstellen zusätzlicher Office 365-Services in einer Hybridbereitstellung
+  In diesem Modul wird erläutert, wie Sie Azure MFA, Identity Protection und Azure Information Protection bereitstellen.
+  #### Lektionen
+  - Implementieren Sie die Multi-Faktor-Authentifizierung in einem Hybridszenario
+  - Implementieren Sie Azure Information Protection
+  - Implementieren von Identitätsschutz und Azure AD Privileged Identity Management
+
+
+  #### Lab&#58; Konfigurieren zusätzlicher Office 365-Services in Hybridbereitstellungen
+  - Implementieren der Multi-Faktor-Authentifizierung
+  - Implementieren von Azure Information Protection
+  - Implementieren von Azure AD Privileged Identity Management
+
+  Nach Abschluss dieses Moduls sind Sie in der Lage&#58;
+  - die Multi-Faktor-Authentifizierung zu implementieren.
+  - Azure Information Protection zu implementieren.
+  - Identitätsschutz und Azure AD Privileged Identity Management zu implementieren.
+
+  ### Modul 8&#58; Authentifizierungsoptionen in Hybridbereitstellungen; In diesem Modul wird erläutert, wie man verschiedene Authentifizierungsmethoden in einer hybriden Office 365-Bereitstellung bereitstellt.
+  #### Lektionen
+  - Bereitstellen von AD FS für SSO in einer Office 365-Hybridumgebung 
+  - Bereitstellen von Passthrough-Authentifizierung für SSO in Office 365
+  - Planen von Authentifizierungsoptionen in Office 365
+
+
+  #### Lab&#58; Implementieren von Authentifizierungslösungen in Hybridbereitstellungen 
+  - Bereitstellen von AD FS für SSO
+  - Bereitstellen von Passthrough-Authentifizierung für SSO
+
+  Nach Abschluss dieses Moduls sind Sie in der Lage&#58;
+  - AD FS für Single Sign-On (SSO) in einer  Office 365-Hybridumgebung bereitzustellen.
+  - Passthrough-Authentifizierung für SSO bereitzustellen.
+  - Authentifizierungsoptionen in Office 365 zu planen.

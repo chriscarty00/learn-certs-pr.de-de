@@ -1,0 +1,39 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Line-of-business application migration'
+metadata:
+  title: 'Course 40558-G: Microsoft Cloud Workshop: Line-of-business application migration'
+  description: 'Course 40558-G: Microsoft Cloud Workshop: Line-of-business application migration'
+uid: course.40558
+courseNumber: '40558-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Bewerten Sie die Umgebungsbereitschaft für die Migration zu Azure.
+- skill: Entwerfen und implementieren Sie die Entdeckung und Bewertung solcher Umgebungen.
+- skill: Verwenden Sie Services wie Azure Migrate, Azure Database Migration Service und Azure Site Recovery
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  In diesem Kurs erfahren Sie, wie Sie eine Azure-Migration für eine heterogene Kundenumgebung entwerfen. Die vorhandene Infrastruktur umfasst sowohl Windows- als auch Linux-Server, die sowohl auf VMWare als auch auf physischen Maschinen ausgeführt werden, und umfasst einige Legacy-Server. Während der Whiteboard-Designsession werden Sie sich die verschiedenen Optionen und Services ansehen, die für die Migration heterogener Umgebungen zu Azure verfügbar sind. Am Ende dieses Workshops sind Sie besser in der Lage, die Erkennung und Bewertung von Umgebungen zu entwerfen und zu implementieren, um ihre Bereitschaft für die Migration zu Azure mit Hilfe von Services wie Azure Migrate, Azure Database Migration Service und Azure Site Recovery zu bewerten.
+
+  #### Zielgruppenprofil
+  Dieser Workshop richtet sich an Cloud Architects und IT-Experten, die über Architekturkenntnisse im Infrastruktur- und Lösungsdesign in Cloud-Technologien verfügen und mehr über Azure und Azure-Services erfahren möchten, wie in den Bereichen „Zusammenfassung“ und „Erworbene Fähigkeiten“ beschrieben.  Die Teilnehmer dieses Workshops sollten auch Erfahrung mit anderen nicht von Microsoft stammenden Cloud-Technologien haben, die Kursvoraussetzungen erfüllen und sich gleichzeitig in Azure schulen lassen.
+outlineSection: |-
+  ### Modul 1&#58; Whiteboard-Designsession – Migration von Branchenanwendungen
+  #### Lektionen
+  - Überprüfen Sie die Kundenfallstudie
+  - Entwerfen einer Machbarkeitsnachweis-Lösung
+  - Präsentieren Sie die Lösung
+
+  ### Modul 2&#58; Praktisches Lab – Migration von Branchenanwendungen
+  #### Lektionen 
+  - Entdecken und bewerten Sie die lokale Umgebung
+  - Migrieren Sie die Anwendungsdatenbank 
+  - Migrieren Sie die Anwendungs- und Webebenen mit Azure Site Recovery

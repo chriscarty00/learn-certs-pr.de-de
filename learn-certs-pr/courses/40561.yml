@@ -1,0 +1,39 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Machine Learning'
+metadata:
+  title: 'Course 40561-G: Microsoft Cloud Workshop: Machine Learning'
+  description: 'Course 40561-G: Microsoft Cloud Workshop: Machine Learning'
+uid: course.40561
+courseNumber: '40561-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Die Funktionen und Implementierungslösungen von Azure Machine Learning und Azure Databricks.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  In dieser Whiteboard-Designsession arbeiten Sie mit einer Gruppe zusammen, um eine Lösung zu entwerfen und zu implementieren, die Azure Databricks mit dem Azure Machine Learning Service kombiniert, um die Machine Learning- und Deep Learning-Modelle zu erstellen, zu trainieren und bereitzustellen. Sie lernen, automatisiertes maschinelles Lernen zu verwenden, das Lebenszyklusmanagement vom Training bis zur Bereitstellung in Batch- und Echtzeit-Inferenz-Szenarien zu modellieren und Deep-Learning-Modelle für Natural Language Processing (NLP) bei der Textklassifizierung und -prognose anhand von Zeitreihendaten zu erstellen. Schließlich lernen Sie, Daten mit PyTorch und Keras  für tiefgreifendes Lernen zu vergleichen.
+
+  #### Zielgruppenprofil
+  Dieser Workshop richtet sich an Cloud Architects und  IT-Experten, die über Architekturkenntnisse im Infrastruktur- und Lösungsdesign in Cloud-Technologien verfügen und mehr über Azure und Azure-Services erfahren möchten, wie in den Bereichen „Zusammenfassung“ und „Erworbene Fähigkeiten“ beschrieben.  Die Teilnehmer dieses Workshops sollten auch Erfahrung mit anderen nicht von Microsoft stammenden Cloud-Technologien haben, die Kursvoraussetzungen erfüllen und sich gleichzeitig in Azure schulen lassen.
+outlineSection: |-
+  ### Modul 1&#58; Whiteboard-Designsession – Maschinelles Lernen 
+  #### Lektionen
+  - Überprüfen Sie die Kundenfallstudie
+  - Entwerfen einer Machbarkeitsnachweis-Lösung
+  - Präsentieren Sie die Lösung
+
+  ### Modul 2&#58; Praktisches Lab – Maschinelles Lernen
+  #### Lektionen 
+  - Erstellen eines Prognosemodells mit automatisiertem maschinellem Lernen 
+  - Verstehen des automatisierten  ML-generierten Prognosemodells unter Verwendung der Modellerklärbarkeit 
+  - Erstellen eines Modells für tiefgreifendes Lernens (RNN) für Zeitreihendaten und Registrierung des Modells
+  - Verwendung eines Prognosemodells zur Bewertung von Streaming-Telemetrie
+  - Erstellen eines Deep-Learning-Textklassifizierungsmodells

@@ -12,9 +12,9 @@ ms.prod: non-product-specific
 ---
 # Erneuern Sie Ihre Microsoft Zertifizierung
 
-Microsoft Zertifizierungen bescheinigen relevante Fertigkeiten und Kenntnisse, die man braucht, um in Aufgaben innerhalb eines modernen digitalen Business erfolgreich zu sein. Zertifizierungen können Karrierechancen eröffnen und Ihre Fähigkeit belegen, die digitale Transformation Ihres Unternehmens zu fördern. Und angesichts des Tempos, in dem sich Technologie in einer Cloud-Welt entwickelt, ist es wichtig, Ihre Fähigkeiten auf Stand und Ihre Zertifizierung aktiv zu halten.
+Microsoft Certifications validieren, dass Sie über entsprechende Fähigkeiten und Kenntnisse verfügen, die für die erfolgreiche Ausübung von Aufgaben in einem modernen digitalen Unternehmen erforderlich sind. Zertifizierungen können Karrierechancen eröffnen und Ihre Fähigkeit demonstrieren, die digitale Transformation Ihres Unternehmens zu unterstützen. Angesichts der Geschwindigkeit, mit der sich Cloud -Technologien weiterentwickeln, ist es wichtig, dass Sie Ihre Kenntnisse auf dem neuesten Stand und Ihre Zertifizierung aktiv halten.
 
-Am 15. Dezember hat Microsoft einen neuen Ansatz (https://aka.ms/CertRenewalBlog) eingeführt, um Studenten auf dem Laufenden zu halten. Wenn Sie eine aktive Zertifizierung haben, die innerhalb von sechs Monaten abläuft, können Sie ihre Zertifizierung alljährlich – kostenlos – erneuern, indem sie eine entsprechende Erneuerungsbewertung auf Microsoft Learn ablegen.
+Am 15. Dezember 2020 hat Microsoft [einen neuen Ansatz](https://aka.ms/CertRenewalBlog) eingeführt, um Lernenden zu helfen, auf dem neuesten Stand zu bleiben. Diejenigen, die eine aktive Zertifizierung haben, die innerhalb von sechs Monaten abläuft, können ihre Zertifizierung jährlich  kostenfrei erneuern -  durch Bestehen einer Erneuerungsprüfung auf Microsoft Learn.
 
 ## Zertifizierungserneuerungsplan
 
@@ -22,7 +22,7 @@ Ca. sechs Monate nach Einführung rollenbasierter und spezieller Zertifizierunge
 
 Wenn Sie berechtigt sind, Ihre Zertifizierung zu erneuern, werden auf der E-Mail -Adresse verständigt, die mit Ihrer Microsoft-Zertifizierungs-ID (MCID) verlinkt ist. Sie bekommen dann bis zu vier Erinnerungs-E-Mails, bevor Ihre Zertifizierung abläuft. Nachdem Sie Ihre Zertifizierung erneuert haben, bekommen Sie keine Erinnerungsschreiben mehr, bis es wieder Zeit zum Erneuern ist.
 
-Die ersten verfügbaren Verlängerungsbewertungen sind hier aufgelistet. Diese werden in der Reihenfolge geplant, in der die Berechtigung der einzelnen Teilnehmer für Verlängerungen geöffnet wird. Teilnehmer haben Anspruch auf Verlängerungen innerhalb von sechs Monaten vor Ablauf ihrer Zertifizierung. Bitte überprüfen Sie diese Seite auf Aktualisierungen/Änderungen zur Liste. 
+Die ersten verfügbaren Verlängerungsbewertungen sind hier aufgelistet. Diese werden in der Reihenfolge geplant, in der die Berechtigung der einzelnen Teilnehmer für Verlängerungen geöffnet wird. Teilnehmer haben Anspruch auf Verlängerungen innerhalb von sechs Monaten vor Ablauf ihrer Zertifizierung. Bitte überprüfen Sie diese Seite auf Aktualisierungen/Änderungen zur Liste.
 
 | Verlängerungsbewertung verfügbar März 2021 |
 | --- |
@@ -36,7 +36,7 @@ Die ersten verfügbaren Verlängerungsbewertungen sind hier aufgelistet. Diese w
 | Microsoft Certified: Azure Data Scientist Associate |
 | Microsoft 365 Certified: Modern Desktop Administrator Associate |
 | Microsoft 365 Certified: Messaging Administrator Associate |
-| Microsoft 365 Certified: Security Administrator Associate |	  
+| Microsoft 365 Certified: Security Administrator Associate |
 | Microsoft 365 Certified: Enterprise Administrator Expert |
 | Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate |
@@ -45,7 +45,7 @@ Die ersten verfügbaren Verlängerungsbewertungen sind hier aufgelistet. Diese w
 | Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate |
-	
+
 ## Vorteile der Erneuerung Ihrer Zertifizierung
 
 - Halten Sie Ihre Microsoft Zertifizierung mit einer Weiterbildungseinstellung aufrecht und halten Sie Ihre Fähigkeiten kostenlos auf Stand.
@@ -56,6 +56,7 @@ Die ersten verfügbaren Verlängerungsbewertungen sind hier aufgelistet. Diese w
 
 - Wenn Sie eine gültige rollenbasierte oder spezielle Microsoft Zertifizierung haben, die in ca. sechs Monaten abläuft, können Sie diese erneuern.
 - Zum Erneuern Ihrer Zertifizierung legen Sie die entsprechende Prüfung bei Microsoft Learn ab, _bevor_ Ihre Zertifizierung abläuft.
+- Das Bestehen der Erneuerungsprüfung auf Microsoft Learn ist die einzige Möglichkeit, eine Zertifizierung zu erneuern. Sie können Ihre Zertifizierung nicht erneuern, indem Sie eine Prüfung ablegen, auch wenn es sich um eine neue oder aktualisierte Version der Prüfung handelt, die Sie ursprünglich abgelegt haben, um die Zertifizierung zu erhalten. Wenn Sie zum Beispiel AZ-103 abgelegt haben, um Ihre Microsoft Azure Administrator-Zertifizierung zu erhalten, können Sie die neue Prüfung AZ-104 nicht ablegen und bestehen, um Ihre Zertifizierung zu erneuern. Sie müssen die Erneuerungsprüfung auf Microsoft Learn bestehen, um Ihre Zertifizierung zu erneuern. Es gibt keine Ausnahmen von dieser Richtlinie.
 
 ## Wie Sie Ihre Zertifizierung erneuern
 
@@ -64,10 +65,6 @@ Die ersten verfügbaren Verlängerungsbewertungen sind hier aufgelistet. Diese w
 - Sobald Sie zur Erneuerung zugelassen sind, erhalten Sie eine E-Mail-Benachrichtigung, die sie zur Prüfung führt, die auf Microsoft Learn zur Verfügung gestellt wird.
 - Wenn Sie die Online-Prüfung bestehen, wird Ihre Zertifizierung ab dem aktuellen Ablaufdatum um ein weiteres Jahr verlängert.
 - Um sich auf die Prüfung vorzubereiten, können Sie Ihre Fähigkeiten mit einer Sammlung kostenloser, selbstbestimmter Lernmodule voranbringen. Erkunden Sie dazu verfügbare Module auf der Zertifizierungserneuerungs-Seite.
-
-## Änderungen zur Zertifizierungsablauf-Richtlinie
-
-Am 15. Dezember 2020 [kündigten wir eine Änderung der Richtlinien zum Ablauf der Zertifizierung an.](https://aka.ms/CertRenewalBlog) die am Mittwoch, 30. Juni 2021 um 12 Uhr GMT (29. Juni 2021 um 17 Uhr PT) in Kraft tritt, jede [Rollen -basierte](/learn/certifications/browse/?type=rollenbasiert) oder [Spezialzertifizierung](/learn/certifications/browse/?type=specialty) ist ein Jahr ab dem Datum gültig, an dem Sie diese erworben haben. die vor Juni 2021 erworben werden, gelten zwei Jahre ab dem Zeitpunkt ihrer Erlangung.
 
 ## Häufig gestellte Fragen
 
@@ -95,11 +92,11 @@ Für weitere Informationen, gehen Sie die FAQ über die Erneuerung von Microsoft
 
 5. **Meine Zertifizierung ist abgelaufen. Was passiert jetzt?**
 
-    Wenn Ihre Zertifizierung abläuft, müssen Sie sie durch Ablegen der erforderlichen Prüfung(en) erneut erwerben.
+   Wenn Ihre Zertifizierung abläuft, müssen Sie die Zertifizierung erneut erwerben, indem Sie die erforderliche(n) Prüfung(en) ablegen. Weitere Informationen finden Sie unter: [Richtlinie zum Ablauf der Zertifizierung.](/learn/certifications/certification-expiration-policy)
 
 6. **Kann ich meine Zertifizierung durch Ablegen einer Beta-Prüfung oder durch Wiederholung einer Prüfung, bevor meine Zertifizierung abläuft, erneuern?**
 
-    Nein. Zum Erneuern Ihrer Zertifizierung müssen Sie die Erneuerungsprüfung ablegen, bevor Ihre Zertifizierung abläuft.
+    Nein. Um Ihre Zertifizierung zu erneuern, müssen Sie die Erneuerungsprüfung bestehen, bevor Ihre Zertifizierung abläuft. Es gibt keine Ausnahmen von dieser Richtlinie.
 
 7. **Besitzen alle Microsoft Zertifizierungen die Erneuerungsoption?**
 

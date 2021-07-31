@@ -3,7 +3,6 @@ title: Data Engineering on Microsoft Azure
 metadata:
   title: 'Course DP-203T00-A: Data Engineering on Microsoft Azure'
   description: 'Course DP-203T00-A: Data Engineering on Microsoft Azure'
-  iltScheduling: true
 uid: course.dp-203t00
 courseNumber: 'DP-203T00-A'
 hoursToComplete: 96
@@ -34,12 +33,7 @@ levels:
 roles:
 - data-engineer
 products:
-- azure-data-factory
-- azure-synapse-analytics
-- azure-stream-analytics
-- azure-event-hubs
-- azure-data-lake
-- azure-databricks
+- azure
 exams:
 - uid: exam.dp-203
 summary: |-
@@ -234,7 +228,7 @@ outlineSection: |-
   - Daten Warehouse Entwickler-Features von Azure Synapse Analytics verstehen
   
   
-  ### Module 11&#58; Analyse und Optimierung der Daten Warehouse Speicherung
+  ### Modul 11&#58; Analyse und Optimierung der Daten Warehouse Speicherung
   In diesem Modul lernen die Teilnehmer, wie man die Datenspeicherung von Azure Synapse dezidiertem SQLanalysiert und optimiert.Die Teilnehmer werden Techniken erlernen, um die Verwendung des Tabellenbereichs und die Speicherdetails des Spaltenspeichers zu verstehen.Als Nächstes werden die Teilnehmer die Speicheranforderungen zwischen identischen Tabellen vergleichen, die unterschiedliche Datentypen verwenden.Schließlich werden die Teilnehmer beobachten, welche Auswirkungen materialisierte Ansichten haben, wenn sie anstelle komplexer Abfragen ausgeführt werden, und lernen, wie durch Optimierung der Löschvorgänge eine umfangreiche Protokollierung vermieden werden kann.
   #### Lektionen
   - Analysieren und optimieren Sie den Daten-Warehouse-Speicher in Azure Synapse Analytic

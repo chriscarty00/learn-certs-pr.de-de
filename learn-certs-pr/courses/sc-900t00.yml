@@ -18,10 +18,9 @@ locales:
 levels:
 - beginner
 roles:
-- business-user
 - student
 products:
-- m365
+- azure
 exams:
 - uid: exam.sc-900
 summary: |-
@@ -36,28 +35,33 @@ prerequisitesSection: |-
   - Grundlegende Kenntnisse von Microsoft Azure und Microsoft 365 haben.
 outlineSection: |-
   ### Modul 1&#58; Beschreiben grundlegender Konzepte für Sicherheit, Compliance und Identität.
-  Erfahren Sie mehr über Kernkonzepte, -prinzipien und -methoden, die für Sicherheits-, Compliance- und Identitätslösungen von grundlegender Bedeutung sind, einschließlich Zero-Trust, geteilter Verantwortung, unsere Datenschutzprinzipien und mehr.
+  Lernen Sie zentrale Konzepte und Methoden kennen, die für Sicherheit, Compliance und Identitätslösungen grundlegend sind, einschließlich Zero-Trust, geteilte Verantwortung, die Rolle von Identitätsanbietern und mehr.
   #### Lektionen
-  - Beschreiben von Sicherheitskonzepten und -methoden.
-  - Beschreiben der Sicherheits- und Compliance-Grundsätze von Microsoft.
-  
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - Sicherheitskonzepte und -methoden zu beschreiben.
-  - das Service Trust Portal zu untersuchen.
-  - zu wissen, wo sie die Azure-Konformitätsdokumentation finden und überprüfen können.
+  - Beschreiben von Sicherheits- und Compliance-Konzepten und -Methoden
+  - Beschreiben von Identitätskonzepten
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+  - Sicherheits- und Compliance-Konzepte und -Methoden zu beschreiben
+  - Identitätskonzepte zu beschreiben
     
     
   ### Modul 2&#58; Beschreiben der Konzepte und Funktionen von Microsoft Identitäts- und Zugriffsverwaltungslösungen
   Erfahren Sie mehr über Azure AD-Services und Identitätsprinzipien, sichere Authentifizierung, Zugriffsverwaltungsfunktionen sowie Identitätsschutz und -verwaltung.
   #### Lektionen
-  - Identitätskonzepte beschreiben
   - Beschreiben der grundlegenden Services und Identitätstypen von Azure AD
   - Beschreiben der Authentifizierungsfunktionen von Azure AD
   - Beschreiben der Zugriffsverwaltungsfunktionen von Azure AD
   - Beschreiben der Identitätsschutz- und Governance-Funktionen von Azure AD
+
+  #### Lab &#58; Erkunden Sie das Azure Active Directory
+
+  #### Lab &#58; Erkunden Sie die Azure AD Authentifizierung mit eigenständig zurückgesetztem Passwort
+
+  #### Lab &#58; Entdecken Sie die Zugriffsverwaltung in  Azure AD mit bedingtem Zugriff
+
+  #### Lab &#58; Entdecken Sie die Identitätsverwaltung in Azure AD mit bevorzugter Identitätsverwaltung
     
   Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - Grundlegende Identitätskonzepte zu beschreiben.
   - grundlegenden Services und Identitätstypen von Azure AD zu beschreiben
   - die Authentifizierungsfunktionen von Azure AD zu beschreiben.
   - die Zugriffsverwaltungsfunktionen von Azure AD zu beschreiben.
@@ -73,7 +77,18 @@ outlineSection: |-
   - Beschreiben der Bedrohungsschutzfunktionen von Microsoft 365
   - Beschreiben der Sicherheitsverwaltungsfunktionen von Microsoft 365
   - Beschreiben der Endpunktsicherheit mit Microsoft Intune
-  - Modulübersicht
+  
+  #### Lab &#58; Erkunden Sie Microsoft Cloud App Security
+
+  #### Lab &#58; Erkunden Sie Azure Sentinel
+
+  #### Lab &#58; Erkunden Sie das Azure Security Center
+
+  #### Lab &#58; Erkunden Sie Azure Network Security Groups (NSGs)
+
+  #### Lab &#58; Entdecken Sie das Microsoft 365 Defender-Portal
+
+  #### Lab &#58; Erkunden Sie Microsoft Intune
   
   Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
   - die grundlegenden Sicherheitsfunktionen in Azure zu beschreiben.
@@ -90,14 +105,24 @@ outlineSection: |-
   - Beschreiben der Compliance-Verwaltungsfunktionen in Microsoft
   - Beschreiben der Informationsschutz- und Governance-Funktionen von Microsoft 365
   - Beschreiben der Insider-Risikofunktionen in Microsoft 365
-  - Beschreiben der eDiscovery-Funktionen von Microsoft 365
-  - Beschreiben der Überwachungsfunktionen von Microsoft 365
-  - Beschreiben der Ressourcenverwaltungsfunktionen in Azure
-    
+  - Beschreiben Sie die eDiscovery- und Audit-Funktionen von Microsoft 365
+  - Beschreiben Sie die Möglichkeiten der Ressourcenverwaltung in Azure
+
+  #### Lab &#58; Erkunden Sie die Azure-Richtlinien
+
+  #### Lab &#58; Entdecken Sie das Insider-Risikomanagement in Microsoft 365
+
+  #### Lab &#58; Erkunden Sie Service Trust Portal
+
+  #### Lab &#58; Erkunden Sie Microsoft 365 Compliance Center &amp; Compliance Manager
+
+  #### Lab &#58; Erkunden Sie Empfindlichkeitskennzeichnungen in Microsoft 365
+
+  #### Lab &#58; Erkunden Sie Insider-Risikomanagement in Microsoft 365
+
   Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
   - die Compliance-Verwaltungsfunktionen in Microsoft zu beschreiben.
   - Beschreiben der Informationsschutz- und Governance-Funktionen von Microsoft 365
   - Beschreiben der Insider-Risikofunktionen in Microsoft 365.
-  - Beschreiben der eDiscovery-Funktionen von Microsoft 365.
-  - Beschreiben der Überwachungsfunktionen von Microsoft 365.
+  - Beschreiben Sie die eDiscovery- und Audit-Funktionen von Microsoft 365.
   - Beschreiben der Ressourcenverwaltungsfunktionen in Azure.

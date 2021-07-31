@@ -20,14 +20,6 @@ Technologien und die damit verbundenen Jobrollen ändern sich Jahr für Jahr sch
 
 Prüfungen, die in den nächsten 12 Monaten eingestellt werden sollen, sind hier nach Datum sortiert. (Diese Informationen können sich jederzeit ändern.)
 
-| Wird am 30. Juni 2021 eingestellt |
-| --- |
-| [AI-100](/learn/certifications/exams/ai-100): Designing and Implementing an Azure AI Solution |
-| [DP-200](/learn/certifications/exams/dp-200): Implementing an Azure Data Solution |
-| [DP-201](/learn/certifications/exams/dp-201): Designing an Azure Data Solution |
-| [MB-600](/learn/certifications/exams/mb-600): Microsoft Dynamics 365 + Power Platform Solution Architect |
-| [MB-901](/learn/certifications/exams/mb-901): Microsoft Dynamics 365 Fundamentals |
-
 | Einstellung am 30. Juni 2022 |
 | --- |
 | [98-349](/learn/certifications/exams/98-349): Windows Operating System Fundamentals |
@@ -49,6 +41,7 @@ Diese Prüfungen wurden im letzten Jahr eingestellt. Zu Referenzzwecken werden w
 
 | Rollenbasiert| | |
 | --- | --- | --- |
+| [AI-100](/learn/certifications/exams/ai-100) | Designing and Implementing an Azure AI Solution | 30. Juni 2021
 | [AZ-100](/learn/certifications/exams/AZ-100) | Microsoft Azure Infrastructure and Deployment | 1. Mai 2019
 | [AZ-101](/learn/certifications/exams/AZ-101) | Microsoft Azure Integration and Security | 1. Mai 2019
 | [AZ-102](/learn/certifications/exams/AZ-102) | Microsoft Azure Administrator Certification Transition | 30. Juni 2019
@@ -60,6 +53,11 @@ Diese Prüfungen wurden im letzten Jahr eingestellt. Zu Referenzzwecken werden w
 | [AZ-300](/learn/certifications/exams/AZ-300) | Microsoft Azure Architect Technologies | September 30, 2020
 | [AZ-301](/learn/certifications/exams/AZ-301) | Microsoft Azure Architect Design | September 30, 2020
 | [AZ-302](/learn/certifications/exams/AZ-302) | Microsoft Azure Solutions Architect Certification Transition | 30. Juni 2019
+| [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | 31. Dezember, 2020
+| [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | 31. Dezember, 2020
+| [MB-600](/learn/certifications/exams/mb-600) | Microsoft Dynamics 365 + Power Platform Solution Architect | 30. Juni 2021
+| [MB-900](/learn/certifications/exams/MB-900) | Microsoft Dynamics 365 Fundamentals | 31. Dezember, 2019
+| [MB-901](/learn/certifications/exams/mb-901) | Microsoft Dynamics 365 Fundamentals | 30. Juni 2021
 | [MS-200](/learn/certifications/exams/ms-200) | Planning and Configuring a Messaging Platform | August 31, 2020
 | [MS-201](/learn/certifications/exams/ms-201) | Implementing a Hybrid and Secure Messaging Platform | August 31, 2020
 | [MS-202](/learn/certifications/exams/MS-202) | Microsoft 365 Messaging Administrator Certification Transition | 30. September 2019
@@ -157,9 +155,6 @@ Diese Prüfungen wurden im letzten Jahr eingestellt. Zu Referenzzwecken werden w
 
 | Microsoft Dynamics | | |
 | --- | --- | --- |
-| [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | 31. Dezember 2020
-| [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | 31. Dezember 2020
-| [MB-900](/learn/certifications/exams/MB-900) | Microsoft Dynamics 365 Fundamentals | 31. Dezember 2019
 | MB2-706 | Microsoft Dynamics CRM Online Deployment | 31. Dezember 2019
 | MB2-707 | Microsoft Dynamics CRM Customization and Configuration | 31. Dezember 2019
 | MB2-708 | Microsoft Dynamics CRM Installation | 31. Dezember 2019

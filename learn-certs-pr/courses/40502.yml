@@ -1,0 +1,43 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Big Data &amp; Visualization'
+metadata:
+  title: 'Course 40502-G: Microsoft Cloud Workshop: Big Data &amp; Visualization'
+  description: 'Course 40502-G: Microsoft Cloud Workshop: Big Data &amp; Visualization'
+uid: course.40502
+courseNumber: '40502-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Am Ende dieses Workshops werden Sie besser in der Lage sein, ein komplettes maschinelles Lernmodell in Azure Databricks zu erstellen, um vorherzusagen, ob ein bevorstehender Flug Verspätungen haben wird. Außerdem lernen Sie, wie Sie das trainierte Modell im Azure Machine Learning Model Management speichern, dann in Docker-Containern für skalierbare On-Demand-Vorhersagen bereitstellen, verwenden Azure Data Factory (ADF) zur Datenbewegung und Operationalisierung ML Scoring, Daten zusammenfassen mit Azure Databricks und Spark SQL, und visualisieren Sie Chargenvorhersagen auf einer Karte mit Power BI.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  In diesem Workshop werden Sie eine Web-App mithilfe von Machine Learning (ML) einsetzen, um Reiseverspätungen anhand von Flugverspätungsdaten und Wetterbedingungen vorherzusagen. Planen Sie einen Bulk-Datenimport, gefolgt von der Vorbereitung, wie Bereinigung und Manipulation der Daten zum Testen, und dem Training Ihres Machine Learning-Modells.
+
+  #### Zielgruppenprofil
+  Dieser Workshop richtet sich an Cloud Architects und IT-Fachleute, die über architektonisches Fachwissen im Bereich Infrastruktur- und Lösungsdesign für Cloud-Technologien verfügen und mehr über Azure und Azure -Services erfahren möchten, wie in den Bereichen „Zusammenfassung" und „Erlernte Kompetenzen" beschrieben. Wer an diesem Workshop teilnimmt, sollte auch Erfahrung mit anderen Nicht-Microsoft Cloud-Technologien haben, die Kursvoraussetzungen erfüllen und ein Cross-Training auf Azure durchführen wollen.
+outlineSection: |-
+  ### Modul 1&#58; Whiteboard Design-Sitzung - Große Daten und Visualisierung
+  #### Lektionen
+  - Überprüfung der Kundenfallstudie
+  - Entwerfen einer Proof-of-Concept-Lösung
+  - Präsentieren Sie die Lösung
+
+
+  ### Modul 2&#58; Praxislabor - Große Daten und Visualisierung
+  #### Lektionen
+  - Konstruieren eines Machine Learning Model
+  - Einrichten der Azure Data Factory
+  - Einsatz Ihres machine learning model with Azure ML
+  - Entwicklung einer Data-Factory-Pipeline für die Datenbewegung
+  - Operationalisieren Sie ML-Scoring mit Azure Databricks und Data Factory
+  - Zusammenfassen von Daten mit Azure Databricks
+  - Visualisierung in Power BI Desktop
+  - Intelligente Web-App bereitstellen

@@ -1,0 +1,43 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Cloud-native applications'
+metadata:
+  title: 'Course 40501-G: Microsoft Cloud Workshop: Cloud-native applications'
+  description: 'Course 40501-G: Microsoft Cloud Workshop: Cloud-native applications'
+uid: course.40501
+courseNumber: '40501-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Am Ende dieses Workshops werden Sie besser in der Lage sein, die Zuverlässigkeit Ihrer Container-basierten Anwendungen durch bewährte DevOps -Praktiken zu verbessern und die Release-Kadenz zu erhöhen.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  In diesem Workshop werden Sie einen Proof of Concept (POC) erstellen, der eine bestehende PaaS-Anwendung in eine Container-basierte Anwendung umwandelt. Dieser POC liefert eine mandantenfähige Web-App-Hosting-Lösung, die Azure Kubernetes Service (AKS), Docker-Container auf Linux-Knoten und eine Migration von MongoDB zu CosmosDB nutzt.
+
+  #### Zielgruppenprofil
+  Dieser Workshop richtet sich an Cloud Architects und IT-Fachleute, die über architektonisches Fachwissen im Bereich Infrastruktur- und Lösungsdesign für Cloud-Technologien verfügen und mehr über  Azure und Azure -Services erfahren möchten, wie in den Bereichen „Zusammenfassung" und „Erlernte Kompetenzen" beschrieben. Wer an diesem Workshop teilnimmt, sollte auch Erfahrung mit anderen Nicht-Microsoft Cloud-Technologien haben, die Kursvoraussetzungen erfüllen und ein Cross-Training auf Azure durchführen wollen.
+prerequisitesSection: |-
+  Der Inhalt des Workshops setzt eine 300-stufige architektonische Expertise im Bereich Infrastruktur- und Lösungsdesign voraus. Wir empfehlen Studenten, diese Voraussetzung zu erfüllen, bevor sie an diesem Workshop teilnehmen.
+  - Microsoft Azure Essentials Kurs, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Modul 1&#58; Whiteboard Design-Sitzung - Cloud-native Anwendungen
+  #### Lektionen
+  - Überprüfung der Kundenfallstudie
+  - Aufruf zum Handeln&#58; Entwerfen Sie einen Proof of Concept der Lösung
+  - Aufruf zum Handeln&#58; Präsentieren der Lösung
+
+
+  ### Modul 2&#58; Praxislabor - Cloud-native Anwendungen
+  #### Lektionen
+  - Erstellen und Ausführen einer Docker-Anwendung
+  - Bereitstellen der Lösung in Azure Kubernetes Service
+  - Skalieren der Anwendung und Testen von HA
+  - Einrichten des Lastausgleichs und der Serviceerkennung (Infrastructure Edition)
+  - Mit Diensten arbeiten und Anwendungsverkehr routen (Developer Edition)

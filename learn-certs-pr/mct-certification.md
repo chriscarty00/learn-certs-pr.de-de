@@ -59,6 +59,7 @@ Detaillierte Informationen zu den Anforderungen an das MCT-Programm finden Sie i
     - PrepMasters USA.
     - Modern Classroom Certified Trainer (MCCT®) [Nur für College-Mitarbeiter oder Professoren].
     - Certified Virtual Educator [Nur für College-Mitarbeiter oder Professoren].
+    - Sinerji Egitim
   
   ODER<br/><br/>
 
@@ -111,6 +112,7 @@ Detaillierte Informationen zu den Anforderungen an das MCT-Programm finden Sie i
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
 - [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) (retired December 31, 2020)
 - [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
+- [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) (retired June 30, 2021)
 - [Microsoft Certified: Security Operations Analyst Associate](/learn/certifications/security-operations-analyst/)
 - [Microsoft Certified: Identity and Access Administrator Associate](/learn/certifications/identity-and-access-administrator/)
 - [Microsoft Certified: Information Protection Administrator Associate](/learn/certifications/information-protection-administrator/)

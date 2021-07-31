@@ -3,7 +3,6 @@ title: Entwerfen und Implementieren einer Data Scientist Lösung unter Azure
 metadata:
   title: 'Kurs DP-100T01-A: Entwerfen und Implementieren einer Data Scientist Lösung unter Azure'
   description: 'Kurs DP-100T01-A: Entwerfen und Implementieren einer Data Scientist Lösung unter Azure'
-  iltScheduling: true
 uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
@@ -17,7 +16,6 @@ roles:
 - data-scientist
 products:
 - azure
-- azure-data-science-vm
 exams:
 - uid: exam.dp-100
 summary: |-
@@ -35,11 +33,11 @@ prerequisitesSection: |-
   - Arbeiten mit Containern
 
   Um diese erforderlichen Fähigkeiten zu erwerben, absolvieren Sie die folgende kostenlose Online-Schulung, bevor Sie an dem Kurs teilnehmen&#58; 
-  - [Microsoft Cloud-Konzepte erkunden](/learn/paths/explore-microsoft-azure-cloud-concepts/).
-  - [Modelle für maschinelles Lernen erstellen](/learn/paths/create-machine-learn-models/).
-  - [Verwalten Sie Container in Azure](/learn/paths/administer-containers-in-azure/) 
+  - [Microsoft Cloud-Konzepte erkunden](https://docs.microsoft.com/learn/paths/explore-microsoft-azure-cloud-concepts/).
+  - [Modelle für maschinelles Lernen erstellen](https://docs.microsoft.com/learn/paths/create-machine-learn-models/).
+  - [Verwalten von Containern in Azure](https://docs.microsoft.com/learn/paths/administer-containers-in-azure/)
 
-  Wenn Sie mit Datenwissenschaft und maschinellem Lernen noch nicht vertraut sind, schließen Sie bitte zuerst [Microsoft Azure AI-Fundamentals](/learn/certifications/azure-ai-fundamentals) ab.
+  Wenn Sie mit Datenwissenschaft und maschinellem Lernen noch nicht vertraut sind, schließen Sie bitte zuerst [Microsoft Azure AI-Fundamentals](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals) ab.
 outlineSection: |-
   ### Modul 1&#58; Erste Schritte mit Azure Machine Learning
   In diesem Modul lernen Sie, wie Sie einen Azure Machine Learning-Arbeitsbereich bereitstellen und diesen zur Verwaltung von maschinellen Lernmitteln wie Daten, Berechnungen, ModellTrainingscode, protokollierten Metriken und trainierten Modellen verwenden. Sie werden lernen, wie Sie die webbasierte Azure Machine Learning-Studioschnittstelle sowie das Azure Machine Learning SDK und Entwicklerwerkzeuge wie Visual Studio Code und Jupyter Notebooks verwenden, um mit den Objekten in Ihrem Arbeitsbereich zu arbeiten.
@@ -54,7 +52,7 @@ outlineSection: |-
   - Bereitstellung eines Azure Machine LearningArbeitsplatzes
   - Verwendung von Werkzeugen und Codes für die Arbeit mit Azure Machine Learning
 
-  ### Modul 2&#58; Maschinelles Lernen ohne Code
+  ### ### Modul 2&#58; Visuelle Tools für maschinelles Lernen
   In diesem Modul werden die visuellen Tools für automatisiertes maschinelles Lernen und Designer vorgestellt, mit denen Sie Modelle für maschinelles Lernen trainieren, bewerten und bereitstellen können, ohne Code schreiben zu müssen.
   #### Lektionen
   - Automatisiertes maschinelles Lernen

@@ -1,0 +1,42 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Building a Resilient IaaS Architecture'
+metadata:
+  title: 'Course 40513-G: Microsoft Cloud Workshop: Building a Resilient IaaS Architecture'
+  description: 'Course 40513-G: Microsoft Cloud Workshop: Building a Resilient IaaS Architecture'
+uid: course.40513
+courseNumber: '40513-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Am Ende dieses Workshops werden Sie besser in der Lage sein, Verfügbarkeitsgruppen, Managed Disks und SQL Server immer on Availability Groups zu entwerfen und zu verwenden, sowie Designprinzipien bei der Bereitstellung von Speicherplatz für VMs. Darüber hinaus lernen Sie den effektiven Einsatz von Azure Backup, um eine punktgenaue Wiederherstellung zu ermöglichen.
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  In diesem Workshop sehen Sie sich an, wie eine bestehende IaaS-Bereitstellung umgestaltet und aktualisiert werden kann, um Ausfallsicherheit und generell Hochverfügbarkeit zu berücksichtigen. Während der Whiteboard-Entwurfssitzung und des praktischen Labs werden Sie sich die verschiedenen Konfigurationsoptionen und Dienste ansehen, die beim Aufbau belastbarer Architekturen helfen.
+
+  #### Zielgruppenprofil
+  Dieser Workshop richtet sich an Cloud Architects und IT-Fachleute, die über architektonisches Fachwissen im Bereich Infrastruktur- und Lösungsdesign für Cloud-Technologien verfügen und mehr über  Azure und Azure -Services erfahren möchten, wie in den Bereichen „Zusammenfassung" und „Erlernte Kompetenzen“ beschrieben. Wer an diesem Workshop teilnimmt, sollte auch Erfahrung mit anderen Nicht-Microsoft Cloud-Technologien haben, die Kursvoraussetzungen erfüllen und ein Cross-Training auf Azure durchführen wollen.
+prerequisitesSection: |-
+  Der Inhalt des Workshops setzt eine 300-stufige architektonische Expertise im Bereich Infrastruktur- und Lösungsdesign voraus. Wir empfehlen Studenten, diese Voraussetzung zu erfüllen, bevor sie an diesem Workshop teilnehmen.
+  - Microsoft Azure Essentials Kurs, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Modul 1&#58; Whiteboard-Sitzung - Aufbau einer widerstandsfähigen IaaS-Architektur
+  #### Lektionen
+  - Überprüfen der Kundenfallstudie
+  - Aufruf zum Handeln&#58; Entwerfen einer Proof-of-Concept-Lösung
+  - Aufruf zum Handeln&#58; Präsentieren der Lösung
+
+
+  ### Modul 2&#58; Praxislabor - Aufbau einer widerstandsfähigen IaaS-Architektur
+  #### Lektionen
+  - Vorbereiten der Konnektivität zwischen Regionen
+  - Bauen Sie die DCs für die Ausfallsicherheit ein
+  - Web-Tier und SQL für die Ausfallsicherheit einrichten
+  - Konfigurieren des SQL Server Managed Backup
+  - Ausfallsicherheit validieren

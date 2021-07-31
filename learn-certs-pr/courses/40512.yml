@@ -1,0 +1,52 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: App Modernization'
+metadata:
+  title: 'Course 40512-G: Microsoft Cloud Workshop: App Modernization'
+  description: 'Course 40512-G: Microsoft Cloud Workshop: App Modernization'
+uid: course.40512
+courseNumber: '40512-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Am Ende dieses Workshops werden Sie besser in der Lage sein, einen Modernisierungsplan für Unternehmen zu entwerfen, die Dienste von vor Ort auf die cloudzu übertragen.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  In diesem Workshop erhalten Sie ein besseres Verständnis für die Schritte, die mit der Modernisierung von Legacy-Anwendungen und der Infrastruktur vor Ort verbunden sind, indem Sie Cloud-Dienste nutzen und gleichzeitig einen Mix aus Web- und mobilen Diensten hinzufügen, die alle mit Azure Active Directorygesichert sind.
+
+  #### Zielgruppenprofil
+  Dieser Workshop richtet sich an Cloud Architects und IT-Fachleute, die über architektonisches Fachwissen im Bereich Infrastruktur- und Lösungsdesign für Cloud-Technologien verfügen und mehr über  Azure und Azure -Services erfahren möchten, wie in den Bereichen "Zusammenfassung" und "Erlernte Kompetenzen" beschrieben. Wer an diesem Workshop teilnimmt, sollte auch Erfahrung mit anderen Nicht-Microsoft Cloud-Technologien haben, die Kursvoraussetzungen erfüllen und ein Cross-Training auf Azure durchführen wollen.
+prerequisitesSection: |-
+  Der Inhalt des Workshops setzt eine 300-stufige architektonische Expertise im Bereich Infrastruktur- und Lösungsdesign voraus. Wir empfehlen Studenten, diese Voraussetzung zu erfüllen, bevor sie an diesem Workshop teilnehmen.
+  - Microsoft Azure Essentials Kurs, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Modul 1&#58; Whiteboard Design-Sitzung - App-Modernisierung
+  #### Lektionen
+  - Überprüfung der Kundenfallstudie
+  - Entwerfen einer Proof-of-Concept-Lösung
+  - Präsentieren der Lösung
+
+
+  ### Modul 2&#58; Praxislabor - App-Modernisierung
+  #### Lektionen
+  - Migrieren der Datenbank zu Azure SQL Database
+  - App Services bereitstellen
+  - Identität und Sicherheit
+  - Hochladen von PDFs in den Blob-Speicher
+  - Erstellen einer serverlosen API für den Zugriff auf PDFs
+  - Erstellen eines Azure Suchdienstes
+  - Key Vault konfigurieren
+  - Konfigurieren und Bereitstellen der Contoso Insurance Web API
+  - Konfigurieren und Bereitstellen der Contoso Insurance-Webanwendung
+  - Konfigurieren und Ausführen der Legacy-Desktopanwendung (Windows-Formulare)
+  - Konfigurieren und Ausführen der mobilen Anwendung
+  - Erstellen einer Flow-App zum Senden von Push-Benachrichtigungen
+  - Erstellen einer App in PowerApps
+  - Hinzufügen der Azure-Funktion zum Azure API Management

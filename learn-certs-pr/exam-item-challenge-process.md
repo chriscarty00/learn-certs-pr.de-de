@@ -37,7 +37,7 @@ Microsoft-Zertifizierungsprüfungen sollen sicherstellen, dass Kandidaten, die P
 ### Prozess zur Anfechtung von Prüfungsteilen:
 
 1. Überprüfen Sie unsere Kriterien für das Akzeptieren und Nicht-Akzeptieren einer Anfechtung der Prüfung.
-2. Füllen Sie das [Formular zur Anfechtung einer Prüfung](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u) aus und senden Sie es ab.
+2. Füllen Sie das [Formular zur Anfechtung einer Prüfung](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9SQgdTBB3hHnpJO6XSRH7RURDkwT0FBRjQ5TVpFMjZXMTUzOElISVdTTS4u) aus und senden Sie es ab.
 3. Das Microsoft-Zertifizierungsteam überprüft Ihre Eingabe auf Vollständigkeit. Wenn diese unvollständig ist, werden Sie aufgefordert, weitere Informationen zu liefern. Wenn diese vollständig ist, wird sie das Microsoft-Zertifizierungsteam überprüfen. Eine Überprüfung dauert ungefähr zwei Wochen.
 4. Sobald die Überprüfung abgeschlossen ist, werden Sie über das Ergebnis informiert.
 

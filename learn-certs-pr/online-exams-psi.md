@@ -187,6 +187,7 @@ Ihre Büro- oder Wohnumgebung muss die folgenden Anforderungen erfüllen:
   - Personalausweis (nationaler/staatlicher/regionaler Personalausweis).
   - Ausländerregistrierungskarte (Green Card, Daueraufenthaltsgenehmigung, Visum).
   - Amtlich  ausgestellter Ausweis in der Landessprache (nicht in römischen Zeichen)—wird nur akzeptiert, wenn er aus dem Land stammt, in dem der Kandidat den Test durchführt.
+  - Behördlich ausgestellte ID – Wenn die ID  nicht in lateinischen Buchstaben vorliegt, muss der Name (Vor-/Nachname) in lateinischen Buchstaben auf der ID eingetragen werden.
 - Im Rahmen des Check-in-Vorgangs wird ein Webcam-Foto von Ihnen und Ihrem Lichtbildausweis aufgenommen.
 - Der Name auf dem amtlich ausgestellten Ausweis, den Sie zur Teilnahme an der Prüfung vorlegen, muss **genau** mit dem Namen in Ihren  Microsoft-Zertifizierungs- und PSI-Profilen übereinstimmen .
 - Wenn Sie gerade dabei sind, Ihren Ausweis zu aktualisieren oder zu erneuern, beachten Sie bitte, dass Formulare zur Änderung des gesetzlichen Namens, einschließlich  Formulare zur Erneuerung desPersonalausweises, nicht für Online-Prüfungen akzeptiert werden können.

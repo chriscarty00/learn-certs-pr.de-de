@@ -21,8 +21,6 @@ Zertifizierungen, die in den nächsten 12 Monaten eingestellt werden sollen, sin
 
 |                                             |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | Wird am 30. Juni 2021 eingestellt |
-| [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | Wird am 30. Juni 2021 eingestellt |
 | [MTA: Database Fundamentals](/learn/certifications/mta-database-fundamentals) | Wird am 30. Juni 2022 eingestellt |
 | [MTA: Windows Server Administration Fundamentals](/learn/certifications/mta-windows-server-administration-fundamentals) | Wird am 30. Juni 2022 eingestellt |
 | [MTA: Security Fundamentals](/learn/certifications/mta-security-fundamentals) | Wird am 30. Juni 2022 eingestellt |
@@ -44,6 +42,8 @@ Zertifizierungen bleiben nach ihrer Einstellung zwei Jahre lang im aktiven Berei
 
 | Rollenbasiert                                                                         |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
+| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 30. Juni 2021 |
+| [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) l 30. Juni 2021 l
 | [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 31. Dezember 2020 |
 | [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)              | 31. August 2020 |
 

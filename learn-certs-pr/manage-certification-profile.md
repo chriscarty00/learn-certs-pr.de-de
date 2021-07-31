@@ -55,10 +55,10 @@ Um an einer Microsoft-Zertifizierungsprüfung teilzunehmen, muss der Name in Ihr
 
 ### Anfragen in englischer Sprache
 
-Senden Sie Ihre Anfrage zur Änderung des Profilnamens mit [diesem Formular.](https://aka.ms/MSCertificationLegalNamechange) ein. Sie werden aufgefordert, die in Ihrem Microsoft-Zertifizierungsprofil enthaltenen Informationen zu überprüfen. Dieses Formular ist derzeit nur auf Englisch verfügbar. Bitte planen Sie 3-6 Werkstage für die Änderung Ihres Namens ein.
+Senden Sie Ihre Änderungsanforderung mit dem [Microsoft Certification Antragsformular für die Änderung des Profilnamens](https://aka.ms/MSCertificationLegalNamechange). Sie werden aufgefordert, die in Ihrem Microsoft -Zertifizierungsprofil enthaltenen Informationen zu überprüfen. Dieses Formular ist derzeit nur auf Englisch verfügbar. Bitte planen Sie 3-6 Werkstage für die Änderung Ihres Namens ein.
 
 ### Andere Sprachen als Englisch
-Gehen Sie auf: [Zertifizierungssupport](/learn/certifications/help) für Hilfe bei der Verwaltung Ihres Zertifizierungsprofils in einer anderen Sprache als Englisch.
+Stellen Sie eine Anfrage über unsere moderierten Zertifizierungs-Support-Foren. Gehen Sie auf: [Zertifizierungs-Support](/learn/certifications/help) für Hilfe bei der Verwaltung Ihres Zertifizierungsprofils in einer anderen Sprache als Englisch.
 
 ## Um Ihre Microsoft-Zertifizierungsprofil-Identifikationsnummer (MCID) zu finden,
 

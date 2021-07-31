@@ -27,13 +27,6 @@ roles:
 - administrator
 products:
 - azure
-- azure-stack
-- azure-stack-edge
-- azure-stack-hci
-- azure-stack-hub
-- azure-app-service
-- azure-event-hubs
-- azure-active-directory
 exams:
 - uid: exam.az-600
 summary: |-
@@ -49,9 +42,9 @@ prerequisitesSection: |-
   - Verständnis von Active Directory-Konzepten, einschließlich Domains, Gesamtstrukturen und Domaincontrollern
   
   Wenn Sie Azure und Cloud Computing noch nicht kennen, sollten Sie eine der folgenden Ressourcen in Betracht ziehen&#58;
-  - Kostenlos online&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
-  - Kurs unter Anleitung eines Dozenten&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
-  - Voraussetzungen für Azure-Administratoren (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
+  - Kostenlos online&#58; Azure Fundamentals ([http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/](http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/))
+  - Kurs unter Anleitung eines Dozenten&#58; AZ-900&#58; Azure Fundamentals ([https://docs.microsoft.com/learn/certifications/courses/az-900t01](https://docs.microsoft.com/learn/certifications/courses/az-900t01))
+  - Voraussetzungen für Azure-Administratoren ([https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### Modul 1&#58; Übersicht über Azure Stack Hub
   In diesem Modul erfahren Sie, das Azure Stack Hub eine Erweiterung von Azure bildet, mit der Sie Apps in einer lokalen Umgebung ausführen und Azure-Services in Ihrem Rechenzentrum bereitstellen können.
@@ -94,7 +87,7 @@ outlineSection: |-
   - die Verwalten von Nutzung und Rechnungsstellung in Multi-Tenant und CSP Szenarios
     
     
-  ### Module 3&#58; Implementierung der Data Center Integration
+  ### Modul 3&#58; Implementierung der Data Center Integration
   In diesem Modul lernen Sie, wie sie einen Stack Hub Bereitstellen, die Empfehlung und Validierung von Zertifikaten, und registrieren in verbundenen und nicht verbundenen Umgebungen
   #### Lektionen 
   - Bereiten Sie die Bereitstellung von Azure Stack Hub vor
@@ -156,5 +149,5 @@ outlineSection: |-
   - Speicherziele für Infrastruktur-Backups zu konfigurieren
   - den Azure Stack Hub zu aktualisieren
   - eine Support-Sitzung freizuschalten
-  - eine Verbindung zu einem privilegierten Endpoint herzustellen
+  - Verbinden mit einem privilegierten Endpunkt
   - die Systemdiagnose mit Test-AzureStack durchzuführen 

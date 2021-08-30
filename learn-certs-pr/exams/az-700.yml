@@ -10,10 +10,13 @@ summary: |-
   
   Kandidaten für diese Prüfung sollten über fachkundige Azure -Administrationskenntnisse verfügen, zusätzlich zu umfangreichen Erfahrungen und Kenntnissen über Netzwerke, hybride Verbindungen und Netzwerksicherheit.
   
-  <div><font color='red'><br/><strong>Diese Prüfung wird ab Mitte Juli 2021 verfügbar sein.</strong></font></div>
-subTitle: 'Diese Prüfung wird im Juli 2021 verfügbar sein. Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu entwerfen, zu implementieren, zu verwalten, zu sichern und zu überwachen: Hybride Netzwerke; Core-Netzwerkinfrastruktur; Routing; Netzwerke und privater Zugang zu Azure Services.'
+  <div><br/><font color='red'><strong>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten über die Qualität der Fragen und der Prüfung sammeln. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Erfahren Sie mehr über den Wert und die Bedeutung von Beta-Prüfungen.</a></strong></font></div>
+subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu entwerfen, zu implementieren, zu verwalten, zu sichern und zu überwachen: Hybride Netzwerke; Core-Netzwerkinfrastruktur; Routing; Netzwerke und privater Zugang zu Azure Services.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4PaHw
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-700&examname=Exam%20AZ-700:%20Designing%20and%20Implementing%20Microsoft%20Azure%20Networking%20Solutions%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-700
 locales:
 - en
 levels:
@@ -46,6 +49,10 @@ products:
 - azure-vpn-gateway
 - azure-web-application-firewall
 - azure-virtual-network
+paths:
+- uid: learn.wwl.designing-implementing-microsoft-azure-networking-solutions-az-700
+courses:
+- uid: course.az-700t00
 relatedCertifications:
 - related:
     uid: certification.azure-network-engineer-associate

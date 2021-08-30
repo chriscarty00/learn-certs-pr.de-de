@@ -22,7 +22,7 @@ Die Prüfungszeit variiert, je nach Art der Prüfung, die Sie ablegen.
 | ------------- |:-------------:| -----:|
 | Grundlagenprüfungen | 45 Minuten | 65 Minuten |
 | Rollenbasierte Prüfungen für Mitarbeiter und Experten ohne Labs** | 100 Minuten | 120 Minuten |
-| Rollenbasierte Prüfungen für Kollegen und Experten, die Übungen ** enthalten können | 130 Minuten | 150 Minuten |
+| Rollenbasierte Prüfungen für Kollegen und Experten, die Übungen ** enthalten können | 120 Minuten | 140 Minuten |
 | Rollenbasierte Prüfungen für Mitarbeiter und Experten, die Labs enthalten | 150 Minuten | 170 Minuten  |
 | Microsoft Technology Associate (MTA)-Prüfungen, die über akademische Kanäle angeboten werden | 45 Minuten | 50 Minuten |
 | Microsoft Office Specialist-Prüfungen (MOS) | 50 Minuten| 60 Minuten |

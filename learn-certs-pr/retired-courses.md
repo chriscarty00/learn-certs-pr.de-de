@@ -19,12 +19,12 @@ Sobald ein Kurs eingestellt wird, ist er nicht mehr verfügbar. Der Kurs kann ni
 
 ## Eingestellte Kurse Von Dozenten geleitete Schulung
 
-* Courseware retirements on July 30th, 2021
+* Lernsoftware wird am 31. August 2021 eingestellt
 
-    | Course number | Version | Title | Language | Retirement date |
+    | Kursnummer | Version | Titel | Sprache | Datum der Einstellung |
     | --- | --- | --- | --- | --- |
-    | DP-200T01 | A | Implementing an Azure Data Solution | English | 7/30/2021 |
-    | DP-201T01 | A | Designing an Azure Data Solution | English | 7/30/2021 |
+    | DP-200T01 | A | Implementing an Azure Data Solution | English | 31/8/2021 |
+    | DP-201T01 | A | Designing an Azure Data Solution | English | 31/8/2021 |
 
 * Einstellung von Kursmaterialien am 30. Juni 2021
 
@@ -1052,7 +1052,7 @@ Sobald ein Kurs eingestellt wird, ist er nicht mehr verfügbar. Der Kurs kann ni
 
 * Ablauf von Kursmaterialien am, 18. April 2016
 
-    | Kursnummer | Titel | Sprache | Ablaufdatum |
+    | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
     | --- | --- | --- | --- | --- |
     | 38 | Office 2013 and Office 365 Demonstration Sessions | Japanisch | 18/4/2016
     | 37 | Office 2013 and Office 365 Demonstration Sessions | Spanisch | 18/4/2016

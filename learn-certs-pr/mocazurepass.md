@@ -15,7 +15,7 @@ ms.prod: non-product-specific
 
 <div>Im Folgenden finden Sie Informationen zu Azure Pässen, die Microsoft zur Unterstützung von Laborlösungen für bestimmte Kurse zu Microsoft Cloud-Technologien bereitstellt.  Weitere Informationen zu alternativen, von SLA unterstützten Lösungen erhalten Sie von einem der autorisierten Lab-Hoster (ALH), die derzeit Zugriff auf Azure gewähren.</div>
 
-Zuletzt aktualisiert: **27-May-21**
+Zuletzt aktualisiert: **29. Juli 2021**
 
 Microsoft bietet Ihren Kursteilnehmern Zugriff auf einen kostenlosen 30-Tage-Microsoft Azure-Pass, wenn sie sich über Microsoft Official Courses für einen zulässigen Azure-Kurs anmelden. Pässe für Studenten können nur vom autorisierten Microsoft Learning Partner über den Lernsoftware-Marktplatz bezogen werden und sind direkt an einen Kauf eines MOC-Kurses gebunden, wobei ein Pass pro bestelltem MOC-Kurs eingeschlossen ist. Es ist kein anderer Mechanismus verfügbar, Pässe für Studenten zu erhalten. Wenn ein Lernpartner einen MOC-Kurs bestellt, aber nicht den Azure-Pass auswählt, der zum Zeitpunkt des Kaufs für den Kurs verfügbar ist, hat der Partner die Möglichkeit, zum Lernsoftware-Marktplatz zurückzukehren und diesen Pass bei Bedarf anschließend zu bestellen.
 
@@ -30,7 +30,7 @@ Es steht eine begrenzte Anzahl von Pässen zur Verfügung, die an Lernpartner un
 - 10986 Updating Your Skills to SQL Server 2016
 - 10998 Updating Your Skills to SQL Server 2017
 - 20486 Developing ASP.NET Core/MVC 5 Web Applications
-- 20487 Developing Windows Azure&trade; and Web Services
+- 20487 Developing Windows Azure™ and Web Services
 - 20744 Securing Windows Server 2016
 - 20745 Implementing a Software-Defined DataCenter
 - 20765 Provisioning SQL Databases
@@ -47,11 +47,8 @@ Es steht eine begrenzte Anzahl von Pässen zur Verfügung, die an Lernpartner un
 - 40514 Microsoft Cloud Workshop: Data Platform Upgrade and Migration
 - 40515 Microsoft Cloud Workshop: Enterprise-Class Networking in Azure
 - 40516 Microsoft Cloud Workshop: Intelligent Analytics
-- 40519 Microsoft Cloud Workshop: SAP on Azure
 - 40522 Microsoft Cloud Workshop: Azure Stack
 - 40526 Microsoft Cloud Workshop: SAP HANA on Azure
-- 40527 Microsoft Cloud Workshop: Security baseline on Azure
-- 40529 Microsoft Cloud Workshop: High Performance Computing
 - 40530 Microsoft Cloud Workshop: Cognitive Services and Deep Learning
 - 40531 Microsoft Cloud Workshop: IoT and the Smart City
 - 40535 Microsoft Cloud Workshop: Serverless Architecture
@@ -63,21 +60,23 @@ Es steht eine begrenzte Anzahl von Pässen zur Verfügung, die an Lernpartner un
 - 40562 Microsoft Cloud Workshop: Migrating SQL databases to Azure
 - 40564 Microsoft Cloud Workshop: Securing the IoT end-to-end
 - 40573 Microsoft Cloud Workshop: Hybrid identity
+- 40584 Microsoft Cloud Workshop: Leveraging Azure Digital Twins in a supply chain
 - 50331 Windows Client, Enterprise Desktop Support Technician
 - 55093 Windows Azure Data Services (basics)
 - 55188 Lizenzierung und Verwaltung Virtueller Umgebungen und Cloud Services
 - 55224-1 Microsoft Azure Big Data Analytics Solutions
 - 55224-2 Operationalize Cloud Analytics Solutions with Microsoft Azure
 - 55247 Designing and Implementing Cloud Data Platform Solutions
-- 55264 Introduction to Programming Using Python
-- AI-100T01 Designing and Implementing an Azure AI Solution
+- 55264 Introduction to Programming Using Python	   
 - AI-102T00 Designing and Implementing a Microsoft Azure AI Solution
 - AI-900T00 Microsoft Azure AI Fundamentals
 - AZ-010T00 Azure Administration for AWS SysOps
 - AZ-020T00 Microsoft Azure solutions for AWS developers
 - AZ-030T00 Microsoft Azure technologies for AWS architects
+- AZ-040T00 Automating Administration with PowerShell
 - AZ-104T00 Microsoft Azure Administrator
 - AZ-120T00 Planning and Administering Microsoft Azure for SAP Workloads
+- AZ-140T00 Configuring and Operating Microsoft Azure Virtual Desktop
 - AZ-203T0X Developing Solutions for Microsoft Azure courses
 - AZ-204T00 Developing Solutions for Microsoft Azure
 - AZ-220T00 Microsoft Azure IoT Developer
@@ -93,13 +92,15 @@ Es steht eine begrenzte Anzahl von Pässen zur Verfügung, die an Lernpartner un
 - DP-100T01 Designing and Implementing a Data Science Solution on Azure
 - DP-200T01 Implementing an Azure Data Solution
 - DP-201T01 Designing an Azure Data Solution
+- DP-203T00 Data Engineering on Microsoft Azure
 - DP-300T00 Administering Relational Databases on Microsoft Azure
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
-- MS-600T00 Erstellen von Anwendungen und Lösungen mit Microsoft 365-Kern-Services
+- MS-600T00 Building applications and solutions with Microsoft 365 core services
 - PL-400T00 Microsoft Power Platform Developer
 - PL-600T00 Power Platform Solution Architect
 - SC-200T00 Microsoft Security Operations Analyst
 - SC-300T00 Microsoft Identity and Access Administrator
+- SC-900T00 Microsoft Security, Compliance, and Identity Fundamentals
 - WS-013T00 Azure Stack HCI
 - WS-050T00 Migrating Application Workloads to Azure
 

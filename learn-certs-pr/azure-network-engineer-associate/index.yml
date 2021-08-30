@@ -13,9 +13,7 @@ summary: |-
   Der Azure Network Engineer arbeitet mit Lösungsarchitekten, cloud Administratoren, Sicherheitstechnikern, Anwendungsentwicklern und DevOps Technikern zusammen, um Azure Lösungen zu liefern.
   
   Kandidaten für diese Zertifizierung sollten über fachkundige Azure -Administrationskenntnisse verfügen, zusätzlich zu umfangreichen Erfahrungen und Kenntnissen über Netzwerke, hybride Verbindungen und Netzwerksicherheit.
-  
-  <div><font color='red'><br/><strong>Diese Zertifizierung wird ab Mitte Juli 2021 verfügbar sein.</strong></font></div>
-subTitle: Diese Zertifizierung wird im Juli 2021 verfügbar sein. Kandidaten für die Azure Network Engineer Associate -Zertifizierung sollten über Fachwissen in der Planung, Implementierung und Wartung von Azure -Netzwerklösungen verfügen, einschließlich hybrider Netzwerke, Konnektivität, Routing, Sicherheit und privatem Zugang zu Azure -Services.
+subTitle: Kandidaten für die Azure Network Engineer Associate -Zertifizierung sollten über Fachwissen in der Planung, Implementierung und Wartung von Azure -Netzwerklösungen verfügen, einschließlich hybrider Netzwerke, Konnektivität, Routing, Sicherheit und privatem Zugang zu Azure -Services.
 levels:
 - intermediate
 skills:
@@ -47,6 +45,10 @@ products:
 - azure-vpn-gateway
 - azure-web-application-firewall
 - azure-virtual-network
+paths:
+- uid: learn.wwl.designing-implementing-microsoft-azure-networking-solutions-az-700
+courses:
+- uid: course.az-700t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4OV0k
 exams:
 - uid: exam.az-700

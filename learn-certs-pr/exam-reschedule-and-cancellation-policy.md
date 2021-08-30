@@ -14,10 +14,11 @@ ms.prod: non-product-specific
 
 ## Details zu den Richtlinien für Verschiebungen und
 
-- <div><font color='red'>Stornierungen– Microsoft verzichtet vorläufig auf die Gebühren für die Verschiebung und Stornierung, solange Sie Ihre Prüfungen innerhalb von 24 Stunden vor Ihrem geplanten Termin absagen.</font></div>
+- <div><font color='red'>Wenn Sie zu Ihrem Prüfungstermin nicht erscheinen oder Ihren Termin nicht mindestens 24 Stunden vor dem geplanten Termin verschieben oder absagen, verlieren Sie die gesamte Prüfungsgebühr.</font></div>
 - Es entstehen keine Kosten, wenn Sie einen Prüfungstermin mindestens sechs Werktage vor Ihrem Termin verschieben oder absagen.
 - Wenn Sie Ihre Prüfung innerhalb von fünf Werktagen nach der angemeldeten Prüfzeit absagen oder verschieben, wird eine Gebühr erhoben.
 - Wenn Sie Ihre Prüfungstermine nicht einhalten oder nicht neu vereinbaren oder Ihren Termin nicht mindestens 24 Stunden vor Ihrem vereinbaren Termin stornieren, verfällt Ihre gesamte Prüfungsgebühr. Arbeitstage sind Montag-Urlaubstage sind nicht enthalten.
+
 ## So verschieben oder stornieren Sie Ihre Prüfung
 
 Eine Verschiebung oder Stornierung Ihres geplanten Prüfungstermins kann über das Zertifizierungs-Dashboard erfolgen.

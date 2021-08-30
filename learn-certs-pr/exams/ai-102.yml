@@ -6,7 +6,7 @@ metadata:
 uid: exam.ai-102
 displayName: AI-102
 summary: |-
-  <div><font color='red'><strong>Der Inhalt dieser Prüfung wird am 29. Juli 2021 aktualisiert. Bitte laden Sie das unten stehende Dokument zu Kompetenzmessungen herunter, um zu sehen, was sich ändern wird.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am 29. Juli 2021 aktualisiert. Bitte laden Sie das unten stehende Dokument zur Kompetenzmessung herunter, um zu sehen, was sich ändern wird.</strong></font><br/><br/></div>
   
   Kandidaten für Prüfung AI-102: Designing and Implementing a Microsoft Azure AI Solution Erstellen, Verwalten und Bereitstellen von AI Lösungen als Hebel für Azure Cognitive Services, Azure Cognitive Search und Microsoft Bot Framework.
   
@@ -14,7 +14,7 @@ summary: |-
   
   Sie arbeiten mit Lösungsarchitekten zusammen, um ihre Vision zu übersetzen, und mit Datenwissenschaftlern, Datentechnikern, IoT-Spezialisten und AI-Entwicklern, um komplette durchgehende AI-Lösungen zu erstellen.
   
-  Kandidaten für diese Prüfung sollten C#, Python oder JavaScript beherrschen und in der Lage sein, REST--basierte  APIs und SDKs  zu nutzen, um Computer Vision, Natural Language Processing, Knowledge Mining und diaologorientierte AI-Lösungen auf Azure zu erstellen.
+  Kandidaten für diese Prüfung sollten C# oder Python beherrschen und in der Lage sein, REST-basierte APIs und SDKs zu nutzen, um Computervision, Verarbeitung natürlicher Sprache, Knowledge Mining und dialogorientierte AI-Lösungen auf Azure zu entwickeln.
   
   Sie sollten auch die Komponenten verstehen, aus denen sich das Azure AI -Portfolio zusammensetzt, sowie die verfügbaren Datenspeicheroptionen. Außerdem müssen die Kandidaten verantwortungsvolle AI-Prinzipien verstehen und anwenden können.
 subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben auszuführen: Planen und Verwalten einer Azure Cognitive Services-Lösung; Implementierung von Computervisions-Lösungen, Implementieren von Lösungen zur Verarbeitung natürlicher Sprache, Implementierung von Knowledge-Mining-Lösungen und AI-Konversations-Lösungen.'
@@ -23,10 +23,13 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbY
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AI-102&examname=Exam%20AI-102:%20Designing%20and%20Implementing%20a%20Microsoft%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-102
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - intermediate
 skills:
-- Der Inhalt dieser Prüfung wird am 29. Juli 2021 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich ändert.
+- Der Inhalt dieser Prüfung wurde am 29. Juli 2021 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich ändert.
 - Planen und Verwalten einer Azure Cognitive Services-Lösung (15-20%)
 - Implementieren von Computervisions-Lösungen (20-25%)
 - Implementieren von Lösungen zur Verarbeitung natürlicher Sprache (20-25%)
@@ -56,12 +59,15 @@ products:
 courses:
 - uid: course.ai-102t00
 paths:
-- uid: learn.data-ai.evaluate-text-with-language-services
+- uid: learn.wwl.prepare-for-ai-engineering 
+- uid: learn.wwl.provision-manage-azure-cognitive-services
+- uid: learn.wwl.process-translate-text-azure-cognitive-services
 - uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
-- uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
-- uid: learn.wwl.process-natural-language-azure-cognitive-language-services
-- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
+- uid: learn.wwl.create-language-understanding-solution
+- uid: learn.wwl.build-qna-solution
 - uid: learn.wwl.create-conversational-ai-solutions
+- uid: learn.wwl.create-computer-vision-solutions-azure-cognitive-services
+- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
 relatedCertifications:
 - related:
     uid: certification.azure-ai-engineer

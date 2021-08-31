@@ -20,6 +20,7 @@ ms.prod: non-product-specific
 - Ein Kandidat darf eine bestimmte Prüfung innerhalb von 12 Monaten nicht öfter als fünfmal ablegen. Dieser Zeitraum von 12 Monaten beginnt mit dem ersten Versuch. Der Kandidat kann die Prüfung 12 Monate nach dem Datum seines ersten Versuchs wiederholen.
 - Um eine bestimmte Prüfung öfter als fünfmal pro Jahr abzulegen oder auf die Zeit zwischen den Versuchen zu verzichten, muss bei einem Kandidaten einer der unten aufgeführten Fehler aufgetreten sein und eine Ausnahme bei Microsoft beantragt werden.
 - Sie können eine bestandene Prüfung nicht wiederholen, es sei denn, Ihre Zertifizierung ist abgelaufen.
+- Für die Wiederholung der Prüfung müssen Sie zahlen.
 
 ## Ausnahmeantrag zur Wiederholungsprüfung stellen
 

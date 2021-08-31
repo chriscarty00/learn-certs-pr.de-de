@@ -29,11 +29,6 @@ roles:
 - ai-engineer
 products:
 - azure
-- azure-cognitive-services
-- azure-bot-service
-- azure-machine-learning
-- azure-machine-learning-studio
-- azure-search
 exams:
 - uid: exam.ai-102
 summary: |-
@@ -166,9 +161,11 @@ outlineSection: |-
   - Bilder analysieren
   - Videos analysieren
 
-  #### Lab&#58; Analysieren von Bildern mit Computer Vision
+  #### Lab: Video analysieren
 
-  #### Lab&#58; Analysieren von Videos mit dem Video Indexer
+  ####
+
+  #### Lab: Analysieren von Bildern mit Computer Vision
 
   Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
   - den Computer Vision-Service zu verwenden, um Bilder zu analysieren

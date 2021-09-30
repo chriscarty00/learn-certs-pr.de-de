@@ -1,0 +1,179 @@
+### YamlMime:Course
+title: SharePoint 2016 Site Owner Training
+metadata:
+  title: 'Course 55251-A: SharePoint 2016 Site Owner Training'
+  description: 'Course 55251-A: SharePoint 2016 Site Owner Training'
+uid: course.55251
+courseNumber: '55251-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Navigieren auf einer SharePoint 2016 Team-Site.
+- skill: Webseiteninhalte erstellen und bearbeiten.
+- skill: Erstellen von Seitenspalten und Inhaltstypen.
+- skill: Integrieren von Office-Anwendungen mit SharePoint 2016.
+- skill: Verwalten grundlegender Berechtigungen für SharePoint 2016-Ressourcen.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  Dieser zweitägige Kurs für SharePoint 2016 Website-Inhaber richtet sich an Website-Inhaber/Manager, die zum ersten Mal in einer SharePoint 2016-Umgebung arbeiten.
+
+  #### Zielgruppenprofil
+  Dieser Kurs richtet sich an Benutzer, die neu bei SharePoint 2016 sind.
+outlineSection: |-
+  ### Modul 1: Arbeiten mit Websites
+  Der Zugriff auf alle SharePoint-Inhalte erfolgt über eine Website. Eine SharePoint-Website ist der Container für Listen und Bibliotheken und bietet einen Ausgangspunkt für die grundlegende Verwaltung. Der Inhalt, die Listen, die Bibliotheken und das grundlegende Erscheinungsbild einer Site werden zunächst durch die Site-Vorlage bestimmt, die zum Erstellen der Site verwendet wird.
+  
+  #### Lektionen
+  - Site-Vorlagen
+  - Erstellen von Sites
+  - Erstellen einer Team-Site
+  - Site-Navigation
+  - Verwalten der Site-Navigation
+
+
+  #### Übung: Team-Sites erstellen
+
+  #### Übung: Einen Besprechungsarbeitsbereich erstellen
+
+  #### Übung: Eine Blog-Site erstellen
+  
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+  - zu verstehen, was Site Templates sind.
+  - die verschiedenen Arten von Site Templates zu unterscheiden, die mit den verschiedenen Versionen von SharePoint ausgeliefert werden.
+  - eine neue Site mit Site Templates zu erstellen.
+  - eine Projekt-Website zu erstellen.
+  - eine Team-Site zu erstellen.
+  - eine Community-Site zu erstellen.
+  - eine Blog-Site zu erstellen.
+  - die Sites zu verwalten, die in der oberen Linkleiste aufgeführt sind.
+
+
+  ### Modul 2: Seiteninhalt  SharePoint bietet mehrere Möglichkeiten, den Seiten einer Website Inhalte hinzuzufügen. Die neueste Technik, die in der Vorlage Team Site implementiert ist, sind Seiten im Wiki-Stil. Eine andere Methode, die von Anfang an in SharePoint enthalten war, ist die Verwendung von Webparts und Webpartseiten. Beide Techniken ähneln sich in der Ausgabe, die erstellt werden kann, und sowohl Webpartseiten als auch Wikiseiten haben die Möglichkeit, ihnen Webparts hinzuzufügen.
+
+  #### Lektionen
+  - Wiki-Bibliotheksseiten
+  - Bearbeiten der Home Page der Team-Site
+  - Webpart-Seiten
+  - Erstellen einer Webpart-Seite
+  - Arbeiten mit Webparts
+  - Hinzufügen von Webparts zu Seiten
+
+
+  #### Übung: Arbeiten mit Wiki-Seiten
+
+  #### Übung: Arbeiten mit Webpart-Seiten und Webparts
+  
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+  - zu verstehen, was Wikiseiten sind.
+  - zu verstehen, was Webpart-Seiten und Webparts sind.
+  - Inhalte zur Home Page der Team-Site hinzuzufügen.
+  - das Layout der Home Page der Team-Site zu ändern.
+  - eine Webpart-Seite zu erstellen.
+  - eine Wikiseiten-Bibliothek zu erstellen.
+  - Webparts hinzuzufügen.
+  - Verwalten von Webparts.
+
+  ### Modul 3: Forms Bibliothek
+  Eine SharePoint Forms-Bibliothek ist eine spezielle Bibliothek zum Speichern von Microsoft InfoPath Formularen. Microsoft InfoPath verfügt über ein Designer-Tool zur grafischen Erstellung von Formularen mit einer großen Auswahl an Feldern und Steuerelementen. Der InfoPath-Designer kann danach verwendet werden, um die von Ihnen entworfenen Formulare in SharePoint zu veröffentlichen und sie als Webseitenvorlagen für Forms-Bibliotheken zu rendern. Zum Zeitpunkt der Erstellung dieses Artikels hatte Microsoft angekündigt, dass InfoPath eingestellt werden würde. Für SharePoint 2016 wurde die Unterstützung für das Tool beibehalten, aber es gibt keine 2016-Version der Client-Tools. Das bedeutet, dass Sie es in SharePoint 2016 weiterhin verwenden können, aber zum Erstellen benutzerdefinierter Formulare müssen Sie das InfoPath 2013 Designer-Tool verwenden. Es ist möglich, dass zukünftige Versionen von SharePoint InfoPath-Formulare überhaupt nicht mehr unterstützen. Aus diesem Grund ist die Behandlung dieses Kapitels für diesen Kurs optional.
+  
+  #### Lektionen
+  - Erstellen einer Formular-Bibliothek
+  - InfoPath-Formulare erstellen
+  - Ein Formular mit Microsoft InfoPath Designer erstellen
+  - Veröffentlichen von InfoPath-Formularen in SharePoint
+  - Benutzerdefiniertes InfoPath-Formular veröffentlichen
+
+
+  #### Übung: InfoPath-Formulare erstellen und veröffentlichen
+  
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+  - zu verstehen, was eine Formularbibliothek ist.
+  - eine Formularbibliothek zu erstellen.
+  - InfoPath Designer zu verwenden, um eine grundlegende Formularvorlage zu entwerfen.
+  - eine InfoPath Designer Formularvorlage in einer Formularbibliothek zu veröffentlichen.
+  - Felder der Formularvorlage als Bibliotheksspalten zuzuordnen.
+  - Instanzen von Dokumenten in einer Formularbibliothek zu erstellen.
+
+
+  ### Modul 4: Seitenspalten und Inhaltstypen
+  Eine Methode zur Anpassung von SharePoint, die für die gesamte Site oder Site Collection oder sogar in der gesamten Farm wiederverwendet werden kann, ist die Erstellung von Site-Spalten und Inhaltstypen. Site-Spalten sind das einfachste Element; sie sind im Wesentlichen dasselbe wie Listen- und Bibliotheksspalten, außer dass man sie auf Site-Ebene erstellt und sie dann in der gesamten Site und allen untergeordneten Sites verwendet werden können. Inhaltstypen sind eine Kombination aus Site-Spalten sowie zusätzlichen Einstellungen und Informationen wie Dokumentvorlagen und Workflows. Einmal erstellte Inhaltstypen können dann mit Listen und Bibliotheken verknüpft werden.
+
+  #### Lektionen
+  - Site-Spalten-Galerie
+  - Erkunden Sie die Site-Spalten-Galerie
+  - Erstellen von Site-Spalten
+  - Eine benutzerdefinierte Site-Spalte erstellen
+  - Hinzufügen einer Site-Spalte zu einer Liste
+  - Galerie der Website-Inhaltstypen
+  - Erkunden Sie die Galerie der Website-Inhaltstypen
+  - Erstellen von Inhaltstypen
+  - Wie man Inhaltstypen erstellt und verwendet
+
+
+  #### Übung: Erstellen und Arbeiten mit Inhaltstypen
+
+  #### Übung: Hinzufügen eines Inhaltstyps zu einer Bibliothek
+  
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+  - Site-Spalten zu verstehen.
+  - Inhaltstypen zu verstehen.
+  - Site-Spalten zu erstellen.
+  - Inhaltstypen zu erstellen.
+  - eine Dokumentvorlage für einen Inhaltstyp zu erstellen.
+  - einen Inhaltstyp einer Liste oder Bibliothek zuweisen.
+  - Neue Elemente auf der Grundlage eines benutzerdefinierten Inhaltstyps zu erstellen.
+
+
+  ### Modul 5: Verwalten von SharePoint-Site-Berechtigungen
+  Berechtigungen für eine SharePoint-Site werden bei der Erstellung einer Site zugewiesen. Standardmäßig werden Berechtigungen, die dem Stamm einer Websitesammlung zugewiesen sind, an untergeordnete Websites weitergegeben. Die Weitergabe von Berechtigungen kann jederzeit für eine Website, eine Liste, eine Bibliothek oder sogar für die Elementebene in einer Liste oder Bibliothek deaktiviert werden. Die Berechtigungen selbst können entweder SharePoint-Gruppen, einzelnen Benutzern oder außerhalb von SharePoint erstellten Gruppen wie z. B. Windows-Gruppen zugewiesen werden.
+
+  #### Lektionen
+  - SharePoint-Gruppen
+  - Zuweisen von Berechtigungen
+  - Berechtigungsebenen
+  - Weitergeben von Berechtigungen
+  - Verstehen von SharePoint-Gruppen
+
+
+  #### Übung: Arbeiten mit SharePoint-Berechtigungen
+  
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+  - Verstehen von SharePoint-Gruppen.
+  - SharePoint-Gruppen zu verstehen.
+  - Berechtigungen in SharePoint zuzuweisen.
+  - Berechtigungsebenen anzuzeigen.
+  - Die Weitergabe von Berechtigungen auf der Ebene der Website zu verwalten.
+  - Verwalten der Berechtigungsweitergabe auf Listen- oder Bibliotheksebene.
+  - Die Weitergabe von Berechtigungen auf der Ebene von Elementen verwalten.
+
+
+  ### Modul 6: An Benutzergemeinschaften teilnehmen
+  SharePoint bietet Benutzern einen Ort für die soziale Zusammenarbeit in Form von persönlichen Websites. Das Erlebnis und die Funktionalität ähneln sehr den beliebten Social-Media-Sites wie Facebook und LinkedIn. Der Hauptunterschied besteht darin, dass sie von der SharePoint-Farm kontrolliert wird und die Nutzung normalerweise auf interne Netzwerke beschränkt ist.
+
+  #### Lektionen
+  - Konfigurieren von Benutzerprofilen und eigenen Websites
+  - Newsfeeds
+  - Personen Newsfeeds
+  - Dokumente Newsfeed
+  - Sites Newsfeed
+  - Tags Newsfeed
+  - Persönliche Sites verwalten
+
+  #### Übung: Verwalten und Anzeigen von persönlichen Informationen und Inhalten
+  
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:  
+  - ein persönliches Profil zu bearbeiten.
+  - Newsfeeds zu verwalten.
+  - Newsfeeds für Personen hinzuzufügen.
+  - Newsfeeds für Dokumente hinzufügen.
+  - Newsfeeds für Websites hinzuzufügen.
+  - Tags zu folgen.
+  - Persönliche Inhalte zu speichern.

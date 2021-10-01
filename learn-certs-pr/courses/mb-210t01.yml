@@ -22,8 +22,7 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
-- dynamics-sales
+- dynamics-365
 exams:
 - uid: exam.mb-210
 summary: |-
@@ -36,47 +35,134 @@ summary: |-
 prerequisitesSection: |-
   Vertrautheit mit Geschäftsanwendungen und das Bestreben, diese für Ihr Unternehmen anzupassen und zu implementieren.
 outlineSection: |-
-  ### Modul 1&#58; Dynamics 365 Sales konfigurieren
-  In diesem Modul erfahren Sie, wie Sie die Vertriebsanwendung so konfigurieren, dass sie den spezifischen Anforderungen eines Unternehmens entspricht.
+  ### Modul 1: Dynamics 365 Sales konfigurieren
+
+  In diesem Modul lernen wir, wie man die Vertriebsanwendung so konfiguriert, dass sie den individuellen Anforderungen eines Unternehmens entspricht.
+
   #### Lektionen
-  - Konfigurieren Sie die Organisations- und Verwaltungseinstellungen
-  - Verkaufsvisualisierungen erstellen und konfigurieren
-  
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - die Verkaufsanwendung zu installieren und zu konfigurieren.
-  - Gängige Vertriebsszenarien identifizieren.
-  
-  ### Modul 2&#58; Verwalten von Kunden, Leads und Gelegenheiten
-  In diesem Modul erfahren Sie, wie Sie Kundendatensätze verwalten, integrierte Verkaufstools verwenden und einen Lead durch den Lead-Lebenszyklus führen.
+
+  * Konfigurieren von Organisations- und Verwaltungseinstellungen
+
+  #### Übung : Übung 1.1: Validierung der Übungsumgebung
+
+  ####
+
+  Nach Abschluss dieses Moduls werden Sie in der Lage sein: 
+
+  * Installieren und Konfigurieren der Verkaufsanwendung durchzuführen.
+
+  * Gängige Verkaufsszenarien zu identifizieren.
+
+
+  ### Modul 2: Verwalten von Leads und Opportunities mit Dynamics 365 Sales  In diesem Modul lernen Sie, wie Sie Kundendatensätze verwalten, integrierte Vertriebstools verwenden und einen Lead durch den Lead-Lebenszyklus führen.
+
   #### Lektionen
-  - Kunden mit Hilfe von Accounts und Kontakten verwalten
-  - Leads verwalten
-  - Chancen verwalten
-  
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - Kundendatensätze zu erstellen.
-  - Vertriebstools nutzen.
-  - Erstellen von Leads und Gelegenheiten.
-  
-  ### Modul 3&#58; Kundenaufträge bearbeiten
-  In diesem Modul erfahren Sie, wie Sie Dynamics 365 Sales für Angebote und Bestellungen nutzen, um Ihre Verkaufschancen zu verwalten und sie in abgeschlossene Geschäfte zu verwandeln.
+
+  * Verwalten von Leads mit Dynamics 365 Sales
+
+  * Verwalten von Opportunities mit Dynamics 365 Sales
+
+  #### Übung : Übung 2.1: Verwalten von Kunden
+
+  ####
+
+  Nach Abschluss dieses Moduls werden Sie in der Lage sein:
+
+  * Kundendatensätze zu erstellen.
+
+  * Verkaufstools zu verwenden. 
+
+  * Leads und Opportunities zu erstellen. 
+
+  ### Modul 3: Verwalten von Aufträgen und des Produktkatalogs mit Dynamics 365 Sales
+
+  In diesem Modul lernen Sie, wie Sie mit Hilfe von Angeboten und Aufträgen in Dynamics 365 Sales Ihre Verkaufschancen verwalten und in Geschäftsabschlüsse umwandeln können.
+
   #### Lektionen
-  - Verwalten von Angeboten, Bestellungen und Rechnungen
-  - Verwalten und organisieren des Produktkatalogs
-  - Prognosen verwalten
-  - Playbooks konfigurieren
-  
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - den Produktkatalog zu erstellen und zu nutzen.
-  - Angebote zu Möglichkeiten hinzu zu fügen.
-  - einen Verkauf mit einer Bestellung abzuschließen.
-  
-  ### Modul 4&#58; Integrieren von Komponenten in Dynamics 365 Sales
-  In diesem Modul erfahren Sie, wie Sie mit Hilfe von Vertriebsanalysetools das Vertriebsteam stärken.
+
+  * Verwalten und Organisieren Ihres Produktkatalogs mit Dynamics 365 Sales
+
+  * Bearbeiten von Kundenaufträgen mit Dynamics 365 Sales
+
+  Nach Abschluss dieses Moduls werden Sie in der Lage sein:
+
+  * Den Produktkatalog erstellen und verwenden.
+
+  * Angebote zu Verkaufschancen hinzufügen.
+
+  * einen Verkauf mit einer Bestellung abschließen.
+
+
+  ### Modul 4: Verwalten von Zielen mit Dynamics 365 Sales
+
+  In diesem Modul lernen Sie, wie Sie Ziele verwalten, um den Erfolg Ihrer Vertriebsorganisation zu verfolgen und wichtige Kennzahlen zur Vertriebsleistung zu erfassen.
+
   #### Lektionen
-  - Nutzen von Embedded Intelligence in Dynamics 365 Sales
-  - Verwalten von Beziehungen mit Social Selling
+
+  * Individuelle Ziele mit Dynamics 365 Sales definieren und verfolgen
+
+  * Verwenden von Zielmetriken in Dynamics 365 Sales
+
+  Nach Abschluss dieses Moduls werden Sie in der Lage sein: 
+
+  * Verwenden von Rollup-Spalten zur Definition von Verkaufsmetriken.
+
+  * individuelle Ziele für Vertrieb und Teams zu verfolgen.
   
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - Embedded Intelligence-Tools zu verwenden.
-  - Verwalten Sie Beziehungen mit Hilfe von Social-Selling-Tools.
+  ### Modul 5: Analysieren von Dynamics 365 Sales daten
+
+  In diesem Modul werden wir die Analyseoptionen überprüfen, Suchwerkzeuge beschreiben und Power BI verwenden, um Vertriebsdaten anzuzeigen und zu analysieren.
+
+  #### Lektionen
+
+  * Analysieren von Daten in Dynamics 365 Sales
+
+  * Analysieren von Daten mit Power BI
+
+  Nach Abschluss dieses Moduls werden Sie in der Lage sein:
+
+  * Analysieren von Verkaufsdaten mit den Standardwerkzeugen von Dynamics 365
+
+  * Konfigurieren von Diagrammen und Dashboards zur Anzeige von Vertriebsdaten
+
+  * Power BI und Power BI-Vorlagen-Apps zur Datenanalyse verwenden
+
+  ### Modul 6: Arbeiten mit Dynamics 365 Sales Insights
+
+  In diesem Modul lernen Sie die kostenlosen und Premium-Funktionen von Dynamics 365 Sales Insights kennen und erfahren, wie Vertriebsmitarbeiter damit engere Beziehungen zu ihren Kunden aufbauen und Verkäufe schneller abschließen können.
+
+  #### Lektionen
+
+  * Sales Insights konfigurieren
+
+  Nach Abschluss dieses Moduls werden Sie in der Lage sein:
+
+  * Sales Insights einrichten und konfigurieren
+
+  * Mit dem Assistant Studio arbeiten
+
+  * Konfigurieren von Productivity Intelligence
+
+  * Konfigurieren von Connection Insights
+
+  * Prädiktive Modelle konfigurieren
+
+  ### Modul 7: Umfragen mit Dynamics 365 Customer Voice erstellen
+
+  In diesem Modul lernen die Teilnehmer Dynamics 365 Customer Voice kennen, ein leistungsfähiges Tool zur Erfassung und Analyse von Kundenstimmungen.
+
+  #### Lektionen
+
+  * Erstellen eines Umfrageprojekts mit Dynamics 365 Customer Voice
+
+  * Erstellen von Umfragen mit Dynamics 365 Customer Voice
+
+  * Versenden von Umfragen mit Dynamics 365 Customer Voice
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+  * Umfrageprojekte einzurichten, um Umfragen zu organisieren und zu erstellen
+
+  * Umfragen mit Variablen und Entitäten zu erstellen
+
+  * Dynamics 365 Customer Voice-Umfragen unter Verwendung mehrerer Konditionen zu versenden

@@ -39,7 +39,6 @@ Besuchen Sie: [Unterkünfte anfragen](/learn/certifications/request-accommodatio
 Assistenten- und Experten-Prüfungen kosten in der Regel 165 USD, die Preise richten sich jedoch nach den Währungseinheiten in bestimmten Ländern und Regionen. Die Preise für Prüfungen können sich ändern. In einigen Ländern und Regionen können zusätzliche Steuern anfallen.
 
 - Für genaue Preisangaben für Microsoft Office Specialist (MOS) Prüfungen kontaktieren Sie bitte [Certiport.](http://www.certiport.com/)
-
 - Für alle anderen Prüfungen [alle Prüfungen durchsuchen](/learn/certifications/browse/?resource_type=examination), um die Prüfungsseite zu finden, auf der Sie den Preis der Prüfung finden.
 - Eventuell sind auch spezielle Pakete erhältlich. Für weitere Details besuchen Sie: [Angebote](/lernen/Zertifizierungen/Angebote).
 - Preise für Akademiker sind ebenfalls verfügbar. Für weitere Details besuchen Sie: - [Studentenrabatte](/learn/certifications/student-discounts).
@@ -51,10 +50,8 @@ Wenn Sie Feedback zu einem Microsoft-Präsenzkurs haben, wenden Sie sich direkt 
 **Wie kann ich Feedback zu einer Prüfungsfrage oder der Prüfungserfahrung geben?**
 
 - Wenn Sie Bedenken hinsichtlich der technischen Genauigkeit eines bestimmten Elements haben, besuchen Sie bitte: - [Anfechtungsverfahren für Prüfungselemente](/learn/certifications/exam-item-challenge-process)
-
 - Um Bedenken hinsichtlich eines Testzentrums oder technischer Schwierigkeiten während Ihrer Prüfung zu melden, wenden Sie sich bitte an den Kundendienst des entsprechenden Anbieters für die Durchführung von Prüfungen.
-
-- Um Sicherheitsbedenken zu melden, wenden Sie sich bitte an [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+- Um ein Sicherheitsrisiko zu melden, füllen Sie bitte dieses [Formular](https://aka.ms/wwlcertsecurity) aus.
 - Um andere Arten von Feedback zu geben, wenden Sie sich bitte an [Zertifizierungssupport](https://aka.ms/mcpforum).
 
 ## Prüfungsdetails

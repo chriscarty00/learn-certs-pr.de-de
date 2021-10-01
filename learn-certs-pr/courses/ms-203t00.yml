@@ -28,7 +28,7 @@ levels:
 roles:
 - administrator
 products:
-- m365
+- azure
 exams:
 - uid: exam.ms-203
 summary: |-
@@ -95,11 +95,11 @@ outlineSection: |-
 
 
   ### Modul 3&#58; Verwalten der Nachrichtenreinhaltung
-  In diesem Modul lernen Sie Features und Funktionen von Microsoft Exchange Online Protection (EOP) kennen. Außerdem erfahren Sie, wie man das Messaging-Routing für diesen Service plant. Dieses bietet Anti-Malware- und Anti-Spam-Richtlinien, die Ihr Unternehmen vor Spam und Malware sowie vor Verstößen gegen Messaging-Richtlinien schützen. Anschließend überprüfen Sie den von Exchange Server und Online Protection bereitgestellten Anti-Malware- und Anti-Spam-Schutz und erfahren, wie man SPAM- und Malware-Filter, -Richtlinien und -Einstellungen konfiguriert, um Ihren Benutzern Schutz zu bieten. Zum Abschluss des Moduls untersuchen Sie die Advanced Threat Protection (ATP-Gefahrenschutz) und wie sie den von EOP bereitgestellten Schutz erweitert, indem sie gezielt Angriffe filtert, die die Abwehrlinien von EOP passieren könnten, einschließlich fortgeschrittener Bedrohungen wie Zero-Day-Angriffe in E-Mail-Anhängen und Office-Dokumenten und Klickzeitschutz gegen schädliche URLs. Sie erfahren, wie Microsoft 365 ATP Benutzer durch Funktionen wie sichere Anhänge und sichere Links vor komplexen Bedrohungen schützt und wie man Berichte erstellt, die Administratoren Einblicke in Angriffe auf ihre Mandanten per E-Mail gewähren.
+  In diesem Modul lernen Sie die Eigenschaften und Funktionen von Microsoft Exchange Online Protection (EOP) kennen. Sie erfahren außerdem, wie Sie das Messaging-Routing für diesen Dienst planen, der Anti-Malware- und Anti-Spam-Richtlinien bereitstellt, die Ihr Unternehmen vor Spam und Malware schützen und Ihr Unternehmen vor Verletzungen der Messaging-Richtlinien bewahren. Anschließend werden Sie den Anti-Malware- und Anti-Spam-Schutz, den Exchange Server und Online Protection bieten, überprüfen und lernen, wie Sie SPAM- und Malwarefilter, Richtlinien und Einstellungen konfigurieren, um Ihre Benutzer zu schützen. Zum Abschluss des Moduls untersuchen Sie Defender für Office 365 und erfahren, wie es den von EOP bereitgestellten Schutz erweitert, indem es gezielte Angriffe filtert, die die Verteidigungslinie von EOP passieren könnten, einschließlich fortgeschrittener Bedrohungen wie Zero-Day-Angriffe in E-Mail-Anhängen und Office-Dokumenten und Time-of-Click-Schutz vor bösartigen URLs. Sie erfahren, wie Defender for Office 365 Benutzer durch Funktionen wie sichere Anhänge und sichere Links vor fortgeschrittenen Bedrohungen schützt und wie es Berichte erstellt, die Administratoren einen Einblick in Angriffe auf ihre Tenants per E-Mail geben.
   #### Lektionen
   - Planung für Nachrichtenreinhaltung
   - Verwalten von Anti-Malware- und Anti-Spam-Richtlinien
-  - Advanced Threat Protection verwalten
+  - Verwalten von erweitertem Bedrohungsschutz mit Defender für Office 365
 
 
   #### Labor &#58; Nachrichtenreinhaltung verwalten
@@ -113,11 +113,12 @@ outlineSection: |-
   - Konfigurieren Sie Anti-Spam- und Anti-Malware-Filter in Exchange Server
   - Verwenden zusätzlicher Funktionen für die Filterung und Quarantäne ausgehender Spam-Mails
   - Implementieren von Schutzfunktionen gegen Phishing und Spoofing
-  - Erstellen Sie Transportregeln für benutzerdefinierte Anforderungen
+  - Beschreiben der Funktionen von Microsoft Defender for Office 365
   - Beschreiben Sie die Funktionen von Advanced Threat Protection
   - Beschreiben Sie den Schutz, den die Richtlinien für sichere Anhänge und sichere Links bieten
   - Grundlegendes zu gefälschten Intelligenzfunktionen
   - Wissen, wie ATP-Anti-Phishing-Richtlinien funktionieren
+  - Verstehen, wie man den Configuration Analyzer verwendet
 
 
   ### Modul 4&#58; Sicherheitsverwaltung
@@ -161,7 +162,7 @@ outlineSection: |-
   - Konfigurieren Sie Workload-Richtlinien und Drosselung
   - Konfigurieren Sie Kontingentkonfigurationen
   - Konfigurieren Sie die Integration von Exchange Server und Skype for Business
-  - Stellen Sie Office 365-Add-Ins bereit
+  - Bereitstellung von integrierten Office 365-Apps
   - Bieten Sie einen Überblick über die Funktionen zur Freigabe von Exchange-Verbunddelegationen
   - Beschreiben Sie Verbundfreigabekomponenten
   - Erläutern Sie Überlegungen zum Entwerfen und Implementieren von Verbundvertrauensstellungen und -zertifikaten
@@ -229,7 +230,7 @@ outlineSection: |-
   - Beschreiben Sie die verschiedenen Empfängerobjekte in Exchange
   - Beschreiben Sie Ressourcenpostfächer
   - Beschreiben Sie freigegebene Postfächer
-  - Beschreiben Sie verknüpfte Postfächer und Site-Postfächer
+  - Beschreiben verknüpfter Postfächer
   - Beschreiben Sie Gruppen
   - Erstellen und verwalten Sie Postfacheinstellungen
   - Erstellen und verwalten Sie Ressourcen- und freigegebene Postfächer
@@ -291,7 +292,7 @@ outlineSection: |-
 
 
   ### Modul 11&#58; Durchführen von Postfachmigrationen
-  In diesem Modul werden die Optionen untersucht, die für die Migration von E-Mails nach Exchange Online verfügbar sind, z. B. die Durchführung einer Migration oder die Verwendung von FastTrack zum Verschieben von Postfächern von Ihren vorhandenen Mailservern zu Exchange Online. Dieses Modul fasst die Optionen für Migration und Koexistenz zusammen und empfiehlt, wann welche Option verwendet werden soll. Das Modul untersucht dann die Anforderungen für die Ausführung einer IMAP-Migration, die verfügbaren Migrationsoptionen und die Schritte, die während einer Migration ausgeführt werden. Das Modul untersucht dann, wie man sowohl eine Umstellung als auch eine abgestufte Migration plant und durchführen kann. Es vergleicht jeden dieser beiden Migrationsansätze und Sie erfahren mehr über die Anforderungen, Planungsaktivitäten und den Migrationsprozess für jede Option. Das Modul schließt mit der Untersuchung wichtiger zusätzlicher Migrationsaufgaben, z. B. der Migration einer PST-Datei und der Überlegungen für eine Migration in öffentlichen Ordnern. 
+  Dieses Modul untersucht die Optionen, die für die Migration von E-Mails zu Exchange Online zur Verfügung stehen, z. B. die Durchführung einer Migration oder die Verwendung von FastTrack, um Postfächer von Ihren vorhandenen Mailservern zu Exchange Online zu verschieben. Dieses Modul fasst die Optionen für Migration und Koexistenz zusammen und empfiehlt, wann welche Option verwendet werden soll. Das Modul untersucht dann die Anforderungen für die Durchführung einer IMAP-Migration, die verfügbaren Migrationsoptionen und die Schritte, die während einer Migration durchgeführt werden. Das Modul untersucht dann, wie man sowohl eine Umstellung als auch eine abgestufte Migration plant und durchführen kann. Es vergleicht jeden dieser beiden Migrationsansätze und Sie erfahren mehr über die Anforderungen, Planungsaktivitäten und den Migrationsprozess für jede Option. Das Modul schließt mit der Untersuchung wichtiger zusätzlicher Migrationsaufgaben, wie z. B. mandantenübergreifende Migrationen, die Migration einer PST-Datei und die Überlegungen für eine Migration öffentlicher Ordner.
   #### Lektionen
   - Planen von Postfachmigrationen
   - Durchführen von IMAP-Migrationen
@@ -306,7 +307,7 @@ outlineSection: |-
   - Beschreiben Sie die Anforderungen für Umstellungs- oder abgestufte Migrationen
   - Führen Sie eine Migration durch und verschieben Sie Postfächer entweder mit einer Umstellungs oder einer abgestuften Migration
   - Importieren Sie PST-Dateien in Exchange Online-Postfächer
-  - Migrieren Sie öffentliche Ordner zu Exchange Online
+  - Durchführen einer mandantenübergreifenden Migration
 
 
   ### Modul 12&#58; Bereitstellen einer hybriden Umgebung und das Beheben von Problemen

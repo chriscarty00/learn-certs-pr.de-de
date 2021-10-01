@@ -22,7 +22,7 @@ Das Microsoft-Zertifizierungsprogramm verlangt von den Kandidaten, dass sie die 
 
 ## Sicherheit des Testzentrums
 
-Den Mitarbeitern in den Testzentren werden Sicherheitsrichtlinien bereitgestellt, die durchgesetzt werden müssen, um den Status eines Testzentrums zu erlangen und aufrechtzuerhalten. Laufende Inspektionen stellen sicher, dass jedes Testzentrum die von Microsoft und dem Prüfungsanbieter beschriebene Sicherheit gewährleistet. Darüber hinaus sind Aufsichtspersonen in Prüfungszentren berechtigt, unverzüglich geeignete Maßnahmen gegen Kandidaten zu ergreifen, die gegen Prüfungsregeln verstoßen. Wenn Sie Bedenken hinsichtlich der Sicherheit Ihrer Prüfungserfahrung haben, senden Sie bitte eine E-Mail an [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+Die Mitarbeiter in den Testzentren verfügen über Sicherheitsrichtlinien, die eingehalten werden müssen, um den Status als Testzentrum zu erhalten und zu bewahren. Regelmässige Inspektionen stellen sicher, dass jedes Testzentrum die von Microsoft und dem Prüfungsanbieter vorgegebene Sicherheit einhält. Darüber hinaus sind Aufsichtspersonen in Prüfungszentren berechtigt, unverzüglich geeignete Maßnahmen gegen Kandidaten zu ergreifen, die gegen Prüfungsregeln verstoßen. Wenn Sie Bedenken hinsichtlich der Sicherheit Ihrer Prüfung haben, füllen Sie dieses [Formular](https://aka.ms/wwlcertsecurity) aus.
 
 Um die Sicherheit von Microsoft-Zertifizierungsprüfungen zu gewährleisten, stellen die Administratoren des Testzentrums sicher, dass die bereitgestellte Identifizierung angemessen ist, und prüfen nach, ob es sich um die ID der Person handelt, die die Prüfung abgelegt hat, gehen regelmäßig durch den Testbereich, behalten die Abtrennungen zwischen den Teststationen bei, entfernen Spickzettel, elektronische Geräte und andere nicht autorisierte Materialien und verhindern das Entfernen von Prüfungsinhalten in jeglicher Form. Darüber hinaus dürfen Prüfungszentrumsadministratoren und Aufsichtspersonen keine Hilfestellung in Bezug auf irgendeine Prüfungsfrage leisten. Sie können bei der Lösung technischer Probleme helfen, dürfen jedoch nicht beim Verständnis oder bei der Beantwortung von Prüfungsfragen helfen.
 
@@ -30,7 +30,7 @@ Microsoft kann Tests in allen Testzentren aussetzen, in denen Sicherheitsproblem
 
 ### Einspruchsverfahren für Testcenter
 
-Besitzer von Testcentern können Einspruch gegen die Schließung einer Site einlegen, indem Sie einen Einspruch bei [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com) einreichen.
+Betreiber von Prüfungszentren können gegen die Schließung eines Standorts Widerspruch einlegen, indem sie dieses [Formular](https://aka.ms/wwlcertsecurity) ausfüllen.
 
 ## Prüfung im Ausland
 
@@ -81,7 +81,7 @@ Beispiele für solches Fehlverhalten, Missbrauch und Betrug sind unter anderem F
 
 ## Einspruchsverfahren für Kandidaten
 
-Kandidaten können gegen ihre Sperre Einspruch einlegen, indem sie einen Einspruch bei [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com) einreichen.
+Kandidaten können gegen ihre Sperre Einspruch erheben, indem sie dieses [Formular](https://aka.ms/wwlcertsecurity) ausfüllen.
 
 Ein Kandidat kann gegen eine Sperre wegen Fälschung eines Ergebnisberichts Einspruch erheben, indem er den Originalbericht (keine Scans oder elektronische Kopien) einreicht an:
 
@@ -97,6 +97,6 @@ Betrügerische Aktivitäten umfassen alles, was einem unqualifizierten Kandidate
 
 Proxy-Testing bedeutet, dass jemand eine Prüfung anstelle eines anderen Kandidaten ablegt. Einige Unternehmen bieten Proxy-Tests an, die garantieren, dass Sie die Prüfung bestehen, ohne sie ablegen zu müssen. Dies ist eine betrügerische Aktivität.
 
-Ein Brain-Dump ist eine Quelle, z. B. eine Website, die Inhalte von Zertifizierungsprüfungen enthält, die in betrügerischer Absicht erlangt wurden, um sie mit Prüfungskandidaten zu teilen oder an sie zu verkaufen. Der Inhalt von Brain-Dumps (Gedächtnisprotokollen) ist genau der gleiche oder im Wesentlichen Elementen ähnlich, die in der Prüfung vorkommen. Da der Prüfungsinhalt auf betrügerische Weise erworben wurde, gilt die Verwendung dieser Art von Material zur Vorbereitung auf eine Prüfung oder während einer Prüfung als betrügerisches Verhalten. Brain-Dump-Anbieter verletzen die geistigen Eigentumsrechte und Geheimhaltungsvereinbarungen von Microsoft. Wenn Sie glauben, eine Brain-Dump-Site mit Microsoft-Inhalten entdeckt zu haben, teilen Sie uns dies bitte per E-Mail an [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com) mit.
+Ein Brain-Dump ist eine Quelle, z. B. eine Website, die Inhalte von Zertifizierungsprüfungen enthält, die in betrügerischer Absicht erlangt wurden, um sie mit Prüfungskandidaten zu teilen oder an sie zu verkaufen. Der Inhalt von Brain-Dumps (Gedächtnisprotokollen) ist genau der gleiche oder im Wesentlichen Elementen ähnlich, die in der Prüfung vorkommen. Da der Prüfungsinhalt auf betrügerische Weise erworben wurde, gilt die Verwendung dieser Art von Material zur Vorbereitung auf eine Prüfung oder während einer Prüfung als betrügerisches Verhalten. Brain Dump-Anbieter verletzen die geistigen Eigentumsrechte von Microsoft und Geheimhaltungsvereinbarungen. Wenn Sie glauben, eine Brain Dump-Site mit Microsoft-Inhalten entdeckt zu haben, füllen Sie bitte dieses [Formular](https://aka.ms/wwlcertsecurity) aus.
 
 Gefälschte Bewertungsberichte sind Berichte, die Microsoft für unecht erachtet oder die andere in irgendeiner Weise täuschen oder betrügen. Wenn Microsoft feststellt, dass ein Kandidat einen Ergebnisbericht gefälscht hat, ist der Kandidat nicht berechtigt, an zukünftigen Microsoft-Prüfungen teilzunehmen, und seine Zertifizierungen können widerrufen werden.

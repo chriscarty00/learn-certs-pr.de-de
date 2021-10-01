@@ -1,0 +1,112 @@
+### YamlMime:Course
+title: 'Microsoft Security Workshop: Enterprise Security Fundamentals'
+metadata:
+  title: 'Course 40551-A: Microsoft Security Workshop: Enterprise Security Fundamentals'
+  description: 'Course 40551-A: Microsoft Security Workshop: Enterprise Security Fundamentals'
+uid: course.40551
+courseNumber: '40551-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Beschreiben Sie die aktuelle Cybersicherheitslandschaft
+- skill: Beschreiben Sie die Philosophie der Kompromissannahme
+- skill: Identifizieren Sie Faktoren, die zu den Kosten einer Sicherheitsverletzung beitragen
+- skill: Unterscheiden Sie zwischen den Verantwortlichkeiten der Red Teams und der Blue Teams
+- skill: Identifizieren Sie typische Ziele von Cyber-Angreifern
+- skill: Beschreiben Sie eine „Kill Chain", die von Red Teams ausgeführt wird
+- skill: Beschreiben Sie die Rolle, die Ziele und die „Kill-Chain"-Aktivitäten des Blue Teams in Übungen des Red Teams
+- skill: Beschreiben Sie die Möglichkeiten, die ein Angreifer hat, unprivilegierte Konten zu kompromittieren.
+- skill: Beschreiben Sie die Methoden, die zur Einschränkung lateraler Bewegungen verwendet werden.
+- skill: Beschreiben Sie, wie Telemetrieüberwachung zur Erkennung von Angriffen eingesetzt wird.
+- skill: Erläuterung des Konzepts einer Triade von Vertraulichkeit, Integrität und Verfügbarkeit (CIA).
+- skill: Beschreibung der wichtigsten Aktivitäten, die in die organisatorischen Vorbereitungen einbezogen werden sollten
+- skill: Identifizierung der wichtigsten Grundsätze für die Entwicklung und Pflege von Richtlinien.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows-server
+summary: |-
+  Dieser eintägige, von einem Ausbilder geleitete Sicherheitsworkshop bietet einen Einblick in Sicherheitspraktiken zur Verbesserung der Sicherheitslage einer Organisation. Der Workshop untersucht das Konzept der Red Team - Blue Team Sicherheitsprofis, bei dem eine Gruppe von Sicherheitsprofis - das Red Team - einen oder mehrere Teile der Sicherheitsinfrastruktur eines Unternehmens angreift und eine gegnerische Gruppe - das Blue Team - den Angriff abwehrt. Beide Teams arbeiten daran, die Verteidigung von Unternehmen zu stärken. Da das Ziel der beiden Teams darin besteht, dem Unternehmen zu einem höheren Sicherheitsniveau zu verhelfen, nennt die Sicherheitsbranche diese Funktion das „Purple Team".
+
+  Dieser Workshop ist Teil einer größeren Reihe von Workshops, die von Microsoft zum Thema Sicherheit angeboten werden. Es ist zwar nicht erforderlich, dass Sie vor der Teilnahme an diesem Workshop einen der anderen Kurse der Sicherheits-Workshop-Reihe absolviert haben, es wird jedoch dringend empfohlen, mit dem folgenden Workshop in der Reihe Microsoft Security Workshop: Enterprise Security Fundamentals  zu beginnen.
+
+  #### Zielgruppenprofil
+  
+  Dieser eintägige Workshop richtet sich an IT-Fachleute, die ein tieferes Verständnis der Windows-Sicherheit benötigen und ihren Wissensstand erweitern möchten. Dieser Kurs vermittelt auch Hintergrundwissen im Bereich Cybersicherheit, bevor Sie die anderen Sicherheitskurse in diesem Kurs absolvieren.
+prerequisitesSection: |-
+  Zusätzlich zu ihrer Berufserfahrung sollten die Teilnehmer dieses Kurses bereits über die folgenden technischen Kenntnisse verfügen:
+  - das aktuelle Cybersicherheitsökosystem
+  - Analyse von Hacks auf Computer und Netzwerke
+  - grundlegendes Risikomanagement
+outlineSection: |-
+  ### Modul 1: Verständnis der Cybersicherheitslandschaft
+  In diesem Modul lernen Sie die aktuelle Cybersicherheitslandschaft kennen und erfahren, wie Sie durch die Annahme einer Kompromittierung die Fähigkeit eines Angreifers einschränken können, sich seitlich zwischen Informationssystemen zu bewegen und seine Fähigkeit einzuschränken, seine Rechte innerhalb dieser Systeme zu erweitern.
+  Die aktuelle Cybersicherheitslandschaft ist riesig und für eine einzelne Person wahrscheinlich unmöglich in ihrer Gesamtheit zu erfassen. Es gibt jedoch einige Aspekte dieser Landschaft, denen diejenigen, die an den Grundlagen der Unternehmenssicherheit interessiert sind, ihre Aufmerksamkeit schenken sollten.
+  
+  #### Lektionen
+  - Aktuelle Cybersicherheits-Landschaft
+  - Annahme einer Kompromittierung
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+  - die aktuelle Cybersicherheitslandschaft zu beschreiben.
+  - die Annahme einer Kompromittierung zu beschreiben.
+  - Faktoren zu identifizieren, die zu den Kosten einer Sicherheitsverletzung beitragen.
+
+  ### Modul 2: Red Team: Eindringen, Seitwärtsbewegung, Eskalation und Exfiltration  
+  Bei Übungen des Red Teams im Vergleich zum Blue Team wird ein Angriff auf das Informationssystem einer Organisation simuliert. Das Red Team simuliert den Angriff auf die IT-Systeme der Organisation und führt in einigen Fällen auch Schritte zum Wirksamkeitsnachweis durch, die bei einem Angriff durchgeführt werden. Das Blue Team simuliert die Reaktion auf diesen Angriff.
+  Dieser gegnerische Ansatz ermöglicht nicht nur die Identifizierung von Sicherheitsschwachstellen in der Art und Weise, wie die IT-Systeme der Organisation konfiguriert sind, sondern auch, dass die Mitarbeiter der Informationssysteme der Organisation lernen, wie man Angriffe erkennt und darauf reagiert.
+  In diesem Modul lernen Sie den Ansatz „Red Team vs. Blue Team" zur Erkennung von und Reaktion auf Sicherheitsbedrohungen kennen.
+  
+  #### Lektionen
+  - Red Team vs. Blue Team Übungen
+  - Das Ziel des Angreifers
+  - Red Team „Kill Chain"  
+  
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+  - zwischen den Verantwortlichkeiten von Red Teams und Blue Teams zu unterscheiden.
+  - Typische Ziele von Cyber-Angreifern zu identifizieren.
+  - eine „Kill Chain" zu beschreiben, die von Red Teams ausgeführt wird.
+
+
+  ### Modul 3: Erkennung, Untersuchung, Reaktion und Schadensbegrenzung durch Blue Teams  In diesem Modul lernen Sie die Rollen und Ziele des Blue Teams bei Angriffsübungen kennen. Sie lernen die Struktur eines Angriffs auf ein Ziel (Kill Chain) und die Möglichkeiten kennen, wie ein Angreifer unprivilegierte Konten kompromittieren kann. Sie lernen auch die Methoden zur Einschränkung von Seitwärtsbewegungen kennen, die Angreifer daran hindern, ein kompromittiertes System für Angriffe auf andere Systeme zu nutzen, und erfahren, wie die Telemetrieüberwachung zur Erkennung von Angriffen eingesetzt wird.
+  
+  #### Lektionen
+  - Das Blue Team
+  - Kill Chain des Blue Teams
+  - Einschränkung der Eskalation von Privilegien
+  - Seitliche Bewegung einschränken
+  - Erkennung von Angriffen
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+  - die Rolle und die Ziele des Blue Teams sowie die „Kill-Chain"-Aktivitäten des Blue Teams in den Übungen des Red Teams zu beschreiben.
+  - die Struktur eines Angriffs gegen ein Ziel (Kill Chain) zu beschreiben.
+  - die Möglichkeiten zu beschreiben, wie ein Angreifer unprivilegierte Konten kompromittieren kann.
+  - die Methoden zur Einschränkung der lateralen Bewegung zu beschreiben.
+  - zu beschreiben, wie die Telemetrieüberwachung zur Erkennung von Angriffen eingesetzt wird.
+
+
+  ### Modul 4: Organisatorische Vorbereitungen  Es gibt mehrere laufende Vorbereitungen, die eine Organisation treffen kann, um ihren Gesamtansatz zur Informationssicherheit zu verbessern.  In diesem Modul werden wir uns einige davon genauer ansehen. Sie lernen ein konzeptuelles Modell kennen, um über die Sicherheit von Informationen nachzudenken, und erfahren, wie Sie die Informationssicherheit angehen und sich richtig vorbereiten können, indem Sie sicherstellen, dass Ihre Organisation einen bewussten Ansatz für die Informationssicherheit verfolgt.
+  
+  #### Lektionen
+  - CIA-Dreiklang
+  - Organisatorische Vorbereitungen
+  - Entwicklung und Aufrechterhaltung von Policies
+  
+  #### Übung: Entwurf einer Blue-Team-Strategie
+  
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+  - das Konzept des Dreiklangs aus Vertraulichkeit, Integrität und Verfügbarkeit (CIA) zu erklären.
+  - die wichtigsten Aktivitäten zu beschreiben, die in die organisatorischen Vorbereitungen einbezogen werden sollten.
+  - die wichtigsten Prinzipien der Entwicklung und Pflege von Richtlinien zu identifizieren.
+  
+  Nach Abschluss dieser Übung werden die Teilnehmer in der Lage sein:
+  - einen übergeordneten Ansatz zur Abschwächung von Bedrohungen zu entwerfen
+  - Tools und Methoden zu empfehlen, die das Aufspüren der Ursprünge von Cyberangriffen erleichtern
+  - die wichtigsten Schritte einer Wiederherstellungsmaßnahme darzustellen 
+  - Methoden zur Verhinderung von Cyberangriffen zu empfehlen
+  - die rechtlichen Herausforderungen zu beschreiben, die sich aus der Ausnutzung von Malware ergeben.

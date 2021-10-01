@@ -20,11 +20,6 @@ Technologien und die damit verbundenen Jobrollen ändern sich Jahr für Jahr sch
 
 Prüfungen, die in den nächsten 12 Monaten eingestellt werden sollen, sind hier nach Datum sortiert. (Diese Informationen können sich jederzeit ändern.)
 
-| Wird am 31. August 2021 eingestellt |
-| --- |
-| [DP-200](/learn/certifications/exams/dp-200): Implementing an Azure Data Solution |
-| [DP-201](/learn/certifications/exams/dp-201): Designing an Azure Data Solution |
-
 | Einstellung am 30. Juni 2022 |
 | --- |
 | [98-349](/learn/certifications/exams/98-349): Windows Operating System Fundamentals |
@@ -51,6 +46,8 @@ Diese Prüfungen wurden im letzten Jahr eingestellt. Zu Referenzzwecken werden w
 | [AZ-203](/learn/certifications/exams/AZ-203) | Developing Solutions for Microsoft Azure | August 31, 2020
 | [AZ-300](/learn/certifications/exams/AZ-300) | Microsoft Azure Architect Technologies | September 30, 2020
 | [AZ-301](/learn/certifications/exams/AZ-301) | Microsoft Azure Architect Design | September 30, 2020
+| [DP-200](/learn/certifications/exams/dp-200) | Implementing an Azure Data Solution | 31. August  2021
+| [DP-201](/learn/certifications/exams/dp-201) | Designing an Azure Data Solution | 31. August 2021
 | [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | 31. Dezember, 2020
 | [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | 31. Dezember, 2020
 | [MB-600](/learn/certifications/exams/mb-600) | Microsoft Dynamics 365 + Power Platform Solution Architect | 30. Juni 2021

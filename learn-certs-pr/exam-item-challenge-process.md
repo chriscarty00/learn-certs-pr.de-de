@@ -32,7 +32,7 @@ Microsoft-Zertifizierungsprüfungen sollen sicherstellen, dass Kandidaten, die P
 - Anfechtungen, die nicht über dieses Formular eingereicht werden.
 - Anfechten der Bewertungsmethoden (z. B. Das Balkendiagramm repräsentiert nicht meine tatsächliche Punktzahl.)
 - Anfechten des Prüfungsformats (Standard, Sortieren, Adaptiv).
-- Anfechtungen für Beta-Prüfungen Wenn Sie zusätzliches Feedback zu einer Beta-Prüfung haben, das Sie während des Kommentarzeitraums nicht abgeben konnten, senden Sie Ihr Feedback bitte an [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
+- Herausforderungen bei Beta-Prüfungen. (Da Beta-Prüfungen dazu dienen, Probleme durch Psychometrie und Analyse von Kandidatenkommentaren zu identifizieren, werden die Fragen oft geändert.  Wenn sich eine Aufgabe wesentlich ändert, werden Sie nicht bewertet).
 
 ### Prozess zur Anfechtung von Prüfungsteilen:
 

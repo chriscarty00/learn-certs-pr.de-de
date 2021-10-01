@@ -19,6 +19,21 @@ Sobald ein Kurs eingestellt wird, ist er nicht mehr verfügbar. Der Kurs kann ni
 
 ## Eingestellte Kurse Von Dozenten geleitete Schulung
 
+* Kursunterlagen eingestellt am 29. Oktober 2021    
+
+    | Kursnummer | Version | Titel | Sprache | Abkündigungsdatum |    
+    | --- | --- | --- | --- | --- |    
+    | 10997 | D | Office 365 Administration und Fehlerbehebung | Englisch | 29/10/2021 |
+
+* Kursunterlagen eingestellt am 30. September 2021    
+
+    | Kursnummer | Version | Titel | Sprache | Abkündigungsdatum |    
+    | --- | --- | --- | --- | --- |    
+    | 40510 | G | Microsoft Cloud Workshop: SQL Server Hybrid Cloud | Englisch | 30/09/2021 |
+    | 40516 | G | Microsoft Cloud Workshop: Intelligent Analytics | Englisch | 30/09/2021 |
+    | 40561 | G | Microsoft Cloud Workshop: Machine Learning | Englisch | 30/09/2021 |
+    | MS-050T00 | A | SharePoint Hybrid Deployment and Migration | Englisch | 30/09/2021 |
+
 * Lernsoftware wird am 31. August 2021 eingestellt
 
     | Kursnummer | Version | Titel | Sprache | Datum der Einstellung |

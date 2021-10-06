@@ -14,10 +14,7 @@ ms.prod: non-product-specific
 
 ## Details zu den Richtlinien für Verschiebungen und
 
-- <div><font color='red'>Wenn Sie zu Ihrem Prüfungstermin nicht erscheinen oder Ihren Termin nicht mindestens 24 Stunden vor dem geplanten Termin verschieben oder absagen, verlieren Sie die gesamte Prüfungsgebühr.</font></div>
-- Es entstehen keine Kosten, wenn Sie einen Prüfungstermin mindestens sechs Werktage vor Ihrem Termin verschieben oder absagen.
-- Wenn Sie Ihre Prüfung innerhalb von fünf Werktagen nach der angemeldeten Prüfzeit absagen oder verschieben, wird eine Gebühr erhoben.
-- Wenn Sie Ihre Prüfungstermine nicht einhalten oder nicht neu vereinbaren oder Ihren Termin nicht mindestens 24 Stunden vor Ihrem vereinbaren Termin stornieren, verfällt Ihre gesamte Prüfungsgebühr. Arbeitstage sind Montag-Urlaubstage sind nicht enthalten.
+Prüfungstermine müssen mindestens 24 Stunden vor dem Termin verschoben bzw. abgesagt werden. Kandidaten, die weniger als 24 Stunden vor dem : Termin verschieben oder stornieren, verwirken ihre Prüfungsgebühr. Wenn Kandidaten einen von einem Unternehmen gekauften Gutschein verwendet haben, kann deren Firma darüber hinaus belastet werden, wenn diese Kandidaten weniger als 24 Stunden vor dem Termin verschieben oder stornieren. 
 
 ## So verschieben oder stornieren Sie Ihre Prüfung
 

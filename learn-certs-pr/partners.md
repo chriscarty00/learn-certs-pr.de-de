@@ -2,12 +2,12 @@
 title: 'Einen Learning Partner finden | Microsoft Docs'
 description: 'Microsoft Learning Partner – Einen Learning Partner finden'
 documentationcenter: NA
-author: micsullivan
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 06/02/2020
-ms.author: msulliv
+ms.author: venkato
 ms.prod: non-product-specific
 ---
 # Microsoft Learning Partners: Die Fähigkeiten von morgen heute lehren.

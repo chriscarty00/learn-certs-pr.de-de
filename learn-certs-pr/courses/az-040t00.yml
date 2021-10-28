@@ -14,7 +14,7 @@ skillsGained:
 - skill: Verwenden von PSProviders und PSDrives, um mit anderen Formen von Speichern zu arbeiten.
 - skill: Abfrage von Systeminformationen durch Verwendung von WMI und CIM.
 - skill: Arbeiten mit Variablen, Arrays und Hash-Tabellen.
-- skill: Schreiben von grundlegenden Skripts in Windows PowerShell.
+- skill: Erstellen Sie Basis-Skripte in Windows PowerShell.
 - skill: Verwalten entfernter Computer mit Windows PowerShell.
 - skill: Managen von Azure Ressourcen mit PowerShell.
 - skill: Managen von Microsoft 365 -Services mit PowerShell.
@@ -29,44 +29,36 @@ roles:
 products:
 - windows-server
 summary: |-
-  Dieser Kurs vermittelt den Teilnehmern die grundlegenden Kenntnisse und Fähigkeiten zur Verwendung von Windows PowerShell für die Verwaltung und Automatisierung der Administration von Windows-Servern. Dieser Kurs vermittelt den Kursteilnehmern die Fähigkeiten, den für eine bestimmte Aufgabe erforderlichen Befehl zu identifizieren und aufzubauen. Darüber hinaus lernen die Teilnehmer, wie sie Skripte erstellen können, um fortgeschrittene Aufgaben wie die Automatisierung sich wiederholender Aufgaben und die Erstellung von Berichten zu bewältigen. Dieser Kurs vermittelt Grundkenntnisse, die eine breite Palette von Microsoft -Produkten unterstützen, einschließlich Windows Server, Windows Client, Microsoft Exchange Server, Microsoft SharePoint Server, Microsoft SQL Server und Microsoft System Center. Um diesem Ziel gerecht zu werden, wird sich dieser Kurs nicht auf eines dieser Produkte konzentrieren, obwohl Windows Server als gemeinsame Plattform für alle diese Produkte als Beispiel für die in diesem Kurs vermittelten Techniken dienen wird.
+  Dieser Kurs vermittelt den Teilnehmern die grundlegenden Kenntnisse und Fähigkeiten zur Nutzung von PowerShell zur Verwaltung und Automatisierung der Verwaltung von Windows Servern. Dieser Kurs vermittelt den Kursteilnehmern die Fähigkeiten, den für eine bestimmte Aufgabe erforderlichen Befehl zu identifizieren und aufzubauen. Darüber hinaus lernen die Teilnehmer, wie sie Skripte erstellen können, um fortgeschrittene Aufgaben wie die Automatisierung sich wiederholender Aufgaben und die Erstellung von Berichten zu bewältigen. Dieser Kurs vermittelt die erforderlichen Kenntnisse für ein breites Spektrum von Microsoft -Produkten, einschließlich Windows Server, Windows Client, Microsoft Azure, and Microsoft 365. Um diesem Ziel gerecht zu werden, wird sich dieser Kurs nicht auf eines dieser Produkte konzentrieren, obwohl Windows Server als gemeinsame Plattform für alle diese Produkte als Beispiel für die in diesem Kurs vermittelten Techniken dienen wird.
 
-  #### Zielgruppenprofil
+  #### Profil der Zielgruppe
 
-  Dieser Kurs richtet sich an  IT-Fachleute, die bereits Erfahrung in der allgemeinen  Windows Server and Windows Client-Administration haben und mehr über die Verwendung von Windows PowerShell für die Verwaltung erfahren möchten. Es wird keine vorherige Erfahrung mit einer Version von Windows PowerShell  oder einer Skriptsprache vorausgesetzt. Dieser Kurs ist auch für  IT-Fachleute geeignet, die bereits Erfahrung in der Server-Administration haben, einschließlich Exchange Server, SharePoint Server, SQL Server und System Center.
+  Dieser Kurs richtet sich an IT Fachkräfte, die bereits Erfahrung in der allgemeinen Windows Server, Windows client, Azure, und Microsoft 365 -Verwaltung haben, und die mehr über die Verwendung von Windows PowerShell für die Verwaltung erfahren wollen. Es wird keine vorherige Erfahrung mit einer Version von PowerShell oder einer Skriptsprache vorausgesetzt. Dieser Kurs ist auch für IT-Fachleute geeignet, die bereits Erfahrung in der Serveradministration haben, einschließlich Microsoft Exchange Server, Microsoft SharePoint Server, und Microsoft SQL Server.
+prerequisitesSection: |-
+  Vor der Teilnahme an diesem Kurs müssen die Teilnehmer folgende Voraussetzungen erfüllen:
+   * Erfahrung mit Windows Netzwerktechnologien und Implementierung.
+   * Erfahrung mit Windows Server Verwaltung, Wartung und Fehlerbehebung.
 outlineSection: |-
   ### Modul 1&#58; Erste Schritte mit Windows PowerShell
 
   In diesem Modul erhalten Sie eine Einführung in Windows PowerShell  und einen Überblick über die Funktionalität des Produkts. Das Modul erklärt das Öffnen und Konfigurieren von Windows PowerShell. Außerdem wird erklärt, wie Sie Befehle ausführen und das integrierte Hilfesystem in Windows PowerShell verwenden können.
 
   #### Lektionen
-
-  *   Windows PowerShell -Übersicht
-
-  *   Verstehen der Windows PowerShell Befehlssyntax
-
+  *   Windows PowerShell Übersicht
+  *   Verstehen von Windows PowerShell Befehlssyntax
   *   Befehle finden und Hilfe erhalten in Windows PowerShell
 
-
-  #### Lab &#58; Konfigurieren der  Windows PowerShell  Konsolenanwendung
-
-  ####
-
-  #### Lab &#58; Konfigurieren der Windows PowerShell ISE -Anwendung
+  #### Lab : Konfigurieren von Windows PowerShell, und Befehle finden und ausführen
 
   ####
-
-  #### Lab &#58; Suchen und Ausführen von Windows PowerShell 
-
-  ####
-
-  #### Lab &#58; Verwenden von Hilfe- und Info-Dateien
-
-  ####
+  *   Konfigurieren der Windows PowerShell Konsole-Anwendung
+  *   Konfigurieren der Windows PowerShell ISE -Anwendung
+  *   Finden und ausführen von Windows PowerShell-Befehlen
+  *   About-Dateien verwenden
 
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
 
-  *   zum Öffnen und Konfigurieren von Windows PowerShell.
+  *   Beschreiben der wichtigsten Merkmale von Windows PowerShell und ihre Öffnung und Konfigurierung.
 
   *    Windows PowerShell -Befehlen zu entdecken, zu erlernen und auszuführen.
 
@@ -75,7 +67,7 @@ outlineSection: |-
 
   ### Modul 2&#58; Windows PowerShell für die lokale Systemverwaltung
 
-  In diesem Modul werden Sie mit den verschiedenen Arten von Cmdlets vertraut gemacht, die häufig für die Systemadministration verwendet werden. Sie können zwar jedes Mal nach Cmdlets suchen, wenn Sie eine Aufgabe erledigen müssen, aber es ist effizienter, zumindest ein Grundverständnis dieser Cmdlets zu haben. In diesem Modul wird auch erklärt, wie Sie Windows PowerShell in Windows 10 installieren und verwenden können.
+  In diesem Modul werden Sie mit den verschiedenen Arten von Cmdlets vertraut gemacht, die üblicherweise für die Systemverwaltung verwendet werden. Sie können zwar jedes Mal nach Cmdlets suchen, wenn Sie eine Aufgabe erledigen müssen, aber es ist effizienter, zumindest ein Grundverständnis dieser Cmdlets zu haben. Dieses Modul erklärt auch, wie man Windows 10 mit PowerShell verwaltet.
 
   #### Lektionen
 
@@ -88,17 +80,12 @@ outlineSection: |-
   *   Windows PowerShell in Windows 10
 
 
-  #### Lab &#58; Erstellen einer Website
+  #### Lab : Durchführung der lokalen Systemverwaltung mit PowerShell
 
   ####
-
-  #### Lab &#58; Konfigurieren der Netzwerkeinstellungen auf Windows Server
-
-  ####
-
-  #### Lab &#58; Erstellen und Verwalten von Active Directory -Objekten
-
-  ####
+  *   Erstellen und Verwalten von Active Directory-Objekten
+  *   Konfigurieren von Netzwerkeinstellungen auf Windows Server
+  *   Erstellen einer Website
 
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage&#58;
 
@@ -108,7 +95,7 @@ outlineSection: |-
 
   *   Cmdlets für Serveradministrationsaufgaben zu identifizieren und zu verwenden.
 
-  *   Windows PowerShell in Windows 10zu installieren und zu vverwenden.
+  *   Verwalten Windows 10 mit PowerShell
 
   
   ### Modul 3&#58; Arbeiten mit der Windows PowerShell -Pipeline
@@ -128,21 +115,13 @@ outlineSection: |-
   *   Pipelinedaten als Output senden und weiterleiten
 
 
-  #### Lab &#58; Auswählen, Sortieren und Anzeigen von Daten
+  #### Lab : Mit der PowerShell-Pipeline
 
   ####
-
-  #### Lab &#58; Objekte filtern
-
-  ####
-
-  #### Lab &#58; Aufzählung von Objekten
-
-  ####
-
-  #### Lab &#58; Objekte konvertieren
-
-  ####
+  * Auswählen, Sortieren und Anzeigen von Daten
+  * Filtern von Objekten
+  * Aufzählen von Objekten
+  * Konvertieren von Objekten
 
   Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
 
@@ -168,17 +147,12 @@ outlineSection: |-
   *   Verwendung von PSDrives
 
 
-  #### Lab &#58; Erstellen einer neuen Active Directory -Gruppe
+  #### Lab : Verwenden von PSProviders und PSDrives mit PowerShell
 
   ####
-
-  #### Lab &#58; Erstellen eines Registrierungsschlüssels für Ihre zukünftigen Skripts
-
-  ####
-
-  #### Lab &#58; Erstellen von Dateien und Ordnern auf einem entfernten Computer
-
-  ####
+  *   Erstellen von Dateien und Ordnern auf einem entfernten Computer
+  *   Erstellen eines Registrierungsschlüssels für Ihre zukünftigen Skripte
+  *   Erstellen eines neuen Active Directory-Gruppe
 
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
 
@@ -200,21 +174,17 @@ outlineSection: |-
   *   Änderungen mit Hilfe von CIM und WMI
 
 
-  #### Lab &#58; Abfragen von Informationen mit Hilfe von WMI
+  #### Lab : Abfrage von Informationen mit Hilfe von WMI und CIM
 
   ####
+  *   Abfrage von Informationen mit Hilfe von WMI
+  *   Abfrage von Informationen mit Hilfe von CIM
+  *   Aufrufen von Methoden
 
-  #### Lab &#58; Abfragen von Informationen mit Hilfe von CIM
-
-  ####
-
-  #### Lab &#58; Aufrufen von Methoden
-
-  ####
 
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
 
-  *   zwischen Common Information Model und Windows Management Instrumentation zu unterscheiden.
+  *   Unterscheiden zwischen CIM und WMI.
 
   *   Management-Informationen mit Hilfe von CIM und WMI abzufragen.
 
@@ -223,7 +193,7 @@ outlineSection: |-
 
   ### Modul 6&#58; Arbeiten mit Variablen, Arrays und Hash-Tabellen
 
-  Dieses Modul vermittelt Ihnen die Fähigkeiten und Kenntnisse, die für die Verwendung von Variablen, Arrays und Hash-Tabellen in Windows PowerShell.
+  Variablen sind ein wesentlicher Bestandteil von Skripten. Sie können Variablen verwenden, um komplexe Aufgaben zu erledigen, die Sie mit einem einzigen Befehl nicht bewältigen können. Dieses Modul erklärt, wie man mit Variablen, Arrays und Hash-Tabellen arbeitet, um zu lernen, wie man Windows PowerShell Skripts erstellt.
 
   #### Lektionen
 
@@ -234,17 +204,12 @@ outlineSection: |-
   *   Arrays und Hash-Tabellen manipulieren
 
 
-  #### Lab &#58; Hash-Tabellen verwenden
+  #### Lab : Verwendung von Variablen, Arrays und Hashtabellen in PowerShell
 
   ####
-
-  #### Lab &#58; Verwenden von Arrays
-
-  ####
-
-  #### Lab &#58; Arbeiten mit Variablentypen
-
-  ####
+  *  Arbeiten mit variablen Typen
+  *  Arrays verwenden
+  *  Verwendung von Hashtabellen
 
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
 
@@ -273,44 +238,30 @@ outlineSection: |-
 
   *   Funktionen und Module
 
+  #### Lab : Verwendung von Skripten mit PowerShell
 
-  #### Lab &#58; Signieren eines Skripts
+  * Signieren eines Skripts
 
-  ####
+  * Verarbeitung eines Arrays mit einer FürJeden-Schleife
 
-  #### Lab &#58; Verarbeitung eines Arrays mit einer FürJeden-Schleife
+  * Verarbeiten von Elementen mit Hilfe von Wenn-Anweisungen
 
-  ####
+  * Anlegen von Benutzern basierend auf einer CSV-Datei
 
-  #### Lab &#58; Verarbeiten von Elementen mit Hilfe von Wenn-Anweisungen
+  * Abfrage von Festplatteninformationen von entfernten Computern
 
-  ####
-
-  #### Lab &#58; Anlegen von Benutzern basierend auf einer CSV-Datei
-
-  ####
-
-  #### Lab &#58; Abfrage von Festplatteninformationen von entfernten Computern
-
-  ####
-
-  #### Lab &#58; Aktualisieren des Skripts zur Verwendung alternativer Anmeldeinformationen
+  * Aktualisieren des Skripts zur Verwendung alternativer Anmeldeinformationen
 
   ####
 
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage&#58;
 
   *   Durchführen eines Windows PowerShell -Skripts.
-
   *   Verwenden von Windows PowerShell Skripterstellungs-Konstrukten.
-
   *   Daten aus einer Datei importieren.
-
-  *   Benutzereingaben einholen.
-
-  *   Skripte auf Fehler untersuchen und Fehleraktionen verstehen.
-
-  *   Funktionen und Module erstellen.
+  *   Benutzereingaben für ein Skript akzeptieren.
+  *   Implementierung einer Fehlerbehandlung für ein Skript.
+  *   Funktionen und Module erläutern.
 
 
   ### Modul 8&#58; Verwalten von entfernten Computern mit Windows PowerShell
@@ -326,38 +277,26 @@ outlineSection: |-
   *   Verwenden von PSSessions
 
 
-  #### Lab &#58; Mehrere Computer verwalten
+  #### Lab : Durchführung der Fernverwaltung mit PowerShell
 
   ####
-
-  #### Lab &#58; Implizites Remoting verwenden
-
-  ####
-
-  #### Lab &#58; Ausführen des One-to-Many-Remoting
-
-  ####
-
-  #### Lab &#58; Ausführen des One-to-Many-Remoting
-
-  ####
-
-  #### Lab &#58; Aktivieren des Remoting auf dem lokalen Computer
-
-  ####
+  * Aktivieren der Fernwartung auf dem lokalen Computer
+  * Durchführen von Eins-zu-Eins-Remoting
+  * Eins-zu-vielen-Remoting durchführen
+  * Implizites Remoting verwenden
 
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
 
   *   die Remoting-Architektur und -Sicherheit zu beschreiben.
 
-  *   erweiterte Remoting-Techniken anzuwenden.
+  *   Verwenden von fortgeschrittenen Windows PowerShell Remoting- Techniken.
 
   *   persistente Remoting-Sitzungen zu erstellen und zu verwalten.
 
 
   ### Modul 9&#58; Verwalten von Azure-Ressourcen mit PowerShell
 
-  Dieses Modul liefert Informationen über Azure PowerShell. Es führt auch Azure Cloud Shellein. Es erklärt, wie man Azure VMs mit PowerShell verwaltet. Das Modul beschreibt auch, wie Sie das Speichern und Azure -Abonnements mit Azure PowerShell verwalten können.
+  Dieses Modul enthält Informationen zur Installation der für die Verwaltung von Cloud-Diensten erforderlichen Module. Es wird erklärt, wie  PowerShell-Befehle verwendet werden, um einige einfache Verwaltungsaufgaben für cloud-Ressourcen wie virtuelle Azure virtual machines (VMs), Azure storage -Konten und Azure-Abonnements durchzuführen. In diesem Modul wird auch beschrieben, wie die Azure Cloud Shell-Umgebung verwendet wird, um eine PowerShell- oder Bash-basierte Verwaltung direkt über das Azure-Portal durchzuführen.
 
   #### Lektionen
 
@@ -370,27 +309,20 @@ outlineSection: |-
   *   Verwalten von Speicher und Abonnements
 
 
-  #### Lab &#58; Installieren des Azure PowerShell -Moduls
+  #### Lab : Azure Ressourcenverwaltung mit PowerShell
 
   ####
-
-  #### Lab &#58; Installieren von Cloud Shell
-
-  ####
-
-  #### Lab &#58; Verwalten von Azure -Ressourcen mit Azure PowerShell
-
-  ####
+  *   Aktivieren des Azure-Abos und Installeren des PowerShell Az Moduls
+  *   Verwenden von Azure Cloud Shell
+  *   Verwalten von Azure Ressourcen mit Azure PowerShell 
 
   Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
 
-  *   Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-
-  *   Azure Cloud Shell zu verwenden.
-
+  *   Beschreiben, installieren und verwenden der Azure PowerShell Umgebung
+  *   Beschreibung und Verwendung von Azure Cloud Shell.
   *   Azure VMs mit PowerShell zu verwalten.
+  *   Verwalten Azure Speicherkonten und Abonnements mit Azure PowerShell.
 
-  *   Speicher und Abonnements zu verwenden.
 
 
   ### Modul 10&#58; Verwalten von Microsoft 365 -Services mit PowerShell
@@ -408,25 +340,17 @@ outlineSection: |-
   *   Verwalten von Microsoft Teams mit PowerShell
 
 
-  #### Lab &#58; Verwalten von Exchange Online Ressourcen mit Windows PowerShell
+  #### Lab : Verwalten von Microsoft 365 mit PowerShell
 
   ####
-
-  #### Lab &#58; Verwalten von SharePoint Online mit Windows PowerShell
-
-  ####
-
-  #### Lab &#58; Verwalten von Microsoft 365 Benutzer- und Gruppenobjekten mit Windows PowerShell
-
-  ####
-
-  #### Lab &#58; Verbindung zu Microsoft 365 mit Windows PowerShell
-
-  ####
+  *   Verwalten von Benutzern und Gruppen in Azure AD
+  *   Verwalten von Exchange Online
+  *   Verwalten von SharePoint
+  *   Verwalten von Microsoft Teams
 
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
 
-  *   Microsoft 365 Benutzerkonten, Lizenzen und Gruppen mit PowerShell zu verwalten.
+  *   Verwenden von PowerShell zum Verwalten von Benutzern, Gruppen, und Lizenzen in Azure AD
 
   *   Exchange Online mit PowerShell zu verwalten.
 
@@ -437,7 +361,7 @@ outlineSection: |-
 
   ### Modul 11&#58; Verwenden von Hintergrundaufträgen und terminierten Aufträgen
 
-  In diesem Modul wird beschrieben, wie Sie Hintergrundaufträge und terminierte Aufträge verwenden können. Außerdem wird erklärt, wie Sie Zeitplanaufträge erstellen und Auftragsergebnisse abrufen können.
+  In diesem Modul wird die Verwendung von Hintergrundaufträgen und geplanten Aufträgen beschrieben. Außerdem wird erklärt, wie man geplante Aufträge erstellt und Auftragsergebnisse abruft.
 
   #### Lektionen
 
@@ -446,16 +370,15 @@ outlineSection: |-
   *   Terminierte Aufträge verwenden
 
 
-  #### Lab &#58; Starten und Verwalten von Aufträgen
+  #### Lab : Verwaltung von Aufträgen mit PowerShell
 
   ####
+  *   Starten und Verwalten von Aufträgen
+  *   Erstellen eines geplanten Auftrags
 
-  #### Lab &#58; Erstellen eines terminierten Auftrags
-
-  ####
 
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
 
-  *   Hintergrundaufträge zu erstellen und zu verwenden.
+  *   Erstellen und Verwalten von Hintergrundaufträgen.
+  *   Geplante Aufträge erstellen und verwalten.
 
-  *   terminierte Aufträge zu erstellen und zu verwenden.

@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div><font color='red'><strong>Der Inhalt dieser Prüfung wird am Mittwoch, 29. September 2021 aktualisiert. Bitte laden Sie das unten stehende Dokument zur Kompetenzmessung herunter, um zu sehen, was sich ändert.</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am Mittwoch, 29. September 2021 aktualisiert. Bitte laden Sie das unten stehende Dokument mit den bewerteten Fähigkeiten herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div><div><font color='red'>HINWEIS: Punktzahl für einen erfolgreichen Abschluss: 700. Erfahren Sie mehr über Prüfungsergebnisse <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
   
   Kandidaten für diese Prüfung sind Microsoft 365 Enterprise Administratoren, die an Bewertung, Planung, Migration, Bereitstellung und Verwaltung von Microsoft 365 Services mitwirken. Sie führen Microsoft 365-Mandantenverwaltungsaufgaben für ein Unternehmen aus, einschließlich seiner Identitäten, Sicherheit, Compliance, Power Platform und unterstützenden Technologien.
   
@@ -22,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- Der Inhalt dieser Prüfung wird am 29. September 2021 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich ändert.
+- Der Inhalt dieser Prüfung wurde am Mittwoch, 29. September 2021 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich geändert hat.
 - Entwerfen und Implementieren von Microsoft 365-Services (25-30%)
 - Benutzeridentität und Rollen verwalten (25-30%)
 - Zugriff und Authentifizierung verwalten (15-20%)
@@ -38,11 +38,12 @@ exams:
 courses:
 - uid: course.ms-100t00
 paths:
-- uid: learn-m365.identity-and-access
-- uid: learn.security.manage-identity-and-access
-- uid: learn-m365.microsoft-365-get-modern
-- uid: learn-m365.m365-stay-current
-- uid: learn-m365.manage-enterprise-deployment-m365
+- uid: learn.wwl.design-your-microsoft-365-tenant
+- uid: learn.wwl.configure-your-microsoft-365-tenant
+- uid: learn.wwl.manage-your-microsoft-365-tenant
+- uid: learn.wwl.explore-microsoft-365-platform-services
+- uid: learn.wwl.plan-implement-identity-synchronization
+- uid: learn.wwl.implement-applications-external-access-azure-ad
 relatedCertifications:
 - related:
     uid: certification.m365-enterprise-administrator

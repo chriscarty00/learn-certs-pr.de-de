@@ -2,12 +2,12 @@
 title: Kurseinstellung | Microsoft Docs
 description: Kurseinstellung
 documentationcenter: NA
-author: bipach
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 07/30/2019
-ms.author: micsullivan
+ms.author: venkato
 ---
 # Kurseinstellung
 
@@ -19,20 +19,167 @@ Sobald ein Kurs eingestellt wird, ist er nicht mehr verfügbar. Der Kurs kann ni
 
 ## Eingestellte Kurse Von Dozenten geleitete Schulung
 
-* Kursunterlagen eingestellt am 29. Oktober 2021    
+* Abkündigungen von Lehrmaterial am 30. Dezember 2021
 
-    | Kursnummer | Version | Titel | Sprache | Abkündigungsdatum |    
-    | --- | --- | --- | --- | --- |    
+    | Kursnummer | Version | Titel | Sprache | Abkündigungsdatum |
+    | --- | --- | --- | --- | --- |
+    | AZ-010T00 | A | Azure Administration for AWS SysOps | Englisch | 30.12.2021 |
+    | AZ-010T00JA | A | Azure Administration for AWS SysOps | Japanisch | 30.12.2021 |
+    | AZ-010T00KO | A | Azure Administration for AWS SysOps | Koreanisch | 30.12.2021 |
+    | AZ-010T00ZH | A | Azure Administration for AWS SysOps | Chinesisch vereinfacht | 30.12.2021 |
+    | AZ-020T00 | A | Microsoft Azure solutions for AWS developers | Englisch | 30.12.2021 |
+    | AZ-020T00JA | A | Microsoft Azure solutions for AWS developers | Japanisch | 30.12.2021 |
+    | AZ-020T00KO | A | Microsoft Azure solutions for AWS developers | Korean | 30.12.2021 |
+    | AZ-020T00ZH | A | Microsoft Azure solutions for AWS developers | Chinesisch Vereinfacht | 30.12.2021 |
+    | AZ-030T00 | A | Microsoft Azure technologies for AWS architects | Englisch | 30.12.2021 |
+    | AZ-030T00JA | A | Microsoft Azure technologies for AWS architects | Japanisch | 30.12.2021 |
+    | AZ-030T00KO | A | Microsoft Azure technologies for AWS architects | Korean | 30.12.2021 |
+    | AZ-030T00ZH | A | Microsoft Azure technologies for AWS architects | Chinesisch Vereinfacht | 30.12.2021 |
+    | 6420 | B | Fundamentals of Windows Server® 2008 | Englisch | 30.12.2021 |
+    | 10266 | A | Programming in C# with Microsoft Visual Studio 2010 | Englisch | 30.12.2021 |
+    | 10710 | A | Configuring, Managing and Troubleshooting Microsoft® Exchange Server 2010 | Spanisch | 30.12.2021 |
+    | 10961 | C | Automating Administration With Windows PowerShell | Englisch | 30.12.2021 |
+    | 10962 | C | Advanced Automated Administration With Windows PowerShell | Englisch | 30.12.2021 |
+    | 10964 | C | Cloud & Datacenter Monitoring with System Center Operations Manager | Englisch | 30.12.2021 |
+    | 10965 | D | IT Service Management with System Center Service Manager | Englisch | 30.12.2021 |
+    | 10967 | A | Fundamentals of a Windows Server® Infrastructure | Englisch | 30.12.2021 |
+    | 10969 | B | Active Directory® Services with Windows Server® | Englisch | 30.12.2021 |
+    | 10972 | B | Administering the Web Server (IIS) Role of Windows Server | Englisch | 30.12.2021 |
+    | 10975 | A | Introduction to Programming | Englisch | 30.12.2021 |
+    | 10982 | E | Supporting and Troubleshooting Windows 10 | Englisch | 30.12.2021 |
+    | 10984 | B | Deploying and Managing Office 365 Hybrid Deployments | Englisch | 30.12.2021 |
+    | 10985 | C | Introduction to SQL Databases | Englisch | 30.12.2021 |
+    | 10986 | B | Updating Your Skills to SQL Server 2016 | Englisch | 30.12.2021 |
+    | 10987 | C | Performance Tuning and Optimizing SQL Databases | Englisch | 30.12.2021 |
+    | 10990 | C | Analyzing Data with SQL Server Reporting Services | Englisch | 30.12.2021 |
+    | 10994 | B | Data Analysis Fundamentals using Excel | Englisch | 30.12.2021 |
+    | 10998 | A | Updating Your Skills to SQL Server 2017 | Englisch | 30.12.2021 |
+    | 20334 | C | Core Solutions of Skype for Business 2015/2019 | Englisch | 30.12.2021 |
+    | 20339 | A | Planning and Administering SharePoint 2016 | Englisch | 30.12.2021 |
+    | 20339 | A | Advanced Technologies of SharePoint 2016 | Englisch | 30.12.2021 |
+    | 20345 | B | Administering Microsoft Exchange Server 2016/2019 | Englisch | 30.12.2021 |
+    | 20345 | B | Designing and Deploying Microsoft Exchange Server 2016/2019 | Englisch | 30.12.2021 |
+    | 20410 | D | Installing and Configuring Windows Server® 2012 | Englisch | 30.12.2021 |
+    | 20411 | D | Administering Windows Server® 2012 | Englisch | 30.12.2021 |
+    | 20412 | D | Configuring Advanced Windows Server® 2012 Services | Englisch | 30.12.2021 |
+    | 20413 | C | Designing and Implementing a Server Infrastructure | Englisch | 30.12.2021 |
+    | 20414 | C | Implementing an Advanced Server Infrastructure | Englisch | 30.12.2021 |
+    | 20417 | D | Upgrading Your Skills to MCSA Windows Server® 2012 | Englisch | 30.12.2021 |
+    | 20461 | D | Querying Microsoft SQL Server® 2014 | Englisch | 30.12.2021 |
+    | 20462 | D | Administering Microsoft® SQL Server® 2014 Databases | Englisch | 30.12.2021 |
+    | 20463 | D | Implementing a Data Warehouse with Microsoft® SQL Server® 2014 | Englisch | 30.12.2021 |
+    | 20464 | D | Developing Microsoft SQL Server 2014 Databases | Englisch | 30.12.2021 |
+    | 20465 | D | Designing Solutions for Microsoft SQL Server 2014 | Englisch | 30.12.2021 |
+    | 20466 | D | Implementing Data Models and Reports with SQL Server 2014 | Englisch | 30.12.2021 |
+    | 20467 | D | Designing Business Intelligence Solutions with Microsoft SQL Server 2014 | Englisch | 30.12.2021 |
+    | 20480 | C | Programming in HTML5 with JavaScript and CSS3 | Englisch | 30.12.2021 |
+    | 20483 | C | Programming in C# | Englisch | 30.12.2021 |
+    | 20486 | C | Developing ASP.NET MVC 5 Web Applications | Englisch | 30.12.2021 |
+    | 20486 | D | Developing ASP.NET Core MVC Web Applications | Englisch | 30.12.2021 |
+    | 20487 | D | Developing Microsoft Azure and Web Services | Englisch | 30.12.2021 |
+    | 20694 | B | Virtualizing Enterprise Desktops and Apps | Englisch | 30.12.2021 |
+    | 20703 | B | Administering System Center Configuration Manager | Englisch | 30.12.2021 |
+    | 20740 | C | Installation, Storage, and Compute with Windows Server 2016 | Englisch | 30.12.2021 |
+    | 20741 | B | Networking with Windows Server 2016 | Englisch | 30.12.2021 |
+    | 20742 | B | Identity with Windows Server 2016 | Englisch | 30.12.2021 |
+    | 20743 | C | Upgrading Your Skills to MCSA: Windows Server 2016 | Englisch | 30.12.2021 |
+    | 20744 | C | Securing Windows Server 2016 | Englisch | 30.12.2021 |
+    | 20745 | B | Implementing a Software-Defined DataCenter Using System Center Virtual Machine Manager | Englisch | 30.12.2021 |
+    | 20761 | C | Querying Data with Transact-SQL | Englisch | 30.12.2021 |
+    | 20762 | C | Developing SQL Databases | Englisch | 30.12.2021 |
+    | 20764 | C | Administering a SQL Database Infrastructure | Englisch | 30.12.2021 |
+    | 20765 | C | Provisioning SQL Databases | Englisch | 30.12.2021 |
+    | 20767 | C | Implementing a SQL Data Warehouse | Englisch | 30.12.2021 |
+    | 20768 | C | Developing SQL Data Models | Englisch | 30.12.2021 |
+    | 20777 | A | Implementing Microsoft Azure Cosmos DB Solutions | Englisch | 30.12.2021 |
+    | 20779 | B | Analyzing Data with Excel | Englisch | 30.12.2021 |
+    | 21410 | D | Installing and Configuring Windows Server® 2012 | Deutsch | 30.12.2021 |
+    | 21411 | D | Administering Windows Server® 2012 | Deutsch | 30.12.2021 |
+    | 21412 | D | Configuring Advanced Windows Server® 2012 Services | Deutsch | 30.12.2021 |
+    | 21413 | B | Designing and Implementing a Server Infrastructure | Deutsch | 30.12.2021 |
+    | 21414 | B | Implementing an Advanced Server Infrastructure | Deutsch | 30.12.2021 |
+    | 21417 | B | Upgrading Your Skills to MCSA Windows Server 2012 | Deutsch | 30.12.2021 |
+    | 21461 | A | Querying Microsoft® SQL Server® 2012 | Deutsch | 30.12.2021 |
+    | 21462 | A | Administering Microsoft® SQL Server® 2012 Databases | Deutsch | 30.12.2021 |
+    | 21463 | A | Implementing a Data Warehouse with Microsoft® SQL Server® 2012 | Deutsch | 30.12.2021 |
+    | 21740 | B | Installation, Storage, and Compute with Windows Server 2016 | Deutsch | 30.12.2021 |
+    | 21741 | B | Networking with Windows Server 2016 | Deutsch | 30.12.2021 |
+    | 21742 | A | Identity with Windows Server 2016 | Deutsch | 30.12.2021 |
+    | 21743 | B | Upgrading Your Skills to MCSA: Windows Server 2016 | Deutsch | 30.12.2021 |
+    | 21744 | B | Securing Windows Server 2016 | Deutsch | 30.12.2021 |
+    | 21764 | C | Administering a SQL Database Infrastructure | Deutsch | 30.12.2021 |
+    | 22410 | B | Installing and Configuring Windows Server® 2012 | Französisch | 30.12.2021 |
+    | 22411 | B | Administering Windows Server 2012 | Französisch | 30.12.2021 |
+    | 22412 | B | Configuring Advanced Windows Server 2012 Services | Französisch | 30.12.2021 |
+    | 22414 | B | Implementing an Advanced Server Infrastructure | Französisch | 30.12.2021 |
+    | 22417 | B | Upgrading Your Skills to MCSA Windows Server 2012 | Französisch | 30.12.2021 |
+    | 22461 | A | Querying Microsoft® SQL Server® 2012 | Französisch | 30.12.2021 |
+    | 22462 | A | Administering Microsoft® SQL Server® 2012 Databases | Französisch | 30.12.2021 |
+    | 22463 | A | Implementing a Data Warehouse with Microsoft® SQL Server® 2012 | Französisch | 30.12.2021 |
+    | 22740 | C | Installation, Storage, and Compute with Windows Server 2016 (French) | Französisch | 30.12.2021 |
+    | 22741 | B | Networking with Windows Server 2016 (French) | Französisch | 30.12.2021 |
+    | 22742 | B | Identity with Windows Server 2016 (French) | Französisch | 30.12.2021 |
+    | 22743 | C | Upgrading Your Skills to MCSA: Windows Server 2016 (French) | Französisch | 30.12.2021 |
+    | 22744 | B | Securing Windows Server 2016 | Französisch | 30.12.2021 |
+    | 23410 | B | Installing and Configuring Windows Server® 2012 | Japanisch | 30.12.2021 |
+    | 23411 | B | Administering Windows Server 2012 | Japanisch | 30.12.2021 |
+    | 23412 | B | Configuring Advanced Windows Server® 2012 Services | Japanisch | 30.12.2021 |
+    | 23413 | B | Designing and Implementing a Server Infrastructure | Japanisch | 30.12.2021 |
+    | 23414 | B | Implementing an Advanced Server Infrastructure | Japanisch | 30.12.2021 |
+    | 23740 | B | Installation, Storage, and Compute with Windows Server 2016 | Japanisch | 30.12.2021 |
+    | 23741 | A | Networking with Windows Server 2016 | Japanisch | 30.12.2021 |
+    | 23742 | A | Identity with Windows Server 2016 | Japanisch | 30.12.2021 |
+    | 23744 | B | Securing Windows Server 2016 | Japanisch | 30.12.2021 |
+    | 24410 | B | Installing and Configuring Windows Server® 2012 | Portugiesisch (Brasilien) | 30.12.2021 |
+    | 24411 | B | Administering Windows Server 2012 | Portugiesisch (Brasilien) | 30.12.2021 |
+    | 24412 | B | Configuring Advanced Windows Server 2012 Services | Portugiesisch (Brasilien) | 30.12.2021 |
+    | 24740 | B | Installation, Storage, and Compute with Windows Server 2016 | Portugiesisch (Brasilien) | 30.12.2021 |
+    | 24741 | B | Networking with Windows Server 2016 | Portugiesisch (Brasilien) | 30.12.2021 |
+    | 24742 | B | Identity with Windows Server 2016 | Portugiesisch (Brasilien) | 30.12.2021 |
+    | 24744 | B | Securing Windows Server 2016 | Portugiesisch (Brasilien) | 30.12.2021 |
+    | 26740 | B | Installation, Storage, and Compute with Windows Server 2016 | Spanisch | 30.12.2021 |
+    | 26741 | B | Networking with Windows Server 2016 | Spanisch | 30.12.2021 |
+    | 26742 | B | Identity with Windows Server 2016 | Spanisch | 30.12.2021 |
+    | 26744 | B | Securing Windows Server 2016 |Spanisch (Spanien) |30.12.2021
+    | 28480 | B | Programming in HTML5 with JavaScript and CSS3 | Chinesisch Vereinfacht | 30.12.2021 |
+    | 28740 | B | Installation, Storage, and Compute with Windows Server 2016 | Chinesisch Vereinfacht | 30.12.2021 |
+    | 28741 | B | Networking with Windows Server 2016 | Chinesisch Vereinfacht | 30.12.2021 |
+    | 28742 | A | Identity with Windows Server 2016 | Chinesisch Vereinfacht | 30.12.2021 |
+    | 28761 | A | Querying Data with Transact-SQL | Chinesisch Vereinfacht | 30.12.2021 |
+    | 28764 | A | Administering a SQL Database Infrastructure | Chinesisch Vereinfacht | 30.12.2021 |
+    | 28765 | B | Provisioning SQL Databases | Chinesisch Vereinfacht | 30.12.2021 |
+    | 29480 | B | Programming in HTML5 with JavaScript and CSS3 | Chinesisch Traditionell | 30.12.2021 |
+    | 29740 | B | Installation, Storage, and Compute with Windows Server 2016 | Chinesisch Traditionell | 30.12.2021 |
+    | 29741 | B | Networking with Windows Server 2016 | Chinesisch Traditionell | 30.12.2021 |
+    | 29742 | A | Identity with Windows Server 2016 | Chinesisch Traditionell | 30.12.2021 |
+    | 29761 | A | Querying Data with Transact-SQL | Chinesisch Traditionell | 30.12.2021 |
+    | 29764 | A | Administering a SQL Database Infrastructure | Chinesisch Traditionell | 30.12.2021 |
+    | 29765 | B | Provisioning SQL Databases | Chinesisch Traditionell | 30.12.2021 |
+    | 40332 | A | Partner Applied Workshop: What's New in Windows 10 | Englisch | 30.12.2021 |
+    | 40410 | A | JavaScript, HTML and CSS Web Development | Englisch | 30.12.2021 |
+    | 21345-1 | A | Administering Microsoft Exchange Server 2016 | Deutsch | 30.12.2021 |
+    | 21697-1 | B | Installing and Configuring Windows 10 | Deutsch | 30.12.2021 |
+
+* Kursunterlagen eingestellt am 29. Oktober 2021
+
+    | Kursnummer | Version | Titel | Sprache | Abkündigungsdatum |
+    | --- | --- | --- | --- | --- |
     | 10997 | D | Office 365 Administration und Fehlerbehebung | Englisch | 29/10/2021 |
 
-* Kursunterlagen eingestellt am 30. September 2021    
+* Kursunterlagen eingestellt am 30. September 2021
 
-    | Kursnummer | Version | Titel | Sprache | Abkündigungsdatum |    
-    | --- | --- | --- | --- | --- |    
-    | 40510 | G | Microsoft Cloud Workshop: SQL Server Hybrid Cloud | Englisch | 30/09/2021 |
-    | 40516 | G | Microsoft Cloud Workshop: Intelligent Analytics | Englisch | 30/09/2021 |
-    | 40561 | G | Microsoft Cloud Workshop: Machine Learning | Englisch | 30/09/2021 |
-    | MS-050T00 | A | SharePoint Hybrid Deployment and Migration | Englisch | 30/09/2021 |
+    | Kursnummer | Version | Titel | Sprache | Abkündigungsdatum |
+    | --- | --- | --- | --- | --- |
+    | 40510 | G | Microsoft Cloud Workshop: SQL Server Hybrid Cloud | Englisch | 30.09.2021 |
+    | 40516 | G | Microsoft Cloud Workshop: Intelligent Analytics | Englisch | 30.09.2021 |
+    | 40561 | G | Microsoft Cloud Workshop: Machine Learning | Englisch | 30.09.2021 |
+    | MB-901T00DE | A | Microsoft Dynamics 365 Fundamentals | Deutsch | 30.09.2021 |
+    | MB-901T00ES | A | Microsoft Dynamics 365 Fundamentals | Spanisch | 30.09.2021 |
+    | MB-901T00FR | A | Microsoft Dynamics 365 Fundamentals | Französisch | 30.09.2021 |
+    | MB-901T00JA | A | Microsoft Dynamics 365 Fundamentals | Japanisch | 30.09.2021 |
+    | MB-901T00KO | A | Microsoft Dynamics 365 Fundamentals | Korean | 30.09.2021 |
+    | MB-901T00ZH | A | Microsoft Dynamics 365 Fundamentals | Chinesisch Vereinfacht | 30.09.2021 |
+    | MS-050T00 | A | SharePoint Hybrid Deployment and Migration | Englisch | 30.09.2021 |
 
 * Lernsoftware wird am 31. August 2021 eingestellt
 

@@ -7,6 +7,8 @@ uid: certification.m365-enterprise-administrator
 certificationRenewalUid: renewal.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
+  <div><font color='red'><strong>Der Inhalt dieser Prüfung wurde kürzlich aktualisiert. <a href="/learn/certifications/exams/ms-100">MS-100</a> wurde am 29. September 2021 aktualisiert, und <a href="/learn/certifications/exams/ms-101">MS-101</a> wurde am 24. September 2021 aktualisiert. Bitte laden Sie die Dokumente zur Messung der Fähigkeiten auf den entsprechenden Prüfungsseiten herunter, um die Änderungen zu sehen.</strong></font><br/><br/></div>
+
   Microsoft 365 Enterprise Administrators bewerten, planen, migrieren, stellen bereit und verwalten Microsoft 365 Services.
 subTitle: Microsoft 365 Enterprise Administrators bewerten, planen, migrieren, stellen bereit und verwalten Microsoft 365 Services.
 levels:
@@ -28,19 +30,22 @@ courses:
 - uid: course.ms-100t00
 - uid: course.ms-101t00
 paths:
-- uid: learn-m365.identity-and-access
-- uid: learn.security.manage-identity-and-access
-- uid: learn-m365.microsoft-365-get-modern
-- uid: learn-m365.m365-stay-current
-- uid: learn-m365.manage-enterprise-deployment-m365
-- uid: learn-m365.m365-cloud-security
-- uid: learn-m365.m365-security-threat-protection
-- uid: learn-m365.m365-security-management
-- uid: learn.security.manage-security-operations
-- uid: learn-m365.m365-messaging-secure-environment
-- uid: learn-m365.m365-compliance-information
-- uid: learn-m365.audit-safeguard-customer-data
-- uid: learn-m365.compliance-discover
+- uid: learn.wwl.design-your-microsoft-365-tenant
+- uid: learn.wwl.configure-your-microsoft-365-tenant
+- uid: learn.wwl.manage-your-microsoft-365-tenant
+- uid: learn.wwl.explore-microsoft-365-platform-services
+- uid: learn.wwl.plan-implement-identity-synchronization
+- uid: learn.wwl.implement-applications-external-access-azure-ad
+- uid: learn.wwl.introduction-to-microsoft-365-security-metrics
+- uid: learn.wwl.manage-your-microsoft-365-security-services
+- uid: learn.wwl.implement-microsoft-365-threat-intelligence
+- uid: learn.wwl.introduction-to-data-governance-microsoft-365
+- uid: learn.wwl.implement-data-governance-microsoft-365-intelligence
+- uid: learn.wwl.manage-data-governance-microsoft-365
+- uid: learn.wwl.manage-content-search-investigations-microsoft-365
+- uid: learn.wwl.prepare-for-device-management-microsoft-365
+- uid: learn.wwl.plan-your-windows-10-deployment-strategy
+- uid: learn.wwl.implement-mobile-device-management-microsoft-365
 prerequisites:
 - uid: certification.modern-desktop
   isOptional: false

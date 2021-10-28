@@ -2,12 +2,12 @@
 title: Über Online-Prüfungen mit Pearson VUE | Microsoft Docs
 description: Über Online-Prüfungen mit Pearson VUE
 documentationcenter: NA 
-author: bipach
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 02/29/2020
-ms.author: micsullivan
+ms.author: venkato
 ---
 # Über Online-Prüfungen mit Pearson VUE
 
@@ -119,7 +119,6 @@ Besuchen Sie [Apple Support](https://support.apple.com/), um Hilfe beim Einricht
             <td>
                 <p>Eine gleichbleibende Verbindungsgeschwindigkeit von 1 Mbps down/up ist erforderlich.</p>
                 <p>Wir empfehlen, Tests in einem kabelgebundenen Netzwerk anstatt einem kabellosen Netzwerk durchzuführen.</p>
-                <p>Die Verbindung zu einem mobilen Hotspot ist ausdrücklich untersagt.</p>
             </td>
         </tr>
         <tr>
@@ -198,7 +197,6 @@ Führen Sie einen Systemtest auf demselben Computer und an demselben Ort durch, 
 
 - Beaufsichtigte Online-Prüfungen können durch Proxy-Server, Netzwerkpaketprüfung/-filterung oder strenge Netzwerksicherheitskonfigurationen gestört werden.
 - Wenn Sie eine online-beaufsichtigte Prüfung ablegen, verwenden Sie nach Möglichkeit eine verkabelte Internetverbindung.
-- Nicht mit einem mobilen Hotspot verbinden; dies ist ausdrücklich untersagt.
 
 ## Anforderungen an die Testumgebung
 

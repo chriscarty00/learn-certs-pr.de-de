@@ -1,0 +1,77 @@
+### YamlMime:Examination
+title: Administering Windows Server Hybrid Core Infrastructure (beta)
+metadata:
+  title: 'Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure (beta)'
+  description: 'Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure (beta)'
+uid: exam.az-800
+displayName: AZ-800
+summary: |-
+  Kandidaten für diese Prüfung verwalten zentrale Windows Server-Workloads unter Verwendung von lokalen, hybriden und Cloud-Technologien. Diese Spezialisten sollten über Fachwissen bei der Implementierung und Verwaltung von lokalen und hybriden Lösungen verfügen, z. B. in den Bereichen Identität, Verwaltung, Datenverarbeitung, Netzwerk und Speicherung. Diese Experten verwenden verwaltungstechnische Instrumente und Technologien, darunter Windows Admin Center, PowerShell, Azure Arc und IaaS Verwaltung virtueller Maschinen.
+  
+  Kandidaten für diese Zertifizierung sollten über umfangreiche Erfahrungen in der Arbeit mit Windows Server Betriebssystemen haben.
+  
+  <div><br/><font color='red'><strong>HINWEIS: Diese Prüfung wird im Dezember 2021 verfügbar sein.</strong></font></div>
+subTitle: 'Diese Prüfung wird im Dezember 2021 verfügbar sein. Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu bewältigen: Bereitstellen und Verwalten von Active Directory Domain Services (AD DS) in lokalen und cloud-Umgebungen; Verwalten von Windows Servers und Workloads in einer hybriden Umgebung; Verwalten von virtuellen Maschinen und Containern; Implementieren und Verwalten einer lokalen und hybriden Netzwerkinfrastruktur; Verwalten von Speicher- und Dateidiensten.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKI0r
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Bereitstellung und Verwaltung von Active Directory Domain Services (AD DS)  in lokalen und cloud-Umgebungen (30-35%)
+- Verwalten vonWindows Servers und Workloads in einer hybriden Umgebung (10-15%)
+- Verwalten von virtuellen Maschinen und Containern (15-20%)
+- Implementierung und Verwaltung einer ortsfesten und hybriden Netzwerkinfrastruktur (15-20%) 
+- Verwalten von Speicher- und Dateidiensten (15-20%)
+roles:
+- administrator
+- identity-access-admin
+- ip-admin
+- network-engineer
+- security-engineer
+- support-engineer
+- technology-manager
+products:
+- azure-active-directory
+- azure-active-directory-domain
+- azure-arc
+- azure-automation
+- azure-defender
+- azure-disk-encryption
+- azure-files
+- azure-monitor
+- azure-policy
+- azure-powershell
+- azure-security-center
+- azure-sentinel
+- azure-virtual-machines
+- mdatp
+- windows-server
+exams:
+- uid: exam.az-801
+relatedCertifications:
+- related:
+    uid: certification.windows-server-hybrid-administrator
+resources:
+- title: Informieren Sie sich über die Zertifizierungen
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://aka.ms/TrainingCertDeck
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://aka.ms/traincertposter
+- title: Prüfungswiederholung
+  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+  href: ../deals.md
+- title: Unterstützung bei Zertifizierungsprüfungen
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  href: ../help.md
+- title: Zertifizierungsdashboard
+  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Unterkünfte anfordern
+  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  href: ../request-accommodations.md
+- title: Prüfungsrichtlinien und häufig gestellten Fragen
+  description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
+  href: ../certification-exam-policies.md

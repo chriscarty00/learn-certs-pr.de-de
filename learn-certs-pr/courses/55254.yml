@@ -1,0 +1,354 @@
+### YamlMime:Course
+title: SharePoint 2016 Technologies Introduction
+metadata:
+  title: 'Course 55254-A: SharePoint 2016 Technologies Introduction'
+  description: 'Course 55254-A: SharePoint 2016 Technologies Introduction'
+uid: course.55254
+courseNumber: '55254-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Anwendung von Best-Practice-Techniken zur Organisation von Unternehmensinhalten und Dokumenten mit Listen- und Bibliotheksanwendungen.
+- skill: Erstellen und Verwalten von SharePoint-Sites für Abteilungen, Projekte und Content Management.
+- skill: Erlernen der korrekten und effizienten Verwaltung der Site-Sicherheit.
+- skill: Hinzufügen und Bearbeiten von SharePoint-Seiten und Nutzen der Leistungsfähigkeit von Webparts.
+- skill: Automatisieren von Geschäftsprozessen mit Workflows.
+- skill: Integrieren Sie Microsoft Office in Ihre SharePoint-Seiten.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  Microsoft SharePoint 2016 bietet eine Plattform für die geschäftliche Zusammenarbeit, die die Dokumentenverwaltung optimiert, den Zugriff auf Informationen vereinfacht und die Möglichkeit bietet, Lösungen schnell und sicher bereitzustellen. In diesem SharePoint-Kurs für Einsteiger erhalten Sie einen umfassenden Überblick über die SharePoint 2016 On-Premise- und SharePoint Online-Plattform und lernen, SharePoint 2016 zu erstellen, zu verwalten und an die Anforderungen Ihres Unternehmens anzupassen.
+
+  #### Zielgruppenprofil  
+  Dieser Kurs richtet sich an Teilnehmer, die neu in Sharepoint sind oder die neuen Funktionen von SharePoint 2016 kennenlernen möchten.
+prerequisitesSection: |-
+  Vor der Teilnahme an diesem Kurs müssen die Teilnehmer&#58;  
+  - Gute Kenntnisse von Microsoft Windows, Office und dem Internet haben.
+outlineSection: |-
+  ### Modul 1&#58; Was ist SharePoint  
+  In diesem Modul werden die neuen Funktionen von SharePoint erklärt und die Fallstudie des Kurses vorgestellt.  Anhand der Fallstudie des Kurses wird Ihnen ein Land zugewiesen, für das Sie eine maßgeschneiderte Team-Website und eine Unter-Website zur Speicherung der Informationen Ihres Landes erstellen werden.  Sie erhalten einen Überblick über SharePoint 2016 und sehen auch die fertiggestellte SharePoint-Website, an der Sie während des Kurses arbeiten werden.
+  
+  #### Lektionen  
+  - Ein Überblick über SharePoint 2016  
+  - Was ist neu in SharePoint 2016  
+  - SharePoint 2016 verwenden
+
+  #### Lab &#58; Verwaltung von Informationen und Zusammenarbeit über SharePoint  
+  - Öffnen der Lösungsseite  
+  - Geförderte Links
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;  
+  - die Funktionalität von SharePoint 2016 zu überprüfen.
+  - neue Funktionen zu entdecken.
+  - geschäftliche Anwendungsfälle zu bestimmen.
+
+  ### Modul 2&#58; Erstellen von SharePoint-Websites  
+  In diesem Modul wird erläutert, wie Sie Ihre SharePoint-Architektur angemessen planen. Dieses Modul erklärt, wie Sie Ihre SharePoint-Architektur angemessen planen können. Grundlegende Begriffe wie Websitesammlungen, Toplevel-Sites, Sub-Sites und Site Templates werden erklärt. Sie werden Übungen durchführen, um mehrere Unterseiten aus Vorlagen zu erstellen und die Grundlage für zukünftige Übungen zu schaffen.
+
+  #### Lektionen  
+  - SharePoint-Website-Architektur  
+  - Beispiele für SharePoint-Websites  
+  - Definierte Website-Vorlagen  
+  - Anpassen von SharePoint-Websites  
+  - Verwaltung von Websites/Sitesammlungen
+
+  #### Lab &#58; Erstellen von Unter-Websites  
+  - Navigieren zur Hauptseite Ihres Landes  
+  - Hinzufügen eines Dokuments zur Bibliotheks-App auf Ihrer Länderseite  
+  - Erstellen einer Unter-Website mit allgemeinen Informationen für Ihr Land  
+  - Erstellen einer Projektseite für Ihr Land  
+  - Arbeiten mit der Projektseite  
+  - Eine Blog-Site für eine Abteilung erstellen  
+  - Arbeiten mit der Blog-Site  
+  - Einen Blogeintrag mit Word schreiben  
+  - Verwalten von Beiträgen in Ihrem Blog
+
+  #### Lab &#58; Anpassen von SharePoint-Websites  
+  - Navigieren zu Ihrer Top-Level-Site  
+  - Ändern des Site-Logos  
+  - Ändern des Aussehens und der Handhabung Ihrer Website  
+  - Ändern der oberen Linkleiste  
+  - Ändern der Schnellstartleiste  
+  - Regionale Einstellungen  
+  - Aktivieren von Veröffentlichungsfunktionen  
+  - Erstellen einer Publishing-Site
+
+  #### Lab &#58; Verwaltung von Websitesammlungen  
+  - Verwendung des Papierkorbs  
+  - Erstellen und Anwenden einer Dokumentenrichtlinie  
+  - Verwendungsberichte
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;  
+  - die SharePoint-Website-Struktur zu identifizieren.
+  - Websitesammlungen und Unter-Websites festzulegen.
+  - Website-Vorlagen zu verwenden.
+  - SharePoint Unter-Websites zu erstellen.
+  - mit dem Papierkorb der Website und dem Papierkorb der Websitesammlung zu arbeiten.
+  - Das Aussehen Ihrer Website zu ändern.
+  - Richtlinien zum Löschen von Dokumenten zu überprüfen.
+  - Berichte über Beliebtheitstrends anzuzeigen.
+
+  ### Modul 3&#58; SharePoint-Sicherheit verwalten  
+  In diesem Modul wird erklärt, wie eine SharePoint-Website freigegeben wird und wie gängige Sicherheits-/Berechtigungsszenarien behandelt werden. Die Basis-Freigabeterminologie wird vorgestellt, mit einem Schwerpunkt auf Vererbung und wie und wann das Vererben von Freigaben auf einer Subsite zu stoppen ist, oder für Listen/Bibliotheken, Ordner oder individuelle Objekte oder Dateien. Die Benutzer werden die Freigabe von Dateien in SharePoint Online erkunden, indem sie eine Datei mit einer persönlichen (nicht-SharePoint) E-Mail-Adresse extern freigeben.
+  
+  #### Lektionen  
+  - Freigabe Ihrer Website  
+  - SharePoint-Gruppen  
+  - Berechtigungsebenen  
+  - Zugriffsanfragen  
+  - Vererbung von Berechtigungen  
+  - Direkte Berechtigungen  
+  - Bewährte Praktiken  
+  - Erweiterte Sicherheit  
+
+  #### Lab &#58; Hinzufügen von Benutzern und Festlegen von Site-Berechtigungen  
+  - Festlegen von Mitgliedern  
+  - Mitglieder zu einer Gruppe hinzufügen  
+  - Benutzern die Möglichkeit geben, eine Berechtigung anzufordern  
+  - Berechtigung beantragen  
+  - Anzeigen von Berechtigungen  
+
+  #### Lab &#58; Berechtigungen für Site-Objekte aktualisieren  
+  - Definieren von Mitgliedern  
+  - Vererbung von Berechtigungen  
+  - Überprüfen von Berechtigungen  
+  - Direktes Erteilen von Berechtigungen an einen Benutzer  
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;  
+  - Zugriff auf Websites und Inhalte zu gewähren.
+  - SharePoint-Gruppen zu verwenden, um die Sicherheitsverwaltung zu vereinfachen.
+  - Zugriff auf eine SharePoint-Website zu beantragen.
+  - Berechtigungsstufen zu überprüfen.
+  - Anbieter von Authentifizierung zu überprüfen.
+  - die besten Praktiken für Berechtigungen zu prüfen.
+  - eine SharePoint Online-Site zu vermitteln.
+
+  ### Modul 4&#58; Verwaltung von Inhalten  
+  In diesem Modul wird erklärt, wie man mit SharePoint-Listenanwendungen arbeitet, um Inhalte in SharePoint zu verwalten. Die Benutzer lernen, dass alle Inhalte und viele der Backend-Konfigurationsoptionen in SharePoint über SharePoint-Listen verwaltet werden. Häufig genutzte Apps wie die Aufgabenliste und die Kalender-App werden verwendet, um die praktischen Projektmanagement-Funktionen zu zeigen, die in den Vorlagen für Projekt-Websites angeboten werden. Die Benutzer erstellen Warnmeldungen, um per E-Mail über Änderungen an Dateien benachrichtigt zu werden. Weitere App-Vorlagen werden genutzt, darunter eine Kontaktliste, eine Liste mit geförderten Links, eine Bildbibliothek, eine Umfrage und der Import einer Listenstruktur aus einer Microsoft Excel-Tabelle. SharePoint Online wird untersucht, insbesondere Anwendungen von Drittanbietern, die im App Store verfügbar sind.
+
+  #### Lektionen  
+  - SharePoint-Inhaltsverwaltung  
+  - Listen-Apps  
+  - Aufgabenlisten-App  
+  - Kalender-Listen-App  
+  - Warnungen  
+  - Hinzufügen von Listen-Apps  
+
+  #### Lab &#58; Arbeiten mit Listen  
+  - Einen Projektplan für die Dokumentenmigration erstellen  
+  - Erstellen von Haupt- und Nebenaufgaben  
+  - Arbeiten mit dem Projektplan  
+  - Erstellen eines Kalendereintrags für den Start des SharePoint-Dokumentenmanagementsystems  
+  - Hinzufügen eines Roll-up-Kalenders für die Aufgabenliste
+
+  #### Lab &#58; Apps erstellen  
+  - Hinzufügen einer Kontaktliste zur Website  
+  - Hinzufügen einer Liste mit beworbenen Links zur Website  
+  - Hinzufügen einer Bildarchiv-App zur Website  
+  - Hinzufügen einer Umfrageliste zur Website  
+  - Erstellen einer MSC-Verkaufsliste aus einer Kalkulationstabelle  
+  - Eine Nachschlage-Spalte erstellen  
+  - Inhalt kategorisieren
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;  
+  - SharePoint-Funktionen für die Verwaltung von Inhalten zu nutzen.
+  - SharePoint-Vorlagen für fertige Listenanwendungen zu überprüfen.
+  - eine Aufgabenliste für ein einfaches Projektmanagement zu nutzen.
+  - eine Kalenderliste für die Verwaltung von Ereignissen zu verwenden.
+  - eine Liste mit erweiterten Links für eine verbesserte Navigation zu erstellen.
+  - Benachrichtigungen über Änderungen an Listenelementen einzurichten.
+
+  ### Modul 5&#58; Verwaltung von Dokumenten  
+  In diesem Modul wird erklärt, wie man Dokumente in einer SharePoint-Website verwaltet. Sie lernen mehrere Methoden zum Hochladen von Dateien auf eine SharePoint-Website kennen. Es werden bewährte Verfahren zur Dateiorganisation besprochen, bei denen Metadaten für die Dateiverwaltung anstelle von Ordnern verwendet werden. Sie erstellen Ansichten, um die Leistungsfähigkeit Ihrer Metadaten zu nutzen, und konfigurieren Einstellungen in Ihrer Bibliothek für Haupt- und Unterversionen, das Verhalten beim Auschecken und Einchecken und die Genehmigung von Inhalten. Sie werden auch die Dateien in einer SharePoint-Dokumentenbibliothek mit OneDrive for Business auf Ihrem lokalen Computer synchronisieren. Es wird ein Vergleich zwischen der Verwaltung von Informationen in SharePoint On-Premises und SharePoint Online angestellt.
+
+  #### Lektionen  
+  - Definierte Dokumentenbibliotheken  
+  - Hinzufügen von Inhalten zu Bibliotheksanwendungen  
+  - Definierte Metadaten  
+  - Definierte Ansichten  
+  - Verwaltung von Dokumenteninhalten  
+  - Offline arbeiten&#58; OneDrive  
+  - Bibliothekseinstellungen  
+  - Element-Berechtigungen  
+  - Erweiterte App-Verwaltung
+  
+  #### Lab &#58; Inhalte in Dokumentenbibliotheken migrieren  
+  - Hochladen in eine Dokumentenbibliothek per Drag & Drop  
+  - Hochladen eines einzelnen Dokuments in eine Dokumentenbibliothek  
+  - Hinzufügen eines Dokuments aus Word  
+  - Eine Verknüpfung zu einer Bibliothek erstellen
+    
+  #### Lab &#58; Identifizieren von Inhalten mit Metadaten  
+  - Untersuchen der vorhandenen Ordnerstruktur  
+  - Organisieren von Dateien mit Spalten  
+  - Aktualisieren des Bibliotheksinhalts mit Metadaten  
+  - Hinzufügen weiterer Dokumente zur Bibliothek  
+
+  #### Lab &#58; Ansichten erstellen  
+  - Eine gruppierte Ansicht erstellen  
+  - Eine gefilterte Ansicht erstellen  
+  - Hinzufügen einer Ansichtsverknüpfung zur Schnellstartleiste
+
+  #### Lab &#58; Dokumentenverwaltung  
+  - Versionskontrolle und Inhaltsgenehmigung in einer Dokumentenbibliothek aktivieren  
+  - Auschecken und Bearbeiten eines Dokuments, das auf der SharePoint-Website einer anderen Abteilung gespeichert ist  
+  - Genehmigen der von einem anderen Team vorgenommenen Änderungen an einem Dokument in Ihrer Dokumentenbibliothek  
+  - Einsehen des Versionsverlaufs und Wiederherstellen einer früheren Version  
+
+  #### Lab &#58; Bibliothekskonfiguration  
+  - Hinzufügen einer neuen Bibliotheksanwendung  
+  - Hinzufügen von Spalten zur Bibliothek "New Hire Candidates"  
+  - Hinzufügen von Dokumenten zur Bibliothek "New Hire Candidates" und Festlegen von Metadaten  
+  - Hinzufügen einer berechneten Spalte  
+  - Ändern des Titels einer Bibliothek  
+  - Entfernen der Möglichkeit zum Erstellen von Ordnern  
+  - Hinzufügen einer Listenvalidierung
+    
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;  
+  - Dokumente zu einer Bibliotheksanwendung hinzufügen.
+  - Dokumente aus einem Ordner in eine Bibliotheksanwendung zu verschieben.
+  - Metadaten hinzuzufügen, um Dateien zu identifizieren.
+  - Ansichten zu erstellen, um Dateien zu sortieren, zu filtern und zu organisieren.
+  - Offline zu arbeiten und Änderungen zurück in eine Bibliothek synchronisieren.
+  - Funktionen zur Inhaltsverwaltung zu aktivieren.
+  - Eine Bibliothek in einer Site zu erstellen.
+  - Bibliothekseinstellungen zu aktualisieren.
+  - Mit Dokumenten in SharePoint Online zu arbeiten.
+
+  ### Modul 6&#58; Erweiterte SharePoint&#58; Unternehmensfunktionen  
+  In diesem Modul wird erläutert, wie Sie die leistungsstarken Unternehmensbausteine in SharePoint nutzen können, um größere Unternehmenslösungen mit weniger Aufwand zu erstellen. Website-Spalten und Inhaltstypen werden genutzt, um eine einheitliche Metadaten-Kennzeichnung und Vorlagen für regelmäßig verwendete Inhalte bereitzustellen. Neue Spalten, wie z.B. verwaltete Metadaten für die Referenzierung einer hierarchischen Taxonomie und externe Spalten für die Ableitung von Werten aus einer externen Datenquelle werden verwendet. Die Verwendung und Konfiguration von Suchfunktionen wird ebenso behandelt wie Enterprise Social-Techniken zur Verwendung einer SharePoint MySite, um die Zusammenarbeit zwischen Teammitgliedern zu fördern. Zum Schluss  wird die Delve-Erfahrung mit MySites in SharePoint Online mit den MySites in SharePoint On-Premises verglichen.
+
+  #### Lektionen  
+  - Organisation des Inhalts  
+  - Website-Spalten  
+  - Inhaltstypen  
+  - Anwendung von Inhaltstypen  
+  - Verwaltete Metadaten  
+  - Externe Listen 
+  - Suche  
+  - Enterprise Social  
+  - Dokumentenmanagement für Unternehmen  
+
+  #### Lab &#58; Inhaltstypen  
+  - Hinzufügen einer Site-Spalte zu einer Dokumentenbibliothek  
+  - Hinzufügen einer neuen Präsentationsbibliothek mit PowerPoint-Standard  
+  - Definieren von Site-Spalten  
+  - Einen neuen Inhaltstyp erstellen  
+  - Hinzufügen von Site Columns zum Inhaltstyp  
+  - Hinzufügen einer Dokumentvorlage zum Inhaltstyp  
+  - Hinzufügen von Inhaltstypen zu einer Dokumentenbibliothek  
+  - Arbeiten mit dem neuen Inhaltstyp in der Bibliothek  
+
+  #### Lab &#58; Verwaltete Metadaten  
+  - Hinzufügen einer verwalteten Metadatenspalte zur Dokumentenbibliothek  
+  - Die verwaltete Metadatenspalte in der Dokumentenbibliothek verwenden  
+  - Eine verwaltete Metadatengruppe erstellen  
+
+  #### Lab &#58; Externe Listen  
+  - Eine externe Liste erstellen  
+  - Erstellen einer alternativen Ansicht der Kundenliste  
+  - Verwenden der externen Liste als Spaltenreferenz in der Präsentationsbibliothek  
+
+  #### Lab &#58; Suche  
+  - Experimentieren mit verschiedenen Suchsyntaxen  
+  - Vorlage für die Unternehmenssuche  
+
+  #### Lab &#58; SharePoint Social Features nutzen  
+  - Eine externe Liste erstellen  
+  - Kollegen und Websites folgen  
+  - Zu einem Newsfeed beitragen  
+  - OneDrive for Business in Ihrer My Site verwenden  
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;  
+  - Wiederverwendbare Site-Spalten zu erstellen  
+  - Inhaltstypen zu erstellen  
+  - Inhaltstypen zu Bibliotheken hinzuzufügen  
+  - Dokumentvorlagen zu Bibliotheken hinzuzufügen  
+  - mit verwalteten Metadaten zu arbeiten  
+  - Inhalte mit der Suche zu entdecken  
+  - Externe Listen zu erstellen
+
+  ### Modul 7&#58; Seiten anpassen  
+  In diesem Modul wird erklärt, wie man Webpartseiten und Wikiseiten verwendet, um zusätzliche Informationen in SharePoint hinzuzufügen und anzupassen. Sie werden grundlegende Aktualisierungen an den Inhalten Ihrer Homepage vornehmen und zusätzliche Seiten für andere Inhalte erstellen. Sie erhalten einen Überblick über die große Anzahl von Webparts und  Sie werden Webparts zu Ihrer Seite hinzufügen, um Informationen aus Ihren Listen und Bibliotheken anzuzeigen. Es werden Methoden für das Rollup von Inhalten unter Verwendung des Webparts "Inhalt nach Abfrage" und des Webparts "Inhaltssuche" untersucht. Schließlich wird ein Vergleich zwischen der Bearbeitung von Seiten auf Websites für die Zusammenarbeit und auf Websites für die Veröffentlichung angestellt.
+
+  #### Lektionen  
+  - Website-Seiten  
+  - Seiten bearbeiten  
+  - Seiten erstellen  
+  - Webparts  
+  - Seiten veröffentlichen
+    
+  #### Lab &#58; Bearbeiten und Hinzufügen von Seiten  
+  - Entfernen von "Erste Schritte"  
+  - Aktualisieren Ihrer Homepage  
+  - Hinzufügen einer Wiki-Seite zu Ihrer Website  
+
+  #### Lab &#58; Hinzufügen von Webparts zu Seiten  
+  - Webparts bearbeiten  
+  - Anzeigen einer Google-Karte auf einer Seite mit Embed Script
+    
+  #### Lab &#58; SharePoint-Funktionen und Content Rollup  
+  - Rollup von Inhalten mit dem Webpart Inhaltssuche für unsere Websitesammlung  
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;  
+  - Seitentypen zu untersuchen.
+  - Seiten bearbeiten.
+  - Seiten hinzufügen.
+  - Web Parts hinzufügen und anpassen 
+  - Rollup-Inhalt für Websitesammlungen hinzufügen
+
+  ### Modul 8&#58; Geschäftsprozesse mit Workflow verwalten
+  Dieses Modul erklärt die Grundlagen der Prozessautomatisierung in SharePoint mit Workflows. Angefangen bei Standard-Workflows bis hin zu SharePoint Designer-Workflows lernen Sie, wie Sie verschiedene Arten von Genehmigungs-Workflows mit mehreren Teilnehmern entwickeln können, um Ad-hoc-Prozesse zu eliminieren und Ihre Abläufe zu rationalisieren. Schließlich werden die neuesten Produkte, darunter Microsoft PowerApps und Microsoft Flow, die möglicherweise die Zukunft des Workflows in SharePoint Online darstellen, untersucht.
+
+  #### Lektionen  
+  - Definition  
+  - Out-of-the-Box Workflows  
+  - Verwenden eines Workflows  
+  - SharePoint-Designer  
+  - Erstellen eines benutzerdefinierten Workflows  
+
+  #### Lab &#58; Automatisieren von Geschäftsprozessen mit Workflows  
+  - Aktivieren von Out-of-the-Box (OOTB) Workflows  
+  - Hinzufügen des Genehmigungsworkflows zur Bibliothek der HR-Richtlinien  
+  - Testen des Workflows  
+
+  #### Lab &#58; Gestalten eines benutzerdefinierten Workflows  
+  - Verbinden mit SharePoint Designer  
+  - Testen des Hinzufügens einer USA-Präsentation  
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;  
+  - Workflows zu bestimmen.
+  - Out-of-the-Box-Workflows zu überprüfen.
+  - einen Workflow mit einer Liste zu verknüpfen.
+  - den Workflow auszuführen.
+  - einen benutzerdefinierten Workflow mit SharePoint Designer erstellen.
+  - Aktionen und Bedingungen in einem Workflow zu verwenden.
+
+  ### Modul 9&#58; Microsoft Office Integration  
+  In diesem Modul werden die vielen verschiedenen Möglichkeiten der Integration von SharePoint in Microsoft Office erläutert. Sie erfahren, wie Sie verschiedene Listen und Bibliotheksanwendungen mit Microsoft Outlook verbinden können und arbeiten mit anderen Teilnehmern zusammen, um gleichzeitig Inhalte in einem Microsoft Word-Dokument zu bearbeiten. Schließlich werden verschiedene Methoden zur Nutzung von Microsoft Excel für die Verbindung mit SharePoint besprochen.
+  
+  #### Lektionen  
+  - Integration von Microsoft Office und SharePoint  
+  - Verbinden von Outlook  
+  - Verwenden von Excel  
+
+  #### Lab &#58; Nutzen von Outlook mit SharePoint  
+  - Verbinden von SharePoint-Kontakten mit Outlook  
+  - Verbinden von SharePoint-Kalenderereignissen mit Outlook  
+
+  #### Lab &#58; Excel Web Access Webparts verwenden  
+  - Hinzufügen eines Excel Web Access-Webparts zu einer Seite in SharePoint Online  
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;  
+  - Office- und SharePoint-Integrationsfunktionen zu nutzen.
+  - Website-Kalender, Kontakte und Dokumentenbibliotheken mit Outlook zu verbinden.
+  - Excel-Tabellen in SharePoint zu verwenden.
+  - Excel in einem Browser zu verwenden.
+  

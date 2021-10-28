@@ -2,19 +2,19 @@
 title: Greifen Sie auf Ihr Zertifizierungs-Dashboard zu | Microsoft Docs
 description: 'Greifen Sie auf Ihr Zertifizierungs-Dashboard zu' 
 documentationcenter: NA 
-author: micsullivan
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 03/31/2021
-ms.author: msulliv
+ms.author: venkato
 ms.prod: non-product-specific
 ---
 # Greifen Sie auf Ihr Zertifizierungs-Dashboard zu
 
 ## Was ist ein Zertifizierungs-Dashboard?
 
-In Ihrem [Microsoft-Zertifizierungs-Dashboard](https://aka.ms/certdashboard) finden Sie alle Ihre persönlichen zertifizierungsbezogenen Informationen. Sie können dort Ihr Profil aktualisieren, Ihre Microsoft-Zertifizierungsnummer (MCID) finden und Ihr Microsoft-Zertifizierungstranskript erhalten. Hier finden Sie alles rund um Ihre Zertifizierungen.
+In Ihrem [Microsoft-Zertifizierungs-Dashboard](https://www.microsoft.com/learning/dashboard.aspx) finden Sie alle Ihre persönlichen zertifizierungsbezogenen Informationen. Sie können dort Ihr Profil aktualisieren, Ihre Microsoft-Zertifizierungsnummer (MCID) finden und Ihr Microsoft-Zertifizierungstranskript erhalten. Hier finden Sie alles rund um Ihre Zertifizierungen.
 
 ## So greifen Sie auf Ihr Zertifizierungs-Dashboard zu
 

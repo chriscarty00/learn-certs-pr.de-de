@@ -2,12 +2,12 @@
 title: Einstellung einer Zertifizierung | Microsoft Docs
 description: Einstellung einer Zertifizierung
 documentationcenter: NA
-author: bipach
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 07/30/2019
-ms.author: micsullivan
+ms.author: venkato
 ---
 # Einstellung einer Zertifizierung
 
@@ -45,7 +45,6 @@ Zertifizierungen bleiben nach ihrer Einstellung zwei Jahre lang im aktiven Berei
 | [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 30. Juni 2021 |
 | [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) l 30. Juni 2021 l
 | [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 31. Dezember 2020 |
-| [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)              | 31. August 2020 |
 
 | Microsoft Certified Solutions Developer                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
@@ -54,7 +53,6 @@ Zertifizierungen bleiben nach ihrer Einstellung zwei Jahre lang im aktiven Berei
 | Microsoft Certified Solutions Associate                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
 | [MCSA: BI Reporting](/learn/certifications/mcsa-bi-reporting)                      | 31. Januar 2021 |
-| MCSA: CRM Dynamics Technical                                                       | 31. Dezember 2019  |
 | [MCSA: Dynamics 365 for Operations](/learn/certifications/mcsa-microsoft-dynamics-365-for-operations) | 31. Januar 2021 |
 | [MCSA: SQL 2016 Database Admin](/learn/certifications/mcsa-sql2016-database-administration-certification) | 31. Januar 2021 |
 | [MCSA: SQL 2016 BI Development](/learn/certifications/mcsa-sql2016-business-intelligence-certification) | 31. Januar 2021 |
@@ -76,6 +74,4 @@ Zertifizierungen bleiben nach ihrer Einstellung zwei Jahre lang im aktiven Berei
 
 | Microsoft Technology Associate                                                     |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| MTA: 98-369: Cloud Fundamentals                                                    | 30. September 2019 |
-| MTA: 98-380: Introduction to Programming Using Block-Based Languages (Touch Develop) | 7. August 2019 |
 ___

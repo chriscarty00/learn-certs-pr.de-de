@@ -12,46 +12,6 @@ certificationPaths:
   linkedInKeywords: Dynamics 365 Customer Service Functional Consultant
   uid: certification-path.d365-functional-consultant-customer-service 
   prerequisites: 
-  - uid: certification.d365-fundamentals
-    isOptional: true
-    levels:
-    - beginner 
-  - uid: certification.d365-functional-consultant-customer-service
-    levels:
-    - intermediate
-    
-- title: Dynamics 365 Field Service Functional Consultant
-  linkedInKeywords: Dynamics 365 Field Service Functional Consultant
-  uid: certification-path.d365-functional-consultant-field-service 
-  prerequisites: 
-  - uid: certification.d365-fundamentals
-    isOptional: true
-    levels:
-    - beginner 
-  - uid: certification.d365-functional-consultant-field-service
-    levels:
-    - intermediate
-
-- title: Dynamics 365 Finance Functional Consultant
-  linkedInKeywords: Dynamics 365 Finance Functional Consultant
-  uid: certification-path.d365-functional-consultant-financials 
-  prerequisites: 
-  - uid: certification.d365-fundamentals
-    isOptional: true
-    levels:
-    - beginner 
-  - uid: certification.d365-functional-consultant-financials
-    levels:
-    - intermediate
-
-- title: Dynamics 365 Manufacturing Functional Consultant
-  linkedInKeywords: Dynamics 365 Manufacturing Functional Consultant
-  uid: certification-path.d365-functional-consultant-manufacturing
-  prerequisites: 
-  - uid: certification.d365-fundamentals-finance-and-operations-apps-erp
-    isOptional: true
-    levels:
-    - beginner
   - uid: certification.d365-fundamentals-customer-engagement-apps-crm
     isOptional: true
     levels:
@@ -64,10 +24,6 @@ certificationPaths:
   linkedInKeywords: Dynamics 365 Field Service Functional Consultant
   uid: certification-path.d365-functional-consultant-field-service 
   prerequisites: 
-  - uid: certification.d365-fundamentals-finance-and-operations-apps-erp
-    isOptional: true
-    levels:
-    - beginner
   - uid: certification.d365-fundamentals-customer-engagement-apps-crm
     isOptional: true
     levels:
@@ -84,10 +40,6 @@ certificationPaths:
     isOptional: true
     levels:
     - beginner
-  - uid: certification.d365-fundamentals-customer-engagement-apps-crm
-    isOptional: true
-    levels:
-    - beginner 
   - uid: certification.d365-functional-consultant-financials
     levels:
     - intermediate
@@ -101,10 +53,6 @@ certificationPaths:
     isOptional: true
     levels:
     - beginner
-  - uid: certification.d365-fundamentals-customer-engagement-apps-crm
-    isOptional: true
-    levels:
-    - beginner 
   - uid: certification.d365-functional-consultant-manufacturing
     levels:
     - intermediate
@@ -113,10 +61,6 @@ certificationPaths:
   linkedInKeywords: Dynamics 365 Marketing Functional Consultant
   uid: certification-path.d365-functional-consultant-marketing 
   prerequisites: 
-  - uid: certification.d365-fundamentals-finance-and-operations-apps-erp
-    isOptional: true
-    levels:
-    - beginner
   - uid: certification.d365-fundamentals-customer-engagement-apps-crm
     isOptional: true
     levels:
@@ -129,10 +73,6 @@ certificationPaths:
   linkedInKeywords: Dynamics 365 Sales Functional Consultant
   uid: certification-path.d365-functional-consultant-sales 
   prerequisites: 
-  - uid: certification.d365-fundamentals-finance-and-operations-apps-erp
-    isOptional: true
-    levels:
-    - beginner
   - uid: certification.d365-fundamentals-customer-engagement-apps-crm
     isOptional: true
     levels:
@@ -149,10 +89,6 @@ certificationPaths:
     isOptional: true
     levels:
     - beginner
-  - uid: certification.d365-fundamentals-customer-engagement-apps-crm
-    isOptional: true
-    levels:
-    - beginner 
   - uid: certification.d365-functional-consultant-supply-chain-management
     levels:
     - intermediate

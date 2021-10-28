@@ -2,12 +2,12 @@
 title: Prüfungseinstellung | Microsoft Docs
 description: Prüfungseinstellung
 documentationcenter: NA
-author: micsullivan
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 07/30/2019
-ms.author: msulliv
+ms.author: venkato
 ms.prod: non-product-specific
 ---
 # Prüfungseinstellung
@@ -42,20 +42,12 @@ Diese Prüfungen wurden im letzten Jahr eingestellt. Zu Referenzzwecken werden w
 | Rollenbasiert| | |
 | --- | --- | --- |
 | [AI-100](/learn/certifications/exams/ai-100) | Designing and Implementing an Azure AI Solution | 30. Juni 2021
-| [AZ-103](/learn/certifications/exams/AZ-103) | Microsoft Azure Administrator | August 31, 2020
-| [AZ-203](/learn/certifications/exams/AZ-203) | Developing Solutions for Microsoft Azure | August 31, 2020
-| [AZ-300](/learn/certifications/exams/AZ-300) | Microsoft Azure Architect Technologies | September 30, 2020
-| [AZ-301](/learn/certifications/exams/AZ-301) | Microsoft Azure Architect Design | September 30, 2020
 | [DP-200](/learn/certifications/exams/dp-200) | Implementing an Azure Data Solution | 31. August  2021
 | [DP-201](/learn/certifications/exams/dp-201) | Designing an Azure Data Solution | 31. August 2021
 | [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | 31. Dezember, 2020
 | [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | 31. Dezember, 2020
 | [MB-600](/learn/certifications/exams/mb-600) | Microsoft Dynamics 365 + Power Platform Solution Architect | 30. Juni 2021
 | [MB-901](/learn/certifications/exams/mb-901) | Microsoft Dynamics 365 Fundamentals | 30. Juni 2021
-| [MS-200](/learn/certifications/exams/ms-200) | Planning and Configuring a Messaging Platform | August 31, 2020
-| [MS-201](/learn/certifications/exams/ms-201) | Implementing a Hybrid and Secure Messaging Platform | August 31, 2020
-| [MS-300](/learn/certifications/exams/ms-300) | Deploying Microsoft 365 Teamwork | August 31, 2020
-| [MS-301](/learn/certifications/exams/ms-301) | Deploying SharePoint Server Hybrid | August 31, 2020
 
 <br/>
 
@@ -118,12 +110,20 @@ Diese Prüfungen wurden im letzten Jahr eingestellt. Zu Referenzzwecken werden w
 | AZ-100 | Microsoft Azure Infrastructure and Deployment | 1. Mai 2019
 | AZ-101 | Microsoft Azure Integration and Security | 1. Mai 2019
 | AZ-102 | Microsoft Azure Administrator Certification Transition | 30. Juni 2019
+| AZ-103 | Microsoft Azure Administrator | 31. August 2020
 | AZ-200 | Microsoft Azure Developer Core Solutions | 3. Januar 2019
 | AZ-201 | Microsoft Azure Developer Advanced Solutions | 3. Januar 2019
 | AZ-202 | Microsoft Azure Developer Certification Transition | 31. März 2019
+| AZ-203 | Developing Solutions for Microsoft Azure | 31. August 2020
+| AZ-300 | Microsoft Azure Architect Technologies | 30. September 2020
+| AZ-301 | Microsoft Azure Architect Design | 30. September 2020
 | AZ-302 | Microsoft Azure Solutions Architect Certification Transition | 30. Juni 2019
 | MB-900 | Microsoft Dynamics 365 Fundamentals | 31. Dezember 2019
+| MS-200 | Planning and Configuring a Messaging Platform | 31. August 2020
+| MS-201 | Implementing a Hybrid and Secure Messaging Platform | 31. August 2020
 | MS-202 | Microsoft 365 Messaging Administrator Certification Transition | 30. September 2019
+| MS-300 | Deploying Microsoft 365 Teamwork | 31. August 2020
+| MS-301 | Deploying SharePoint Server Hybrid | 31. August 2020
 | MS-302 | Microsoft 365 Teamwork Administrator Certification Transition | 30. September 2019
 
 | ITPro/Developer | | |
@@ -274,7 +274,8 @@ Diese Prüfungen wurden im letzten Jahr eingestellt. Zu Referenzzwecken werden w
 | 70-523 | Upgrade: Transition your MCPD .NET Framework 3.5 Web Developer Skills to MCPD .NET Framework 4 Web Developer | 31. Juli 2014
 | 70-526 | TS: Microsoft .NET Framework 2.0 – Windows-Based Client Development | 30. Juni 2011
 | 70-528 | TS: Microsoft .NET Framework 2.0 – Web-Based Client Development | 30. Juni 2011
-| 70-529 | TS: Microsoft .NET Framework 2.0 – Distributed Application Development | 30. Juni 2011"| 70-532 | Developing Microsoft Azure Solutions | 31. Dezember 2018
+| 70-529 | TS: Microsoft .NET Framework 2.0 – Distributed Application Development | 30. Juni 2011
+| 70-532 | Developing Microsoft Azure Solutions | 31. Dezember 2018
 | 70-533 | Implementing Microsoft Azure Infrastructure Solutions | 31. Dezember 2018
 | 70-534 | Architecting Microsoft Azure Solutions | 31. Dezember 2017
 | 70-535 | Architecting Microsoft Azure Solutions | 31. Dezember 2018

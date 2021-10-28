@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-101
 displayName: MS-101
 summary: |-
-  <div><font color='red'><strong>Der Inhalt dieser Prüfung wird am 24. September 2021 aktualisiert. Bitte laden Sie das unten stehende Dokument zur Kompetenzmessung herunter, um zu sehen, was sich ändert.</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am Freitag, 24. September 2021 aktualisiert. Bitte laden Sie das unten stehende Dokument mit den bewerteten Fähigkeiten herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div><div><font color='red'>HINWEIS: Punktzahl für einen erfolgreichen Abschluss: 700. Erfahren Sie mehr über Prüfungsergebnisse <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
   
   Kandidaten für diese Prüfung sind Microsoft 365 Enterprise Administratoren, die an der Bewertung, Planung, Migration, Bereitstellung und Verwaltung von Microsoft 365 Services mitwirken. Sie führen Verwaltungsaufgaben im Bereich der Microsoft 365 Mietverhältnisse für Unternehme durch, inkl. Identitäten, Sicherheit, Konformität und unterstützenden Technologien.
   
@@ -22,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- Der Inhalt dieser Prüfung wird am 24. September 2021 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich ändert.
+- Der Inhalt dieser Prüfung wurde am 24. September 2021 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich geändert hat.
 - Implementieren moderner Geräteservices (40-45%)
 - Microsoft 365 Sicherheits- und Bedrohungsmanagement implementieren (20-25%)
 - Microsoft 365-Governance und -Konformität verwalten (35-40%)
@@ -37,16 +37,16 @@ exams:
 courses:
 - uid: course.ms-101t00
 paths:
-- uid: learn-m365.manage-enterprise-deployment-m365
-- uid: learn-m365.identity-and-access
-- uid: learn-m365.m365-cloud-security
-- uid: learn-m365.m365-security-threat-protection
-- uid: learn-m365.m365-security-management
-- uid: learn.security.manage-security-operations
-- uid: learn-m365.m365-messaging-secure-environment
-- uid: learn-m365.m365-compliance-information
-- uid: learn-m365.audit-safeguard-customer-data
-- uid: learn-m365.compliance-discover
+- uid: learn.wwl.introduction-to-microsoft-365-security-metrics
+- uid: learn.wwl.manage-your-microsoft-365-security-services
+- uid: learn.wwl.implement-microsoft-365-threat-intelligence
+- uid: learn.wwl.introduction-to-data-governance-microsoft-365
+- uid: learn.wwl.implement-data-governance-microsoft-365-intelligence
+- uid: learn.wwl.manage-data-governance-microsoft-365
+- uid: learn.wwl.manage-content-search-investigations-microsoft-365
+- uid: learn.wwl.prepare-for-device-management-microsoft-365
+- uid: learn.wwl.plan-your-windows-10-deployment-strategy
+- uid: learn.wwl.implement-mobile-device-management-microsoft-365
 relatedCertifications:
 - related:
     uid: certification.m365-enterprise-administrator

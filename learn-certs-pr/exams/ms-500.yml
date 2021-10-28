@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-500
 displayName: MS-500
 summary: |-
-  <div><font color='red'><strong>Der Inhalt dieser Prüfung wird am 24. September 2021 aktualisiert. Bitte laden Sie das unten stehende Dokument zur Kompetenzmessung herunter, um zu sehen, was sich ändert.</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am Freitag, 24. September 2021 aktualisiert. Bitte laden Sie das unten stehende Dokument mit den bewerteten Fähigkeiten herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div><div><font color='red'>HINWEIS: Punktzahl für einen erfolgreichen Abschluss: 700. Erfahren Sie mehr über Prüfungsergebnisse <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
 
   Kandidaten für diese Prüfung implementieren, verwalten und überwachen Sicherheits- und Compliancelösungen für Microsoft 365 und hybride Umgebungen. Der Microsoft 365 Sicherheits-Administrator sichert proaktiv Microsoft 365 Unternehmensumgebungen, reagiert auf Bedrohung-en, führt Investigationen durch und gewährleistet Datensicherheit. Der Microsoft 365 Security Administrator arbeitet mit einem Microsoft 365 Enterprise Administrator den Geschäftsteilhabern und anderen Workload Administratoren für Planung und Implementierung von Sicherheitsstrategien zur Gewährleistung zusammen, dass die Lösungen mit den Richtlinien und Bestimmungen der Organisation übereinstimmen.
   <br/>
@@ -24,14 +24,24 @@ providers:
 locales:
 - en
 - ja
+- zh-cn
+- ko
+- de
+- fr
+- es
+- pt-br
+- ru
+- ar-sa
+- zh-tw
+- it
 levels:
 - intermediate
 skills:
-- Der Inhalt dieser Prüfung wird am 24. September 2021 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich ändert.
-- Implementierung und Verwaltung von Identität und Zugriff (30-35%)
-- Implementierung und Verwaltung des Bedrohungsschutzes (20-25%)
-- Implementierung und Verwaltung des Informationsschutzes (15-20%)
-- Verwalten von Governance- und Compliance-Funktionen in Microsoft 365 (25-30%)
+- Der Inhalt dieser Prüfung wurde am 24. September 2021 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich geändert hat.
+- Implementierung und Verwaltung von Identität und Zugriff (35-40%)
+- Implementierung und Verwaltung des Bedrohungsschutzes (25-30%)
+- Implementierung und Verwaltung des Informationsschutzes (10-15%)
+- Verwalten von Governance- und Compliance-Funktionen in Microsoft 365 (20-25%)
 roles:
 - administrator
 products:
@@ -41,11 +51,10 @@ products:
 courses:
 - uid: course.ms-500t00
 paths:
-- uid: learn.security.manage-identity-and-access
-- uid: learn-m365.m365-security-threat-protection
-- uid: learn-m365.m365-information-protection
-- uid: learn-m365.m365-security-management
-- uid: learn-m365.m365-compliance-insider
+- uid: learn.wwl.implement-manage-identity-access
+- uid: learn.wwl.implement-manage-threat-protection
+- uid: learn.wwl.implement-manage-information-protection
+- uid: learn.wwl.manage-governance-compliance-features-microsoft-365
 relatedCertifications:
 - related:
     uid: certification.m365-security-administrator

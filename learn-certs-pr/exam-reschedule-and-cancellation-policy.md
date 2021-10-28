@@ -2,12 +2,12 @@
 title: 'Prüfungsverschiebungs- und Stornierungsbedingungen | Microsoft Docs'
 description: 'Prüfungsverschiebungs- und Stornierungsbedingungen' 
 documentationcenter: NA 
-author: micsullivan
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 08/11/2020
-ms.author: msulliv
+ms.author: venkato
 ms.prod: non-product-specific
 ---
 # Prüfungsverschiebungs- und Stornierungsbedingungen

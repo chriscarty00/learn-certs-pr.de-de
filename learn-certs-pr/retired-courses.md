@@ -1214,8 +1214,8 @@ Sobald ein Kurs eingestellt wird, ist er nicht mehr verfügbar. Der Kurs kann ni
 
 * Ablauf von Kursmaterialien am, 18. April 2016
 
-    | Kursnummer | Version | Titel | Sprache | Ablaufdatum |
-    | --- | --- | --- | --- | --- |
+    | Kursnummer | Titel | Sprache | Ablaufdatum |
+    | --- | --- | --- | --- |
     | 38 | Office 2013 and Office 365 Demonstration Sessions | Japanisch | 18/4/2016
     | 37 | Office 2013 and Office 365 Demonstration Sessions | Spanisch | 18/4/2016
     | 36 | Office 2013 and Office 365 Demonstration Sessions | Deutsch | 18/4/2016

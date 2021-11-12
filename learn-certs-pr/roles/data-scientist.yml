@@ -1,35 +1,41 @@
-### YamlMime:Role 
-title: Datenwissenschaftler
-metadata: 
-  title: Datenwissenschaftler 
-  description: Datenwissenschaftler wenden Methoden des maschinellen Lernens  an, um Modelle zur Lösung von Geschäftsproblemen zu entwickeln, zu bewerten und einzusetzen. 
-uid: role.data-scientist 
-summary: | 
-  Datenwissenschaftler wenden Methoden des maschinellen Lernens  an, um Modelle zur Lösung von Geschäftsproblemen zu entwickeln, zu bewerten und einzusetzen.
-subTitle: Datenwissenschaftler wenden Methoden des maschinellen Lernens  an, um Modelle zur Lösung von Geschäftsproblemen zu entwickeln, zu bewerten und einzusetzen.
-certificationPaths: 
+### YamlMime:Role
+title: Data Scientist
+metadata:
+  title: Data Scientist
+  description: Data Scientists (Datenwissenschaftler) wenden Methoden des maschinellen Lernens an, um Modelle zur Lösung von Geschäftsproblemen zu entwickeln, zu bewerten und einzusetzen.
+  ms.openlocfilehash: acce0563f14601d3dcdd5424da729fbff3a8be91
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132112045"
+uid: role.data-scientist
+summary: >
+  Data Scientists (Datenwissenschaftler) wenden Methoden des maschinellen Lernens an, um Modelle zur Lösung von Geschäftsproblemen zu entwickeln, zu bewerten und einzusetzen.
+subTitle: Data Scientists (Datenwissenschaftler) wenden Methoden des maschinellen Lernens an, um Modelle zur Lösung von Geschäftsproblemen zu entwickeln, zu bewerten und einzusetzen.
+certificationPaths:
 - title: Azure Data Scientist
   linkedInKeywords: Azure Data Scientist
-  uid: certification-path.azure-data-scientist 
-  prerequisites: 
+  uid: certification-path.azure-data-scientist
+  prerequisites:
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.azure-data-scientist
     levels:
-    - intermediate  
+    - intermediate
 certifications:
 - uid: certification.azure-data-scientist
   requiredExams:
-    - uid: exam.dp-100
+  - uid: exam.dp-100
 resources:
 - title: Microsoft Leitfaden für Schulungen und Zertifizierungen
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster für Schulungen und Zertifizierungen
   description: Wählen Sie mit diesem Poster für Schulungen und Zertifizierungen Ihren Weg zum Erfolg.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Unterstützung von Zertifizierungen
   href: ../help.md
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.

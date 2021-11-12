@@ -1,35 +1,41 @@
-### YamlMime:Role 
+### YamlMime:Role
 title: KI-Techniker
-metadata: 
-  title: KI-Techniker 
-  description: KI-Ingenieure nutzen Cognitive Services, maschinelles Lernen und Wissensmanagement, um Microsoft KI-Lösungen zu entwickeln und zu implementieren.
-uid: role.ai-engineer 
-summary: | 
-  KI-Ingenieure nutzen Cognitive Services, maschinelles Lernen und Wissensmanagement, um Microsoft KI-Lösungen zu entwickeln und zu implementieren.
-subTitle: KI-Ingenieure nutzen Cognitive Services, maschinelles Lernen und Wissensmanagement, um Microsoft KI-Lösungen zu entwickeln und zu implementieren.
-certificationPaths: 
+metadata:
+  title: KI-Techniker
+  description: AI Engineer (KI-Ingenieure) nutzen Cognitive Services, maschinelles Lernen und Wissensmanagement, um Microsoft KI-Lösungen zu entwickeln und zu implementieren.
+  ms.openlocfilehash: 2ba8117ba7e64fd54cb6d9876872dd7aaf176461
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132111434"
+uid: role.ai-engineer
+summary: >
+  AI Engineer (KI-Ingenieure) nutzen Cognitive Services, maschinelles Lernen und Wissensmanagement, um Microsoft KI-Lösungen zu entwickeln und zu implementieren.
+subTitle: AI Engineer (KI-Ingenieure) nutzen Cognitive Services, maschinelles Lernen und Wissensmanagement, um Microsoft KI-Lösungen zu entwickeln und zu implementieren.
+certificationPaths:
 - title: Azure AI Engineer
   linkedInKeywords: Azure AI Engineer
-  uid: certification-path.azure-ai-engineer 
-  prerequisites: 
+  uid: certification-path.azure-ai-engineer
+  prerequisites:
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.azure-ai-engineer
     levels:
-    - intermediate  
+    - intermediate
 certifications:
 - uid: certification.azure-ai-engineer
   requiredExams:
   - uid: exam.ai-102
 resources:
 - title: Microsoft Leitfaden für Schulungen und Zertifizierungen
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://aka.ms/TrainingCertDeck
 - title: Poster für Schulungen und Zertifizierungen
   description: Wählen Sie mit diesem Poster für Schulungen und Zertifizierungen Ihren Weg zum Erfolg.
   href: https://aka.ms/traincertposter
 - title: Unterstützung von Zertifizierungen
   href: ../help.md
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.

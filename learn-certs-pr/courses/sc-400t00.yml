@@ -1,30 +1,36 @@
 ### YamlMime:Course
 title: Microsoft Information Protection Administrator
 metadata:
-  title: 'Course SC-400T00-A: Microsoft Information Protection Administrator'
-  description: 'Course SC-400T00-A: Microsoft Information Protection Administrator'
+  title: 'Kurs SC-400T00--A: Microsoft Information Protection Administrator'
+  description: 'Kurs SC-400T00--A: Microsoft Information Protection Administrator'
+  ms.openlocfilehash: 91939ab3055cc52ec639dfd0eeb8dc9a05d53771
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132106963"
 uid: course.sc-400t00
-courseNumber: 'SC-400T00-A'
+courseNumber: SC-400T00
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Erklären und verwenden von Empfindlichkeitsetiketten.
-- skill: Konfigurieren Sie Richtlinien zur Verhinderung von Datenverlust.
-- skill: Sichere Nachrichten in Office 365.
-- skill: Beschreiben des Konfigurationsprozesses für Information Governance.
-- skill: Definieren Sie Schlüsselbegriffe für die Informationsschutz-und Governance-Lösungen von Microsoft.
-- skill: Erläutern Sie den Inhalts- und Aktivitäts-Explorer.
-- skill: zu beschreiben, wie man vertrauliche Informationstypen und trainierbare Klassifizierer verwendet.
-- skill: DLP-Berichte zu überprüfen und zu analysieren 
-- skill: Verstöße gegen DLP-Richtlinien zu identifizieren und zu verringern.
-- skill: Die Integration von DLP in Microsoft Cloud App Security (MCAS) zu beschreiben.
-- skill: Stellen Sie Endpoint DLP bereit
-- skill: Beschreiben Sie Datensatzverwaltung
-- skill: Konfigurieren Sie die ereignisgesteuerte Aufbewahrung
-- skill: Importieren Sie einen Dateiplan
-- skill: Konfigurieren Sie Aufbewahrungsrichtlinien und Beschriftungen
-- skill: Erstellen Sie benutzerdefinierte Keyword-Wörterbücher
-- skill: Implementieren Sie Dokumentfingerabdrücke
+- skill: Erläutern und Verwenden von Vertraulichkeitsbezeichnungen
+- skill: Datenverlust-Präventionsrichtlinien konfigurieren.
+- skill: Nachrichten in Office 365 sichern.
+- skill: Beschreiben des Konfigurationsprozesses für Information Governance
+- skill: Definieren wichtiger Begriffe im Zusammenhang mit Datenschutz- und Governancelösungen von Microsoft
+- skill: Erläutern des Inhalts- und Aktivitäts-Explorers
+- skill: Beschreiben der Verwendung vertraulicher Informationstypen und trainierbarer Klassifizierer
+- skill: Überprüfen und Analysieren von DLP-Berichten
+- skill: Ermitteln und Mindern von Verstößen gegen DLP-Richtlinien
+- skill: Beschreiben der Integration von DLP mit Microsoft Cloud App Security (MCAS)
+- skill: Bereitstellen von DLP für Endpunkte
+- skill: Beschreiben der Datensatzverwaltung
+- skill: Konfigurieren der ereignisgesteuerten Aufbewahrung
+- skill: Importieren eines Dateiplans
+- skill: Konfigurieren von Aufbewahrungsrichtlinien und Bezeichnungen
+- skill: Erstellen von benutzerdefinierten Schlüsselwörterbüchern
+- skill: Implementieren von Dokumentfingerabdrücken
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -39,89 +45,225 @@ products:
 - m365
 exams:
 - uid: exam.sc-400
-summary: |-
-  Erfahren Sie, wie man Informationen in Ihrer Microsoft 365-Bereitstellung schützt.Dieser Kurs konzentriert sich auf Daten-Governance und Informationsschutz in Ihrem Unternehmen. Der Kurs behandelt unter anderem die Implementierung von Richtlinien zur Verhinderung von Datenverlust, vertrauliche Informationstypen, Sensitivitätsbezeichnungen, Richtlinien zur Datenaufbewahrung und die Verschlüsselung von Office 365-Nachrichten. Der Kurs hilft den Teilnehmern, sich auf die Prüfung zum Microsoft Informationsschutz-Administrator (SC-400) vorzubereiten.
-  
-  #### Zielgruppenprofil
-  Der Informationsschutz-Administrator plant und implementiert Kontrollen, die die Compliance-Anforderungen des Unternehmens erfüllen.Diese Person ist dafür verantwortlich, Anforderungen und Compliance-Kontrollen technisch umzusetzen.Sie helfen den Eigentümern der Organisationskontrolle, konform zu werden und zu bleiben. Sie arbeiten mit IT-Mitarbeitern, Eigentümern von Geschäftsanwendungen, Mitarbeitern und rechtlichen Interessengruppen zusammen, um Technologien zu implementieren, die Richtlinien und Kontrollen unterstützen, die erforderlich sind, um die regulatorischen Anforderungen für ihr Unternehmen ausreichend zu erfüllen.Sie arbeiten auch mit der Compliance- und Sicherheitsleitung zusammen, z. B. einem Chief Compliance Officer und einem Sicherheitsbeauftragten, um die gesamte Breite des damit verbundenen Unternehmensrisikos zu bewerten, und diese Richtlinien zusammen zu entwickeln. Diese Person definiert geltende Anforderungen und testet IT-Prozesse und -Operationen anhand dieser Richtlinien und Kontrollen.Sie sind für die Erstellung von Richtlinien und Regeln für die Klassifizierung von Inhalten, die Verhinderung von Datenverlust, die Verwaltung und den Schutz verantwortlich.
-prerequisitesSection: |-
-  Vor dem Besuch dieses Kurses sollten Studenten Folgendes haben&#58; 
-  - Grundlegende Kenntnisse der Sicherheits- und Compliance-Technologien von Microsoft.
-  - Grundkenntnisse in Informationsschutzkonzepten.
-  - Verständnis von Cloud-Computing-Konzepten.
-  - Verständnis der Microsoft 365-Produkte und -Services.
-outlineSection: |-
-  ### Modul 1&#58; Implementieren des
-  Informationsschutzes in Microsoft 365 Unternehmen benötigen Informationsschutzlösungen, um ihre Daten vor Diebstahl und versehentlichem Verlust zu schützen.Erfahren Sie, wie Sie Ihre vertraulichen Informationen schützen. Erfahren Sie, wie Sie mit Microsoft 365-Lösungen zum Schutz und zur Verwaltung von Informationen Ihre Daten während ihres gesamten Lebenszyklus schützen und verwalten können - wo immer sie sich aufhalten oder wohin sie reisen.Erfahren Sie mehr über die verfügbaren Informationen, damit Sie Ihre Datenlandschaft besser verstehen und Ihre Daten kennen.Erfahren Sie, wie man vertrauliche Informationstypen verwendet, um Ihre Informationsschutzstrategie zu unterstützen.Erfahren Sie, wie man Sensitivitätsetiketten zum Klassifizieren und Schützen von Geschäftsdaten verwendet gleichzeitig sicherstellt, dass die Produktivität der Benutzer und ihre Fähigkeit zur Zusammenarbeit nicht beeinträchtigt werden.
-  #### Lektionen
-  - Einführung in den Schutz und die Verwaltung von Informationen in Microsoft 365
-  - Klassifizieren von Daten für Schutz und Governance
-  - Erstellen und Verwalten vertraulicher Informationsarten
-  - Beschreiben der Microsoft 365-Verschlüsselung
-  - Bereitstellen der Nachrichtenverschlüsselung in Office 365
-  - Konfigurieren von Sensitivitätsetiketten 
-  - Sensitivitätsetiketten anbringen und verwalten
-  
-  #### Lab&#58; Implementieren des Informationsschutzes 
-  - Weisen Sie Berechtigungen für die Konformität zu
-  - Verwalten der Office 365-Nachrichtenverschlüsselung
-  - Verwalten vertraulicher Informationsarten
-  - Verwalten trainierbarer Klassifikatoren
-  - Sensitivitätsetiketten verwalten
+summary: >-
+  Erfahren Sie, wie Sie Informationen in Ihrer Microsoft 365-Bereitstellung schützen. Dieser Kurs konzentriert sich auf Data Governance und Informationsschutz in Ihrem Unternehmen. In diesem Kurs werden u. a. die Implementierung von Richtlinien zur Vermeidung von Datenverlust, die Typen sensibler Informationen, Sensibilitätsbezeichnungen, Richtlinien zur Datenaufbewahrung und Verschlüsselung von Office 365-Nachrichten behandelt. Der Kurs hilft Teilnehmern bei der Vorbereitung auf die Prüfung zum Microsoft Information Protection Administrator (SC-400).
 
-  Nach Abschluss dieses Moduls können sind die Teilnehmer in der Lage&#58;
-  - den Ansatz von Microsoft zum Schutz und zur Verwaltung von Informationen zu beschreiben.
-  - die Komponenten der Datenklassifizierungslösung aufzulisten.
-  - zu beschreiben, wie man vertrauliche Informationstypen und trainierbare Klassifizierer verwendet.
-  - den Fingerabdruck von Dokumenten zu implementieren 
-  - benutzerdefinierte Schlüsselwortwörterbücher zu erstellen
-  - die Nachrichtenverschlüsselung in Office 365 bereitzustellen
-  
-  
-  ### Modul 2&#58; Implementieren der Verhinderung von Datenverlust in Microsoft 365
-  In diesem Modul wird erläutert, wie man Techniken zur Verhinderung von Datenverlust implementiert, um Ihre Microsoft 365-Daten zu schützen.Erfahren Sie, wie man vertrauliche und geschäftskritische Inhalte während ihres gesamten Lebenszyklus in Ihrem Unternehmen erkennt, klassifiziert und schützt. Erfahren Sie, wie man Richtlinien zur Verhinderung von Datenverlust konfiguriert, implementiert und in Microsoft Cloud-App Sicherheit integriert.Erfahren Sie, wie man auf Verstöße gegen Datenverlustrichtlinien reagiert und diese verringern kann.
-  #### Lektionen
-  - Datenverlust in Microsoft 365 verhindern
-  - Verhindern von Endpunkt-Datenverlust implementieren 
-  - DLP-Richtlinien für Microsoft Cloud App-Sicherheit und Power Platform konfigurieren 
-  - Verwalten von DLP-Richtlinien und Berichten in Microsoft 365
-  
-  #### Lab&#58; Verhinderung von Datenverlust implementieren 
-  - Verwalten von DLP-Richtlinien
-  - Endpunkt DLP verwalten
-  - DLP-Richtlinien testen
-  - DLP-Berichte verwalten
-  
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - den Konfigurationsprozess für den Informationsschutz zu beschreiben.
-  - Bewährte Praktiken für Bereitstellung und Einführung zu formulieren.
-  - Die Integration von DLP in Microsoft Cloud App Security (MCAS) zu beschreiben.
-  - Richtlinien in Microsoft Cloud App-Sicherheit zu konfigurieren.
-  - DLP-Berichte zu überprüfen und zu analysieren.
-  - Verstöße gegen DLP-Richtlinien zu identifizieren und zu verringern.
-  - Verringerung von DLP-Verstößen in MCAS.
-    
-    
-  ### Modul 3&#58; Implementieren von Information Governance in Microsoft 365
-  In diesem Modul lernen Sie, wie man Information Governance-Strategien für eine Organisation plant und implementiert.Erfahren Sie, wie Sie Ihren Content-Lebenszyklus mit Hilfe von Lösungen zum Importieren, Speichern und Klassifizieren geschäftskritischer Daten verwalten können, damit Sie behalten, was Sie benötigen, und löschen können, was Sie nicht benötigen. Erfahren Sie, wie man die Aufbewahrung bei Microsoft 365 verwaltet und wie Aufbewahrungslösungen in den einzelnen Microsoft 365-Services implementiert werden.Erfahren Sie, wie man mit Hilfe intelligenter Klassifizierung den Aufbewahrungsplan für behördliche, rechtliche und geschäftskritische Aufzeichnungen in Ihrem Unternehmen automatisieren und vereinfachen kann.
-  #### Lektionen
-  - Informationen in Microsoft 365 regeln
-  - Datenaufbewahrung in Microsoft 365-Workloads verwalten
-  - Verwalten von Datensätzen in Microsoft 365
 
-  #### Lab&#58; Information Governance implementieren 
-  - Konfigurieren von Aufbewahrungsetiketten
-  - Implementieren von Aufbewahrungsetiketten
-  - Service-basierte Aufbewahrung konfigurieren
-  - eDiscovery für die Wiederherstellung verwenden
-  - Datensatzverwaltung konfigurieren
-  
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - den Konfigurationsprozess für Information Governance zu beschreiben.
-  - bewährte Praktiken für Bereitstellung und Einführung zu formulieren.
-  - die Aufbewahrungsfunktionen in Microsoft 365-Workloads zu beschreiben.
-  - die Aufbewahrungseinstellungen in Microsoft Teams und SharePoint Online zu konfigurieren.
-  - die Aufbewahrung für Exchange-Postfachelemente zu implementieren.
-  - Inhalte wieder herzustellen, die durch Aufbewahrungseinstellungen geschützt sind.
-  - geschützte Elemente aus Exchange-Postfächern zurückzubekommen.
-  - Beschreiben des Konfigurationsprozesses für die Datensatzverwaltung.
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+
+  Information Protection-Administratoren planen und implementieren Kontrollen, um Complianceanforderungen der Organisation zu erfüllen. Diese Personen sind für die Umsetzung von Anforderungen und Konformitätskontrollen in die technische Implementierung verantwortlich. Sie unterstützen Besitzer der Organisationssteuerung dabei, Konformität zu erreichen und beizubehalten. Sie arbeiten mit IT-Mitarbeitern, Besitzern von Geschäftsanwendungen, der Personalabteilung und juristischen Projektbeteiligten zusammen, um Technologien zur Unterstützung von Richtlinien und Kontrollen zu implementieren, die zur ausreichenden Erfüllung gesetzlicher Anforderungen für ihre Organisation erforderlich sind. Sie arbeiten auch mit den leitenden Mitarbeitern für Compliance und Sicherheit zusammen, z. B. einem Chief Compliance Officer und Sicherheitsbeauftragten, um die gesamte Bandbreite des damit verbundenen Unternehmensrisikos zu bewerten und diese Richtlinien gemeinsam zu entwickeln. Diese Personen definieren die entsprechenden Anforderungen und testen IT-Prozesse und -Vorgänge anhand dieser Richtlinien und Kontrollen. Sie sind für das Erstellen von Richtlinien und Regeln für die Bereiche Inhaltsklassifizierung, Verhinderung von Datenverlust, Governance und Schutz verantwortlich.
+prerequisitesSection: >-
+  Vor der Teilnahme an diesem Kurs sollten die Teilnehmer über Folgendes verfügen:
+
+
+  *   Grundlegendes Wissen zu Technologien für Microsoft-Sicherheit und -Compliance
+
+
+  *   Grundlegende Kenntnisse über Information Protection-Konzepte
+
+
+  *   Kenntnisse über Cloud Computing Konzepte
+
+
+  *   Kenntnisse über Microsoft 365-Produkte und -Dienste
+outlineSection: >-
+  ### <a name="module-1-implement-information-protection-in-microsoft-365"></a>Modul 1: Implementieren von Information Protection in Microsoft 365
+
+
+  Organisationen benötigen Informationsschutzlösungen zum Schutz von Daten, um ihre Daten vor Diebstahl und versehentlichem Verlust zu schützen. Hier erfahren Sie, wie Sie Ihre vertraulichen Informationen schützen. Erfahren Sie, wie Sie mit den Microsoft 365-Lösungen für Information Protection und Governance Ihre Daten während ihres gesamten Lebenszyklus schützen und verwalten können, und zwar unabhängig davon, wo sie sich befinden oder wohin sie übertragen werden. Erfahren Sie mehr über die verfügbaren Informationen, die Ihnen helfen, Ihre Datenlandschaft zu verstehen und Ihre Daten zu kennen. Erfahren Sie, wie Sie Typen vertraulicher Informationen nutzen können, um Ihre Information Protection-Strategie zu unterstützen. Hier erfahren Sie, wie Vertraulichkeitsbezeichnungen verwendet werden, um Geschäftsdaten zu klassifizieren und zu schützen und gleichzeitig sicherzustellen, dass die Benutzerproduktivität und die Möglichkeit zur Zusammenarbeit nicht behindert werden.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Einführung in Information Protection und Governance in Microsoft 365
+
+
+  *   Klassifizieren von Daten für Schutz und Governance
+
+
+  *   Erstellen und Verwalten von Typen vertraulicher Informationen
+
+
+  *   Beschreiben der Microsoft 365-Verschlüsselung
+
+
+  *   Bereitstellen der Nachrichtenverschlüsselung in Office 365
+
+
+  *   Konfigurieren von Vertraulichkeitsbezeichnungen
+
+
+  *   Anwenden und Verwalten von Vertraulichkeitsbezeichnungen
+
+
+  #### <a name="lab--implement-information-protection"></a>Lab: Implementieren von Information Protection
+
+
+  ####
+
+
+  *   Zuweisen von Berechtigungen für Compliance
+
+
+  *   Verwalten der Office 365-Nachrichtenverschlüsselung
+
+
+  *   Verwalten vertraulicher Informationstypen
+
+
+  *   Verwalten trainierbarer Klassifizierer
+
+
+  *   Verwalten von Vertraulichkeitsbezeichnungen
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Beschreiben des Ansatzes von Microsoft Information Protection und Governance
+
+
+  *   Auflisten der Komponenten der Datenklassifizierungslösung
+
+
+  *   Beschreiben der Verwendung vertraulicher Informationstypen und trainierbarer Klassifizierer
+
+
+  *   Implementieren von Dokumentfingerabdrücken
+
+
+  *   Erstellen von benutzerdefinierten Schlüsselwörterbüchern
+
+
+  *   Bereitstellen der Nachrichtenverschlüsselung in Office 365
+
+
+  ### <a name="module-2-implement-data-loss-prevention-in-microsoft-365"></a>Modul 2: Implementieren der Verhinderung von Datenverlust in Microsoft 365
+
+
+  In Modul wird erläutert, wie Sie Verfahren zum Verhindern von Datenverlusten implementieren, um Ihre Microsoft 365-Daten zu schützen. Erfahren Sie, wie Sie vertrauliche und unternehmenskritische Inhalte während ihres gesamten Lebenszyklus in Ihrer Organisation ermitteln, klassifizieren und schützen. Erfahren Sie, wie Sie Richtlinien zur Verhinderung von Datenverlust konfigurieren und implementieren und in Microsoft Cloud App Security integrieren. Erfahren Sie, wie Sie auf Verstöße gegen Datenverlustrichtlinien reagieren und diese mindern können.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Verhindern von Datenverlust in Microsoft 365
+
+
+  *   Implementieren der Verhinderung von Datenverlust am Endpunkt
+
+
+  *   Konfigurieren von DLP-Richtlinien für Microsoft Cloud App Security und Power Platform
+
+
+  *   Verwalten von DLP-Richtlinien und -Berichten in Microsoft 365
+
+
+  #### <a name="lab--implement-data-loss-prevention"></a>Lab: Implementieren der Verhinderung von Datenverlust
+
+
+  ####
+
+
+  *   Verwalten von DLP-Richtlinien
+
+
+  *   Verwalten von DLP am Endpunkt
+
+
+  *   Testen von DLP-Richtlinien
+
+
+  *   Verwalten von DLP-Berichten
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Beschreiben des Konfigurationsprozesses für den Schutz von Informationen
+
+
+  *   Formulieren von Best Practices für Bereitstellung und Einführung
+
+
+  *   Beschreiben der Integration von DLP mit Microsoft Cloud App Security (MCAS)
+
+
+  *   Konfigurieren von Richtlinien in Microsoft Cloud App Security
+
+
+  *   Überprüfen und Analysieren von DLP-Berichten
+
+
+  *   Ermitteln und Mindern von Verstößen gegen DLP-Richtlinien
+
+
+  *   Mindern von DLP-Verstößen in MCAS
+
+
+  ### <a name="module-3-implement-information-governance-in-microsoft-365"></a>Modul 3: Implementieren von Information Governance in Microsoft 365
+
+
+  In diesem Modul erfahren Sie, wie Sie Strategien zur Information Governance für eine Organisation planen und implementieren. Erfahren Sie, wie Sie den Lebenszyklus Ihrer Inhalte mithilfe von Lösungen zum Importieren, Speichern und Klassifizieren geschäftskritischer Daten verwalten können, damit Sie die benötigten Daten behalten und die nicht benötigten löschen können. Erfahren Sie, wie Sie in Microsoft 365 die Aufbewahrung verwalten und wie Aufbewahrungslösungen in den einzelnen Microsoft 365-Diensten implementiert werden. Erfahren Sie, wie Sie mithilfe intelligenter Klassifizierung den Aufbewahrungsplan für gesetzliche, rechtliche und geschäftskritische Unterlagen in Ihrem Unternehmen automatisieren und vereinfachen können.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Information Governance in Microsoft 365
+
+
+  *   Verwalten der Datenaufbewahrung in Microsoft 365-Workloads
+
+
+  *   Verwalten von Datensätzen in Microsoft 365
+
+
+  #### <a name="lab--implement-information-governance"></a>Labe: Implementieren von Information Governance in Microsoft 365
+
+
+  ####
+
+
+  *   Konfigurieren von Aufbewahrungsbezeichnungen
+
+
+  *   Implementieren von Aufbewahrungsbezeichnungen
+
+
+  *   Konfigurieren der dienstbasierten Aufbewahrung
+
+
+  *   Verwenden von eDiscovery für die Wiederherstellung
+
+
+  *   Planen und Konfigurieren der Datensatzverwaltung
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Beschreiben des Konfigurationsprozesses für Information Governance
+
+
+  *   Formulieren von Best Practices für Bereitstellung und Einführung
+
+
+  *   Beschreiben der Aufbewahrungsfeatures in Microsoft 365-Workloads
+
+
+  *   Konfigurieren von Aufbewahrungseinstellungen in Microsoft Teams und SharePoint Online
+
+
+  *   Implementieren der Aufbewahrung für Exchange-Postfachelemente
+
+
+  *   Wiederherstellen der durch Aufbewahrungseinstellungen geschützten Inhalte
+
+
+  *   Wiederherstellen geschützter Elemente aus Exchange-Postfächern
+
+
+  *   Beschreiben des Konfigurationsprozesses für die Datensatzverwaltung

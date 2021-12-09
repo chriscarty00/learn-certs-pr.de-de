@@ -1,26 +1,32 @@
 ### YamlMime:Course
-title: Implementieren einer kontinuierlichen Integration
+title: Implementieren von Continuous Integration
 metadata:
-  title: 'Kurs AZ-400T02-A: Implementieren einer kontinuierlichen Integration'
-  description: 'Kurs AZ-400T02-A: Implementieren einer kontinuierlichen Integration'
+  title: 'Kurs AZ-400T02-A: Implementieren von Continuous Integration'
+  description: 'Kurs AZ-400T02-A: Implementieren von Continuous Integration'
+  ms.openlocfilehash: 8f198a82959980d166039e61b49b4fa7a5d073f0
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107626"
 uid: course.az-400t02
-courseNumber: 'AZ-400T02-A'
+courseNumber: AZ-400T02-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Erklären, warum kontinuierliche Integration wichtig ist
-- skill: Implementieren einer kontinuierlichen Integration mit Azure-Devops
-- skill: Builts und die vorhandenen Optionen konfigurieren
-- skill: Erstellen eines automatisierten Build Workflow
-- skill: Andere Build Tooling mit Azure-Devops integriert
-- skill: Hybride Built Prozesse erstellen
-- skill: Code Quality beschreiben und wie sie gemessen wird
-- skill: Code Smells erkennen
-- skill: Automatisiert Tests für Code Qualität integrieren
-- skill: Code Abdeckung während des Testens berichten
-- skill: Tooling um technische Tiefe zu messen, hinzufügen
-- skill: Open Source und andere Lizenzprobleme erkennen
-- skill: Implementierung einer Container-Build-Strategie
+- skill: Implementieren einer kontinuierlichen Integration mit Azure-DevOps
+- skill: Konfigurieren von Builds und verfügbare Optionen
+- skill: Erstellen eines automatisierten Buildworkflows
+- skill: Integrieren anderer Buildtools in Azure DevOps
+- skill: Implementieren hybrider Buildprozesse
+- skill: Beschreiben der Bedeutung von Codequalität und wie sie gemessen wird
+- skill: Erkennen von Code Smells
+- skill: Integrieren automatisierter Tests zur Codequalität
+- skill: Erstellen von Berichten zur Code Coverage während Tests
+- skill: Hinzufügen von Tools zum Messen technischer Schulden
+- skill: Erkennen von Open-Source- und anderen Lizenzierungsproblemen
+- skill: Implementieren einer Containerbuildstrategie
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -36,53 +42,84 @@ products:
 - azure-automation
 exams:
 - uid: exam.az-400
-summary: |-
-  Dieser Kurs bietet das Wissen und die benötigten Fähigkeiten um die DevOps Praktiken einer kontinuierlichen Integration zu implementieren. Die Teilnehmer lernen, wie die Inmplementation einer kontinuierlichen Integration in einer Azure-Devops Pipekein um Code Qualität und Sicherheitsprinzipien zu verwalten und wie Container-Build-Strategie implementiert wird.
-
-  #### Zielgruppenprofil
-  Die Teilnehmer des Kurses interessieren sich für DevOps kontinuierliche Integrationsprozesse oder dafür, die Microsoft Azure DevOps-Lösungen Zertifizierungsprüfungen zu bestehen.
-prerequisitesSection: |-
-  - Die Teilnehmer sollten fundamentales Wissen über Azure, Version Control, Agile Software Development und Core Software Entwicklungsprinzipen besitzen. Erfahrung in einer Organisation die Software liefert ist hilfreich.
-  - Es wird empfohlen, dass Sie Erfahrung mit der Arbeit in einer IDE und Kenntnisse über das Azure Portal besitzen. Die Teilnehmer, die keinen technischen Hintergrund in diesesn technologien haben, aber neugierig über DevOps Praktiken als Culture Shift sind, sollten den Prozeduren und den Erklärungen der kontinuierlischen Integration trotzdem folgen können.
-outlineSection: |-
-  ### Modul 1&#58; Implementieren einer kontinuierlichen Integration in einer Azure-Devops Pipeline
-  In diesem Modul werden Ihnen die kontinuierlichen Integrations Prinzipen vorgestellt, dazu gehörten&#58; Vorteilen, Herausforderungen Buil best practives und Implementationsschritte Sie lernen auch etwas über das Implementieren einer Build-Strategie mit Workflows, Triggern, Agents und Tools.
-  #### Lektionen
-  - Überblick über kontinuierliche Integration
-  - Implementieren einer Build-Strategie
+summary: >-
+  In diesem Kurs werden Kenntnisse und Fähigkeiten zum Implementieren der DevOps-Methoden von Continuous Integration vermittelt. Die Kursteilnehmer erfahren, wie sie Continuous Integration in einer Azure DevOps-Pipeline implementieren, Codequalitäts- und Sicherheitsprinzipien verwalten und eine Containerbuildstrategie implementieren.
 
 
-  #### Labor&#58; Continuous Integration mit Azure Pipelines ermöglichen
+  #### <a name="audience-profile"></a>Zielgruppenprofil
 
-  #### Labor&#58; Jenkins Build Job und Triggering CI erstellen
-  Nach Abschluss dieses Moduls, können die Teilnehmer&#58;
-  - erklären, warum kontinuierlliche Integration wichtig ist.
-  - Implementieren einer kontinuierlichen Integration mit Azure-Devops
+  Die Teilnehmer dieses Kurses möchten DevOps-Prozesse für Continuous Integration erlernen oder die Zertifizierungsprüfung für Microsoft Azure DevOps-Lösungen bestehen.
+prerequisitesSection: >-
+  - Die Teilnehmer sollten über grundlegendes Wissen zu Azure, zur Versionskontrolle, zur agilen Softwareentwicklung und zu grundlegenden Prinzipien der Softwareentwicklung verfügen. Es wäre hilfreich, Erfahrung in einem Unternehmen zu haben, das Software liefert.
 
+  - Es empfiehlt sich, über Erfahrung mit der Arbeit in einer IDE sowie über Kenntnisse des Azure-Portals zu verfügen. Kursteilnehmer, die zu diesen Technologien möglicherweise keine technischen Kenntnisse besitzen, aber an DevOps-Methoden als Kulturverschiebung interessiert sind, sollten den Vorgehensweisen und Erklärungen zu Continuous Integration dennoch folgen können.
+outlineSection: >-
+  ### <a name="module--158-implementing-continuous-integration-in-an-azure-devops-pipeline"></a>Modul 1&#58; Implementieren von Continuous Integration in einer Azure DevOps-Pipeline
 
-  ### Modul 2&#58; Verwaltung von Codequalitäts- und Sicherheitsrichtlinien
-  In diesem Modul lernen Sie etwas über die Verwaltung von Codequalität inklusive&#58; Technical debt, SonarCloud und andere Toolinglösungen Sie lernen außerdem das Verwalten der Sicherheitsrichtlinien mit Open Source, OWASP und WhiteSource Bolt.
-  #### Lektionen
-  - Codequalität verwalten
-  - Verwalten von Sicherheitsvorgängen
+  In diesem Modul werden die Prinzipien von Continuous Integration vorgestellt, darunter&amp;#58; Vorteile, Herausforderungen, bewährte Buildmethoden und Implementierungsschritte. Außerdem erfahren Sie mehr über die Implementierung einer Buildstrategie mit Workflows, Triggern, Agents und Tools.
 
+  #### <a name="lessons"></a>Lektionen
 
-  #### Labor&#58; Technical Debt mit Azure DevOps und SonarCloud verwalten
+  - Übersicht über Continuous Integration
 
-  #### Labor&#58; Vulnerabilities mit WhiteSource Bolt und Azure DevOps messen
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Codequalität inklusive&#58; Technical debt Sonar Cloud und anderen Toolingoptionen verwalten
-  - Sicherheitsrichtlinen mit open Source, OWASP und WhitesSource Bolt verwalten
-  - Codequalität inklusive&#58; Technical debt Sonar Cloud und anderen Toolingoptionen verwalten
+  - Implementieren einer Buildstrategie
 
 
-  ### Modul 3&#58; Implementierung einer Container-Build-Strategie
-  In diesem Modul lernen Sie wie Container Strategien implementiert werden, dazu gehört wie sich Container von virtuellen Maschinen unterscheiden und wie mikroservices Container verwenden. Sie lernen außerdem wie Container mit Docker implementiert werden
-  #### Lektionen
-  - Implementierung einer Container-Build-Strategie
+
+  #### <a name="lab-58-enabling-continuous-integration-with-azure-pipelines"></a>Lab&#58; Aktivieren von Continuous Integration mit Azure Pipelines
 
 
-  #### Labor&#58; Existing .NET Applications mit Azure und Docker Images
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Eine Container Strategie implementieren und den Unterschied zwischen virtuellen Maschinen und wie Mikroservices Container nutzen, kennen.
-  - Container mit Docker implementieren
+  #### <a name="lab-58-creating-a-jenkins-build-job-and-triggering-ci"></a>Lab&#58; Erstellen eines Jenkins-Buildauftrags und Auslösen von CI
+
+  Nach Abschluss dieses Moduls die Teilnehmer:
+
+  - Erklären der Bedeutung von Continuous Integration
+
+  - Implementieren einer kontinuierlichen Integration mit Azure-DevOps
+
+
+
+  ### <a name="module--258-managing-code-quality-and-security-policies"></a>Modul 2&#58; Verwalten von Codequalität und Sicherheitsrichtlinien
+
+  In diesem Modul erlernen Sie das Verwalten der Codequalität, einschließlich technischer Schulden, SonarCloud und anderer Toollösungen. Außerdem erfahren Sie, wie Sicherheitsrichtlinien mit Open Source, OWASP und WhiteSource Bolt verwaltet werden.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Verwalten von Codequalität
+
+  - Verwalten von Sicherheitsrichtlinien
+
+
+
+  #### <a name="lab-58-managing-technical-debt-with-azure-devops-and-sonarcloud"></a>Lab&#58; Verwalten technischer Schulden mit Azure DevOps und SonarCloud
+
+
+  #### <a name="lab-58-checking-vulnerabilities-using-whitesource-bolt-and-azure-devops"></a>Lab&#58; Überprüfen von Sicherheitsrisiken mithilfe von WhiteSource Bolt und Azure DevOps
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Verwalten der Codequalität, einschließlich technischer Schulden, SonarCloud und anderer Toollösungen
+
+  - Verwalten von Sicherheitsrichtlinien mit Open Source, OWASP und WhiteSource Bolt
+
+  - Verwalten der Codequalität, einschließlich technischer Schulden, SonarCloud und anderer Toollösungen
+
+
+
+  ### <a name="module--358-implementing-a-container-build-strategy"></a>Modul 3&#58; Implementieren einer Containerbuildstrategie
+
+  In diesem Modul erfahren Sie, wie Sie eine Containerstrategie implementieren, unter Berücksichtigung der Unterschiede zwischen Containern und VMs und der Verwendung von Containern durch Microservices. Außerdem erlernen Sie die Implementierung von Containern mithilfe von Docker.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Implementieren einer Containerbuildstrategie
+
+
+
+  #### <a name="lab-58-existing-net-applications-with-azure-and-docker-images"></a>Lab&#58; Vorhandene .NET-Anwendungen mit Azure und Docker-Images
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Umsetzen einer Containerstrategie unter Berücksichtigung der Unterschiede zwischen Containern und VMs und der Verwendung von Containern durch Microservices
+
+  - Implementieren von Containern mithilfe von Docker

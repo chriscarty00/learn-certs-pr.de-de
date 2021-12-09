@@ -1,53 +1,59 @@
 ---
-title: Greifen Sie auf Ihr Zertifizierungs-Dashboard zu | Microsoft Docs
-description: 'Greifen Sie auf Ihr Zertifizierungs-Dashboard zu' 
-documentationcenter: NA 
-author: venkatorugantimsft
+title: Zugreifen auf Ihr Zertifizierungsdashboard | Microsoft-Dokumentation
+description: Zugreifen auf Ihr Zertifizierungsdashboard
+documentationcenter: NA
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 03/31/2021
-ms.author: venkato
+ms.author: msulliv
 ms.prod: non-product-specific
+ms.openlocfilehash: 57d22322e84905c3233363cfc230d8176e23dcca
+ms.sourcegitcommit: 08b1477e165d72ac5f008313afadd7374dd2fa49
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 09/19/2021
+ms.locfileid: "132112565"
 ---
-# Greifen Sie auf Ihr Zertifizierungs-Dashboard zu
+# <a name="access-your-certification-dashboard"></a>Zugreifen auf Ihr Zertifizierungsdashboard
 
-## Was ist ein Zertifizierungs-Dashboard?
+## <a name="what-is-the-certification-dashboard"></a>Was ist das Zertifizierungsdashboard?
 
-In Ihrem [Microsoft-Zertifizierungs-Dashboard](https://www.microsoft.com/learning/dashboard.aspx) finden Sie alle Ihre persönlichen zertifizierungsbezogenen Informationen. Sie können dort Ihr Profil aktualisieren, Ihre Microsoft-Zertifizierungsnummer (MCID) finden und Ihr Microsoft-Zertifizierungstranskript erhalten. Hier finden Sie alles rund um Ihre Zertifizierungen.
+Ihr [Microsoft-Zertifizierungsdashboard](https://www.microsoft.com/learning/dashboard.aspx) ist die Basis für all Ihre persönlichen Zertifizierungsinformationen. Hier aktualisieren Sie Ihr Profil, finden Ihre MCID (Microsoft Certification Identification Number) und rufen Ihr Microsoft-Zertifizierungstranskript ab. An dieser Stelle finden Sie alle Informationen rund um Ihre Zertifizierungen.
 
-## So greifen Sie auf Ihr Zertifizierungs-Dashboard zu
+## <a name="how-to-access-your-certification-dashboard"></a>Zugreifen auf Ihr Zertifizierungsdashboard
 
-1. Sie können von jedem der folgenden Orte aus auf Ihr Zertifizierungs-Dashboard zugreifen:
-    - Unterhalb der Beschreibung auf jeder Seite mit Zertifizierungs- oder Prüfungsdetails in Microsoft Learn.
+1. Sie können von einer der folgenden Stellen aus auf Ihr Zertifizierungsdashboard zugreifen:
+    - Unterhalb der Beschreibung auf einer beliebigen Seite mit Zertifizierungs- oder Prüfungsdetails auf Microsoft Learn.
 <br/>
 <br/>
-![Greifen Sie auf das Zertifizierungs-Dashboard unterhalb der Beschreibung zu](images/access-certification-dashboard-1.png)
+![Zugreifen auf das Zertifizierungsdashboard unterhalb der Beschreibung](images/access-certification-dashboard-1.png)
 <br/>
 <br/>
-    - Auf der Zertifizierungsübersicht befindet sich in der oberen rechten Ecke ein Link „Zum Zertifizierungs-Dashboard gelangen“.
+    - In der Übersicht „Zertifizierungen“ in der oberen rechten Ecke befindet sich ein Link „Zum Zertifizierungsdashboard wechseln“.
 <br/>
 <br/>
-![Greifen Sie auf das Zertifizierungs-Dashboard in der Zertifizierungsübersicht zu](images/access-certification-dashboard-2.png)
+![Zugreifen auf das Zertifizierungsdashboard in der Zertifizierungsübersicht](images/access-certification-dashboard-2.png)
 <br/>
 <br/>
-    – Im Abschnitt „Zertifizierungen“ Ihres Microsoft Learn-Profils.
+    - Im Abschnitt „Zertifizierungen“ Ihres Microsoft Learn-Profils.
 <br/>
 <br/>
-![Greifen Sie im Zertifizierungsabschnitt des Microsoft Learn-Profils auf das Zertifizierungs-Dashboard zu](images/access-certification-dashboard-3.png)
+![Zugreifen auf das Zertifizierungsdashboard im Abschnitt „Zertifizierungen“ des Microsoft Learn-Profils](images/access-certification-dashboard-3.png)
 <br/>
 <br/>
 
-2. Melden Sie sich mit dem Microsoft-Account (Windows Live ID) und dem Kennwort an, mit dem Sie Ihr Microsoft-Zertifizierungsprofil erstellt haben.
+2. Melden Sie sich mit dem Microsoft-Konto und dem Kennwort an, mit dem Sie Ihr Microsoft-Zertifizierungsprofil erstellt haben.
 
-## So aktualisieren Sie Ihr Zertifizierungsprofil
+## <a name="how-to-update-your-certification-profile"></a>Aktualisieren Ihres Zertifizierungsprofils
 
-Gehen Sie auf: [Ihr Zertifizierungsprofil verwalten](/learn/certifications/manage-certification-profile) für detaillierte Anweisungen.
+Ausführliche Anweisungen finden Sie unter [Verwalten Ihres Zertifizierungsprofils](/learn/certifications/manage-certification-profile).
 
-## Ihr Microsoft-Account aktiv halten
+## <a name="keeping-your-microsoft-account-active"></a>Aufrechterhalten des aktiven Status Ihres Microsoft-Kontos
 
-Um weiterhin auf Ihr Zertifizierungs-Dashboard zugreifen zu können, müssen Sie Ihr Microsoft-Account aktiv halten. Sie können es aktiv halten, indem Sie sich mindestens alle zwei Jahre bei Ihrem Microsoft-Konto anmelden. Sobald Ihr Account inaktiv wird, müssen Sie sich an den Support wenden, damit Ihnen bei einem Wiederherstellungsprozess geholfen wird und Sie wieder auf Ihre Zertifizierungsinformationen zugreifen können.
+Damit Sie dauerhaft auf das Zertifizierungsdashboard zugreifen können, müssen Sie den aktiven Status Ihres Microsoft-Kontos aufrechterhalten. Sie können den aktiven Status des Kontos aufrechterhalten, indem Sie sich mindestens alle zwei Jahre bei Ihrem Microsoft-Konto anmelden. Wenn Ihr Konto inaktiv wird, müssen Sie sich möglicherweise an den Support wenden, damit dieser Sie beim Wiederherstellungsprozess unterstützen kann, sodass Sie wieder auf Ihre Zertifizierungsinformationen zugreifen können.
 
-## Stellen Sie Ihre verlorenen oder vergessenen Microsoft-Zertifizierungsnachweise wieder her
+## <a name="recover-your-lost-or-forgotten-microsoft-certification-credentials"></a>Wiederherstellen verlorener oder vergessener Anmeldeinformationen für Microsoft-Zertifizierungen
 
-Sie können Unterstützung in unseren moderierten Supportforen anfordern. Besuchen Sie: [Zertifizierungsbegleitung](/learn/certifications/help) für detaillierte Anweisungen.
+Sie können Support in unseren moderierten Supportforen anfordern. Ausführliche Anweisungen finden Sie unter [Zertifizierungsbegleitung](/learn/certifications/help).

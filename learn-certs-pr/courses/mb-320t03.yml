@@ -1,10 +1,16 @@
 ### YamlMime:Course
-title: Konfigurieren und Verwenden von diskreter Fertigung in Dynamics 365 für Finanzen und Betrieb
+title: Konfigurieren und Verwenden der Prozessfertigung in Dynamics 365 Finance and Operations
 metadata:
-  title: 'Kurs MB-320T03-A: Konfigurieren und Verwenden von diskreter Fertigung in Dynamics 365 für Finanzen und Betrieb'
-  description: 'Kurs MB-320T03-A: Konfigurieren und Verwenden von diskreter Fertigung in Dynamics 365 für Finanzen und Betrieb'
+  title: 'Kurs MB-320T03-A: Konfigurieren und Verwenden der Prozessfertigung in Dynamics 365 Finance and Operations'
+  description: 'Kurs MB-320T03-A: Konfigurieren und Verwenden der Prozessfertigung in Dynamics 365 Finance and Operations'
+  ms.openlocfilehash: a4e4b5a790df9987212aee5831d88b58e95999e4
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107283"
 uid: course.mb-320t03
-courseNumber: 'MB-320T03-A'
+courseNumber: MB-320T03-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
@@ -15,75 +21,121 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance-operations
 exams:
 - uid: exam.mb-320
-summary: |-
-  Unternehmen verwenden Dynamics 365 for Finance und Operations, um mit verknüpften Abläufen intelligenter zu arbeiten, und dabei die am besten geeigneten Fertigungsprozesse auswählen, Betriebsabläufe verbessern, das Ressourcenmanagement vereinfachen, die Produktlieferung beschleunigen und Qualität und Kundenzufriedenheit steigern.
-  In diesem Kurs wird erläutert, wie man die Prozessverarbeitung in Dynamics 365 for Finance and Operations konfiguriert und verwendet.
-prerequisitesSection: |-
-  Grundlegendes Verständnis von ERP- und CRM-Konzepten.
-outlineSection: |-
-  ### Modul 1&#58; Erste Schritte in der Prozessverarbeitung
-  Dieses Thema behandelt den Einstieg in die Prozessverarbeitung in Finance and Operations.
-  #### Lektionen
+summary: >-
+  Organisationen verwenden Dynamics 365 Finance and Operations zur intelligenteren Ausführung verbundener Vorgänge, indem sie die am besten geeigneten Fertigungsprozesse auswählen, betriebliche Verfahren verbessern, die Ressourcenverwaltung vereinfachen, die Produktbereitstellung beschleunigen und die Qualität und Kundenzufriedenheit erhöhen.
+
+  In diesem Kurs wird erläutert, wie Sie die Prozessfertigung in Dynamics 365 Finance and Operations konfigurieren und verwenden.
+prerequisitesSection: Grundkenntnisse der ERP- und CRM-Konzepte
+outlineSection: >-
+  ### <a name="module--158-get-started-with-process-manufacturing"></a>Modul 1&#58; Erste Schritte mit der Prozessfertigung
+
+  Dieses Thema behandelt den Einstieg in die Prozessfertigung in Finance and Operations.
+
+  #### <a name="lessons"></a>Lektionen
+
   - Einführung
+
   - Prozessverarbeitung verstehen
-  - Formelverwaltung verstehen
-  - Neben- und Abfallprodukte verstehen
-  - Zugelassene Anbieter konfigurieren
-  - Übungslabore
-  - Modulübersicht
+
+  - Grundlegendes zur Formelverwaltung
+
+  - Grundlegendes zu Kuppel- und Nebenprodukten
+
+  - Konfigurieren genehmigter Anbieter
+
+  - Übungs-Labs
+
+  - Zusammenfassung des Moduls
 
 
-  In diesem Modul lernten die Studenten etwas über&#58;
+
+  In diesem Modul haben die Kursteilnehmer Folgendes gelernt&#58;
+
   - Prozessverarbeitung verstehen
-  - Formelverwaltung verstehen
-  - Neben- und Abfallprodukte verstehen
-  - Zugelassene Anbieter verstehen
+
+  - Grundlegendes zur Formelverwaltung
+
+  - Grundlegendes zu Kuppel- und Nebenprodukten
+
+  - Grundlegendes zu genehmigten Anbietern
 
 
-  ### Modul 2&#58; Identifizieren und Konfigurieren von Chargenattributen für die Prozessverarbeitung
+
+  ### <a name="module--258-identify-and-configure-batch-attributes-for-process-manufacturing"></a>Modul 2&#58; Identifizieren und Konfigurieren von Chargenattributen für die Prozessfertigung
+
   Zu diesem Thema wird das Konfigurieren von Chargenattributen in Finance and Operations erläutert.
 
-  #### Lektionen
+
+  #### <a name="lessons"></a>Lektionen
+
   - Einführung
+
   - Identifizieren und Konfigurieren von Chargenattributen
+
   - Erstellen und Konfigurieren von Artikeln mit ungefährem Gewicht
-  - Potenzverwaltung einrichten
-  - Übungslabore
-  - Modulübersicht
+
+  - Einrichten der Potenzverwaltung
+
+  - Übungs-Labs
+
+  - Zusammenfassung des Moduls
 
 
-  In diesem Modul lernten die Studenten etwas über&#58;
+
+  In diesem Modul haben die Kursteilnehmer Folgendes gelernt&#58;
+
   - Verstehen von Batchattributen
+
   - Identifizieren und Konfigurieren von Chargenattributen
-  - Steuerungsprozesse für Lots und Chargen
-  - Konfigurieren der Chargen-Nachbearbeitung
+
+  - Verstehen von Steuerungsprozessen für Partien und Chargen
+
+  - Konfigurieren der Chargennachbearbeitung
 
 
-  ### Modul 3&#58; Rohstoffpreise und Produkt-Compliance konfigurieren
+
+  ### <a name="module--358-configure-commodity-pricing-and-product-compliance"></a>Modul 3&#58; Konfigurieren von Rohstoffpreisen und Produktkonformität
+
   Zu diesem Thema wird erläutert, wie man mit Rohstoffpreisen und Compliance in Finance and Operations arbeitet.
-  #### Lektionen
+
+  #### <a name="lessons"></a>Lektionen
+
   - Einführung
+
   - Rohstoffpreise konfigurieren
-  - Produkt-Compliance konfigurieren
-  - Übungslabore
-  - Modulübersicht
+
+  - Konfigurieren der Produktkonformität
+
+  - Übungs-Labs
+
+  - Zusammenfassung des Moduls
 
 
-  In diesem Modul lernten die Studenten etwas über&#58;
+
+  In diesem Modul haben die Kursteilnehmer Folgendes gelernt&#58;
+
   - Rohstoffpreise konfigurieren
-  - Produkt-Compliance konfigurieren
+
+  - Konfigurieren der Produktkonformität
 
 
-  ### Modul 4&#58; Abschluss des Kurses
+
+  ### <a name="module--458-course-conclusion"></a>Modul 4&#58; Abschluss des Kurses
+
   Abschließende Bewertung und Kurszusammenfassung sowie eine Umfrage nach dem Kurs.
-  #### Lektionen
+
+  #### <a name="lessons"></a>Lektionen
+
   - Abschließende Bewertung
+
   - Kurszusammenfassung
+
   - Umfrage nach dem Kurs
+
 
 
   Die Kursteilnehmer haben den Kurs abgeschlossen.

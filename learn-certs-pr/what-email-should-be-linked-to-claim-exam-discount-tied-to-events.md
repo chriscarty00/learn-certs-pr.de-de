@@ -1,7 +1,7 @@
 ---
-title: 'Welche E-Mail sollte verlinkt sein, um einen an Veranstaltungen gebundenen Prüfungsrabatt zu erhalten? | Microsoft Docs'
-description: 'Welche E-Mail sollte verlinkt sein, um einen an Veranstaltungen gebundenen Prüfungsrabatt zu erhalten?' 
-documentationcenter: NA 
+title: Welche E-Mail-Adresse sollte verknüpft werden, um einen an Veranstaltungen gebundenen Prüfungsrabatt in Anspruch zu nehmen? | Microsoft-Dokumentation
+description: Welche E-Mail-Adresse sollte verknüpft werden, um einen an Veranstaltungen gebundenen Prüfungsrabatt in Anspruch zu nehmen?
+documentationcenter: NA
 author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
@@ -9,17 +9,23 @@ ms.workload: NA
 ms.date: 10/15/2020
 ms.author: msulliv
 ms.prod: non-product-specific
+ms.openlocfilehash: 42ca3c3ae2a8f91ed4aedd8a9687d45125d61e04
+ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 09/14/2021
+ms.locfileid: "132112184"
 ---
-# Welche E-Mail sollte verlinkt sein, um einen an Veranstaltungen gebundenen Prüfungsrabatt zu erhalten?
+# <a name="what-email-should-be-linked-to-claim-exam-discount-tied-to-events"></a>Welche E-Mail-Adresse sollte verknüpft werden, um einen an Veranstaltungen gebundenen Prüfungsrabatt in Anspruch zu nehmen?
 
-Für ausgewählte Microsoft-Veranstaltungen erhalten Teilnehmer möglicherweise einen Rabatt auf die Microsoft-Zertifizierungsprüfung. Je nach Veranstaltung kann die E-Mail-Adresse, die Sie eingeben müssen, um nach berechtigten Rabatten zu suchen, unterschiedlich sein. Bitte verwenden Sie die folgende Tabelle, um zu sehen, ob die Veranstaltung in Frage kommt, und die entsprechenden Anweisungen, wie Sie Ihren Rabatt einfordern können:
+Bei ausgewählten Microsoft-Veranstaltungen haben Teilnehmer möglicherweise Anspruch auf einen Rabatt auf die Microsoft-Zertifizierungsprüfung. Je nach Veranstaltung müssen Sie möglicherweise eine andere E-Mail-Adresse eingeben, um Ihren Anspruch auf Rabatte zu überprüfen. In der nachfolgenden Tabelle können Sie überprüfen, ob für die Veranstaltung ein Rabattanspruch gilt und wie dieser ggf. angefordert werden kann:
 
-| Veranstaltungen | Anweisung, welche E-Mail eingegeben werden soll |
+| Ereignisse | Anweisung zur einzugebenden E-Mail-Adresse |
 | --- | --- |
-| [Microsoft Ignite September 2019](/learn/certifications/microsoft-ignite-free-certification-exam-offer?WT.mc_id=msignitethetour2019_akawwlflag_-email-event) | E-Mail, mit der Sie sich für die Veranstaltung registriert haben |
-| [Microsoft Ignite the Tour 2019-2020](/learn/certifications/microsoft-ignite-free-certification-exam-offer) | E-Mail, mit der Sie sich für die Veranstaltung registriert haben |
-| [Microsoft Build Mai 2020](/learn/certifications/microsoft-build-cloud-skills-challenge-2020-free-certification-exam-offer) (Virtueller Event) | E-Mail, mit der Sie sich für die Veranstaltung registriert haben |
-| Microsoft virtueller Schulungstag - Azure-Grundlagen | E-Mail, mit der Sie sich für die Veranstaltung registriert haben |
-| Microsoft virtueller Schulungstag - Grundlagen der Dynamik | E-Mail, mit der Sie sich für die Veranstaltung registriert haben |
-| Microsoft virtueller Schulungstag - Grundlagen der Power Plattform | E-Mail, mit der Sie sich für die Veranstaltung registriert haben |
-| [Microsoft Ignite September 2020](/learn/certifications/microsoft-ignite-cloud-skills-challenge-2020-free-certification-exam) (Virtueller Event) | E-Mail, mit der Sie die Cloud Skills Challenge zum Lernen abgeschlossen haben (E-Mail zum Lernprofil) |
+| [Microsoft Ignite, September 2019](/learn/certifications/microsoft-ignite-free-certification-exam-offer?WT.mc_id=msignitethetour2019_akawwlflag_-email-event) | E-Mail-Adresse, die Sie zum Registrieren für das Ereignis verwendet haben |
+| [Microsoft Ignite The Tour 2019–2020](/learn/certifications/microsoft-ignite-free-certification-exam-offer) | E-Mail-Adresse, die Sie zum Registrieren für das Ereignis verwendet haben |
+| [Microsoft Build, Mai 2020](/learn/certifications/microsoft-build-cloud-skills-challenge-2020-free-certification-exam-offer) (virtuelle Veranstaltung) | E-Mail-Adresse, die Sie zum Registrieren für das Ereignis verwendet haben |
+| Microsoft Virtual Training Day – Azure Fundamentals | E-Mail-Adresse, die Sie zum Registrieren für das Ereignis verwendet haben |
+| Microsoft Virtual Training Day – Dynamics Fundamentals | E-Mail-Adresse, die Sie zum Registrieren für das Ereignis verwendet haben |
+| Microsoft Virtual Training Day – Power Platform Fundamentals | E-Mail-Adresse, die Sie zum Registrieren für das Ereignis verwendet haben |
+| [Microsoft Ignite, September 2020](/learn/certifications/microsoft-ignite-cloud-skills-challenge-2020-free-certification-exam) (virtuelle Veranstaltung) | E-Mail-Adresse, die Sie zum Abschließen der Cloud Skills Challenge auf Learn verwendet haben (E-Mail-Adresse im Learn-Profil) |

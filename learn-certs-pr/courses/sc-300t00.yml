@@ -1,17 +1,23 @@
 ### YamlMime:Course
 title: Microsoft Identity and Access Administrator
 metadata:
-  title: 'Course SC-300T00-A: Microsoft Identity and Access Administrator'
-  description: 'Course SC-300T00-A: Microsoft Identity and Access Administrator'
+  title: 'Kurs SC-300T00--A: Microsoft Identity and Access Administrator'
+  description: 'Kurs SC-300T00--A: Microsoft Identity and Access Administrator'
+  ms.openlocfilehash: efcc191b456e8d0dba29b1d048a0dbb0b8a393f0
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132106970"
 uid: course.sc-300t00
-courseNumber: 'SC-300T00-A'
+courseNumber: SC-300T00
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Implementieren einer Identitätsverwaltungslösung
-- skill: Implementieren einer Authentifizierungs- und Zugriffsverwaltungslösung
+- skill: Implementieren einer Lösung für die Identitätsverwaltung
+- skill: Implementieren einer Lösung für Authentifizierung und Zugriffsverwaltung
 - skill: Implementieren der Zugriffsverwaltung für Apps
-- skill: Planen und implementieren einer Strategie zur Identitätskontrolle
+- skill: Planen und Implementieren einer Strategie für Identity Governance
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -26,139 +32,360 @@ products:
 - azure
 exams:
 - uid: exam.sc-300
-summary: |-
-  Dieser Kurs vermittelt IT-Identity and Access Professional zusammen mit IT Security Professional das Wissen und die Fähigkeiten, die zur Implementierung von Identitätsverwaltungslösungen auf Basis von Microsoft Azure AD erforderlich sind, und es verbindet Identitätstechnologien. Dieser Kurs umfasst Identitätsinhalte für Azure AD, Registrierung von Unternehmensanwendungen, bedingten Zugriff, Identitätsverwaltung und andere Identitätstools.
-
-  #### Zielgruppenprofil
-  Dieser Kurs richtet sich an Identitäts- und Zugriffsadministratoren, die die zugehörige Zertifizierungsprüfung ablegen möchten oder in ihrer täglichen Arbeit Identitäts- und Zugriffsverwaltungsaufgaben ausführen. Dieser Kurs ist auch für Administratoren oder Ingenieure hilfreich, die sich auf die Bereitstellung von Identitätslösungen und Zugriffsverwaltungssystemen für Azure-basierte Lösungen spezialisieren möchten, die eine wesentliche Rolle beim Schutz eines Unternehmens spielen.
-prerequisitesSection: |-
-  Vor der Teilnahme an diesem Kurs sollten die Studenten über folgende Kenntnisse verfügen&#58;
-  - Bewährte Praktiken für die Sicherheit und Sicherheitsanforderungen der Branche, z. B. Tiefenverteidigung, Zugriff mit den geringsten Berechtigungen, gemeinsame Verantwortung und Null-Vertrauens-Modell.
-  - Machen Sie sich mit Identitätskonzepten wie Authentifizierung, Autorisierung und Active Directory vertraut.
-  - Erfahrung in der Bereitstellung von Azure-Workloads. Dieser Kurs behandelt nicht die Grundlagen der Azure-Verwaltung, sondern der Kursinhalt baut auf diesem Wissen auf und vermittelt weitere sicherheitsspezifische Informationen.
-  - Erfahrung mit Windows- und Linux-Betriebssystemen und Skriptsprachen sind hilfreich, aber nicht erforderlich. In Kurslabs können PowerShell und die CLI verwendet werden.
-  
-  Vorausgesetzte Kurse (oder gleichwertiges Wissen und praktische Erfahrung)&#58;
-  
-  Dieses kostenlose Online-Training vermittelt Ihnen die Erfahrung, die Sie benötigen, um in diesem Kurs erfolgreich zu sein.
-  - [SC-900 Teil 1&#58; Beschreiben der Konzepte für Sicherheit, Compliance und Identität - Lernen | Microsoft Docs](/learn/paths/describe-concepts-of-security-compliance-identity/)
-  - [SC-900 Teil 2&#58; Beschreiben der Funktionen von Microsoft Identity und Zugreifen auf Verwaltungslösungen - Learn | Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-identity-access/)
-  - [SC-900 Teil 3&#58; Beschreiben der Funktionen von Microsoft security Lösungen- Learn | Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-security-solutions/)
-  - [SC-900 Teil 4&#58; Beschreiben der Funktionen von Microsoft-Compliance-Lösungen - Learn | Microsoft Docs](/learn/path/beschreiben-Fähigkeiten-von-Microsoft-Compliance-Lösungen/)
-  - [AZ-104&#58; Verwalten von Identitäten und Governance in Azure - Learn | Microsoft Docs](/learn/paths/az-104-manage-identities-governance/)
-outlineSection: |-
-  ### Modul 1&#58; Implementieren einer Identitätsverwaltungslösung
-  Erfahren Sie, wie Sie Ihre anfängliche Azure Active Directory-Implementierung (Azure AD)erstellen und verwalten und die Benutzer, Gruppen und externen Identitäten konfigurieren, die Sie zum Ausführen Ihrer Lösung verwenden.
-  #### Lektionen
-  - Implementieren der Erstkonfiguration von Azure AD
-  - Identitäten erstellen, konfigurieren und verwalten
-  - Implementierung und Verwaltung externer Identitäten
-  - Implementierung und Verwaltung der hybriden Identität
-
-  #### Lab&#58; Benutzerrollen verwalten
-
-  #### Lab&#58; Festlegen mandantenweiter Eigenschaften
-
-  #### Lab&#58; Weisen Sie Benutzern Lizenzen zu
-
-  #### Lab&#58; Gelöschte Benutzer wiederherstellen oder entfernen
-
-  #### Lab&#58; Fügen Sie Gruppen in Azure AD hinzu
-  
-  #### Lab&#58; Ändern Sie die Gruppenlizenzzuweisungen
-
-  #### Lab&#58; Benutzerlizenzzuweisungen ändern
-
-  #### Lab&#58; Konfigurieren Sie die externe Zusammenarbeit
-
-  #### Lab&#58; Fügen Sie dem Verzeichnis Gastbenutzer hinzu
-
-  #### Lab&#58; Untersuchen Sie dynamische Gruppen
-
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - Bereitstellen einer ersten Azure AD  mit benutzerdefinierten Einstellungen
-  - sowohl interne als auch externe Identitäten verwalten
-  - eine hybride Identitätslösung zu verwalten
+summary: >-
+  Dieser Kurs vermittelt Fachleuten für IT-Identität und -Zugriff sowie für IT-Sicherheit die Kenntnisse und Fertigkeiten, die für die Implementierung von Identitätsverwaltungslösungen auf Grundlage von Microsoft Azure AD und den damit verbundenen Identitätstechnologien erforderlich sind. Dieser Kurs umfasst identitätsbezogene Inhalte für Azure AD, die Registrierung von Unternehmensanwendungen, bedingten Zugriff, Identity Governance und andere Identitätstools.
 
 
-  ### Modul 2&#58; Implementieren Sie eine Authentifizierungs- und Zugriffsverwaltungslösung
-  Implementieren und verwalten Ihrer Zugriffsverwaltung mit Azure AD. Verwenden von MFA, bedingtem Zugriff und Identitätsschutz, um Ihre Identitätslösung zu verwalten.
-  #### Lektionen
-  - Sicheren Azure AD-Benutzer mit MFA
-  - Benutzerauthentifizierung verwalten 
-  - Bedingten Zugriff planen, implementieren und verwalten
-  - Verwalten des Azure AD-Identitätsschutzes
-
-  #### Lab&#58; Azure AD MFA aktivieren
-  
-  #### Lab&#58; Selbständig Kennwort zurücksetzen (SSPR) konfigurieren und bereitstellen
-    
-  #### Lab&#58; Arbeiten mit Sicherheitsstandards
-
-  #### Lab&#58; Implementieren von Richtlinien, Rollen und Zuweisungen für den bedingten Zugriff
-
-  #### Lab&#58; Konfigurieren von Steuerelementen für Authentifizierungssitzungen
-
-  #### Lab&#58; Verwalten der Azure AD-Smart Verriegelungs-Werte
-  
-  #### Lab&#58; Aktivieren der Anmelderisikorichtlinien
-  
-  #### Lab&#58; Konfigurieren der Registrierungsrichtlinien für die Azure ADMFA-Authentifizierung 
-  
-  Nach Abschluss des Moduls sind die Teilnehmer in der Lage&#58;
-  - die Benutzerauthentifizierung, einschließlich MFA, zu konfigurieren und zu verwalten
-  - den Zugriff auf Ressourcen mit Hilfe des bedingten Zugriffs zu steuern
-  - den Azure AD-Identitätsschutz zu verwenden, um Ihr Unternehmen zu schützen
+  #### <a name="audience-profile"></a>Zielgruppenprofil
 
 
-  ### Modul 3&#58; Implementieren der Zugriffsverwaltung für Apps
-  Erfahren Sie, wie Anwendungen mit der Anwendungsregistrierung in Azure AD zu Ihrer Identitäts- und Zugriffslösung hinzugefügt werden können und sollten.
-  #### Lektionen
-  - Integration von Unternehmen für SSO planen und gestalten
-  - Implementierung und Überwachung der Integration von Unternehmensanwendungen für SSO
-  - Implementieren der App-Registrierung
-
-  #### Lab&#58; Implementieren Sie die Zugriffsverwaltung für Apps
-
-  #### Lab&#58; Erstellen Sie eine benutzerdefinierte Rolle für die Registrierung der Verwaltungs-App
-
-  #### Lab&#58; Registrieren Sie eine Anwendung
-
-  #### Lab&#58; Erteilen Sie einer Anwendung die mandantenweite Zustimmung des Administrators
-
-  #### Lab&#58; Fügen Sie App-Rollen zu den Anwendungen hinzu und erhalten Sie Token
-
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - eine neue Anwendung in Ihrem Azure AD zu registrieren
-  - SSO für Unternehmensanwendungen zu planen und zu implementieren
-  - Unternehmensanwendungen zu überwachen und zu warten
+  Dieser Kurs richtet sich an Identitäts- und Zugriffsadministratoren, die planen, die zugehörige Zertifizierungsprüfung abzulegen, oder die im Rahmen ihrer täglichen Arbeit Aufgaben im Bereich der Identitäts- und Zugriffsverwaltung erledigen. Dieser Kurs ist auch für Administratoren oder Techniker hilfreich, die sich auf die Bereitstellung von Identitäts- und Zugriffsverwaltungssystemen für Azure-basierte Lösungen spezialisieren möchten und eine wesentliche Rolle beim Schutz einer Organisation spielen.
+prerequisitesSection: >-
+  Vor der Teilnahme an diesem Kurs sollten die Studenten über folgende Kenntnisse verfügen:
 
 
-  ### Modul 4&#58; Planen und Implementieren einer Identitätsverwaltungsstrategie
-  Identitäts-Governance für Ihre Identitätslösung mit Hilfe von Berechtigungen, Zugriffsüberprüfungen, privilegiertem Zugriff und Überwachung Ihres Azure Active Directory (Azure AD) entwerfen und implementieren.
-  #### Lektionen
-  - Berechtigungsmanagement planen und implementieren
-  - Planen, Implementieren und Verwalten von Zugriffsüberprüfungen
-  - Privilegierten Zugriff planen und implementieren
-  - Azure AD überwachen und warten
-    
-  #### Lab&#58; Erstellen und Verwalten eines Ressourcenkatalogs mit Azure AD-Berechtigung
+  *   Bewährte Sicherheitspraktiken und branchenübliche Sicherheitsanforderungen wie tiefgehende Verteidigung, Zugriff mit geringstmöglichen Rechten, gemeinsame Verantwortung und Zero Trust-Modell
 
-  #### Lab&#58; Akzeptanzbericht für Nutzungsbedingungen hinzufügen
 
-  #### Lab&#58; Verwalten Sie den Lebenszyklus externer Benutzer mit Azure AD Identity Governance
+  *   Vertrautheit mit Identitätskonzepten wie Authentifizierung, Autorisierung und Active Directory
 
-  #### Lab&#58; Erstellen Sie Zugriffsüberprüfungen für Gruppen und Apps
 
-  #### Lab&#58; Konfigurieren Sie PIM für Azure AD-Rollen
+  *   Erfahrung mit der Bereitstellung von Azure-Workloads Dieser Kurs behandelt nicht die Grundlagen der Azure-Verwaltung, sondern der Kursinhalt baut auf diesem Wissen auf und vermittelt weitere sicherheitsspezifische Informationen.
 
-  #### Lab&#58; Weisen Sie die Azure AD-Rolle in PIM zu
-  
-  #### Lab&#58; Weisen Sie Azure-Ressourcenrollen in PIM zu 
-    
-  #### Lab&#58; Verbinden Sie Daten aus Azure AD mit Azure Sentinel
-    
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - Azure AD von der Erstellung bis zur Lösung zu verwalten und zu pflegen
-  - Zugriffsüberprüfungen zu verwenden, um Azure AD zu verwalten
-  - Benutzern mit Verwaltungsberechtigung Zugriff zu gewähren
+
+  *   Erfahrung mit Windows- und Linux-Betriebssystemen und Skriptsprachen ist hilfreich, aber nicht erforderlich. Kurslabs können PowerShell und die CLI verwenden.
+
+
+  Vorausgesetzte Kurse (oder gleichwertige Kenntnisse und praktische Erfahrung):
+
+
+  Diese kostenlose Onlineschulung vermittelt Ihnen die Erfahrung, die Sie benötigen, um in diesem Kurs erfolgreich zu sein.
+
+
+  *   [SC-900 – Teil 1: Beschreiben der Konzepte Sicherheit, Compliance und Identität – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
+
+
+  *   [SC-900 – Teil 2: Beschreiben der Möglichkeiten von Microsoft-Identitäts- und Zugriffsverwaltungslösungen – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-identity-access/)
+
+
+  *   [SC-900 – Teil 3: Beschreiben der Möglichkeiten von Microsoft-Sicherheitslösungen – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-security-solutions/)
+
+
+  *   [SC-900 – Teil 4: Beschreiben der Möglichkeiten von Microsoft-Compliancelösungen – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-compliance-solutions/)
+
+
+  *   [AZ-104: Verwalten von Identitäten und Governance in Azure – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-identities-governance/)
+outlineSection: >-
+  ### <a name="module-1-implement-an-identity-management-solution"></a>Modul 1: Implementieren einer Identitätsverwaltungslösung
+
+
+  Hier erfahren Sie, wie Sie Ihre anfängliche Azure Active Directory-Implementierung (Azure AD) erstellen und verwalten und wie Sie die Benutzer, Gruppen und externen Identitäten konfigurieren, die Sie zum Ausführen der Lösung verwenden werden.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Implementieren der Erstkonfiguration von Azure AD
+
+
+  *   Erstellen, Konfigurieren und Verwalten von Identitäten
+
+
+  *   Implementieren und Verwalten externer Identitäten
+
+
+  *   Implementieren und Verwalten der Hybrididentität
+
+
+  #### <a name="lab--manage-user-roles"></a>Lab: Verwalten von Benutzerrollen
+
+
+  ####
+
+
+  #### <a name="lab--setting-tenant-wide-properties"></a>Lab: Festlegen mandantenweiter Eigenschaften
+
+
+  ####
+
+
+  #### <a name="lab--assign-licenses-to-users"></a>Lab: Zuweisen von Lizenzen zu Benutzern
+
+
+  ####
+
+
+  #### <a name="lab--restore-or-remove-deleted-users"></a>Lab: Wiederherstellen oder Entfernen gelöschter Benutzer
+
+
+  ####
+
+
+  #### <a name="lab--add-groups-in-azure-ad"></a>Lab: Hinzufügen von Gruppen in Azure AD
+
+
+  ####
+
+
+  #### <a name="lab--change-group-license-assignments"></a>Lab: Ändern von Gruppenlizenzzuweisungen
+
+
+  ####
+
+
+  #### <a name="lab--change-user-license-assignments"></a>Lab: Ändern von Benutzerlizenzzuweisungen
+
+
+  ####
+
+
+  #### <a name="lab--configure-external-collaboration"></a>Lab: Konfigurieren externer Zusammenarbeit
+
+
+  ####
+
+
+  #### <a name="lab--add-guest-users-to-the-directory"></a>Lab: Hinzufügen von Gastbenutzern zum Verzeichnis
+
+
+  ####
+
+
+  #### <a name="lab--explore-dynamic-groups"></a>Lab: Erkunden dynamischer Gruppen
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Bereitstellen eines ersten Azure AD mit benutzerdefinierten Einstellungen
+
+
+  *   Verwalten interner und externer Identitäten
+
+
+  *   Implementieren einer Hybrididentitätslösung
+
+
+  ### <a name="module-2-implement-an-authentication-and-access-management-solution"></a>Modul 2: Implementieren einer Lösung für Authentifizierung und Zugriffsverwaltung
+
+
+  Implementieren und verwalten Sie Ihre Zugriffsverwaltung mithilfe von Azure AD. Verwenden Sie MFA (die mehrstufige Authentifizierung), den bedingten Zugriff und den Identitätsschutz zum Verwalten Ihrer Identitätslösung.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Schützen von Azure AD Benutzern mit MFA
+
+
+  *   Verwalten der Benutzerauthentifizierung
+
+
+  *   Planen, Implementieren und Verwalten des bedingten Zugriffs
+
+
+  *   Verwalten von Azure AD Identity Protection
+
+
+  #### <a name="lab--configure-azure-ad-mfa-authentication-registration-policy"></a>Lab: Konfigurieren einer Registrierungsrichtlinie für die Azure AD MFA-Authentifizierung
+
+
+  ####
+
+
+  #### <a name="lab--enable-sign-in-risk-policy"></a>Lab: Aktivieren der Richtlinie zum Anmelderisiko
+
+
+  ####
+
+
+  #### <a name="lab--manage-azure-ad-smart-lockout-values"></a>Lab: Verwalten intelligenter Sperrwerte für Azure AD
+
+
+  ####
+
+
+  #### <a name="lab--configure-authentication-session-controls"></a>Lab: Konfigurieren von Steuerelementen für eine Authentifizierungssitzung
+
+
+  ####
+
+
+  #### <a name="lab--implement-conditional-access-policies-roles-and-assignments"></a>Lab: Implementieren von Rollen, Zuweisungen und Richtlinien für bedingten Zugriff
+
+
+  ####
+
+
+  #### <a name="lab--work-with-security-defaults"></a>Lab: Arbeiten mit Sicherheitsstandards
+
+
+  ####
+
+
+  #### <a name="lab--configure-and-deploy-self-service-password-reset-sspr"></a>Lab: Konfigurieren und Bereitstellen der Self-Service-Kennwortzurücksetzung
+
+
+  ####
+
+
+  #### <a name="lab--enable-azure-ad-mfa"></a>Lab: Aktivieren von Azure AD MFA
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Konfigurieren und Verwalten der Benutzerauthentifizierung einschließlich MFA
+
+
+  *   Steuern des Zugriffs auf Ressourcen mithilfe des bedingten Zugriffs
+
+
+  *   Verwenden von Azure AD Identity Protection zum Schutz Ihrer Organisation
+
+
+  ### <a name="module-3-implement-access-management-for-apps"></a>Modul 3: Implementieren der Zugriffsverwaltung für Apps
+
+
+  Hier erfahren Sie, wie Anwendungen mit der Anwendungsregistrierung in Azure AD Ihrer Identitäts- und Zugriffslösung hinzugefügt werden können und sollten.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Planen und Entwerfen der Integration von Unternehmens-Apps für SSO
+
+
+  *   Implementieren und Überwachen der Integration von Unternehmens-Apps für einmaliges Anmelden
+
+
+  *   Implementieren der App-Registrierung
+
+
+  #### <a name="lab--implement-access-management-for-apps"></a>Lab: Implementieren der Zugriffsverwaltung für Apps
+
+
+  ####
+
+
+  #### <a name="lab--create-a-custom-role-to-management-app-registration"></a>Lab: Erstellen einer benutzerdefinierten Rolle zum Verwalten von App-Registrierungen
+
+
+  ####
+
+
+  #### <a name="lab--register-an-application"></a>Lab: Registrieren einer Anwendung
+
+
+  ####
+
+
+  #### <a name="lab--grant-tenant-wide-admin-consent-to-an-application"></a>Lab: Erteilen einer mandantenweiten Administratoreinwilligung für eine Anwendung
+
+
+  ####
+
+
+  #### <a name="lab--add-app-roles-to-applications-and-recieve-tokens"></a>Lab: Hinzufügen von App-Rollen zu Anwendungen und Empfangen von Token
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Registrieren einer neuen Anwendung bei Ihrer Azure AD-Instanz
+
+
+  *   Planen und Implementieren von SSO für Unternehmensanwendungen
+
+
+  *   Überwachen und Verwalten von Unternehmensanwendungen
+
+
+  ### <a name="module-4-plan-and-implement-an-identity-governancy-strategy"></a>Modul 4: Planen und Implementieren einer Strategie für Identity Governance
+
+
+  Entwerfen und implementieren Sie Identity Governance für Ihre Identitätslösung mithilfe einer Berechtigung, Zugriffsüberprüfungen, privilegiertem Zugriff und der Überwachung Ihrer Azure Active Directory-Instanz (Azure AD).
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Planen und Implementieren der Berechtigungsverwaltung
+
+
+  *   Planen, Implementieren und Verwalten von Zugriffsüberprüfungen
+
+
+  *   Planen und Implementieren von privilegiertem Zugriff
+
+
+  *   Überwachen und Verwalten von Azure AD
+
+
+  #### <a name="lab--configure-pim-for-azure-ad-roles"></a>Lab: Konfigurieren von PIM für Azure AD-Rollen
+
+
+  ####
+
+
+  #### <a name="lab--assign-azure-ad-role-in-pim"></a>Lab: Zuweisen einer Azure AD-Rolle in PIM
+
+
+  ####
+
+
+  #### <a name="lab--assign-azure-resource-roles-in-pim"></a>Lab: Zuweisen von Azure-Ressourcenrollen in PIM
+
+
+  ####
+
+
+  #### <a name="lab--connect-data-from-azure-ad-to-azure-sentinel"></a>Lab: Verbinden von Daten in Azure AD mit Azure Sentinel
+
+
+  ####
+
+
+  #### <a name="lab--create-access-reviews-for-groups-and-apps"></a>Lab: Erstellen von Zugriffsüberprüfungen für Gruppen und Apps
+
+
+  ####
+
+
+  #### <a name="lab--manage-the-lifecycle-of-external-users-with-azure-ad-identity-governance"></a>Lab: Verwalten des Lebenszyklus externer Benutzer mit Azure AD Identity Governance
+
+
+  ####
+
+
+  #### <a name="lab--add-terms-of-use-acceptance-report"></a>Lab: Hinzufügen des Berichts zur Zustimmung zu Nutzungsbedingungen
+
+
+  ####
+
+
+  #### <a name="lab--create-and-manage-a-resource-catalog-with-azure-ad-entitlement"></a>Lab: Erstellen und Verwalten eines Ressourcenkatalogs mit Azure AD-Berechtigung
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Verwalten und Pflegen von Azure AD von der Erstellung bis zur Lösung
+
+
+  *   Verwenden von Zugriffsüberprüfungen zum Pflegen von Azure AD
+
+
+  *   Gewähren des Zugriffs für Benutzer mithilfe der Berechtigungsverwaltung

@@ -1,25 +1,31 @@
 ### YamlMime:Course
 title: Microsoft 365 Identity Management
 metadata:
-  title: 'Kurs MS-100T03-A: Microsoft 365 Identity Management'
-  description: 'Kurs MS-100T03-A: Microsoft 365 Identity Management'
+  title: 'Kurs MS-100T03-A: Microsoft 365-Identitätsverwaltung'
+  description: 'Kurs MS-100T03-A: Microsoft 365-Identitätsverwaltung'
+  ms.openlocfilehash: 8dafff81fec9758e24a6c39318692e90d3e1da0d
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107083"
 uid: course.ms-100t03
-courseNumber: 'MS-100T03-A'
+courseNumber: MS-100T03-A
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Benutzerkonten und Lizenzen in Microsoft 365 verwalten
+- skill: Verwalten von Benutzerkonten und Lizenzen in Microsoft 365
 - skill: Verwalten von Administratorrollen und Sicherheitsgruppen in Microsoft 365
-- skill: Planen und Implementieren der Passwortverwaltung
-- skill: Verwalten von Microsoft 365-Authentifizierungs- und Bereitstellungsoptionen
+- skill: Planen und Implementieren der Kennwortverwaltung
+- skill: Verwalten von Microsoft 365-Authentifizierungs- und -Bereitstellungsoptionen
 - skill: Planen der Verzeichnissynchronisierung
 - skill: Planen und Implementieren von Azure AD Connect
 - skill: Verwalten synchronisierter Identitäten
-- skill: Planen und Implementieren einer ADFS-Bereitstellung
+- skill: Planen und Implementieren einer AD FS-Bereitstellung
 - skill: Implementieren von Anwendungen in Azure AD
-- skill: Konfigurieren des Azure AD Application Proxy
+- skill: Konfigurieren eines Azure AD-Anwendungsproxys
 - skill: Lösungen für externen Zugriff entwerfen
-- skill: Verwalten des Microsoft 365-Tenant Health and Services
+- skill: Verwalten der Integrität und Dienste von Microsoft 365-Mandanten
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -33,51 +39,82 @@ products:
 - office-365
 exams:
 - uid: exam.ms-100
-summary: |-
-  Erfahren Sie mehr über Microsoft 365 Identity Management, einschließlich der Verwaltung von Benutzersicherheitsgruppen und -lizenzen für Cloud-Identitäten sowie der Planung und Implementierung der Identitätssynchronisierung, Verbundidentitäten, Anwendungen und des externen Zugriffs.
+summary: >-
+  Erfahren Sie mehr über die Microsoft 365-Identitätsverwaltung, einschließlich der Verwaltung von Benutzersicherheitsgruppen und Lizenzen für Cloudidentitäten und der Planung und Implementierung von Identitätssynchronisierung, Verbundidentitäten, Anwendungen und externem Zugriff.
 
-  #### Zielgruppenprofil
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
   Dieser Kurs richtet sich an Personen, die die Microsoft 365 Enterprise-Administratorrolle anstreben und einen der Microsoft 365-Zertifizierungspfade für rollenbasierte Administratoren abgeschlossen haben.
-prerequisitesSection: |-
-  - Abschluss eines rollenbasierten Administratorkurses wie z.B. Nachrichtenvermittlung, Teamwork, Sicherheit und Compliance oder Zusammenarbeit.
-  - Ein fundiertes Verständnis von DNS und grundlegenden Funktionserfahrungen mit Microsoft 365-Diensten.
-  - Ein fundiertes Verständnis allgemeiner IT-Praktiken.
-outlineSection: |-
-  ### Modul 1&#58; Verwalten von Benutzersicherheitsgruppen und -lizenzen für Cloud-Identitäten
-  #### Lektionen
+prerequisitesSection: >-
+  - Abschluss eines rollenbasierten Administratorkurses wie Messaging, Teamwork, Security & Compliance oder Zusammenarbeit
+
+  - Ein fundiertes Verständnis von DNS und grundlegende praktische Erfahrung mit Microsoft 365-Diensten
+
+  - Ein fundiertes Verständnis allgemeiner IT-Verfahren
+outlineSection: >-
+  ### <a name="module--158-manage-user-security-groups-and-licenses-for-cloud-identities"></a>Modul 1&#58; Verwalten von Benutzersicherheitsgruppen und Lizenzen für Cloudidentitäten
+
+  #### <a name="lessons"></a>Lektionen
+
   - Benutzerkonten und Lizenzen in Microsoft 365
-  - Verwalten von Administratorrollen und Sicherheitsgruppen in Microsoft 365
-  - Passwortverwaltung in Microsoft 365
+
+  - Administratorrollen und Sicherheitsgruppen in Microsoft 365
+
+  - Kennwortverwaltung in Microsoft 365
 
 
-  #### Labor&#58; Verwalten Ihrer Microsoft 365 Identitätsumgebung
-  - Übung 1&#58; Einrichten Ihrer Laborumgebung
-  - Übung 2&#58; Verwalten Ihrer Microsoft 365-Identitätsumgebung mit dem Microsoft 365-Verwaltungscenter
-  - Übung 3&#58; Verwalten Ihrer Microsoft 365-Identitätsumgebung mit Windows PowerShell
+
+  #### <a name="lab-58-managing-your-microsoft-365-identity-environment"></a>Lab&#58; Verwalten Ihrer Microsoft 365-Identitätsumgebung
+
+  - Übung 1&#58; Einrichten Ihrer Lab-Umgebung
+
+  - Übung 2&#58; Verwalten Ihrer Microsoft 365-Identitätsumgebung mithilfe von Microsoft 365 Admin Center
+
+  - Übung 3&#58; Verwalten Ihrer Microsoft 365-Identitätsumgebung mithilfe von Windows PowerShell
 
 
-  ### Modul 2&#58; Planen und Implementieren der Identitätssynchronisierung
-  #### Lektionen
+
+  ### <a name="module--258-plan-and-implement-identity-synchronization"></a>Modul 2&#58; Planen und Implementieren der Identitätssynchronisierung
+
+  #### <a name="lessons"></a>Lektionen
+
   - Einführung in die Identitätssynchronisierung
-  - Planen von Azure AD Connect
-  - Azure AD Connect-Implementieren
+
+  - Planen für Azure AD Connect
+
+  - Implementieren von Azure AD Connect
+
   - Verwalten synchronisierter Identitäten
 
 
-  #### Labor&#58; Implementieren der Identitätssynchronisierung
+
+  #### <a name="lab-58-implementing-identity-synchronization"></a>Lab&#58; Implementieren der Identitätssynchronisierung
+
   - Übung 1&#58; Einrichten Ihrer Organisation für die Identitätssynchronisierung
+
   - Übung 2&#58; Implementieren der Identitätssynchronisierung
 
 
-  ### Modul 3&#58; Planen und Implementieren von Verbundidentitäten
-  #### Lektionen
+
+  ### <a name="module--358-planning-and-implementing-federated-identities"></a>Modul 3&#58; Planen und Implementieren von Verbundidentitäten
+
+  #### <a name="lessons"></a>Lektionen
+
   - Einführung in Verbundidentitäten
+
   - Planen einer AD FS-Bereitstellung
+
   - Implementieren von AD FS
 
 
-  ### Modul 4&#58; Anwendungen und externen Zugriff implementieren
-  #### Lektionen
+
+  ### <a name="module--458-implementing-applications-and-external-access"></a>Modul 4&#58; Implementieren von Anwendungen und externem Zugriff
+
+  #### <a name="lessons"></a>Lektionen
+
   - Implementieren von Anwendungen in Azure AD
-  - Konfigurieren des Azure AD-Anwendungsproxys
-  - Entwerfen von Lösungen für den externen Zugriff
+
+  - Konfigurieren eines Azure AD-Anwendungsproxys
+
+  - Entwerfen von Lösungen für externen Zugriff

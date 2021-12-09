@@ -1,20 +1,26 @@
 ### YamlMime:Course
-title: Entwickeln einer DevOps-Strategie
+title: Entwerfen einer DevOps-Strategie
 metadata:
-  title: 'Kurs AZ-400T07-A: Entwickeln einer DevOps-Strategie'
-  description: 'Kurs AZ-400T07-A: Entwickeln einer DevOps-Strategie'
+  title: 'Kurs AZ-400T07-A: Entwerfen einer DevOps-Strategie'
+  description: 'Kurs AZ-400T07-A: Entwerfen einer DevOps-Strategie'
+  ms.openlocfilehash: 45ad04c21336f08d025268820a9ac3446108f4b8
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107595"
 uid: course.az-400t07
-courseNumber: 'AZ-400T07-A'
+courseNumber: AZ-400T07-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Transformation mit geteilten Zielen und timelines planen
-- skill: Ein Projekt auswählen und Projektmetriken und KPIs identifizieren
-- skill: Team und Agile Organisationsstruktur erstellen
-- skill: Eine Projektqualitäts-strategie entwickeln
-- skill: Sichere entwicklungspraktiken und Complianceregeln planen
-- skill: Artefakte Migrieren und konsolidieren
-- skill: Migration und Integration von Source Control
+- skill: Planen der Transformation mit gemeinsamen Zielen und Zeitplänen
+- skill: Auswählen eines Projekts und Identifizieren von Projektmetriken und KPIs
+- skill: Erstellen eines Teams und einer agilen Organisationsstruktur
+- skill: Entwickeln einer Strategie für die Projektqualität
+- skill: Planen sicherer Entwicklungsverfahren und Konformitätsregeln
+- skill: Migrieren und Konsolidieren von Artefakten
+- skill: Migrieren und Integrieren von Measures zur Quellcodeverwaltung
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -30,51 +36,82 @@ products:
 - azure-automation
 exams:
 - uid: exam.az-400
-summary: |-
-  Dieser Kurs bietet Kenntnisse und Fähigkeiten für die Entwicklung einer DevOps-Strategie Die Teilnehmer lernen wie Transformation geplant wird, ein Projekt gewählt oder Teamstrukturen erstellt werden. Die Teilnehmer lernen außerdem wie Qualitäts und Sicherheitsstrategien entwickelt werden. Die Planung von Migration und Festigung von Artegakten und Source Control wird auch behandelt.
+summary: >-
+  In diesem Kurs werden die Kenntnisse und Fähigkeiten zum Entwerfen einer DevOps-Strategie vermittelt. Die Kursteilnehmer erfahren, wie sie die Transformation planen, ein Projekt auswählen und Teamstrukturen erstellen. Außerdem lernen die Kursteilnehmer, wie sie Qualitäts- und Sicherheitsstrategien entwickeln. Die Planung der Migration und Konsolidierung von Artefakten und die Quellcodeverwaltung werden ebenfalls behandelt.
 
-  #### Zielgruppenprofil
-  Die Teilnehmer dieses Kurses sind daran interessiert, DevOps Projekte zu planen oder die Microsoft Azure DevOps-Lösungen Zertifizierungsprüfung zu bestehen.
-prerequisitesSection: |-
-  - Fundamentales Wissen über Azure, Version Control, Agile Software Development und KernSoftware Entwicklungsprinzipen. Erfahrung in einer Organisation die Software liefert ist hilfreich.
-  - Es wird außerdem empfohlen, dass Sie Erfahrung in der Arbeit mit einer IDE und einige Kenntnisse über das Azure Portal besitzen. Die Teilnehmer, die keinen technischen Hintergrund in diesesn technologien haben, aber neugierig über DevOps Praktiken als Culture Shift sind, sollten den Prozeduren und den Erklärungen der kontinuierlischen Integration trotzdem folgen können.
-outlineSection: |-
-  ### Modul 1&#58; DevOps Planung
-  In diesem Modul lernen die Teilnehmer etwas über Transformationsplanung, Projektauswahl und Teamstrukturen.
-  #### Lektionen
-  - Transformation Planning
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+  Die Kursteilnehmer möchten DevOps-Prozesse planen oder die Prüfung für die Zertifizierung „Microsoft Azure DevOps Solutions“ bestehen.
+prerequisitesSection: >-
+  - Grundlegendes Wissen zu Azure, Versionskontrolle, agile Softwareentwicklung und grundlegende Prinzipien der Softwareentwicklung. Es wäre hilfreich, Erfahrung in einem Unternehmen zu haben, das Software liefert.
+
+  - Es empfiehlt sich außerdem, über Erfahrung mit der Arbeit in einer IDE sowie über Kenntnisse des Azure-Portals zu verfügen. Kursteilnehmer, die zu diesen Technologien möglicherweise keine technischen Kenntnisse besitzen, aber an DevOps-Methoden als Kulturverschiebung interessiert sind, sollten den Vorgehensweisen und Erklärungen zu Continuous Integration dennoch folgen können.
+outlineSection: >-
+  ### <a name="module--158-planning-for-devops"></a>Modul 1&#58; Planen für DevOps
+
+  In diesem Modul lernen die Kursteilnehmer die Transformationsplanung, die Projektauswahl und Teamstrukturen kennen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Transformationsplanung
+
   - Projektauswahl
+
   - Teamstrukturen
 
 
-  #### Labor&#58; Agile Planning and Portfolio Management with Azure Boards
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Transformation mit geteilten Zielen und timelines planen
-  - Ein Projekt auswählen und Projektmetriken und KPIs identifizieren
-  - Team und Agile Organisationsstruktur erstellen
+
+  #### <a name="lab-58-agile-planning-and-portfolio-management-with-azure-boards"></a>Lab&#58; Agile Planung und Portfolioverwaltung mit Azure Boards
+
+  Nach Abschluss dieses Moduls werden Teilnehmer zu Folgendem in der Lage sein&#58;
+
+  - Transformation mit geteilten Zielen und Fristen planen
+
+  - Ein Projekt auswählen und Projektmetriken und KPIs erkennen
+
+  - Erstellen eines Teams und einer agilen Organisationsstruktur
 
 
-  ### Modul 2&#58; Sicherheit und Qualität planen
-  In diesem Modul lernen die Teilnehmer etwas über Qualitätsstrategie und die Planung von sicherer Entwicklung
-  #### Lektionen
-  - Qualitätsstrategie planen
-  - Sichere Entwicklung planen
+
+  ### <a name="module--258-planning-for-quality-and-security"></a>Modul 2&#58; Planen für Qualität und Sicherheit
+
+  In diesem Modul lernen die Kursteilnehmer die Entwicklung einer Qualitätsstrategie und die Planung einer sicheren Entwicklung kennen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Entwickeln einer Qualitätsstrategie
+
+  - Planen der sicheren Entwicklung
 
 
-  #### Labor&#58; Feature Flag Management with LaunchDarkly and AzureDevOps
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Eine Projektqualitäts-strategie entwickeln
-  - Sichere entwicklungspraktiken und Complianceregeln planen
+
+  #### <a name="lab-58-feature-flag-management-with-launchdarkly-and-azuredevops"></a>Lab&#58; Featureflagverwaltung mit LaunchDarkly und AzureDevOps
+
+  Nach Abschluss dieses Moduls werden Teilnehmer zu Folgendem in der Lage sein&#58;
+
+  - Eine Projektqualitätsstrategie entwickeln
+
+  - Planen sicherer Entwicklungsverfahren und Konformitätsregeln
 
 
-  ### Modul 3&#58; Artefakte und Tools Migrieren
-  In diesem Modul lernen die Teilnehmer die Migration und Konsolidierung von Artefakten sowie die Migration und Integration von Source Control Maßnahmen kennen
-  #### Lektionen
-  - Migration und Konsolidierung von Artefakten
-  - Migration und Integration von Source Control
+
+  ### <a name="module--358-migrating-and-consolidating-artifacts-and-tools"></a>Modul 3&#58; Migrieren und Konsolidieren von Artefakten und Tools
+
+  In diesem Modul lernen die Kursteilnehmer das Migrieren und Konsolidieren von Artefakten sowie das Migrieren und Integrieren von Quellcodeverwaltungsmaßnahmen kennen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Migrieren und Konsolidieren von Artefakten
+
+  - Migrieren und Integrieren der Quellcodeverwaltung
 
 
-  #### Labor&#58; Integration von Azure Repos und Azure Pipelines mit Eclipse
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Artefakte Migrieren und konsolidieren
-  - Migration und Integration von Source Control
+
+  #### <a name="lab-58-integrating-azure-repos-and-azure-pipelines-with-eclipse"></a>Lab&#58; Integrieren von Azure Repos und Azure Pipelines in Eclipse
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Artifakte migrieren und konsolidieren
+
+  - Source-Kontrollmaßnahmen migrieren und integrieren

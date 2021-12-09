@@ -3,17 +3,23 @@ title: Implementieren der Anwendungsinfrastruktur
 metadata:
   title: 'Kurs AZ-400T05-A: Implementieren der Anwendungsinfrastruktur'
   description: 'Kurs AZ-400T05-A: Implementieren der Anwendungsinfrastruktur'
+  ms.openlocfilehash: 58e249ea997fe29825f7dd29ede0437e1c4da2a0
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107610"
 uid: course.az-400t05
-courseNumber: 'AZ-400T05-A'
+courseNumber: AZ-400T05-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Infrastruktur und Konfiguration als CodePrinzipen anwenden.
-- skill: Infrastruktur mit Microsoft Automatisierungstechnologien, wie z.B. ARM Vorlagen, PowerShell und Azure CLI bereitstellen und verwalten
-- skill: Bereitstellungsmodelle und Dienste die in Azure Verfügbar sind, beschreiben
-- skill: Managed Kubernetes Cluster bereitstellen und Konfigurieren
-- skill: Bereitstellung und Konfiguration der Infrastruktur über 3rd party tools und Dienste mit Azure, z.B. Chef, Puppet, Ansible. saltStack und Terraform
-- skill: Infrastruktur und Konfigurationsstrategien und die richtigen Werkzeuge ür eine Freigabepipeline und Anwendungsinfrastruktur definieren.
+- skill: Anwenden von Infrastruktur und Konfiguration als Codeprinzipien
+- skill: Bereitstellen und Verwalten der Infrastruktur mithilfe von Microsoft-Automatisierungstechnologien wie ARM-Vorlagen, PowerShell und Azure CLI
+- skill: Bereitstellungsmodelle und Dienste beschreiben, die in Azure verfügbar sind
+- skill: Verwaltete Kubernetes-Cluster bereitstellen und konfigurieren
+- skill: Bereitstellung und Konfiguration der Infrastruktur unter Verwendung von Werkzeugen und Diensten von Drittanbietern mit Azure, z.B. Chef, Puppet, Ansible, SaltStack und Terraform
+- skill: Infrastruktur und Konfigurationsstrategien und die richtigen Werkzeuge für eine Freigabepipeline und Anwendungsinfrastruktur definieren
 - skill: Compliance und Sicherheit in Ihre Anwendungsinfrastruktur implementieren
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -30,89 +36,151 @@ products:
 - azure-automation
 exams:
 - uid: exam.az-400
-summary: |-
-  Diesesr Kurs bietet das Wissen und die Fähigkeiten um eine Anwendungsinfrastruktur in Devops Pipelines bereitzustellen Die Teilnehmer erlernen das Implementieren der Infrastruktur als Code und konfigurationsverwaltung, wie Infrastruktur über automatisierungstools in Azure eingebaut wir und wie eine Anwendungsinfrastruktur über verschiedene Azuredienste und Bereitstellungsmethoden eingesetzt wird. Außerdem lernen die Teilnehmer, wie man mit Azure Bereitstellungstools von Drittanbietern , z.B&#58; Chef und Puppet, integriert um Compliance und Sicherheit in die Release-Pipeline einzufügen.
-
-  #### Zielgruppenprofil
-  Die Teilnehmer des Kurses sind interessiert daran, eine Anwendungsinfrastruktur zu implementieren, diese zu verwalten und zu konfigurieren oder daran, die Microsoft Azure DevOps-Lösungen Zertifizierungsprüfungen zu bestehen.
-prerequisitesSection: |-
-  Die Teilnehmer sollten grundlegende Kenntnisse über Azure besitzen, Erfahrung mit virtuellen Maschinen und Containern haben und mit Automatisierung und Skripting in Berührung kommen.
-
-  Arbeitserfahrung in der Softwareentwicklungs- oder Betriebsumgebung mit Windows oder Linux währe ein Vorteil, ist aber nciht erforderlich.
-
-  Die Teilnehmer sollten außerdem Kenntnisse der algemeinen Entwicklungs- und Bereitstellungsprozesse besitzen.
-outlineSection: |-
-  ### Modul 1&#58; Infrastruktur und Konfiguration von Azure Tools
-  #### Lektionen
-  - Lernobjekte
-  - Infrastruktur als Code und Konfigurationsmanagement
-  - Azure Resource mit ARM-Vorlage erstellen
-  - Azure Resources mit Azure CLI erstellen
-  - Azure Resources mit Azure PowerShell erstellen
-  - zusätzliche Automatisierungstools
-  - Version Control
-  - Lab Deploy zu Azure mit ARM Vorlagen
-  - Module Review Questions
-
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Infrastruktur und Konfiguration als CodePrinzipen anwenden.
-  - Infrastruktur mit Microsoft Automatisierungstechnologien, wie z.B. ARM Vorlagen, PowerShell und Azure CLI bereitstellen und verwalten
+summary: >-
+  Dieser Kurs bietet Kenntnisse und Fähigkeiten zum Bereitstellen einer Anwendungsinfrastruktur in DevOps-Pipelines. Die Kursteilnehmer erfahren, wie Sie die Infrastruktur als Code und die Konfigurationsverwaltung implementieren, die Azure-Infrastruktur mithilfe gängiger Automatisierungstools bereitstellen und eine Anwendungsinfrastruktur über verschiedene Dienste und Bereitstellungsmethoden in Azure bereitstellen. Außerdem erfahren sie, wie Bereitstellungstools von Drittanbietern, z. B. Chef und Puppet, in Azure integriert werden, um Compliance und Sicherheit in die Releasepipeline zu integrieren.
 
 
-  ### Modul 2&#58; Azure Deployment Models und Services
-  #### Lektionen
-  - Lernobjekte
-  - Bereitstellung von Modellen und Optionen
-  - Azure Infrastruktur-as-a-Service (IaaS)
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+  Die Kursteilnehmer dieses Kurses interessieren sich für die Implementierung der Anwendungsinfrastruktur sowie die Verwaltung und Konfiguration dieser Infrastruktur oder möchten die Zertifizierungsprüfung „Microsoft Azure DevOps Solutions“ bestehen.
+prerequisitesSection: >-
+  Kursteilnehmer sollten über grundlegende Kenntnisse zu Azure, Erfahrung mit virtuellen Computern und Containern sowie einige Kenntnisse zu Automatisierung und Skripterstellung verfügen.
+
+
+  Erfahrung mit der Arbeit in einer Softwareentwicklungs- oder Betriebsumgebung mit Windows oder Linux ist hilfreich, aber nicht unbedingt erforderlich.
+
+
+  Die Kursteilnehmer sollten auch über Kenntnisse der allgemeinen Prozesse zur Anwendungsentwicklung und -bereitstellung verfügen.
+outlineSection: >-
+  ### <a name="module--158-infrastructure-and-configuration-azure-tools"></a>Modul 1&#58; Azure-Tools für Infrastruktur und Konfiguration
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Lernziele
+
+  - Infrastruktur als Code und Konfigurationsverwaltung
+
+  - Erstellen von Azure-Ressourcen mithilfe von ARM-Vorlagen
+
+  - Erstellen von Azure-Ressourcen mithilfe der Azure CLI
+
+  - Erstellen von Azure-Ressourcen mithilfe von Azure PowerShell
+
+  - Zusätzliche Automatisierungstools
+
+  - Quellcodeverwaltung
+
+  - Lab: Durchführen der Bereitstellung in Azure mithilfe von ARM-Vorlagen
+
+  - Fragen zur Modulüberprüfung
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Anwenden von Infrastruktur und Konfiguration als Codeprinzipien
+
+  - Infrastruktur mit Microsoft Automatisierungstechnologien, wie z.B. ARM-Vorlagen, PowerShell und Azure CLI bereitstellen und verwalten
+
+
+
+  ### <a name="module--258-azure-deployment-models-and-services"></a>Modul 2&#58; Azure-Bereitstellungsmodelle und -dienste
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Lernziele
+
+  - Bereitstellungsmodelle und -optionen
+
+  - Azure-IaaS-Dienste (Infrastructure-as-a-Service)
+
   - Azure Automation mit DevOps
-  - Desired State Configuration (DSC)
-  - Azure Platform-as-a-Service (PaaS) services
+
+  - Konfigurieren des gewünschten Zustands (Desired State Configuration, DSC)
+
+  - Azure-PaaS-Dienste (Platform-as-a-Service)
+
   - Azure Service Fabric
-  - Lab Azure Automation - IaaS or PaaS deployment
-  - Moduel Review Questions
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Bereitstellungsmodelle und Dienste, die in Azure Verfügbar sind, beschreiben
+  - Lab: Azure Automation – IaaS- oder PaaS-Bereitstellung
 
-
-  ### Modul 3&#58; Kubernetes Service Infrastructure verwalten und erstellen
-  #### Lektionen
-  - Lernobjekte
-  - Azure-Kubernetes-Service
-  - Lab Deploy und Scale AKS Cluster
-  - Module Review Questions
-
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Managed Kubernetes Cluster bereitstellen und Konfigurieren
+  - Fragen zur Modulüberprüfung
 
 
-  ### Modul 4&#58; Open Source Tools und Tools von Drittanbietern verfügbar in Azure
-  #### Lektionen
-  - Lernobjekte
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Bereitstellungsmodelle und Dienste beschreiben, die in Azure verfügbar sind
+
+
+
+  ### <a name="module--358-create-and-manage-kubernetes-service-infrastructure"></a>Modul 3&#58; Erstellen und Verwalten der Kubernetes Service-Infrastruktur
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Lernziele
+
+  - Azure Kubernetes Service
+
+  - Lab: Bereitstellen und Skalieren eines AKS-Clusters
+
+  - Fragen zur Modulüberprüfung
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Verwaltete Kubernetes-Cluster bereitstellen und konfigurieren
+
+
+
+  ### <a name="module--458-third-party-and-open-source-tools-available-with-azure"></a>Modul 4&#58; In Azure verfügbare Drittanbieter- und Open-Source-Tools
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Lernziele
+
   - Chef
+
   - Puppet
+
   - Ansible
-  - Cloud-Init
+
+  - cloud-init
+
   - Terraform
-  - Lab Provision und Konfiguration einer App in Azure durch X
-  - Module Review Questions
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Bereitstellung und Konfiguration der Infrastruktur über 3rd party tools und Dienste mit Azure, z.B. Chef, Puppet, Ansible. saltStack und Terraform
+  - Lab: Bereitstellen und Konfigurieren einer App in Azure mithilfe von X
+
+  - Fragen zur Modulüberprüfung
 
 
-  ### Modul 5&#58; Compliance und Sicherheit in Ihre Infrastruktur implementieren
-  #### Lektionen
-  - Sicherheit und Compliance Prinzipen mit DevOps
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Bereitstellung und Konfiguration der Infrastruktur unter Verwendung von Werkzeugen und Diensten von Drittanbietern mit Azure, z.B. Chef, Puppet, Ansible, SaltStack und Terraform
+
+
+
+  ### <a name="module--558-implement-compliance-and-security-in-your-infrastructure"></a>Modul 5&#58; Implementieren von Compliance und Sicherheit in Ihrer Infrastruktur
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Sicherheits- und Complianceprinzipien mit DevOps
+
   - Azure Security Center
-  - Lab Integrate a scanning-Erweiterung oder Tool in eine Azure-Devops Pipeline/security center integrieren
-  - Module Review Questions
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Infrastruktur und Konfigurationsstrategien und die richtigen Werkzeuge ür eine Freigabepipeline und Anwendungsinfrastruktur definieren
+  - Lab: Integrieren einer Erweiterung oder eines Tools zur Überprüfung in einer Azure DevOps-Pipeline/in Security Center
+
+  - Fragen zur Modulüberprüfung
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Infrastruktur und Konfigurationsstrategien und die richtigen Werkzeuge für eine Freigabepipeline und Anwendungsinfrastruktur definieren
+
   - Compliance und Sicherheit in Ihre Anwendungsinfrastruktur implementieren
 
 
-  ### Modul 6&#58; Course Completion
-  #### Lektionen
+
+  ### <a name="module--658-course-completion"></a>Modul 6&#58; Abschluss des Kurses
+
+  #### <a name="lessons"></a>Lektionen
+
   - Abschlussprüfung

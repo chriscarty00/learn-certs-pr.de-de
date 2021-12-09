@@ -1,34 +1,40 @@
 ### YamlMime:Course
-title: Implementieren einer kontinuierlichen Lieferung
+title: Implementieren von Continuous Delivery
 metadata:
-  title: 'Kurs AZ-400T03-A: Implementieren einer kontinuierlichen Lieferung'
-  description: 'Kurs AZ-400T03-A: Implementieren einer kontinuierlichen Lieferung'
+  title: 'Kurs AZ-400T03-A: Implementieren von Continuous Delivery'
+  description: 'Kurs AZ-400T03-A: Implementieren von Continuous Delivery'
+  ms.openlocfilehash: d9f14793b50b54c536bac88cd9ed64a6537dab2b
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107619"
 uid: course.az-400t03
-courseNumber: 'AZ-400T03-A'
+courseNumber: AZ-400T03-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Zwischen veröffentlichung und Bereitstellung unterscheiden
-- skill: Komponenten der Veröffentlichungspipeline definieren
-- skill: Wichtige Überlegungn für die Erstellung einer Veröffentlichungsstrategie erklären
-- skill: Veröffenntlichung über Veröffentlichungsprozess und die Qualitätskontrolle von beidem klassifizieren
-- skill: Das Prinzip der Veröffentlichungstore beschrieben und wie man mit Veröffentlichungsnotizen und Dokumentation umgeht
-- skill: Bereitstellungsmuster im Traditionellen und Modernen Verständnis erklären
-- skill: Veröffentlichungs Verwaltungstool auswählen
-- skill: Terminologie die in Azure-Devops und anderen Release Management tools verwendet wird erklären
-- skill: Erkläern, was Built und Release Tasks sind, was sie können und verfügbare Bereitstellungstasks
-- skill: Agent, Agent Queue und Agent Pool klassifizieren
-- skill: Erklären, warum manchmal mehrfache Release Jobs in einer Release Pipeline benötigt werden
-- skill: Zwischen Multi-agent und Multi-configuration Release Jobs unterscheiden
-- skill: Releasevariablen und Stagevariablen in der release Pipeline verwenden
-- skill: Eine Umgebung sicher durch Serviceverbindung bereitstellen
+- skill: Zwischen Freigabe und Bereitstellung unterscheiden
+- skill: Komponenten der Freigabe-Pipeline definieren
+- skill: Wichtige Überlegungen für die Erstellung einer Freigabestrategie erklären
+- skill: Freigabe gegenüber Freigabeprozess klassifizieren und beschreiben, wie man die Qualität beider steuern kann
+- skill: Das Prinzip der Freigabe-Gates beschreiben und wie man mit Freigabehinweisen und Dokumentation umgeht
+- skill: Bereitstellungsmuster im traditionellen und modernen Verständnis erklären
+- skill: Freigabe-Managementtool auswählen
+- skill: Terminologie erklären, die in Azure-DevOps und anderen Freigabe-Managementtools verwendet wird
+- skill: Erklären, was Build- und Freigabe-Aufgaben sind, was sie können und einige verfügbare Bereitstellungsaufgaben
+- skill: Agent, Agenten-Schlange und Agenten-Pool klassifizieren
+- skill: Erklären, warum zuweilen mehrere Freigabeaufträge in einer Freigabe-Pipeline benötigt werden
+- skill: Zwischen Multi-Agent und Multi-Konfigurations-Freigabeauftrag unterscheiden
+- skill: Freigabe-Variablen und Stufen-Variablen in der Freigabe-Pipeline verwenden
+- skill: Eine Umgebung sicher durch eine Serviceverbindung bereitstellen
 - skill: Tests in der Pipeline einbetten
-- skill: Verschieden Wege um die Gesundheit der Pipeline und Release durch Warunungen, Service hooks und Berichte aufzählen
-- skill: Release Gate erstellen
-- skill: Deploymentmuster beschreiben
-- skill: Implementieren einer BlauGrün Bereitstellung
-- skill: Implementieren einer Canary Veröffentlichung
-- skill: Implementieren einer Progressiv Exposure-Bereitstellung
+- skill: Die verschiedenen Möglichkeiten auflisten, den Zustand Ihrer Pipeline und die Freigabe mit Hilfe von Warnungen, Service-Hooks und Berichten zu überprüfen.
+- skill: Freigabe-Gate erstellen
+- skill: Bereitstellungsmuster beschreiben
+- skill: Implementieren einer Blau-Grün-Bereitstellung
+- skill: Canary-Freigabe umsetzen
+- skill: Implementieren einer progressiven Belastungs-Bereitstellung
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -44,84 +50,141 @@ products:
 - azure-automation
 exams:
 - uid: exam.az-400
-summary: |-
-  Dieser Kurs bietet die Kenntnisse und Fähigkeiten um kontinuierlichen Lieferung zu implementieren. Die Teilnehmer lernen das erstellen einer Freigabestrategie, das eines Freigabe-Workflows für das Freigabemanagement und die implementierung eines geeigneten Bereitstellungsmusters
-
-  #### Zielgruppenprofil
-  Teilnehmer des Kurses interessieren sich für die Implementation von DevOps-Prozessen oder möchten die Microsoft Azure DevOps-Lösungen Zertifizierungsprüfung bestehen.
-prerequisitesSection: |-
-  Fundamentales Wissen über Azure, Version Control, Agile Software Development und KernSoftware Entwicklungsprinzipen. Erfahrung in einer Organisation die Software liefert ist hilfreich.
-outlineSection: |-
-  ### Modul 1&#58; Freigabestrategie erstellen
-  #### Lektionen
-  Einführung in die kontinuierliche Lieferung
-  Freigabestrategie empfehlungen
-  - Highquality Freigabepipeline erstellen
-  - Auswählen eines Musters für die Bereitstellung
-  - Das richtige Freigabe Verwaltungstool auswählen
+summary: >-
+  In diesem Kurs werden die Kenntnisse und Fähigkeiten zum Implementieren von Continuous Delivery vermittelt. Die Kursteilnehmer erfahren, wie sie eine Releasestrategie entwerfen, einen Releaseverwaltungsworkflow einrichten und ein geeignetes Bereitstellungsmuster implementieren.
 
 
-  #### Labor&#58; Freigabestrategie erstellen
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Komponenten der Veröffentlichungspipeline definieren
-  - Komponenten einer Freigabepipeline definieren
-  - Wichtige Überlegungn für die Erstellung einer Veröffentlichungsstrategie erklären
-  - Veröffenntlichung über Veröffentlichungsprozess und die Qualitätskontrolle von beidem klassifizieren
-  - Das Prinzip der Veröffentlichungstore beschrieben und wie man mit Veröffentlichungsnotizen und Dokumentation umgeht
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+  Die Teilnehmer dieses Kurses möchten DevOps-Prozesse umsetzen lernen oder die Zertifizierungsprüfung für Microsoft Azure DevOps-Lösungen bestehen.
+prerequisitesSection: Grundlegendes Wissen zu Azure, Versionskontrolle, agile Softwareentwicklung und grundlegende Prinzipien der Softwareentwicklung. Es wäre hilfreich, Erfahrung in einem Unternehmen zu haben, das Software liefert.
+outlineSection: >-
+  ### <a name="module--158-design-a-release-strategy"></a>Modul 1&#58; Entwerfen einer Releasestrategie
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung in Continuous Delivery
+
+  - Empfehlungen für die Releasestrategie
+
+  - Erstellen einer hochwertigen Releasepipeline
+
+  - Auswählen eines Bereitstellungsmusters
+
+  - Auswählen des richtigen Releaseverwaltungstools
+
+
+
+  #### <a name="lab-58-building-a-release-strategy"></a>Lab&#58; Erstellen einer Releasestrategie
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Zwischen Freigabe und Bereitstellung unterscheiden
+
+  - Komponenten der Freigabe-Pipeline definieren
+
+  - Wichtige Überlegungen für die Erstellung einer Freigabestrategie erklären
+
+  - Freigabe gegenüber Freigabeprozess klassifizieren und beschreiben, wie man die Qualität beider steuern kann
+
+  - Das Prinzip der Freigabe-Gates beschreiben und wie man mit Freigabehinweisen und Dokumentation umgeht
+
   - Bereitstellungsmuster im traditionellen und modernen Verständnis erklären
-  - Veröffentlichungs Verwaltungstool auswählen
+
+  - Freigabe-Managementtool auswählen
 
 
-  ### Modul 2&#58; Workflows für das Freigabemanagement erstellen
-  #### Lektionen
-  - Release Pipeline erstellen
+
+  ### <a name="module--258-set-up-a-release-management-workflow"></a>Modul 2&#58; Einrichten eines Releaseverwaltungsworkflows
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Erstellen einer Releasepipeline
+
   - Bereitstellen und Konfigurieren von Umgebungen
-  - Aufgaben und Templates verwalten und modularisiere
-  - Integration der Secrets in die Release-Pipeline
-  - Konfiguration der automatisierten Integration und Ausführung funktionaler Tests
-  - Gesundheitsinspektion automatisieren
+
+  - Verwalten und Modularisieren von Aufgaben und Vorlagen
+
+  - Integrieren von Geheimnissen in die Releasepipeline
+
+  - Konfigurieren einer automatisierten Integration und einer Automatisierung von Funktionstests
+
+  - Automatisieren der Integritätsuntersuchung
 
 
-  #### Labor&#58; Automating your infrastructure deployments in the Cloud with Terraform and Azure Pipelines
 
-  #### Labor&#58; Setting up secrets in the pipeline with Azure Key vault
+  #### <a name="lab-58-automating-your-infrastructure-deployments-in-the-cloud-with-terraform-and-azure-pipelines"></a>Lab&#58; Automatisieren von Infrastrukturbereitstellungen in der Cloud mit Terraform und Azure Pipelines
 
-  #### Labor&#58; Setting up and Running Load Tests
 
-  #### Labor&#58; Setting up and Running Functional Tests
+  #### <a name="lab-58-setting-up-secrets-in-the-pipeline-with-azure-key-vault"></a>Lab&#58; Einrichten von Geheimnissen in der Pipeline mit Azure Key Vault
 
-  #### Labor&#58; Using Azure Monitor as release gate
 
-  #### Labor&#58; Creating a Release Dashboard
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Terminologie die in Azure-Devops und anderen Release Management tools verwendet wird erklären
-  - Erkläern, was Built und Release Tasks sind, was sie können und verfügbare Bereitstellungstasks
-  - Agent, Agent Queue, und Agent Pool klassifizieren
-  - Erklären, warum manchmal mehrfache Release Jobs in einer Release Pipeline benötigt werden
-  - Zwischen Multi-agent und Multi-configuration Release Jobs unterscheiden
-  - Releasevariablen und Stagevariablen in der release Pipeline verwenden
-  - Eine Umgebung sicher durch Serviceverbindung bereitstellen
+  #### <a name="lab-58-setting-up-and-running-load-tests"></a>Lab&#58; Einrichten und Ausführen von Auslastungstests
+
+
+  #### <a name="lab-58-setting-up-and-running-functional-tests"></a>Lab&#58; Einrichten und Ausführen von Funktionstests
+
+
+  #### <a name="lab-58-using-azure-monitor-as-release-gate"></a>Lab&#58; Verwenden von Azure Monitor als Releasegate
+
+
+  #### <a name="lab-58-creating-a-release-dashboard"></a>Lab&#58; Erstellen eines Releasedashboards
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Terminologie erklären, die in Azure-DevOps und anderen Freigabe-Managementtools verwendet wird
+
+  - Erklären, was Build- und Freigabe-Aufgaben sind, was sie können und einige verfügbare Bereitstellungsaufgaben
+
+  - Agent, Agenten-Schlange und Agenten-Pool klassifizieren
+
+  - Erklären, warum zuweilen mehrere Freigabeaufträge in einer Freigabe-Pipeline benötigt werden
+
+  - Zwischen Multi-Agent und Multi-Konfigurations-Freigabeauftrag unterscheiden
+
+  - Freigabe-Variablen und Stufen-Variablen in der Freigabe-Pipeline verwenden
+
+  - Eine Umgebung sicher durch eine Serviceverbindung bereitstellen
+
   - Tests in der Pipeline einbetten
-  - Verschieden Wege um die Gesundheit der Pipeline und Release durch Warunungen, Service hooks und Berichte aufzählen
-  - Release Gate erstellen
+
+  - Die verschiedenen Möglichkeiten auflisten, den Zustand Ihrer Pipeline und die Freigabe mit Hilfe von Warnungen, Service-Hooks und Berichten zu überprüfen.
+
+  - Freigabe-Gate erstellen
 
 
-  ### Modul 3&#58; Implementierung eines geeigneten Bereitstellungsmusters
-  #### Lektionen
-  Einführung in Bereitstellungsmuster
-  - Implementieren einer BlauGrün Bereitstellung
+
+  ### <a name="module--358-implement-an-appropriate-deployment-pattern"></a>Modul 3&#58; Implementieren eines geeigneten Bereitstellungsmusters
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung in Bereitstellungsmuster
+
+  - Implementieren einer Blau-Grün-Bereitstellung
+
   - Feature Toggles
-  - Canary Releases
+
+  - Canary-Releases
+
   - Dark Launching
-  - AB Testing
-  - implementieren progressiver Expositions-Bereitstellungen
+
+  - A/B-Test
+
+  - Bereitstellung mit progressiver Exposition
 
 
-  #### Labor&#58; BlauGrün Bereitstellung
 
-  #### Labor&#58; Traffic Manager
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Deploymentmuster beschreiben
-  - Implementieren einer BlauGrün Bereitstellung
-  - Implementieren einer Canary Veröffentlichung
-  - Implementieren einer Progressiv Exposure-Bereitstellung
+  #### <a name="lab-58-blue-green-deployments"></a>Lab&#58; Blau-Grün-Bereitstellungen
+
+
+  #### <a name="lab-58-traffic-manager"></a>Lab&#58; Traffic Manager
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Bereitstellungsmuster beschreiben
+
+  - Implementieren einer Blau-Grün-Bereitstellung
+
+  - Canary-Freigabe umsetzen
+
+  - Implementieren einer progressiven Belastungs-Bereitstellung

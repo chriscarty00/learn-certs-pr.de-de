@@ -1,18 +1,24 @@
 ### YamlMime:Course
 title: Office 365 Management
 metadata:
-  title: 'Kurs MS-100T01-A: Office 365 Management'
-  description: 'Kurs MS-100T01-A: Office 365 Management'
+  title: 'Kurs MS-100T01-A: Office 365-Verwaltung'
+  description: 'Kurs MS-100T01-A: Office 365-Verwaltung'
   iltScheduling: true
+  ms.openlocfilehash: 6e50345551130bdd319ac2e144c7827cf0ce09a0
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107107"
 uid: course.ms-100t01
-courseNumber: 'MS-100T01-A'
+courseNumber: MS-100T01-A
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Office 365 Übersicht
-- skill: Verschieben einer Organisation zu Office 365
-- skill: Konfigurieren von Windows 365
-- skill: Verwalten von Office 365 ProPlus-Bereitstellungen
+- skill: Übersicht über Office 365
+- skill: Verschieben einer Organisation in Office 365
+- skill: Office 365 konfigurieren
+- skill: -Verwalten von zentralisierten Office 365 ProPlus-Bereitstellungen
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -26,51 +32,83 @@ products:
 - office-365
 exams:
 - uid: exam.ms-100
-summary: |-
-  Erfahren Sie mehr über Office 365 Management, einschließlich der wichtigsten Komponenten von Office 365, das Verschieben einer Organisation zu Office 365, das Konfigurieren von Office 365 und das Verwalten von Office 365 ProPlus-Bereitstellungen.
+summary: >-
+  Erfahren Sie mehr über die Office 365-Verwaltung, darunter wichtige Komponenten von Office 365, das Verschieben einer Organisation in Office 365, die Konfiguration von Office 365 und die Verwaltung von Office 365 ProPlus-Bereitstellungen.
 
-  #### Zielgruppenprofil
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
   Dieser Kurs richtet sich an Personen, die die Microsoft 365 Enterprise-Administratorrolle anstreben und einen der Microsoft 365-Zertifizierungspfade für rollenbasierte Administratoren abgeschlossen haben.
-prerequisitesSection: |-
-  - Abschluss eines rollenbasierten Administratorkurses wie z.B. Nachrichtenvermittlung, Teamwork, Sicherheit und Compliance oder Zusammenarbeit.
-  - Ein fundiertes Verständnis von DNS und grundlegenden Funktionserfahrungen mit Microsoft 365-Diensten.
-  - Ein fundiertes Verständnis allgemeiner IT-Praktiken.
-outlineSection: |-
-  ### Modul 1&#58; Verschieben Ihrer Organisation zu Office 365
-  #### Lektionen
+prerequisitesSection: >-
+  - Abschluss eines rollenbasierten Administratorkurses wie z. B. Messaging, Teamwork, Sicherheit und Compliance oder Zusammenarbeit
+
+  - Ein fundiertes Verständnis von DNS und grundlegende praktische Erfahrung mit Microsoft 365-Diensten
+
+  - Ein fundiertes Verständnis allgemeiner IT-Verfahren
+outlineSection: >-
+  ### <a name="module--158-moving-your-organization-to-office-365"></a>Modul 1&#58; Verschieben Ihrer Organisation in Office 365
+
+  #### <a name="lessons"></a>Lektionen
+
   - Exchange Online
+
   - SharePoint Online
+
   - Teams
-  - Zusätzliche Ressourcen
+
+  - Weitere Ressourcen
 
 
-  ### Modul 2&#58; Konfigurieren Ihres Microsoft 365-Tenant
-  #### Lektionen
-  - Planen Sie Ihr Netzwerk mit Office 365
-  - Planen des Service-Setups
-  - Planen Ihrer hybriden Umgebung
-  - Planen Ihrer Migration zu Office 365
+
+  ### <a name="module--258-configuring-your-microsoft-365-tenant"></a>Modul 2&#58; Konfigurieren Ihres Microsoft 365-Mandanten
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Planen Ihres Netzwerks mit Office 365
+
+  - Planen Ihres Dienstsetups
+
+  - Planen Ihrer Hybridumgebung
+
+  - Planen der Migration zu Office 365
 
 
-  ### Modul 3&#58; Konfigurieren von Office 365
-  #### Lektionen
-  - Office 365-Kundenübersicht
-  - Office Kunden-Konnektivität zu Office 365 konfigurieren
+
+  ### <a name="module--358-configuring-office-365"></a>Modul 3&#58; Konfigurieren von Office 365
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht über Office 365-Clients
+
+  - Konfigurieren der Office-Clientkonnektivität mit Office 365
 
 
-  ### Modul 4&#58; Verwalten von Office 365 ProPlus-Bereitstellungen
-  #### Lektionen
-  - Verwalten von benutzergesteuerten Kunden-Installationen
-  - Verwalten von zentralisierten Office 365 ProPlus-Bereitstellungen
-  - Konfigurieren der Office-Telemetrie
-  - Konfigurieren von Microsoft Analysen
+
+  ### <a name="module--458-managing-office-365-proplus-deployments"></a>Modul 4&#58; Verwalten von Office 365 ProPlus-Bereitstellungen
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Verwalten benutzergesteuerter Clientinstallationen
+
+  - Verwalten zentralisierter Office 365 ProPlus-Bereitstellungen
+
+  - Konfigurieren von Office-Telemetrie
+
+  - Konfigurieren von Microsoft Analytics
 
 
-  ### Modul 5&#58; Praktisches Labor
 
-  #### Labor&#58; Office 365 verwalten
-  - Übung 1&#58; Erstellen eines Microsoft 365-Testmieters
-  - Übung 2&#58; Eine verwaltete Office 365 ProPlus-Installation vorbereiten
+  ### <a name="module--558-hands-on-lab"></a>Modul 5&#58; Praxislab
+
+
+  #### <a name="lab-58-managing-office-365"></a>Lab&#58; Verwalten von Office 365
+
+  - Übung 1&#58; Einrichten eines Microsoft 365-Testmandanten
+
+  - Übung 2&#58; Vorbereiten einer verwalteten Office 365 ProPlus-Installation
+
   - Übung 3&#58; Verwalten benutzergesteuerter Office 365 ProPlus-Installationen
+
   - Übung 4&#58; Verwalten zentralisierter Office 365 ProPlus-Installationen
-  - Übung 5&#58; Bereitstellen und Konfigurieren von Office Telemetrie-Komponenten
+
+  - Übung 5&#58; Bereitstellen und Konfigurieren von Office-Telemetriekomponenten

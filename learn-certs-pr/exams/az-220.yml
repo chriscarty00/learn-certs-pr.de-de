@@ -1,21 +1,29 @@
 ### YamlMime:Examination
 title: Microsoft Azure IoT Developer
 metadata:
-  title: 'Exam AZ-220: Microsoft Azure IoT Developer'
-  description: 'Exam AZ-220: Microsoft Azure IoT Developer'
+  title: 'Prüfung AZ-220: Microsoft Azure IoT Developer'
+  description: 'Prüfung AZ-220: Microsoft Azure IoT Developer'
+  ms.openlocfilehash: 92d0e78131d0b400b5a07ea4c7e7bd116f611965
+  ms.sourcegitcommit: 8cad4571f4ed5db8e51cccdc1cf6355526195802
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/26/2021
+  ms.locfileid: "132112645"
 uid: exam.az-220
 displayName: AZ-220
-summary: |-
-  <div><div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am Freitag, 24. September 2021 aktualisiert. Bitte laden Sie das unten stehende Dokument mit den bewerteten Fähigkeiten herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div><div><font color='red'>HINWEIS: Punktzahl für einen erfolgreichen Abschluss: 700. Erfahren Sie mehr über Prüfungsergebnisse <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
-  
+summary: >-
+  <div><div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am 24. September 2021 aktualisiert. Laden Sie das unten aufgeführte Dokument mit den gemessenen Qualifikationen herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div><div><font color='red'>HINWEIS: Erforderliche Mindestpunktzahl: 700. Weitere Informationen zu Prüfungsergebnissen finden Sie <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
+
+
   Kandidaten für diese Prüfung sollten über Fachwissen zur Implementierung der Konfigurations- und Kodierungsaufgaben verfügen, die für die Erstellung und Wartung der Cloud- und Edge-Teile einer IoT-Lösung erforderlich sind.
-  
-  Kandidaten für diese Prüfung sollten über ein allgemeines Verständnis von Gerätetypen und Azure-Diensten verfügen, einschließlich Datenspeicheroptionen, Datenanalyse, Datenverarbeitung, KI und andere Platform-as-a-Service-Optionen (PaaS). Sie müssen in der Lage sein, in mindestens einer vom Azure IoT Software Development Kit unterstützten (SDK-unterstützten) Sprache zu programmieren.
-subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die IoT-Lösungsinfrastruktur einzurichten. Bereitstellung und Verwaltung von Geräten, Implementieren von IoT Edge; Daten verarbeiten und verwalten; Überwachung, Fehlerbehebung und Optimierung von IoT-Lösungen; und Sicherheit implementieren.'
+
+
+  Kandidaten für diese Prüfung sollten über ein allgemeines Verständnis von Gerätetypen und Azure-Diensten verfügen, einschließlich Datenspeicheroptionen, Datenanalyse, Datenverarbeitung, KI und andere Platform-as-a-Service-Optionen (PaaS). Sie müssen in der Lage sein, in mindestens einer vom Azure IoT Software Development Kit (SDK) unterstützten Sprache zu programmieren.
+subTitle: Diese Prüfung misst Ihre Fähigkeit zum Einrichten der IoT-Lösungsinfrastruktur, zum Bereitstellen und Verwalten von Geräten, zum Implementieren von IoT Edge, zum Verarbeiten und Verwalten von Daten, zur Überwachung, Problembehandlung und Optimierung von IoT-Lösungen und zum Implementieren von Sicherheit.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-220&examname=Exam%20AZ-220:%20Microsoft%20Azure%20IoT%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-220
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-220&examname=Exam%20AZ-220:%20Microsoft%20Azure%20IoT%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-220
 locales:
 - en
 - ja
@@ -32,14 +40,14 @@ locales:
 levels:
 - intermediate
 skills:
-- Der Inhalt dieser Prüfung wurde am 24. September 2021 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich geändert hat.
-- IoT-Lösungsinfrastruktur einrichten (10-15%)
-- Bereitstellung und Verwaltung von Geräten (15-20%)
-- IoT Edge implementieren (15-20%)
-- Geschäftsintegration implementieren (5-10%)
-- Daten verarbeiten und verwalten (15-20%)
-- Überwachung, Fehlerbehebung und Optimierung von IoT-Lösungen (15-20%)
-- Sicherheit implementieren (10-15%)
+- The content of this exam was updated on September 24, 2021. Please download the exam skills outline below to see what changed.
+- Set up the IoT solution infrastructure (10-15%)
+- Provision and manage devices (15-20%)
+- Implement IoT Edge (15-20%)
+- Implement business integration (5-10%)
+- Process and manage data (15-20%)
+- Monitor, troubleshoot, and optimize IoT solutions (15-20%)
+- Implement security (10-15%)
 roles:
 - developer
 products:
@@ -61,13 +69,13 @@ resources:
 - title: Reise zur Zertifizierung
   description: Informieren Sie sich über die nötigen Schritte für eine Zertifizierung als Azure IoT Developer Specialty und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
-- title: Informieren Sie sich über die Zertifizierungen
+- title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
   href: https://aka.ms/traincertposter
-- title: Prüfungswiederholung
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
@@ -77,8 +85,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
-- title: Prüfungsrichtlinien und häufig gestellten Fragen
+- title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md

@@ -1,10 +1,16 @@
 ### YamlMime:Course
-title: Manage SharePoint and OneDrive in Microsoft 365
+title: Verwalten von SharePoint und OneDrive in Microsoft 365
 metadata:
-  title: 'Course MS-040T00-A: Manage SharePoint and OneDrive in Microsoft 365'
-  description: 'Course MS-040T00-A: Manage SharePoint and OneDrive in Microsoft 365'
+  title: 'Kurs MS-040T00-A: Verwalten von SharePoint und OneDrive in Microsoft 365'
+  description: 'Kurs MS-040T00-A: Verwalten von SharePoint und OneDrive in Microsoft 365'
+  ms.openlocfilehash: f492a29c318d742915dbb50b6e9178bc3fb1ab55
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107123"
 uid: course.ms-040t00
-courseNumber: 'MS-040T00-A'
+courseNumber: MS-040T00-A
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -13,11 +19,11 @@ skillsGained:
 - skill: Bereitstellen des OneDrive Synchronisierungs-Clients.
 - skill: Gruppenrichtlinien verwenden, um die Einstellungen des OneDrive-Sync-Client zu steuern.
 - skill: Verwalten der externen Freigabe für Daten in Microsoft SharePoint und OneDrive.
-- skill: Nutzerprofileigenschaften konfigurieren
+- skill: Nutzerprofileigenschaften konfigurieren.
 - skill: Zielgruppen verwalten.
 - skill: Verwenden des App-Katalogs, um benutzerdefinierte Apps zu verwalten.
 - skill: Begriffsgruppen, Begriffssätze und Begriffe erstellen und verwalten.
-- skill: Den Unterschied zwischen modernen und klassischen Sucherfahrungen beschreiben.
+- skill: '- Den Unterschied zwischen modernen und klassischen Sucherfahrungen beschreiben.'
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -27,95 +33,162 @@ roles:
 - administrator
 products:
 - m365
-summary: |-
+summary: >-
   Inhalt ist das wichtigste digitale Asset für jedes Unternehmen. In diesem Kurs lernen Sie, wie man SharePoint Sites und OneDrive planen, konfigurieren und verwalten kann, um moderne inhaltliche Services zu ermöglichen, die die Bestandteile des Lebenszyklus transformieren. In diesem Kurs wird insbesondere die moderne SharePoint-Site-Struktur erläutert, z. B. SharePoint-Hubsites. Er bietet bewährte Praktiken für die Einführung und Bereitstellung von OneDrive for Business in Ihrem Unternehmen. Außerdem werden Freigabe, Sicherheit und Überwachung in SharePoint und OneDrive in Microsoft 365 behandelt. Darüber hinaus erfahren Sie, wie man Benutzerprofile und Apps mit den richtigen Berechtigungseinstellungen verwaltet. Außerdem wird erläutert, wie verwaltete Metadaten, Geschäfts-Konnektivitäts-Services und Suchvorgänge geplant und konfiguriert werden, damit Inhalte in Microsoft 365 gefunden, verwendet und reguliert werden können.
 
-  #### Zielgruppenprofil
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
   Dieser Kurs richtet sich an IT-Experten, die Microsoft SharePoint und OneDrive in ihren Unternehmen bereitstellen und verwalten. Teilnehmer dieses Kurses interessieren sich für Microsoft SharePoint und OneDrive.
-prerequisitesSection: |-
-  Die Lernenden sollten diesen Kurs bereits mit den folgenden Fähigkeiten beginnen&#58;
-  - Ein fundiertes Verständnis von grundlegenden Funktionserfahrungen mit Microsoft 365-Diensten.
-  - Ein kompetentes Verständnis der allgemeinen IT-Praktiken, einschließlich der Verwendung von PowerShell.
-  - Grundlegendes Verständnis von Active Directory und Azure AD.
-  - Grundlegendes Verständnis der Verwaltung mobiler Geräte und alternativer Betriebssysteme (Android und macOS).
-outlineSection: |-
-  ### Modul 1&#58; Planen und Konfigurieren von SharePoint-Sites
+prerequisitesSection: >-
+  Die Lernenden sollten diesen Kurs bereits mit den folgenden Fähigkeiten beginnen:
+
+  - Fundiertes Verständnis der grundlegenden Funktionen von Microsoft 365-Diensten
+
+  - Fundiertes Verständnis allgemeiner IT-Verfahren, einschließlich der Verwendung von PowerShell
+
+  - Grundlegendes Verständnis von Active Directory und Azure AD
+
+  - Grundlegendes Verständnis der Verwaltung mobiler Geräte und alternativer Betriebssysteme (Android und macOS)
+outlineSection: >-
+  ### <a name="module-158-plan-and-configure-sharepoint-sites"></a>Modul 1&#58; Planen und Konfigurieren von SharePoint-Sites
+
   In diesem Modul geht es um das Planen, Konfigurieren und Verwalten von SharePoint-Sites. Hier wird erläutert, wie SharePoint-Administratoren mithilfe des administrativen Centers von SharePoint den Lebenszyklus von Websitesammlungen in Ihrem Unternehmen verwalten.
-  #### Lektionen
+
+  #### <a name="lessons"></a>Lektionen
+
   - Übersicht über SharePoint in Microsoft 365
-  - Konfigurieren Sei SharePoint-Sites
+
+  - Konfigurieren von SharePoint-Sites
+
   - Verwalten von SharePoint-Sites
 
-  Nach Abschluss dieses Moduls können die Schüler&#58;
-  - Erstellen von SharePoint-Sites.
-  - Verwalten von Speicherbeschränkungen für SharePoint-Sites.
-  - Erstellen und Konfigurieren von SharePoint-Hubsites.
-  - Beschreiben der Verwendung des SharePoint Admin-Centers zum Verwalten von SharePoint-Sites.
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Erstellen von SharePoint-Sites
+
+  - Verwalten von Speicherbeschränkungen für SharePoint-Sites
+
+  - Erstellen und Konfigurieren von SharePoint-Hubwebsites
+
+  - Beschreiben der Verwendung des SharePoint Admin Centers zum Verwalten von SharePoint-Sites
 
 
-  ### Modul 2&#58; OneDrive konfigurieren und verwalten
+
+  ### <a name="module-258-configure-and-manage-onedrive"></a>Modul 2&#58; Konfigurieren und Verwalten von OneDrive
+
   In diesem Modul wird erläutert, wie man die Bereitstellung von OneDrive plant. Es werden verschiedene Ansätze für die Bereitstellung von OneDrive anhand verschiedener Szenarien erläutert. Außerdem werden die Funktionen zum Verwalten von Inhalten in OneDrive for Business vorgestellt.
-  #### Lektionen
+
+  #### <a name="lessons"></a>Lektionen
+
   - Übersicht über OneDrive in Microsoft 365
-  - OneDrive bereitstellen
-  - OneDrive verwalten
 
-  Nach Abschluss dieses Moduls können die Schüler&#58;
-  - Speicherbeschränkungen der Benutzer verwalten.
-  Konfigurieren der Datenaufbewahrung in OneDrive.
+  - Bereitstellen von OneDrive
+
+  - Verwalten von OneDrive
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Verwalten der Speicherbeschränkungen von Benutzern
+
+  - Konfigurieren der Datenaufbewahrung in OneDrive
+
   - Gruppenrichtlinien verwenden, um die Einstellungen des OneDrive-Sync-Client zu steuern.
-  - Beschreiben Sie verschiedene Methoden zum Bereitstellen von OneDrive for Business.
-  - Beschreiben Sie die Verwendung des administrativen Centers von OneDrive zum Verwalten von OneDrive for Business.
+
+  - Beschreiben verschiedener Methoden zum Bereitstellen von OneDrive
+
+  - Beschreiben der Verwendung des OneDrive Admin Centers zum Verwalten von OneDrive
 
 
-  ### Modul 3&#58; Freigabe und Sicherheit in SharePoint und OneDrive
+
+  ### <a name="module-358-sharing-and-security-in-sharepoint-and-onedrive"></a>Modul 3&#58; Freigabe und Sicherheit in SharePoint und OneDrive
+
   Dieses Modul konzentriert sich auf Freigabe, Sicherheit und Überwachung in Microsoft SharePoint und OneDrive. Insbesondere werden Planung und Verwaltung der externen Freigabe sowie Zugriffssteuerung in SharePoint und OneDrive erläutert. Außerdem wird erläutert, wie man mit Microsoft 365 Admin Center die Aktivitäten in Microsoft SharePoint und OneDrive überwacht.
-  #### Lektionen
-  - Die SharePoint-Siteberechtigungen verwalten
-  - Die Freigabe in SharePoint und OneDrive verwalten
-  - Die Sicherheit in SharePoint und OneDrive verwalten
 
-  Nach Abschluss dieses Moduls können die Schüler&#58;
-  - Die externe Freigabe in Microsoft SharePoint und OneDrive beschreiben.
-  - Optionen zum Verwalten des Gerätezugriffs auf Microsoft SharePoint und OneDrive beschreiben.
-  - Zeigen Sie Microsoft 365-Berichte an, die die Verwendung von SharePoint und OneDrive messen.
+  #### <a name="lessons"></a>Lektionen
+
+  - Verwalten von SharePoint-Siteberechtigungen
+
+  - Verwalten der Freigabe in SharePoint und OneDrive
+
+  - Verwalten der Sicherheit in SharePoint und OneDrive
 
 
-  ### Modul 4&#58; Benutzerprofile und Apps verwalten
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Beschreiben der externen Freigabe in Microsoft SharePoint und OneDrive
+
+  - Beschreiben der Optionen zum Verwalten des Gerätezugriffs auf Microsoft SharePoint und OneDrive
+
+  - Anzeigen von Microsoft 365-Berichten zum Messen der Nutzung von SharePoint und OneDrive
+
+
+
+  ### <a name="module-458-manage-user-profiles-and-apps"></a>Modul 4&#58; Verwalten von Benutzerprofilen und Apps
+
   In diesem Modul geht es um das Benutzerprofil und die Anpassung in Microsoft SharePoint. Hier wird die Verwaltung von Benutzerprofilen in Microsoft SharePoint erläutert. Außerdem wird beschrieben, wie man mithilfe des App-Katalogs benutzerdefinierte Geschäftsanwendungen für SharePoint in Microsoft 365 nutzt.
-  #### Lektionen
-  - Benutzerprofile verwalten
-  - Apps verwalten
 
-  Nach Abschluss dieses Moduls können die Schüler&#58;
-  - Beschreiben, wie man Benutzerprofileigenschaften konfiguriert.
-  - Beschreiben, wie man Zielgruppen verwaltet.
-  - Beschreiben, wie man mit dem App-Katalog benutzerdefinierte Apps erstellt.
+  #### <a name="lessons"></a>Lektionen
+
+  - Verwalten von Benutzerprofilen
+
+  - Verwalten von Apps
 
 
-  ### Modul 5&#58; Planen und Konfigurieren von verwalteten Metadaten und Business Connectivity Services
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Beschreiben der Konfiguration von Benutzerprofileigenschaften
+
+  - Beschreiben der Verwaltung von Zielgruppen
+
+  - Beschreiben der Verwendung des App-Katalogs zum Verwalten benutzerdefinierter Apps
+
+
+
+  ### <a name="module-558-plan-and-configure-managed-metadata-and-business-connectivity-services"></a>Modul 5&#58; Planen und Konfigurieren von verwalteten Metadaten und Business Connectivity Services
+
   In diesem Modul geht es um die verwalteten Metadata und Geschaftskonnektivitäts-Services. Hier werden die Konzepte verwalteter Metadaten sowie der Vorgang zum Importieren von Begriffssätzen vorgestellt. Außerdem wird beschrieben, wie man Geschäftskonnektivitäts-Services verwaltet und externe Listen erstellt.
-  #### Lektionen
+
+  #### <a name="lessons"></a>Lektionen
+
   - Planen und Konfigurieren von verwalteten Metadaten
-  - Business Connectivity Services planen und konfigurieren
 
-  Nach Abschluss dieses Moduls können die Schüler&#58;
-  - Die Funktionen der verwalteten Metadaten beschreiben.
+  - Planen und Konfigurieren von Business Connectivity Services
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Beschreiben der Funktionen der verwalteten Metadaten
+
   - Begriffsgruppen, Begriffssätze und Begriffe erstellen und verwalten.
-  - Die wichtigsten Komponenten eines BDC-Modells erläutern.
-  - Die allgemeine Architektur von BCS beschreiben.
-  - Erläutern Sie den Zweck des Secure Store-Services.
+
+  - Erläutern der Hauptkomponenten eines BDC-Modells
+
+  - Beschreiben der allgemeinen Architektur von BCS
+
+  - Erläutern des Zwecks des Secure Store Service
 
 
-  ### Modul 6&#58; Suche planen und konfigurieren
+
+  ### <a name="module-658-plan-and-configure-search"></a>Modul 6&#58; Planen und Konfigurieren der Suche
+
   In diesem Modul geht es um den SharePoint-Such-Service. Hier werden Details zum Planen und Konfigurieren der SharePoint-Suche geliefert, einschließlich des Unterschieds zwischen klassischer und moderner Suche. Außerdem wird erläutert, wie man die Sucherfahrung mit verschiedenen Einstellungen anpassen kann.
-  #### Lektionen
-  - Suche planen
-  - Suche konfigurieren
 
-  Nach Abschluss dieses Moduls können die Schüler&#58;
-  Den Unterschied zwischen modernen und klassischen Sucherfahrungen beschreiben.
-  - Beschreiben, wie man das Suchschema verwaltet.
-  - Verwendung und Bereitstellung von Abfrageregeln erläutern
-  - Die Verwendung und Bereitstellung der Ergebnisquelle erläutern.
+  #### <a name="lessons"></a>Lektionen
 
+  - Planen der Suche
+
+  - Konfigurieren der Suche
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - - Den Unterschied zwischen modernen und klassischen Sucherfahrungen beschreiben.
+
+  - Beschreiben der Verwaltung des Suchschemas
+
+  - Erläutern der Verwendung und Bereitstellung von Abfrageregeln
+
+  - Erläutern der Verwendung und Bereitstellung der Ergebnisquelle

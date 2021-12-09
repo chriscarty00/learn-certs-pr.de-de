@@ -3,36 +3,46 @@ title: Microsoft Dynamics 365 Commerce Functional Consultant
 metadata:
   title: 'MB-340: Microsoft Dynamics 365 Commerce Functional Consultant'
   description: 'MB-340: Microsoft Dynamics 365 Commerce Functional Consultant'
+  ms.openlocfilehash: 16770ca6f6c0c42b35b3ec29576fdd3a71ef9010
+  ms.sourcegitcommit: c0897fc6536adf49a00cbefbe0ee43945146c08b
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/17/2021
+  ms.locfileid: "132112544"
 uid: exam.mb-340
 displayName: MB-340
-summary: |-
-  <div><font color='red'>HINWEIS: Punktzahl für einen erfolgreichen Abschluss: 700. Erfahren Sie mehr über Prüfungsergebnisse <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
+summary: >-
+  <div><font color='red'>HINWEIS: Erforderliche Mindestpunktzahl: 700. Weitere Informationen zu Prüfungsergebnissen finden Sie <strong><a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a></strong>.</font><br/><br/></div>
 
-  Kandidaten für diese Prüfung richten die Anwendungsfunktionalität in Dynamics 365 Commerce ein, nutzen sie und bieten Unterstützung für die Anwendung an.
-  
-  Die Kandidaten haben ein ausgeprägtes Verständnis für den Geschäftsbetrieb im Bereich Unified Commerce. Sie haben möglicherweise Erfahrung in der Konfiguration, Bereitstellung und Wartung von Dynamics 365 Commerce.
-subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu bewältigen: Konfigurieren von Dynamics 365 Commerce Headquarters; Konfigurieren von Produkten, Preisen, Rabatten, Loyalität und Zugehörigkeiten; Verwalten von Point of Sales (POS) in Dynamics 365 Commerce; Konfigurieren und Verwalten von  Dynamics 365 Commerce -Callcentern; und Verwalten von E-Commerce.'
+
+  Kandidaten für diese Prüfung richten die Anwendungsfunktionalität in Dynamics 365 Commerce ein und verwenden sie. Zudem stellen sie Support für die Anwendung bereit.
+
+
+  Kandidaten verfügen über ein ausgeprägtes Verständnis von einheitlichen Vorgängen im Commercebereich. Sie besitzen nach Möglichkeit Erfahrung im Konfigurieren, Bereitstellen und Verwalten von Dynamics 365 Commerce.
+subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu bewältigen: Konfigurieren von Dynamics 365 Commerce Headquarters, Konfigurieren von Produkten, Preisen, Rabatten, Loyalität und Zugehörigkeiten, Verwalten von Point-of-Sales-Systemen (POS) in Dynamics 365 Commerce, Konfigurieren und Verwalten von Dynamics 365 Commerce-Callcentern und Verwalten von E-Commerce.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKn
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MB-340&examname=Exam%20MB-340:%20Microsoft%20Dynamics%20365%20Commerce%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-340
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-340&examname=Exam%20MB-340:%20Microsoft%20Dynamics%20365%20Commerce%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-340
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Dynamics 365 Commerce Headquarters konfigurieren (25-30%)
-- Produkte, Preise, Rabatte, Loyalität und Zugehörigkeiten konfigurieren (25-30%)
-- POINT OF SALE oder POS Dynamics 365 Commerce verwalten (15-20%)
-- Dynamics 365 Commerce Callcenter konfigurieren und verwalten (10-15%)
-- E-Commerce verwalten (15-20%)
+- Configure Dynamics 365 Commerce Headquarters (25-30%)
+- Configure products, prices, discounts, loyalty, and affiliations (25-30%)
+- Manage Point of Sales (POS) in Dynamics 365 Commerce (15-20%)
+- Configure and manage Dynamics 365 Commerce call centers (10-15%)
+- Manage e-commerce (15-20%)
 roles:
 - functional-consultant
-products: 
+products:
 - dynamics-365
 - dynamics-commerce
 - dynamics-cust-svc-insights
 - dynamics-retail
 - dynamics-sales
+exams:
+- uid: exam.mb-300
 paths:
 - uid: learn-dynamics.get-started-dynamics-365-commerce
 - uid: learn-dynamics.configure-work-omnichannel-prequisites-commerce
@@ -41,18 +51,16 @@ paths:
 - uid: learn-dynamics.configure-use-pos-commerce
 - uid: learn-dynamics.configure-work-call-centers-commerce
 - uid: learn-dynamics.configure-work-e-commerce
-exams:
-- uid: exam.mb-300
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-commerce
 resources:
-- title: Lernpfad zur Zertifizirung
+- title: Lernpfad zur Zertifizierung
   description: Empfohlene Schulungsressourcen, die Ihnen helfen, sich auf die erforderlichen Prüfungen vorzubereiten und Ihre Zertifizierung zu erhalten.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWH8MJ
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Dynamics 365 und Power Platform an.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

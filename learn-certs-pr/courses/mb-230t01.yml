@@ -1,24 +1,32 @@
 ### YamlMime:Course
-title: Microsoft Dynamics 365 Customer Service
+title: Microsoft Dynamics 365-Kundendienst
 metadata:
-  title: 'Kurs MB-230T01-A: Microsoft Dynamics 365 Customer Service'
-  description: 'Kurs MB-230T01-A: Microsoft Dynamics 365 Customer Service'
+  title: 'Kurs MB-230T01--A: Microsoft Dynamics 365 Customer Service'
+  description: 'Kurs MB-230T01--A: Microsoft Dynamics 365 Customer Service'
+  ms.openlocfilehash: 7d3d08d904ef23f95457275451988d818d9eecda
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132113536"
 uid: course.mb-230t01
-courseNumber: 'MB-230T01-A'
+courseNumber: MB-230T01
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Installieren und konfigurieren der Kundendienstanwendung
-- skill: Identifizieren gängiger Kundendienst-Szenarien
-- skill: Beenden einen Lösungsprozesses für einen Fall
+- skill: Installieren und Konfigurieren der Kundendienst-App
+- skill: Bestimmen gängiger Kundendienstszenarien
+- skill: Abschließen eines Prozesses zur Lösung von Fällen
 - skill: Analysieren von Kundendienstdaten
-- skill: Bearbeitung von Datensätzen zum Case Management automatisieren
-- skill: Fachartikel erstellen und verwenden
-- skill: Erstellen und Verwenden von Berechtigungen und Dienstleistungsvereinbarungen
+- skill: Automatisieren der Verarbeitung von Fallverwaltungsdatensätzen
+- skill: Erstellen und Verwenden von Knowledge-Artikeln
+- skill: Erstellen und Verwenden von Berechtigungen und Vereinbarungen zum Servicelevel
 - skill: Arbeiten mit Omnichannel
-- skill: Arbeiten mit dem Connected Customer Service
-- skill: Arbeiten mit der Kundenserviceplanung
-- skill: Arbeiten mit Customer Service Insights
+- skill: Arbeiten mit dem verbundenen Kundendienst
+- skill: Arbeiten mit der Zeitplanung für den Kundendienst
+- skill: Erste Schritte mit Customer Service Insights
+- skill: Arbeiten mit Microsoft Power Platform
+- skill: Erste Schritte mit Customer Service-Arbeitsbereichen
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -27,107 +35,294 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
-- dynamics-customer-service
+- dynamics-365
 exams:
 - uid: exam.mb-230
-summary: |-
-  Microsoft Dynamics 365 for Customer Service bietet jedem Unternehmen eine Möglichkeit für den Kundenerfolg.Die Verwendung von Tools wie der automatischen Fallerstellung und dem Warteschlangenmanagement spart Zeit, um direkt beim Kunden zu ermitteln, wo eine größere Wirkung erzielt werden kann.
-
-  Unser Team weltweit anerkannter Experten führt die Teilnehmer Schritt für Schritt von der Fallerstellung über die Interaktion mit Kunden bis hin zur Lösung dieser Fälle.Sobald Sie diese Fälle gelöst haben, können Sie aus der Datenanalyse die wichtigsten Details lernen, um ähnliche Fälle schneller zu lösen oder neue Probleme insgesamt zu vermeiden.
-
-  #### Zielgruppenprofil
-  Zu den Aufgaben des Dynamics 365-Modulberaters für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von Bedürfnissen, sowie Lösungen und Anwendungen zu konfigurieren.Der Modulbetreuer implementiert eine Lösung mit Hilfe gebrauchsfertiger Funktionen, codefreier Erweiterungsmöglichkeiten sowie Anwendungs- und Service-Integrationen.
-prerequisitesSection: |-
-  Dieser Kurs richtet sich an Funktionsberater, die mit dem Dynamics 365-Kundendienst arbeiten, oder an Funktionsberater, die mit anderen Dynamics 365-Apps arbeiten und ihr Wissen über den Kundenservice erweitern möchten.
-outlineSection: |-
-  ### Modul 1&#58; Kundendienstübersicht
-  In diesem Modul lernen die Teilnehmer die Grundlagen des Vertriebs in Dynamics 365.Die Teilnehmer installieren und konfigurieren die Anwendung und lernen Sicherheitsrollen, zugehörige Anwendungen und Analysen kennen.
-  #### Lektionen
-  - Lektion 1&#58; Falldatensätze erstellen
-  - Lektion 2&#58; Verwandte Service-Apps
-  - Lektion 3&#58; Analysen für den Service
-  - Lektion 4&#58; AI für den Service
-  - Lektion 5&#58; Kundendienst konfigurieren
-
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Installieren und konfigurieren der Kundendienstanwendung.
-  - Identifizieren gängiger Kundendienst-Szenarien.
+summary: >-
+  Microsoft Dynamics 365 Customer Service bietet Unternehmen die Möglichkeit, den Kundenerfolg zu steigern.&nbsp; Durch den Einsatz von Tools wie automatische Fallerstellung und Warteschlangenverwaltung gewinnen Sie Zeit, die Sie dort nutzen können, wo Sie mehr bewirken können, nämlich direkt bei Ihren Kunden.Begleiten Sie unser Team von weltweit anerkannten Experten, das Sie Schritt für Schritt von der Erstellung von Fällen über die Interaktion mit Kunden bis zur Lösung dieser Fälle führt.&nbsp; Sobald Sie diese Fälle gelöst haben, können Sie anhand der Datenanalyse die wichtigsten Details lernen, die Ihnen helfen, ähnliche Fälle schneller zu lösen oder neue Probleme ganz zu vermeiden.
 
 
-  ### Modul 2&#58; Case Management
-  In diesem Modul lernen die Teilnehmer, Kundenservice-Fälle sowohl manuell als auch mit Automatisierung aufzumachen und zu lösen.
-  #### Lektionen
-  - Lektion 1&#58; Case Management-Übersicht
-  - Lektion 2&#58; Fallakten erstellen
-  - Lektion 3&#58; Warteschlangenverwaltung
-  - Lektion 4&#58;Fallrouting
-  - Lektion 5&#58; Fälle lösen
-
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - Eröffnen und Lösen von Kundendienstfällen
-  - Fallerstellung und -weiterleitung automatisieren
+  #### <a name="audience-profile"></a>Zielgruppenprofil
 
 
-  ### Modul 3&#58; Dienstleistungsvereinbarung und Berechtigungen
-  In diesem Modul lernen die Teilnehmer, wie man Berechtigungen und Berechtigungsvorlagen sowie Servicevereinbarungen definiert und verwendet und wie diese Tools eine Falllösung ermöglichen.
-  #### Lektionen
-  - Lektion 1&#58; SLA und Berechtigungsübersicht
-  - Lektion 2&#58; Berechtigungen erstellen und verwalten
-  - Lektion 3&#58; SLAs erstellen und verwalten
-
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - Erstellen und Verwenden von Dienstleistungsvereinbarungen
-  - Berechtigungen erstellen und verwenden
+  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von sowie Lösungen und Anwendungen zu konfigurieren. Der Functional Consultant implementiert eine Lösung unter Verwendung von standardisierten Funktionen, codeloser Erweiterbarkeit, Anwendungs- und Service-Integrationen.
+prerequisitesSection: Dieser Kurs richtet sich an Functional Consultants, die mit Dynamics 365 Customer Service arbeiten, oder an Functional Consultants, die mit anderen Dynamics 365-Anwendungen arbeiten und ihr Customer Service-Wissen erweitern möchten.
+outlineSection: >-
+  ### <a name="module-1-work-with-cases"></a>Modul 1: Arbeiten mit Fällen
 
 
-  ### Modul 4&#58; Wissensmanagement
-  In diesem Modul lernen die Teilnehmer, Wissensmanagement zu erstellen und anzuwenden.Darüber hinaus lernen die Teilnehmer den Lebenszyklus von Fachartikeln kennen.
-  #### Lektionen
-  - Lektion 1&#58; Case Management-Übersicht
-  - Lektion 2&#58; Verfassen und organisieren
-  - Lektion 3&#58; Verwenden von Wissensinhalten
-  - Lektion 4&#58; Wissensinhalte verwalten
+  In diesem Modul erfahren Sie mehr über das Arbeiten mit Fällen in Dynamics 365 Customer Service.
 
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - Wissensinhalte erstellen und verwalten
 
-  ### Modul 5&#58; Omnichannel
-  In diesem Modul erfahren Sie, wie man mit dem Omnichannel for Dynamics 365-Customer Service arbeitet.
-  #### Lektionen
-  - Lektion 1&#58; Fangen wir an!
-  - Lektion 2&#58; Routing von Entitätsdatensätzen
-  - Lektion 3&#58; Arbeitsplan und Arbeitsverteilung
-  - Lektion 4&#58; Konfigurieren von Nachrichtenkanälen
-  - Lektion 5&#58; Chat-Widgets bereitstellen
-  - Lektion 6&#58; Intelligente Unterstützungslösungen erstellen
-  - Lektion 7&#58; Integrieren eines Power Virtual Agents-Bot
-  - Lektion 8&#58; Produktivitätstools
-  
-  
-  ### Modul 6&#58; Kundenserviceplanung
-  In diesem Modul erfahren Sie, wie man die Funktion zur Planung des Kundenservices in Dynamics 365-Customer Service verwendet.
-  #### Lektionen
-  - Lektion 1&#58; Erste Schritte zur Planung der Kundendienstplanung
-  - Lektion 2&#58; Kundenserviceplanung konfigurieren
-  - Lektion 3&#58; Definieren und Arbeiten mit buchbaren Ressourcen
-  - Lektion 4&#58; Arbeiten mit Serviceleistungen
-  - Lektion 5&#58; Arbeiten mit Erfüllungspräferenzen
-  - Lektion 6&#58; Planen von Serviceaktivitäten
-  - Lektion 7&#58; Service-Aktivitäten neu planen und Ressourcen ersetzen
-  
-  
-  ### Modul 7&#58; Verbundener Kundenservice
-  In diesem Modul erfahren Sie, wie Sie mit dem Dynamics 365 Connected Customer Service Daten erfassen und tatsächliche Geschäftsaktionen für die Daten ausführen können.
-  #### Lektionen
-  - Lektion 1&#58; Erste Schritte zur Planung des Kundenservices
-  - Lektion 2&#58; Geräte registrieren
-  - Lektion 3&#58; Geräteverwaltung und Interaktion
-  - Lektion 4&#58; IoT-Warnungen und Senden von Befehlen
-  
-  
-  ### Modul 8&#58; Customer Service Insights
-  In diesem Modul erfahren Sie, wie man mit Customer Service Insights arbeitet, um künstliche Intelligenz (KI) in der Dynamics 365-Customer Service-Lösung zu verwenden.
-  #### Lektionen
-  - Lektion 1&#58; Mit Customer Service Insights beginnen
-  - Lektion 2&#58; Arbeiten mit Customer Service call insights
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Lektion 1: Erste Schritte mit Fällen
+
+
+  *   Lektion 2: Verwalten von Fällen
+
+
+  *   Lektion 3:Verwalten des Workloads von Fällen mithilfe von Warteschlangen
+
+
+  *   Lektion 4: Automatisches Erstellen oder Aktualisieren von Datensätzen
+
+
+  *   Lektion 5: Einheitliches Routing
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erstellen und Verwalten von Fällen&nbsp;
+
+
+  *   Arbeiten mit Warteschlangen und einheitlichem Routing
+
+
+  *   Automatisches Erstellen oder Aktualisieren von Datensätzen
+
+
+
+  ### <a name="module-2-work-with-entitlements-and-service-level-agreements"></a>Modul 2: Arbeiten mit Berechtigungen und Vereinbarungen zum Servicelevel
+
+
+  In diesem Modul erfahren Sie, wie Sie Berechtigungen und Vereinbarungen zum Servicelevel erstellen und verwalten.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Lektion 1: Erstellen und Verwalten von Berechtigungen
+
+
+  *   Lektion 2: Erstellen und Verwalten von Vereinbarungen zum Servicelevel
+
+
+
+  Nach Abschluss dieses Moduls können Sie Folgendes:
+
+
+  *   Erstellen und Verwalten von Berechtigungen
+
+
+  *   Erstellen und Verwalten von Vereinbarungen zum Servicelevel
+
+
+
+  ### <a name="module-3-work-with-knowledge-management"></a>Modul 3: Arbeiten mit der Wissensverwaltung
+
+
+  In diesem Modul erfahren Sie, wie Sie Wissensverwaltungslösungen erstellen und Fälle mithilfe von Wissensdatenbankartikeln bearbeiten.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Lektion 1: Erstellen von Wissensverwaltungslösungen
+
+
+  *   Lektion 2: Verwenden von Wissensdatenbankartikeln beim Bearbeiten von Fällen
+
+
+  *   Lektion 3: Erstellen und Verwalten von SLAs
+
+
+
+  Nach Abschluss dieses Moduls können Sie Folgendes:
+
+
+  *   Erstellen und Verwenden von Wissensverwaltungslösungen
+
+
+  *   Bearbeiten von Fällen mithilfe von Wissensdatenbankartikeln
+
+
+
+  ### <a name="module-4-create-surveys-with-customer-voice"></a>Modul 4: Erstellen von Umfragen mit Customer Voice
+
+
+  In diesem Modul erfahren Sie, wie Sie mit Kunden über Dynamics 365 Customer Voice interagieren.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Lektion 1: Erstellen eines Umfrageprojekts
+
+
+  *   Lektion 2: Erstellen von Umfragen
+
+
+  *   Lektion 3: Senden von Umfragen
+
+
+  *   Lektion 4: Automatisieren von Umfragen
+
+
+
+  Nach Abschluss dieses Moduls können Sie Folgendes:
+
+
+  *   Nutzen Sie Dynamics 365 Customer Voice, um Umfragen an Kunden zu senden und Feedback einzuholen.
+
+
+
+  ### <a name="module-5-schedule-services"></a>Modul 5: Planen von Diensten
+
+
+  In diesem Modul erfahren Sie, wie Sie Dienste und Ressourcen der Zeitplanung für den Kundendienst planen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Lektion 1: Konfigurieren der Zeitplanung für den Kundendienst
+
+
+  *   Lektion 2: Planen von Diensten
+
+
+
+  Nach Abschluss dieses Moduls können Sie Folgendes:
+
+
+  *   Planen von Diensten und Ressourcen mithilfe von Dynamics 365 Customer Service Scheduling
+
+
+
+  ### <a name="module-6-work-with-dynamics-365-customer-service-workspaces"></a>Modul 6: Arbeiten mit Dynamics 365 Customer Service-Arbeitsbereichen
+
+
+  In diesem Modul erfahren Sie, wie Sie Customer Service-Arbeitsbereiche verwenden.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Lektion 1: Erhöhen der Produktivität von Mitarbeitern
+
+
+  *   Lektion 2: App-Profil-Manager
+
+
+
+  Nach Abschluss dieses Moduls können Sie Folgendes:
+
+
+  *   Verwenden von Arbeitsbereichen im Kundendienst zur Steigerung der Produktivität der Mitarbeiter
+
+
+  *   Verwenden des App-Profil-Managers
+
+
+
+  ### <a name="module-7-omnichannel-for-dynamics-365-customer-service"></a>Modul 7: Omnichannel für Dynamics 365 Customer Service
+
+
+  In diesem Modul erfahren Sie, wie Sie Omnichannel für Dynamics 365 Customer Service verwenden.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Lektion 1: Erste Schritte
+
+
+  *   Lektion 2: Routenplanung und Arbeitsverteilung
+
+
+  *   Lektion 3: Bereitstellen eines SMS-Kanals
+
+
+  *   Lektion 4: Bereitstellen von Chatwidgets
+
+
+  *   Lektion 5: Erstellen intelligenter Unterstützungslösungen
+
+
+
+  Nach Abschluss dieses Moduls können Sie Folgendes:
+
+
+  *   Arbeiten mit Omnichannel für Dynamics 365 Customer Service
+
+
+
+  ### <a name="module-8-manage-analytics-and-insights"></a>Modul 8: Verwalten von Analysen und Erkenntnissen
+
+
+  In diesem Modul erfahren Sie, wie Sie mit Erkenntnissen im Kundenservice arbeiten, um künstliche Intelligenz (KI) in Ihrer Dynamics 365 Customer Service-Lösung zu nutzen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Lektion 1: Erste Schritte
+
+
+  *   Lektion 2: Erstellen von Visualisierungen
+
+
+
+  Nach Abschluss dieses Moduls können Sie Folgendes:
+
+
+  *   Arbeiten Sie mit Erkenntnissen im Kundenservice, um künstliche Intelligenz (KI) in Ihrer Dynamics 365 Customer Service-Lösung zu nutzen.
+
+
+  *   Erstellen von Visualisierungen im Kundendienst
+
+
+
+  ### <a name="module-9-connected-customer-service"></a>Modul 9: Verbundener Kundendienst
+
+
+  In diesem Modul erfahren Sie, wie Sie den verbundenen Kundendienst für die aktive Bewältigung von Kundendienstszenarien verwenden.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Lektion 1: Erste Schritte
+
+
+  *   Lektion 2: Registrieren und Verwalten von Geräten
+
+
+
+  Nach Abschluss dieses Moduls können Sie Folgendes:
+
+
+  *   Arbeiten mit dem verbundenen Kundendienst
+
+
+  *   Registrieren und Verwalten von Geräten
+
+
+
+  ### <a name="module-10-implement-microsoft-power-platform"></a>Modul 10: Implementieren von Microsoft Power Platform
+
+
+  In diesem Modul erfahren Sie, wie Sie mithilfe von Microsoft Power Platform Ihre Dynamics 365 Customer Service-Lösung verbessern.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Lektion 1: Erstellen benutzerdefinierter Apps
+
+
+  *   Lektion 2: Integrieren eines Power Virtual Agents-Bots
+
+
+
+  Nach Abschluss dieses Moduls können Sie Folgendes:
+
+
+  *   Erstellen benutzerdefinierter Apps in Microsoft Power Platform für Ihre Kundendienstlösung
+
+
+  *   Integrieren eines Power Virtual Agents-Bots

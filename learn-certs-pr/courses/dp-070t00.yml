@@ -1,14 +1,20 @@
 ### YamlMime:Course
-title: Migrate Open Source Data Workloads to Azure
+title: Open Source Daten Workloads nach Azure übertragen
 metadata:
-  title: 'Course DP-070T00-A: Migrate Open Source Data Workloads to Azure'
-  description: 'Course DP-070T00-A: Migrate Open Source Data Workloads to Azure'
+  title: 'Kurs DP-070T00-A: Migrieren von Open-Source-Datenworkloads zu Azure'
+  description: 'Kurs DP-070T00-A: Migrieren von Open-Source-Datenworkloads zu Azure'
+  ms.openlocfilehash: 35efff2f5dd6e3c5f53339c108fbf94a8dfad5b7
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107530"
 uid: course.dp-070t00
-courseNumber: 'DP-070T00-A'
+courseNumber: DP-070T00-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: lokale MySQL nach Azure SQL DB für MySQL übertragen
+- skill: '- lokale MySQL nach Azure SQL DB für MySQL übertragen'
 - skill: lokale PostgreSQL nach Azure SQL DB für PostgreSQL übertragen
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -22,89 +28,130 @@ roles:
 - data-engineer
 products:
 - sql-server
-summary: |-
+summary: >-
   Dieser Kurs ermöglciht es den Teilnehmern, die Azure SQL Datenbank zu verstehen und vermittelt den Teilnehmern, was für die Migration von MySQL und PostgreSQL Workloads zur Azure SQL Datenbank erforderlich ist.
 
-  #### Zielgruppenprofil
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
   Die primäre Zielgruppe für diesen Kurs sind Datenbankentwickler, die planen, ihre MySQL- oder Postgres-DB-Workloads auf Azure SQL DB zu migrieren.
+
   Die sekundäre Zielgruppe für diesen Kurs sind MySQL/Postgres-Administratoren, um das Bewusstsein für die Features und Vorteile von Azure SQL DB zu erhöhen.
-prerequisitesSection: |-
-  Erfolgreiche Studenten beginnen diese Rolle mit einem grundlegenden Wissen über Cloud-Computing-Konzepte und Erfahrung mit relationalen Open-Source-Datenbankmanagementsystemen.
-  Insbesondere&#58;
-  - Arbeiten mit PostgreSQL und/oder MySQL
-  - Verwenden von Sicherungs- und Wiederherstellungstechniken mit Open Source-Daten
-  - SQL-Administration
+prerequisitesSection: "Erfolgreiche Kursteilnehmer beginnen diese Rolle mit grundlegenden Kenntnissen zu Cloud Computing-Konzepten und Erfahrung mit Open-Source-Verwaltungssystemen für relationale Datenbanken.  \nInsbesondere&#58;\n- Arbeiten mit PostgreSQL und/oder MySQL\n-   Verwenden von Sicherungs- und Wiederherstellungstechniken mit Open-Source-Daten\n-   SQL-Verwaltung \n\nUm diese Fertigkeiten zu erwerben, führen Sie vor der Teilnahme an dem Kurs die folgenden kostenlosen Onlineschulungen durch&#58;\n-   [Wichtige Clouddienste – Azure-Computeoptionen](/learn/modules/intro-to-azure-compute/)\n-   [Bereitstellen von MariaDB, MySQL und PostgreSQL in Azure](/learn/modules/deploy-mariadb-mysql-postgresql-azure/)\n-   [Einführung in Azure SQL](/learn/modules/azure-sql-intro/)\n-   [Einführung in die Open-Source-Datenbankmigrationen zu Azure Cosmos DB](/learn/modules/introduction-open-source-database-migration-azure-cosmos-db/)"
+outlineSection: >-
+  ### <a name="module--158-migrate-to-azure-sql-db-for-mysql--postgresql"></a>Modul 1&#58; Migrieren zu Azure SQL DB for MySQL und PostgreSQL
 
-  Um diese Fähigkeiten zu erwerben, nehmen Sie an der folgenden kostenlosen Online-Schulung teil, bevor Sie an dem Kurs teilnehmen&#58; 
-  - [Kern-Cloud-Services - Azure-Rechenoptionen](/learn/modules/intro-to-azure-compute/)
-  - [MariaDB, MySQL und PostgreSQL unter Azure bereitstellen](/learn/modules/deploy-mariadb-mysql-postgresql-azure/)
-  - [Einführung in Azure SQL](/learn/modules/azure-sql-intro/)
-  - [Einführung in die Open Source-Datenbankmigration zu Azure Cosmos DB](/learn/modules/introduction-open-source-database-migration-azure-cosmos-db/)
-outlineSection: |-
-  ### Modul 1&#58; Migration nach Azure SQL DB für MySQL & PostgreSQL
   Dieses Modul beschreibt die Vorteile und Architektur Azure SQL DB.
-  #### Lektionen
-  - OSS datenbank Überblick
-  - übliche OSS datenbank workloads
-  - Kundenchallenges in der Migration
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht über OSS-Datenbanken
+
+  - Gängige OSS-Datenbankworkloads
+
+  - Kundenprobleme bei der Migration
 
 
-  #### Labor&#58; source OSS datenbanken erstellen
-  - Postgres migration DB server Installieren
-  - MySQL migration DB server Installieren
-  - Backups/data dumps von Postgres/MySQL
-  - aus data dumps wiederherstellen
 
-  Am Ende dieses Moduls können die Teilnehmer&#58;
-  - OSS datenbank Überblick
-  - übliche OSS datenbank workloads
-  - Kundenchallenges in der Migration
+  #### <a name="lab-58-creating-source-oss-databases"></a>Lab&#58; Erstellen von OSS-Quelldatenbanken
+
+  - Installation eines Datenbankservers für die Postgres-Migration
+
+  - Installation eines Datenbankservers für die MySQL-Migration
+
+  - Sicherungen/Datenspeicherabbilder von Postgres/MySQL
+
+  - Wiederherstellen aus Datenspeicherabbildern
 
 
-  ### Modul 2&#58; on-premises MySQL nach Azure SQL DB für MySQL übertragen
+  Am Ende dieses Moduls können die Teilnehmer:
+
+  - Übersicht über OSS-Datenbanken
+
+  - Gängige OSS-Datenbankworkloads
+
+  - Kundenprobleme bei der Migration
+
+
+
+  ### <a name="module--258-migrate-on-premises-mysql-to-azure-sql-db-for-mysql"></a>Modul 2&#58; Migrieren lokaler MySQL-Instanzen zu Azure SQL DB for MySQL
+
   Dieses Modul beschreibt die Vorteile und Prozesse der MySQL workloads Migration anch Azure SQL DB
-  #### Lektionen
-  - Azure SQL DB for MySQL konfigurieren und verwalten
-  - lokale MySQL to SQL DB for MySQL migrieren
-  ­- Anwendungsmigration
-  - Überlegungen zur Migration
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Konfigurieren und Verwalten von Azure SQL DB for MySQL
+
+  - Migrieren lokaler MySQL-Instanzen zu SQL DB for MySQL
+
+  - Anwendungsmigration
+
+  - Überlegungen nach der Migration
 
 
-  #### Labor&#58; Migrating MySQL DB Workloads to Azure SQL DB
-  - MySQL DB Workloads nach Azure SQL DB
-  - Source und Target DBS definieren
-  - Migration durchführen
-  - Migration verifizieren
 
-  Am Ende dieses Moduls können die Teilnehmer&#58;
-  - Azure SQL DB for MySQL konfigurieren und verwalten
-  - lokale MySQL to SQL DB for MySQL migrieren
-  ­- Anwendungsmigration
-  - Überlegungen zur Migration
+  #### <a name="lab-58-migrating-mysql-db-workloads-to-azure-sql-db"></a>Lab&#58; Migrieren von MySQL DB-Workloads zu Azure SQL DB
+
+  - Migrieren von MySQL DB-Workloads zu Azure SQL DB
+
+  - Definieren von Quell- und Zieldatenbanken
+
+  - Durchführen der Migration
+
+  - Überprüfen der Migration
 
 
-  ### Modul 3&#58; lokale PostgreSQL to Azure SQL DB for PostgreSQL Migrieren
+  Am Ende dieses Moduls können die Teilnehmer:
+
+  - Konfigurieren und Verwalten von Azure SQL DB for MySQL
+
+  - Migrieren lokaler MySQL-Instanzen zu SQL DB for MySQL
+
+  - Anwendungsmigration
+
+  - Überlegungen nach der Migration
+
+
+
+  ### <a name="module--358-migrate-on-premises-postgresql-to-azure-sql-db-for-postgresql"></a>Modul 3&#58; Migrieren lokaler PostgreSQL-Instanzen zu Azure SQL DB for PostgreSQL
+
   Dieses Modul beschreibt die Vorteile und den Prozess der Migration von PostgreSQL DB-Workloads zu Azure SQL DB
-  #### Lektionen
-  - Azure SQL DB for PostgreSQL konfigurieren und verwalten
-  - lokale MySQL nach SQL DB für PostgreSQL übertragen
-  ­- Anwendungsmigration
-  - Überlegungen zur Migration
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Konfigurieren und Verwalten von Azure SQL DB for PostgreSQL
+
+  - Migrieren lokaler MySQL-Instanzen zu SQL DB for PostgreSQL
+
+  - Anwendungsmigration
+
+  - Überlegungen nach der Migration
 
 
-  #### Labor&#58; PostgreSQL DB Workloads nach Azure SQL DB übertragen
-  - Azure SQL DB for PostgreSQL konfigurieren
-  - Source und Target DBS definieren
-  - Migration durchführen
-  - Migration verifizieren
 
-  Am Ende dieses Moduls können die Teilnehmer&#58;
-  - Azure SQL DB for PostgreSQL konfigurieren und verwalten
-  - lokale MySQL nach SQL DB für PostgreSQL übertragen
-  ­- Anwendungsmigration
-  - Überlegungen zur Migration
+  #### <a name="lab-58-migrating-postgresql-db-workloads-to-azure-sql-db"></a>Lab&#58; Migrieren von PostgreSQL DB-Workloads zu Azure SQL DB
 
-  #### Additional Reading
+  - Konfigurieren von Azure SQL DB für PostgreSQL
+
+  - Definieren von Quell- und Zieldatenbanken
+
+  - Durchführen der Migration
+
+  - Überprüfen der Migration
+
+
+  Am Ende dieses Moduls können die Teilnehmer:
+
+  - Konfigurieren und Verwalten von Azure SQL DB for PostgreSQL
+
+  - Migrieren lokaler MySQL-Instanzen zu SQL DB for PostgreSQL
+
+  - Anwendungsmigration
+
+  - Überlegungen nach der Migration
+
+
+  #### <a name="additional-reading"></a>Weiterführende Lektüre
+
 
   Keine Extraliteratur ist für diesen Kurs nötig
-

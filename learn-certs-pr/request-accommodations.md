@@ -1,7 +1,7 @@
 ---
-title: 'Unterkünfte anfordern | Microsoft Docs'
-description: 'Unterkünfte anfordern' 
-documentationcenter: NA 
+title: Treffen von Vorkehrungen | Microsoft-Dokumentation
+description: Unterkünfte anfordern
+documentationcenter: NA
 author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
@@ -9,48 +9,54 @@ ms.workload: NA
 ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
+ms.openlocfilehash: 95a400e0a8377582f88fdce241cbb601c288fbd8
+ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 09/14/2021
+ms.locfileid: "132112173"
 ---
-# Unterkünfte anfordern
+# <a name="request-accommodations"></a>Unterkünfte anfordern
 
-## Wenn eine Unterkunft benötigt wird
+## <a name="when-an-accommodation-is-needed"></a>Treffen von Vorkehrungen im Bedarfsfall
 
-Wir setzen uns dafür ein, dass jede Person, die daran interessiert ist, Microsoft-Zertifizierungen zu erwerben, dies auf eine faire Weise tun kann, die ihre Fähigkeiten und Fertigkeiten genau widerspiegelt. Dies bedeutet die Bereitstellung von Unterkünften bei Bedarf. Die Unterbringung kann eine spezielle Ausrüstung für Sehbehinderte oder Schwerhörige, Pausen aus medizinischen Gründen oder zusätzliche Zeit für Tests beinhalten, wenn die Prüfung nicht in Ihrer Muttersprache stattfindet.
+Wir haben es uns zur Aufgabe gemacht, dafür zu sorgen, dass alle Personen, die an Microsoft-Zertifizierungen interessiert sind, diese auf faire Weise und entsprechend ihrer Fertigkeiten und Möglichkeiten ablegen können. Dies bedeutet, dass bei Bedarf Vorkehrungen getroffen werden. Dazu gehören z. B. spezielle Geräte für Sehbehinderte oder Hörgeschädigte, Pausen aus medizinischen Gründen oder zusätzliche Zeit für die Prüfung, wenn diese nicht in Ihrer Muttersprache abgehalten wird.
 
-Beispiele für Situationen, die eine Unterkunft erfordern, sind unter anderem:
+Beispiele für Situationen, die Vorkehrungen erfordern, sind u. a.:
 
-- Zusätzlich benötigte Zeit aufgrund eines vorübergehenden oder dauerhaften Zustands wie z.B. ADHS, PTSD oder Prüfungsangst.
-- Eine Einrichtung mit mehreren Monitoren oder ein Gerät zur physischen Vergrößerung, wenn Sie eine Person mit Sehbehinderung sind.
-- Die Verwendung von Kopfhörern mit Rauschunterdrückung oder ein Gerät zur Rauschunterdrückung, um die Konzentration zu erhöhen.
-- Ein Leser/Schreiber, der beim Eincheck-Verfahren hilft und/oder die Prüfung ablegt.
+- Zusätzliche Zeit aufgrund einer vorübergehenden oder dauerhaften Erkrankung wie ADHS, PTSD oder Prüfungsangst
+- Eine Einrichtung mit mehreren Monitoren oder ein physisches Vergrößerungsgerät für Personen mit eingeschränktem Sehvermögen
+- Kopfhörer mit Geräuschunterdrückung oder ein Gerät zur Erzeugung von weißem Rauschen, um die Konzentration zu verbessern
+- Ein Leser bzw. Schreiber, der beim Einchecken bzw. Ablegen der Prüfung hilft
 
-Da das Aufsichtsverfahren die Integrität des Zertifizierungsprozesses sicherstellen soll, umfasst er strenge Richtlinien, die verwendet werden, um die Kandidaten während der Prüfung zu überwachen. Infolgedessen müssen Sie möglicherweise eine Anpassung für Verhaltensweisen beantragen, die der Aufseher als potenzielle Sicherheitsverletzungen kennzeichnen kann, wenn ihm der Grund dafür nicht bekannt ist. Sie können beispielsweise auch eine Unterkunft benötigen, wenn Sie:
+Da das Prüfungsverfahren die Integrität des Zertifizierungsprozesses gewährleisten soll, ist es an strenge Vorgaben gebunden, gemäß der die Kandidaten während der Prüfung beaufsichtigt werden. Daher müssen Sie möglicherweise um eine Vorkehrung für bestimmte Verhaltensweisen bitten, die der Prüfer als potenzielle Sicherheitsverstöße einstufen könnte, wenn er den Grund dafür nicht kennt. Sie benötigen ggf. eine besondere Vorkehrung, wenn Folgendes erforderlich sein sollte:
 
-- sich während der Untersuchung im Raum bewegen, um die Konzentration zu erhöhen.
-- sich während der Prüfung im Raum bewegen oder während der Prüfung stehen, da es Ihnen schwerfällt, längere Zeit sitzen zu bleiben.
-- häufig vom Monitor wegschauen, um Ihre Augen auszuruhen oder Ihre Aufmerksamkeit neu zu fokussieren.
-- auffällig zappeln, so dass man es bemerkt
-- Ihre Heimtestumgebung nicht neu anordnen können, um die Standardanforderungen zu erfüllen.
+- Umherbewegen im Raum während der Prüfung, um die Konzentration zu verbessern
+- Umherbewegen im Raum oder Aufstehen während der Prüfung aufgrund von Schwierigkeiten bei längerem Sitzen
+- Häufiges Wegschauen vom Bildschirm, um die Augen zu schonen oder die Aufmerksamkeit zu erhöhen
+- Auffälliges Zappeln, das andere bemerken würden
+- Keine Möglichkeit, Ihre häusliche Prüfumgebung so umzugestalten, dass sie den Standardanforderungen entspricht
 
-Auf Wunsch können die Beaufsichtigungsstandards bei Bedarf auch angepasst werden, um geeigneten Unterkünfte bereitzustellen, die die Fairness Ihrer Prüfungsdurchführung am besten gewährleisten.
+Auf Antrag können die Prüfungsstandards bei Bedarf auch dahingehend angepasst werden, dass Fairness beim Ablegen der Prüfung bestmöglich gewährleistet ist.
 
-## So beantragen Sie eine Prüfungsunterkunft
+## <a name="how-to-request-exam-accommodations"></a>Beantragen von Vorkehrungen für Prüfungen
 
-Der Prozess zur Anforderung einer Unterbringung hängt davon ab, bei welchem unserer Prüfungsanbieter Sie Ihre Prüfung ablegen. Der Prozess der Beantragung und Gewährung von Unterkünften kann jedoch mehrere Wochen in Anspruch nehmen. Beginnen Sie also frühzeitig mit diesem Prozess, um sich die gewünschte Unterkunft zu sichern. Anfragen für eine Unterkunft müssen getätigt werden, ***bevor*** Sie sich für Ihre Prüfung anmelden, damit der Prüfungsanbieter Zeit hat, Ihre Anfrage zu prüfen und die Unterkunft bereitzustellen. **Sie sollten sich erst zur Prüfung anmelden, wenn die Unterkunft vorhanden ist.**
+Das Verfahren zur Beantragung von Vorkehrungen hängt davon ab, bei welchem unserer Prüfungsanbieter Sie Ihre Prüfung ablegen möchten. Das Verfahren zur Beantragung und Gewährung von Vorkehrungen kann allerdings mehrere Wochen dauern. Daher sollten Sie es frühzeitig einleiten, um sich die von Ihnen benötigten Vorkehrungen zu sichern. Anträge auf Vorkehrungen müssen ***vor** _ der Registrierung zur Prüfung gestellt werden, damit der Prüfungsanbieter Zeit hat, Ihren Antrag zu prüfen und die Vorkehrungen zu treffen. _ *Sie sollten sich erst dann zur Prüfung registrieren, wenn die entsprechenden Vorkehrungen getroffen wurden.* *
 
-Wenn Sie sich nicht sicher sind, welchen Prüfungsanbieter Sie auswählen sollen, gehen Sie auf: [So wählen Sie einen Prüfungsanbieter aus](/learn/certifications/register-schedule-exam#how-to-choose-an-exam-delivery-provider).
+Wenn Sie sich nicht sicher sind, welchen Prüfungsanbieter Sie wählen sollen, lesen Sie: [So wählen Sie einen Prüfungsanbieter aus](/learn/certifications/register-schedule-exam#how-to-choose-an-exam-delivery-provider).
 
-## Unterkünfte bei Pearson VUE testen (für Einzelpersonen)
+## <a name="testing-accommodations-with-pearson-vue-for-individuals"></a>Testvorkehrungen bei Pearson VUE (für Einzelpersonen)
 
-Wenn Sie für eine Prüfung eine spezielle Ausrüstung oder eine andere Unterbringung benötigen, können Sie eine Unterbringung über Pearson VUE beantragen, gemäß des in den [Pearson VUE-Testunterkünften](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) angeführten Verfahrens für Microsoft. Nachdem Sie die erforderlichen Unterlagen eingereicht haben, erhalten Sie eine E-Mail, die Sie über den Eingang Ihrer Anfrage informiert. Es kann bis zu 10 Werktage dauern, bis VUE Ihre Materialien überprüft hat und Ihnen eine Antwort zukommen läßt. Sobald eine Unterkunft bestätigt ist, kann es mehrere Wochen dauern, bis sicher ist, dass alles für die Prüfung vorhanden ist.
+Wenn Sie spezielle Hilfsmittel oder andere Vorkehrungen benötigen, um eine Prüfung abzulegen, können Sie bei Pearson VUE eine Vorkehrung beantragen, indem Sie das auf der Seite [Request test accommodations: Microsoft](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) beschriebene Verfahren befolgen. Nachdem Sie die erforderlichen Unterlagen eingereicht haben, erhalten Sie eine E-Mail mit der Bestätigung des Eingangs Ihres Antrags. VUE kann bis zu 10 Werktage benötigen, um Ihre Unterlagen zu prüfen und Ihnen eine Antwort zukommen zu lassen. Sobald eine Vorkehrung bestätigt wurde, kann es mehrere Wochen dauern, bis sie zum Zeitpunkt der Prüfung umgesetzt ist.
 
-Wenn die Prüfung nicht in Ihrer Muttersprache verfügbar ist und Sie zusätzliche Zeit zum Lesen und Beantworten von Fragen benötigen, verwenden Sie das [Englisch als Zweitsprache-Formular.](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx)
+Wenn die Prüfung nicht in Ihrer Muttersprache verfügbar ist und Sie zusätzliche Zeit zum Lesen und Beantworten der Fragen beantragen möchten, füllen Sie das Formular [Englisch als Zweitsprache](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx) aus.
 
-Für Testzentren gelten einige Arten von Geräten wie Rollstühle, Hörgeräte und Inhalatoren als Komforthilfsmittel und erfordern keine vorherige Genehmigung. Komforthilfen werden von den Mitarbeitern des Prüfzentrums visuell geprüft, bevor sie im Prüfraum zugelassen werden. Eine vollständige Liste finden Sie in der [Pearson VUE-Liste der Komforthilfen.](https://home.pearsonvue.com/Test-takers/Accommodations/Pearson-VUE-Comfort-Aid-List-PDF.aspx)
+Für Testzentren gelten einige Arten von Geräten wie Rollstühle, Hörgeräte und Inhalatoren als praktische Hilfsmittel, für die vorab keine Genehmigung erforderlich ist. Praktische Hilfsmittel werden vom Testcenterpersonal visuell überprüft, bevor sie im Testraum zugelassen werden. Unter [Pearson VUE Comfort Aid List](https://home.pearsonvue.com/Test-takers/Accommodations/Pearson-VUE-Comfort-Aid-List-PDF.aspx) finden Sie eine vollständige Liste.
 
-## Unterkünfte mit Certiport testen (für Studenten und akademische Einrichtungen)
+## <a name="testing-accommodations-with-certiport-for-students-and-academic-institutions"></a>Testvorkehrungen bei Certiport (für Kursteilnehmer und Bildungseinrichtungen)
 
-Wenn die Prüfung nicht in Ihrer Muttersprache verfügbar ist und Sie zusätzliche Zeit zum Lesen und Beantworten von Fragen benötigen, eine spezielle Ausrüstung brauchen oder eine andere Unterkunft anfordern möchten, wenn Sie an einer Prüfung teilnehmen, können Sie eine Unterkunft beantragen, indem Sie dem auf der [Certiport-Website für Testunterkünfte](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations) beschriebenen Verfahren folgen Es kann bis zu 10 Werktage dauern, bis Certiport Ihre Materialien überprüft hat und Sie mit einer Antwort kontaktiert. Sobald eine Unterkunft bestätigt ist, kann es mehrere Wochen dauern, bis sicher ist, dass alles für die Prüfung vorhanden ist.
+Wenn die Prüfung nicht in Ihrer Muttersprache abgehalten wird und Sie zusätzliche Zeit zum Lesen und Beantworten der Fragen benötigen, eine spezielle Ausrüstung benötigen oder andere Vorkehrungen für die Teilnahme an der Prüfung treffen möchten, können Sie dies beantragen, indem Sie das Verfahren auf der Website [Certiport test accommodations](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations) befolgen. Certiport kann bis zu 10 Werktage benötigen, um Ihre Unterlagen zu prüfen und Ihnen eine Antwort zukommen zu lassen. Sobald eine Vorkehrung bestätigt wurde, kann es mehrere Wochen dauern, bis sie zum Zeitpunkt der Prüfung umgesetzt ist.
 
-## Unterkünfte mit PSI testen (für Arbeitssuchende, die von COVID-19 betroffen sind)
+## <a name="testing-accommodations-with-psi-for-job-seekers-affected-by-covid-19"></a>Testvorkehrungen bei PSI (für von COVID-19 betroffene Stellensuchende)
 
-Um eine Prüfungsunterkunft anzufordern, [senden Sie bitte eine Unterbringungsanfrage an PSI](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872) bevor Sie eine Prüfung planen. PSI wird die Anfrage innerhalb von 48 Geschäftsstunden beantworten.
+Um Vorkehrungen für die Prüfung zu beantragen, reichen Sie [ einen Antrag auf Vorkehrungen bei PSI](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872) ein, bevor Sie eine Prüfung planen. PSI wird auf den Antrag binnen 48 Geschäftsstunden reagieren.

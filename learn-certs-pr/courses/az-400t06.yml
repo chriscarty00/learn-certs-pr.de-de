@@ -1,27 +1,33 @@
 ### YamlMime:Course
-title: Implementieren eines kontinuierlichen Feedbacks
+title: Implementieren von kontinuierlichem Feedback
 metadata:
-  title: 'Kurs AZ-400T06-A: Implementieren eines kontinuierlichen Feedbacks'
-  description: 'Kurs AZ-400T06-A: Implementieren eines kontinuierlichen Feedbacks'
+  title: 'Kurs AZ-400T06-A: Implementieren von kontinuierlichem Feedback'
+  description: 'Kurs AZ-400T06-A: Implementieren von kontinuierlichem Feedback'
+  ms.openlocfilehash: c8116f08906e97a0e68e5ac183ff13f6ddbf934a
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107602"
 uid: course.az-400t06
-courseNumber: 'AZ-400T06-A'
+courseNumber: AZ-400T06-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Pratiken entwickeln, die Endnutzerzufriedenheit messen
+- skill: Praktiken entwerfen, um Endnutzer-Zufriedenheit zu messen
 - skill: Entwickeln von Prozessen zum Erfassen und Analysieren von Nutzerrückmeldungen externer Quellen
-- skill: Konzept zum Routing für Crash-Report daten der Client-Anwendung entwerfen
+- skill: Konzept zum Routing für Crash-Reportdaten der Client-Anwendung
 - skill: Empfehlen von Monitoring Tools und Technologien
-- skill: Empfehlen von Trackingtools für System und Funktionsnutzung
+- skill: Empfohlene Tools zur Nachverfolgung von System-und Featureverwendung
 - skill: Konfigurieren der Crash Report-Integration für Client Apps
-- skill: Entwickeln der Monitoring- und Status-Dashboards
+- skill: Entwickeln von Überwachungs- und Statusdashboards
 - skill: Implementierung eines Routings für die Daten des Crash-Berichts der Client-Anwendung
-- skill: Implementieren von Tools für System- und Funktionsnutzung und Flow
-- skill: Ticketing System mit Entwickler Teams Arbeitsmanagementsystemen integrieren
-- skill: Alarmanalyse für Erstellung einer Baseline
-- skill: Telemetrieanalyse für Erstellung einer Baseline
-- skill: Live Site Review durchführen und Feedback zu Systemausfällen erfassen
-- skill: Fortlaufende Feinabstimmung zur Minimierung von sinnlosen oder nichtbausführbaren Alarmen vornehmen
+- skill: Tools anwenden, die die Systemnutzung, Funktionsnutzung und den Fluss verfolgen
+- skill: Integrieren und Konfigurieren von Ticketsystemen mit dem Arbeitsverwaltungssystem des Entwicklungsteams
+- skill: Analysieren von Warnungen zum Einrichten einer Baseline
+- skill: Analysieren von Telemetriedaten zum Einrichten einer Baseline
+- skill: Durchführung von Live-Überprüfungen vor Ort und Erfassung von Feedback bei Systemausfällen
+- skill: Fortlaufende Feinabstimmung zur Minimierung von sinnlosen oder nichtausführbaren Alarmen vornehmen
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -37,59 +43,98 @@ products:
 - azure-automation
 exams:
 - uid: exam.az-400
-summary: |-
-  Der Kurs bietet die Kenntnisse und Fähigkeiten für die implementierung eines kontinuierlichen Feedbacks Die Teilnehmer erlenen die Empfehlung und Entwurf von System-Feedback-Mechanismen, das implementieren von System-Feedback zu entwicklerteams und die optimierung der Rückkopplungsmechanismen
-
-  #### Zielgruppenprofil
-  Teilnehmer des Kurses interessieren sich für die Implementation von DevOps-Prozessen oder möchten die Microsoft Azure DevOps-Lösungen Zertifizierungsprüfung bestehen.
-prerequisitesSection: |-
-  Teilnehmer des Kurses interessieren sich für die Implementation von DevOps-Prozessen oder möchten die Microsoft Azure DevOps-Lösungen Zertifizierungsprüfung bestehen.
-outlineSection: |-
-  ### Modul 1&#58; Empfehlung und Entwurf von System-Feedback-Mechanismen
-  #### Lektionen
-  - Innerer Loop
-  - Continuous Experimentation mindset
-  - Pratiken entwickeln, die Endnutzerzufriedenheit messen
-  - Prozesse, die Nutzerfeedback auffangen und analysieren, entwickeln
-  - Prozesse, die Anwendungsanalysen automatisieren, entwickeln
+summary: >-
+  In diesem Kurs werden die Kenntnisse und Fähigkeiten zum Implementieren von kontinuierlichem Feedback vermittelt. Die Kursteilnehmer erfahren, wie sie Systemfeedbackmechanismen empfehlen und entwerfen, einen Prozess zum Weiterleiten von Systemfeedback an Entwicklungsteams implementieren und Feedbackmechanismen optimieren können.
 
 
-  #### Labor&#58; Integration zwische Azure DevOps und Teams
+  #### <a name="audience-profile"></a>Zielgruppenprofil
 
-  #### Labor&#58; Feature Flags
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Pratiken entwickeln, die Endnutzerzufriedenheit messen
+  Die Teilnehmer dieses Kurses möchten DevOps-Prozesse umsetzen lernen oder die Zertifizierungsprüfung für Microsoft Azure DevOps-Lösungen bestehen.
+prerequisitesSection: Die Teilnehmer dieses Kurses möchten DevOps-Prozesse umsetzen lernen oder die Zertifizierungsprüfung für Microsoft Azure DevOps-Lösungen bestehen.
+outlineSection: >-
+  ### <a name="module--158-recommend-and-design-system-feedback-mechanisms"></a>Modul 1&#58; Empfehlen und Entwerfen von Systemfeedbackmechanismen
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Die innere Schleife
+
+  - Kontinuierliches Bewusstsein für das Experimentieren
+
+  - Praktiken entwerfen, um Endnutzer-Zufriedenheit zu messen
+
+  - Entwerfen von Prozessen zum Erfassen und Analysieren von Benutzerfeedback
+
+  - Entwerfen eines Prozesses zur Automatisierung der Anwendungsanalyse
+
+
+
+  #### <a name="lab-58-integration-between-azure-devops-and-teams"></a>Lab&#58; Integration zwischen Azure DevOps und Teams
+
+
+  #### <a name="lab-58-feature-flags"></a>Lab&#58; Featureflags
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Praktiken entwerfen, um Endnutzer-Zufriedenheit zu messen
+
   - Entwickeln von Prozessen zum Erfassen und Analysieren von Nutzerrückmeldungen externer Quellen
-  - Konzept zum Routing für Crash-Report daten der Client-Anwendung entwerfen
+
+  - Konzept zum Routing für Crash-Reportdaten der Client-Anwendung
+
   - Empfehlen von Monitoring Tools und Technologien
-  - Empfehlen von Trackingtools für System und Funktionsnutzung
+
+  - Empfohlene Tools zur Nachverfolgung von System-und Featureverwendung
 
 
-  ### Modul 2&#58; Implementieren eines Prozesses zur Weiterleitung von System-Feedback an Entwicklungsteams
-  #### Lektionen
-  - Implementieren von Tools für System- und Funktionsnutzung und Flow
-  - Implementierung eines Routings für die Daten des Crash-Berichts der Mobilität-Anwendung
-  - Entwickeln der Monitoring- und Status-Dashboards
-  - Integration und Konfiguration von Ticketingsysteme
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  ### <a name="module--258-implement-process-for-routing-system-feedback-to-development-teams"></a>Modul 2&#58; Implementieren eines Prozesses zur Weiterleitung von Systemfeedback an Entwicklungsteams
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Tools anwenden, die die Systemnutzung, Funktionsnutzung und den Fluss verfolgen
+
+  - Implementieren des Routings für Absturzberichtsdaten von Mobilanwendungen
+
+  - Entwickeln von Überwachungs- und Statusdashboards
+
+  - Integrieren und Konfigurieren von Ticketsystemen
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
   - Konfigurieren der Crash Report-Integration für Client Apps
-  - Entwickeln der Monitoring- und Status-Dashboards
+
+  - Entwickeln von Überwachungs- und Statusdashboards
+
   - Implementierung eines Routings für die Daten des Crash-Berichts der Client-Anwendung
-  - Implementieren von Tools für System- und Funktionsnutzung und Flow
-  - die Integration und Konfiguraiton von ticketingsystemen mit Enwicklerteams Arbeitsverwaltung
+
+  - Tools anwenden, die die Systemnutzung, Funktionsnutzung und den Fluss verfolgen
+
+  - Integration und Konfiguration von Ticketingsystemen mit dem Arbeitsmanagementsystem des Entwicklungsteams
 
 
-  ### Modul 3&#58; optimierung der Rückkopplungsmechanismen
-  #### Lektionen
-  - Site Reliability Engineering
-  - Telemetrieanalyse für Erstellung einer Baseline
-  - Fortlaufende Feinabstimmung zur Minimierung von sinnlosen oder nichtbausführbaren Alarmen vornehmen
-  - Alarmanalyse für Erstellung einer Baseline
-  - Blameless PostMortems und Just Culture
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Alarmanalyse für Erstellung einer Baseline
-  - Telemetrieanalyse für Erstellung einer Baseline
-  - Live Site Review durchführen und Feedback zu Systemausfällen erfassen
-  - Fortlaufende Feinabstimmung zur Minimierung von sinnlosen oder nichtbausführbaren Alarmen vornehmen
+  ### <a name="module--358-optimize-feedback-mechanisms"></a>Modul 3&#58; Optimieren von Feedbackmechanismen
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Websitezuverlässigkeits-Engineering (Site Reliability Engineering)
+
+  - Analysieren von Telemetriedaten zum Einrichten einer Baseline
+
+  - Fortlaufende Feinabstimmung zur Minimierung von sinnlosen oder nichtausführbaren Alarmen vornehmen
+
+  - Analysieren von Warnungen zum Einrichten einer Baseline
+
+  - Vorwurfsfreie Nachbesprechung und Fairnesskultur
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Analysieren von Warnungen zum Einrichten einer Baseline
+
+  - Analysieren von Telemetriedaten zum Einrichten einer Baseline
+
+  - Durchführung von Live-Überprüfungen vor Ort und Erfassung von Feedback bei Systemausfällen
+
+  - Fortlaufende Feinabstimmung zur Minimierung von sinnlosen oder nichtausführbaren Alarmen vornehmen

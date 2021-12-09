@@ -1,19 +1,25 @@
 ### YamlMime:Course
-title: Maintaining Windows 10
+title: Warten von Windows 10
 metadata:
-  title: 'Kurs MD-100T04-A: Maintaining Windows 10'
-  description: 'Kurs MD-100T04-A: Maintaining Windows 10'
+  title: 'Kurs MD-100T04-A: Warten von Windows 10'
+  description: 'Kurs MD-100T04-A: Warten von Windows 10'
+  ms.openlocfilehash: 5d58876a92cd2c5052242b957aa9a9188b5a8f5e
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107170"
 uid: course.md-100t04
-courseNumber: 'MD-100T04-A'
+courseNumber: MD-100T04-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Verwenden von Windows-Tools zur Fehlerbehebung und Überwachung.
-- skill: Fehlerbehebung bei Windows-Installationen.
-- skill: Beheben Sie Probleme bei der Installation der Anwendung.
-- skill: Fehlerbehebung bei den Einstellungen des Webbrowsers.
-- skill: Fehlerbehebung bei der Windows-Authentifizierung.
-- skill: Problembehandlung bei Hardwareproblemen in Verbindung mit Windows-Maschinen.
+- skill: Verwenden von Windows-Tools zur Problembehandlung und Überwachung
+- skill: Behandeln von Problemen bei Windows-Installationen
+- skill: Behandeln von Problemen bei der Anwendungsinstallation
+- skill: Behandeln von Problemen bei Webbrowsereinstellungen
+- skill: Behandeln von Problemen bei der Windows-Authentifizierung
+- skill: Behandeln von Hardwareproblemen im Zusammenhang mit Windows-Computern
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -26,98 +32,162 @@ products:
 - windows
 exams:
 - uid: exam.md-100
-summary: |-
-  In diesem Kurs lernen die Teilnehmer, wie sie Windows 10 verwalten und Fehler beheben können. Dieser Kurs vertieft sich in die Architektur und die Tools zur Verwaltung, Überwachung und Fehlerbehebung des Betriebssystems, der Apps und der Hardware. Die Teilnehmer werden über proaktive und Fehlerbehebungsmethodik lernen und lernen, wie häufige Probleme identifiziert und gemildert werden können.
-
-  #### Zielgruppenprofil
-  Die Prüfung wird von IT-Fachleuten abgelegt, die Installation, Konfiguration, allgemeine lokale Verwaltung und Wartung der Windows 10-Kerndienste durchführen. Die Kandidaten können auch mit Unternehmensszenarien und Cloud-integrierten Diensten vertraut sein.
-prerequisitesSection: |-
-  Die Lernenden sollten diesen Kurs bereits mit den folgenden Fähigkeiten beginnen&#58;
-  - Grundlegendes Verständnis von Computernetzwerken und Hardwarekonzepten.
-  - Grundlegendes Verständnis von OS- und Anwendungskonzepten.
-  - Erfahrung im Umgang mit dem Windows-Betriebssystem.
-outlineSection: |-
-  ### Modul 1&#58; Unterstützung der Windows 10- Umgebung
-  Dieses Modul wird die Windows 10-Architektur und gängige Umgebungen abdecken. Die Teilnehmer werden in die verschiedenen Tools zur Wartung von Windows eingeführt. In diesem Modul werden auch Methoden zur effektiven Problembehandlung und zur proaktiven Verwaltung und Optimierung von Windows 10 besprochen.
-  #### Lektionen
-  - Fehlerbehebung unter Windows
-  - Werkzeuge zur Fehlersuche
+summary: >-
+  In diesem Kurs erfahren die Kursteilnehmer, wie sie Probleme mit Windows 10 verwalten und behandeln. In diesem Kurs werden die Architektur und Tools für die Verwaltung, Überwachung und Problembehandlung von Betriebssystem, Apps und Hardware im Detail untersucht. Die Kursteilnehmer erfahren mehr über proaktive Problembehandlung und die Problembehandlungsmethodik sowie darüber, wie sie häufige Probleme identifizieren und beheben können.
 
 
-  #### Labor&#58; Praxislab&#58; Monitoring von Windows 10
-  - Monitoring von Events
-  - Überwachung von Zuverlässigkeit und Leistung
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+  Die Prüfung wird von IT-Fachleuten abgelegt, die Installation, Konfiguration, allgemeine lokale Verwaltung und Wartung der Windows 10-Kerndienste durchführen. Die Prüfungskandidaten sind möglicherweise auch mit Unternehmensszenarien und cloudintegrierten Diensten vertraut.
+prerequisitesSection: >-
+  Die Lernenden sollten diesen Kurs bereits mit den folgenden Fähigkeiten beginnen:
+
+  - Grundlegende Kenntnisse von Computernetzwerken und Hardwarekonzepten
+
+  - Grundlegende Kenntnisse zu Betriebssystem- und Anwendungskonzepten
+
+  - Erfahrung mit der Verwendung des Windows-Betriebssystems
+outlineSection: >-
+  ### <a name="module--158-supporting-the-windows-10-environment"></a>Modul 1&#58; Unterstützen der Windows 10-Umgebung
+
+  In diesem Modul werden die Windows 10-Architektur und gängige Umgebungen behandelt. Die Kursteilnehmer werden in die verschiedenen Tools zur Wartung von Windows eingeführt. In diesem Modul werden zudem auch Methoden zur effektiven Problembehandlung und zur proaktiven Verwaltung und Optimierung von Windows 10 erörtert.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Behandeln von Problemen mit Windows
+
+  - Problembehandlungstools
 
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Beschreibung der Windows-Architektur
-  - Beschreibung der wichtigsten Schritte bei der Fehlerbehebung
-  - Beschreibung des Zwecks und der Vorteile der verschiedenen Tools in Windows
-  - Verwenden von Überwachungstools, um eine Leistungsbasis zu erstellen.
-  - Optimieren der Leistung auf Windows 10 Clients
+
+  #### <a name="lab-58-practice-lab58-monitoring-windows-10"></a>Lab&#58; Übungs-Lab – Überwachen von Windows 10
+
+  - Überwachen von Ereignissen
+
+  - Überwachen von Zuverlässigkeit und Leistung
 
 
-  ### Modul 2&#58; Problembehandlung des Windows-Betriebssystems
-  In diesem Modul lernen die Teilnehmer, wie sie Start- und Serviceprobleme im Zusammenhang mit dem Betriebssystem beheben können.  In diesem Modul werden die verschiedenen Start- und Wiederherstellungsoptionen sowie die Fehlerbehebung bei verschiedenen Windows-Diensten vermittelt.
-  #### Lektionen
-  - Problembehandlung beim Windows-Start
-  - Fehlerbehebung bei Betriebssystemproblemen
-  - Fehlerbehebung bei Anmeldungsproblemen
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Beschreiben der Windows-Architektur
+
+  - Beschreiben der wichtigsten Phasen bei der Problembehandlung
+
+  - Beschreiben des Zwecks und der Vorteile der verschiedenen Tools in Windows
+
+  - Verwenden von Überwachungstools zum Einrichten einer Leistungsbaseline
+
+  - Optimieren der Leistung auf Windows 10-Clients
 
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Beschreibung der verschiedenen Methoden zur Identifizierung und Behebung von Startproblemen
-  - Beschreibung, wann die verschiedenen erweiterten Startoptionen verwendet werden sollen
-  - Identifizierung und Deaktivierung eines fehlgeschlagenen Dienstes
-  - Identifizierung und Abschwächung gängiger gesperrter Kontoszenarien
+
+  ### <a name="module--258-troubleshooting-the-windows-os"></a>Modul 2&#58; Behandeln von Problemen mit dem Windows-Betriebssystem
+
+  In diesem Modul lernen die Kursteilnehmer, wie sie Probleme im Zusammenhang mit dem Betriebssystem beim Start und bei Diensten beheben können.  In diesem Modul lernen Sie die verschiedenen Start- und Wiederherstellungsoptionen kennen und erfahren, wie Sie verschiedene Probleme in Windows-Diensten behandeln können.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Behandeln von Problemen beim Windows-Start
+
+  - Behandeln von Problemen mit dem Betriebssystemdienst
+
+  - Behandeln von Problemen bei der Anmeldung
 
 
-  ### Modul 3&#58; Fehlerbehebung Dateien & Anwendungen
-  Dieses Modul hilft den Teilnehmern bei der Planung der Sicherung und Wiederherstellung von Dateien.  Die Teilnehmer lernen, wie man Datensicherungsstrategien plant und konfiguriert und wie man verschiedene Datei- und Systemwiederherstellungsmethoden durchführt.  Dieses Modul umfasst auch allgemeine Methoden zur Fehlerbehebung bei Problemen bei der Anwendungsinstallation, bei Kompatibilitätsproblemen und bei der Lösung von Browserproblemen.
-  #### Lektionen
-  - Dateiwiederherstellung unter Windows 10
-  - Fehlerbehebung in der Anwendung
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Beschreiben der verschiedenen Methoden zum Identifizieren und Wiederherstellen nach Startproblemen
+
+  - Beschreiben der Einsatzbereiche für die verschiedenen erweiterten Startoptionen
+
+  - Identifizieren und Deaktivieren eines fehlerhaften Diensts
+
+  - Identifizieren und Entschärfen gängiger Szenarien für gesperrte Konten
 
 
-  #### Labor&#58; Fehlerbehebung bei Desktop-Apps
-  - Fehlerbehebung bei AppLocker-Richtlinienanwendungen
-  - Fehlerbehebung bei Problemen mit der Anwendungskompatibilität
-  - Fehlerbehebung bei Problemen mit dem Microsoft Internet Explorer
-  - Fehlerbehebung bei Microsoft Edge-Problemen
+
+  ### <a name="module--358-troubleshooting-files--applications"></a>Modul 3&#58; Behandeln von Problemen mit Dateien und Anwendungen
+
+  Dieses Modul hilft Kursteilnehmern bei der Planung der Dateisicherung und -wiederherstellung.  Die Teilnehmer lernen, wie man Strategien zur Datensicherung plant und konfiguriert und wie man verschiedene Methoden zur Wiederherstellung von Dateien und Systemen durchführt.  Dieses Modul enthält auch gängige Methoden zur Behebung von Problemen bei der Anwendungsinstallation, Kompatibilitätsproblemen und der Lösung von Browserproblemen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Wiederherstellen von Dateien unter Windows 10
+
+  - Behandeln von Anwendungsproblemen
 
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Beschreibung der verschiedenen Methoden der Dateiwiederherstellung
-  - Konfigurieren von Windows 10, um die Wiederherstellung einzelner Dateien und Systeme zu unterstützen
-  - Wiederherstellen eines Geräts mit der Funktion Diesen PC zurücksetzen
-  - Probleme mit der Anwendungskompatibilität mit dem Anwendungskompatibilitäts-Toolkit lösen
-  - Fehlerbehebung bei häufigen Browserproblemen
+
+  #### <a name="lab-58-troubleshooting-desktop-apps"></a>Lab&#58; Behandeln von Problemen mit Desktop-Apps
+
+  - Behandeln von Problemen bei AppLocker-Richtlinienanwendungen
+
+  - Behandeln von Problemen mit der Anwendungskompatibilität
+
+  - Behandeln von Problemen mit Microsoft Internet Explorer
+
+  - Behandeln von Problemen mit Microsoft Edge
 
 
-  ### Modul 4&#58; Fehlerbehebung bei Hardware und Treibern
-  Dieses Modul führt in die Hardware-Fehlerbehebung ein.  Die Teilnehmer lernen die Treiberverwaltung und die Fehlerbehebung bei Geräten kennen. Die Teilnehmer lernen außerdem Schritte zur Fehlerbehebung bei Systemhardware und externen Peripheriegeräten wie USB-Laufwerken und Druckern, einschließlich Diagnosemethoden und Abhilfemaßnahmen.
-  #### Lektionen
-  - Fehlersuche und -behebung Gerätetreiberausfälle
-  - Übersicht über die Hardware-Fehlerbehebung
-  - Fehlerbehebung bei physischen Ausfällen
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Beschreiben der verschiedenen Methoden der Dateiwiederherstellung
+
+  - Konfigurieren von Windows 10 für die Unterstützung der Wiederherstellung einzelner Dateien und der Systemwiederherstellung
+
+  - Wiederherstellen eines Geräts mithilfe der Funktion „Diesen PC zurücksetzen“
+
+  - Lösen von Problemen mit der Anwendungskompatibilität mithilfe des Anwendungskompatibilitäts-Toolkits
+
+  - Behandeln gängiger Browserprobleme
 
 
-  #### Labor&#58; Fehlerbehebung bei Gerätetreiberproblemen
-  - Fehlerbehebung eines fehlenden Gerätetreibers
-  - Lösung von Hardware-Problemen
-  - Behebung des Gerätetreiberproblems
-  - Konfigurieren von Gruppenrichtlinieneinstellungen zur Steuerung der Geräteinstallation
+
+  ### <a name="module--458-troubleshooting-hardware-and-drivers"></a>Modul 4&#58; Behandeln von Problemen bei Hardware und Treibern
+
+  Dieses Modul bietet eine Einführung in die Behandlung von Hardwareproblemen.  Die Teilnehmer lernen etwas über das Treiber-Management und die Fehlersuche bei Geräten. Außerdem lernen die Kursteilnehmer Schritte zur Problembehandlung bei Systemhardware und externen Peripheriegeräten wie USB-Laufwerken und Druckern kennen, einschließlich Diagnosemethoden und Abhilfemaßnahmen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Behandeln von Problemen mit Gerätetreiberfehlern
+
+  - Übersicht über die Hardwareproblembehandlung
+
+  - Behandeln physischer Fehler
 
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Fehlersuche und Behebung von Treiberproblemen
-  - Fehlerbehebung bei Peripheriegeräten
-  - Hardware diagnostizieren und ersetzen
+
+  #### <a name="lab-58-troubleshooting-device-driver-issues"></a>Lab&#58; Behandeln von Gerätetreiberproblemen
+
+  - Behandeln von Problemen aufgrund eines fehlenden Gerätetreibers
+
+  - Beheben von Hardwareproblemen
+
+  - Beheben eines Gerätetreiberproblems
+
+  - Konfigurieren von Gruppenrichtlinieneinstellungen zum Steuern der Geräteinstallation
 
 
-  ### Modul 5&#58; Abschluss des Kurses
-  #### Lektionen
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Behandeln und Beheben von Treiberproblemen
+
+  - Behandeln von Problemen mit Peripheriegeräten
+
+  - Diagnostizieren und Ersetzen von Hardware
+
+
+
+  ### <a name="module--558-course-conclusion"></a>Modul 5&#58; Abschluss des Kurses
+
+  #### <a name="lessons"></a>Lektionen
+
   - Abschlussprüfung
 
 
-  #### Labor&#58; Abgestuftes Lab
+
+  #### <a name="lab-58-graded-lab"></a>Lab&#58; Bewertetes Lab

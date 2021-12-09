@@ -1,21 +1,27 @@
 ### YamlMime:Course
-title: Implementieren des Abhängigkeitsmanagements
+title: Implementieren der Abhängigkeitsverwaltung
 metadata:
-  title: 'Kurs AZ-400T04-A: Implementieren des Abhängigkeitsmanagements'
-  description: 'Kurs AZ-400T04-A: Implementieren des Abhängigkeitsmanagements'
+  title: 'Kurs AZ-400T04-A: Implementieren der Abhängigkeitsverwaltung'
+  description: 'Kurs AZ-400T04-A: Implementieren der Abhängigkeitsverwaltung'
+  ms.openlocfilehash: 1c3934ec54dcd83d217eaa2cd2df9598e4eb3e18
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107611"
 uid: course.az-400t04
-courseNumber: 'AZ-400T04-A'
+courseNumber: AZ-400T04-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Empfehlen der Artefakt Managementtools und Praktiken
 - skill: Abstrahieren von common packages zur aktivierung von sharing und wiederverwendung
-- skill: Inspizieren von Codebase, um Code Dependencies zu identifizieren, die in Packages konvertiert werden können
-- skill: Identifizieren und Empfehlen von standardisierten Package-Typen und Versionen für alle Aspekte der Lösung
-- skill: Neuberechnen von bestehenden Build Pipelines zur Implementierung der Versionsstrategie, die Packages veröffentlicht
-- skill: Verwalten von Sicherheit und Compliance
+- skill: Überprüfung der Codebasis, um Codeabhängigkeiten zu identifizieren, die in Pakete umgewandelt werden können.
+- skill: Identifizieren und Empfehlen von standardisierten Paket-Typen und Versionen für alle Lösungsaspekte
+- skill: Überarbeitung bestehender Build-Pipelines zur Umsetzung einer Versionsstrategie, die Pakete Freigabe
+- skill: Verwalten von Sicherheit und Konformität
 - skill: Prüfen von Open Source Software-Paketen auf Sicherheit und Lizenzen für Übereinstimmung mit Firmenstandards
-- skill: Konfigurieren einer Build Pipeline um zugriff auf Package Sicherheit und Lizenz Rating zu haben
+- skill: Eine Build-Pipeline konfigurieren, um Zugriff auf Package-Sicherheit und Lizenzbewertung zu haben
 - skill: Konfigurieren von sicherem Zugriff auf Package-Feeds
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -32,40 +38,64 @@ products:
 - azure-automation
 exams:
 - uid: exam.az-400
-summary: |-
-  Dieser Kurs bietet die Kenntnisse und Fähigkeiten um Abhängigkeitsmanagements zu implementieren. Die Teilnehmer lernen das Enwerfen einer Strategie für das Abhängigkeitsmanagement und Sicherheit und Compliance zu verwalten.
+summary: >-
+  In diesem Kurs werden die Kenntnisse und Fähigkeiten zum Implementieren der Abhängigkeitsverwaltung vermittelt. Die Kursteilnehmer erfahren, wie sie eine Strategie für die Abhängigkeitsverwaltung entwerfen und Sicherheit und Compliance verwalten.
 
-  #### Zielgruppenprofil
-  Teilnehmer interessieren sich für die Implementierung des Abhängigkeitsmanagements oder dafür die Microsoft Azure DevOps-Lösungen Zertifizierungsprüfungen zu bestehen.
-prerequisitesSection: |-
-  Fundamentales Wissen über Azure, Version Control, Agile Software Development und KernSoftware Entwicklungsprinzipen. Erfahrung in einer Organisation die Software liefert ist hilfreich.
-outlineSection: |-
-  ### Modul 1&#58; Einer Strategie für das Abhängigkeitsmanagement
-  #### Lektionen
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+  Die Teilnehmer dieses Kurses möchten Prozesse zur Abhängigkeitsverwaltung implementieren oder die Zertifizierungsprüfung „Microsoft Azure DevOps Solutions“ bestehen.
+prerequisitesSection: Grundlegendes Wissen zu Azure, Versionskontrolle, agile Softwareentwicklung und grundlegende Prinzipien der Softwareentwicklung. Es wäre hilfreich, Erfahrung in einem Unternehmen zu haben, das Software liefert.
+outlineSection: >-
+  ### <a name="module--158-designing-a-dependency-management-strategy"></a>Modul 1&#58; Entwerfen einer Strategie für die Abhängigkeitsverwaltung
+
+  #### <a name="lessons"></a>Lektionen
+
   - Einführung
-  - Package Abhängigkeiten
-  - Package Verwaltung
-  - Implementieren einer Version-Strategie
+
+  - Packen von Abhängigkeiten
+
+  - Paketverwaltung
+
+  - Implementieren einer Versionsverwaltungsstrategie
 
 
-  #### Labor&#58; Updating packages
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+
+  #### <a name="lab-58-updating-packages"></a>Lab&#58; Aktualisieren von Paketen
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
   - Empfehlen der Artefakt Managementtools und Praktiken
+
   - Abstrahieren von common packages zur aktivierung von sharing und wiederverwendung
-  - Inspizieren von Codebase, um Code Dependencies zu identifizieren, die in Packages konvertiert werden können
-  - Identifizieren und Empfehlen von standardisierten Package-Typen und Versionen für alle Aspekte der Lösung
-  - Neuberechnen von bestehenden Build Pipelines zur Implementierung der Versionsstrategie, die Packages veröffentlicht
-  - Verwalten von Sicherheit und Compliance
+
+  - Überprüfung der Codebasis, um Codeabhängigkeiten zu identifizieren, die in Pakete umgewandelt werden können.
+
+  - Identifizieren und Empfehlen von standardisierten Paket-Typen und Versionen für alle Lösungsaspekte
+
+  - Überarbeitung bestehender Build-Pipelines zur Umsetzung einer Versionsstrategie, die Pakete Freigabe
+
+  - Verwalten von Sicherheit und Konformität
 
 
-  ### Modul 2&#58; Verwalten von Sicherheit und Compliance
-  #### Lektionen
+
+  ### <a name="module--258-manage-security-and-compliance"></a>Modul 2&#58; Verwalten von Sicherheit und Konformität
+
+  #### <a name="lessons"></a>Lektionen
+
   - Einführung
-  - Package Sicherheit
-  - Open source software
-  - Lizenzen und Verletztlichkeitsscans integrieren
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Paketsicherheit
+
+  - Open-Source-Software
+
+  - Integrieren von Lizenz- und Sicherheitsrisikoüberprüfungen
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
   - Prüfen von Open Source Software-Paketen auf Sicherheit und Lizenzen für Übereinstimmung mit Firmenstandards
-  - Konfigurieren einer Build Pipeline um zugriff auf Package Sicherheit und Lizenz Rating zu haben
+
+  - Eine Build-Pipeline konfigurieren, um Zugriff auf Package-Sicherheit und Lizenzbewertung zu haben
+
   - Konfigurieren von sicherem Zugriff auf Package-Feeds

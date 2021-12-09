@@ -1,21 +1,27 @@
 ### YamlMime:Course
 title: Azure Stack HCI
 metadata:
-  title: 'Course WS-013T00-A: Azure Stack HCI'
-  description: 'Course WS-013T00-A: Azure Stack HCI'
+  title: 'Kurs WS-013T00-A: Azure Stack HCI'
+  description: 'Kurs WS-013T00-A: Azure Stack HCI'
+  ms.openlocfilehash: da8179d1635302b3bc2eb55284e3e3adf5c89a53
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132106947"
 uid: course.ws-013t00
-courseNumber: 'WS-013T00-A'
+courseNumber: WS-013T00-A
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: das Azure Stack-Portfolio zu beschreiben, einschließlich Azure Stack HCI, Azure Stack Hub und Azure Stack Edge
-- skill: die Azure Stack HCI-Kerntechnologien und Management-Tools zu beschreiben.
-- skill: den Prozess einer typischen Azure Stack HCI-Implementierung zu erklären.
-- skill: die Hybridfähigkeiten des Azure Stack HCI zu identifizeren.
-- skill: Implementieren, Verwalten und Aufrechterhalten der Arbeitsbelastung von Azure Stack HCI.
+- skill: Beschreiben des Azure Stack-Portfolios, einschließlich Azure Stack HCI, Azure Stack Hub und Azure Stack Edge
+- skill: Beschreiben der Azure Stack HCI-Kerntechnologien und Verwaltungstools.
+- skill: Beschreiben des Prozesses einer typischen Azure Stack HCI-Implementierung.
+- skill: Identifizieren der Azure Stack HCI-Hybridfunktionen.
+- skill: Implementieren, Verwalten und Verwalten von Workloads auf Azure Stack HCI.
 - skill: Planen und Implementieren von Azure Stack HCI-Speicher, einschließlich Speicher-QoS und Speicherreplikat.
-- skill: Planen von Azure Stack HCI-Netzwerken.
-- skill: Implementieren von softwaredefinierten Netzwerken in Azure Stack HCI.
+- skill: Planen Sie das Azure Stack HCI-Netzwerk.
+- skill: Implementieren Sie softwaredefinierte Netzwerke in Azure Stack HCI.
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -25,114 +31,205 @@ roles:
 - administrator
 products:
 - windows-server
-summary: |-
-  Dieser dreitägige Kurs richtet sich in erster Linie an IT-Fachleute, die bereits über umfangreiche Erfahrungen mit der Verwaltung einer lokalen Windows Server-Umgebung verfügen. Sein Zweck ist es, fortgeschrittene Themen im Zusammenhang mit Windows Server Software-definierten Rechenzentren, Azure Stack HCI und anderen Azure Stack-Produkten zu behandeln. Der Kurs beschreibt auch die Verwendung vorhandener Microsoft System Center-Produkte zur Implementierung und Verwaltung von softwaredefinierten Rechenzentren mit Windows Server 2019. Dieser Kurs ist für Fortgeschrittene und richtet sich an Personen, die ihre virtuellen Workloads auf Windows Server 2019 im mittleren bis großen Maßstab unter Verwendung von softwaredefinierten Rechenzentren und hyperkonvergierten Prinzipien ausführen möchten.
-
-  #### Zielgruppe
-  Dieser Kurs richtet sich an IT-Fachleute, die Windows Server-Umgebungen vor Ort verwalten und Azure verwenden möchten, um Server-Workloads zu verwalten und ihre virtuellen Workloads auf Windows Server 2019 auszuführen. Diese Personen sollten auch vorhandene Microsoft System Center-Produkte verwenden, um softwaredefinierte Rechenzentren mit Windows Server 2019 zu implementieren und zu verwalten.
-prerequisitesSection: |-
-  - Forteschrittene Erfahrung mit der Verwaltung von Windows Server-Betriebssystemen und virtualisierten Windows Server-Arbeitslasten in lokalen Szenarien
-  - Forteschrittene Erfahrung mit gängigen Windows Server-Verwaltungstools (mit der ersten Voraussetzung verknüpft)
-  - Forteschrittene Kenntnisse der wichtigsten Microsoft-Computer-, Speicher-, Netzwerk- und Virtualisierungstechnologien
-  - Forteschrittene Kenntnisse von Windows Server-basierten High-Avilability-Computer- und Speichertechnologien
-  - Grundlegende Erfahrung mit der Implementierung und Verwaltung von Infrastructure as a Service (IaaS)-Diensten in Microsoft Azure
-  - Grundkenntnisse des Azure Active Directory (Azure AD)
-  - Vorkenntnisse über sicherheitsrelevante Technologien zur Microsoft-Virtualisierung
-  - Fortgeschrittene Kenntnisse in PowerShell-Skripting und PowerShell Desired State Configuration (DSC)
-outlineSection: |+
-  ### Modul 1&#58; Einführung des Azure Stack HCI
-  In diesem Modul werden die grundlegenden Merkmale von Azure Stack HCI beschrieben, zusammen mit den Peer-Angeboten, die Teil des Azure Stack-Portfolios sind, einschließlich Azure Stack Hub und Azure Stack Edge. Das Modul bietet auch einen Überblick über die Azure Stack HCI-Kerntechnologien und Management-Tools sowie einen Überblick über einen typischen Implementierungsprozess auf hohem Niveau. Abschließend bietet das Modul eine Zusammenfassung der Hybridfunktionen des Azure Stack HCI, von denen die meisten in Modul 4 ausführlich behandelt werden.
-  #### Einheiten
-  - Überblick über Azure Stack HCI
-  - Überblick über die Azure Stack HCI-Technologien
-  - Überblick über die Azure Stack HCI-Verwaltungstools
-  - Überblick über die Fähigkeiten des Azure Stack HCI-Hybrid
-
-  Nach Abschluss dieses Moduls sind die TeilnehmerInnen in der Lage,&#58;
-  - die grundlegenden Fähigkeiten und Anwendungsfälle des Microsoft Azure Stack-Portfolios zu beschreiben.
-  - die Kernkomponenten der Azure Stack HCI-Architektur zu identifizieren.
-  - gemeinsame Management-Tools zu identifizieren, die zur Bereitstellung und Verwaltung einer hyperkonvergierten Infrastruktur verwendet werden.
-  - den Zweck und die Fähigkeiten von Azure Arc zu beschreiben.
-  - Azure-Infrastrukturdienste, die Sie in Ihre Vor-Ort-Umgebung integrieren können zu identifizieren.
-  - Cloud Witness als den Quroum Witness Type zu konfigurieren.
-  - zu beschreiben, wie ein Point-to-Site VPN zu einem virtuellen Azure-Netzwerk mit Azure Network Adapter einzurichten ist.
-  - die Merkmale und Anwendungsfälle für Azure File Sync und Azure Monitor zu beschreiben.
-  - zu erklären, wie die Geschäftskontinuität mit Azure Backup und Azure Site Recovery aufrechterhalten werden kann.
-  - die Anwendungsfälle und die Architektur von Azure Update Management zu beschreiben.
-  - den High-Level-Prozess für die Bereitstellung einer Azure Stack HCI-Implementierung zu beschreiben.
+summary: >-
+  Dieser dreitägige Kurs richtet sich in erster Linie an IT-Experten, die bereits über umfangreiche Erfahrung in der Verwaltung einer lokalen Windows Server-Umgebung verfügen. In diesem Kurs werden fortgeschrittene Themen im Zusammenhang mit dem softwaredefinierten Windows Server-Rechenzentrum, Azure Stack HCI und andere Azure Stack-Produkte behandelt. Es wird auch die Verwendung vorhandener Microsoft System Center-Produkte beschrieben, um softwaredefinierte Rechenzentren unter Windows Server 2019 zu implementieren und zu verwalten. Dieser Kurs richtet sich an fortgeschrittene Benutzer, die ihre virtuellen Workloads unter Windows Server 2019 in mittlerem bis großem Umfang mit einem softwaredefinierten Rechenzentrum und Prinzipien der Hyperkonvergenz ausführen möchten.
 
 
-  ### Modul 2&#58; Betrieb und Wartung von Azure Stack HCI
-  Dieses Modul beschreibt die Implementierung, Verwaltung und Aufrechterhaltung von Workloads auf Azure Stack HCI. Wie im ersten Modul beschrieben, ist Azure Stack HCI so konzipiert, dass Leistung, Belastbarkeit und Skalierbarkeit bestimmter Arten von Workloads optimiert werden. Die Implementierung dieser Workloads folgt der anfänglichen Konfiguration, bei der virtualisierte Speicher- und Netzwerkschichten auf der von Microsoft genehmigten Hardware mit dem Betriebssystem Windows Server 2019 bereitgestellt werden. Dieses Modul bietet einen Überblick über verschiedene Azure-Dienste und Windows Server-Funktionen, die zur Verwaltung und Wartung dieser Workloads verwendet werden können, wobei die Integration von Windows Server 2019 mit Azure genutzt wird.
-  #### Einheiten
-  - Implementierung und Verwaltung der Arbeitsbelastung auf Azure Stack HCI
-  - Aufrechterhaltung von Azure Stack HCI
+  #### <a name="audience-profile"></a>Zielgruppenprofil
 
-  #### Labor &#58; Labor B&#58; Verwendung von Windows Admin Center in hybriden Szenarien
-  - Integration von hyperkonvergierter Infrastruktur mit Azure-Diensten
-  - Überprüfung der Azure-Integrationsfunktionalität
-  - Verwaltung von Aktualisierungen der hyperkonvergierten Infrastruktur
+  Dieser Kurs richtet sich an IT-Experten, die lokale Windows Server-Umgebungen verwalten und Azure zum Verwalten von Server-Workloads und zum Ausführen ihrer virtuellen Workloads unter Windows Server 2019 verwenden möchten. Sie möchten auch vorhandene Microsoft System Center-Produkte verwenden, um softwaredefinierte Rechenzentren mit Windows Server 2019 zu implementieren und zu verwalten.
+prerequisitesSection: >-
+  - Erfahrung auf Fortgeschrittenenniveau mit der Verwaltung von Windows Server-Betriebssystemen und virtualisierten Windows Server-Workloads in lokalen Szenarien
 
-  Nach Abschluss dieses Moduls sind die TeilnehmerInnen in der Lage,&#58;
-  - Gemeinsames Clustering mit gemeinsam genutzten Datenträgern zu implementieren.
-  - Komponenten zu beschreiben, die für die Bereitstellung abgeschirmter VMs erforderlich sind.
-  - VDI-Workloads (Virtual Desktop Infrastructure) zu implementieren.
-  - Container-basierte Bereitstellungen in Azure Stack HCI zu hosten.
-  - eine Point-to-Site (P2S)-VPN-Verbindung zu einem virtuellen Azure-Netzwerk mit Azure Network Adapter zu erstellen.
-  - die Azure File Sync-Architektur zu beschreiben.
-  - Azure File Sync zur Replikation von Dateien zwischen Vor-Ort und einer Azure-Dateifreigabe zu implementieren.
-  - Azure Stack HCI-Workloads mit Azure Arc zu verwalten.
+  - Erfahrung auf Fortgeschrittenenniveau mit gängigen Windows Server-Verwaltungstools (bereits durch die erste Voraussetzung impliziert)
+
+  - Kenntnisse auf Fortgeschrittenenniveau der wichtigsten Microsoft-Technologien für Computing, Speicher, Netzwerk und Virtualisierung
+
+  - Kenntnisse auf Fortgeschrittenenniveau der Windows Server-basierten Computing- und Speicher-Hochverfügbarkeitstechnologien
+
+  - Grundlegende Erfahrung mit der Implementierung und Verwaltung von IaaS-Services (Infrastructure as a Service) in Microsoft Azure
+
+  - Grundkenntnisse zu Azure Active Directory (Azure AD)
+
+  - Kenntnisse auf Fortgeschrittenenniveau der sicherheitsrelevanten Technologien der Microsoft-Virtualisierung
+
+  - Kenntnisse auf Fortgeschrittenenniveau zu PowerShell-Skripts und PowerShell-DSC (Desired State Configuration)
+outlineSection: >-
+  ### <a name="module-158-introducing-azure-stack-hci"></a>Modul 1&#58; Einführung in Azure Stack HCI
+
+  Dieses Modul beschreibt die grundlegenden Merkmale von Azure Stack HCI sowie die Peer-Angebote, die Teil des Azure Stack-Portfolios sind, einschließlich Azure Stack Hub und Azure Stack Edge. Das Modul bietet außerdem einen Überblick über die Azure Stack HCI-Kerntechnologien und -Verwaltungstools sowie eine allgemeine Anleitung für einen typischen Implementierungsprozess. Schließlich schließen die Module mit einer Zusammenfassung der Azure Stack HCI-Hybridfunktionen ab, von denen die meisten in Modul 4 ausführlich behandelt werden.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht über Azure Stack HCI
+
+  - Übersicht über Azure Stack HCI-Technologien
+
+  - Übersicht über Azure Stack HCI-Verwaltungstools
+
+  - Übersicht über die Azure Stack HCI-Hybridfunktionen
 
 
-  ### Modul 3&#58; Planung und Implementierung von Azure Stack HCI-Speicherung
-  Dieses Modul beschreibt die Planung und Implementierung von Azure Stack HCI Storage. Das Modul behandelt die wichtigsten HCI-Speichertechnologien im Detail und beinhaltet eine spezifische Abdeckung von Speicher-QoS und Speicher-Replikaten (im Kontext von Azure Stack HCI). Das Modul beschreibt den Prozess der Planung, Implementierung und Verwaltung von Azure Stack HCI-Speicher.
-  #### Einheiten
-  - Überblick über die Kerntechnologien von Azure Stack HCI Storage
-  - Planung für Lagerflächen direkt im Azure Stack HCI
-  - Implementierung einer direktbasierten hyperkonvergierten Infrastruktur für Speicherplätze
-  - Verwaltung von Speicherplätzen direkt im Azure Stack HCI
-  - Planung und Implementierung von Speicher-QoS
-  - Planung und Implementierung einer Speichernachbildung
+  Nach Abschluss dieses Moduls können die Schüler:
 
-  #### Lab &#58; Implementierung eines direkten Speicherplatz-Clusters
-  - Implementieren eines direkten Clusters mit Speicherplatz unter Verwendung von Windows PowerShell
-  - Verwaltung eines Storage Spaces Direct-Clusters mit Windows Admin Center und Windows PowerShell
-  - Verwaltung und Überwachung der Ausfallsicherheit eines Storage Spaces Direct-Clusters
-  - Verwaltung von Speicherplätzen Direkte Cluster-Ebenen
-  - Identifizieren und Analysieren von Metadaten eines Storage Spaces Direct-Clusters (optional)
+  - Beschreiben der grundlegenden Funktionen und Anwendungsfälle des Microsoft Azure Stack-Portfolios
 
-  Nach Abschluss dieses Moduls sind die TeilnehmerInnen in der Lage,&#58;
-  - Azure Stack HCI-Speicherkerntechnologien zu beschreiben.
-  - Speicherplätze direkt im Azure Stack HCI zu planen.
-  - eine direkt auf Speicherplätzen basierenden hyperkonvergierten Infrastruktur zu implementieren.
-  - Speicherplätze direkt in Azure Stack HCI zu verwalten.
-  - Speicher-QoS zu planen und zu implementieren.
-  - Speicherreplikate zu planen und zu implementieren.
+  - Identifizieren der wichtigsten Komponenten der Azure Stack HCI-Architektur
 
-  ### Modul 4&#58; Planung und Implementierung der Azure Stack HCI-Vernetzung
-  Dieses Modul beschreibt die Planung und Implementierung von Software Defined Networking in Azure Stack HCI. Das Modul konzentriert sich auf die Technologie und ihre grundlegende Funktionalität, wobei der Schwerpunkt auf dem Windows Admin Center als primärem SDN-Verwaltungstool liegt. Das Modul befasst sich auch ausführlicher mit vier spezifischen Komponenten des SDN, die im Azure Stack HCI verfügbar sind&#58; Switch Embedded Teaming (SET), Software Load Balancing (SLB), Datacenter Firewall und RAS-Gateways.
-  #### Einheiten
-  - Überblick über die Azure Stack HCI-Kernnetzwerktechnologien
-  - Überblick über Netzwerkvirtualisierung und Software-Definierte Vernetzung
-  - Planung und Implementierung von Switch Embedded Teaming
-  - Planung und Implementierung der Rechenzentrumsfirewall
-  - Planung und Implementierung von Software Load Balancing
-  - Planung und Implementierung von RAS-Gateways
+  - Identifizieren gängiger Verwaltungstools, die zum Bereitstellen und Verwalten einer hyperkonvergenten Infrastruktur verwendet werden
 
-  #### Labor &#58; Labor A&#58; Einsatz von Software-definiertem Networking
-  - Bereitstellen von softwaredefinierten Netzwerken durch Verwendung von PowerShell
+  - Beschreiben des Zwecks und der Funktionen von Azure Arc
+
+  - Identifizieren von Azure-Infrastrukturdiensten, die Sie in Ihre lokale Umgebung integrieren können
+
+  - Konfigurieren von Cloudzeugen als Quorumzeugen
+
+  - Beschreiben, wie mit dem Azure-Netzwerkadapter ein Point-to-Site-VPN mit einem virtuellen Azure-Netzwerk eingerichtet wird
+
+  - Beschreiben der Merkmale und Anwendungsfälle für die Azure-Dateisynchronisierung und Azure Monitor
+
+  - Erläutern, wie mithilfe von Azure Backup und Azure Site Recovery die Geschäftskontinuität aufrechterhalten wird
+
+  - Beschreiben der Anwendungsfälle und Architektur der Azure-Updateverwaltung
+
+  - Beschreiben des allgemeinen Prozesses zum Bereitstellen einer Azure Stack HCI-Implementierung
+
+
+
+  ### <a name="module-258-operating-and-maintaining-azure-stack-hci"></a>Modul 2&#58; Betrieb und Wartung von Azure Stack HCI
+
+  In diesem Modul wird beschrieben, wie Workloads in Azure Stack HCI implementiert, verwaltet und verwaltet werden. Wie im ersten Modul beschrieben, wurde Azure Stack HCI entwickelt, um die Leistung, Ausfallsicherheit und Skalierbarkeit bestimmter Arten von Workloads zu optimieren. Die Implementierung dieser Workloads erfolgt nach der Erstkonfiguration, bei der virtualisierte Speicher- und Netzwerkebenen auf der von Microsoft genehmigten Hardware bereitgestellt werden, auf der das Betriebssystem Windows Server 2019 ausgeführt wird. Dieses Modul bietet einen Überblick über verschiedene Azure-Services und Windows Server-Funktionen, die zum Verwalten und Wahren dieser Workloads verwendet werden können, und nutzt die Integration von Windows Server 2019 in Azure.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Implementieren und Verwalten von Workloads in Azure Stack HCI
+
+  - Wartung von Azure Stack HCI
+
+
+  #### <a name="lab-58-lab-b58-using-windows-admin-center-in-hybrid-scenarios"></a>Lab&#58; Lab B&#58; Verwenden von Windows Admin Centers in Hybridszenarien
+
+  - Integrieren einer hyperkonvergenten Infrastruktur in Azure-Dienste
+
+  - Untersuchen der Azure-Integrationsfunktionen
+
+  - Verwalten von Updates für hyperkonvergente Infrastrukturen
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Implementieren des gemeinsamen Clusterings mit freigegebenen Disks
+
+  - Beschreiben der Komponenten, die zum Bereitstellen abgeschirmter VMs erforderlich sind
+
+  - Implementieren von VDI-Workloads (Virtual Desktop Infrastructure)
+
+  - Hostcontainerbasierte Bereitstellungen in Azure Stack HCI
+
+  - Erstellen einer P2S-VPN-Verbindung (Point-to-Site) mit einem virtuellen Azure-Netzwerk über den Azure-Netzwerkadapter
+
+  - Beschreiben der Architektur der Azure-Dateisynchronisierung
+
+  - Implementieren der Azure-Dateisynchronisierung zum Replizieren von Dateien zwischen lokalem System und einer Azure-Dateifreigabe
+
+  - Verwalten von Azure Stack HCI-Workloads mit Azure Arc
+
+
+
+  ### <a name="module-358-planning-for-and-implementing-azure-stack-hci-storage"></a>Modul 3&#58; Planen und Implementieren von Azure Stack HCI-Speicher
+
+  In diesem Modul wird beschrieben, wie man Azure Stack HCI-Speicher plant und implementiert. Das Modul behandelt die wichtigsten HCI-Speichertechnologien im Detail und enthält eine spezifische Beschreibung der Speicher-QoS und des Speicherreplikats (im Kontext von Azure Stack HCI). Das Modul beschreibt den Prozess der Planung, Implementierung und Verwaltung des Azure Stack HCI-Speichers.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht über die wichtigsten Technologien von Azure Stack HCI-Speicher
+
+  - Planen von direkten Speicherplätze in Azure Stack HCI
+
+  - Implementieren einer auf direkten Speicherplätzen basierenden hyperkonvergenten Infrastruktur
+
+  - Verwalten von direkten Speicherplätzen in Azure Stack HCI
+
+  - Planen und Implementieren der Speicher-QoS
+
+  - Planen und Implementieren von Speicherreplikaten
+
+
+  #### <a name="lab-58-implementing-a-storage-spaces-direct-cluster"></a>Lab &#58; Implementieren eines Clusters mit direkten Speicherplätzen
+
+  - Implementieren eines Clusters mit direkten Speicherplätzen mithilfe von Windows PowerShell
+
+  - Verwalten eines Clusters mit direkten Speicherplätzen mithilfe von Windows Admin Center und Windows PowerShell
+
+  - Verwalten und Überwachen der Resilienz eines Clusters mit direkten Speicherplätzen
+
+  - Verwalten der Ebenen eines Clusters mit direkten Speicherplätzen
+
+  - Identifizieren und Analysieren von Metadaten eines Clusters mit direkten Speicherplätzen (optional)
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Beschreiben der wichtigsten Technologien von Azure Stack HCI-Speicher
+
+  - Planen von direkten Speicherplätzen in Azure Stack HCI
+
+  - Implementieren einer auf direkten Speicherplätzen basierenden hyperkonvergenten Infrastruktur
+
+  - Verwalten von direkten Speicherplätzen in Azure Stack HCI
+
+  - Planen und Implementieren der Speicher-QoS
+
+  - Planen und Implementieren von Speicherreplikaten
+
+
+
+  ### <a name="module-458-planning-for-and-implementing-azure-stack-hci-networking"></a>Modul 4&#58; Planen und Implementieren von Azure Stack HCI-Netzwerken
+
+  In diesem Modul wird beschrieben, wie Sie Software-definierte Netzwerke in Azure Stack HCI planen und implementieren. Das Modul konzentriert sich auf die Technologie und ihre grundlegenden Funktionen, wobei der Schwerpunkt auf dem Windows Admin Center als primärem SDN-Verwaltungstool liegt. Das Modul behandelt außerdem vier spezifische SDN-Komponenten, die in Azure Stack HCI verfügbar sind. Switch Embedded Teaming (SET), Software Load Balancing (SLB), Datacenter Firewall und RAS-Gateways.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht über die wichtigsten Netzwerktechnologien von Azure Stack HCI
+
+  - Übersicht über Netzwerkvirtualisierung und softwaredefinierte Netzwerke
+
+  - Planen und Implementieren von Switch Embedded Teaming
+
+  - Planen und Implementieren der Rechenzentrumsfirewall
+
+  - Planen und Implementieren des Softwarelastenausgleichs
+
+  - Planen und Implementieren von RAS-Gateways
+
+
+  #### <a name="lab-58-lab-a58-deploying-software-defined-networking"></a>Lab&#58; Lab A&#58; Bereitstellen eines softwaredefinierten Netzwerks
+
+  - Bereitstellen eines softwaredefinierten Netzwerks mithilfe von PowerShell
+
   - Verwalten virtueller Netzwerke mithilfe von Windows Admin Center und PowerShell
-  - Implementierung der SDN-Zugriffskontrollliste mit dem Windows Admin Center
-  - Implementieren des SDN-Software-Load-Balancing mithilfe von Windos Admin Center und Windows PowerShell
 
-  Nach Abschluss dieses Moduls sind die TeilnehmerInnen in der Lage,&#58;
-  - die Kernkomponenten des Software-Defined Networking (SDN) des Azure Stack HCI zu beschreiben.
-  - im Kontext von Azure Stack HCI zwischen reinen Software- und reinen Hardware-Funktionen zu unterscheiden.
-  - den Anwendungsfall für vereinfachte SMB-Mehrkanal- und Multi-NIC-Cluster-Netzwerke zu beschreiben.
-  - die Netzwerkvirtualisierung im Kontext von Azure Stack HCI zu beschreiben.
-  - den Prozess des Einsatzes von SDN im Azure Stack HCI zu erklären.
-  - SET zu planen und zu implementieren.
-  - die SLB-Funktionalität und -Infrastruktur zu beschreiben und SLB zu implementieren.
-  - Datacenter-Firewall zu implementieren und zu konfigurieren.
-  - RAS-Gateway zu implementieren, konfigurieren und Fehlerbehebung durchzuführen.
+  - Implementieren der SDN-Zugriffssteuerungsliste mithilfe von Windows Admin Center
 
+  - Implementieren des SDN-Softwarelastenausgleichs mithilfe von Windows Admin Center und Windows PowerShell
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Beschreiben der wichtigsten Komponenten von Azure Stack HCI für softwaredefinierte Netzwerke (SDN)
+
+  - Unterscheiden zwischen reinen Software- und reinen Hardwarefeatures im Kontext von Azure Stack HCI
+
+  - Beschreiben des Anwendungsfalls für vereinfachte SMB-Multichannel- und Multi-NIC-Clusternetzwerke
+
+  - Beschreiben der Netzwerkvirtualisierung im Kontext von Azure Stack HCI
+
+  - Beschreiben des Bereitstellungsprozesses für SDN in Azure Stack HCI
+
+  - Planen und Implementieren von Switch Embedded Teaming (SET)
+
+  - Beschreiben der Funktionalität und Infrastruktur des Softwarelastenausgleichs (Software Load Balancing, SLB) und Implementieren des Softwarelastenausgleichs
+
+  - Implementieren und Konfigurieren der Rechenzentrumsfirewall
+
+  - Implementieren, Konfigurieren und Behandeln von Problemen von RAS Gateway

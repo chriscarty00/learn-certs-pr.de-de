@@ -1,26 +1,32 @@
 ### YamlMime:Course
-title: Office 365 Administrator
+title: Office 365-Administrator
 metadata:
-  title: 'Course MS-030T00-A: Office 365 Administrator'
-  description: 'Course MS-030T00-A: Office 365 Administrator'
+  title: 'Kurs MS-030T00-A: Office 365-Administrator'
+  description: 'Kurs MS-030T00-A: Office 365-Administrator'
+  ms.openlocfilehash: 7b9cab698c31a72d73975254618dd7a3029f6f55
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107130"
 uid: course.ms-030t00
-courseNumber: 'MS-030T00-A'
+courseNumber: MS-030T00-A
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Planen Sie eine Office365-Bereitstellung, konfigurieren Sie den Office 365-Mandanten und planen Sie eine Pilotbereitstellung. 
-- skill: Office 365-Benutzer, -Gruppen und -Lizenzen verwalten und delegierte Administration konfigurieren. 
-- skill: Planen und konfigurieren Sie die Client-Konnektivität zu Office 365. 
-- skill: Planen und Konfigurieren der Verzeichnissynchronisierung zwischen Microsoft Azure AD und lokalem AD DS.
-- skill: Planen und implementieren Sie die Office 365 ProPlus-Bereitstellung. 
-- skill: Planen und verwalten Sie Microsoft Exchange Online-Empfänger und -Berechtigungen.  
-- skill: Planen und konfigurieren Sie Exchange Online-Services. 
-- skill: Planen und konfigurieren Sie Microsoft Teams
-- skill: Planen und konfigurieren Sie Microsoft SharePoint Online. 
-- skill: Planen und konfigurieren Sie Office 365 Kollaborations-Lösungen. 
-- skill: Planen und konfigurieren Sie die Integration zwischen Office 365 und Microsoft Azure Information Protection. 
-- skill: Überwachen und Überprüfen von Office 365-Services und Beheben von Office 365-Problemen. 
-- skill: Planen und Implementieren des Identitätsverbunds zwischen lokalem AD DS und Azure AD.
+- skill: Planen einer Office 365-Bereitstellung, Konfigurieren des Office 365-Mandanten und Planen einer Pilotbereitstellung
+- skill: Verwalten von Office 365-Benutzern, -Gruppen und -Lizenzen sowie Konfigurieren der delegierten Verwaltung
+- skill: Planen und Konfigurieren der Clientkonnektivität für Office 365
+- skill: Planen und Konfigurieren der Verzeichnissynchronisierung zwischen Microsoft Azure AD und der lokalen AD DS-Umgebung
+- skill: Planen und Implementieren der Office 365 ProPlus-Bereitstellung
+- skill: Planen und Verwalten der Microsoft Exchange Online-Empfänger und -Berechtigungen
+- skill: Planen und Konfigurieren der Exchange Online-Dienste
+- skill: Planen und Konfigurieren von Microsoft Teams
+- skill: Planen und Konfigurieren von Microsoft SharePoint Online
+- skill: Planen und Konfigurieren von Office 365-Lösungen für die Zusammenarbeit
+- skill: Planen und Konfigurieren einer Integration zwischen Office 365 und Microsoft Azure Information Protection
+- skill: Überwachen und Überprüfen von Office 365-Diensten und Behandeln von Office 365-Problemen
+- skill: Planen und Implementieren eines Identitätsverbunds zwischen der lokalen AD DS-Umgebung und Azure AD
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -30,260 +36,444 @@ roles:
 - developer
 products:
 - office-365
-summary: |-
-  Dies ist ein fünftägiger, von Dozenten geleiteter Schulungskurs (ILT), der auf die Bedürfnisse von IT-Experten abzielt, die an der Bewertung, Planung, Bereitstellung und dem Betrieb von Microsoft Office365-Services teilnehmen, einschließlich ihrer Identitäten, Abhängigkeiten, Anforderungen und unterstützenden Technologien. Dieser Kurs konzentriert sich auf die Fähigkeiten, die zum Einrichten eines Office 365-Mandanten erforderlich sind, einschließlich der Föderation mit vorhandenen Benutzeridentitäten, und die erforderlichen Fähigkeiten, einen Office 365-Mandanten und seine Benutzer aufrechtzuerhalten.  
-
-  #### Zielgruppenprofil
-  Dieser Kurs richtet sich an IT-Experten, die für die Planung, Konfiguration und Verwaltung einer Office 365-Umgebung verantwortlich sind. Von den Teilnehmern dieses Kurses wird erwartet, dass sie über ein ziemlich breites Verständnis verschiedener lokaler Technologien wie Domain Name System (DNS) und Active Directory Domain Services (AD DS) verfügen. Darüber hinaus sollten sie über allgemeine Kenntnisse von Microsoft Exchange Server, Microsoft Lync Server oder Skype for Business Server und Microsoft SharePoint Server verfügen.
-prerequisitesSection: |-
-  Vor der Teilnahme an diesem Kurs müssen die Studenten&#58;
-  - Mindestens zwei Jahre Erfahrung in der Verwaltung des Windows Server-Betriebssystems vorweisen, einschließlich Windows Server 2012 oder höher. 
-  - Mindestens ein Jahr Erfahrung in der Arbeit mit AD DS haben. 
-  - mindestens ein Jahr Erfahrung im Umgang mit Namensauflösung haben, einschließlich DNS. 
-  - Erfahrung in der Arbeit mit Zertifikaten haben, dazu gehören Public-Key-Infrastructure (PKI) Zertifikate 
-  - Erfahrung in der Arbeit mit Windows PowerShell haben. 
-  - Erfahrung in der Arbeit mit Exchange Server 2013 oder höher, Lync Server 2013 oder Skype for Business Server2015 und SharePoint Server 2013 oder höher ist von Vorteil, aber nicht erforderlich.
-outlineSection: |-
-  ### Modul 1&#58; Planung und Bereitstellung von Office 365
-  In diesem Modul werden die Funktionen von Office365 überprüft, die jüngsten Verbesserungen des Service identifiziert und der Prozess der Bereitstellung eines Office 365-Mandanten beschrieben. Dieses Modul identifiziert auch die Herausforderungen bei der Bereitstellung von Office 365 und die Vorteile des Microsoft FastTrack for Office 365-Ansatzes im Vergleich zum herkömmlichen Planen, Vorbereiten und Migrieren des Bereitstellungsprozesses.  
-  #### Lektionen
-  - Überblick über Office 365
-  - Bereitstellung eines Office 365-Mandanten
-  - Planung eines Piloteinsatzes
+summary: >-
+  Dies ist eine fünftägige Präsenzschulung, die sich an IT-Experten richtet, die an der Bewertung, Planung, Bereitstellung sowie dem Betrieb von Microsoft Office 365-Diensten beteiligt sind, einschließlich der damit verbundenen Identitäten, Abhängigkeiten, Anforderungen und unterstützenden Technologien. Dieser Kurs konzentriert sich auf die Fähigkeiten, die zum Einrichten eines Office 365-Mandanten benötigt werden, einschließlich eines Verbunds mit vorhandenen Benutzeridentitäten, sowie auf die Fähigkeiten, die zur Aufrechterhaltung eines Office 365-Mandanten und der zugehörigen Benutzer erforderlich sind.
 
 
-  #### Lab&#58; Bereitstellung von Office 365
-  - Konfigurieren eines Office 365-Mandanten
-  - Konfigurieren einer benutzerdefinierten Domain
-  - Erkunden der Office 365-Administratorschnittstellen 
+  #### <a name="audience-profile"></a>Zielgruppenprofil
 
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;  
-  - die Funktionen und Vorteile von Office 365 zu beschreiben. 
-  - neue Mandanten-Accounts bereitzustellen.
-  - eine Pilotbereitstellung von Office 365 zu planen. 
+  Dieser Kurs richtet sich an IT-Experten, die für die Planung, Konfiguration und Verwaltung einer Office 365-Umgebung verantwortlich sind. Von den Kursteilnehmern wird erwartet, dass sie über ein umfassendes Verständnis verschiedener lokaler Technologien wie Domain Name System (DNS) und Active Directory Domain Services (AD DS) verfügen. Darüber hinaus sollten sie über ein allgemeines Verständnis von Microsoft Exchange Server, Microsoft Lync Server oder Skype for Business Server und Microsoft SharePoint Server verfügen.
+prerequisitesSection: >-
+  Vor Teilnahme an disesem Kurs benötigen die Teilnehmer:
 
-  ### Modul 2&#58; Verwalten von Office 365-Benutzern und -Gruppen
-  In diesem Modul wird erläutert, wie man Benutzer, Gruppen und Lizenzen verwalten und den Administratorzugriff mit Hilfe der Office 365-Konsole und der Windows PowerShell-Befehlszeilenschnittstelle konfiguriert. In diesem Modul wird auch erklärt, wie man Benutzer-Passwörter verwaltet und die Multi-Faktor-Authentifizierung konfiguriert. 
+  - Mindestens zwei Jahre Erfahrung in der Verwaltung des Betriebssystems Windows Server, einschließlich Windows Server 2012 oder höher.
 
-  #### Lektionen
-  - Verwaltung von Benutzerkonten und Lizenzen
-  - Verwalten von Passwörtern und Authentifizierung
-  - Verwalten von Sicherheitsgruppen in Office 365
-  - Verwalten von Office 365-Benutzern und -Gruppen mit Windows PowerShell
-  - Administratorzugriff konfigurieren
+  - Mindestens ein Jahr Arbeitserfahrung mit AD DS.
 
+  - Mindestens ein Jahr Erfahrung im Bereich Namensauflösung, einschließlich DNS.
 
-  #### Lab&#58; Office 365-Benutzer und -Passwörter verwalten
-  - Verwalten von Office 365-Benutzern und -Lizenzen mit Hilfe des Microsoft 365 Admin Center
-  - Verwalten von Office 365-Passwortrichtlinien
+  - Erfahrung im Umgang mit Zertifikaten, einschließlich PKI-Zertifikaten (Public Key Infrastructure).
 
+  - Praktische Erfahrung mit Windows PowerShell.
 
-  #### Lab&#58; Office-Gruppen verwalten
-  - Verwalten von Office 365-Gruppen 
-  - Verwalten von Office 365 -Benutzern und - Gruppen mit Hilfe von Windows PowerShell
-  - Serviceadministratoren konfigurieren
+  - Erfahrung im Umgang mit Exchange Server 2013 oder höher, Lync Server 2013 oder Skype for Business Server 2015 und SharePoint Server 2013 oder höher ist von Vorteil, aber keine Voraussetzung.
+outlineSection: >-
+  ### <a name="module-158-planning-and-provisioning-office-365"></a>Modul 1: Planen und Bereitstellen von Office 365
 
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58; 
-  - Benutzerkonten und Lizenzen mit Hilfe des Microsoft 365 Admin Centers zu verwalten. 
-  - Passwörter und Authentifizierung zu verwalten.
-  - Sicherheits- und Verteilergruppen mit Hilfe des Microsoft 365 Admin Centers zu verwalten. 
-  - Office 365-Benutzer und -Gruppen mit Hilfe von Windows PowerShell zu verwalten. 
-  - den Administratorzugriff zu konfigurieren.
+  Dieses Modul gibt einen Überblick über die Funktionen von Office 365, beschreibt die neuesten Dienstverbesserungen und erläutert das Verfahren zum Bereitstellen eines Office 365-Mandanten. In diesem Modul werden außerdem die Herausforderungen bei der Bereitstellung von Office 365 aufgezeigt und die Vorteile des Microsoft FastTrack-Ansatzes für Office 365 im Vergleich zum herkömmlichen Bereitstellungsverfahren für Planung, Vorbereitung und Migration vorgestellt.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht über Office 365
+
+  - Bereitstellen eines Office 365-Mandanten
+
+  - Planen einer Pilotbereitstellung
 
 
-  ### Modul 3&#58; Konfigurieren der Client-Konnektivität zu Microsoft Office 365
-  In diesem Modul werden die verschiedenen Arten von Clientsoftware behandelt, die Sie zum Herstellen einer Verbindung mit Office 365 verwenden können. Außerdem werden die Infrastrukturanforderungen erläutert, die die Clients zum Herstellen einer Verbindung mit Office 365 benötigen, sowie die Konfiguration verschiedener Typen von Office 365-Clients.
 
-  #### Lektionen
-  - Planung für Office 365-Clients
-  - Konnektivität für Office 365 -Clients planen
-  - Konnektivität für Office 365-Clients konfigurieren
+  #### <a name="lab-58-provisioning-office-365"></a>Lab: Bereitstellung von Office 365
+
+  - Konfigurieren eines Office 365-Mandanten
+
+  - Konfigurieren einer benutzerdefinierten Domäne
+
+  - Erkunden der Office 365-Administratorschnittstellen
 
 
-  #### Lab&#58; Konfigurieren der Clientkonnektivität mit Office 365
-  - Konfigurieren von DNS -Einträgen für Office 365-Clients
-  - Ausführen der Tools zur Konnektivitätsanalyse von Office 365 
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Beschreiben der Features und Vorteile von Office 365
+
+  - Bereitstellen neuer Mandantenkonten
+
+  - Planen einer Pilotbereitstellung von Office 365
+
+
+
+  ### <a name="module-258-managing-office-365-users-and-groups"></a>Modul 2: Verwalten von Office 365-Benutzern und -Gruppen
+
+  In diesem Modul wird erklärt, wie Sie Benutzer, Gruppen und Lizenzen verwalten und den administrativen Zugriff mithilfe der Office 365-Konsole und der Windows PowerShell-Befehlszeilenschnittstelle konfigurieren. Darüber hinaus wird erläutert, wie Sie Benutzerkennwörter verwalten und die mehrstufige Authentifizierung konfigurieren.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Verwalten von Benutzerkonten und Lizenzen
+
+  - Verwalten von Kennwörtern und Authentifizierung
+
+  - Verwalten von Sicherheitsgruppen in Office 365
+
+  - Verwalten von Office 365-Benutzern und -Gruppen mit Windows PowerShell
+
+  - Konfigurieren des administrativen Zugriffs
+
+
+
+  #### <a name="lab-58-managing-office-365-users-and-passwords"></a>Lab: Verwalten von Office 365-Benutzern und -Kennwörtern
+
+  - Verwalten von Office 365-Benutzern und -Lizenzen mithilfe des Microsoft 365 Admin Center
+
+  - Verwalten Office 365-Kennwortrichtlinien
+
+
+
+  #### <a name="lab-58-managing-office-365-groups-and-administration"></a>Lab: Verwalten Office 365-Gruppen und -Verwaltung
+
+  - Verwalten von Office 365-Gruppen
+
+  - Verwalten von Office 365-Benutzern und -Gruppen mithilfe von Windows PowerShell
+
+  - Konfigurieren von Dienstadministratoren
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Verwalten von Benutzerkonten und Lizenzen mithilfe des Microsoft 365 Admin Center
+
+  - Verwalten von Kennwörtern und Authentifizierung
+
+  - Verwalten von Sicherheits- und Verteilergruppen mithilfe des Microsoft 365 Admin Center
+
+  - Verwalten von Office 365-Benutzern und -Gruppen mithilfe von Windows PowerShell
+
+  - Konfigurieren des administrativen Zugriffs
+
+
+
+  ### <a name="module-358-configuring-client-connectivity-to-microsoft-office-365"></a>Modul 3: Konfigurieren der Clientkonnektivität für Microsoft Office 365
+
+  Dieses Modul behandelt die verschiedenen Arten von Clientsoftware, die Sie für die Verbindungsherstellung mit Office 365 verwenden können. Außerdem werden die Infrastrukturanforderungen beschrieben, die Clients für die Verbindungsherstellung mit Office 365 erfüllen müssen, und es wird erläutert, wie die verschiedenen Arten von Office 365-Clients konfiguriert werden.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Planung für Office 365-Clients
+
+  - Planen der Konnektivität für Office 365-Clients
+
+  - Konfigurieren der Konnektivität für Office 365-Clients
+
+
+
+  #### <a name="lab-58-configuring-client-connectivity-to-office-365"></a>Lab: Konfigurieren der Clientkonnektivität für Office 365
+
+  - Konfigurieren von DNS-Einträgen für Office 365-Clients
+
+  - Ausführen der Office 365-Konnektivitätsanalysetools
+
   - Verbinden von Office-Apps
 
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage&#58;   
-  - die Bereitstellung von Office 365-Clients zu planen. 
-  - Konnektivität für Office 365 -Clients zu planen und Fehler zu beheben.  
-  - die Konnektivität für Office 365-Clients zu konfigurieren. 
 
-  ### Modul 4&#58; Planung und Konfiguration der Verzeichnissynchronisierung
-  In diesem Modul wird erläutert, wie man die Verzeichnissynchronisierung als Methode für die Benutzer- und Gruppenverwaltung in einer Office 365-Bereitstellung plant, vorbereitet und implementiert. Es wird erläutert, wie man eine lokale Umgebung vorbereitet und die Verzeichnissynchronisierung installiert und konfiguriert. Außerdem wird erläutert, wie man Office 365-Identitäten verwaltet, nachdem die Verzeichnissynchronisierung aktiviert wurde. 
+  Nach Abschluss dieses Moduls können die Schüler:
 
-  #### Lektionen
-  - Planung und Vorbereitung der Verzeichnissynchronisierung
-  - Implementieren der Verzeichnissynchronisierung mit Hilfe von Azure AD Connect
-  - Verwaltung von Office 365
-  - Identitäten mit Verzeichnissynchronisierung
+  - Planen der Bereitstellung von Office 365-Clients
+
+  - Planen der Konnektivität für Office 365-Clients und Behandeln von Konnektivitätsproblemen
+
+  - Konfigurieren der Konnektivität für Office 365-Clients
 
 
-  #### Lab&#58; Verzeichnissynchronisierung konfigurieren
-  - Vorbereitung für die Verzeichnissynchronisierung
+
+  ### <a name="module-458-planning-and-configuring-directory-synchronization"></a>Modul 4: Planen und Konfigurieren der Verzeichnissynchronisierung
+
+  In diesem Modul wird erläutert, wie die Verzeichnissynchronisierung als Methodik für die Benutzer- und Gruppenverwaltung in einer Office 365-Bereitstellung geplant, vorbereitet und implementiert wird. Es wird erklärt, wie Sie eine lokale Umgebung vorbereiten und die Verzeichnissynchronisierung installieren und konfigurieren. Außerdem wird erläutert, wie sie nach dem Aktivieren der Verzeichnissynchronisierung Office 365-Identitäten verwalten.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Planen und Vorbereiten der Verzeichnissynchronisierung
+
+  - Implementieren der Verzeichnissynchronisierung mit Azure AD Connect
+
+  - Verwalten von Office 365-Identitäten mithilfe der Verzeichnissynchronisierung
+
+
+
+  #### <a name="lab-58-configuring-directory-synchronization"></a>Lab: Konfigurieren der Verzeichnissynchronisierung
+
+  - Vorbereiten der Verzeichnissynchronisierung
+
   - Konfigurieren der Verzeichnissynchronisierung
+
   - Verwalten von Active Directory-Benutzern und -Gruppen
 
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
-  - die Verzeichnissynchronisierung zu planen und vorzubereiten. 
-  - die Verzeichnissynchronisierung mit Hilfe von Microsoft Azure Active Directory Connect (AD Connect) zu implementieren. 
-  - Office 365-Identitäten mit der Verzeichnissynchronisierung zu verwalten. 
 
-  ### Modul 5&#58; Planung und Bereitstellung von Office 365 ProPlus
-  In diesem Modul wird erläutert, wie man eine Clientbereitstellung plant und sicherstellt, dass Benutzer die Tools erhalten, die sie für eine effektive Interaktion mit Office 365 benötigen. Außerdem wird der Planungsprozess erläutert, wie Office 365 ProPlus direkt für Endbenutzer verfügbar gemacht und als verwaltetes Paket bereitgestellt wird. Schließlich wird beschrieben, wie die Office - Telemetrie eingerichtet wird, damit Administratoren nachverfolgen können, wie Benutzer mit Microsoft Office interagieren.
+  Nach Abschluss dieses Moduls können die Schüler:
 
-  #### Lektionen
-  - Überblick über Office 365 ProPlus
-  - Planung und Verwaltung von benutzergesteuerten Office 365 ProPlus-Bereitstellungen
-  - Planung und Verwaltung zentralisierter Bereitstellungen von Office 365 ProPlus
-  - Office-Telemetrie und -Berichte
+  - Planen und Vorbereiten der Verzeichnissynchronisierung
 
-  #### Lab&#58; Office 365 ProPlus -Installationen verwalten
-  - Vorbereiten einer verwalteten Office 365 ProPlus-Installation
-  - Verwaltung von benutzergesteuerten Office 365 ProPlus-Installationen
-  - Verwaltung zentralisierter Office 365 ProPlus-Installationen
+  - Implementieren der Verzeichnissynchronisierung mithilfe von Microsoft Azure Active Directory Connect (AD Connect)
 
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
-  - Office 365 ProPlus zu beschreiben.
-  - benutzergesteuerte Office 365 ProPlus-Bereitstellungen zu planen und zu verwalten. 
-  - zentralisierte Bereitstellungen für Office 365 ProPlus zu planen und zu verwalten. 
-  - Office-Telemetrie und -Berichterstellung zu beschreiben. 
+  - Verwalten von Office 365-Identitäten mithilfe der Verzeichnissynchronisierung
 
-  ### Modul 6&#58; Planung und Verwaltung von Exchange Online-Empfängern und -Berechtigungen
-  In diesem Modul wird Exchange Online beschrieben und erklärt, wie Empfängerobjekte erstellt und verwaltet werden und wie die Exchange-Sicherheit verwaltet und delegiert wird. 
 
-  #### Lektionen 
-  - Überblick über Exchange Online
+
+  ### <a name="module-558-planning-and-deploying-office-365-proplus"></a>Modul 5: Planen und Bereitstellen von Office 365 ProPlus
+
+  In diesem Modul wird erläutert, wie Sie eine Clientbereitstellung planen und sicherstellen, dass die Benutzer die Tools erhalten, die sie für eine effiziente Interaktion mit Office 365 benötigen. Außerdem werden der Planungsprozess und die direkte Bereitstellung von Office 365 ProPlus für Endbenutzer sowie die Bereitstellung als verwaltetes Paket erläutert. Schließlich wird beschrieben, wie Sie die Office-Telemetrie einrichten, damit Administratoren die Interaktion der Benutzer mit Microsoft Office verfolgen können.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht über Office 365 ProPlus
+
+  - Planen und Verwalten von benutzergesteuerten Office 365 ProPlus-Bereitstellungen
+
+  - Planen und Verwalten von zentralen Office 365 ProPlus-Bereitstellungen
+
+  - Office-Telemetrie und -Berichterstellung
+
+
+
+  #### <a name="lab-58-managing-office-365-proplus-installations"></a>Lab: Verwalten von Office 365 ProPlus-Bereitstellungen
+
+  -  Vorbereiten einer verwalteten Office 365 ProPlus-Installation
+
+  - Verwalten von benutzergesteuerten Office 365 ProPlus-Installationen
+
+  - Verwalten von zentralen Office 365 ProPlus-Installationen
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  -  Beschreiben von Office 365 ProPlus
+
+  - Planen und Verwalten von benutzergesteuerten Office 365 ProPlus-Bereitstellungen
+
+  - Planen und Verwalten von zentralen Office 365 ProPlus-Bereitstellungen
+
+  - Beschreiben von Office-Telemetrie und -Berichterstellung
+
+
+
+  ### <a name="module-658-planning-and-managing-exchange-online-recipients-and-permissions"></a>Modul 6: Planen und Verwalten von Microsoft Exchange Online-Empfängern und -Berechtigungen
+
+  Dieses Modul beschreibt Exchange Online und erläutert, wie Sie Empfängerobjekte erstellen und verwalten sowie die Exchange-Sicherheit verwalten und delegieren.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht über Exchange Online
+
   - Verwalten von Exchange Online-Empfängern
-  - Planung und Konfiguration von Exchange Online-Berechtigungen
 
-  #### Lab&#58; Verwalten  von Exchange Online-Empfängern und -Berechtigungen
+  - Planen und Konfigurieren von Exchange Online-Berechtigungen
+
+
+
+  #### <a name="lab-58-managing-exchange-online-recipients-and-permissions"></a>Lab: Verwalten von Microsoft Exchange Online-Empfängern und -Berechtigungen
+
   - Konfigurieren von Exchange Online-Empfängern
-  - Konfigurieren der rollenbasierten Zugriffskontrolle
 
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58; 
-  - Exchange Online zu beschreiben. 
-  - Exchange Online-Empfänger zu verwalten. 
-  - die delegierte Verwaltung zu planen und zu konfigurieren.
+  - Konfigurieren der rollenbasierten Zugriffssteuerung
 
 
-  ### Modul 7&#58; Planung und Konfiguration von Exchange Online-Services
-  In diesem Modul wird erläutert, wie man den E-Mail-Fluss zusätzlich zu den Anti-Malware- und Anti-Spam-Einstellungen in Office 365 plant und konfiguriert. Außerdem wird erläutert, wie Richtlinien für Exchange-Clients geplant und konfiguriert  werden. Außerdem wird beschrieben, wie man eine Migration zu Exchange Online plant und konfiguriert. 
+  Nach Abschluss dieses Moduls können die Schüler:
 
-  #### Lektionen
-  - Planung und Konfiguration des E-Mail-Flusses in Office 365
-  - Planung und Konfiguration des E-Mail-Schutzes in Office 365
-  - Planung und Konfiguration von Clientzugriffsrichtlinien
-  - Migration zu Exchange Online
+  - Beschreiben von Exchange Online
+
+  - Verwalten von Exchange Online-Empfängern
+
+  - Planen und Konfigurieren der delegierten Verwaltung
 
 
-  #### Lab&#58; Konfigurieren des Nachrichtentransports in Exchange Online
-  - Konfigurieren von Nachrichtentransporteinstellungen
 
-  #### Lab&#58; E-Mail-Schutz und Client-Richtlinien konfigurieren
-  - E-Mail-Schutz konfigurieren
-  - Client-Zugriffsrichtlinien konfigurieren
+  ### <a name="module-758-planning-and-configuring-exchange-online-services"></a>Modul 7: Planen und Konfigurieren der Exchange Online-Dienste
 
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58; 
-  - den E-Mail-Fluss in Office 365 zu planen und zu konfigurieren. 
-  - Anti-Malware- und Anti-Spam-Einstellungen in Office 365 zu planen und zu konfigurieren. 
-  - Richtlinien für Exchange-Clients zu planen und zu konfigurieren. 
-  - eine Migration zu Exchange Online zu planen und zu konfigurieren. 
+  In diesem Modul wird erläutert, wie Sie den E-Mail-Verkehr planen und konfigurieren und die Antischadsoftware- und Antispameinstellungen in Office 365 festlegen. Außerdem wird erklärt, wie Sie Richtlinien für Exchange-Clients konfigurieren. Darüber hinaus wird beschrieben, wie sie eine Migration zu Exchange Online planen und konfigurieren.
 
-  ### Modul 8&#58; Planung und Bereitstellung von Microsoft Teams
-  In diesem Modul wird erläutert, wie man Teams plant und konfiguriert. Es wird erklärt, wie man Teams-Benutzereinstellungen und -Clients konfiguriert und die Sprachintegration plant. Außerdem wird erläutert, wie man von Skype for Business zu Teams wechselt und wie Teams in andere Office 365-Services integriert wird. 
+  #### <a name="lessons"></a>Lektionen
 
-  #### Lektionen
-  - Teams erklärt 
-  - Bereitstellung von Teams
+  - Planen und Konfigurieren des E-Mail-Flusses in Office 365
+
+  - Planen und Konfigurieren des E-Mail-Schutzes in Office 365
+
+  - Planen und Konfigurieren von Clientzugriffsrichtlinien
+
+  - Migrieren zu Exchange Online
+
+
+
+  #### <a name="lab-58-configuring-message-transport-in-exchange-online"></a>Lab: Konfigurieren des Nachrichtentransports in Exchange Online
+
+  - Konfigurieren von Einstellungen für den Nachrichtentransport
+
+
+
+  #### <a name="lab-58-configuring-email-protection-and-client-policies"></a>Lab: Konfigurieren von E-Mail-Schutz und Clientrichtlinien
+
+  - Konfigurieren des E-Mail-Schutzes
+
+  - Konfigurieren von Clientzugriffsrichtlinien
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Planen und Konfigurieren des E-Mail-Flusses in Office 365
+
+  - Planen und Konfigurieren von Antischadsoftware- und Antispameinstellungen in Office 365
+
+  - Planen und Konfigurieren von Richtlinien für Exchange-Clients
+
+  - Planen und Konfigurieren einer Migration zu Exchange Online
+
+
+
+  ### <a name="module-858-planning-and-deploying-microsoft-teams"></a>Modul 8: Planen und Bereitstellen von Microsoft Teams
+
+  In diesem Modul wird erläutert, wie Sie Teams planen und konfigurieren. Es wird erklärt, wie Sie Teams-Benutzereinstellungen und -Clients konfigurieren und die Sprachintegration planen. Außerdem wird erläutert, wie Sie von Skype for Business auf Teams umstellen und wie Teams in andere Office 365-Dienste integriert werden kann.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht über Teams
+
+  -  Bereitstellen von Teams
+
   - Authentifizierung und Zugriff
-  - Umstellung von Skype for Business auf Microsoft Teams   
-  - Management und Berichterstattung
+
+  - Umstellung von Skype for Business auf Microsoft Teams
+
+  - Verwaltung und Berichterstellung
 
 
-  #### Lab&#58; Teams-Übersicht
-  - Meeting-Einstellungen verwalten
-  - Nachrichtenrichtlinien verwalten
-  - Spracheinstellungen verwalten
-  - Organisationsweite Einstellungen verwalten
 
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58; 
-  - Teams zu planen und zu konfigurieren
-  - die Benutzereinstellungen und Kanäle von Teams zu konfigurieren
-  - Sprachintegration zu verwalten
-  - organisationsweite Einstellungen in Teams zu konfigurieren.
+  #### <a name="lab-58-teams-overview"></a>Lab: Übersicht über Teams
 
+  - Verwalten von Besprechungseinstellungen
 
-  ### Modul 9&#58; SharePoint Online planen und konfigurieren
-  In diesem Modul wird beschrieben, wie man SharePoint Online-Services konfiguriert, SharePoint-Websitesammlungen und externe Benutzerfreigaben plant und konfiguriert. Außerdem gibt es einen kurzen Überblick über weitere Portale, wie zum Beispiel das Videoportal. 
+  - Verwalten von Messagingrichtlinien
 
-  #### Lektionen
-  - Konfigurieren von SharePoint Online-Services
-  - Planung und Konfiguration von SharePoint Online-Websitesammlungen
-  - Planung und Konfiguration der externen Benutzerfreigabe
+  - Verwalten von Spracheinstellungen
+
+  - Verwalten von organisationsweiten Einstellungen
 
 
-  #### Lab&#58; SharePoint Online
-  konfigurieren
-  - Konfigurieren  von SharePoint Online-Einstellungen
-  - Erstellen und Konfigurieren  von SharePoint Online-Websitesammlungen
-  - Konfiguration und Überprüfung der externen Benutzerfreigabe
+  Nach Abschluss dieses Moduls können die Schüler:
 
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58; 
-  - SharePoint Online-Services zu konfigurieren. 
-  - SharePoint Online-Websitesammlungen zu planen und zu konfigurieren. 
-  - die externe Benutzerfreigabe zu planen und zu konfigurieren.
+  - Planung und Konfiguration von Teams
+
+  - Konfigurieren von Teams-Benutzereinstellungen und -Kanälen
+
+  - Verwalten der Sprachintegration
+
+  - Konfigurieren von organisationsweiten Einstellungen in Teams
 
 
-  ### Modul 10&#58; Planung und Konfiguration einer Office 365-Kollaborations-Lösung  
-  In diesem Modul wird beschrieben, wie man Yammer Enterprise aktiviert und konfiguriert. Außerdem wird erläutert, wie OneDrive for Business- und Office 365-Gruppen konfiguriert werden. 
 
-  #### Lektionen
-  - Planung und Verwaltung von Yammer Enterprise
-  - Planung und Konfiguration von OneDrive for Business
-  - Konfigurieren von Office 365-Gruppen 
+  ### <a name="module-958-planning-and-configuring-sharepoint-online"></a>Modul 9: Planen und Konfigurieren von SharePoint Online
 
-  #### Lab&#58; Planung und Konfiguration einer Office 365-Kollaborations-Lösung 
+  In diesem Modul wird beschrieben, wie Sie die SharePoint Online-Dienste konfigurieren. Es wird erläutert, wie Sie SharePoint-Websitesammlungen und die externe Benutzerfreigabe planen und konfigurieren. Außerdem erhalten Sie eine kurze Übersicht über weitere Portale, z. B. das Videoportal.
+
+  #### <a name="lessons"></a>Lektionen
+
+  -  Konfigurieren von SharePoint Online-Diensten
+
+  - Planen und Konfigurieren von SharePoint Online-Websitesammlungen
+
+  - Planen und Konfigurieren der externen Benutzerfreigabe
+
+
+
+  #### <a name="lab-58-configuring-sharepoint-online"></a>Lab: Konfigurieren von SharePoint Online
+
+  - Konfigurieren von SharePoint Online-Einstellungen
+
+  - Erstellen und Konfigurieren von SharePoint Online-Websitesammlungen
+
+  - Konfigurieren und Überprüfen der externen Benutzerfreigabe
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Konfigurieren von SharePoint Online-Diensten
+
+  - Planen und Konfigurieren von SharePoint Online-Websitesammlungen
+
+  - Planen und Konfigurieren der externen Benutzerfreigabe
+
+
+
+  ### <a name="module-1058-planning-and-configuring-an-office-365-collaboration-solution"></a>Modul 10: Planen und Konfigurieren einer Office 365-Lösung für die Zusammenarbeit
+
+  In diesem Modul wird beschrieben, wie Sie Yammer Enterprise aktivieren und konfigurieren. Außerdem wird erläutert, wie Sie OneDrive for Business und Office 365-Gruppen konfigurieren.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Planen und Verwalten von Yammer Enterprise
+
+  - Planen und Konfigurieren von OneDrive for Business
+
+  - Konfigurieren von Office 365-Gruppen
+
+
+
+  #### <a name="lab-58-planning-and-configuring-an-office-365-collaboration-solution"></a>Lab: Planen und Konfigurieren einer Office 365-Lösung für die Zusammenarbeit
+
   - Konfigurieren von Yammer Enterprise
+
   - Konfigurieren von OneDrive for Business
-  - Konfigurieren von Office 365-Gruppen
 
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58; 
-  - Yammer Enterprise zu aktivieren und zu konfigurieren.
-  - Office 365-Gruppen zu konfigurieren. 
-
-  ### Modul 11&#58; Planung und Konfiguration von Sicherheit und Compliance in Office 365
-  In diesem Modul werden die Compliance-Features in Office 365 und deren Verwaltung beschrieben. Darin wird erläutert, wie Azure Information Protection geplant und konfiguriert wird. Darüber hinaus werden die Sicherheitsfunktionen in Office 365 erläutert. 
-
-  #### Lektionen
-  - Übersicht über die Compliance-Features in Office 365
-  - Planung und Konfiguration von Azure Information Protection in Office 365
-  - Verwalten der Compliance-Funktionen in Office 365
+  - Konfigurieren von Office 365-Gruppen
 
 
-  #### Lab&#58; Rechteverwaltung und Compliance konfigurieren
-  - Konfigurieren der Rechteverwaltung in Office 365
-  - Compliance-Funktionen konfigurieren
+  Nach Abschluss dieses Moduls können die Schüler:
 
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58; 
-  - die Compliance-Features in Office 365 zu beschreiben. 
-  - Azure Information Protection in Office 365 zu konfigurieren. 
-  - die Compliance-Funktionen in Office 365 zu verwalten
+  - Aktivieren und Konfigurieren von Yammer Enterprise
 
+  - Aktivieren und Konfigurieren von OneDrive for Business
 
-  ### Modul 12&#58; Überwachung und Fehlerbehebung von Microsoft Office 365
-  In diesem Modul wird erläutert, wie man Probleme mit der Konnektivität und den Services von Office 365 behebt und die Integrität von Office 365 überwacht.
-
-  #### Lektionen
-  - Fehlerbehebung bei Office 365
-  - Überwachung der Integrität von Office 365-Services
+  - Konfigurieren Office 365-Gruppen
 
 
-  #### Lab&#58; Überwachung und Fehlerbehebung bei Office 365
-  - Überwachung von Office 365
-  - Überwachung der Integrität und Analyse von Berichten
 
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58; 
-  - Verbindungs- und Serviceprobleme mit Office 365 zu beheben. 
-  - den Zustand des Office 365-Services zu überwachen.
+  ### <a name="module-1158-planning-and-configuring-security-and-compliance-in-office-365"></a>Modul 11: Planen und Konfigurieren von Sicherheit und Compliance in Office 365
+
+  In diesem Modul werden die Compliancefunktionen in Office 365 und deren Verwaltung beschrieben. Es wird erläutert, wie sie Azure Information Protection planen und konfigurieren. Darüber hinaus werden die Sicherheitsfeatures in Office 365 beschrieben.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht über die Compliancefunktionen in Office 365
+
+  - Planen und Konfigurieren von Azure Information Protection in Office 365
+
+  - Übersicht über Compliancefunktionen in Office 365
+
+
+
+  #### <a name="lab-58-configuring-rights-management-and-compliance"></a>Lab: Konfigurieren von Rights Management und Compliance
+
+  - Konfigurieren von Rights Management in Office 365
+
+  - Konfigurieren von Compliancefunktionen
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Beschreiben der Compliancefunktionen in Office 365
+
+  - Konfigurieren von Azure Information Protection in Office 365
+
+  - Verwalten der Compliancefunktionen in Office 365
+
+
+
+  ### <a name="module-1258-monitoring-and-troubleshooting-microsoft-office-365"></a>Modul 12: Überwachung und Problembehandlung von Microsoft Office 365
+
+  In diesem Modul wird erläutert, wie Sie Probleme mit der Konnektivität und den Diensten von Office 365 beheben und den Zustand der Office 365-Dienste überwachen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Problembehandlung für Office 365
+
+  - Überwachen der Office 365-Dienstintegrität
+
+
+
+  #### <a name="lab-58-monitoring-and-troubleshooting-office-365"></a>Lab: Überwachung und Problembehandlung von Office 365
+
+  - Überwachen von Office 365
+
+  - Überwachen der Dienstintegrität und Analysieren von Berichten
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Behandeln von Problemen mit Office 365-Konnektivität und -Dienst
+
+  - Überwachen der Office 365-Dienstintegrität

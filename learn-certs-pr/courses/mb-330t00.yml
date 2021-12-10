@@ -1,16 +1,22 @@
 ### YamlMime:Course
 title: Microsoft Dynamics 365 Supply Chain Management
 metadata:
-  title: 'Course MB-330T00-A: Microsoft Dynamics 365 Supply Chain Management'
-  description: 'Course MB-330T00-A: Microsoft Dynamics 365 Supply Chain Management'
+  title: 'Kurs MB-330T00-A: Microsoft Dynamics 365 Supply Chain Management'
+  description: 'Kurs MB-330T00-A: Microsoft Dynamics 365 Supply Chain Management'
+  ms.openlocfilehash: dd7d9018d4d0db49955bbc5a52984b456602e8f0
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107282"
 uid: course.mb-330t00
-courseNumber: 'MB-330T00-A'
+courseNumber: MB-330T00-A
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Konfigurieren Sie die wichtigsten Funktionen des Dynamics 365 Supply Chain Managements.
-- skill: Verarbeiten Sie die meisten Dynamics 365 Supply Chain Management-Transaktionen.
-- skill: Erklären Sie anderen, wie die Funktionen und Funktionen von Dynamics 365 Supply Chain Management funktionieren. 
+- skill: Konfigurieren der wichtigsten Dynamics 365 Supply Chain Management-Funktionen
+- skill: Verarbeiten der wichtigsten Dynamics 365 Supply Chain Management-Transaktionen
+- skill: Erläutern der Funktionsweise von Dynamics 365 Supply Chain Management und seiner Features
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -19,217 +25,15 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance-operations
 exams:
 - uid: exam.mb-330
-summary: |-
-  Dieser Kurs soll Ihre Grundlage für das Anwendungswissen von Dynamics 365 Supply Chain Management bilden. In diesem Kurs werden die wichtigsten Features und Funktionen behandelt, die der Funktionsberater von Dynamics 365 Supply Chain Management benötigt, einschließlich&#58; Produktinformationen sowie Informationen zum Konfigurieren, Erstellen und Verwalten Ihres Produkts und Inventars. Konfiguration und Verarbeitung des Supply Chain Managements. Die Transportverwaltungsfunktionen und die Lagerverwaltungsfunktionen. Funktionen für Qualitätsmanagement und Qualitätskontrolle. Konfiguration und Abwicklung der Masterplanung. Dieser Kurs beinhaltet Vorlesungen und verschiedene praktische Übungen. Die Übungen werden Ihnen anhand einer Fallstudie vorgestellt, die einem Funktionsberater von Dynamics 365 Supply Chain Management vorgestellt wird. Jede Übung basiert auf einem Geschäftsszenario, gefolgt von einer Frage oder Diskussion und einer schrittweisen Anleitung zur Durchführung der systembezogenen Schritte.
-
-  #### Zielgruppenprofil
-  Dieser Kurs richtet sich an den Funktionsberater von Dynamics 365 Supply Chain Management. Der Funktionsberater von Dynamics 365 Supply Chain Management ist eine wichtige Ressource, mit der Apps so entworfen und konfiguriert werden, dass sie den Anforderungen eines Kunden entsprechen. Der Funktionsberater analysiert die Geschäftsanforderungen und übersetzt diese Anforderungen in vollständig realisierte Geschäftsprozesse und -lösungen, die von der Industrie empfohlene Praktiken implementieren. Der Funktionsberater ist auf einen oder mehrere der folgenden Funktionssätze von Dynamics&#58; Finanz-, Fertigungs- oder Supply Chain Management. Sie arbeiten mit Architekten, Entwicklern, Administratoren und anderen Interessengruppen zusammen, um Lösungen zu liefern, die die Anforderungen ihrer Kunden erfüllen oder übertreffen. 
-outlineSection: |-
-  ### Modul 1&#58; Implementieren Sie das Produktinformationsmanagement
-  Dieses Modul führt Sie in die folgenden Themen ein&#58;
-
-  Erstellen und Freigeben von Produkten und Produktvarianten.  
-  Erstellen und Anwenden von Produktvorlagen.  
-  Erstellen von Stücklisten.  
-  Ermitteln des Zwecks und der Funktionen der Produktkonfigurationsmodelle.  
-  Konfigurieren von Fanggewichten.  
-  Konfigurieren von Direktlieferungsprodukten.  
-  Erstellen und Verwalten von Inventardimensionen.  
-  Konfigurieren von Artikelgruppen.  
-  Erstellen und Zuweisen von Barcodes und GTIN-Codes (Global Trade Identification Number)  
-  Konfigurieren von Kategoriehierarchien und Produktattributen.  
-  Konfigurieren von Umrechnungen von Produkteinheiten.  
-  Konfigurieren von Standardauftragseinstellungen.  
-  Beschreiben von Methoden und Modellgruppen für Bestandskalkulationen.  
-  Konfigurieren von Kalkulationsversionen für Standard- und geplante Kosten.  
-  Konfigurieren und Standardkaufpreise, Standardverkaufspreise und Handelsabkommen.
-
-  #### Lektionen
-  - Produkte erstellen und verwalten
-  - Konfigurieren Sie Produkte für das Supply Chain Management
-  - Verwalten Sie Inventarpreise und -kalkulationen
-
-  Nach Abschluss dieses Moduls können die Schüler&#58;
-  - Implementieren Sie das Produktinformationsmanagement
+summary: >-
+  In diesem Kurs lernen Sie die Grundlagen der Dynamics 365 Supply Chain Management-Anwendung kennen. Es werden die wichtigsten Features und Funktionalitäten behandelt, die ein Functional Consultant für Dynamics 365 Supply Chain Management benötigt. Dazu zählen: Produktinformationen und das Konfigurieren, Erstellen und Verwalten Ihrer Produkte und Ihres Lagers. Das Konfigurieren und Verarbeiten von Supply Chain Management. Die Features für Transport- und Lagerverwaltung. Funktionen für Qualitätsmanagement und Qualitätskontrolle. Konfiguration und Verarbeitung des Produktprogrammplans. Dieser Kurs umfasst Lektionen und verschiedene praktische Übungen. Die Übungen werden Ihnen in Form einer Fallstudie vorgestellt, die einem Functional Consultant für Dynamics 365 Supply Chain Management vorgelegt wird. Jede Übung basiert auf einem Geschäftsszenario, gefolgt von einer Frage oder Diskussion und einer Schrittanleitung zum Ausführen der systembezogenen Schritte.
 
 
-  ### Modul 2&#58; Implementieren Sie die Bestandsverwaltung
-  Dieses Modul führt Sie in die folgenden Bereiche ein&#58; 
-  
-  Richten Sie Parameter und Journale für die Bestandsverwaltung ein
-  Konfigurieren Sie die Struktur der Bestandsaufschlüsselung
-  Konfigurieren Sie ABC-Klassifizierungen
-  Konfigurieren Sie Bestandsbewertungsberichte
-  Erstellen und verarbeiten Sie Journale, einschließlich Stücklisten, Artikelankunft, Übertragung, Bewegung, Bestandsanpassung, Zählung und Tag-Zähljournale
-  Legen Sie Transportaufträge an und bearbeiten diese
-  Führen Sie Inventarschließungen und -anpassungen durch.
+  #### <a name="audience-profile"></a>Zielgruppenprofil
 
-  #### Lektionen
-  - Konfigurieren Sie die Bestandsverwaltung
-  - Verwalten und Verarbeiten von Inventaraktivitäten
-
-  #### Labor&#58; Fallstudie 1 Implementieren der Bestandsverwaltung
-  - Übung Nr. 1 Produkte mit Hilfe der grundlegenden Bestandsverwaltung einem neuen Lager hinzufügen
-  - Übung Nr. 2 Erstellen einer Standardkostenversion, die eine bestimmte Modellgruppe verwendet
-  - Übung Nr. 3 Hinzufügen und Freigeben neuer Produkte zu einem Lager
-  - Übung Nr. 4 Verwenden des Bestandsbewegungsjournals, um die Lagerbestände in einem Lager zu initialisieren
-  - Übung Nr. 5 Verwenden Sie das Bestandsübertragungsjournal, um Artikel an einen neuen Ort im Lager zu verschieben
-  - Übung Nr. 6 Passen Sie die Lagerbestände mithilfe des Bestandsanpassungsjournals an
-  - Übung Nr. 7 Verwenden des Inventarzähljournals, um die D365-Inventarbeträge mit den manuell gezählten zu vergleichen
-  - Übung Nr. 8 Erstellen einer Stückliste im Stücklisten-Designer
-
-  Nach Abschluss dieses Moduls können die Schüler&#58;
-  - Implementieren der Bestandsverwaltung
-
-
-  ### Modul 3&#58; Implementieren und verwalten von Supply-Chain-Prozessen
-  Dieses Modul führt Sie in die folgenden Themen ein&#58; 
-  
-  Erstellen und Verwalten von Bestellanforderungen, Angebotsanfragen (RFQs) und Bestellungen (POs)  
-  Konfigurieren von Änderungsmanagementprozesse  
-  Konfigurieren und Anwenden von Lieferantenrabatten  
-  Einführung in die Zusammenarbeit mit Anbietern
-  Konsignationsbestand verwalten  
-  Über- und Unterlieferungen verwalten  
-  Konfigurieren Sie Beschaffungskategorien und Einkaufsrichtlinien  
-  Gebühren konfigurieren  
-  Angebote, Kundenaufträge und Rücksendungen konfigurieren  
-  Konfigurieren von Verkaufsgruppen und Provisionen  
-  Konfigurieren von Kunden-, Produkt- und Interessentensuche  
-  Konfigurieren und verarbeiten von unternehmensübergreifenden Handelsbeziehungsdokumenten  
-  Einführung in D365-Handbücher  
-  Verfassen von D365-Handbüchern  
-  Bedienung von D365-Führungen.
-
-  #### Lektionen
-  - Beschaffung und Beschaffung implementieren
-  - Implementieren Sie allgemeine Vertriebs- und Marketingfunktionen
-  - Verwenden von Microsoft-Handbüchern
-
-  #### Labor&#58; Fallstudie 2A Beschaffung und Sourcing
-  - Übung Nr. 1 Erstellen, senden und genehmigen einer Bestellanforderung
-  - Übung Nr. 2 Erstellen, beantworten und akzeptieren einer Angebotsanfrage
-  - Übung Nr. 3 Erstellen von Bestellanforderungen und Einkaufsrichtlinien
-  - Übung Nr. 4 Erstellen einer Bestellung für die Lieferung an mehrere Standorte
-  - Übung Nr. 5 Erstellen eines Gebührencodes
-  - Übung Nr. 6 Erstellen einer Lieferantengebührengruppe und zuweisen an Lieferanten
-  - Übung Nr. 7 Erstellen einer automatischen Ladung
-  - Übung Nr. 8 Genehmigen von Bestellungen vor der Bestätigung
-  - Übung Nr. 9 Erstellen von Handelsabkommen für Lieferanten
-  - Übung Nr. 10 Erstellen einer Bestellung, basierend auf einem Handelsabkommen
-
-  #### Labor&#58; Fallstudie 2B Vertrieb und Marketing
-  - Übung 1 Geben Sie den Kundenauftrag ein und bestätigen Sie ihn
-  - Übung 2 Erstellen und überprüfen Sie einen Kundenauftrag für die Provision
-  - Übung 3 Erstellen Sie eine Kundenhandelsvereinbarung
-
-  Nach Abschluss dieses Moduls können die Schüler&#58;
-  - Implementierung und Verwaltung von Supply-Chain-Prozessen
-
-
-  ### Modul 4&#58; Implementieren Sie Lagerverwaltung und Transportmanagement
-  Dieses Modul führt Sie in die folgenden Themen ein&#58; 
-  
-  Erstellen von Standorten, Lagern, Standorten, Standortformaten, Standortprofilen, Standorttypen und Zonen  
-  Implementieren von Standortanweisungen  
-  Konfigurieren von Inventarstatus, Einheitensequenzgruppen und Reservierungshierarchien  
-  Implementieren von Wave- und Work-Vorlagen  
-  Implementieren einer Vorlage zum Aufbau von Wellenlasten  
-  Konfigurieren von Menüs, Menüelementen und Anzeigeeinstellungen für mobile Geräte  
-  Verwalten von Lagerbestandsbewegungsprozessen
-  Durchführen einer Zykluszählung  
-  Eingehende und ausgehende Bestellungen bearbeiten  
-  Sendungen verarbeiten  
-  Beschreiben des Cross-Docking des Nachschubprozesses  
-  Einführung  
-  Konfigurieren von Spediteuren und Spediteurgruppen  
-  Planung und Ausführung von Ladungen und Sendungen durchführen  
-  Konfigurieren und generieren von Frachtrechnungen und Rechnungen  
-  Konfigurieren von Routenplänen und Anleitungen  
-  Konfigurieren von Routen- und Rate-Engines  
-  Konfigurieren und verwenden der Dock-Terminplanung  
-
-  #### Lektionen
-  - Konfigurieren der Lagerverwaltung
-  - Lagerverwaltungsprozesse durchführen
-  - Transportmanagement implementieren
-
-  #### Labor&#58; Fallstudie 3 Lager- und Transportmanagement
-  - Übung Nr. 1 Konfigurieren der Lagerverwaltung
-  - Übung Nr. 2 Erstellen einer Reservierungshierarchie
-  - Übung Nr. 3 Erstellen von Dispositionscodes und Anweisungen für eingehende Standorte
-  - Übung Nr. 4 Konfigurieren mobiler Geräte
-  - Übung Nr. 5 Konfigurieren von Bestellungen
-  - Übung Nr. 6 Konfigurieren der Wellenverarbeitung
-  - Übung Nr. 7 Konfigurieren der Zykluszählung
-  - Übung Nr. 8 Definieren der Zykluszählung
-  - Übung Nr. 9 Definieren eines Teilzählprozesses für den Standortzyklus
-  - Übung Nr. 10 Überweisungsaufträge und Nachschub
-  - Übung Nr. 11 Nachfüllen einrichten
-  - Übung Nr. 12 Konfigurieren der Ausgangsverarbeitung
-  - Übung Nr. 13 Konfigurieren der Clusterauswahl
-  - Übung Nr. 14 Manuelles Verpacken einrichten
-  - Übung Nr. 15 Träger konfigurieren
-  - Übung Nr. 16 Konfigurieren Sie die Ratenmaster
-  - Übung Nr. 17 Routenpläne und Routenführer einrichten
-  - Übung Nr. 18 Eingehende Sendungen verarbeiten
-  - Übung Nr. 19 Verarbeiten der ausgehende Sendungen
-  - Übung Nr. 20 Konfigurieren der Frachtabstimmung
-
-  Nach Abschluss dieses Moduls können die Schüler&#58;
-  - Implementierung von Lagerverwaltung und Transportmanagement
-
-
-  ### Modul 5&#58; Konfigurieren und verwalten der Qualitätskontrolle und das Qualitätsmanagement
-  Dieses Modul führt Sie in die folgenden Themen ein&#58; 
-  
-  Konfigurieren der Qualitätskontrolle  
-  Konfigurieren des Qualitätsmanagements  
-  Qualitätsaufträge und Quarantäneaufträge verwalten  
-  Die Inventarsperre verwalten
-
-  #### Lektionen
-  - Konfigurieren Sie die Qualitätskontrolle und das Qualitätsmanagement
-  - Qualitätskontrolle und Qualitätsmanagement verwalten
-
-  #### Labor&#58; Fallstudie 4 Qualitätskontrolle und Qualitätsmanagement
-  - Übung Nr. 1 Aktivieren des Qualitätsmanagementprozesses
-  - Übung Nr. 2 Erstellen einer manuelle Qualitätsbestellung mit einer Spezifikation
-  - Übung Nr. 3 Definieren der Bedingungen für die Arbeit mit Nichtkonformitätsproblemen
-  - Übung Nr. 4 Verwenden der Nichtkonformitätsreihenfolge, um einen Artikel und eine fehlerhafte Maschine zu reparieren
-  - Übung Nr. 5 Fehlerberichte ausführen
-
-  Nach Abschluss dieses Moduls können die Schüler&#58;
-  - Konfigurieren und verwalten Sie die Qualitätskontrolle und das Qualitätsmanagement
-
-
-  ### Modul 6&#58; Masterplanung implementieren
-  Dieses Modul führt Sie in die folgenden Themen ein&#58; 
-  
-  Zwischen Planungsoptimierung und Masterplanung unterscheiden  
-  Abdeckungsgruppen und Artikelabdeckung einrichten  
-  Masterplanungsparameter, Masterplan, Prognosepläne und Kontinuitätspläne konfigurieren  
-  Zwischen Aktionsnachrichten, Verzögerungsnachrichten, Zeitzäunen und negativen Tagen unterscheiden  
-  Planaufträge bearbeiten und anzeigen
-  Das Formular „Lieferplan" einrichten und verwenden  
-  Sicherheitsbestandsjournale konfigurieren und verarbeiten  
-  Unternehmensübergreifende Masterplanung einrichten und implementieren  
-  Bedarfsprognosen implementieren  
-  Planungsoptimierung implementieren  
-
-  #### Lektionen
-  - Konfigurieren einer Masterplanung und -prognose
-  - Durchführen von Masterplänen und verwalten der geplanten Aufträge
-  - Implementieren Sie zusätzliche Masterplanungsfunktionen
-
-  #### Labor&#58; Fallstudie 5 Masterplanung
-  - Übung Nr. 1 Verarbeiten und Anzeigen von Planaufträgen
-  - Übung Nr. 2 Erstellen und Ausführen von konzerninternen Masterplänen
-
-  Nach Abschluss dieses Moduls können die Schüler&#58;
-  - Masterplanung implementieren
-
+  Dieser Kurs richtet sich an den Functional Consultant für Dynamics 365 Supply Chain Management. Der Functional Consultant für Dynamics 365 Supply Chain Management entwickelt und konfiguriert Anwendungen so, dass sie den Anforderungen des Kunden entsprechen. Er analysiert die geschäftlichen Anforderungen und setzt diese in Form von Geschäftsprozessen und Lösungen um, die branchenübliche Best Practices implementieren. Der Functional Consultant ist auf eine oder mehrere der folgenden Funktionsgruppen von Dynamics spezialisiert: Finanzen, Fertigung oder Supply Chain Management. Gemeinsam mit Architekten, Entwicklern, Administratoren und anderen Beteiligten arbeitet ein Functional Consultant an Lösungen, die die Anforderungen der Kunden erfüllen oder übertreffen.
+outlineSection: "### <a name=\"module--158-implement-product-information-management\"></a>Modul 1: Implementieren der 	Produktinformationsverwaltung\nIn diesem Modul erhalten Sie eine Einführung in die folgenden Themen:\n\nErstellen und Veröffentlichen von Produkten und Produktvarianten  \nErstellen und Anwenden von Produktvorlagen  \nErstellen von Stücklisten (Bill of Materials, BOM)  \nIdentifizieren des Zwecks und der Möglichkeiten von Produktkonfigurationsmodellen  \nKonfigurieren von Artikelgewichten  \nKonfigurieren von Produkten mit Direktlieferung  \nErstellen und Verwalten von Bestandsdimensionen  \nKonfigurieren von Artikelgruppen  \nErstellen und Zuweisen von Barcodes und GTIN-Codes (Global Trade Identification Number)  \nKonfigurieren von Kategoriehierarchien und Produktattributen  \nKonfigurieren von Maßeinheitskonvertierungen für Produkte  \nKonfigurieren von Standardauftragseinstellungen  \nBeschreiben von Methoden zur Bestandsnachkalkulation und Modellgruppen  \nKonfigurieren von Nachkalkulationsversionen für Standardkosten und geplante Kosten  \nKonfigurieren und Festlegen von Standardeinkaufspreisen, Standardverkaufspreisen und Handelsvereinbarungen \n#### <a name=\"lessons\"></a>Lektionen\n- Erstellen und Verwalten von Produkten\n- Konfigurieren von Produkten für das Supply Chain Management\n- Verwaltung von Bestandspreisen und Kalkulationen\n\nNach Abschluss dieses Moduls können die Schüler:\n- Implementieren von Produktinformationsmanagement\n\n\n### <a name=\"module--258-implement-inventory-management\"></a>Modul 2: Implementieren einer Lagerverwaltung\nIn diesem Modul erhalten Sie eine Einführung in die folgenden Bereiche: \n\nEinrichten von Parametern und Journalen für die Lagerverwaltung  \nKonfigurieren einer Struktur für die 	Lageraufschlüsselung  \nKonfigurieren von ABC-Klassifizierungen  \nKonfigurieren von Berichten zum Berechnen des Lagerwerts  \nErstellen und Verarbeiten von Journalen, darunter Journale für Stücklisten, Wareneingang, Übertragung, Umlagerung, Bestandsanpassung, Zählung und Markierungszählung  \nErstellen und Verarbeiten von Transportaufträgen  \nDurchführen von Lagerabschlüssen und -anpassungen\n#### <a name=\"lessons\"></a>Lektionen\n- Konfigurieren der Bestandsverwaltung\n- Verwaltung und Verarbeitung von Bestandsaktivitäten\n\n#### <a name=\"lab-58-case-study-1-implement-inventory-management\"></a>Lab: Fallstudie 1 – Implementieren einer Lagerverwaltung\n- Übung 1: Hinzufügen von Produkten zu einem neuen Lager mithilfe der grundlegenden Lagerverwaltung\n- Übung 2: Erstellen einer Standardkostenversion, die eine bestimmte Modellgruppe verwendet\n- Übung 3: Hinzufügen und Freigeben neuer Produkte für einen Lagerort\n- Übung 4: Initialisieren von Bestandswerten am Lagerort mithilfe des Journals für Lagerbewegungen\n- Übung 5: Umlagern von Artikeln an einen neuen Standort im Lager mithilfe des Journals für Bestandsübertragungen\n- Übung 6: Anpassen des Lagerbestands mithilfe des Journals für Bestandsanpassungen\n- Übung 7: Verwenden des Journals für die Bestandszählung zum Vergleich von D365-Bestandsmengen mit einer manuellen Zählung\n- Übung 8: Erstellen einer Stückliste im Stücklisten-Designer\n\nNach Abschluss dieses Moduls können die Schüler:\n- Implementieren der Bestandsführung\n\n\n### <a name=\"module--358-implement-and-manage-supply-chain-processes\"></a>Modul 3: Implementieren und Verwalten von Lieferkettenprozessen\nIn diesem Modul erhalten Sie eine Einführung in die folgenden Themen: \n\nAnlegen und Verwalten von Bestellanforderungen, 	Angebotsanforderungen (RFQs) und Bestellungen  \nKonfigurieren von Change Management-Verfahren  \nKonfigurieren und Anwenden von Händlerrückvergütungen  \nEinführung in die Kreditor-Kooperation  \nVerwalten des Lieferbestands  \nVerwalten von Über- und Unterlieferung  \nKonfigurieren von Beschaffungskategorien und Einkaufsrichtlinien  \nKonfigurieren von Gebühren  \nKonfigurieren von Angeboten, Verkaufsaufträgen und Reklamationen  \nKonfigurieren von Vertriebsgruppen und Provisionen  \nKonfigurieren der Kunden-, Produkt- und Interessentensuche  \nKonfigurieren und Verarbeiten von Dokumenten für Intercompany-Handelsbeziehungen  \nEinführung in D365 Guides  \nDokumenterstellung mit D365 Guides  \nBetrieb von D365 Guides  \n#### <a name=\"lessons\"></a>Lektionen\n- Implementieren von Beschaffung und Sourcing\n- Implementieren gängiger Funktionen für Vertrieb und Marketing\n- Verwenden von Microsoft-Leitfäden\n\n#### <a name=\"lab-58-case-study-2a-procurement-and-sourcing\"></a>Lab: Fallstudie 2A – Beschaffung und Einkauf\n- Übung 1: Erstellen, Übermitteln und Genehmigen einer Bestellanforderung\n- Übung 2: Erstellen, Beantworten und Akzeptieren einer Angebotsanforderung\n- Übung 3: Erstellen von Bestellanforderungen und Einkaufsrichtlinien\n- Übung 4: Erstellen einer Bestellung zur Lieferung an mehrere Standorte\n- Übung 5: Erstellen eines Belastungscodes\n- Übung 6: Erstellen und Zuweisen einer Belastungsgruppe zu Kreditoren\n- Übung 7: Erstellen einer automatischen Belastung\n- Übung 8: Genehmigen von Bestellungen vor der Bestätigung\n- Übung 9: Erstellen von Handelsvereinbarungen für Kreditoren\n- Übung 10: Erstellen einer Bestellung basierend auf einer Handelsvereinbarung\n\n#### <a name=\"lab-58-case-study-2b-sales-and-marketing\"></a>Lab: Fallstudie 2B – Vertrieb und Marketing\n- Übung 1: Eingeben und Bestätigen des Verkaufsauftrags\n- Übung 2: Erstellen und Prüfen eines Verkaufsauftrags auf Provision\n- Übung 3: Erstellen einer Debitorenhandelsvereinbarung\n\nNach Abschluss dieses Moduls können die Schüler:\n- Implementieren und Verwalten von Lieferkettenprozessen\n\n\n### <a name=\"module--458-implement-warehouse-management-and-transportation-management\"></a>Modul 4: Implementieren einer Lager- und Transportverwaltung\nIn diesem Modul erhalten Sie eine Einführung in die folgenden Themen: \n\nErstellen von Standorten, Lagerorten, Standortformaten, Standortprofilen, Standorttypen und Zonen  \nImplementieren von Lagerplatzrichtlinien  \nKonfigurieren von Lagerstatus, Einheitensequenzgruppen und Reservierungshierarchien  \nImplementieren von Wellen- und Arbeitsvorlagen  \nImplementieren der Vorlage zum Erstellen von Wellenladungen  \nKonfigurieren von Menüs, Menüelementen und Anzeigeeinstellungen für mobile Geräte  \nVerwalten von Prozessen für Lagerbestandsbewegungen  \nDurchführen einer Zykluszählung  \nVerarbeiten eingehender und ausgehender Aufträge  \nAbwickeln von Lieferungen  \nBeschreiben des Wiederbeschaffungsverfahrens mit Crossdocking  \nEinführung  \nKonfigurieren von Spediteuren und Spediteurgruppen  \nPlanen und Ausführen von Ladungen und Lieferungen  \nKonfigurieren und Generieren von Frachtbriefen und Rechnungen  \nKonfigurieren von Routenplänen und 	Routenplanungshandbüchern  \nKonfigurieren von Routen- und Tarifmodulen  \nKonfigurieren und Verwenden der Rampentermin-Zeitplanung (Dock Appointment Scheduling, DAS)  \n#### <a name=\"lessons\"></a>Lektionen\n- Konfigurieren der Lagerverwaltung\n- Durchführen von Lagerverwaltungsprozessen\n- Implementieren einer Transportverwaltung\n\n#### <a name=\"lab-58-case-study-3-warehouse-management-and-transportation-management\"></a>Lab: Fallstudie 3 – Lager- und Transportverwaltung\n- Übung 1: Konfigurieren der Lagerverwaltung\n- Übung 2: Erstellen einer Reservierungshierarchie\n- Übung 3: Erstellen von Dispositionscodes und eingehenden Lagerplatzrichtlinien\n- Übung 4: Konfigurieren mobiler Geräte\n- Übung 5: Konfigurieren von Bestellungen\n- Übung 6: Konfigurieren der Wellenverarbeitung\n- Übung 7: Konfigurieren der Zykluszählung\n- Übung 8: Definieren der Zykluszählung\n- Übung 9: Definieren eines Prozesses für die partielle Lagerplatz-Zykluszählung\n- Übung 10: Umlagerungsaufträge und Wiederbeschaffung\n- Übung 11: Einrichten der Wiederbeschaffung\n- Übung 12: Konfigurieren der ausgehenden Verarbeitung\n- Übung 13: Konfigurieren der Clusterkommissionierung\n- Übung 14: Einrichten des manuellen Verpackungsprozesses\n- Übung 15: Konfigurieren von Spediteuren\n- Übung 16: Konfigurieren von Satzmastern\n- Übung 17: Einrichten von Routenplänen und 	Routenplanungshandbüchern\n- Übung 18: Verarbeiten von eingehenden Lieferungen\n- Übung 19: Verarbeiten von ausgehenden Lieferungen\n- Übung 20: Konfigurieren der Frachtabstimmung\n\nNach Abschluss dieses Moduls können die Schüler:\n- Implementieren einer Lager- und Transportverwaltung\n\n\n### <a name=\"module--558-configure-and-manage-quality-control-and-quality-management\"></a>Modul 5: Konfigurieren und Verwalten von Qualitätskontrolle und Qualitätsmanagement\nIn diesem Modul erhalten Sie eine Einführung in die folgenden Themen: \n\nKonfigurieren der Qualitätskontrolle  \nKonfigurieren des Qualitätsmanagements  \nVerwalten von Qualitätsprüfungsaufträgen und Quarantäneaufträgen  \nVerwalten der Sperrung eines Lagerbestands\n#### <a name=\"lessons\"></a>Lektionen\n- Konfigurieren von Qualitätskontrolle und Qualitätsmanagement\n- Verwalten von Qualitätskontrolle und Qualitätsmanagement\n\n#### <a name=\"lab-58-case-study-4-quality-control-and-quality-management\"></a>Lab: Fallstudie 4 – Qualitätskontrolle und Qualitätsmanagement\n- Übung 1: Aktivieren der Prozesse für das Qualitätsmanagement\n- Übung 2: Erstellen eines manuellen Qualitätsprüfungsauftrags mit einer Spezifikation\n- Übung 3: Definieren von Bedingungen für die Arbeit mit Nichtübereinstimmungen\n- Übung 4: Verwenden eines Nichtübereinstimmungsauftrags zum Reparieren einer Komponente und eines fehlerhaften Computers\n- Übung 5: Ausführen von Nichtübereinstimmungsberichten\n\nNach Abschluss dieses Moduls können die Schüler:\n- Konfigurieren und Verwalten von Qualitätskontrolle und Qualitätsmanagement\n\n\n### <a name=\"module-658-implement-master-planning\"></a>Modul 6: Implementieren eines Produktprogrammplans\nIn diesem Modul erhalten Sie eine Einführung in die folgenden Themen: \n\nUnterscheiden zwischen Planungsoptimierung und Produktprogrammplan  \nEinrichten von Dispositionssteuerungsgruppen und Artikeldeckung  \nKonfigurieren von Produktprogrammplan-Parametern, Produktprogrammplan, Absatzplänen und Anschlussplänen  \nUnterscheiden zwischen Ereignismeldungen, Verzögerungsmeldungen, Planungszeitraum und negativen Tagen  \nVerarbeiten und Anzeigen von Bestellvorschlägen  \nEinrichten und Verwenden des Formulars „Beschaffungsplan“  \nKonfigurieren und Verarbeiten von Journalen zum Sicherheitsbestand  \nEinrichten und Implementieren eines Intercompany-Produktprogrammplans  \nImplementieren einer Bedarfsplanung  \nImplementieren einer Planungsoptimierung  \n#### <a name=\"lessons\"></a>Lektionen\n- Konfigurieren von Produktprogrammplan und Prognose\n- Ausführen von Produktprogrammplänen und Verwalten von Bestellvorschlägen\n- Implementieren zusätzlicher Funktionen für den Produktprogrammplan\n\n#### <a name=\"lab-58-case-study-5-master-planning\"></a>Lab: Fallstudie 5 – Produktprogrammplan\n- Übung 1: Verarbeiten und Anzeigen von Bestellvorschlägen\n- Übung 2: Erstellen und Ausführen von Intercompany-Produktprogrammplänen\n\nNach Abschluss dieses Moduls können die Schüler:\n- Implementieren eines Produktprogrammplans"

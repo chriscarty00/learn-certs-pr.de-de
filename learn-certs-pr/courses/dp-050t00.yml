@@ -1,18 +1,24 @@
 ### YamlMime:Course
-title: SQL-Workloads nach Azure übertragen
+title: Migrieren von SQL-Workloads zu Azure
 metadata:
-  title: 'Kurs DP-050T00-A: SQL-Workloads nach Azure übertragen'
-  description: 'Kurs DP-050T00-A: SQL-Workloads nach Azure übertragen'
+  title: 'Kurs DP-050T00-A: Migrieren von SQL-Arbeitsauslastungen zu Azure'
+  description: 'Kurs DP-050T00-A: Migrieren von SQL-Arbeitsauslastungen zu Azure'
+  ms.openlocfilehash: 66805b360b6355c2cddb32db3e5b7c9aa4e4fb64
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107539"
 uid: course.dp-050t00
-courseNumber: 'DP-050T00-A'
+courseNumber: DP-050T00-A
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Data Platform Modernisierung verstehen
-- skill: Die richtigen Tools für Datenübertragung auswählen
-- skill: SQL-Workloads nach Azure Virtuelle Maschine übertragen
-- skill: SQL-Workloads nach Azure SQL Datenbank übertragen
-- skill: SQL-Workloads nach Azure SQL Datenbank Managed Instamce übertragen
+- skill: Grundlegendes zur Modernisierung der Datenplattform
+- skill: Auswählen der richtigen Tools für die Datenmigration
+- skill: Migrieren von SQL-Arbeitsauslastungen zu Azure Virtual Machines
+- skill: Migrieren von SQL-Arbeitsauslastungen zu Azure SQL-Datenbank
+- skill: Migrieren von SQL-Arbeitsauslastungen zu einer verwalteten Azure SQL-Datenbank-Instanz
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -25,117 +31,181 @@ roles:
 - data-engineer
 products:
 - azure
-summary: |-
-  In diesem Kurs werden die Teilnehmer die Ziele der Datenplattformmodernisierung und deren Eignung für bestimmte Geschäftsanforderungen untersuchen. Sie werden jede Phase des Modernisierungsprozesses der Datenplattform untersuchen und definieren, welche Aufgaben in jeder Phase, wie z.B. der Bewertungs- und Planungsphase, anfallen. Die Teilnehmer lernen die verfügbare Migrationstools kennen und lernen wie diese für jede Phase dersDatenübertragungsprozesses passen-
-  Die Teilnehmer werden lernen, wie man auf die drei Zielplattformen für SQL-basierte Workloads migriert&#58; Azure Virtual Machines, Azure SQL Databases und Azure SQL Database Managed Instances. Die Teilnehmer lernen die Vorteile und Grenzen jeder Zielplattform kennen und wie diese genutzt werden können um sowohl betriebliche als auch technische Anforderungen zu Erfülen, die für die modernen SQL Workloads anfallen. Die Teilnehmer untersuchen die Änderungen die in bestehenden SQL basierten anwendungen gemacht werden müssen, um den besten Nutzen aus den Modernen Datenplattformen in Azure zu bekommen.
+summary: >-
+  In diesem Kurs untersuchen die Kursteilnehmer die Ziele der Modernisierung von Datenplattformen und deren Eignung für bestimmte Geschäftsanforderungen. Außerdem werden die einzelnen Phasen des Modernisierungsprozesses für Datenplattformen untersucht und die in jeder Phase anfallenden Aufgaben definiert, z. B. in der Bewertungs- und Planungsphase. Darüber hinaus werden die verfügbaren Migrationstools vorgestellt, und es wird erläutert, inwiefern sich die Tools für die einzelnen Phasen des Datenmigrationsprozesses eignen.
 
-  #### Zielgruppenprofil
-  Die Zielgruppe für diesen Kurs sind Datenprofis und Datenarchitekten, die etwas über die Migration von Datenplattformtechnologien lernen wollen, die auf Microsoft Azure existieren, und wie bestehende SQL-basierte Workloads migriert und modernisiert werden können.
-  Die zweite Zielgruppe für diesen Kurs sind Individuelle Teilnehmer die Datenplattformen verwalten und Anwendungen, die Inhalt von bestehenden Plattformtechnologien liefern, erstellen.
-prerequisitesSection: |-
-  Erfolgreiche Studenten beginnen diese Rolle mit grundlegenden Kenntnissen über Cloud-Computing-Konzepte und Berufserfahrung bei der Implementierung von SQL-Lösungen.
-
-  Insbesondere&#58;
-  - Arbeiten mit und Verwalten von SQL-Workloads
-  - Erfahrung mit Azure, z. B. Bereitstellen und Verwalten von Ressourcen
-
-  Um diese Fähigkeiten zu erwerben, absolvieren Sie die folgende kostenlose Online-Schulung, bevor Sie an dem Kurs teilnehmen&#58; 
-  - [Einführung in Azure SQL](/learn/modules/azure-sql-intro/)
-  - [Azure-Grundlagen](/learn/certifications/azure-fundamentals)
-outlineSection: |-
-  ### Modul 1&#58; Einführung in Data Platform Modernisierung
-  In diesem Modul lernen die Teilnehmer den Zweck der Datenplattformmodernisierung kennen und legen die Vorteuke der Datenplattformmodernisierunt für eine Organisation fest. Die Teilnehmer lernen die verschiedenen Stufen einer Datenplattform Migration kennen um zu verstehen, was in jedem Teil wichtig ist um die Chancen auf Erfolg der Data Platform Modernisierungsprojekte zu maximieren. Letztendlich erkunden die Teilnehmer die verschieden Datenübertragunswege um zu verstehen, dass jeder Ansatz unterschiedlich ist und warum manche besser geeignet sind als andere.
-  #### Lektionen
-  - Data Platform Modernisierung verstehen
-  - Migrationsstufen verstehen
-  - Datenübertragungspfade
+  Die Kursteilnehmer lernen die Durchführung einer Migration zu den drei Zielplattformen für SQL-Arbeitsauslastungen kennen: Azure Virtual Machines, Azure SQL-Datenbank und verwaltete Azure SQL-Datenbank-Instanzen. Darüber hinaus lernen die Kursteilnehmer die Vorteile und Einschränkungen der einzelnen Zielplattform kennen und erfahren, wie diese genutzt werden können, um sowohl geschäftliche als auch technische Anforderungen für moderne SQL-Arbeitsauslastungen zu erfüllen. Schließlich werden die Änderungen untersucht, die an vorhandenen SQL-basierten Anwendungen vorgenommen werden müssen, damit sie die modernen Datenplattformen in Azure optimal nutzen können.
 
 
-  #### Labor&#58; Einführung in Data Platform Modernisierung
-  - Data Platform Modernisierung verstehen
-  - Stufen der Migration verstehen
-  - Datenübertragungspfade
+  #### <a name="audience-profile"></a>Zielgruppenprofil
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Data Platform Modernisierung verstehen
-  - Stufen der Migration verstehen
-  - Datenübertragungspfade
+  Dieser Kurs richtet sich an Datenexperten und Datenarchitekten, die mehr über die Migration von Datenplattformtechnologien in Microsoft Azure und darüber erfahren möchten, wie vorhandene SQL-basierte Arbeitsauslastungen migriert und modernisiert werden können.
 
+  Die sekundäre Zielgruppe dieses Kurses sind Personen, die Datenplattformen verwalten oder Anwendungen entwickeln, die Inhalte aus den vorhandenen Datenplattformtechnologien bereitstellen.
+prerequisitesSection: "Für eine erfolgreiche Bearbeitung sollten die Kursteilnehmer über grundlegende Kenntnisse der Konzepte des Cloud Computing und über praktische Erfahrung im Bereich der Implementierung von SQL-Lösungen verfügen.\n\nInsbesondere:\n-   Arbeiten mit und Verwalten von SQL-Arbeitsauslastungen \n- Erfahrung mit Azure, z. B. dem Bereitstellen und Verwalten von Ressourcen\n\nUm diese Fähigkeiten zu erwerben, sollten Sie vor der Teilnahme an diesem Kurs das folgende kostenlose Onlinetraining absolvieren:\n-   [Einführung in Azure SQL](/learn/modules/azure-sql-intro/)\n-   [Azure-Grundlagen](/learn/certifications/azure-fundamentals)"
+outlineSection: >-
+  ### <a name="module--158-introducing-data-platform-modernization"></a>Modul 1: Einführung in die Modernisierung von Datenplattformen
 
-  ### Modul 2&#58; Die richtigen Tools für Daten Migration auswählen
-  In diesem Modul werden die Teilnehmer mit dem Datenmigrationshandbuch als Ausgangspunkt für die Informationsquelle vertraut gemacht, die Ihr Unternehmen zur schrittweisen Anleitung für die Modernisierung ihrer bestehenden Datenplattform nutzen sollte. Anschließend lernen sie den Wert des Microsoft Assessment and Planning Toolkit kennen, um die Datenbestände zu ermitteln, die derzeit in ihren Umgebungen vorhanden sind.
-  Der Teilnehmer lernt die tools kennen, die genutzt werden können um Kompatibilität von Workload Problemen zu bewerten indem Datenübertragung und Daten Experimentation Assistant verwendet werden. Dadurch sieht der Teilnehmer wie der Azure Database Migration Service genutzt werden kann um Online Migration von Datenbanken zu unterstützen und die Ausfallzeit zu verringern. Üein Überblick über die SQL Migrationsassistenz wird geboten um den Teilnehmern zu zeigen, wie non-SQL Server Workloads übertragen werden.
+  In diesem Modul lernen die Teilnehmer den Zweck der Modernisierung von Datenplattformen kennen und erfahren, welche Vorteile sich aus der Modernisierung von Datenplattformen für ein Unternehmen ergeben können. Die Teilnehmer lernen dann die verschiedenen Phasen eines Projekts zur Migration von Datenplattformen kennen und erfahren, worauf es in jeder Phase ankommt, um die Erfolgsaussichten eines Projekts zur Modernisierung der Datenplattform zu maximieren. Schließlich erkunden die Kursteilnehmer die verschiedenen Datenmigrationspfade, um die Unterschiede zwischen den einzelnen Ansätzen zu erkennen und zu verstehen, warum sie einen Migrationsansatz einem anderen vorziehen sollten.
 
-  #### Lektionen
-  - Database Migration Guide erkunden
-  - eigene Datenestate Inventuren durch Map Toolkit erstellen
-  - Migrationskandidaten Durch Data Migration Assistant erkennen
-  - Daten Workload mithilfe con Datavas Experimentation Assistant evaluieren
-  - Data Migration über Azure Database Migration Service
-  - non-SQL Server workloads nach Azure mit dem SQL Migration Assistant übertragen
+  #### <a name="lessons"></a>Lektionen
+
+  - Grundlegendes zur Modernisierung der Datenplattform
+
+  - Grundlegendes zu den Phasen der Migration
+
+  - Pfade für die Datenmigration
 
 
-  #### Labor&#58; Choose the right Tools for Data Migration
-  - Migrationskandidaten Durch Data Migration Assistant erkennen
-  - Daten Workload mithilfe con Datavas Experimentation Assistant evaluieren
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Migrationskandidaten Durch Data Migration Assistant erkennen
-  - Daten Workload mithilfe con Datavas Experimentation Assistant evaluieren
+  #### <a name="lab-58-introducing-data-platform-modernization"></a>Lab: Einführung in die Modernisierung von Datenplattformen
 
+  - Grundlegendes zur Modernisierung der Datenplattform
 
-  ### Modul 3&#58; SQL Workloads nachre Virtual Machines übertragen
-  In diesem Modul lernen die Teilnehmer, wie lokale SQL-Workloads auf Azure Virtual Machines, auf denen SQL Server ausgeführt wird, migriert werden können. Die Teilnehmer befassen sich zunächst mit den Überlegungen zur Migration bei der Migration von firmeninternen SQL Server auf Azure Virtual Machines und den Vorteilen, die sie durch die Durchführung der Migration erzielen können
+  - Verstehen der Phasen der Datenmigration
 
-  Außerdem lernen sie die verschiedenen Migrationsoptionen für die Migration nach Azure-virtual-machines kennen. Dazu gehört ein Blickf all die Vorteile und Grenzen jedes Ansatzes. Die Teilnehmer werden SQL server Workloads die Hochverfügbarkeit und Disaster Recovery beinhalten betrachten, um Service Kontinuität zu garantieren.
-
-  #### Lektionen
-  - aspekte der SQL Server nach Azure VM Migration
-  - SQL Workloads nach Azure VM Migrationsoptionen
-  - Hochverfügbarkeit und Notfall-Datenwiederherstellungsszenarien implementieren
+  - Pfade für die Datenmigration
 
 
-  #### Labor&#58; Migratiion von SQL Workloads nach Azure Virtual Machines
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - aspekte der SQL Server nach Azure VM Migration
-  - SQL Workloads nach Azure VM Migrationsoptionen
-  - Hochverfügbarkeit und Notfall-Datenwiederherstellungsszenarien implementieren
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Grundlegendes zur Modernisierung der Datenplattform
+
+  - Verstehen der Phasen der Datenmigration
+
+  - Pfade für die Datenmigration
 
 
-  ### Modul 4&#58; Migration von SQL Workloads nach Azure SQL Databases
-  In diesem Modul erkunden die Teilnehmer, was eine Azure SQL Datenbank ist und warum diese ein passendes Zeil für SQL-basierte Workloads darstellt. Die Teilnehmer lernen wie man die richtigen SQL Server Instanzen auswählt und warum es Geschäftsanforderungen für die Data Platform Modernisierung erfüllen kann.
 
-  Die Module zeigen den Teilnehmer außerdem wie sie sowohl offline als auf online Migrationen nach Azure SQL Datenbanken durchführen können. So können sie berwerten welche Methode für Ihre Szenarien die richtige ist. Außerdem werden die Tools gezeigt die für die Ermöglichung des Datenmigrationsprozesses genutzt werden können. Schließlich werden sie die Methoden untersuchen, die zum Laden von Daten in die Azure SQL-Datenbank von einer lokalen Instanz aus verwendet werden können.
+  ### <a name="module--258-choose-the-right-tools-for-data-migration"></a>Modul 2: Auswählen der richtigen Tools für die Datenmigration
 
-  #### Lektionen
-  - den richtige SQL Server Instance Option in Azure auswählen
-  - SQL Server nach Azure SQL offline Migration
-  - SQL Server nach Azure SQL online Migration
-  - Daten nach Azure SQL Datenbank laden und bewegen
+  In diesem Modul erhalten die Kursteilnehmer eine Einführung in den Leitfaden zur Datenmigration als Ausgangspunkt und Informationsquelle mit Schrittanleitungen für die Modernisierung der vorhandenen Datenplattform. Anschließend wird der Nutzen des Microsoft Assessment and Planning Toolkit erläutert, mit dessen Hilfe die derzeit in den Umgebungen vorhandenen Datenbestände ermittelt werden können.
+
+  Anschließend lernen die Kursteilnehmer die Tools kennen, mit denen sie Kompatibilitätsprobleme oder Probleme mit Arbeitsauslastungen beurteilen können: die Assistenten für Datenmigration und Datenexperimente. Die Kursteilnehmer erfahren dann, wie sie mit Azure Database Migration Service eine Onlinemigration von Datenbanken unterstützen können, um die Downtime zu verringern. Abschließend erhalten die Kursteilnehmer einen Überblick über SSMA (SQL Server Migration Assistant), um zu erfahren, wie Nicht-SQL Server-Arbeitsauslastungen migriert werden können.
 
 
-  #### Labor&#58; SQL-Workloads nach Azure SQL&#58; Datenbank übertragen
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - den richtige SQL Server Instance Option in Azure auswählen
-  - SQL Server nach Azure SQL offline Migration
-  - SQL Server nach Azure SQL online Migration
-  - Daten nach Azure SQL Datenbank laden und bewegen
+  #### <a name="lessons"></a>Lektionen
+
+  - Erkunden des Leitfadens zur Datenbankmigration
+
+  - Erstellen eines Datenbestands mit dem Microsoft Assessment and Planning (MAP) Toolkit
+
+  - Identifizieren von Migrationskandidaten mithilfe des Datenmigrations-Assistenten
+
+  - Auswerten einer Datenarbeitsauslastung mithilfe des Assistenten für Datenbankexperimente
+
+  - Datenmigration mit Azure Data Migration Service (DMS)
+
+  - Migrieren von Nicht-SQL Server-Arbeitsauslastungen zu Azure mit (SQL Server Migration Assistant)
 
 
-  ### Modul 5&#58; SQL Workloads nach Azure SQL Database Managed Instance übertragen
-  In diesem Modul wird untersucht, was eine Azure SQL Database Managed Instance ist und warum sie ein geeignetes Ziel für SQL-basierte Workloads darstellt. Außerdem lernen die Teilnehmer wie Azure SQL Database Managed Instance die Geschäftsanforderungen für DAta Platform Modernisierung erfüllen kann. Die Teilnehmer untersuchen dann die Tools, die verwendet werden können, um den Datenmigrationsprozess zu Azure SQL Database Managed Instance zu ermöglichen.
-  Die Teilnehmer untersuchen dann die Tools, die verwendet werden können, um Daten von lokalen Instanzen nach Azure SQL Database Managed Instance zu laden. Schließlich werden sie einige der Änderungen kennen lernen, die möglicherweise an bestehenden SQL-basierten Anwendungen vorgenommen werden müssen, damit sie Azure SQL Database Managed Instance verwenden können.
 
-  #### Lektionen
-  - Migrationsszenarios für SQL Databas Managed Instance zu evaluieren
-  - Migration von SQL Database Managed Instance
-  - Daten nach SQL Database Managed Instance laden und bewegen
-  - Anwendungskonfiguration und Optimierung
+  #### <a name="lab-58-choose-the-right-tools-for-data-migration"></a>Lab: Auswählen der richtigen Tools für die Datenmigration
+
+  - Identifizieren von Migrationskandidaten mithilfe des Datenmigrations-Assistenten
+
+  - Auswerten einer Datenarbeitsauslastung mithilfe des Assistenten für Datenbankexperimente
 
 
-  #### Labor&#58; SQL Workloads nach Azure SQL Database Managed Instance übertragen
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Migrationsszenarios für SQL Databas Managed Instance zu evaluieren
-  - Migration von SQL Database Managed Instance
-  - Daten nach SQL Database Managed Instance laden und bewegen
-  - Anwendungskonfiguration und Optimierung
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Identifizieren von Migrationskandidaten mithilfe des Datenmigrations-Assistenten
+
+  - Auswerten einer Datenarbeitsauslastung mithilfe des Assistenten für Datenbankexperimente
+
+
+
+  ### <a name="module--358-migrating-sql-workloads-to-azure-virtual-machines"></a>Modul 3: Migrieren von SQL-Arbeitsauslastungen zu Azure Virtual Machines
+
+  In diesem Modul lernen die Kursteilnehmer, wie sie lokale SQL-Arbeitsauslastungen zu Azure Virtual Machines-Instanzen migrieren können, auf denen SQL Server ausgeführt wird. Die Kursteilnehmer untersuchen zunächst die Überlegungen zur Migration einer lokalen SQL Server-Instanz zu Azure Virtual Machines und lernen die Vorteile kennen, die sich durch die Migration ergeben.
+
+
+  Anschließend werden die verschiedenen Migrationsoptionen vorgestellt, die bei der Migration zu Azure Virtual Machines genutzt werden können. Dabei werden auch die Vorteile und Grenzen der einzelnen Ansätze beleuchtet. Schließlich betrachten die Kursteilnehmer SQL Server-Arbeitsauslastungen, die Hochverfügbarkeit und Notfallwiederherstellung einschließen, um die Dienstkontinuität zu gewährleisten.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Überlegungen zur Migration von SQL Server zu Azure Virtual Machines
+
+  - Optionen bei der Migration von SQL-Arbeitsauslastungen zu Azure Virtual Machines
+
+  - Szenarien für die Implementierung von Hochverfügbarkeit und Notfallwiederherstellung
+
+
+
+  #### <a name="lab-58-migrating-sql-workloads-to-azure-virtual-machines"></a>Lab: Migrieren von SQL-Arbeitsauslastungen zu Azure Virtual Machines
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Überlegungen zur Migration von SQL Server zu Azure Virtual Machines
+
+  - Optionen bei der Migration von SQL-Arbeitsauslastungen zu Azure Virtual Machines
+
+  - Szenarien für die Implementierung von Hochverfügbarkeit und Notfallwiederherstellung
+
+
+
+  ### <a name="module--458-migrate-sql-workloads-to-azure-sql-databases"></a>Modul 4: Migrieren von SQL Server-Arbeitsauslastungen zu Azure SQL-Datenbank
+
+  In diesem Modul untersuchen die Kursteilnehmer, was Azure SQL-Datenbank und warum es ein geeignetes Ziel für SQL-Arbeitsauslastungen ist. Sie erfahren, wie sie die geeignete SQL Server-Instanzoption auswählen und warum sie die Geschäftsanforderungen für die Modernisierung der Datenplattform erfüllen kann.
+
+
+  Außerdem erfahren die Kursteilnehmer in diesem Modul, wie sie sowohl Offline- als auch Onlinemigrationen zu Azure SQL-Datenbank durchführen können. Auf diese Weise können sie beurteilen, welche Methode für ihre Arbeitsszenarien geeignet ist. Darüber hinaus werden die Tools vorgestellt, die zum Aktivieren des Datenmigrationsprozesses verwendet werden können. Abschließend werden die Methoden untersucht, mit denen Daten von einer lokalen Instanz in Azure SQL-Datenbank geladen werden können.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Wählen der richtigen SQL Server-Instanz-Option in Azure
+
+  - Offlinemigration von SQL Server zu Azure SQL-Datenbank
+
+  - Onlinemigration von SQL Server zu Azure SQL-Datenbank
+
+  - Laden und Verschieben von Daten zu Azure SQL-Datenbank
+
+
+
+  #### <a name="lab-58-migrate-sql-workloads-to-azure-sql-databases"></a>Lab: Migrieren von SQL-Auslastungen zu Azure SQL-Datenbank
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Wählen der richtigen SQL Server-Instanz-Option in Azure
+
+  - Offlinemigration von SQL Server zu Azure SQL-Datenbank
+
+  - Onlinemigration von SQL Server zu Azure SQL-Datenbank
+
+  - Laden und Verschieben von Daten zu Azure SQL-Datenbank
+
+
+
+  ### <a name="module--558-migrate-sql-workloads-to-azure-sql-database-managed-instance"></a>Modul 5: Migrieren von SQL-Arbeitsauslastungen zu einer verwalteten Azure SQL-Datenbank-Instanz
+
+  In diesem Modul untersuchen die Kursteilnehmer, was eine verwaltete Azure SQL-Datenbank-Instanz ist und warum sie sich als Ziel für SQL-Arbeitsauslastungen eignet. Sie erfahren auch, wie eine verwaltete Azure SQL-Datenbank-Instanz die Geschäftsanforderungen für die Modernisierung der Datenplattform erfüllen kann. Die Kursteilnehmer erkunden anschließend die Tools, mit dem der Prozess für die Datenmigration zu einer verwalteten Azure SQL-Datenbank-Instanz aktiviert werden kann.
+
+  Anschließend werden die Methoden und Tools untersucht, die zum Laden von Daten aus einer lokalen Instanz in eine verwaltete Azure SQL-Datenbank-Instanz verwendet werden können. Schließlich lernen sie einige der Änderungen kennen, die an vorhandenen SQL-basierten Anwendungen vorgenommen werden müssen, damit sie eine verwaltete Azure SQL-Datenbank-Instanz nutzen können.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Bewerten von Migrationsszenarien für eine verwaltete SQL-Datenbank-Instanz
+
+  - Migrieren zu einer verwalteten SQL-Datenbank-Instanz
+
+  - Laden und Verschieben von Daten zur verwalteten SQL-Datenbank-Instanz
+
+  - Anwendungskonfiguration und -optimierung
+
+
+
+  #### <a name="lab-58-migrate-sql-workloads-to-azure-sql-database-managed-instance"></a>Lab: Migrieren von SQL-Arbeitsauslastungen zu einer verwalteten Azure SQL-Datenbank-Instanz
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Bewerten von Migrationsszenarien für eine verwaltete SQL-Datenbank-Instanz
+
+  - Migrieren zu einer verwalteten SQL-Datenbank-Instanz
+
+  - Laden und Verschieben von Daten zur verwalteten SQL-Datenbank-Instanz
+
+  - Anwendungskonfiguration und -optimierung

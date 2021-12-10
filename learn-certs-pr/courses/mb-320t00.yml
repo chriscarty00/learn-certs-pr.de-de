@@ -1,16 +1,22 @@
 ### YamlMime:Course
 title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing
 metadata:
-  title: 'Course MB-320T00--A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
-  description: 'Course MB-320T00--A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
+  title: 'Kurs MB-320T00--A: Microsoft Dynamics 365 Supply Chain Management, Produktion'
+  description: 'Kurs MB-320T00--A: Microsoft Dynamics 365 Supply Chain Management, Produktion'
+  ms.openlocfilehash: f508d0a613e021928cba1a9410dd1186320ac0fb
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107315"
 uid: course.mb-320t00
-courseNumber: 'MB-320T00-A'
+courseNumber: MB-320T00
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Konfigurieren der wichtigsten und am häufigsten verwendeten Features und Funktionen in Dynamics 365
-- skill: Verarbeiten der meisten Dynamics 365 Manufacturing-Transaktionen
-- skill: Anderen erläutern, wie Dynamics 365 Supply Chain Management und Fertigungsfunktionen funktionieren
+- skill: Konfigurieren der wichtigsten und am häufigsten verwendeten Features und Funktionen in Dynamics 365
+- skill: Verarbeiten der wichtigsten Dynamics 365-Transaktionen für die Produktion
+- skill: Erläutern der Features von Dynamics 365 Supply Chain Management für die Produktion
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -19,139 +25,253 @@ levels:
 roles:
 - developer
 products:
-- dynamics
+- dynamics-365
 exams:
 - uid: exam.mb-320
-summary: |-
-  Dieser Kurs besteht aus sechs Modulen und ist für ein 4-tägiges Lernerlebnis ausgelegt.Der Unterricht kann persönlich und / oder virtuell stattfinden.Ihre Ausbilder werden Ihnen die Agenda für diesen Kurs zukommen lassen.Modul 1 führt Sie in die Konfigurationsanforderungen für Dynamics 365 Supply Chain Management, Fertigung ein.Modul 2 befasst sich eingehender mit der Verwaltung der verschiedenen Arten von Herstellungsprozessen.Modul 3 ist Ihre Adresse für die Implementierung der Masterplanung für die Produktion.Modul 4 befasst sich mit der Implementierung mehrerer Fertigungsmerkmale.Modul 5 konzentriert sich auf die Vergabe von Unteraufträgen für die Produktherstellung.
+summary: >-
+  Dieser Kurs besteht aus sechs Modulen und ist auf eine 4-tägige Lernerfahrung ausgelegt. Er kann vor Ort und/oder virtuell durchgeführt werden. Eine Agenda für diesen Kurs erhalten Sie von Ihrem Dozenten. Modul 1 bietet eine Einführung in die Konfigurationsanforderungen für Dynamics 365 Supply Chain Management für die Produktion. Modul 2 befasst sich eingehender mit der Verwaltung der verschiedenen Arten von Fertigungsprozessen. In Modul 3 geht es um die Implementieren eines Produktprogrammplans für die Produktion. Modul 4 befasst sich mit der Implementierung verschiedener Funktionen für die Produktion. Modul 5 konzentriert sich auf Fremdarbeit bei der Produktherstellung.
 
-  #### Zielgruppenprofil
-  A Dynamics 365 Finance and Operations Functional Consultant ist verantwortlich für die Durchführung von Untersuchungen, die Erfassung von Anforderungen, die Einbindung von Fachexperten und Stakeholdern, die Übersetzung von Anforderungen und die Konfiguration der Lösung und der Anwendungen. Der Functional Consultant implementiert eine Lösung unter Verwendung von standardisierten Funktionen, codeloser Erweiterbarkeit, Anwendungs- und Service-Integrationen.
-prerequisitesSection: |-
-  - Grundlegendes Verständnis für Supply Chain Management und Fertigungsterminologie
-  - Grundlegendes Verständnis der Dynamics 365-Finance and Operation-Apps
-outlineSection: |-
-  ### Modul 1&#58; Dynamics 365 Supply Chain Management, Fertigung konfigurieren
-  Dieses Modul behandelt und spricht verschiedene Konfigurationen an, die die Funktionsberater benötigen, um Fertigungsmerkmale zu implementieren.
-  #### Lektionen
-  - Konfigurieren und Verwalten des Produktionssteuerungsmoduls
-  - Konfigurieren und Verwalten von Ressourcen für Produktionsprozesse
-  - Konfigurieren diskreter Fertigung
-  - Konfigurieren der Prozessfertigung
-  - Konfigurieren von Lean Manufacturing
 
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
-  - Konfigurieren und Verwalten des Produktionssteuerungsmoduls
-  - Konfigurieren und Verwalten von Ressourcen für Produktionsprozesse
-  - Konfigurieren diskreter Fertigung
-  - Konfigurieren der Prozessfertigung
-  - Konfigurieren von Lean Manufacturing
-  
-  
-  ### Modul 2&#58; Herstellungsprozesse verwalten
-  Dieses Modul hilft Ihnen, die meisten Transaktionen zu verstehen und zu praktizieren, die für die verschiedenen Fertigungsszenarien erforderlich sind.
-  #### Lektionen
-  - Produktionsaufträge verwalten
-  - Batch-Bestellungen verwalten
-  - Kanban-Bestellungen verwalten
-  
-  #### Lab&#58; Fallstudie 1A zur diskreten Fertigung
-  - Übung Nr. 1&#58; Aktualisieren der Produktionssteuerungsparameter
-  - Übung Nr. 2&#58; Erstellen neuer Produktionspools
-  - Übung Nr. 3&#58; Ressourcen erstellen und verwalten
-  - Übung Nr. 4&#58; Eine Operation erstellen, Beziehungen zuweisen und eine Route erstellen
-  - Übung Nr. 5&#58; Erstellen einer einfachen Stückliste ohne Version
-  - Übung Nr. 6&#58; Erstellen einer Stückliste im Stücklisten-Designer (Bonus)
-  - Übung Nr. 7&#58; Erstellen einer Stückliste mit einer Version
-  - Übung Nr. 8&#58; Erstellen eines Fertigungsauftrags
-  - Übung Nr. 9&#58; Starten eines diskreten Fertigungsauftrags (Bonus)
-  - Übung Nr. 10&#58; Einen Ressourcenplan ausführen
-  - Übung Nr. 12&#58; Kostenrichtlinien konfigurieren
-  - Übung Nr. 13&#58; Fertigungsausführung konfigurieren (Bonus)
-  - Übung Nr. 14&#58; Konfigurieren eines automatischen Routenverbrauchs für Setup-Jobs (Bonus)
-  - Übung Nr. 15&#58; Fertigungsausführung verwenden (Bonus)
-  
-  #### Lab&#58; Fallstudie 1B zur Prozessherstellung
-  - Übung Nr. 1&#58; Erstellen einer Liste genehmigter Anbieter und die Methode auf „Nur Warnung" (Bonus) einstellen
-  - Übung Nr. 2&#58; Artikel mit unterschiedlichen Produktionsarten herstellen
-  - Übung Nr. 3&#58; Erstellen und Aktivieren einer Formel mit Hilfe verschiedener Produkttypen
-  - Übung Nr. 4&#58; Erstellen einer neuen Formel mit einer Version aus dem Formular für freigegebene Produkte (Bonus)
-  - Übung Nr. 5&#58; Überarbeiten, Aktualisieren und Aktivieren einer Formel (Bonus)
-  - Übung Nr. 6&#58; Verwenden der Skalierbarkeitsfunktion zur Erstellung einer neuen Formel
-  - Übung Nr. 7&#58; Erstellen und Aktivieren einer prozentual-bestimmten Formel (Bonus)
-  - Übung Nr. 8&#58; Ändern eines linearen Verbrauchs in einen schrittweisen Verbrauch
-  - Übung Nr. 9&#58; Rohstoffpreise einrichten (Bonus)
-  - Übung Nr. 10&#58; Ändern einer Preisberechnung und Aktualisieren von Handelsabkommen
-  - Übung Nr. 11&#58; Einrichten einer Rohstoffpreisberechnung
-  - Übung Nr. 12&#58; Erstellen von PSDS-Listen, Datensätzen und Datei-Uploads zur Produktkonformität
-  - Übung Nr. 13&#58; Berichtsdetails für einen Artikel hinzufügen
-  - Übung Nr. 14&#58; Einen Kundenauftrag erstellen und ein PSDS drucken
-  - Übung Nr. 15&#58; Erstellen und Verknüpfen eines Batch-Attributs
-  - Übung Nr. 16&#58; Eine neue Chargennummer erstellen und das Batch-Attribut manuell aufzeichnen
-  - Übung Nr. 17&#58; Qualitätsaufträge erstellen und die Chargenattribute überprüfen
-  - Übung Nr. 18&#58; Eine Batch-Reservierung mit einer Attributanforderung abschließen
-  - Übung Nr. 19&#58; Ein Teilgewicht der Teilsichtbarkeit einstellen
-  - Übung Nr. 20&#58; Teilgewichtsartikel in einem Kaufhandelsabkommen verwenden
-  - Übung Nr. 21&#58; Ein Batch-Attribut für einen potenten Artikel erstellen
-  - Übung Nr. 22&#58; Eine Kopie einer Formel für einen potenten Artikel ändern und aktivieren
-  - Übung Nr. 23&#58; Preise auf dem Attribut eines Artikels basierend ausrichten (Bonus)
-  - Übung Nr. 24&#58; Nach Erhalt ein potentes Attribut aufzeichnen (Bonus)
-  - Übung Nr. 25&#58; Chargenaufträge melden und ausgleichen (Bonus)
-  
-  #### Lab&#58; Fallstudie 1C zu Lean Manufacturing
-  - Übung Nr. 1&#58; Wertströme schaffen
-  - Übung Nr. 2&#58; wird ein neues Produktionsflussmodell erstellt
-  - Übung Nr. 3&#58; Eine Prozessaktivität erstellen
-  - Übung Nr. 4&#58; Eine neue Übertragungsaktivität erstellen
-  - Übung Nr. 5&#58; Der Produktionsablaufaktivität einen Nachfolger hinzufügen und eine Validierung und Aktivierung durchführen
-  - Übung Nr. 6&#58; Kanban-Regeln erstellen und den Kanban-Job planen
-  - Übung Nr. 7&#58; Geplantes Kanban für Prozess- und Übertragungsaufträge verarbeiten
-  - Übung Nr. 8&#58; Erfüllen eines Kundenauftrags durch das Planen eines Kanban und Produzieren eines Artikels (Bonus)
-  
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
-  - Produktionsaufträge verwalten
-  - Batch-Bestellungen verwalten
-  - Kanban-Bestellungen verwalten
-  
-  
-  ### Modul 3&#58; Implementieren der Masterplanung für die Produktion
-  In diesem Modul werden die Aspekte der Masterplanung erläutert, die für den Funktionsberater der Fertigung erforderlich sind.
-  #### Lektionen
-  - Masterplanung konfigurieren und verwalten
-  - Planen, Festsetzen und Durchführen einer Produktionskapazitätsplanung
-  
-  #### Lab&#58; Fallstudie 2 zur Masterplanung
-  - Übung Nr. 1&#58; Einen geplanten Auftrag sichern und die Auftragsart ändern
-  - Übung Nr. 2&#58; Eine konzerninterne Planungsgruppe erstellen und einen Artikelzuordnungsschlüssel zuweisen
-  - Übung Nr. 3&#58; Einen Produktionsplan aus einem Masterplanungslauf planen (Bonus)
-  
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
-  - Masterplanung konfigurieren und verwalten
-  - Planen, Festsetzen und Durchführen einer Produktionskapazitätsplanung
-  
-  
-  ### Modul 4&#58; Andere Fertigungsfunktionen implementieren
-  Dieses Modul behandelt verschiedene wichtige Funktionen, die üblicherweise von Fertigungskunden verwendet werden.
-  #### Lektionen
-  - Fertigungsabläufe konfigurieren
-  - Kostenrichtlinien konfigurieren
-  - Produktkonfigurationsmodelle mit Hilfe des Produktkonfigurators definieren
-  
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
-  - Fertigungsabläufe konfigurieren
-  - Kostenrichtlinien konfigurieren
-  - Produktkonfigurationsmodelle mit Hilfe des Produktkonfigurators definieren
-  
-  
-  ### Modul 5&#58; Vergabe von Unteraufträgen für die Produktherstellung
-  Dieses Modul behandelt die Konfiguration und Verwendung von Funktionen für die Vergabe von Unteraufträgen
-  #### Lektionen
-  - Konfiguration der Vergabe von Unteraufträgen
-  - Verwendung von Unteraufträgen
-  
-  #### Lab&#58; Fallstudie 3 zur Vergabe von Unteraufträgen
-  - Übung Nr. 1&#58; Funktionen für die Vergabe von Unteraufträgen einrichten
-  
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein&#58;
-  - Konfiguration der Vergabe von Unteraufträgen
-  - Verwendung von Unteraufträgen
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+
+  Ein Functional Consultant für Dynamics 365 Finance and Operations ist verantwortlich für die Durchführung von Untersuchungen, die Erfassung von Anforderungen, die Einbindung von Fachexperten und Stakeholdern, die Übersetzung von Anforderungen und die Konfiguration der Lösung und der Anwendungen. Der Functional Consultant implementiert eine Lösung unter Verwendung von standardisierten Funktionen, codeloser Erweiterbarkeit, Anwendungs- und Service-Integrationen.
+prerequisitesSection: >-
+  Grundlegendes Verständnis der Terminologie für Supply Chain Management und Produktion
+
+
+  Grundlegendes Verständnis der Dynamics 365 Finance and Operations-Apps
+outlineSection: >-
+  ### <a name="module-1-configure-dynamics-365-supply-chain-management-manufacturing"></a>Modul 1: Konfigurieren von Dynamics 365 Supply Chain Management für die Produktion
+
+
+  In diesem Modul werden die verschiedenen Konfigurationen behandelt, die ein Functional Consultant zur Implementierung der Fertigungsfunktionen benötigt.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Konfigurieren und Verwalten des Produktionssteuerungsmoduls
+
+
+  *   Konfigurieren und Verwalten von Ressourcen für Produktionsprozesse
+
+
+  *   Konfigurieren der Einzelfertigung
+
+
+  *   Konfigurieren der Prozessfertigung
+
+
+  *   Konfigurieren des Lean Manufacturing
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Konfigurieren und Verwalten des Produktionssteuerungsmoduls
+
+
+  *   Konfigurieren und Verwalten von Ressourcen für Produktionsprozesse
+
+
+  *   Konfigurieren der Einzelfertigung
+
+
+  *   Konfigurieren der Prozessfertigung
+
+
+  *   Konfigurieren des Lean Manufacturing
+
+
+
+  ### <a name="module-2-manage-manufacturing-processes"></a>Modul 2: Verwalten von Fertigungsprozessen
+
+
+  Dieses Modul hilft Ihnen, die meisten der für die verschiedenen Fertigungsszenarien erforderlichen Transaktionen zu verstehen und zu verwenden.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Verwalten von Produktionsaufträgen
+
+
+  *   Verwalten von Chargenaufträgen
+
+
+  *   Verwalten von Kanban-Aufträgen
+
+
+
+  #### <a name="lab--case-study-1a-discrete-manufacturing"></a>Lab : Fallstudie 1A – Einzelfertigung
+
+
+  ####
+     *   Übung 1: Aktualisieren der Produktionssteuerungsparameter
+     *   Übung 2: Erstellen neuer Produktionspools
+     *   Übung 3: Erstellen und Verwalten von Ressourcen
+     *   Übung 4: Erstellen eines Vorgangs, Zuweisen von Beziehungen und Erstellen einer Route
+     *   Übung 5: Erstellen einer einfachen Stückliste (BOM) ohne Version
+     *   Übung 6: Erstellen einer Stückliste im Stücklisten-Designer (Bonus)
+     *   Übung 7: Erstellen einer Stückliste mit Version
+     *   Übung 8: Erstellen eines Produktionsauftrags
+     *   Übung 9: Starten eines Einzelfertigungsauftrags (Bonus)
+     *   Übung 10: Ausführen eines Ressourcenzeitplans
+     *   Übung 12: Konfigurieren von Kostenrichtlinien
+     *   Übung 13: Konfigurieren der Fertigungssteuerung (Bonus)
+     *   Übung 14: Konfigurieren der automatischen Arbeitsplanrückmeldung für Projekteinrichtungen (Bonus)
+     *   Übung 15: Verwenden der Fertigungssteuerung (Bonus)
+
+  #### <a name="lab--case-study-1b-process-manufacturing"></a>Lab: Fallstudie 1B – Prozessfertigung
+
+
+  ####
+     *   Übung 1: Erstellen einer Liste genehmigter Anbieter und Festlegen der Methode auf „Nur Warnung“ (Bonus)
+     *   Übung 2: Erstellen von Elementen mit verschiedenen Produktionstypen
+     *   Übung 3: Erstellen und Aktivieren einer Formel mit verschiedenen Produkttypen
+     *   Übung 4: Erstellen einer neuen Formel mit einer Version aus dem veröffentlichten Produktformular (Bonus)
+     *   Übung 5: Überarbeiten, Aktualisieren und Aktivieren einer Formel (Bonus)
+     *   Übung 6: Verwenden des Skalierbarkeitsfeatures zum Erstellen einer neuen Formel
+     *   Übung 7: Erstellen und Aktivieren einer prozentbasierten Formel (Bonus)
+     *   Übung 8: Ändern eines linearen Verbrauchs in einen schrittweisen Verbrauch
+     *   Übung 9: Einrichten der Artikelpreiskalkulation (Bonus)
+     *   Übung 10: Ändern einer Preisberechnung und Aktualisieren von Handelsvereinbarungen
+     *   Übung 11: Einrichten einer Artikelpreiskalkulation
+     *   Übung 12: Erstellen von PSDS-Listen, Datensätzen und Dateiuploads für die Produktkonformität
+     *   Übung 13: Hinzufügen von Berichtsdetails für einen Artikel
+     *   Übung 14: Erstellen eines Verkaufsauftrags und Drucken eines PSDS
+     *   Übung 15: Erstellen und Zuordnen eines Chargenattributs
+     *   Übung 16: Erstellen einer neuen Chargennummer und manuelles Aufzeichnen des Chargenattributs
+     *   Übung 17: Erstellen von Qualitätsprüfungsaufträgen und Überprüfen von Chargenattributen
+     *   Übung 18: Durchführen einer Chargenreservierung mithilfe einer Attributanforderung
+     *   Übung 19: Einrichten eines Artikelgewichtsartikels mit teilweiser Sichtbarkeit
+     *   Übung 20: Verwenden von Artikelgewichtsartikeln in einer Handelsvereinbarung
+     *   Übung 21: Erstellen eines Chargenattributs für einen Konzentrationsartikel
+     *   Übung 22: Ändern und Aktivieren einer Kopie der Formel für einen Konzentrationsartikel
+     *   Übung 23: Einrichten der Preisgestaltung basierend auf dem Attribut eines Artikels (Bonus)
+     *   Übung 24: Erfassen eines Konzentrationsattributs bei Empfang (Bonus)
+     *   Übung 25: Berichterstellung und Ausgleich für Chargenaufträge (Bonus)
+
+  #### <a name="lab--case-study-1c-lean-manufacturing"></a>Lab : Fallstudie 1C – Lean Manufacturing
+
+
+  ####
+     *   Übung 1: Erstellen von Wertströmen
+     *   Übung 2: Erstellen eines neuen Produktionsflussmodells
+     *   Übung 3: Erstellen einer Prozessaktivität
+     *   Übung 4: Erstellen einer neuen Übertragungsaktivität
+     *   Übung 5: Hinzufügen einer Folgeaktivität zur Produktionsflussaktivität und Durchführen von Überprüfung und Aktivierung
+     *   Übung 6: Erstellen von Kanban-Regeln und Planen des Kanban-Auftrags
+     *   Übung 7: Verarbeiten von geplanten Kanbans für Einzelvorgangs- und Umlagerungsaufträge
+     *   Übung 8: Abwickeln eines Verkaufsauftrags durch Planen eines Kanbans und Fertigen eines Artikels (Bonus)
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Verwalten von Produktionsaufträgen
+
+
+  *   Verwalten von Chargenaufträgen
+
+
+  *   Verwalten von Kanban-Aufträgen
+
+
+
+  ### <a name="module-3-implement-master-planning-for-production"></a>Modul 3: Implementieren eines Produktprogrammplans für die Produktion
+
+
+  In diesem Modul werden die Aspekte der Produktprogrammplanung erläutert, die der Functional Consultant für die Produktion benötigt.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Konfigurieren und Verwalten des Produktprogrammplans
+
+
+  *   Planen und Durchführen der Kapazitätsplanung für die Produktion
+
+
+
+  #### <a name="lab--case-study-2-master-planning"></a>Lab: Fallstudie 2 – Produktprogrammplan
+
+
+  ####
+     *   Übung 1: Fest geplante Aufträge und Ändern des Auftragstyps
+     *   Übung 2: Erstellen einer Intercompany-Planungsgruppe und Zuweisen eines Artikelverteilungsschlüssels
+     *   Übung 3: Erstellen eines Produktionszeitplans anhand eines Produktprogrammplans (Bonus)
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Konfigurieren und Verwalten des Produktprogrammplans
+
+
+  *   Planen und Durchführen der Kapazitätsplanung für die Produktion
+
+
+
+  ### <a name="module-4-implement-other-manufacturing-features"></a>Modul 4: Implementieren weiterer Fertigungsfeatures
+
+
+  In diesem Modul werden verschiedene wichtige Features behandelt, die häufig von Produktionskunden genutzt werden.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Konfigurieren der Fertigungssteuerung
+
+
+  *   Konfigurieren von Kostenrichtlinien
+
+
+  *   Definieren von Produktkonfigurationsmodellen mit dem Variantenkonfigurator
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Konfigurieren der Fertigungssteuerung
+
+
+  *   Konfigurieren von Kostenrichtlinien
+
+
+  *   Definieren von Produktkonfigurationsmodellen mit dem Variantenkonfigurator
+
+
+
+  ### <a name="module-5-subcontracting-for-product-manufacturing"></a>Modul 5: Fremdarbeit bei der Produktherstellung
+
+
+  Dieses Modul befasst sich mit der Konfiguration und Nutzung der Funktionen für Fremdarbeit.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Konfigurieren von Fremdarbeit
+
+
+  *   Verwenden von Fremdarbeit
+
+
+
+  #### <a name="lab--case-study-3-subcontracting"></a>Lab: Fallstudie 3 – Fremdarbeit
+
+
+  ####
+     *   Übung 1: Einrichten von Features für Fremdarbeit
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Konfigurieren von Fremdarbeit
+
+
+  *   Verwenden von Fremdarbeit

@@ -1,0 +1,46 @@
+---
+title: 'Einführung von Leistungstests in Microsoft-Prüfungen: Das sollten Sie wissen | Microsoft-Dokumentation'
+description: 'Einführung von Leistungstests in Microsoft-Prüfungen: Das sollten Sie wissen'
+documentationcenter: NA
+author: micsullivan
+ms.topic: article
+ms.tgt_pltfrm: NA
+ms.workload: NA
+ms.date: 07/30/2019
+ms.author: msulliv
+ms.prod: non-product-specific
+ms.openlocfilehash: 3e2248e8ba5508c80c3def38c4743f86807562f1
+ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 09/14/2021
+ms.locfileid: "132111947"
+---
+# <a name="performance-testing-is-coming-to-microsoft-exams-here-is-what-you-should-know"></a>Einführung von Leistungstests in Microsoft-Prüfungen: Das sollten Sie wissen
+
+Veröffentlich am 15. April 2019 von **Liberty Munson (Microsoft)**
+
+___
+
+Wie viele von Ihnen wissen, haben wir damit begonnen, unsere Prüfungen um Leistungsaufgaben zu erweitern (wir bezeichnen diese Aufgaben als „Labs“). Dies bedeutet, dass Sie während einer Prüfung möglicherweise in einer coudbasierten oder lokalen Liveumgebung Aufgaben ausführen müssen. Dies ist eine spannende Zeit, denn in naher Zukunft werden Sie in mindestens einer der Prüfungen, die zum Erlangen einer unserer neuen rollenbasierten Zertifizierungen erforderlich sind, Leistungsaufgaben absolvieren müssen. Viele Benutzer haben sich eine Möglichkeit gewünscht, ihre Fähigkeiten zur Bewältigung von Aufgaben einzuschätzen, und wir arbeiten daran, dies umzusetzen. Dabei setzen wir jedoch neue Maßstäbe hinsichtlich der Möglichkeiten der Lab-Bereitstellung. Kein anderes Zertifizierungsprogramm verfügt über so komplexe und umfangreiche Lab-Umgebungen: Die Komplexität der Labs stellt sicher, dass Sie mit realen Szenarien konfrontiert werden, die Ihre Fähigkeiten und Fertigkeiten wirklich testen, und wir bieten diese Prüfungen in fast jedem Land der Welt an.
+
+Im September 2018 haben wir Labs für unsere Prüfungen für Azure-Administratoren (AZ100 & AZ101 – demnächst AZ-103) eingeführt. Seitdem haben wir viel gelernt: über die Erfahrungen der Kandidaten, darüber, was sie richtig (und falsch) machen, und darüber, wie wir das Lab-Benutzererlebnis insgesamt verbessern können. Während wir weiterhin an einigen der häufigsten Herausforderungen arbeiten, mit denen sich die Prüfungsteilnehmer konfrontiert sehen (Latenz, Neustarts usw.), finden Sie hier einige Informationen, um besser zu verstehen, was Sie erwartet und wie Sie sich in einem Lab zurechtfinden.
+
+1. Die Bereitstellung der Umgebung in der Cloud dauert einige Zeit, und die Umgebung, auf die Sie zum Erledigen der Aufgaben zugreifen können, wird nur dann geladen, wenn die Ressourcen vollständig bereitgestellt sind. Infolgedessen beginnt die Prüfung mit einer Reihe von konventionellen Elementen (Multiple Choice, Drag and Drop, Bauliste, etc.), die Zeit für die Bereitstellung der Labors und deren Laden in die Umgebung lassen. Wenn Sie diese Fragen zu schnell beantworten, müssen Sie warten, bis die Labore mit dem Ladevorgang fertig sind.
+2. Nachdem Sie einen Teil der Prüfung verlassen haben, können Sie nicht mehr zu ihm zurückkehren. Am Ende jedes Abschnitts haben Sie jedoch die Möglichkeit, Ihre Antworten zu überprüfen. **Die Prüfungszeit wird NICHT angehalten, während Sie Ihre Antworten durchgehen. Teilen Sie sich Ihre Zeit gut ein**, und achten Sie auf die verbleibende Zeit UND die Anzahl der verbleibenden Fragen. 
+3. Jede Prüfung enthält ein oder zwei Leistungsabschnitte/Labors mit mehreren Aufgaben, die Sie erledigen müssen. Danach folgt jeweils eine Reihe konventioneller Aufgaben, die es uns ermöglichen, die Labs zu bewerten, damit Sie Ihr Ergebnis (bestanden/nicht bestanden) unmittelbar nach Abschluss der Prüfung erhalten. Auch hier gilt: Zeitmanagement. Sie müssen nach den Labors einige Fragen beantworten.
+
+    *  Die Anzahl der Labors auf der Prüfung ist auf der Übersichtsseite vor dem ersten Labor angegeben. Lesen Sie sie! Teile Sie Ihre Zeit entsprechend ein.
+    *  Denken Sie daran, dass diese Prüfungen nach demselben Muster ablaufen: konventionelle Aufgaben, gefolgt von einem Lab, gefolgt von weiteren konventionellen Aufgaben usw. Die meisten konventionellen Aufgaben finden Sie am Anfang der Prüfung, aber Sie werden die Prüfung immer mit der Beantwortung konventioneller Aufgaben beenden.
+4. Wir verlängern die Prüfungszeit für alle Prüfungen mit Labs auf 180 Minuten, damit Sie mehr Zeit zum Ausführen der Aufgaben zur Verfügung haben. (Sie benötigen für die Bearbeitung eines Labs etwa dreimal so viel Zeit wie für eine konventionelle Aufgabe). Die Zeit, die Sie beim Bearbeiten einer Aufgabe durch einen Neustart der Lab-Umgebung verlieren, wird nicht von Ihrer Prüfungszeit abgezogen.
+5. Wenn Ihr Lab mit einem leeren weißen Bildschirm startet, öffnen Sie eine neue Registerkarte, und navigieren Sie zu [https://portal.azure.com](https://portal.azure.com). Wenn Sie diese neue Registerkarte öffnen, wird das Problem meist behoben.  
+6. Erwägen Sie, die Prüfung als beaufsichtigte Onlineprüfung abzulegen. Dadurch wird das Benutzererlebnis in der Regel verbessert, und Sie haben vollständige Kontrolle über die Hardware, einschließlich der Monitorgröße – kleinere Monitore sind häufig ein Problem für die Prüfungsteilnehmer. Wir suchen nach Möglichkeiten, die Bildschirmfläche zu maximieren und das Benutzererlebnis zu verbessern, aber wenn Sie am Arbeitsplatz oder zu Hause über einen großen Monitor verfügen, sollten Sie diesen für die Prüfung verwenden. Wenn Sie die Prüfung in einem Testcenter ablegen, fragen Sie die Kontaktperson/Aufsichtsperson nach dem Computer mit dem größten Bildschirm. Obwohl VUE den Testcentern empfiehlt, die größten Monitore für Microsoft-Prüfungen zu reservieren, kann es nicht schaden, danach zu fragen. [Erfahren Sie mehr über die Anforderungen für beaufsichtigte Onlineprüfungen](https://www.microsoft.com/learning/online-proctored-exams.aspx). 
+7. Warten Sie NICHT auf die Ausführung von Aufgaben, bevor Sie zu einer anderen Aufgabe übergehen. In einigen (seltenen) Fällen benötigen Sie etwas zum Ausführen, bevor Sie eine andere Aufgabe erledigen können, aber es sollte andere Aufgaben geben, an denen Sie arbeiten können, während diese Aufgabe ausgeführt wird. **Verlieren Sie keine Zeit mit dem Warten auf eine Aufgabenausführung.** Fahren Sie mit etwas fort, das nicht von dieser Aufgabe abhängig ist, damit Sie Ihre Prüfungszeit maximieren können. In einigen Fällen kann das Ausführen einer Aufgabe für die Bewertung ausreichend sein (z.B. das Erstellen einer Ressource in Azure); Sie können die Aufgabe im Hintergrund ausführen lassen, während Sie an anderen Aufgaben arbeiten. Wir nehmen einen Hinweis in die Aufgabenliste auf, der Ihnen mitteilt, dass Sie die Aufgabe nur starten müssen. Sie können zu anderen Aufgaben übergehen oder sogar den Abschnitt verlassen (zum nächsten Teil der Prüfung wechseln), ohne bestraft zu werden. **Lesen Sie die Aufgabe sorgfältig durch. Es mag Sie überraschen, dass viele Prüfungsteilnehmer die Anweisungen nicht lesen (schockierend, ich weiß). Bei Labs empfehle ich Ihnen dringend, wirklich alle Informationen sorgfältig zu lesen.**
+8. Wir verlangen NICHT, dass Sie eine bestimmte Methode verwenden, um Aufgaben auszuführen. Wenn Sie mit der Verwendung von PowerShell oder CLI anstelle einer GUI vertraut sind, möchten wir, dass Sie diese verwenden. Wir testen Sie auf das Endergebnis Ihrer Aufgabe - haben Sie sie richtig ausgeführt? - und nicht auf die Methode, mit der Sie eine Aufgabe ausführen.
+9. Wenn Sie bei einem Lab auf Probleme stoßen, melden Sie diese bitte über unseren [Prozess zur Beanstandung von Prüfungsaufgaben](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5). Obwohl wir keine konkrete Begründung für Ihre Erfahrung geben können, wird uns unsere Untersuchung Ihrer Erfahrung helfen, die Ursachen zu identifizieren und Lösungen zu finden, die die Erfahrung für alle verbessern.
+10. Und das Wichtigste: Vielen Dank, dass Sie uns dabei unterstützen, unseren Ansatz zur Kompetenzüberprüfung ständig weiterzuentwickeln. Derzeit verwenden wir Labs in den Prüfungen [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx), [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) (bald [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx)), [AZ-300](https://www.microsoft.com/learning/exam-AZ-300.aspx) und [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx), weitere werden ab Ende Mai/Anfang Juni folgen. Microsoft ist führend in der Zertifizierungsbranche (dies ist keine Übertreibung, sondern entspricht den Tatsachen) und stellt den Status quo auf den Prüfstand. Dies ist nur möglich, weil Sie uns bei jedem Schritt unterstützen.
+
+Ich hoffe, diese Tipps und Tricks helfen Ihnen dabei, sich angemessen auf eine unserer Lab-basierten Prüfungen vorzubereiten und diese erfolgreich abzulegen. Viel Erfolg!
+
+
+[![Erwerben von Qualifikationen zur Karriereförderung](images/microsoft-certified-banner.png)](https://www.microsoft.com/learning/azure-training-certification.aspx?WT.icid=mva_bnr_lexawareness_usen_asi_rightrail_oct2017)

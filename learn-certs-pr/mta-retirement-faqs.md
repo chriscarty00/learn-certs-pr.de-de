@@ -1,6 +1,6 @@
 ---
-title: MTA Retirement FAQs | Microsoft Docs
-description: MTA Retirement FAQs
+title: Häufig gestellte Fragen zur Einstellung von MTA | Microsoft-Dokumentation
+description: Häufig gestellte Fragen zur Einstellung von MTA
 documentationcenter: NA
 author: micsullivan
 ms.topic: article
@@ -9,97 +9,101 @@ ms.workload: NA
 ms.date: 02/16/2021
 ms.author: msulliv
 ms.prod: non-product-specific
+ms.openlocfilehash: 53b3f32864ce5777cce1f54a5a5107fa4876d894
+ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 09/14/2021
+ms.locfileid: "132111863"
 ---
-
-# MTA Einstellung FAQs
-
-
-## Häufig gestellte Fragen zum Kunden:
+# <a name="mta-retirement-faqs"></a>Häufig gestellte Fragen zur Einstellung von MTA
 
 
-**F: Warum werden Microsoft Technology Associate (MTA) -Zertifizierungen und -Prüfungen eingestellt?**
+## <a name="customer-facing-faqs"></a>Häufig gestellte Fragen von Kunden: 
 
-**A:** Für jeden, der in die weite Welt der Technologie einsteigt, sind Microsoft Technology Associate (MTA)-Zertifizierungen ein entscheidender Faktor für die Berechtigungsnachweise. Da die Verantwortlichkeiten von IT-Fachleuten immer komplexer werden, hat die Bedeutung relevanter technischer Fähigkeiten und branchenweit anerkannter Zertifizierungen zugenommen.Um den Teilnehmern dabei zu helfen, die technischen Fähigkeiten aufzubauen, die sie benötigen, um Schritt zu halten und in aufstrebenden Jobs erfolgreich zu sein, haben wir unsere Zertifizierungen weiterentwickelt, um uns auf Jobrollen zu konzentrieren, die mit den Branchen- und Einstellungstrends in Einklang stehen. Während wir das Angebot an rollenbasiertem Lernen weiter ausbauen, werden wir die MTA-Zertifizierungen  bis Juni 2022 zurückziehen und Pädagogen, Studenten und Lernenden empfehlen, den Dreh- und Angelpunkt für die neuere Generation von Zertifizierungen zu beginnen.
 
-<br/>
+**F: Warum werden MTA-Zertifizierungen und -Prüfungen (Microsoft Technology Associate) eingestellt?**
 
-**F: Welche Ersatzzertifizierung könnte ich erhalten, wenn MTA eingestellt wird?**
-
-**A:** [Grundlegende Zertifizierungen](/learn/certifications/browse/?type=fundamentals) sind ein großartiger Ort, das Grundlagenverständnis mit gemischten Konzepten und angewendetem Lernen von Microsoft-Technologien zu beginnen und zu validieren. Sie sind ein Sprungbrett für unsere rollenbasierten Schulungen und Zertifizierungen in aufstrebenden und gefragten Karrierebereichen wie Microsoft Azure, KI, Daten, Power Platform, Microsoft 365 und Dynamics. Viele von ihnen sind auch berechtigt, [ACECollege Credit](/learn/certifications/ace-credit-for-certification-exams) zu erhalten. 
+**A:** Für jeden, der in die weite Welt der Technologie einsteigt, sind MTA-Zertifizierungen von entscheidender Bedeutung für den Leistungsnachweis. Mit zunehmender Komplexität der Aufgaben von IT-Fachleuten wird es immer wichtiger, dass sie über einschlägige technische Kenntnisse und branchenweit anerkannte Zertifizierungen verfügen. Wir haben unsere Zertifizierungen weiterentwickelt, um uns auf berufliche Positionen zu konzentrieren, die sich an Branchen- und Einstellungstrends orientieren. Damit möchten wir Studierenden dabei helfen, die technischen Fähigkeiten zu erwerben, die sie benötigen, um in neuen Berufen Schritt zu halten und erfolgreich zu sein. Wir bauen die rollenbasierten Lernangebote weiter aus, stellen MTA-Zertifizierungen bis Juni 2022 jedoch ein und empfehlen Lehrkräften, Studenten und Lernenden daher, langsam auf die neuere Generation von Zertifizierungen umzusteigen.
 
 <br/>
 
-**F: Wann werden Sie der Verkauf von Lizenzen für die MTA-Prüfungen einstellen ?**
+**F: MTA wird eingestellt. Welche Zertifizierung sollte ich stattdessen erwerben?**
 
-**A:** Wir werden ab dem 30. Juni 2021 keine MTA-Lizenzen mehr zum Kauf anbieten.Sie haben bis zum 30. Juni 2022 Zeit, sich anzumelden und die Prüfung abzulegen.
-
-<br/>
-
-**F: Kann ich die MTA-Zertifizierung noch erwerben, bevor sie am 30. Juni 2022 eingestellt wird?**
-
-**A:** Wenn Sie die Prüfung vor dem 30. Juni 2022 bestehen, erhalten Sie die Zertifizierung.Beachten Sie jedoch, dass Sie den Prüfungsgutschein nach dem 30. Juni 2021 nicht mehr kaufen können. Daher ist die Wiederholung einer nicht bestandenen Prüfung nach diesem Datum möglicherweise keine Option mehr, es sei denn, Sie haben einen zusätzlich gekauften Gutschein oder Ihr Kauf ist Teil einer auf Volumen basierten Lizenzvereinbarung.
+**A:** [Basiszertifizierungen](/learn/certifications/browse/?type=fundamentals) sind ein hervorragender Ausgangspunkt, um das Verständnis der Grundlagen mit gemischten Konzepten und angewandtem Lernen von Microsoft-Technologien zu validieren. Sie dienen als Sprungbrett für unsere rollenbasierten Schulungen und Zertifizierungen in neuen und gefragten Karrierebereichen wie Microsoft Azure, KI, Daten, Power Platform, Microsoft 365 und Dynamics. Viele sind außerdem für den Erwerb von [ACE-Leistungspunkten](/learn/certifications/ace-credit-for-certification-exams) zugelassen. 
 
 <br/>
 
-**F: Die MTA-Prüfungen, die ich absolviere, werden eingestellt. Was soll ich machen?**
+**F: Ab wann werden keine Lizenzen für die MTA-Prüfungen mehr verkauft?**
 
-**A:** Bevor die Prüfungen ablaufen, müssen Sie die erforderliche Prüfung bestehen, die Teil der MTA-Zertifizierung (en) ist/sind, die Sie erwerben möchten.Wenn Sie die erforderliche Prüfung vor deren Einstellung bestehen, erhalten Sie die Zertifizierung und sie erscheint auf Ihrem Zertifizierungsprotokoll.
-
-<br/>
-
-**F: Kann ich nach dem 30. Juni 2022 eine MTA-Prüfung wiederholen ?**
-
-**A:** Nein, MTA wird am 30. Juni 2022 eingestellt.Wir empfehlen Ihnen, die Prüfungen früh genug abzulegen, um mehrere Versuche ablegen zu können.Beachten Sie jedoch, dass Sie den Prüfungsgutschein nach dem 30. Juni 2021 nicht mehr kaufen können. Daher ist die Wiederholung einer nicht bestandenen Prüfung nach diesem Datum möglicherweise keine Option mehr, es sei denn, Sie haben einen zusätzlich gekauften Gutschein oder Ihr Kauf ist Teil einer auf Volumen basierten Lizenzvereinbarung.
+**A:** MTA-Lizenzen werden seit dem 30. Juni 2021 nicht mehr zum Verkauf angeboten. Sie haben bis zum 30. Juni 2022 Zeit, sich zu registrieren und die Prüfung abzulegen.
 
 <br/>
 
-Weitere Informationen finden Sie in den [Prüfungswiederholungsrichtlinien](/learn/certifications/exam-security-policy-and-exam-retake-policy#exam-retake-policy).
+**F: Kann ich die MTA-Zertifizierung vor der Einstellung am 30. Juni 2022 erlangen?**
+
+**A:** Wenn Sie die Prüfung vor dem 30. Juni 2022 bestehen, erhalten Sie die Zertifizierung. Beachten Sie jedoch, dass Sie den Prüfungsgutschein nach dem 30. Juni 2021 nicht mehr erwerben können. Daher ist das erneute Ablegen einer nicht bestandenen Prüfung nach diesem Datum unter Umständen nicht mehr möglich, es sei denn, Sie verfügen über einen zusätzlichen erworbenen Gutschein, oder Ihr Kauf ist Teil eines Volumenlizenzvertrags.
 
 <br/>
 
-**F: Kann ich den zuvor gekauften MTA-Gutschein gegen eine andere Prüfung eintauschen?**
+**F: Die von mir erworbenen MTA-Prüfungen werden eingestellt. Wie sollte ich vorgehen?**
 
-**A:** Nein. Wir informieren Kunden ausreichend über die Einstellung, um sicherzustellen, dass genügend Zeit für die Verwendung Ihres Gutscheins zur Verfügung steht.
-
-<br/>
-
-**F: Was passiert mit der MTA-Zertifizierung, die ich bereits habe?**
-
-**A:** Mit der MTA-Zertifizierungen, die Sie bereits haben, passiert nichts. Sie verbleiben auf Ihrem Zertifizierungsprotokoll und können auch nach Abschluss der Prüfungen ausgedruckt werden.Sie werden jedoch zwei Jahre nach dem Einstellen der Zertifizierungen in den Abschnitt „Zertifizierungsverlauf“ Ihres Transkripts verschoben.
+**A:** Bevor die Prüfungen ablaufen, müssen Sie die erforderliche Prüfung ablegen, die Teil der angestrebten MTA-Zertifizierung ist. Wenn Sie die erforderliche Prüfung vor ihrem Ablauf bestehen, erhalten Sie die Zertifizierung, und sie wird in Ihrem Zertifizierungsprotokoll angezeigt.
 
 <br/>
 
-**F: Haben Kunden nach der Pensionierung weiterhin Zugriff auf ihr digitales MTA-Abzeichen und -Zertifikat?**
+**F: Kann ich eine MTA-Prüfung nach dem 30, Juni 2022 wiederholen?**
 
-**A:** Ja. Kunden haben weiterhin über ihr Zertifizierungs-Dashboard Zugriff auf das Zertifikat und können sich auf unbestimmte Zeit über Credly/Acclaim ausweisen.
+**A:** Nein, MTA wird am 30. Juni 2022 eingestellt. Es wird empfohlen, die Prüfungen früh genug abzulegen, falls Sie sie wiederholen müssen. Beachten Sie jedoch, dass Sie den Prüfungsgutschein nach dem 30. Juni 2021 nicht mehr erwerben können. Daher ist das erneute Ablegen einer nicht bestandenen Prüfung nach diesem Datum unter Umständen nicht mehr möglich, es sei denn, Sie verfügen über einen zusätzlichen erworbenen Gutschein, oder Ihr Kauf ist Teil eines Volumenlizenzvertrags.
+<br/>
+
+In den [Richtlinien für die Wiederholung von Prüfungen](/learn/certifications/exam-security-policy-and-exam-retake-policy#exam-retake-policy) finden sie ausführlichere Informationen.
+
+<br/>
+
+**F: Kann ich den zuvor erworbenen MTA-Gutschein gegen eine andere Prüfung eintauschen?**
+
+**A:** Nein. Wir informieren Kunden rechtzeitig über die Einstellung, um sicherzustellen, damit sie genügend Zeit zum Einlösen Ihres Gutscheins haben.
+
+<br/>
+
+**F: Was geschieht mit der MTA-Zertifizierung, die ich bereits habe?**
+
+**A:** Nichts. Sie verbleibt in Ihrem Zertifizierungsprotokoll und kann auch nach Einstellung der Prüfungen ausgedruckt werden. Zwei Jahre nach der Einstellung der Zertifizierungen werden sie jedoch in den Abschnitt „Zertifizierungsverlauf“ Ihres Protokolls verschoben.
+
+<br/>
+
+**F: Haben Kunden nach der Einstellung weiterhin Zugriff auf das MTA-Digitalabzeichen und das Zertifikat?**
+
+**A:** Ja. Kunden haben auf unbestimmte Zeit weiterhin Zugriff: Auf das Zertifikat kann über ihr Zertifizierungsdashboard und auf das Abzeichen über Credly/Acclaim zugegriffen werden.
 
 <br/>
 
 
-**F: Wo finde ich weitere Informationen zu eingestellten Zertifizierungen?**
+**f: Wo finde ich weitere Details zu eingestellten Zertifizierungen?**
 
-**A:** Die Seite [Informationen zu eingestellten Zertifizierungen](/learn/certifications/retired-certifications) auf Learn enthält eine Liste zukünftiger und früherer Einstellungen.
+**A:** Auf der Seite [Einstellung einer Zertifizierung](/learn/certifications/retired-certifications) auf Learn finden Sie eine Liste künftiger und vergangener Einstellungen.
 
 <br/>
 
-**F: Was ist die Liste der Prüfungen, die am 30. Juni 2022 eingestellt werden?**
+**F: Welche Liste gilt für Prüfungen, die am 30. Juni 2022 eingestellt werden?**
 
-**A:** Die folgenden Prüfungen werden mit dem Einstellen von MTA eingestellt:
+**A:** Die folgenden Prüfungen werden zusammen mit der Einstellung von MTA eingestellt:
 
-| Prüfungstitel                                  | Einstellungssdatum |
+| Prüfungstitel                                     | Deaktivierungsdatum |
 |------------------------------------------------|-----------------|
-| Database Administration Fundamentals           | 6/30/2022       |
-| HTML5 Application Development Fundamentals     | 6/30/2022       |
-| Introduction to Programming Using HTML and CSS | 6/30/2022       |
-| Introduction to Programming Using Java         | 6/30/2022       |
-| Introduction to Programming Using JavaScript   | 6/30/2022       |
-| Introduction to Programming Using Python       | 6/30/2022       |
-| Mobility and Devices Fundamentals              | 6/30/2022       |
-| Networking Fundamentals                        | 6/30/2022       |
-| Security Fundamentals                          | 6/30/2022       |
-| Software Development Fundamentals              | 6/30/2022       |
-| Windows Operating System Fundamentals          | 6/30/2022       |
-| Windows Server Administration Fundamentals     | 6/30/2022       |
+| Database Administration Fundamentals           | 30.06.2022       |
+| HTML5 Application Development Fundamentals     | 30.06.2022       |
+| Introduction to Programming Using HTML and CSS | 30.06.2022       |
+| Introduction to Programming Using Java         | 30.06.2022       |
+| Introduction to Programming Using JavaScript   | 30.06.2022       |
+| Introduction to Programming Using Python       | 30.06.2022       |
+| Mobility and Devices Fundamentals              | 30.06.2022       |
+| Networking Fundamentals                        | 30.06.2022       |
+| Security Fundamentals                          | 30.06.2022       |
+| Software Development Fundamentals              | 30.06.2022       |
+| Windows Operating System Fundamentals          | 30.06.2022       |
+| Windows Server Administration Fundamentals     | 30.06.2022       |
 
 <br/>
 

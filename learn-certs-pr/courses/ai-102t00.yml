@@ -1,25 +1,31 @@
 ### YamlMime:Course
-title: Designing and Implementing a Microsoft Azure AI Solution
+title: Entwerfen und Implementieren einer Microsoft Azure KI-Lösung
 metadata:
-  title: 'Course AI-102T00: Designing and Implementing a Microsoft Azure AI Solution'
-  description: 'Course AI-102T00: Designing and Implementing a Microsoft Azure AI Solution'
+  title: 'Kurs AI-102T00--A: Designing and Implementing a Microsoft Azure AI Solution'
+  description: 'Kurs AI-102T00--A: Designing and Implementing a Microsoft Azure AI Solution'
+  ms.openlocfilehash: 1da4438aa304066a2189e1583c2bd74a5d4530e3
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107730"
 uid: course.ai-102t00
-courseNumber: 'AI-102T00'
+courseNumber: AI-102T00
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Beschreiben von Überlegungen zur KI-fähigen Anwendungsentwicklung
-- skill: Azure Cognitive Services erstellen, konfigurieren, bereitstellen und sichern 
-- skill: Entwickeln Sie Anwendungen, die Text analysieren
-- skill: Entwickeln Sie sprachfähige Anwendungen
-- skill: Erstellen Sie Anwendungen mit natürlichen Sprachkenntnissen
-- skill: Erstellen Sie  QnA-Anwendungen
-- skill: Erstellen Sie Konversationslösungen mit Bots
-- skill: Verwenden Sie Computer Vision-Services, um Bilder und Videos zu analysieren
-- skill: Erstellen Sie benutzerdefinierte Computer Vision-Modelle
-- skill: Entwickeln Sie Anwendungen, die Gesichter erkennen, analysieren und wiedererkennen
-- skill: Entwickeln Sie Anwendungen, die Text in Bildern und Dokumenten lesen und verarbeiten
-- skill: Erstellen Sie intelligente Suchlösungen für Knowledge Mining
+- skill: Beschreiben von Überlegungen zur Entwicklung KI-fähiger Anwendungen
+- skill: Erstellen, Konfigurieren, Bereitstellen und Schützen von Azure Cognitive Services
+- skill: Entwickeln von Anwendungen, die Text analysieren
+- skill: Entwickeln sprachfähiger Anwendungen
+- skill: Erstellen von Anwendungen mit Funktionen zum Verstehen natürlicher Sprache
+- skill: Erstellen von QnA-Anwendungen
+- skill: Erstellen von Konversationslösungen mit Bots
+- skill: Verwenden von Diensten für maschinelles Sehen zum Analysieren von Bildern und Videos
+- skill: Erstellen benutzerdefinierter Modelle für maschinelles Sehen
+- skill: Entwickeln von Anwendungen zum Erkennen, Analysieren und Identifizieren von Gesichtern
+- skill: Entwickeln von Anwendungen, die Text in Bildern und Dokumenten lesen und verarbeiten
+- skill: Erstellen intelligenter Suchlösungen für die Wissensbeschaffung
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -34,207 +40,501 @@ products:
 - azure
 exams:
 - uid: exam.ai-102
-summary: |-
-  AI-102 Entwerfen und Implementieren einer Azure AI-Lösung ist für Softwareentwickler gedacht, die AI-infundierte Anwendungen erstellen möchten die Azure Cognitive Services, Azure Cognitive Search und Microsoft Bot Framework nutzen. Der Kurs verwendet C# oder Python als Programmiersprache.
-  
-  #### Zielgruppenprofil
-  Softwareentwickler, die sich mit der Erstellung, Verwaltung und Bereitstellung von KI-Lösungen befassen, die Azure Cognitive Services, Azure Cognitive Search und Microsoft BotFramework nutzen. Sie sind mit C# oder Python vertraut und verfügen über Kenntnisse in der Verwendung von REST-basierten APIs zum Erstellen von Computer Vision-, Sprachanalyse-, Knowledge Mining-, intelligenten Such- und Konversations-KI-Lösungen in Azure.
-prerequisitesSection: |-
-  Vor dem Besuch dieses Kurses müssen die Studenten 
-  - Kenntnisse in Microsoft Azure und Fähigkeit zur Navigation im Azure-Portal haben 
-  - Kenntnisse in C# oder Python
-  - Vertrautheit mit der JSON- und REST-Programmiersemantik 
-  
-  Um C#- oder Python-Kenntnisse zu erlangen, führen Sie die kostenlosen Schritte aus [Machen Sie Ihre ersten Schritte mit C#](/learn/paths/csharp-first-steps/) oder [Machen Sie Ihre ersten Schritte mit Python](/learn/paths/python-first-steps/) nehmen Sie den Lernpfad vor dem Besuch des Kurses.
-  
-  Wenn Sie mit künstlicher Intelligenz noch nicht vertraut sind und einen Überblick über die KI-Funktionen in Azure erhalten möchten, sollten Sie die Zertifizierung [Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals) abschließen, bevor Sie diese erwerben.
-outlineSection: |-
-  ### Modul 1&#58; Einführung in KI in Azure;
-  Künstliche Intelligenz (KI) wird zunehmend das Kernstück moderner Apps und Services. In diesem Modul lernen Sie einige allgemeine KI-Funktionen kennen, die Sie in Ihren Apps nutzen können, und wie diese Funktionen in Microsoft Azure implementiert werden. Sie lernen auch einige Überlegungen zum verantwortungsvollen Entwerfen und Implementieren von KI-Lösungen kennen.
-  #### Lektionen 
-  - Einführung in die künstliche Intelligenz 
-  - Künstliche Intelligenz in Azure
-  
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage
-  - Überlegungen zum Erstellen von KI-fähigen Anwendungen beschreiben
-  - Azure-Services für die Entwicklung von KI-Anwendungen identifizieren 
-  
-  
-  ### Modul 2&#58; Entwickeln von KI-Apps mit kognitiven Services Cognitive 
-  Services sind die Kernbausteine für die Integration von KI-Funktionen in Ihre Apps.In diesem Modul erfahren Sie, wie Sie kognitive Services anbieten, sichern, überwachen und bereitstellen.
-  #### Lektionen
-  - Erste Schritte mit kognitiven Services 
-  - Verwenden von kognitiven Services für Unternehmensanwendungen
-
-  #### Lab&#58; Erste Schritte mit kognitiven Services
-
-  #### Lab&#58; Sicherheit kognitiver Services verwalten
-
-  #### Lab&#58; Kognitive Services überwachen
-
-  #### Lab&#58; Einen kognitiven Cognitive Services Container verwenden 
-
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - Kognitive Services in Azure bereitzustellen und zu nutzen
-  - Die Sicherheit kognitiver Services zu verwalten
-  - Kognitive Services zu überwachen 
-  - Cognitive Services Container zu verwenden
- 
- 
-  ### Modul 3&#58; Erste Schritte mit der Verarbeitung natürlicher Sprache
-  NLP (Verarbeitung natürlicher Sprache) ist ein Zweig der künstlichen Intelligenz, der sich mit dem Extrahieren von Erkenntnissen aus der geschriebenen oder gesprochenen Sprache befasst.In diesem Modul lernen Sie, wie Sie mit Hilfe kognitiver Services Text analysieren und übersetzen.
-  #### Lektionen
-  - Text analysieren
-  - Text übersetzen
-
-  #### Lab&#58; Text analysieren
-
-  #### Lab&#58; Text übersetzen
-
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - den kognitiven Service Text Analyse zu verwenden, um Text zu analysieren
-  - den kognitiven Übersetzungs-Service zu verwenden, um Text zu übersetzen
+summary: >-
+  „AI-102 Designing and Implementing an Azure AI Solution“ ist für Softwareentwickler gedacht, die KI-basierte Anwendungen entwickeln möchten, die Azure Cognitive Services, Azure Cognitive Search und Microsoft Bot Framework nutzen. In diesem Kurs wird C# oder Python als Programmiersprache verwendet.
 
 
-  ### Modul 4&#58; Erstellen sprachgesteuerter Anwendungen
-  Viele moderne Apps und Services akzeptieren gesprochene Eingaben und können darauf reagieren, indem sie Text synthetisieren.In diesem Modul setzen Sie Ihre Erkundung der Verarbeitungsfunktionen für natürliche Sprachen fort, indem Sie lernen, wie sprachgesteuerte Anwendungen erstellt werden.
-  #### Lektionen
-  - Spracherkennung und -synthese
-  - Sprachübersetzung
-
-  #### Lab&#58; Sprache erkennen und synthetisieren
-
-  #### Lab&#58; Sprache übersetzen
-
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - den kognitiven Sprachservice zu verwenden, um Sprache zu erkennen und zu synthetisieren
-  - den kognitiven Sprachservice zu verwenden, um Sprache zu übersetzen
+  #### <a name="audience-profile"></a>Zielgruppenprofil
 
 
-  ### Modul 5&#58; Erstellen von Sprachverständnislösungen
-  Um eine Anwendung zu erstellen, die Eingaben in natürlicher Sprache intelligent verstehen und darauf reagieren kann, müssen Sie ein Modell für das Sprachverständnis definieren und trainieren.In diesem Modul erfahren Sie, wie man mit Hilfe des Sprachverständnisses eine App erstellt, mit der Benutzerabsichten anhand von Eingaben in natürlicher Sprache identifiziert werden können.
-  #### Lektionen
-  - Entwicklung einer App mit Sprachverständnis
-  - Veröffentlichung von Nutzung einer App mit Sprachverständnis
-  - Sprachverständnis mit Sprache verwenden
-
-  #### Lab &#58; Erstellen einer Sprachverständnis-App
-
-  #### Lab &#58; Erstellen einer Kunden-App mit Sprachverständnis
-
-  #### Lab &#58; Verwenden der Services für Sprache und Sprachverständnis
-    
-  Nach Abschluss dieses Moduls, sind die Teilnehmer in der Lage&#58;
-  - eine Sprachverständnis-App zu entwickeln
-  - eine Kunden-App mit Sprachverständnis zu entwickeln
-  - Sprachverständnis und Sprache zu integrieren
-    
-    
-  ### Modul 6&#58; Erstellen einer QnA Lösung
-  Eine der häufigsten Arten der Interaktion zwischen Anwendern und einer AI Software ist das Stellen von Fragen in natürlicher Sprache durch den Anwender. KI liefert dann eine intelligente und passende Antwort In diesem Modul erfahren Sie, wie der QnA Maker-Service die Entwicklung dieser Art von Lösung ermöglicht.
-  #### Lektionen 
-  - Erstellen einer QnA-Wissensdatenbank
-  - Veröffentlichen und Verwenden einer QnA-Wissensdatenbank
-  
-  #### Lab&#58; Erstellen einer QnA-Lösung 
-
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - einen QnA Maker zu verwenden, um eine Wissensdatenbank zu erstellen
-  - eine QnA-Wissensdatenbank in einer App oder einem Bot zu verwenden 
+  Softwareentwickler, die am Kompilieren, Verwalten und Bereitstellen von KI-Lösungen interessiert sind, die Azure Cognitive Services, Azure Cognitive Search und Microsoft Bot Framework nutzen. Sie sind mit C# oder Python vertraut und verfügen über Kenntnisse in der Verwendung von REST-basierten APIs zum Kompilieren von maschinellem Sehen, Sprachanalyse, Wissensbeschaffung, intelligenter Suche und Konversations-KI-Lösungen in Azure.
+prerequisitesSection: >-
+  Vor der Teilnahme an diesem Kurs müssen die Teilnehmer folgende Voraussetzungen erfüllen:
 
 
-  ### Modul 7&#58; Konversations-KI und der AzureBot-Service
-  Bots sind die Grundlage für eine zunehmend verbreitete Art der KI-Anwendung, bei der Benutzer Gespräche mit KI-Agenten führen, häufig wie mit einem menschlichen Agenten. In diesem Modul lernen Sie das Microsoft Bot Framework und den Azure Bot Service kennen, die zusammen eine Plattform zum Erstellen und Bereitstellen von Konversationserfahrungen bieten.
-  #### Lektionen
-  - Bot-Grundlagen
-  - Implementierung eines Conversational Bot
+  *   Kenntnisse über Microsoft Azure und die Fähigkeit zum Navigieren im Azure-Portal
 
-  #### Lab&#58; Erstellen eines Bots mit dem Bot Framework SDK
 
-  #### Lab&#58; Erstellen eines Bots mit Bot Framework Composer
+  *   Kenntnisse über C# oder&nbsp;Python
 
-  sind die Teilnehmer in der Lage&#58;
-  - das Bot Framework SDK zu verwenden, um einen Bot zu erstellen
-  - den Bot Framework Composer zu verwenden, um einen Bot zu erstellen
-  
-  
-  ### Modul 8&#58; Erste Schritte mit Computer Vision
-  Computer Vision ist ein Bereich der künstlichen Intelligenz, in dem Softwareanwendungen visuelle Eingaben von Bildern oder Videos interpretieren.In diesem Modul beginnen Sie mit der Erforschung der Computer-Vision, indem Sie lernen, wie man kognitive Services zum Analysieren von Bildern und Videos verwendet.
-  #### Lektionen
-  - Bilder analysieren
-  - Videos analysieren
 
-  #### Lab: Video analysieren
+  *   Erfahrung mit JSON- und REST-Programmiersemantik
+
+
+
+  Schließen Sie zum Erwerben von C#- oder Python-Kenntnissen den kostenlosen Lernpfad &nbsp;[Erste Schritte mit C#](https://docs.microsoft.com/learn/paths/csharp-first-steps/) oder [Erste Schritte mit Python](https://docs.microsoft.com/learn/paths/python-first-steps/) ab, bevor Sie am Kurs teilnehmen.
+
+
+  Wenn Sie noch nicht mit künstlicher Intelligenz vertraut sind und sich einen Überblick über KI-Funktionen in Azure verschaffen möchten, sollten Sie die Zertifizierung [Azure AI Fundamentals](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals) erlangen, bevor Sie diesen Kurs durchführen.
+outlineSection: >-
+  ### <a name="module-1-introduction-to-ai-on-azure"></a>Modul 1: Einführung in KI in Azure
+
+
+  Künstliche Intelligenz (KI) rückt bei modernen Apps und Diensten immer mehr in den Mittelpunkt. In diesem Modul erfahren Sie mehr über einige gängige KI-Funktionen, die Sie in Ihren Apps nutzen können, und lernen, wie diese Funktionen in Microsoft Azure implementiert werden. Darüber hinaus erfahren Sie mehr über einige Überlegungen zum verantwortungsvollen Entwerfen und Implementieren von KI-Lösungen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Einführung in das Thema künstliche Intelligenz
+
+
+  *   Künstliche Intelligenz in Azure
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Beschreiben von Überlegungen zur Erstellung KI-fähiger Anwendungen
+
+
+  *   Identifizieren von Azure-Diensten für die KI-Anwendungsentwicklung
+
+
+
+  ### <a name="module-2-developing-ai-apps-with-cognitive-services"></a>Modul 2: Entwickeln von KI-Apps mit Cognitive Services
+
+
+  Cognitive Services sind die wichtigsten Bausteine für die Integration von KI-Funktionen in Ihre Apps. In diesem Modul erfahren Sie, wie Sie Cognitive Services bereitstellen, schützen, überwachen und bereitstellen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Erste Schritte mit Cognitive Services
+
+
+  *   Verwenden von Cognitive Services für Unternehmensanwendungen
+
+
+
+  #### <a name="lab--get-started-with-cognitive-services"></a>Lab: Erste Schritte mit Cognitive Services
+
 
   ####
 
-  #### Lab: Analysieren von Bildern mit Computer Vision
 
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - den Computer Vision-Service zu verwenden, um Bilder zu analysieren
-  - den Video Indexer zu nutzen, um Videos zu analysieren
+  #### <a name="lab--manage-cognitive-services-security"></a>Lab: Verwalten der Sicherheit von Cognitive Services
 
 
-  ### Modul 9&#58; Entwicklung kundenspezifischer Visionslösungen
-  Während es viele Szenarien gibt, in denen vordefinierte allgemeine Computer Vision-Funktionen nützlich sein können, müssen Sie manchmal ein benutzerdefiniertes Modell mit Ihren eigenen visuellen Daten trainieren.In diesem Modul lernen Sie den Custom Vision-Service kennen und erfahren, wie Sie damit benutzerdefinierte Bildklassifizierungs- und Objekterkennungsmodelle erstellen.
-  
-  #### Lektionen
-  - Bildklassifizierung
-  - Objekterkennung
-
-  #### Lab&#58; Klassifizieren von Bildern mit benutzerdefiniertem Sehen
-
-  #### Lab&#58; Erkennen von Objekten in Bildern mit benutzerdefiniertem Sehen
-
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - den Custom Vision-Service zu verwenden, um Bildklassifizierung zu implementieren
-  - den Custom Vision-Service zu verwenden, um Objekterkennung zu implementieren
+  ####
 
 
-  ### Modul 10&#58; Gesichter erkennen, analysieren und erkennen
-  Gesichtserkennung, -analyse und -erkennung sind gängige Computer-Vision-Szenarien. In diesem Modul lernen Sie den Benutzer kognitiver Services kennen, mit denen man menschliche Gesichter identifiziert.
-    
-  #### Lektionen
-  - Erkennen von Gesichtern mit dem Computer Vision Service
-  - Verwenden des Gesichts-Service
-
-  #### Lab&#58; Erkennen, Analysieren und Erkennen von Gesichtern
-
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - Gesichter mit dem Computer Vision-Service zu erkennen
-  - Gesichter mit dem Gesichtsservice zu erkennen, zu analysieren und zu erkennen 
+  #### <a name="lab--monitor-cognitive-services"></a>Lab: Überwachen von Cognitive Services
 
 
-  ### Modul 11&#58; Lesen von Text in Bildern und Dokumenten
-  Die optische Zeichenerkennung (OCR) ist ein weiteres gängiges Computer-Vision-Szenario, bei dem die Software Text aus Bildern oder Dokumenten extrahiert. In diesem Modul lernen Sie kognitive Services kennen, mit denen Sie Text in Bildern, Dokumenten und Formularen erkennen und lesen können.
-  #### Lektionen 
-  - Lesen von Text mit dem Computer Vision Service
-  - Extrahieren von Informationen aus Formularen mit dem Formularerkennungsdienst
+  ####
 
-  #### Lab&#58; Lesen Sie Text in Bildern
 
-  #### Lab&#58; Daten aus Formularen extrahieren
+  #### <a name="lab--use-a-cognitive-services-container"></a>Lab: Verwenden eines Cognitive Services-Containers
 
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - den Computer Vision-Service zu verwenden, um Text in Bildern und Dokumenten zu lesen
-  - den Formularerkennungsservice zu verwenden, um Daten aus digitalen Formularen zu extrahieren
-  
-  
-  ### Modul 12&#58; Erstellen einer Knowledge Mining-Lösung
-  Letztendlich beinhalten viele KI-Szenarien die intelligente Suche nach Informationen, basierend auf Benutzeranfragen. KI-gestütztes Knowledge Mining ist eine zunehmend wichtige Methode, um intelligente Suchlösungen zu entwickeln, die mit Hilfe von KI Erkenntnisse aus großen Repositorien digitaler Daten extrahieren und es Benutzern ermöglichen, diese Erkenntnisse zu finden und zu analysieren.
-    
-  #### Lektionen 
-  - Implementierung einer intelligenten Suchlösung
-  - Entwicklung benutzerdefinierter Fähigkeiten für eine Anreicherungspipeline
-  - Erstellen eines Wissensspeichers 
-  
-  #### Lab&#58; Erstellen einer Azure Cognitive Search-Lösung
-  
-  #### Lab&#58; Erstellen einer benutzerdefinierten Fähigkeit für die Azure Cognitive Search
-    
-  #### Lab&#58; Erstellen eines Wissensspeicher mit Azure Cognitive Search
-    
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  - mit Azure Cognitive Search eine intelligente Suchlösung zu erstellen
-  - eine benutzerdefinierte Fähigkeit in einer Azure Cognitive Search-Anreicherungspipeline zu implementieren
-  - Azure Cognitive Search zu verwenden, um einen Wissensspeicher zu erstellen
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Bereitstellen und Nutzen von Cognitive Services in Azure
+
+
+  *   Verwalten der Sicherheit von Cognitive Services
+
+
+  *   Überwachen von Cognitive Services
+
+
+  *   Verwenden eines Cognitive Services-Containers
+
+
+
+  ### <a name="module-3-getting-started-with-natural-language-processing"></a>Modul 3: Erste Schritte mit der Verarbeitung natürlicher Sprache
+
+
+  Verarbeitung natürlicher Sprache (Natural Language Processing, NLP) ist ein Teilbereich von künstlicher Intelligenz, der sich mit dem Extrahieren von Erkenntnissen aus geschriebener oder gesprochener Sprache befasst. In diesem Modul erfahren Sie, wie Sie Cognitive Services zum Analysieren und Übersetzen von Text verwenden.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Analysieren von Text
+
+
+  *   Übersetzen von Text
+
+
+
+  #### <a name="lab--translate-text"></a>Lab: Übersetzen von Text
+
+
+  ####
+
+
+  #### <a name="lab--analyze-text"></a>Lab: Analysieren von Text
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Die Textanalyse in Cognitive Services zum Analysieren von Text zu verwenden.
+
+
+  *   Die Textübersetzung in Cognitive Services zum Übersetzen von Text zu verwenden.
+
+
+
+  ### <a name="module-4-building-speech-enabled-applications"></a>Modul 4: Erstellen sprachfähiger Anwendungen
+
+
+  Viele moderne Apps und Dienste akzeptieren gesprochene Eingaben und können durch Synthetisieren von Text reagieren. In diesem Modul untersuchen Sie die Funktionen zur Verarbeitung natürlicher Sprache gründlicher, indem Sie lernen, wie sprachfähige Anwendungen erstellt werden.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Spracherkennung und -synthese
+
+
+  *   Sprachübersetzung
+
+
+
+  #### <a name="lab--recognize-and-synthesize-speech"></a>Lab: Erkennen und Synthetisieren von Sprache
+
+
+  ####
+
+
+  #### <a name="lab--translate-speech"></a>Lab: Übersetzen von Sprache
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Den kognitiven Speech-Dienst zum Erkennen und Synthetisieren von Sprache zu verwenden.
+
+
+  *   Den kognitiven Speech-Dienst zum Übersetzen von Sprache zu verwenden.
+
+
+
+  ### <a name="module-5-creating-language-understanding-solutions"></a>Modul 5: Erstellen von Language Understanding-Lösungen
+
+
+  Zum Erstellen einer Anwendung, die Eingaben in natürlicher Sprache intelligent verstehen und darauf reagieren kann, müssen Sie ein Modell für Language Understanding definieren und trainieren. In diesem Modul erfahren Sie, wie Sie den Language Understanding-Dienst verwenden, um eine App zu erstellen, mit der Benutzerabsichten anhand von Eingaben in natürlicher Sprache identifiziert werden können.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Erstellen einer Language Understanding-App
+
+
+  *   Veröffentlichen und Verwenden einer Language Understanding-App
+
+
+  *   Verwenden von Language Understanding mit Speech
+
+
+
+  #### <a name="lab--create-a-language-understanding-client-application"></a>Lab: Erstellen einer Language Understanding-Clientanwendung
+
+
+  ####
+
+
+  #### <a name="lab--create-a-language-understanding-app"></a>Lab: Erstellen einer Language Understanding-App
+
+
+  ####
+
+
+  #### <a name="lab--use-the-speech-and-language-understanding-services"></a>Lab: Verwenden des Speech- und Language Understanding-Diensts
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erstellen einer Language Understanding-App
+
+
+  *   Erstellen einer Clientanwendung für Language Understanding
+
+
+  *   Integrieren von Language Understanding und Speech
+
+
+
+  ### <a name="module-6-building-a-qna-solution"></a>Modul 6: Erstellen einer QnA-Lösung
+
+
+  Eine der gängigsten Interaktionsarten zwischen Benutzern und KI-Software-Agents besteht darin, dass Benutzer Fragen in natürlicher Sprache übermitteln und der KI-Agent eine intelligente, passende Antwort zurückgibt. In diesem Modul erfahren Sie, wie der QnA Maker-Dienst die Entwicklung dieser Art von Lösung ermöglicht.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Erstellen einer QnA-Wissensdatenbank
+
+
+  *   Veröffentlichen und Verwenden einer QnA-Wissensdatenbank
+
+
+
+  #### <a name="lab--create-a-qna-solution"></a>Lab: Erstellen einer QnA-Lösung
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Verwenden von QnA Maker zum Erstellen einer Wissensdatenbank
+
+
+  *   Verwenden einer QnA-Wissensdatenbank in einer App oder einem Bot
+
+
+
+  ### <a name="module-7-conversational-ai-and-the-azure-bot-service"></a>Modul 7: Dialogorientierte KI und Azure Bot Service
+
+
+  Bots sind die Grundlage für eine zunehmend verbreitete Art von KI-Anwendungen, bei denen Benutzer häufig wie mit einem menschlichen Mitarbeiter Unterhaltungen mit KI-Agents führen. In diesem Modul erfahren Sie mehr über Microsoft Bot Framework und Azure Bot Service, die zusammen eine Plattform zum Erstellen und Bereitstellen von Unterhaltungsfunktionen bieten.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Bot-Grundlagen
+
+
+  *   Implementieren eines Konversationsbots
+
+
+
+  #### <a name="lab--create-a-bot-with-the-bot-framework-sdk"></a>Lab: Erstellen eines Bots mit dem Bot Framework SDK
+
+
+  ####
+
+
+  #### <a name="lab--create-a-bot-with-bot-framework-composer"></a>Lab: Erstellen eines Bots mit Bot Framework Composer
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Verwenden des Bot Framework SDK zum Erstellen eines Bots
+
+
+  *   Verwenden von Bot Framework Composer zum Erstellen eines Bots
+
+
+
+  ### <a name="module-8-getting-started-with-computer-vision"></a>Modul 8: Erste Schritte mit maschinellem Sehen
+
+
+  Maschinelles Sehen ist ein Bereich der künstlichen Intelligenz, in dem Softwareanwendungen visuelle Eingaben aus Bildern oder Videos interpretieren. In diesem Modul beginnen Sie mit der Untersuchung des maschinellen Sehens, indem Sie lernen, wie Sie Cognitive Services zum Analysieren von Bildern und Videos verwenden.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Analysieren von Bildern
+
+
+  *   Analysieren von Videos
+
+
+
+  #### <a name="lab--analyze-video"></a>Lab: Analysieren von Videos
+
+
+  ####
+
+
+  #### <a name="lab--analyze-images-with-computer-vision"></a>Lab: Analysieren von Bildern mit maschinellem Sehen
+
+
+  ####
+     *
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Den Dienst für maschinelles Sehen zum Analysieren von Bildern zu verwenden.
+
+
+  *   Video Analyzer zum Analysieren von Videos zu verwenden.
+
+
+
+  ### <a name="module-9-developing-custom-vision-solutions"></a>Modul 9: Entwickeln von Custom Vision-Lösungen
+
+
+  Es gibt zwar viele Szenarien, in denen vordefinierte allgemeine Funktionen für maschinelles Sehen nützlich sein können, manchmal müssen Sie jedoch ein benutzerdefiniertes Modell mit Ihren eigenen visuellen Daten trainieren. In diesem Modul untersuchen Sie den Custom Vision-Dienst und erfahren, wie Sie damit benutzerdefinierte Bildklassifizierungs- und Objekterkennungsmodelle erstellen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Bildklassifizierung
+
+
+  *   Objekterkennung
+
+
+
+  #### <a name="lab--classify-images-with-custom-vision"></a>Lab: Klassifizieren von Bildern mit Custom Vision
+
+
+  ####
+
+
+  #### <a name="lab--detect-objects-in-images-with-custom-vision"></a>Lab: Erkennen von Objekten in Bildern mit Custom Vision
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Verwenden des Custom Vision-Diensts zum Implementieren der Bildklassifizierung
+
+
+  *   Verwenden des Custom Vision-Diensts zum Implementieren der Objekterkennung
+
+
+
+  ### <a name="module-10-detecting-analyzing-and-recognizing-faces"></a>Modul 10: Erkennen, Analysieren und Wiedererkennen von Gesichtern
+
+
+  Gesichtserkennung, -analyse und -erkennung sind gängige Szenarien für maschinelles Sehen. In diesem Modul untersuchen Sie die Verwendung von Cognitive Services, um menschliche Gesichter zu identifizieren.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Erkennen von Gesichtern mit dem Dienst für maschinelles Sehen
+
+
+  *   Verwenden des Gesichtserkennungsdiensts
+
+
+
+  #### <a name="lab--detect-analyze-and-recognize-faces"></a>Lab: Erkennen, Analysieren und Wiedererkennen von Gesichtern
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erkennen von Gesichtern mit dem Dienst für maschinelles Sehen
+
+
+  *   Erkennen, Analysieren und Wiedererkennen von Gesichtern mit dem Gesichtserkennungsdienst
+
+
+
+  ### <a name="module-11-reading-text-in-images-and-documents"></a>Modul 11: Lesen von Text in Bildern und Dokumenten
+
+
+  Die optische Zeichenerkennung (Optical Character Recognition, OCR) ist ein weiteres gängiges Szenario für maschinelles Sehen, bei dem Software Text aus Bildern oder Dokumenten extrahiert. In diesem Modul untersuchen Sie Cognitive Services-Dienste, die zum Erkennen und Lesen von Text in Bildern, Dokumenten und Formularen verwendet werden können.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Lesen von Text mit dem Dienst für maschinelles Sehen
+
+
+  *   Extrahieren von Informationen aus Formularen mit dem Formularerkennungsdienst
+
+
+
+  #### <a name="lab--read-text-in-images"></a>Lab: Lesen von Text in Bildern
+
+
+  ####
+
+
+  #### <a name="lab--extract-data-from-forms"></a>Lab: Extrahieren von Daten aus Formularen
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Lesen von Text in Bildern und Dokumenten mit dem Dienst für maschinelles Sehen
+
+
+  *   Verwenden des Formularerkennungsdiensts zum Extrahieren von Daten aus digitalen Formularen
+
+
+
+  ### <a name="module-12-creating-a-knowledge-mining-solution"></a>Modul 12: Erstellen einer Wissensbeschaffungslösung
+
+
+  Letztendlich umfassen viele KI-Szenarien eine intelligente Suche nach Informationen basierend auf Benutzerabfragen. KI-gestützte Wissensbeschaffung ist eine zunehmend wichtige Methode, intelligente Suchlösungen zu erstellen, die KI verwenden, um Erkenntnisse aus großen Repositorys mit digitalen Daten zu gewinnen und Benutzern zu ermöglichen, diese Erkenntnisse zu finden und zu analysieren.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Implementieren einer intelligenten Suchlösung
+
+
+  *   Entwickeln benutzerdefinierter Skills für eine Anreicherungspipeline
+
+
+  *   Erstellen eines Wissensspeichers
+
+
+
+  #### <a name="lab--create-a-custom-skill-for-azure-cognitive-search"></a>Lab: Erstellen eines benutzerdefinierten Skills für Azure Cognitive Search
+
+
+  ####
+
+
+  #### <a name="lab--create-an-azure-cognitive-search-solution"></a>Lab: Erstellen einer Azure Cognitive Search-Lösung
+
+
+  ####
+
+
+  #### <a name="lab--create-a-knowledge-store-with-azure-cognitive-search"></a>Lab: Erstellen eines Wissensspeichers mit Azure Cognitive Search
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erstellen einer intelligenten Suchlösung mit Azure Cognitive Search
+
+
+  *   Implementieren eines benutzerdefinierten Skills in einer Azure Cognitive Search-Anreicherungspipeline
+
+
+  *   Verwenden von Azure Cognitive Search zum Erstellen eines Wissensspeichers

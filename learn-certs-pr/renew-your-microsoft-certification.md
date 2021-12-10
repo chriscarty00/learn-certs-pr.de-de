@@ -1,7 +1,7 @@
 ---
-title: Erneuern Sie Ihre Microsoft Zertifizierung | Microsoft Docs
-description: Erneuern Sie Ihre Microsoft Zertifizierung 
-documentationcenter: NA 
+title: Verlängern Ihrer Microsoft-Zertifizierung | Microsoft-Dokumentation
+description: Verlängern Ihrer Microsoft-Zertifizierung
+documentationcenter: NA
 author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
@@ -9,119 +9,95 @@ ms.workload: NA
 ms.date: 12/15/2020
 ms.author: msulliv
 ms.prod: non-product-specific
+ms.openlocfilehash: f433460936531892aaa7f43073c097a5b23712bf
+ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 09/14/2021
+ms.locfileid: "132105434"
 ---
-# Erneuern Sie Ihre Microsoft Zertifizierung
+# <a name="renew-your-microsoft-certification"></a>Verlängern Ihrer Microsoft-Zertifizierung
 
-Microsoft Certifications validieren, dass Sie über entsprechende Fähigkeiten und Kenntnisse verfügen, die für die erfolgreiche Ausübung von Aufgaben in einem modernen digitalen Unternehmen erforderlich sind. Zertifizierungen können Karrierechancen eröffnen und Ihre Fähigkeit demonstrieren, die digitale Transformation Ihres Unternehmens zu unterstützen. Angesichts der Geschwindigkeit, mit der sich Cloud -Technologien weiterentwickeln, ist es wichtig, dass Sie Ihre Kenntnisse auf dem neuesten Stand und Ihre Zertifizierung aktiv halten.
+Mit Microsoft-Zertifizierungen wird nachgewiesen, dass Sie über entsprechende Qualifikationen und Kenntnisse verfügen, die für die erfolgreiche Ausfüllung von Positionen in einem modernen digitalen Unternehmen erforderlich sind. Zertifizierungen können Karrierechancen eröffnen und Ihre Fähigkeit demonstrieren, die digitale Transformation Ihres Unternehmens zu unterstützen. Aufgrund der Geschwindigkeit, mit der sich die Cloudtechnologie weiterentwickelt, ist es wichtig, dass Sie Ihre Qualifikationen auf dem neuesten Stand und Ihre Zertifizierung aktiv halten.
 
-Am 15. Dezember 2020 hat Microsoft [einen neuen Ansatz](https://aka.ms/CertRenewalBlog) eingeführt, um Lernenden zu helfen, auf dem neuesten Stand zu bleiben. Diejenigen, die eine aktive Zertifizierung haben, die innerhalb von sechs Monaten abläuft, können ihre Zertifizierung jährlich  kostenfrei erneuern -  durch Bestehen einer Erneuerungsprüfung auf Microsoft Learn.
+Am 15. Dezember 2020 hat Microsoft einen [neuen Ansatz eingeführt](https://aka.ms/CertRenewalBlog), mit dem Lernende auf dem aktuellen Stand bleiben können. Personen mit einer aktiven Zertifizierung, die innerhalb von sechs Monaten abläuft, können ihre Zertifizierung jährlich kostenlos verlängern, indem sie bei Microsoft Learn einen Verlängerungstest bestehen.
 
-## Zertifizierungserneuerungsplan
+## <a name="benefits-of-renewing-your-certification"></a>Vorteile der Verlängerung Ihrer Zertifizierung
 
-Ca. sechs Monate nach Einführung rollenbasierter und spezieller Zertifizierungen werden entsprechende Erneuerungen und Sammlungen von Lernmodulen auf Microsoft Learn zur Verfügung gestellt. Diese Erneuerungbewertungen werden genau wie die Zertifizierungsprüfungen aktualisiert.
+- Behalten Sie Ihre Microsoft-Zertifizierung, indem Sie auf eine Mentalität des kontinuierlichen Lernens setzen, und halten Sie Ihre Qualifikationen ohne weitere Kosten auf dem aktuellen Stand.
+- Überprüfen Sie Ihre Qualifikationen anhand der neuesten Technologieupdates, die für Ihre Position relevant sind.
+- Verlängern Sie Ihre Zertifizierung, ohne dass Sie dafür bezahlen oder Prüfungen bestehen müssen.
 
-Wenn Sie berechtigt sind, Ihre Zertifizierung zu erneuern, werden auf der E-Mail -Adresse verständigt, die mit Ihrer Microsoft-Zertifizierungs-ID (MCID) verlinkt ist. Sie bekommen dann bis zu vier Erinnerungs-E-Mails, bevor Ihre Zertifizierung abläuft. Nachdem Sie Ihre Zertifizierung erneuert haben, bekommen Sie keine Erinnerungsschreiben mehr, bis es wieder Zeit zum Erneuern ist.
+## <a name="certification-renewal-requirements"></a>Anforderungen bei der Verlängerung einer Zertifizierung
 
-Die ersten verfügbaren Verlängerungsbewertungen sind hier aufgelistet. Diese werden in der Reihenfolge geplant, in der die Berechtigung der einzelnen Teilnehmer für Verlängerungen geöffnet wird. Teilnehmer haben Anspruch auf Verlängerungen innerhalb von sechs Monaten vor Ablauf ihrer Zertifizierung. Bitte überprüfen Sie diese Seite auf Aktualisierungen/Änderungen zur Liste.
+- Wenn Sie eine gültige rollenbasierte oder spezielle Microsoft-Zertifizierung besitzen, die innerhalb von ca. sechs Monaten abläuft, können Sie sie verlängern.
+- Damit Ihre Zertifizierung verlängert wird, müssen Sie den zugehörigen Test bei Microsoft Learn bestehen, _bevor_ die Zertifizierung abläuft.
+- Das Bestehen des Verlängerungstests bei Microsoft Learn ist die einzige Möglichkeit, wie Sie eine Zertifizierung verlängern können. Sie können Ihre Zertifizierung nicht erneuern, indem Sie eine Prüfung ablegen, auch wenn es sich um eine neue oder aktualisierte Version der Prüfung handelt, die Sie ursprünglich abgelegt haben, um die Zertifizierung zu erhalten. Wenn Sie zum Beispiel die Prüfung AZ-103 bestanden haben, um sich die Zertifizierung „Microsoft Azure-Administrator“ zu verdienen, haben Sie nicht die Möglichkeit, die neue Prüfung AZ-104 zu absolvieren und zu bestehen, um Ihre Zertifizierung zu verlängern. Sie müssen den Verlängerungstest bei Microsoft Learn bestehen, um Ihre Zertifizierung zu verlängern. Es gibt keine Ausnahmen von dieser Richtlinie.
 
-| Verlängerungsbewertung verfügbar März 2021 |
-| --- |
-| Microsoft Certified: Azure Administrator Associate |
-| Microsoft Certified: Azure Developer Associate |
-| Microsoft Certified: Azure Security Engineer Associate |
-| Microsoft Certified: DevOps Engineer Expert |
-| Microsoft Certified: Azure Solutions Architect Expert |
-| Microsoft Certified: Azure AI Engineer Associate |
-| Microsoft Certified: Azure Data Engineer Associate |
-| Microsoft Certified: Azure Data Scientist Associate |
-| Microsoft 365 Certified: Modern Desktop Administrator Associate |
-| Microsoft 365 Certified: Messaging Administrator Associate |
-| Microsoft 365 Certified: Security Administrator Associate |
-| Microsoft 365 Certified: Enterprise Administrator Expert |
-| Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate |
+## <a name="how-to-renew-your-certification"></a>Verlängern Ihrer Zertifizierung
 
-## Vorteile der Erneuerung Ihrer Zertifizierung
+- In Ihrem [Zertifizierungsdashboard](https://aka.ms/CertDashboard) können Sie ermitteln, für welche Ihrer Zertifizierungen die Verlängerung möglich ist.
+- Stellen Sie sicher, dass Ihr Zertifizierungsprofil mit Ihrem Dokumentationsprofil bei Microsoft Learn verknüpft ist.
+- Wenn Sie zu einer Verlängerung berechtigt sind, erhalten Sie eine E-Mail-Benachrichtigung mit einem Link zum Test bei Microsoft Learn.
+- Wenn Sie den Onlinetest bestehen, wird Ihre Zertifizierung ab dem aktuellen Ablaufdatum um ein weiteres Jahr verlängert.
+- Als Vorbereitung auf den Test können Sie Ihre Qualifikationen erweitern, indem Sie die Sammlung mit den kostenlosen Modulen für eigenverantwortliches Lernen verwenden. Erkunden Sie die verfügbaren Module, die auf der Seite für die Zertifizierungsverlängerung jeweils zugeordnet sind.
 
-- Halten Sie Ihre Microsoft Zertifizierung mit einer Weiterbildungseinstellung aufrecht und halten Sie Ihre Fähigkeiten kostenlos auf Stand.
-- Validieren Sie Ihre Fähigkeiten mit den neuesten für die jeweilige Aufgabe einschlägigen Technologie-Updates.
-- Erneuern Sie Ihre Zertifizierung, ohne dafür zahlen und eine Prüfung ablegen zu müssen.
+## <a name="frequently-asked-questions"></a>Häufig gestellte Fragen
 
-## Zertifizierungserneuerungs-Anforderungen
+Weitere Informationen finden Sie unter den häufig gestellten Fragen zur Verlängerung von Microsoft-Zertifizierungen.
 
-- Wenn Sie eine gültige rollenbasierte oder spezielle Microsoft Zertifizierung haben, die in ca. sechs Monaten abläuft, können Sie diese erneuern.
-- Zum Erneuern Ihrer Zertifizierung legen Sie die entsprechende Prüfung bei Microsoft Learn ab, _bevor_ Ihre Zertifizierung abläuft.
-- Das Bestehen der Erneuerungsprüfung auf Microsoft Learn ist die einzige Möglichkeit, eine Zertifizierung zu erneuern. Sie können Ihre Zertifizierung nicht erneuern, indem Sie eine Prüfung ablegen, auch wenn es sich um eine neue oder aktualisierte Version der Prüfung handelt, die Sie ursprünglich abgelegt haben, um die Zertifizierung zu erhalten. Wenn Sie zum Beispiel AZ-103 abgelegt haben, um Ihre Microsoft Azure Administrator-Zertifizierung zu erhalten, können Sie die neue Prüfung AZ-104 nicht ablegen und bestehen, um Ihre Zertifizierung zu erneuern. Sie müssen die Erneuerungsprüfung auf Microsoft Learn bestehen, um Ihre Zertifizierung zu erneuern. Es gibt keine Ausnahmen von dieser Richtlinie.
+1. **Kann ich meine Zertifizierung verlängern, bevor ich die Benachrichtigung über die Berechtigung erhalten habe?**
 
-## Wie Sie Ihre Zertifizierung erneuern
+    Nein. Der Verlängerungstest bei Microsoft Learn ist erst verfügbar, wenn Sie berechtigt sind, also etwa sechs Monate vor dem Ablauf Ihrer Zertifizierung. Sie erhalten von Microsoft dann eine E-Mail-Benachrichtigung mit dem Hinweis, dass der Verlängerungstest verfügbar ist.
 
-- Um herauszufinden, welche Zertifizierungen ihnen diesbezüglich zur Verfügung stehen, gehen Sie auf Ihr [Zertifizierungs- Dashboard](https://aka.ms/CertDashboard).
-- Gehen Sie sicher, dass Ihr Zertifizierungsprofil mit Ihrem Docs Profil auf Microsoft Learn verknüpft ist.
-- Sobald Sie zur Erneuerung zugelassen sind, erhalten Sie eine E-Mail-Benachrichtigung, die sie zur Prüfung führt, die auf Microsoft Learn zur Verfügung gestellt wird.
-- Wenn Sie die Online-Prüfung bestehen, wird Ihre Zertifizierung ab dem aktuellen Ablaufdatum um ein weiteres Jahr verlängert.
-- Um sich auf die Prüfung vorzubereiten, können Sie Ihre Fähigkeiten mit einer Sammlung kostenloser, selbstbestimmter Lernmodule voranbringen. Erkunden Sie dazu verfügbare Module auf der Zertifizierungserneuerungs-Seite.
+2. **Ist es für mich obligatorisch, mein Zertifizierungsprofil mit meinem Dokumentationsprofil bei Microsoft Learn zu verknüpfen?**
 
-## Häufig gestellte Fragen
+    Ja. Das Verknüpfen Ihres Zertifizierungsprofils ermöglicht es Ihnen, den Verlängerungstest bei Microsoft Learn durchzuführen, wenn Sie sich innerhalb des Zeitfensters befinden und berechtigt sind. Darüber hinaus verfügen Sie so über eine bessere Personalisierung.
 
-Für weitere Informationen, gehen Sie die FAQ über die Erneuerung von Microsoft Zertifizierungen durch.
+    Im Rahmen des Verlängerungsprozesses müssen Sie dieselben Anmeldeinformationen Ihres persönlichen Microsoft-Kontos sowohl für Ihr Zertifizierungsprofil als auch für Ihr Dokumentationsprofil bei Microsoft Learn nutzen. Beachten Sie hierbei, dass nur ein Zertifizierungsprofil mit einem Dokumentationsprofil verknüpft werden kann. Wenden Sie sich bei Vorhandensein mehrerer Microsoft-Zertifizierungsprofile an [unser Supportteam für die Zertifizierung](https://aka.ms/mcpforum), um diese zusammenführen zu lassen, bevor Sie die Verknüpfung mit Ihrem Dokumentationsprofil durchführen.
 
-1. **Kann ich meine Zertifizierung erneuern, bevor ich eine Benachrichtigung bekommen habe, dass ich dazu berechtigt bin?**
+3. **Was ist der Unterschied zwischen meinem Microsoft-Zertifizierungsprofil und dem Dokumentationsprofil bei Microsoft Learn?**
 
-    Nein, diese Erneuerungsmöglichkeit steht auf Microsoft Learn erst dann zur Verfügung, wenn Sie dazu berechtigt sind – ca. sechs Monate vor Ablauf Ihrer Zertifizierung. Sie werden von Microsoft per E-Mail benachrichtigt und darauf hingewiesen, wann die Erneuerungsprüfung zur Verfügung steht.
+    Ihr Microsoft-Zertifizierungsprofil enthält Ihren Zertifizierungsverlauf bei Microsoft, und Sie greifen mit einem persönlichen Microsoft-Konto darauf zu. Wenn Sie sich für eine Microsoft-Zertifizierungsprüfung registriert oder auf das Zertifizierungsdashboard zugegriffen haben, verfügen Sie über ein Microsoft-Zertifizierungsprofil.
 
-2. **Muss ich unbedingt mein Zertifizierungsprofil mit meinem Docs Profil auf Microsoft Learn verknüpfen?**
+    Ihr Dokumentationsprofil bei Microsoft Learn umfasst den Aktivitätsverlauf für Microsoft Learn, Dokumentation, Fragen und Antworten sowie Codebeispiele. Sie greifen entweder über ein persönliches Microsoft-Konto oder ein Geschäfts-, Schul- oder Unikonto darauf zu.
 
-    Ja, die Verknüpfung Ihres Zertifizierungsprofils ermöglicht Ihnen die Ablegung der Erneuerungsprüfung auf Microsoft Learn, wenn Sie in dem Berechtigungsfenster sind. Außerdem haben Sie dadurch eine mehr personalisierte Erfahrung.
+4. **Ich verfüge über ein Microsoft-Zertifizierungsprofil und über ein Dokumentationsprofil bei Learn, die jeweils einem anderen persönlichen Konto zugeordnet sind. Wie kann ich diese beiden Profile verknüpfen?**
 
-    Für eine optimale Erfahrung empfehlen wir die Verwendung derselben Anmeldedaten für Ihr Zertifizierungsprofil und Ihr Docs Profil auf Microsoft Learn. Bitte beachten, dass nur ein Zertifizierungsprofil mit einem Docs Profil verknüpft werden kann und eine spätere Änderung nicht mehr möglich ist. Wenn Sie also mehrere Zertifizierungsprofile haben, [kontaktieren Sie unser Zertifizierungs-Support-Team](https://aka.ms/mcpforum), um Ihre Microsoft Zertifizierungsprofile zusammenzuführen, bevor Sie sie mit Docs Profil verknüpfen.
-
-3. **Was ist der Unterschied zwischen meinem Zertifizierungsprofil und dem Docs Profil auf Microsoft Learn?**
-
-    Ihr Microsoft Zertifizierungsprofil umfasst die Aufzeichnung Ihrer Zertifizierungshistorie bei Microsoft und Sie greifen darauf mit einem persönlichen Microsoft Account zu. Wenn Sie sich für eine Microsoft Zertifizierungsprüfung angemeldet oder auf das Zertifizierungs-Dashboard zugegriffen haben, besitzen Sie ein Microsoft Zertifizierungsprofil.
-
-    Ihr Docs Profil auf Microsoft Learn beinhaltet die Aktivitätshistorie über Microsoft Learn, Docs, Q&A und Codebeispiele hinweg. Zum Zugriff verwenden Sie entweder einen persönlichen Microsoft Account oder einen Arbeits- oder Schul-Account.
-
-4. **Ich habe ein Microsoft-Zertifizierungsprofil und ein Docs-Profil auf Learn, die jeweils mit verschiedenen persönlichen Accounts verknüpft sind. Wie verbinde ich diese beiden Profile?**
-
-    Bevor Sie ein Microsoft-Zertifizierungsprofil und ein Docs Profil auf Learn miteinander verbinden können, die jeweils unterschiedliche persönliche Accounts verwenden, müssen Sie für beide ein und dasselbe persönliches Account auswählen. Um Ihre Optionen zum Verbinden dieser Accounts zu überprüfen, lesen Sie bitte das Dokument „[Aligning accounts between Certification Profile and Learn Profile](/learn/certifications/aligning-accounts-between-certification-profile-and-learn-profile)“.
+    Bevor Sie ein Microsoft-Zertifizierungsprofil und ein Dokumentationsprofil bei Learn, für die unterschiedliche persönliche Konten genutzt werden, verknüpfen können, müssen Sie ein persönliches Konto auswählen, das für beide Profile verwendet werden soll. Informationen zu den Optionen für die Verknüpfung dieser Konten finden Sie im Dokument [Abstimmen von Konten zwischen Zertifizierungsprofil und Learn-Profil](/learn/certifications/aligning-accounts-between-certification-profile-and-learn-profile).
 
 5. **Meine Zertifizierung ist abgelaufen. Was passiert jetzt?**
 
-   Wenn Ihre Zertifizierung abläuft, müssen Sie die Zertifizierung erneut erwerben, indem Sie die erforderliche(n) Prüfung(en) ablegen. Weitere Informationen finden Sie unter: [Richtlinie zum Ablauf der Zertifizierung.](/learn/certifications/certification-expiration-policy)
+    Wenn Ihre Zertifizierung abläuft, müssen Sie die Zertifizierung erneut erwerben, indem Sie die erforderliche(n) Prüfung(en) ablegen. Weitere Informationen finden Sie unter [Richtlinien zum Ablauf der Zertifizierung](/learn/certifications/certification-expiration-policy).
 
-6. **Kann ich meine Zertifizierung durch Ablegen einer Beta-Prüfung oder durch Wiederholung einer Prüfung, bevor meine Zertifizierung abläuft, erneuern?**
+6. **Kann ich meine Zertifizierung verlängern, indem ich eine Betaprüfung bestehe oder eine Prüfung erneut absolviere, bevor meine Zertifizierung abläuft?**
 
-    Nein. Um Ihre Zertifizierung zu erneuern, müssen Sie die Erneuerungsprüfung bestehen, bevor Ihre Zertifizierung abläuft. Es gibt keine Ausnahmen von dieser Richtlinie.
+    Nein. Sie müssen den Verlängerungstest bestehen, bevor Ihre Zertifizierung abläuft, um diese zu verlängern. Es gibt keine Ausnahmen von dieser Richtlinie.
 
-7. **Besitzen alle Microsoft Zertifizierungen die Erneuerungsoption?**
+7. **Können alle Microsoft-Zertifizierungen verlängert werden?**
 
-    Microsofts rollenbasierte und spezielle Zertifizierungen, die über sechs Monate verfügbar sind, haben diese Erneuerungsoption.
+    Rollenbasierte und spezielle Microsoft-Zertifizierungen, die seit mehr als sechs Monaten verfügbar sind, können verlängert werden.
 
-8. **Muss ich meine Microsoft Grundlagen-Zertifizierung erneuern?**
+8. **Muss ich meine Zertifizierung für „Microsoft-Grundlagen“ verlängern?**
 
-    Nein. Der Zertifizierungserneuerungsprozess gilt nicht für Grundlagen-Zertifizierungen, denn diese laufen nicht ab.
+    Nein. Für die Zertifizierungen zu den Grundlagen gilt der Verlängerungsprozess nicht, da diese nicht ablaufen.
 
-9. **Sind die Erneuerungsprüfungen mit dem regulären Aktualisierungs-Takt abgestimmt?**
+9. **Sind die Verlängerungstests an den Intervallen für die regelmäßige Aktualisierung der Prüfungen ausgerichtet?**
 
-    Ja, Aktualisierungen zu den Prüfungen sind mit den Zertifizierungsprüfungs-Aktualisierungen abgestimmt.
+    Ja. Die Tests sind an den Aktualisierungen der Zertifizierungsprüfungen ausgerichtet.
 
-10. **In welchen Sprachen stehen die Prüfungen zur Verfügung?**
+10. **In welchen Sprachen sind Tests verfügbar?**
 
-    Erneuerungsprüfungen auf Microsoft Learn stehen in denselben Sprachen zur Verfügung wie die entsprechenden Zertifizierungsprüfungen.
+    Verlängerungstests bei Microsoft Learn sind jeweils in derselben Sprache wie die entsprechenden Zertifizierungsprüfungen verfügbar.
 
-11. **Wie oft kann ich die Prüfung wiederholen?**
+11. **Wie oft kann ich den Test wiederholen?**
 
-    Sie können die Prüfung so oft wiederholen, bis Sie sie bestehen, und Sie müssen sie bestehen, bevor Ihre Zertifizierung abläuft. Bestehen Sie sie beim ersten Mal nicht, können Sie gleich wieder antreten. Nach dem zweiten Versuch müssen Sie jedoch 24 Stunden warten, bevor Sie es erneut versuchen.
+    Sie können den Test so oft durchführen, wie dies für Sie erforderlich ist, um ihn zu bestehen. Es ist aber obligatorisch, dass Sie ihn vor dem Ablauf Ihrer Zertifizierung bestehen. Falls Sie den Test beim ersten Mal nicht bestehen, können Sie es sofort noch einmal versuchen. Nach dem zweiten Versuch müssen Sie aber mindestens 24 Stunden warten, bevor Sie weitere Versuche unternehmen.
 
-12. **Wenn ich meine rollenbasierte Expert-Level-Zertifizierung erneuere und eine Associate-Level-Zertifizierung Voraussetzung ist, wird damit automatisch auch meine Associate-Level-Zertifizierung erneuert?**
+12. **Wenn ich meine rollenbasierte Zertifizierung auf Expert-Ebene verlängere, für die eine Zertifizierung auf Associate-Ebene Voraussetzung ist, wird meine Zertifizierung für die Associate-Ebene dann ebenfalls automatisch verlängert?**
 
-    Nein. Jede Zertifizierung ist separat durch Bestehen der entsprechenden Prüfung zu erneuern.
+    Nein. Jede Zertifizierung muss einzeln erneuert werden, indem der zugehörige Test bestanden wird.
 
-13. **Meine Experten-Level-Zertifizierung setzt die Erlangung einer Zertifizierung auf Associate-Level voraus. Wenn die Associate-Level-Zertifizierung abläuft, läuft dann auch mein Experten-Level automatisch ab ?**
+13. **Für meine Zertifizierung auf Expert-Ebene muss zunächst eine Zertifizierung auf Associate-Ebene erworben werden. Wenn diese Zertifizierung auf Associate-Ebene abläuft, gilt dies dann automatisch auch für meine Zertifizierung auf Expert-Ebene?**
 
-    Nein, Ihre Expert-Level-Zertifizierung läuft nicht automatisch ab, wenn Ihre Associate-Level-Zertifizierung abläuft. Jede Zertifizierung ist separat durch Bestehen der entsprechenden Prüfung zu erneuern.
+    Nein. Ihre Zertifizierung auf Expert-Ebene läuft nicht automatisch ab, wenn die dafür erforderliche Zertifizierung auf Associate-Ebene abläuft. Jede Zertifizierung muss einzeln erneuert werden, indem der zugehörige Test bestanden wird.

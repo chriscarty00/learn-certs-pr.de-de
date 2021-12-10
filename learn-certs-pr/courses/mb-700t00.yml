@@ -1,17 +1,23 @@
 ### YamlMime:Course
 title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 metadata:
-  title: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
-  description: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
+  title: 'Kurs MB-700T00--A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
+  description: 'Kurs MB-700T00--A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
+  ms.openlocfilehash: ef63f86de8c40e05f9796ec662c66a53eb9f971a
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107242"
 uid: course.mb-700t00
-courseNumber: 'MB-700T00-A'
+courseNumber: MB-700T00
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Die Aufgaben verstehen, die vom Lösungsarchitekten für die Implementierung von Dynamics erwartet werden
-- skill: Vervollständigen Sie die Blaupausen-Artefakte-
-- skill: Wissen, wo Sie technische Informationen finden können, um die Fragen ihrer Kunden zu beantworten
-learningPartnersLink: /learn/certifications/partners
+- skill: Verstehen der Aufgaben, die vom Lösungsarchitekten für die Dynamics-Implementierung erwartet werden
+- skill: Abschließen der Blaupausenartefakte für die Lösung
+- skill: Erfahren, wo Sie technische Informationen finden, um Fragen von Kunden zu beantworten
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -22,454 +28,681 @@ products:
 - dynamics-365
 exams:
 - uid: exam.mb-700
-summary: 
-  Dieser Kurs wurde für diejenigen entwickelt, die Lösungsarchitekten werden möchten, und auch diejenigen, die neu in dieser Rolle sind. Dieser Kurs bietet technische Informationen zu Anwendungsarchitektur und technischen Kompetenzen zum Einstieg in diese Rolle. Dieser Kurs behandelt nicht die für diese Rolle erforderlichen Branchen- und Lieferkompetenzen.\n#### Zielgruppenprofil
+summary: >-
+  Dieser Kurs richtet sich sowohl an diejenigen, die die Rolle des Lösungsarchitekten anstreben, als auch an diejenigen, die neu in dieser Rolle sind. Dieser Kurs bietet technische Informationen zu Anwendungsarchitektur und technischen Fertigkeiten zum Einstieg in diese Rolle. Dieser Kurs deckt nicht die für diese Rolle erforderlichen gewerblichen Kompetenzen und Lieferfähigkeiten ab.
 
-  Die Zielgruppe dieses Kurses sollte bereits Erfahrung mit funktionaler oder technischer Ausrichtung in Dynamics 365 haben&#58;Finanz- und Betriebsanwendungen. In erster Linie für diejenigen, die eine Rolle als Lösungsarchitekt anstreben.
-prerequisitesSection: "Sie müssen die folgenden Lernpfade absolvieren, bevor Sie an dieser von einem Dozenten geleiteten Schulung teilnehmen&#58;
 
-  [Architekt-Lösungen für Dynamics 365 und Power Platform – Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/)&nbsp;3 Std. 57 Min.
+  #### <a name="audience-profile"></a>Zielgruppenprofil
 
-  [Verwenden Sie Success by Design für Unified Operations-App-Lösungen – Erfahren Sie mehr | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/use-success-design-unified-operations/)&nbsp;3 Std. 30 Min."
-outlineSection: |-
-  ### Modul 1&#58; Die Rolle des Architekten
 
-  In diesem Modul lernen Sie die Rolle des Lösungsarchitekten kennen. Es wird Ihnen helfen, die wichtigsten Kompetenzen zu verstehen, die Sie für diese Rolle benötigen.
+  Teilnehmer an diesem Kurs sollten bereits Erfahrung mit funktionalen oder technischen Schwerpunkten in Dynamics 365: Finance and Operations Applications haben. Der Kurs ist in erster Linie für diejenigen gedacht, die die Rolle als Lösungsarchitekt anstreben.
+prerequisitesSection: >-
+  Sie müssen die folgenden Lernpfade absolvieren, bevor Sie an dieser Präsenzschulung teilnehmen:
 
-  #### Lektionen
 
-  * Die Rolle des Lösungsarchitekten
+  [Lösungsarchitekt für Dynamics 365 und Microsoft Power Platform](https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/)&nbsp;3 Std. 57 Min.
 
-  #### Labor&#58; Präsenzübungen
 
-  ####
+  [Success by Design for Dynamics 365-Lösungen verwenden](https://docs.microsoft.com/en-us/learn/paths/use-success-design-unified-operations/)&nbsp;3 Std. 30 Min.
+outlineSection: >-
+  ### <a name="module-1-the-architect-role"></a>Modul 1: Die Architektenrolle
 
-  * Übung | Gruppenübung
 
-  * Übung | Einzelübung
+  In diesem Modul erhalten Sie eine Einführung in die Rolle des Lösungsarchitekten. Es hilft Ihnen, die wichtigsten Qualifikationen zu verstehen, die für diese Rolle erforderlich sind.
 
-  Nach Abschluss dieses Moduls sollten die Teilnehmer in der Lage sein,
 
-  * die Kenntnisse aus den Online-Inhalten zum Lösungsarchitekten aufzufrischen.
+  #### <a name="lessons"></a>Lektionen
 
-  * Nennen Sie die Kompetenzen, die ein Lösungsarchitekt benötigt
 
-  ### Modul 2&#58; Interaktionen mit FastTrack verwalten
+  *   Die Rolle des Lösungsarchitekten
 
-  Dieses Modul bietet eine Einführung in FastTrack und wie Sie während der Dynamics-Implementierung damit interagieren.
 
-  #### Lektionen
+  #### <a name="lab--classroom-exercises"></a>Lab: Classroom-Übungen
 
-  * FastTrack kennenlernen
-
-  * FastTrack-Vorlagen optimal nutzen
-
-  Nach Abschluss dieses Moduls sollten die Teilnehmer in der Lage sein&#58; 
-
-  * das Wertversprechen von FastTrack zu identifizieren
-
-  * FastTrack-Engagementarten und Personalrollen zu identifizieren
-
-  * den Umfang und die Inputs von FastTrack-Workshops für jeden Workshop zu beschreiben
-
-  * die Vorlage für den Lösungskonzept zu nutzen
-
-  * zu lernen, die Checkliste für die Inbetriebnahme auszufüllen
-
-  * zu wissen, wie man ein anerkannter Lösungsarchitekt von FastTrack wird 
-  
-  ### Modul 3&#58; Lösungskonzept
-
-  Dieses Modul hilft Ihnen dabei, sich einen Überblick über Lösungskonzepte im Allgemeinen zu verschaffen. Außerdem dient dieses Modul als Grundlage für die restlichen Module, da Sie in diesem Kurs mehrere Aktivitäten durchführen, um Ihr allererstes Lösungskonzept zu erstellen.
-
-  #### Lektionen
-
-  * Definition und Komponenten des Lösungskonzepts 
-
-  * Projekt-Governance und -Zeitplan 
-
-  * Lösungsarchitektur und Organisationsstruktur
-
-  * Arbeiten mit dem Geschäftsprozesskatalog
-
-  #### Labor &#58; Präsenzübung
 
   ####
 
-  #### Labor &#58; Fallstudie - Teilnehmeraktivität
+
+  *   Übung | Gruppenübung
+
+
+  *   Übung | Einzelübung
+
+
+  Nach Abschluss dieses Moduls sollten Kursteilnehmer Folgendes können:
+
+
+  *   Auffrischen der Kenntnisse, die Sie sich anhand der Onlineinhalte für den Lösungsarchitekten angeeignet haben
+
+
+  *   Auflisten der Qualifikationen, die für einen Lösungsarchitekten erforderlich sind
+
+
+  ### <a name="module-2-manage-interactions-with-fasttrack"></a>Modul 2: Verwalten von Interaktionen mit FastTrack
+
+
+  In diesem Modul werden FastTrack und die Interaktion damit während der Dynamics-Implementierung vorgestellt.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Kennenlernen von FastTrack
+
+
+  *   Optimales Nutzen von FastTrack-Vorlagen
+
+
+  Nach Abschluss dieses Moduls sollten Kursteilnehmer Folgendes können:
+
+
+  *   Ermitteln des Nutzenversprechens von FastTrack
+
+
+  *   Identifizieren von FastTrack-Interaktionsarten und -Personalrollen
+
+
+  *   Beschreiben des FastTrack-Workshop-Umfangs und Eingaben für jeden Workshop
+
+
+  *   Optimales Nutzen der Blaupausenvorlage für die Lösung
+
+
+  *   Ausfüllen der Prüfliste für die Inbetriebnahme
+
+
+  *   Wissen, wie man ein von FastTrack anerkannter Lösungsarchitekt wird
+
+
+  ### <a name="module-3-solution-blueprint"></a>Modul 3: Lösungsblaupause
+
+
+  In diesem Modul erhalten Sie eine Überblick über die Lösungsblaupause im Allgemeinen. Außerdem dient dieses Modul als Grundlage für die restlichen Module, da Sie während dieses Kurses verschiedene Aktivitäten zum Erstellen Ihrer ersten Lösungsblaupause durchführen werden.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Definition und Komponenten der Lösungsblaupause
+
+
+  *   Projektgovernance und -zeitachse
+
+
+  *   Lösungsarchitektur und Organisationsstruktur
+
+
+  *   Arbeiten mit dem Geschäftsprozesskatalog
+
+
+  #### <a name="lab--classroom-exercise"></a>Lab: Classroom-Übung
+
 
   ####
 
-  * Übung | Was ist ein Lösungskonzept?
 
-  * Übung | Komponenten des Lösungskonzepts
+  #### <a name="lab--case-study---student-activity"></a>Lab: Fallstudie – Teilnehmeraktivität
 
-  * Fallstudienartefaktverteilung
-
-  * Teilnehmeraktivität 1 | Programmstrategie
-
-  * Teilnehmeraktivität 2 | Programmstrategie
-
-  * Teilnehmeraktivität 3 | Gesamtlösungsarchitektur beschreiben
-
-  *  Teilnehmeraktivität | Geschäftsprozesse im Lösungsumfang beschreiben
-
-  Nach Abschluss dieses Moduls sollten die Teilnehmer in der Lage sein
-
-  * die Definition des Lösungskonzepts zu verstehen
-
-  * den Zweck des Lösungskonzepts zu beschreiben
-
-  * die wichtigsten Komponenten des Lösungskonzepts zu identifizieren
-
-  * den Lösungsumfang, die Ziele und Herausforderungen zu beschreiben
-
-  * die Mitglieder des Implementierungsteams und das Projektrollen aufzulisten
-
-  * den Projektzeitplan für Implementierung und Rollouts zu beschreiben
-
-  * Änderungsmanagement, Risiken und Eskalationspfad zu beschreiben
-
-  * die gesamte Lösungsarchitektur zu beschreiben
-
-  * das Unternehmen zu beschreiben
-
-  * Details zum Unternehmen bereitzustellen
-
-  * Geschäftsprozesse im Lösungsumfang zu beschreiben
-
-  * funktionale und nichtfunktionale Anforderungen zu verstehen
-
-  * Produktlücken und deren Lösungen zu dokumentieren
-
-  ### Modul 4&#58; Umgebungen, Tools und die Bereitstellungsstrategie definieren
-
-  In diesem Modul werden die verschiedenen Umgebungs- und Bereitstellungsoptionen erläutert. Es ermöglicht Ihnen, eine grundlegende Umgebungsstrategie für die Dynamics-Implementierung zu definieren.
-
-  #### Lektionen
-
-  * Umgebungsplanung verstehen
-
-  * Anwendungslebenszyklus-Management und Bereitstellungsstrategie
-
-  * Verwenden von LCS und Azure DevOps
-
-  #### Labor &#58; Teilnehmeraktivität
 
   ####
 
-  #### Labor &#58; Übung
+
+  *   Übung | Was ist eine Lösungsblaupause?
+
+
+  *   Übung | Komponenten der Lösungsblaupause
+
+
+  *   Fallstudienartefaktverteilung
+
+
+  *   Teilnehmeraktivität 1 | Programmstrategie
+
+
+  *   Teilnehmeraktivität 2 | Programmstrategie
+
+
+  *   Teilnehmeraktivität 3 | Beschreiben der gesamten Lösungsarchitektur
+
+
+  *   Teilnehmeraktivität | Beschreiben der Geschäftsprozesse&nbsp;im&nbsp;Lösungsumfang
+
+
+  Nach Abschluss dieses Moduls sollten Kursteilnehmer Folgendes können:
+
+
+  *   Grundlegendes zur Definition der Lösungsblaupause
+
+
+  *   Beschreiben des Zwecks der Lösungsblaupause
+
+
+  *   Identifizieren der Hauptkomponenten der Lösungsblaupause
+
+
+  *   Beschreiben des Lösungsumfangs, von Zielen und Herausforderungen
+
+
+  *   Auflisten von Implementierungsteammitgliedern und Projektrollen
+
+
+  *   Beschreiben der Projektzeitachse für Implementierung und Rollouts
+
+
+  *   Beschreiben von Change Management, Risiken und Eskalationspfaden
+
+
+  *   Beschreiben der gesamten Lösungsarchitektur
+
+
+  *   Beschreiben der Organisation
+
+
+  *   Angeben von Details zur Organisation
+
+
+  *   Beschreiben von Geschäftsprozessen im Lösungsumfang
+
+
+  *   Grundlegendes zu funktionalen und nicht funktionalen Anforderungen
+
+
+  *   Dokumentieren von Produktlücken und deren Lösungen
+
+
+  ### <a name="module-4-define-environments-tools-and-deployment-strategy"></a>Modul 4: Definieren von Umgebungen, Tools und Bereitstellungsstrategie
+
+
+  In diesem Modul werden die verschiedenen Umgebungs- und Bereitstellungsoptionen erläutert. Dadurch können Sie eine grundlegende Umgebungsstrategie für die Dynamics-Implementierung definieren.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Grundlegendes zur Umgebungsplanung
+
+
+  *   Strategie für die Verwaltung des Anwendungslebenszyklus und der Anwendungsbereitstellung
+
+
+  *   Verwenden von LCS und Azure DevOps
+
+
+  #### <a name="lab--student-activity"></a>Lab: Teilnehmeraktivität
+
 
   ####
 
-  * Übung | Eine Version übernehmen – kontinuierliche Aktualisierungen
 
-  * Übung | Lifecycle-Services nutzen
+  #### <a name="lab--exercise"></a>Lab: Übung
 
-  * Teilnehmeraktivität | Umgebungsplan entwickeln
-
-  Nach Abschluss dieses Moduls sollten die Teilnehmer in der Lage sein
-
-  * allgemeine Konzepte für Cloud-Bereitstellungen zu beschreiben
-
-  * Hauptkonzepte und -typen der Umgebungsplanung
-
-  * den Prozess der Bereitstellung von Produktions- und  Sandbox-Umgebungen zu verstehen
-
-  * die Entwicklung eines Umgebungsplans zu beschreiben
-
-  * die Entwicklung der Bereitstellungsstrategie zu verstehen
-
-  * Anwendung der Lifecycleverwaltung zu definieren
-
-  * ALM-Methoden
-
-  * eine Bereitstellungsstrategie zu definieren
-
-  * Erweiterbarkeitsoptionen zu verstehen
-
-  * Aktualisierungs-Szenarien und -Tools kennenzulernen
-
-  * eine Version zu übernehmen – kontinuierliche Aktualisierungen
-
-  * Azure Devops zu nutzen
-
-  * Lifecycle Services zu nutzen
-
-  * Notfallwiederherstellungsstrategie
-
-  ### Modul 5&#58; Bestimmen der Datenverwaltungsstrategie
-
-  Dieses Modul wird Sie befähigen, die datenbezogenen Themen innerhalb der Dynamics-Implementierung zu verstehen. Es wird Ihnen helfen, eine Datenmigrationsstrategie zu definieren.
-
-  #### Lektionen
-
-  * Überblick über das Datenmanagement
-
-  * Entwicklung einer Datenmigrationsstrategie
-
-  #### Labor &#58; Präsenzübung
 
   ####
 
-  #### Labor &#58; Fallstudie - Teilnehmeraktivität
+
+  *   Übung | Einführen&nbsp;einer Version – kontinuierliche Updates
+
+
+  *   Übung | Nutzen von Lebenszyklusdiensten
+
+
+  *   Teilnehmeraktivität | Entwickeln eines&nbsp;Umgebungsplans
+
+
+  Nach Abschluss dieses Moduls sollten Kursteilnehmer Folgendes können:
+
+
+  *   Beschreiben allgemeiner Konzepte für Cloudbereitstellungen
+
+
+  *   Konzepte und Typen bei der Umgebungsplanung
+
+
+  *   Verstehen des Prozesses zur Bereitstellung von Produktions- und Sandboxumgebungen
+
+
+  *   Beschreiben der Entwicklung eines Umgebungsplans
+
+
+  *   Verstehen der Entwicklung der Bereitstellungsstrategie
+
+
+  *   Definieren der Lebenszyklusverwaltung für die Anwendung
+
+
+  *   ALM-Methoden
+
+
+  *   Definieren einer Bereitstellungsstrategie
+
+
+  *   Verstehen der Erweiterbarkeitsoptionen
+
+
+  *   Kennen der Upgradeszenarien und -tools
+
+
+  *   Einführen einer Version – kontinuierliche Updates
+
+
+  *   Verwenden von Azure DevOps
+
+
+  *   Nutzen von Lebenszyklusdiensten
+
+
+  *   Strategie für die Notfallwiederherstellung
+
+
+  ### <a name="module-5-determine-data-management-strategy"></a>Modul 5: Bestimmen der Datenverwaltungsstrategie
+
+
+  In diesem Modul lernen Sie die datenbezogenen Themen in der Dynamics-Implementierung kennen. Dies hilft Ihnen beim Bestimmen der Datenmigrationsstrategie.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Übersicht über die Datenverwaltung
+
+
+  *   Entwickeln einer Strategie für die Datenmigration
+
+
+  #### <a name="lab--classroom-exercise"></a>Lab: Classroom-Übung
+
 
   ####
 
-  * Übung | Überblick über das Datenmanagement
 
-  * Übung | Datenmigrationsstrategie entwickeln
+  #### <a name="lab--case-study---student-activity"></a>Lab: Fallstudie – Teilnehmeraktivität
 
-  * Teilnehmeraktivität 4 | Datenmigrationsstrategie entwickeln
-
-  Nach Abschluss dieses Moduls sollten die Teilnehmer in der Lage sein
-
-  * einen Überblick über das Datenmanagement zu beschreiben 
-
-  * das Datenmanagement-Framework zu verstehen 
-
-  * die Automatisierung von Datenaufgaben zu nutzen 
-
-  * die Vorgänge zum Verschieben von Datenbanken zu beschreiben
-
-  * das Data-Sharing-Framework zu nutzen 
-
-  * eine Datenmigrationsstrategie zu entwickeln  
-
-  * einen Umstellungsplan zu entwickeln 
-
-  * einen Datenaufbewahrungsplan zu entwickeln 
-
-  ### Modul 6&#58; Integrations- und Schnittstellenstrategien festlegen
-
-  In diesem Modul werden die Integrations- und Schnittstellenthemen behandelt. Das sollte Ihnen helfen, die verfügbaren Optionen und Tools zu verstehen. Es hilft Ihnen bei der Definition Ihrer Integrations- und Schnittstellenstrategie für Dynamics-Implementierungen.
-
-  #### Lektionen
-
-  * Integrationsstrategie entwickeln
-
-  * Integrationsoptionen
-
-  #### Labor &#58; Fallstudie - Teilnehmeraktivität
 
   ####
 
-  #### Labor &#58; Präsenzübungen
+
+  *   Übung | Übersicht über die Datenverwaltung
+
+
+  *   Übung | Entwickeln einer Strategie für die Datenmigration
+
+
+  *   Teilnehmeraktivität 4 | Entwickeln einer Strategie für die Datenmigration
+
+
+  Nach Abschluss dieses Moduls sollten Kursteilnehmer Folgendes können:
+
+
+  *   Beschreiben der Übersicht über die Datenverwaltung
+
+
+  *   Verstehen des Datenverwaltungsframeworks
+
+
+  *   Verwenden der Automatisierung von Datentasks
+
+
+  *   Beschreiben der Vorgänge zur Datenbankverschiebung
+
+
+  *   Verwenden des Frameworks für die Datenfreigabe
+
+
+  *   Entwickeln einer Strategie für die Datenmigration
+
+
+  *   Entwickeln eines Umstellungsplans
+
+
+  *   Entwickeln eines Datenaufbewahrungsplans
+
+
+  ### <a name="module-6-determine-integration-and-interfaces-strategies"></a>Modul 6: Bestimmen von Integrations- und Schnittstellenstrategien
+
+
+  In diesem Modul werden die Integrations- und Schnittstellenthemen behandelt. Es sollte Ihnen helfen, die verfügbaren Optionen und zu verwendenden Tools besser zu verstehen. Darüber hinaus unterstützt es Sie beim Definieren Ihrer Integrations- und Schnittstellenstrategie für Dynamics-Implementierungen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Entwickeln einer Integrationsstrategie
+
+
+  *   Integrationsoptionen
+
+
+  #### <a name="lab--case-study---student-activity"></a>Lab: Fallstudie – Teilnehmeraktivität
+
 
   ####
 
-  * Übung | Integrationsstrategie entwickeln
 
-  * Übung | Integrationsmöglichkeiten
+  #### <a name="lab--classroom-exercises"></a>Lab: Classroom-Übungen
 
-  * Teilnehmeraktivität 5 | Integrationsstrategie entwickeln
 
-  Nach Abschluss dieses Moduls sollten die Teilnehmer in der Lage sein,
+  ####
 
-  * einen Kunden in ein Gespräch über die Vorteile der Beauftragung eines FastTrack-Architekten oder -Teams zu  verwickeln
 
-  * die Vorteile zu beschreiben, wenn das Projektteam die funktionalen Anforderungen vergleicht und bewertet
+  *   Übung | Entwickeln einer Integrationsstrategie
 
-  * die verschiedene Architekturformen zu diskutieren und zu erläutern, die an der Erstellung eines Lösungskonzept beteiligt sind
 
-  ### Modul 7&#58; Sicherheitsarchitektur definieren
+  *   Übung | Integrationsoptionen
+
+
+  *   Teilnehmeraktivität 5 | Entwickeln einer Integrationsstrategie
+
+
+  Nach Abschluss dieses Moduls sollten Kursteilnehmer Folgendes können:
+
+
+  *   Verwickeln eines Kunden in ein Gespräch über die Vorteile, einen FastTrack-Architekten oder ein FastTrack-Team einzubeziehen
+
+
+  *   Beschreiben der Vorteile, wenn das Projektteam die funktionalen Anforderungen vergleicht und bewertet
+
+
+  *   Diskutieren und Erläutern der verschiedenen Architekturformen, die bei der Erstellung einer Lösungsblaupause herangezogen werden
+
+
+  ### <a name="module-7-define-security-architecture"></a>Modul 7: Definieren der Sicherheitsarchitektur
+
 
   Dieses Modul hilft Ihnen, die wichtigen Sicherheitsaspekte für Dynamics-Implementierungen zu verstehen.
 
-  #### Lektionen
 
-  * Wichtige Sicherheitsaspekte
+  #### <a name="lessons"></a>Lektionen
 
-  * Sicherheitsframework
 
-  * Sicherheitsstrategie definieren
+  *   Wichtige Sicherheitsaspekte
 
-  #### Labor &#58; Präsenzübungen
 
-  ####
+  *   Sicherheitsframework
 
-  #### Labor &#58; Fallstudie – Teilnehmeraktivität
 
-  ####
+  *   Definieren der Sicherheitsstrategie
 
-  * Übung | wichtige Sicherheitsaspekte
 
-  * Übung | Sicherheits-Framework
+  #### <a name="lab--classroom-exercises"></a>Lab: Classroom-Übungen
 
-  * Teilnehmeraktivität 6 | Sicherheitsstrategie entwickeln
-
-  Nach Abschluss dieses Moduls sollten die Teilnehmer in der Lage sein
-
-  * Cloud-Sicherheit zu definieren
-
-  * Hauptaspekte der Azure-Rechenzentrumssicherheit zu beschreiben
-
-  * Authentifizierung und Autorisierung zu verstehen 
-
-  * Compliance-Anforderungen zu verstehen  
-
-  * Verschlüsselung zu verstehen
-
-  ### Modul 8&#58; Teststrategie definieren
-
-  Dieses Modul soll Ihnen helfen, eine Teststrategie zu definieren und einen Testplan zu entwickeln. Es führt Sie in die verschiedenen Testarten und Tools ein.
-
-  #### Lektionen
-
-  * Überblick über die Teststrategie
-
-  * Testplanung und -durchführung
-
-  #### Labor &#58; Fallstudie - Teilnehmeraktivität
 
   ####
 
-  #### Labor &#58; Präsenzübungen
+
+  #### <a name="lab--case-study---student-activity"></a>Lab: Fallstudie – Teilnehmeraktivität
+
 
   ####
 
-  * Übung | Überblick über die Teststrategie
 
-  * Übung | Testplanung und -durchführung
+  *   Übung | Wichtige Sicherheitsaspekte
 
-  * Teilnehmeraktivität 7 | Teststrategie entwickeln
 
-  Nach Abschluss dieses Moduls sollten die Teilnehmer in der Lage sein,
+  *   Übung | Sicherheitsframework
 
-  * den Testumfang zu verstehen
 
-  * Lebenszyklus- und Fehlermanagementvon Lösungstests
+  *   Teilnehmeraktivität 6 | Entwickeln einer Sicherheitsstrategie
 
-  * Test-Tools zu beschreiben
 
-  * Rollen, Verantwortlichkeiten und Verwaltung zu testen
+  Nach Abschluss dieses Moduls sollten Kursteilnehmer Folgendes können:
 
-  * eine Testplanung durchzuführen
 
-  * eine Version zu verstehen und Regressionsteststrategie anzuwenden
+  *   Definieren der Cloudsicherheit
 
-  ### Modul 9&#58; Performance-Teststrategie definieren
 
-  Dieses Modul konzentriert sich mehr auf die Performance-Themen. Es wird Ihnen helfen, die Bedeutung von Performance-Themen zu kennen und zu wissen, wie Sie diese Themen mit Ihrem Kunden ansprechen können.
+  *   Beschreiben der wichtigsten Sicherheitsaspekte von Azure-Rechenzentren
 
-  #### Lektionen
 
-  * Auf Leistungsthemen vorbereiten
+  *   Verstehen von Authentifizierung und Autorisierung
 
-  * Leistungstesttools verwenden
 
-  #### Labor &#58; Präsenzübungen
+  *   Verstehen der Complianceanforderungen
 
-  ####
 
-  * Übung | Vorbereitung auf Performance-Themen 
+  *   Verschlüsselung verstehen
 
-  * Übung | Performance-Testtools einsetzen  
 
-  Nach Abschluss dieses Moduls sollten die Teilnehmer in der Lage sein
+  ### <a name="module-8-define-testing-strategy"></a>Modul 8: Definieren der Teststrategie
 
-  * Performance-Ziele und -szenarien zu definieren
 
-  * Performance-Benchmarks und Erfolgskriterien zu definieren
+  Dieses Modul unterstützt Sie dabei, eine Teststrategie zu definieren und einen Testplan zu entwickeln. Ihnen werden die verschiedenen Testtypen und -tools vorgestellt.
 
-  * eine Performance-Teststrategie zu definieren
 
-  * Tools für Performance-Tests zu identifizieren
+  #### <a name="lessons"></a>Lektionen
 
-  * Tools zur Performance-Überwachung zu identifizieren
 
-  ### Modul 10&#58; Geschäftsanalytik und Berichtswesen
+  *   Übersicht über die Teststrategie
 
-  Dieses Modul befasst sich mit den wichtigsten Themen für Berichtswesen und Analytik, die der Lösungsarchitekt benötigt.
 
-  #### Lektionen
+  *   Testplanung und -ausführung
 
-  * Geschäftsanalytik und Berichtswesen implementieren
 
-  #### Labor &#58; Präsenzübungen
+  #### <a name="lab--case-study---student-activity"></a>Lab: Fallstudie – Teilnehmeraktivität
+
 
   ####
 
-  #### Labor &#58; Fallstudie – Teilnehmeraktivität
+
+  #### <a name="lab--classroom-exercises"></a>Lab: Classroom-Übungen
+
 
   ####
 
-  * Übung | Überblick über Berichtswesen und Geschäftsanalyse
 
-  * Teilnehmeraktivität 8 | Analyse-Strategie entwickeln
+  *   Übung | Übersicht über die Teststrategie
 
-  Nach Abschluss dieses Moduls sollten die Teilnehmer in der Lage sein,
 
-  * Berichtswesen- und Analyse-Übersicht zu skizzieren
+  *   Übung | Testplanung und -ausführung
 
-  * native Berichtsoptionen zu beschreiben
 
-  * Geschäftsanalyseberichts-Optionen zu beschreiben
+  *   Teilnehmeraktivität 7 | Entwickeln einer Teststrategie
 
-  * Analyseberichtsoptionen zu identifizieren
 
-  * Berichts- und Analysestrategien zu entwickeln
+  Nach Abschluss dieses Moduls sollten Kursteilnehmer Folgendes können:
 
-  ### Modul 11&#58; Lizenzierung und Support bestimmen
 
-  Dieses Modul soll Ihnen helfen, die Grundlagen von Lizenzierung und Support zu verstehen. Es wird Sie nicht zu einem Experten für dieses Thema machen. Es ermöglicht Ihnen jedoch zu wissen, wo Sie die Informationen finden können, wenn Sie sie benötigen.
+  *   Verstehen des Testumfangs
 
-  #### Lektionen
 
-  * Lizensierungsbewertung verstehen
+  *   Lebenszyklus- und Fehlerverwaltung für Lösungstests
 
-  * Supportoptionen verstehen
 
-  #### Labor &#58; Präsenzübungen
+  *   Beschreiben von Testtools
 
-  ####
 
-  * Übung | Lizensierungsbewertung verstehen
+  *   Testrollen, Zuständigkeiten und Testverwaltung
 
-  * Übung | Support-Optionen verstehen
 
-  Nach Abschluss dieses Moduls sollten die Teilnehmer in der Lage sein,
+  *   Ausführen der Testplanung
 
-  * die Anzahl der Lizenzen zu bewerten 
 
-  * die Anforderungen der Benutzerlizenzierung einzuhalten
+  *   Grundlegendes zur Nutzung einer Version und Einführen der Regressionsteststrategie
 
-  * Support-Optionen während und nach der Implementierung zu verstehen
 
-  * die Support-Strategie zu definieren
+  ### <a name="module-9-define-performance-testing-strategy"></a>Modul 9: Definieren der Strategie für Leistungstests
 
-  ### Modul 12&#58; Go-Live vorbereiten
 
-  Dieses Modul dient dazu, alles zusammenzustellen und Go-Live vorzubereiten. Es wird Ihnen helfen, sich mit der Go-Live-Checkliste vertraut zu machen. Dieses Modul wird auch die wichtigsten Erkenntnisse aus diesem Kurs zusammenfassen und Sie werden gebeten, ein Feedback der Klasse zu geben.
+  Dieses Modul konzentriert sich eher auf die Leistungsthemen. Es hilft Ihnen dabei, die Bedeutung von Leistungsthemen nachzuvollziehen, und Sie erfahren, wie Sie diese Themen mit dem Kunden zusammen angehen können.
 
-  #### Lektionen
 
-  * Komplettes Lösungskonzept
+  #### <a name="lessons"></a>Lektionen
 
-  * Vorbereitung auf Go-Live
 
-  * Klassenzusammenfassung #
+  *   Vorbereiten auf Leistungsthemen
 
-  #### Labor &#58; Präsenzübungen
+
+  *   Verwenden von Leistungstesttools
+
+
+  #### <a name="lab--classroom-exercises"></a>Lab: Classroom-Übungen
+
 
   ####
 
-  * Übung | Go-Live vorbereiten
 
-  Nach Abschluss dieses Moduls sollten die Teilnehmer in der Lage sein,
+  *   Übung | Vorbereiten auf Leistungsthemen&nbsp;
 
-  * das Lösungskonzept fertigzustellen 
 
-  * den Prozess der Go-Live-Bereitschaftsbewertung zu verstehen 
+  *   Übung | Verwenden von Leistungstesttools&nbsp;
 
-  * das Ausfüllen und Einreichen der Checkliste für das Go-Live zu verstehen
 
-  * den Prozess der Bereitstellung der Produktionsumgebung zu beschreiben
+  Nach Abschluss dieses Moduls sollten Kursteilnehmer Folgendes können:
 
-  * Umstellungsaktivitäten und Go-Live zu definieren
 
-  * Feedback zur Klasse zu geben
+  *   Definieren von Leistungszielen und -szenarien
 
-  #### Zusätzliche Lektüre
 
-  Bitte schließen Sie den folgenden Lernpfad ab, bevor Sie an diesem ILT teilnehmen&#58; Architektenlösungen für Dynamics 365 und Power Platform - Learn | Microsoft Docs
+  *   Definieren von Leistungsbenchmarks und Erfolgskriterien
+
+
+  *   Definieren der Strategie für Leistungstests
+
+
+  *   Identifizieren von Tools für Leistungstests
+
+
+  *   Identifizieren von Tools für die Leistungsüberwachung
+
+
+  ### <a name="module-10-business-intelligence-and-reporting"></a>Modul 10: Business Intelligence und Berichterstellung
+
+
+  In diesem Modul werden die wichtigsten Themen für die Berichterstellung und die Informationen behandelt, die der Lösungsarchitekt benötigt.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Implementieren von Business Intelligence und Berichterstellung
+
+
+  #### <a name="lab--classroom-exercises"></a>Lab: Classroom-Übungen
+
+
+  ####
+
+
+  #### <a name="lab--case-study---student-activity"></a>Lab: Fallstudie – Teilnehmeraktivität
+
+
+  ####
+
+
+  *   Übung | Übersicht über Berichterstellung und Business Intelligence
+
+
+  *   Teilnehmeraktivität 8 | Entwickeln einer Intelligenzstrategie
+
+
+  Nach Abschluss dieses Moduls sollten Kursteilnehmer Folgendes können:
+
+
+  *   Skizzieren der Übersicht über Berichterstellung und Analysen
+
+
+  *   Beschreiben der Optionen für die native Berichterstellung
+
+
+  *   Beschreiben der Optionen für die Business Intelligence-Berichterstellung
+
+
+  *   Identifizieren der Optionen für die Analyseberichterstellung
+
+
+  *   Entwickeln von Berichterstellungs- und Analysestrategien
+
+
+  ### <a name="module-11-determine-licensing-and-support"></a>Modul 11: Bestimmen von Lizenzierung und Support
+
+
+  Dieses Modul soll Ihnen dabei helfen, die Grundlagen der Lizenzierung und des Supports besser zu verstehen. Es soll Sie nicht zu einem Experten auf diesem Gebiet machen. Sie erfahren jedoch, wo Sie die Informationen finden, wenn Sie sie benötigen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Grundlegendes zur Lizenzierungsschätzung
+
+
+  *   Nachvollziehen der Supportoptionen
+
+
+  #### <a name="lab--classroom-exercises"></a>Lab: Classroom-Übungen
+
+
+  ####
+
+
+  *   Übung | Grundlegendes zur Lizenzierungsschätzung
+
+
+  *   Übung | Nachvollziehen der Supportoptionen
+
+
+  Nach Abschluss dieses Moduls sollten Kursteilnehmer Folgendes können:
+
+
+  *   Schätzen der Anzahl von Lizenzen
+
+
+  *   Einhalten der Anforderungen an die Benutzerlizenzierung
+
+
+  *   Nachvollziehen der Supportoptionen während und nach der Implementierung
+
+
+  *   Definieren der Supportstrategie
+
+
+  ### <a name="module-12-prepare-for-go-live"></a>Modul 12: Vorbereitung auf die Inbetriebnahme
+
+
+  Dieses Modul dient dazu, alles zusammenzustellen und die Inbetriebnahme vorzubereiten. Es unterstützt Sie dabei, sich mit der Checkliste für die Inbetriebnahme vertraut zu machen. In diesem Modul werden auch wichtige Erkenntnisse aus diesem Kurs zusammengefasst, und Sie werden aufgefordert, Feedback zu geben.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Abschließen der Lösungsblaupause
+
+
+  *   Produktionsstart vorbereiten
+
+
+  *   Kurszusammenfassung
+
+
+  #### <a name="lab--classroom-exercises"></a>Lab: Classroom-Übungen
+
+
+  ####
+
+
+  *   Übung | Vorbereiten auf die Inbetriebnahme
+
+
+  Nach Abschluss dieses Moduls sollten Kursteilnehmer Folgendes können:
+
+
+  *   Abschließen der Lösungsblaupause
+
+
+  *   Verstehen des Bewertungsprozesses für die Bereitschaft zur Inbetriebnahme
+
+
+  *   Verstehen des Abschließens und Übermittelns der Prüfliste für die Inbetriebnahme
+
+
+  *   Beschreiben des Prozesses für die Bereitstellung der Produktionsumgebung
+
+
+  *   Definieren von Umstellungsaktivitäten und Inbetriebnahme
+
+
+  *   Bereitstellen von Kursfeedback
+
+
+  #### <a name="additional-reading"></a>Weiterführende Lektüre
+
+
+  Absolvieren Sie den folgenden Lernpfad, bevor Sie an dieser Präsenzschulung teilnehmen: Lösungsarchitekt für Dynamics 365 und Microsoft Power Platform

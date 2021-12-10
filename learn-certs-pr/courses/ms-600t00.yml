@@ -1,10 +1,16 @@
 ### YamlMime:Course
-title: Building applications and solutions with Microsoft 365 core services
+title: 'Building applications and solutions with Microsoft 365 core services  '
 metadata:
-  title: 'Course MS-600T00-A: Building applications and solutions with Microsoft 365 core services'
-  description: 'Course MS-600T00-A: Building applications and solutions with Microsoft 365 core services'
+  title: 'Kurs MS-600T00--A: Building applications and solutions with Microsoft 365 core services  '
+  description: 'Kurs MS-600T00--A: Building applications and solutions with Microsoft 365 core services  '
+  ms.openlocfilehash: 1161f95a21de917f0ecb4163e1e59be60f0916c6
+  ms.sourcegitcommit: 073cf120a67a147b75e4524603169d2aa2a0bd56
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "132112872"
 uid: course.ms-600t00
-courseNumber: 'MS-600T00-A'
+courseNumber: MS-600T00
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -21,150 +27,260 @@ roles:
 - administrator
 products:
 - m365
-- azure-active-directory
-- office-365
 exams:
 - uid: exam.ms-600
-summary: |-
-  Dieser Kurs behandelt fünf zentrale Elemente der Microsoft 365-Plattform - die Implementierung von Microsoft Identity, die Arbeit mit Microsoft Graph, die Erweiterung und Anpassung von SharePoint, die Erweiterung von Teams und die Erweiterung von Office.
-  In diesem Kurs lernen die Teilnehmer, wie sie Microsoft Identity implementieren und mit Microsoft Graph arbeiten können. Studenten werden über allgemeine Kenntnisse über UI-Elemente (Adaptive Cards und UI Fabric), Integrationspunkte (einschließlich Microsoft Teams, Office Add-Ins, SharePoint Framework, Actionable Messages) und die Festlegung von Workload-Plattform-Zielen.
-  Bei der Implementierung der Microsoft-Identität lernen die Teilnehmer, die Microsoft-Identität zu implementieren, einschließlich der Registrierung einer Anwendung, der Implementierung der Authentifizierung, der Konfiguration von Berechtigungen für die Nutzung einer API und der Erstellung eines Dienstes für den Zugriff auf Microsoft Graph.
-  Bei der Arbeit mit Microsoft Graph werden die Teilnehmer lernen, wie sie mit Microsoft Graph auf Benutzerdaten zugreifen, Abfrageparameter untersuchen, einen Gruppenlebenszyklus verwalten, auf Dateien zugreifen und den Netzwerkverkehr optimieren können.
-  Beim Erweitern und Anpassen von SharePoint lernen die Teilnehmer die Webparts und Erweiterungen von SharePoint Framework kennen und erfahren, wie eine SPFx-Lösung verpackt und bereitgestellt wird.
-  Bei der Erweiterung von Teams sehen sich die Teilnehmer die Komponenten einer Team-App an, arbeiten mit Webhooks, Registerkarten und Konversations-Bots.
-  Bei der Erweiterung von Office arbeiten die Teilnehmer mit Office-Add-Ins, Add-Ins für den Aufgabenbereich, JavaScript-APIs, Office UI Fabric und ausführbaren Nachrichten mit adaptiven Karten.
+summary: >-
+  Dieser Kurs behandelt fünf zentrale Elemente der Microsoft 365-Plattform - die Implementierung von Microsoft Identity, die Arbeit mit Microsoft Graph, die Erweiterung und Anpassung von SharePoint, die Erweiterung von Teams und die Erweiterung von Office. In diesem Kurs lernen die Teilnehmer, wie sie Microsoft Identity implementieren und mit Microsoft Graph arbeiten können. Studenten werden über allgemeine Kenntnisse über UI-Elemente (Adaptive Cards und UI Fabric), Integrationspunkte (einschließlich Microsoft Teams, Office Add-Ins, SharePoint Framework, Actionable Messages) und die Festlegung von Workload-Plattform-Zielen. Bei der Implementierung der Microsoft-Identität lernen die Teilnehmer, die Microsoft-Identität zu implementieren, einschließlich der Registrierung einer Anwendung, der Implementierung der Authentifizierung, der Konfiguration von Berechtigungen für die Nutzung einer API und der Erstellung eines Dienstes für den Zugriff auf Microsoft Graph. Bei der Arbeit mit Microsoft Graph werden die Teilnehmer lernen, wie sie mit Microsoft Graph auf Benutzerdaten zugreifen, Abfrageparameter untersuchen, einen Gruppenlebenszyklus verwalten, auf Dateien zugreifen und den Netzwerkverkehr optimieren können. Beim Erweitern und Anpassen von SharePoint lernen die Teilnehmer die Webparts und Erweiterungen von SharePoint Framework kennen und erfahren, wie eine SPFx-Lösung verpackt und bereitgestellt wird. Bei der Erweiterung von Teams sehen sich die Teilnehmer die Komponenten einer Team-App an, arbeiten mit Webhooks, Registerkarten und Konversations-Bots. Bei der Erweiterung von Office arbeiten die Teilnehmer mit Office-Add-Ins, Add-Ins für den Aufgabenbereich, JavaScript-APIs, Office UI Fabric und ausführbaren Nachrichten mit adaptiven Karten.
 
-  #### Zielgruppenprofil
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+
   Die Teilnehmer dieses Kurses sind an der Microsoft 365-Entwicklungsplattform oder am Bestehen der Microsoft 365 Developer Associate-Zertifizierungsprüfung interessiert. Teilnehmer sollten 1-2 Jahre Erfahrung als Entwickler haben Dieser Kurs setzt voraus, dass die Teilnehmer mit der Programmierung vertraut sind und ein grundlegendes Verständnis der REST-APIs, JSON, OAuth2, OData, OpenID Connect, Microsoft-Identitäten, einschließlich Azure AD und Microsoft-Konten, Azure AD B2C und Genehmigungs-/Zustimmungskonzepte haben.
-prerequisitesSection: |-
-  - Teilnehmer sollten 1-2 Jahre Erfahrung als Entwickler haben Dieser Kurs setzt voraus, dass die Teilnehmer mit der Programmierung vertraut sind und ein grundlegendes Verständnis der REST-APIs, JSON, OAuth2, OData, OpenID Connect, Microsoft-Identitäten, einschließlich Azure AD und Microsoft-Konten, Azure AD B2C und Genehmigungs-/Zustimmungskonzepte haben.
-  - Es wird empfohlen, dass die Teilnehmer in allen Phasen der Softwareentwicklung über einige Erfahrung in der Entwicklung von Lösungen auf Microsoft Teams, Office Add-Ins oder SharePoint Framework verfügen.
-outlineSection: |-
-  ### Modul 1&#58; Implementieren Sie Microsoft Identity
-  In diesem Modul lernen Sie, Microsoft Identity zu implementieren, einschließlich der Registrierung einer Anwendung, der Implementierung der Authentifizierung, der Konfiguration von Berechtigungen für die Nutzung einer API und der Erstellung eines Dienstes für den Zugriff auf Microsoft Graph.
-  #### Lektionen
-  - Microsoft Identity platform
-  - Anwendung registrieren
-  - Implementieren der Authentifizierung
-  - Konfigurieren von Berechtigungen für die Nutzung einer API
-  - Autorisierung zur Nutzung einer API implementieren
-  - Autorisierung in einer API implementieren
-  - Erstellen Sie einen Dienst für den Zugriff auf Microsoft Graph
+prerequisitesSection: >-
+  Vor der Teilnahme an diesem Kurs sollten die Teilnehmer über Folgendes verfügen:
+   * Ein bis zwei Jahre Erfahrung als Entwickler. Dieser Kurs setzt voraus, dass die Teilnehmer mit der Programmierung vertraut sind und ein grundlegendes Verständnis der REST-APIs, JSON, OAuth2, OData, OpenID Connect, Microsoft-Identitäten, einschließlich Azure AD und Microsoft-Konten, Azure AD B2C und Genehmigungs-/Zustimmungskonzepte haben.
+   * Kursteilnehmer sollten in allen Phasen der Softwareentwicklung über eine gewisse Erfahrung mit der Entwicklung von Lösungen für Microsoft Teams, Office Add-Ins oder SharePoint Framework verfügen.
+outlineSection: >-
+  ### <a name="module-1-implement-microsoft-identity"></a>### Modul 1: Implementieren von Microsoft Identity
 
 
-  #### Labor &#58; Implementieren Sie Microsoft Identity
-  - Registrieren einer Anwendung im Azur Active Directory
-  - Implementierung der Authentifizierung
-  - Konfigurieren der Berechtigung zur Nutzung einer API
-  - Implementieren der Berechtigung zur Nutzung einer API
-  - Autorisierung in einer API implementieren
-  - Erstellen eines Dienstes für den Zugriff auf Microsoft Graph
-
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Eine Anwendung in Azure AD registrieren
-  - Implementieren der Authentifizierung
-  - Konfigurieren von Berechtigungen für die Nutzung einer API
-  - Erstellen Sie einen Dienst für den Zugriff auf Microsoft Graph
+  In diesem Modul lernen Sie, wie Sie Microsoft Identity implementieren – einschließlich der Registrierung einer Anwendung, der Implementierung der Authentifizierung, der Konfiguration von Berechtigungen für die Nutzung einer API und der Erstellung eines Dienstes für den Zugriff auf Microsoft Graph.
 
 
-  ### Modul 2&#58; Arbeiten Sie mit Microsoft Graph
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Erste Schritte mit Microsoft Identity
+
+
+  *   Anwendungstypen in Microsoft Identity
+
+
+  *   Berechtigungen und Einwilligungsframework
+
+
+  *   Sichere benutzerdefinierte APIs mit Microsoft Identity
+
+
+  *   Arbeiten mit Benutzern, Gruppen und Rollen in benutzerdefinierten Apps und APIs
+
+
+
+  #### <a name="lab--implement-microsoft-identity"></a>Lab: Implementieren von Microsoft Identity
+
+
+  ####
+     *   Übung: Verschiedene Arten von Token, die in Microsoft Identity verwendet werden
+     *   Übung: Single-Page-Webanwendungen
+     *   Übung: Web-Apps mit Benutzeranmeldung und API-Aufrufen
+     *   Übung: Daemon-Apps und nicht interaktive Apps
+     *   Übung: Grundlegendes zu Berechtigungen und zum Einwilligungsframework in Microsoft Identity Platform
+     *   Übung: Delegierte Berechtigungen und Einwilligung
+     *   Übung: Anwendungsberechtigungen und Einwilligung
+     *   Übung: Erstellen und Schützen einer Web-API mit Microsoft Identity
+     *   Übung: Aufrufen geschützter APIs über Webanwendungen
+     *   Übung: Aufrufen geschützter APIs über Daemon-Apps
+     *   Übung: Erstellen und Schützen einer Web-App mit Microsoft Identity
+     *   Übung: Verwenden von Sicherheitsgruppen in benutzerdefinierten Apps und APIs mit Microsoft Identity-Schutz
+     *   Übung: Nutzen von Anwendungsrollen in benutzerdefinierten Apps
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Registrieren einer Anwendung in Azure AD
+
+
+  *   Implementieren der Authentifizierung
+
+
+  *   Konfigurieren von Berechtigungen für die Nutzung einer API
+
+
+  *   Erstellen eines Diensts für den Zugriff auf Microsoft Graph
+
+
+
+  ### <a name="module-2-build-apps-with-microsoft-graph"></a>Modul 2: Erstellen von Apps mit Microsoft Graph
+
+
   In diesem Modul lernen Sie, wie Sie mit Microsoft Graph auf Benutzerdaten zugreifen, Abfrageparameter untersuchen, einen Gruppenlebenszyklus verwalten, auf Dateien zugreifen und den Netzwerkverkehr optimieren können.
-  #### Lektionen
-  - Was ist Microsoft Graph
-  - Zugriff auf Benutzerdaten aus Microsoft Graph
-  - Datenverwendung mit Abfrageparametern
-  - Verwalten eines Gruppenlebenszyklus in Microsoft Graph
-  - Zugriff auf Dateien mit Microsoft Graph
-  - Optimieren des Netzwerkverkehrs
 
 
-  #### Labor &#58; Arbeiten Sie mit Microsoft Graph
-  - Abfragen von Benutzerdaten aus Microsoft Graph
-  - Verwendung von Abfrageparametern bei der Abfrage von Microsoft Graph über HTTP
-  - Abrufen und Steuern von Informationen, die aus Microsoft Graph zurückgegeben werden
-  - Einrichtung einer Gruppe und eines Teams in Office 365
-  - Hochladen von Dateien auf OneDrive und SharePoint
-  - Verwendung von Änderungsbenachrichtigungen und Verfolgung von Änderungen mit Microsoft Graph
-  - Reduzierung des Datenverkehrs mit gestapelten Anfragen
-  - Verstehen der Drosselung in Microsoft Graph
-
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Zugriff auf Benutzerdaten mit Microsoft Graph
-  - Arbeiten mit Daten unter Verwendung von Abfragen in Microsoft Graph
-  - Verwalten eines Gruppenlebenszyklus in Microsoft Graph
-  - Optimieren des Netzwerkverkehrs mit Microsoft Graph
+  #### <a name="lessons"></a>Lektionen
 
 
-  ### Modul 3&#58; SharePoint erweitern und anpassen
-  In diesem Modul lernen Sie die Webparts und Erweiterungen von SharePoint Framework kennen und erfahren, wie eine SPFx-Lösung verpackt und bereitgestellt wird.
-  #### Lektionen
-  - SharePoint-Framework- Webparts
-  - SharePoint Framework-Erweiterungen
-  - Verpacken und Bereitstellen einer SPFx-Lösung
-  - Verbrauch von Microsoft Graph
-  - Verbrauch von APIs von Drittanbietern mit Azure AD aus dem SPFx gesichert
-  - Registerkarten Webparts als Teams
-  - Branding und Thematisierung in SharePoint
+  *   Optimieren der Datennutzung mit Abfrageparametern
 
 
-  #### Labor &#58; SharePoint erweitern und anpassen
-  - Einführung in das SharePoint-Framework (SPFx)
-  - Arbeiten mit dem Webpart-Eigenschaftsbereich
-  - Erstellen von SharePoint-Framework-Erweiterungen
-  - Erstellen einer Befehlssatzerweiterung
-  - Erstellen einer Field Customizer-Erweiterung
-  - Bereitstellen einer SharePoint Framework-Lösung
-  - Aufruf von Azure AD-geschützten 3rd Party REST APIs
-  - Bereitstellen von SPFx-Lösungen für Microsoft-Teams
-
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Verpacken und Bereitstellen einer SharePoint Framework-Lösung
-  - Nutzung des Microsoft Graphen nutzen
-  - Arbeiten mit Webparts als Team-Registerkarten
+  *   Optimieren des Netzwerkverkehrs mit Microsoft Graph
 
 
-  ### Modul 4&#58; Teams erweitern
+  *   Zugreifen auf Benutzerdaten über Microsoft Graph
+
+
+  *   Verwalten des Gruppenlebenszyklus mit Microsoft Graph
+
+
+  *   Zugreifen auf Dateien mit Microsoft Graph
+
+
+  *   Verwenden von Änderungsbenachrichtigungen und Änderungsnachverfolgung mit Microsoft Graph
+
+
+
+  #### <a name="lab--build-apps-with-microsoft-graph"></a>Lab: Erstellen von Apps mit Microsoft Graph
+
+
+  ####
+     *   Übung: Abrufen und Steuern von Informationen, die von Microsoft Graph zurückgegeben werden
+     *   Übung: Erweitern verwandter Entitäten und Suchinhalte in Microsoft Graph
+     *   Übung: Verringern des Datenverkehrs mithilfe von Batchanforderungen
+     *   Übung: Nachvollziehen der Drosselung in Microsoft Graph
+     *   Übung: Vermeiden von Drosselung und Implementieren von Drosselungsstrategien
+     *   Übung: Beseitigen von Microsoft Graph-Abrufen mithilfe der Deltaabfrage
+     *   Übung: Arbeiten mit Benutzern in der Organisation
+     *   Übung: Benutzerprofile und verwandte Benutzer
+     *   Übung: Ändern von Benutzern
+     *   Übung: Arbeiten mit Gruppen in der Organisation
+     *   Übung: Benutzer und ihre Gruppen
+     *   Übung: Verwalten des Gruppenlebenszyklus
+     *   Übung: Zugreifen auf und Herunterladen von Dateien auf OneDrive
+     *   Übung: Hochladen von Dateien in OneDrive
+     *   Übung: Arbeiten mit Dateibeziehungen und Trends in OneDrive
+     *   Übung: .NET Core-Web-APIs für Azure AD-Apps
+     *   Übung: Microsoft Graph-Änderungsbenachrichtigungen
+     *   Übung: Nachverfolgen von Änderungen mit Microsoft Graph
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Mit Microsoft Graph auf Benutzerdaten zuzugreifen.
+
+
+  *   Mit Daten unter Verwendung von Abfragen in Microsoft Graph zu arbeiten.
+
+
+  *   Einen Gruppenlebenszyklus in Microsoft Graph zu verwalten.
+
+
+  *   Den Netzwerkverkehr mithilfe von Microsoft Graph zu optimieren.
+
+
+
+  ### <a name="module-3-extend-microsoft-365"></a>Modul 3: Erweitern von Microsoft 365
+
+
+  In diesem Modul lernen Sie die Webparts und Erweiterungen von SharePoint Framework kennen und erfahren, wie eine SPFx-Lösung verpackt und bereitgestellt wird. Darüber hinaus arbeiten Sie mit Office-Add-Ins, Add-Ins für den Aufgabenbereich, JavaScript-APIs, Office UI Fabric und Aktionen erfordernden Nachrichten mit adaptiven Karten.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Einführung in die Anpassung und Erweiterung von SharePoint
+
+
+  *   Einführung in die Office-Clientanpassung mit Add-Ins
+
+
+
+  #### <a name="lab--extend-microsoft-365"></a>Lab: Erweitern von Microsoft 365
+
+
+  ####
+     *   Übung: Erstellen und Konfigurieren Ihres SharePoint Online-Entwicklermandanten
+     *   Übung: Interagieren mit clientseitigen SPFx-Webparts auf modernen Websites
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Eine SharePoint Framework-Lösung zu packen und bereitzustellen.
+
+
+  *   Den Microsoft Graph-Verbrauch zu nutzen.
+
+
+  *   Webparts als Teams-Registerkarten zu verwenden.
+
+
+  *   Die grundlegenden Komponenten und Arten von Office-Add-Ins zu verstehen.
+
+
+  *   Office-JavaScript-APIs zu verstehen.
+
+
+  *   Die Test-, Debug- und Bereitstellungsoptionen für Office Add-Ins zu verstehen.
+
+
+
+  ### <a name="module-4-develop-apps-for-microsoft-teams"></a>Modul 4: Entwickeln von Apps für Microsoft Teams
+
+
   In diesem Modul sehen Sie sich die Komponenten einer Team-App an, und arbeiten mit Webhooks, Tabs und Konversations-Bots.
-  #### Lektionen
-  - Microsoft Teams-App
-  - Webhooks in Microsoft Teams
-  - Registerkarten in Microsoft Teams
-  - Messaging-Erweiterungen in Microsoft Teams
-  - Gesprächs-Bots in Microsoft-Teams
 
 
-  #### Labor &#58; Teams erweitern
-  - Verstehen der Komponenten einer Teams-App
-  - Arbeiten mit Webhooks in Microsoft Teams
-  - Erstellen von Registerkarten in Microsoft Teams
-  - Verstehen von Messaging-Erweiterungen
-  - Verstehen von Gesprächs-Bots
-
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Erkennen Sie die Komponenten einer Teams-App
-  - Arbeit mit Webhooks in Microsoft Teams
-  - Erstellen von Registerkarten in Microsoft Teams
-  - Erstellen und registrieren von ausgehenden Webhooks
+  #### <a name="lessons"></a>Lektionen
 
 
-  ### Modul 5&#58; Office erweitern 
-  In diesem Modul arbeiten Sie mit Office-Add-Ins, Add-Ins für den Aufgabenbereich, JavaScript-APIs, Office UI Fabric und ausführbaren Meldungen mit adaptiven Karten.
-  #### Lektionen
-  - Office Add-ins
-  - Office-JS-APIs
-  - Customization of Add-ins
-  - Test-, Debugging- und Bereitstellungsoptionen
-  - Aktionsfähige Botschaft
+  *   Übersicht über das Erstellen von Apps für Microsoft Teams
 
 
-  #### Labor &#58; Office erweitern
-  - Verstehen der grundlegenden Komponenten und Arten von Office-Add-Ins
-  - Verstehen der Office-JavaScript-APIs
-  - Verstehen der Anpassung von Add-Ins
-  - Verstehen handlungsrelevanter Botschaften
+  *   Aufgabenorientierte Interaktionen mit Messagingerweiterungen
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Verstehen der grundlegenden Komponenten und Arten von Office-Add-Ins
-  - Verstehen der Office-JavaScript-APIs
-  - Verstehen der Anpassung von Add-Ins
-  - Verstehen handlungsrelevanter Botschaften
+
+  *   Registerkarten in Microsoft Teams
+
+
+  *   Erstellen interaktiver Konversationsbots
+
+
+  *   Erfassen von Eingaben mit Aufgabenmodulen
+
+
+  *   Webhooks in Microsoft Teams
+
+
+  *   Teamwork-Endpunkt von Microsoft Graph
+
+
+  *   Authentifizierung und einmaliges Anmelden in Microsoft Teams
+
+
+
+  #### <a name="lab--develop-apps-for-microsoft-teams"></a>Lab: Entwickeln von Apps für Microsoft Teams
+
+
+  ####
+     *   Übung: Erstellen von Messagingerweiterungen für Aktionsbefehle
+     *   Übung: Erstellen von Messagingerweiterungen für Suchbefehle
+     *   Übung: Implementieren von Messagingerweiterungen für die Linkverbreitung
+     *   Übung: Erstellen einer benutzerdefinierten persönlichen Microsoft Teams-Registerkarte
+     *   Übung: Erstellen einer benutzerdefinierten Microsoft Teams-Kanalregisterkarte
+     *   Übung: Erstellen von Konversationsbots
+     *   Übung: Bots in Kanälen und Gruppenchats
+     *   Übung: Senden proaktiver Nachrichten über Bots
+     *   Übung: Erfassen von Benutzereingaben mit Aufgabenmodulen
+     *   Übung: Verwenden von adaptiven Karten und Deep-Links in Aufgabenmodulen
+     *   Übung: Verwenden von Aufgabenmodulen mit Bots
+     *   Übung: Erstellen ausgehender Webhooks
+     *   Übung: Erstellen eingehender Webhooks
+     *   Übung: Erste Schritte mit dem Teamwork-Endpunkt
+     *   Übung: Konfigurieren einer integrierten Registerkarte mit Microsoft Graph
+     *   Übung: Verwenden von Microsoft Graph zum Posten im Aktivitätsfeed
+     *   Übung: Implementieren des einmaligen Anmeldens für Microsoft Teams-Apps
+     *   Übung: Implementieren des einmaligen Anmeldens mit Microsoft Teams-Registerkarten
+     *   Übung: Implementieren des einmaligen Anmeldens mit Microsoft Teams-Bots
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Die Komponenten einer Teams-App zu erkennen.
+
+
+  *   Mit Webhooks in Microsoft Teams zu arbeiten.
+
+
+  *   Registerkarten in Microsoft Teams zu erstellen.
+
+
+  *   Ausgehende Webhooks zu erstellen und zu registrieren.

@@ -1,10 +1,16 @@
 ### YamlMime:Course
 title: Microsoft Dynamics 365 Finance
 metadata:
-  title: 'Course MB-310T00-A: Microsoft Dynamics 365 Finance'
-  description: 'Course MB-310T00-A: Microsoft Dynamics 365 Finance'
+  title: 'Kurs MB-310T00-A: Microsoft Dynamics 365 Finance'
+  description: 'Kurs MB-310T00-A: Microsoft Dynamics 365 Finance'
+  ms.openlocfilehash: 171d38c790eb9d5b8fb1a01ac057211dd11d8705
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107346"
 uid: course.mb-310t00
-courseNumber: 'MB-310T00-A'
+courseNumber: MB-310T00-A
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -17,265 +23,446 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance
 exams:
 - uid: exam.mb-310
-summary: |-
-  Dieser Kurs behandelt die finanziellen Aspekte von Dynamics 365&#58; Konfigurieren und Verwenden wesentlicher Finanzkomponenten, Kreditorenbuchhaltung, Debitorenbuchhaltung, Inkasso, Budgetierung, Anlagevermögen und zusätzliche Funktionen
+summary: >-
+  Dieser Kurs behandelt die finanziellen Aspekte von Dynamics 365: Konfigurieren und Verwenden wesentlicher Finanzkomponenten, Kreditorenbuchhaltung, Debitorenbuchhaltung, Inkasso, Budgetierung, Anlagevermögen und zusätzliche Funktionen
 
-  #### Zielgruppenprofil
-  Zu den Aufgaben des Dynamics 365-Modulberaters für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Interessenvertretern, das Übersetzen von Bedürfnissen, sowie Lösungen und Anwendungen zu konfigurieren.Der Modulbetreuer implementiert eine Lösung mit Hilfe gebrauchsfertiger Funktionen, codefreier Erweiterungsmöglichkeiten sowie Anwendungs- und Service-Integrationen.
-prerequisitesSection: |-
-  Grundlegende Buchhaltungsfähigkeiten  
-  Kernkompetenzen in Dynamics 365 Core
-outlineSection: |-
-  ### Modul 1&#58; Übersicht über Dynamics 365 Finance
-  In diesem Modul werden die Kernkomponenten des Finanzwesens erörtert und die beteiligten Module betrachtet.
-  #### Lektionen
-  - Einführung
-  - Lektion 1&#58; Übersicht über die Funktionen und Möglichkeiten von Dynamics 365 Finance
-  - Lektion 2&#58; Kernkomponenten von Dynamics 365 Finance
-  - Lektion 3&#58; Übersicht über Finanzverwaltungsmodule in Dynamics 365 Finance
-  - Lektion 4&#58; Vorteile von Dynamics 365 Finance
-  - Modulübersicht
-  - Wissensprüfung
 
-  Sie haben einige Vorteile des Finanzmanagements von Dynamics 365 Finance kennengelernt.
-  
-  
-  ### Modul 2&#58; Finanzmanagement einrichten und konfigurieren
-  In diesem Modul wird erläutert, wie man eine neue juristische Person (Firma) erstellt und das Finanzmanagement dafür einrichtet und konfiguriert.Dieses Modul enthält den Ledger.
-  #### Lektionen
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von Bedürfnissen, sowie Lösungen und Anwendungen zu konfigurieren. Der Functional Consultant implementiert eine Lösung unter Verwendung von standardisierten Funktionen, codeloser Erweiterbarkeit, Anwendungs- und Service-Integrationen.
+prerequisitesSection: "Grundlegende Buchhaltungskenntnisse  \nKernkompetenzen in Dynamics 365 Core"
+outlineSection: >-
+  ### <a name="module-158-overview-of-dynamics-365-finance"></a>Modul 1&#58; Übersicht über Dynamics 365 Finance
+
+  In diesem Modul werden die Kernkomponenten von Finance und die beteiligten Module betrachtet.
+
+  #### <a name="lessons"></a>Lektionen
+
   - Einführung
-  - Lektion 1&#58; Neue juristische Person erstellen und konfigurieren
-  - Lektion 2&#58; Definieren und Konfigurieren eines Kontenplans
-  - Lektion 3&#58; Konfigurieren von Ledgern und Währungen
-  - Lektion 4&#58; Journals implementieren und verwalten
-  - Lektion 5&#58; Cash und Bank implementieren und verwalten
-  - Lektion 6&#58; Kostenrechnung und Kostenmanagement implementieren
-  - Lektion 7&#58; Regelmäßige Prozesse durchführen
-  - Lektion 8&#58; Steuern konfigurieren, sammeln und melden
-  - Modulübersicht
-  - Wissensprüfung
-  
-  #### Lab&#58; Übung 1&#58; Konfigurieren einer neuen juristischen Person
-  
-  #### Lab&#58; Übung 2&#58; Erstellen von Kontenplan und Hauptkonten
-  
-  #### Lab&#58; Übung 3&#58; Erstellen erweiterter Regelstrukturen
-  
-  #### Lab&#58; Übung 4&#58; Erstellen eines Geschäftskalenders, Jahre und Perioden
-  
-  #### Lab&#58; Übung 5&#58; Wechselkurse über einen Anbieter importieren
-  
-  #### Lab&#58; Übung 6&#58; Erstellen und Verwenden von Gutscheinvorlagen
-  
-  #### Lab&#58; Übung 7&#58; Konfigurieren und Testen von Abgrenzungsschemata
-  
-  #### Lab&#58; Übung 8&#58; Regeln für die Ledger-Zuordnung konfigurieren und testen
-  
-  #### Lab&#58; Übung 9&#58; Einrichten und Verwenden der konzerninternen Buchhaltung
-  
-  #### Lab&#58; Übung 10&#58; Bankvorgangsarten und Bankvorgangsgruppen erstellen
-  
-  #### Lab&#58; Übung 11&#58; Eine Bankgruppe und ein Bankkonto erstellen
-  
-  #### Lab&#58; Übung 12&#58; Einzahlungen tätigen und Zahlungsstornierungen durchführen
-  
-  #### Lab&#58; Übung 13&#58; Arbeitsbereiche für die Bankverwaltung verwenden
-  
-  #### Lab&#58; Übung 14&#58; Erstellen der Kostenrechnung mit Hilfe eines Assistenten
-  
-  #### Lab&#58; Übung 15&#58; Jahresabschluss durchführen
-  
-  #### Lab&#58; Übung 16&#58; Konfigurieren der indirekten Umsatzsteuer
-  Sie können das Finanzmanagement einrichten und konfigurieren, indem Sie die Hauptbuchhaltung und anderes vorbereiten.
-  
-  
-  ### Modul 3&#58; Implementieren und Verwalten der gemeinsam genutzten Konfiguration für A / P und A / R
+
+  - Lektion 1&#58; Übersicht über die Features und Funktionen von Dynamics 365 Finance
+
+  - Lektion 2&#58; Kernkomponenten von Dynamics 365 Finance
+
+  - Lektion 3&#58; Übersicht über die Finanzverwaltungsmodule in Dynamics 365 Finance
+
+  - Lektion 4&#58; Vorteile von Dynamics 365 Finance
+
+  - Zusammenfassung des Moduls
+
+  - Wissensbeurteilung
+
+
+  Sie haben einige Vorteile der Finanzverwaltung von Dynamics 365 Finance kennengelernt.
+
+
+
+  ### <a name="module-258-set-up-and-configure-financial-management"></a>Modul 2&#58; Einrichten und Verwalten der Finanzverwaltung
+
+  In diesem Modul erfahren Sie, wie Sie eine neue juristische Person (Unternehmen) erstellen und die Finanzverwaltung dafür einrichten und konfigurieren. In diesem Modul wird u. a. das Hauptbuch behandelt.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung
+
+  - Lektion 1&#58; Erstellen und Konfigurieren einer neuen juristischen Person
+
+  - Lektion 2&#58; Definieren und Konfigurieren des Kontenplans
+
+  - Lektion 3&#58; Konfigurieren von Bestandsbüchern und Währungen
+
+  - Lektion 4&#58; Implementieren und Verwalten von Journalen
+
+  - Lektion 5&#58; Implementieren und Verwalten von Bargeld und Banken
+
+  - Lektion 6&#58; Implementieren von Kostenabrechnung und Kostenverwaltung
+
+  - Lektion 7&#58; Durchführen periodischer Prozesse
+
+  - Lektion 8&#58; Konfigurieren, Einziehen und Berichten von Steuern
+
+  - Zusammenfassung des Moduls
+
+  - Wissensbeurteilung
+
+
+  #### <a name="lab-58-exercise-158-configure-a-new-legal-entity"></a>Lab&#58; Übung 1&#58; Konfigurieren einer neuen juristischen Person
+
+
+  #### <a name="lab-58-exercise-258-create-a-chart-of-accounts-and-main-accounts"></a>Lab&#58; Übung 2&#58; Erstellen eines Kontenplans und von Hauptkonten
+
+
+  #### <a name="lab-58-exercise-358-create-advanced-rule-structures"></a>Lab&#58; Übung 3&#58; Erstellen erweiterter Regelstrukturen
+
+
+  #### <a name="lab-58-exercise-458-create-a-fiscal-calendar-years-and-periods"></a>Lab&#58; Übung 4&#58; Erstellen von Steuerkalendern, Jahren und Perioden
+
+
+  #### <a name="lab-58-exercise-558-import-exchange-rates-by-using-a-provider"></a>Lab&#58; Übung 5&#58; Importieren von Wechselkursen mithilfe eines Anbieters
+
+
+  #### <a name="lab-58-exercise-658-create-and-use-voucher-templates"></a>Lab&#58; Übung 6&#58; Erstellen und Verwenden von Gutscheinvorlagen
+
+
+  #### <a name="lab-58-exercise-758-configure-and-test-accrual-schemes"></a>Lab&#58; Übung 7&#58; Konfigurieren und Testen von Rückstellungsprogrammen
+
+
+  #### <a name="lab-58-exercise-858-configure-and-test-ledger-allocation-rules"></a>Lab&#58; Übung 8&#58; Konfigurieren und Testen von Regeln für die Hauptbuchzuordnung
+
+
+  #### <a name="lab-58-exercise-958-set-up-and-use-intercompany-accounting"></a>Lab&#58; Übung 9&#58; Einrichten und Verwenden der konzerninternen Buchhaltung
+
+
+  #### <a name="lab-58-exercise-1058-create-bank-transaction-types-and-bank-transaction-groups"></a>Lab&#58; Übung 10&#58; Erstellen der Arten und Gruppen von Bankgeschäften
+
+
+  #### <a name="lab-58-exercise-1158-create-a-bank-group-and-bank-account"></a>Lab&#58; Übung 11&#58; Erstellen einer Bankgruppe und eines Bankkontos
+
+
+  #### <a name="lab-58-exercise-1258-make-deposits-and-perform-payment-reversals"></a>Lab&#58; Übung 12&#58; Vornehmen von Einzahlungen und Durchführen von Zahlungsstornierungen
+
+
+  #### <a name="lab-58-exercise-1358-use-bank-management-workspaces"></a>Lab&#58; Übung 13&#58; Verwenden von Arbeitsbereichen für die Bankverwaltung
+
+
+  #### <a name="lab-58-exercise-1458-create-cost-accounting-by-using-a-wizard"></a>Lab&#58; Übung 14&#58; Erstellen der Kostenabrechnung mithilfe eines Assistenten
+
+
+  #### <a name="lab-58-exercise-1558-perform-year-end-close"></a>Lab&#58; Übung 15&#58; Durchführen des Jahresabschlusses
+
+
+  #### <a name="lab-58-exercise-1658-configure-indirect-sales-tax"></a>Lab&#58; Übung 16&#58; Konfigurieren der indirekten Umsatzsteuer
+
+  Sie können die Finanzverwaltung einrichten und konfigurieren, indem Sie das Hauptbuch und andere Bücher vorbereiten.
+
+
+
+  ### <a name="module-358-implement-and-manage-shared-configuration-for-ap-and-ar"></a>Modul 3&#58; Implementieren und Verwalten der gemeinsam genutzten Konfiguration für Kreditoren und Debitoren
+
   Dynamics 365 Finance bietet umfangreiche Funktionen zum Einrichten verschiedener Zahlungsoptionen, die von Kreditoren- und Debitorenmodulen gemeinsam genutzt werden.
-  #### Lektionen
-  - Einführung
-  - Lektion 1&#58; Zahlungsbedingungen konfigurieren
-  - Lektion 2&#58; Konfigurieren von Zahlungstagen und Zahlungsplänen
-  - Lektion 3&#58; Skonti konfigurieren
-  - Lektion 4&#58; Zahlungskalender konfigurieren
-  - Lektion 5&#58; Zahlungsgebühren konfigurieren
-  - Modulübersicht
-  - Wissensprüfung
-  
-  #### Lab&#58; Übung 1&#58; Zahlungsbedingungen konfigurieren
-  
-  #### Lab&#58; Übung 2&#58; Zahlungsplan konfigurieren
-  
-  #### Lab&#58; Übung 3&#58; Skonti konfigurieren
-  
-  #### Lab&#58; Übung 4&#58; Erstellen eines Zahlungskalenders
-  
-  #### Lab&#58; Übung 5&#58; Zahlungsgebühren konfigurieren
-  Sie werden in der Lage sein, Zahlungs- und Bankinformationen zu konfigurieren
-  
-  
-  ### Modul 4&#58; Kreditorenbuchhaltung implementieren und verwalten
-  Bei diesem Thema werden die Grundeinstellungen für Kreditorenbuchhaltung und die Lieferantenkonfiguration für die effiziente Verwaltung von Lieferanten und Lieferantentransaktionen in Dynamics 365 Finance erläutert.
-  #### Lektionen
-  - Einführung
-  - Lektion 1&#58; Erstellen und Pflegen der Kreditorenzahlungen
-  - Lektion 2&#58; Erstellen und Pflegen von Lieferantengruppen und Lieferanten
-  - Lektion 3&#58; Erstellen und Konfigurieren des Lieferantenbuchungsprofils
-  - Lektion 4&#58; Konfigurieren der Rechnungsprüfungsrichtlinien
-  - Lektion 5&#58; Bestellungen, Rechnungen und Zahlungen verarbeiten
-  - Lektion 6&#58; Das Portal für die Zusammenarbeit von Anbietern für einen Anbieter aktivieren und testen
-  - Lektion 7&#58; Kreditorenbuchhaltung konfigurieren
-  - Lektion 8&#58; Konfigurieren und Verwenden von Positive Pay
-  - Modulübersicht
-  - Wissensprüfung
-  
-  #### Lab&#58; Übung 1&#58; Zahlungsbedingungen konfigurieren
-  
-  #### Lab&#58; Übung 2&#58; Erstellen einer Lieferantengruppe und eines Lieferanten
-  
-  #### Lab&#58; Übung 3&#58; Das Lieferantenbuchungsprofil erstellen und konfigurieren
-  
-  #### Lab&#58; Übung 4&#58; Die Lieferantenrechnung erfassen und mit der erhaltenen Menge vergleichen
-  
-  #### Lab&#58; Übung 5&#58; Die Richtlinien für den Lieferantenabgleich verwenden
-  
-  #### Lab&#58; Übung 6&#58; Die Rechnung mit Hilfe des Rechnungsregisters, der Bestätigung und der Rechnungsjournale zu erfassen
-  
-  #### Lab&#58; Übung 7&#58; Die Lieferantenzahlung mit Hilfe eines Zahlungsjournals verarbeiten
-  
-  #### Lab&#58; Übung 8&#58; Konfigurieren der Lieferantenzusammenarbeit
-  
-  #### Lab&#58; Übung 9&#58; Gebühren verwalten
-  Sie haben jetzt gelernt&#58;
-  - dass die Zahlungsoptionen in Dynamics 365 Finance flexibel sind
-  - Zahlungspläne einzurichten und zu verwenden
-  - Skonti zu verwalten
-  - mit Lieferantengruppen zu arbeiten
-  - Funktionen wie Vorauszahlungen zu nutzen
-  
-  
-  ### Modul 5&#58; Kostenmanagement implementieren und verwalten
-  Mit Hilfe der Kostenverwaltung der Dynamics 365 Finance and Operations-Apps können Sie einen integrierten Workflow erstellen, in dem Sie Informationen zu Zahlungsmethoden speichern, Kreditkartentransaktionen importieren und das Geld verfolgen können, das Mitarbeiter ausgeben, wenn ihnen Kosten für Ihr Unternehmen entstehen. Sie können auch Kostenrichtlinien definieren und die Erstattung von Reisekosten automatisieren. Der Eintrag in der Spesenabrechnung wurde neu gestaltet, um die Erfahrung zu vereinfachen und die Zeit zu verkürzen, die zum Ausfüllen der Spesenabrechnungen erforderlich ist. Sie können diese Funktionalität in der Funktionsverwaltung aktivieren.Sie können eine neue Einrichtungsseite hinzufügen, um die Sichtbarkeit von Ausgabenfeldern zu konfigurieren und anzugeben, welche Daten erforderlich, optional oder nicht verfügbar sind, wenn Spesenabrechnungen eingegeben werden.Wenn diese Funktion aktiviert ist, ist ein neuer Arbeitsbereich für Ausgaben verfügbar. Dieser Arbeitsbereich ersetzt den vorherigen Ausgabenarbeitsbereich und ist die Zielseite für die verbesserte Eingabeerfahrung. Das Reise- und Spesenmanagement hat ein starkes Leistungsversprechen für Unternehmen mit Ausgaben nach freiem Ermessen. Reise- und Unterhaltungskosten sind ein wesentlicher Teil der kontrollierbaren Kosten eines Unternehmens.Um diese Kosten einzudämmen, bietet das Kostenmanagement einen Mechanismus zum Definieren und Anwenden von Kostenrichtlinien sowie zum Kennzeichnen und Melden von Missbrauchern der Richtlinien.Durch die Automatisierung der Eingabe und Erstattung von Reise- und Unterhaltungskosten werden außerdem die Verarbeitungskosten im Vergleich zur manuellen Eingabe reduziert. Das Ausgabenmanagement ist eng in andere Module wie Kreditorenbuchhaltung, Hauptbuch, Beschaffung und Beschaffung sowie Projektmanagement und Buchhaltung integriert.
-  #### Lektionen
-  - Einführung
-  - Lektion 1&#58; Kostenmanagement konfigurieren und verwenden
-  - Modulübersicht
-  - Wissensprüfung
-  
-  #### Lab&#58; Übung 1&#58; Erstellen einer Ausgabenkategorie
-  
-  #### Lab&#58; Übung 2&#58; Erstellen einer Ausgabenrichtlinie
-  
-  #### Lab&#58; Übung 3&#58; Erstellen einer Überwachungsrichtlinie
-  
-  #### Lab&#58; Übung 4&#58; Erstellen und Senden einer Spesenabrechnung
-  Sie haben einige der Vorteile sowie die allgemeinen Merkmale und Funktionen des Ausgabenmanagements kennengelernt.
-  
-  
-  ### Modul 6&#58; Implementieren und Verwalten von Forderungen sowie Kredite und Inkasso
-  Sie müssen das Debitorenmodul konfigurieren, um A / R-Funktionen ausführen zu können.Sie können dann Kundenrechnungen erstellen, Packzettel ausstellen, Freitextrechnungen verwenden, die sich nicht auf Kundenaufträge beziehen, und Zahlungen erhalten, indem Sie verschiedene Zahlungsarten wie Bargeld, Schecks, Kreditkarten und elektronische Zahlungen Ihrer Kunden verwenden. Durch die ordnungsgemäße Verwaltung von Interessenten und Kunden können Unternehmen einige ihrer Anforderungen erfüllen, z. B. die Kundenzufriedenheit. Gleichzeitig vermeidet eine ordnungsgemäße Verwaltung Verluste, indem viele Faktoren wie das Kreditlimit überprüft werden und die Bearbeitung der Bestellung blockiert wird, wenn dies gegen die Richtlinien des Unternehmens verstößt. Verkäufer sind der Schlüssel für den Umsatz des Unternehmens, und ihre Provisionen sollten nach Abschluss des Verkaufszyklus gezahlt werden.
-  #### Lektionen
-  - Einführung
-  - Lektion 1&#58; Zahlungsmethode konfigurieren
-  - Lektion 2&#58; Erstellen und Pflegen von Kundengruppen und Kunden
-  - Lektion 3&#58; Erstellen und Konfigurieren des Kundenbuchungsprofils
-  - Lektion 4&#58; Bestellungen, Rechnungen und Zahlungen verarbeiten
-  - Lektion 5&#58; Konfigurieren der Debitorengebühren
-  - Lektion 6&#58; Verwalten von Krediten und Sammlungen
-  - Lektion 7&#58; Konfigurieren der Umsatzrealisierung
-  - Modulübersicht
-  - Wissensprüfung
-  
-  #### Lab&#58; Übung 1&#58; Zahlungsbedingungen konfigurieren
-  
-  #### Lab&#58; Übung 2&#58; Erstellen einer neuen Kundengruppe und eines neuen Kunden
-  
-  #### Lab&#58; Übung 3&#58; Kunden konfigurieren und pflegen
-  
-  #### Lab&#58; Übung 4&#58; Erstellen und Konfigurieren eines Kundenbuchungsprofils
-  
-  #### Lab&#58; Übung 5&#58; Erstellen und Verarbeiten von Freitextrechnungen
-  
-  #### Lab&#58; Übung 6&#58; Rechnung bearbeiten und gegen Zahlung begleichen
-  
-  #### Lab&#58; Übung 7&#58; Gebührencodes für Debitoren einrichten
-  
-  #### Lab&#58; Übung 8&#58; Guthaben und Sammlungen konfigurieren
-  
-  #### Lab&#58; Übung 9&#58; Abschreibungen durchführen
-  
-  #### Lab&#58; Übung 10&#58; Guthaben und Inkasso verarbeiten
-  Sie haben gelernt, wie man&#58;
-  - eine Zahlungsmethode konfiguriert
-  - elektronische Zahlungsformate beschreibt und konfiguriert
-  - Kundengruppen und Kunden erstellt und pflegt
-  - ein Kundenbuchungsprofil erstellt und konfiguriert
-  - Bestellungen, Rechnungen und Zahlungen bearbeitet
-  - Debitoren konfiguriert
-  - Kundenkredite und -sammlungen verwaltet
-  - Umsatzrealisierung konfiguriert
- 
-  ### Modul 7&#58; Budgetierung konfigurieren und verwalten
-  Jede private oder öffentliche Organisation legt finanzielle und operative Ziele fest, indem sie Budgets erstellt.Wenn das Budget feststeht, überwacht das Management die Aktivitäten innerhalb des Budgetrahmens.
-  #### Lektionen
-  - Einführung
-  - Lektion 1&#58; Grundbudgetierung konfigurieren und verwenden
-  - Lektion 2&#58; Konfigurieren und Verwenden von Budgetkontrollen
-  - Lektion 3&#58; Registrierungseinträge erstellen und konfigurieren
-  - Lektion 4&#58; Budgetplanung konfigurieren und verwenden
-  - Modulübersicht
-  - Wissensprüfung
-  
-  #### Lab&#58; Übung 1&#58; Konfigurieren grundlegender Budgetierungskomponenten
-  
-  #### Lab&#58; Übung 2&#58; Konfigurieren von Budgetsteuerungskomponenten
-  
-  #### Lab&#58; Übung 3&#58; Verwenden von Budgetregistereinträgen
-  
-  #### Lab&#58; Übung 4&#58; Konfigurieren der Budgetplanung, Erstellen und Verwenden eines Planungsprozesses
-  Sie haben gelernt, wie man&#58;
-  - Budgetierungsprozesse konfiguriert und verwaltet
-  - Budgetierungskomponente konfiguriert, einschließlich Budgetmodellen, Codes, Zuordnungsbedingungen, Zyklen und Übertragungsregeln
-  - Budgetkontrollen konfiguriert, einschließlich Zykluszeitspannen, Budgetparameter, Verfügbarkeit von Budgetmitteln...
-  - ... Optionen, Regeln und Gruppen für die Budgetkontrolle sowie Berechtigungen für das Überbudget
-  - Budget-Workflows implementiert
-  - Registrierungseinträge erstellt und konfiguriert
-  - Budgetprüfungen für Dokumente und Journale durchführt
-  - einen Budgetplan mit Szenarien, Phasen, Zuordnungsphasen, Phasenzuweisungen und Vorlagen erstellt
-  - einen Budgetplanungsprozess definiert und ein Budget plant
-  
-  
-  ### Modul 8&#58; Anlagevermögen konfigurieren und verwalten
-  Die Art und Weise, wie mit dem Anlagevermögen umgegangen wird, muss sowohl internationalen Rechnungslegungsstandards als auch den Rechnungslegungsvorschriften jedes Landes / jeder Region entsprechen. Zu den Anforderungen können Regeln für die Erfassung von Akquisitions- und Veräußerungstransaktionen, Abschreibungen, Lebensdauern sowie Zuschreibungen und Abschreibungen auf Sachanlagen gehören.Die Anlagefunktionalität enthält viele dieser Standards und Regeln.
-  #### Lektionen
-  - Einführung
-  - Lektion 1&#58; Komponenten des Anlagevermögens konfigurieren
-  - Lektion 2&#58; Anlagevermögen verwalten
-  - Lektion 3&#58; Erwerb, Abschreibung und Veräußerung von Sachanlagen
-  - Lektion 4&#58; Sachanlageintegration
-  - Modulübersicht
-  - Wissensprüfung
-  
-  #### Lab&#58; Übung 1&#58; Komponenten des Anlagevermögens konfigurieren
-  
-  #### Lab&#58; Übung 2&#58; Einrichten und Erstellen von Abschreibungsprofilen
-  
-  #### Lab&#58; Übung 3&#58; Erwerb eines Vermögenswerts über das Anlagevermögen-Journal
-  
-  #### Lab&#58; Übung 4&#58; Abschreibung und Veräußerung eines Vermögenswertes
-  Sie haben gelernt, wie man&#58;
-  - das Anlagevermögen implementiert und verwaltet
-  - Sachanlagen und Sachanlagengruppen erstellt
-  - Sachbücher und Abschreibungen beschreibt und konfiguriert
-  - Parameter des Anlagevermögens konfiguriert
-  - Anlagevermögen erwirbt und abschreibt
-  - das Leasing von Anlagevermögen hantiert
-  - Doppelwährung bei Anlagevermögen hantiert
-  - Organisationsweite Anlagenkennungen hantiert
-  - Veräußerung von Sachanlagen hantiert
-  - Sachbudgets erstellt und diese in das Budgetierungsmodul überträgt
-  - die Eliminierung eines Projekts für ein Anlagevermögen abschätzt und durchführt
 
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung
+
+  - Lektion 1&#58; Konfigurieren der Zahlungsbedingungen
+
+  - Lektion 2&#58; Konfigurieren von Zahlungstagen und Zahlungplänen
+
+  - Lektion 3&#58; Konfigurieren von Skonti
+
+  - Lektion 4&#58; Konfigurieren eines Zahlungskalenders
+
+  - Lektion 5&#58; Konfigurieren von Zahlungsgebühren
+
+  - Zusammenfassung des Moduls
+
+  - Wissensbeurteilung
+
+
+  #### <a name="lab-58-exercise-158-configure-terms-of-payment"></a>Lab&#58; Übung 1&#58; Konfigurieren der Zahlungsbedingungen
+
+
+  #### <a name="lab-58-exercise-258-configure-payment-schedule"></a>Lab &#58; Übung 2&#58; Konfigurieren des Zahlungsplans
+
+
+  #### <a name="lab-58-exercise-358-configure-cash-discounts"></a>Lab &#58; Übung 3&#58; Konfigurieren von Skonti
+
+
+  #### <a name="lab-58-exercise-458-create-a-payment-calendar"></a>Lab &#58; Übung 4&#58; Erstellen eines Zahlungskalenders
+
+
+  #### <a name="lab-58-exercise-558-configure-payment-fees"></a>Lab &#58; Übung 5&#58; Konfigurieren von Zahlungsgebühren
+
+  Sie können Zahlungs- und Bankinformationen konfigurieren.
+
+
+
+  ### <a name="module-458-implement-and-manage-accounts-payable"></a>Modul 4&#58; Implementieren und Verwalten von Kreditoren
+
+  Bei diesem Thema werden die Grundeinstellungen für Kreditorenbuchhaltung und die Lieferantenkonfiguration für die effiziente Verwaltung von Lieferanten und Lieferantentransaktionen in Dynamics 365 Finance erläutert.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung
+
+  - Lektion 1&#58; Erstellen und Verwalten der Zahlungsmethoden von Kreditoren
+
+  - Lektion 2&#58; Erstellen und Verwalten von Lieferantengruppen und Lieferanten
+
+  - Lektion 3&#58; Erstellen und Konfigurieren eines Lieferantenbuchungsprofils
+
+  - Lektion 4&#58; Konfigurieren von Rechnungsprüfungsrichtlinien
+
+  - Lektion 5&#58; Verarbeiten von Bestellungen, Rechnungen und Zahlungen
+
+  - Lektion 6&#58; Aktivieren und Testen des Portals zur Zusammenarbeit mit Lieferanten für einen Lieferanten
+
+  - Lektion 7&#58; Konfigurieren von Kreditorengebühren
+
+  - Lektion 8&#58; Konfigurieren und Verwenden positiver Zahlungen
+
+  - Zusammenfassung des Moduls
+
+  - Überprüfung der Kenntnisse
+
+
+  #### <a name="lab-58-exercise-158-configure-method-of-payment"></a>Lab&#58; Übung 1&#58; Konfigurieren der Zahlungsmethode
+
+
+  #### <a name="lab-58-exercise-258-create-vendor-group-and-vendor"></a>Lab&#58; Übung 2&#58; Erstellen einer Lieferantengruppe und eines Lieferanten
+
+
+  #### <a name="lab-58-exercise-358-create-and-configure-vendor-posting-profile"></a>Lab&#58; Übung 3&#58; Erstellen und Konfigurieren eines Lieferantenbuchungsprofils
+
+
+  #### <a name="lab-58-exercise-458-record-vendor-invoice-and-match-against-received-quantity"></a>Lab&#58; Übung 4&#58; Erfassen der Lieferantenrechnung und Abgleichen mit der erhaltenen Menge
+
+
+  #### <a name="lab-58-exercise-558-use-the-vendor-invoice-matching-policy"></a>Lab&#58; Übung 5&#58; Verwenden der Richtlinie für den Abgleich der Lieferantenrechnung
+
+
+  #### <a name="lab-58-exercise-658-record-invoice-by-using-invoice-register-approval-and-invoice-journals"></a>Lab&#58; Übung 6&#58; Erfassen der Rechnung mithilfe von Rechnungsbüchern, Genehmigungs- und Rechnungsjournalen
+
+
+  #### <a name="lab-58-exercise-758-process-vendor-payment-by-using-a-payment-journal"></a>Lab&#58; Übung 7&#58; Verarbeiten der Lieferantenzahlung mithilfe einer Zahlungserfassung
+
+
+  #### <a name="lab-58-exercise-858-configure-vendor-collaboration"></a>Lab&#58; Übung 8&#58; Konfigurieren der Zusammenarbeit mit Lieferanten
+
+
+  #### <a name="lab-58-exercise-958-manage-charges"></a>Lab&#58; Übung 9&#58; Verwalten von Gebühren
+
+  Sie haben nun Folgendes gelernt&#58;
+
+  - Zahlungsoptionen in Dynamics 365 Finance sind flexibel.
+
+  - Einrichten und Verwenden von Zahlungsplänen
+
+  - Verwalten von Skonti
+
+  - Arbeiten mit Lieferantengruppen
+
+  - Verwenden von Features wie Vorauszahlungen
+
+
+
+  ### <a name="module-558-implement-and-manage-expense-management"></a>Modul 5&#58; Implementieren und Verwalten der Ausgabenverwaltung
+
+  Mithilfe der App „Dynamics 365 Finance and Operations“ können Sie einen integrierten Workflow erstellen, in dessen Rahmen Sie Informationen zu Zahlungsmethoden speichern, Kreditkartentransaktionen importieren und das Geld nachverfolgen können, das Mitarbeiter ausgeben, wenn ihnen Kosten für Ihr Unternehmen entstehen. Sie können auch Ausgabenrichtlinien definieren und die Erstattung von Reisekosten automatisieren. Die Ausgabenabrechnung wurde neu gestaltet, um die Benutzerfreundlichkeit zu vereinfachen und die Zeit zu verkürzen, die zum Ausfüllen von Ausgabenberichten erforderlich ist. Sie können diese Funktion in der Featureverwaltung aktivieren. Sie können eine neue Einrichtungsseite hinzufügen, um die Sichtbarkeit von Ausgabenfeldern zu konfigurieren, und angeben, welche Daten bei der Eingabe von Ausgabenberichten erforderlich, optional oder nicht verfügbar sind. Wenn diese Funktion aktiviert ist, ist ein neuer Ausgabenarbeitsbereich verfügbar. Dieser Arbeitsbereich ersetzt den vorherigen Ausgabenarbeitsbereich und ist die Landing Page für die verbesserte Eingabeumgebung. Die Reise- und Ausgabenverwaltung ist für Unternehmen, die über einen gewissen Spielraum bei den Ausgaben verfügen, von großem Wert. Reise- und Bewirtungskosten sind ein wesentlicher Teil der kontrollierbaren Ausgaben eines Unternehmens. Um diese Kosten zu senken, bietet die Ausgabenverwaltung einen Mechanismus zum Definieren und Anwenden von Ausgabenrichtlinien sowie zum Kennzeichnen und Melden von Verstößen gegen diese Richtlinien. Darüber hinaus werden durch die Automatisierung der Eingabe und Erstattung von Reise- und Bewirtungskosten die Verarbeitungskosten im Vergleich zur manuellen Eingabe reduziert. Die Ausgabenverwaltung ist eng in andere Module wie Kreditorenbuchhaltung, Hauptbuch, Beschaffung und Finanzierung sowie Projektmanagement und Buchhaltung integriert.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung
+
+  - Lektion 1&#58; Konfigurieren und Verwenden der Ausgabenverwaltung
+
+  - Zusammenfassung des Moduls
+
+  - Überprüfung der Kenntnisse
+
+
+  #### <a name="lab-58-exercise-158-create-an-expense-category"></a>Lab&#58; Übung 1&#58; Erstellen einer Ausgabenkategorie
+
+
+  #### <a name="lab-58-exercise-258-create-an-expense-policy"></a>Lab&#58; Übung 2&#58; Erstellen einer Ausgabenrichtlinie
+
+
+  #### <a name="lab-58-exercise-358-create-an-audit-policy"></a>Lab&#58; Übung 3&#58; Erstellen einer Überwachungsrichtlinie
+
+
+  #### <a name="lab-58-exercise-458-create-and-submit-an-expense-report"></a>Lab&#58; Übung 4&#58; Erstellen und Übermitteln eines Ausgabenberichts
+
+  Sie haben einige Vorteile und allgemeine Features und Funktionen der Ausgabenverwaltung kennengelernt.
+
+
+
+  ### <a name="module-658-implement-and-manage-accounts-receivable-and-credit-and-collections"></a>Modul 6&#58; Implementieren und Verwalten der Debitorenbuchhaltung sowie von Kredit- und Inkassovorgängen
+
+  Sie müssen das Debitorenmodul konfigurieren, um Funktionen für die Debitorenbuchhaltung ausführen zu können. Anschließend können Sie Kundenrechnungen erstellen, Lieferscheine buchen, Freitextrechnungen verwenden, die sich nicht auf Kundenaufträge beziehen, und Zahlungen mit verschiedenen Zahlungsarten wie Bargeld, Schecks, Kreditkarten und elektronische Zahlungen von Kunden erhalten. Durch die richtige Verwaltung von Interessenten und Kunden können Unternehmen einige ihrer Anforderungen erfüllen, etwa in Hinsicht auf die Kundenzufriedenheit. Gleichzeitig vermeidet die ordnungsgemäße Verwaltung Verluste, indem viele Faktoren (etwa das Kreditlimit) überprüft und die Verarbeitung der Bestellung blockiert wird, wenn sie gegen die Richtlinien des Unternehmens verstößt. Vertriebsmitarbeiter sind der Schlüssel für den Umsatz des Unternehmens, und ihre Provisionen sollten nach Abschluss des Vertriebszyklus verarbeitet werden.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung
+
+  - Lektion 1&#58; Konfigurieren der Zahlungsmethode
+
+  - Lektion 2&#58; Erstellen und Verwalten von Kundengruppen und Kunden
+
+  - Lektion 3&#58; Erstellen und Konfigurieren eines Kundenbuchungsprofils
+
+  - Lektion 4&#58; Verarbeiten von Bestellungen, Rechnungen und Zahlungen
+
+  - Lektion 5&#58; Konfigurieren der Debitorengebühren
+
+  - Lektion 6&#58; Verwalten von Kredit- und Inkassovorgängen
+
+  - Lektion 7&#58; Konfigurieren der Umsatzerkennung
+
+  - Zusammenfassung des Moduls
+
+  - Wissensbeurteilung
+
+
+  #### <a name="lab-58-exercise-158-configure-method-of-payment"></a>Lab&#58; Übung 1&#58; Konfigurieren der Zahlungsmethode
+
+
+  #### <a name="lab-58-exercise-258-create-a-new-customer-group-and-customer"></a>Lab&#58; Übung 2&#58; Erstellen einer neuen Kundengruppe und eines neuen Kunden
+
+
+  #### <a name="lab-58-exercise-358-configure-and-maintain-customers"></a>Lab&#58; Übung 3&#58; Konfigurieren und Verwalten von Kunden
+
+
+  #### <a name="lab-58-exercise-458-create-and-configure-customer-posting-profile"></a>Lab&#58; Übung 4&#58; Erstellen und Konfigurieren eines Kundenbuchungsprofils
+
+
+  #### <a name="lab-58-exercise-558-create-and-process-free-text-invoices"></a>Lab&#58; Übung 5&#58; Erstellen und Verarbeiten von Freitextrechnungen
+
+
+  #### <a name="lab-58-exercise-658-process-invoice-and-settle-it-against-a-payment"></a>Lab&#58; Übung 6&#58; Verarbeiten der Rechnung und Verrechnen mit einer Zahlung
+
+
+  #### <a name="lab-58-exercise-758-set-up-charge-codes-for-accounts-receivable"></a>Lab&#58; Übung 7&#58; Einrichten von Gebührencodes für Debitoren
+
+
+  #### <a name="lab-58-exercise-858-configure-credit-and-collections"></a>Lab&#58; Übung 8&#58; Konfigurieren von Kredit- und Inkassovorgängen
+
+
+  #### <a name="lab-58-exercise-958-perform-write-offs"></a>Lab&#58; Übung 9&#58; Durchführen von Abschreibungen
+
+
+  #### <a name="lab-58-exercise-1058-process-credit-and-collections"></a>Lab&#58; Übung 10&#58; Verarbeiten von Kredit- und Inkassovorgängen
+
+  Sie haben Folgendes gelernt&#58;
+
+  - Konfigurieren der Zahlungsmethode
+
+  - Beschreiben und Konfigurieren von elektronischen Zahlungsformaten
+
+  - Erstellen und Verwalten von Kundengruppen und Kunden
+
+  - Erstellen und Konfigurieren eines Kundenbuchungsprofils
+
+  - Verarbeiten von Bestellungen, Rechnungen und Zahlungen
+
+  - Konfigurieren von Debitorengebühren
+
+  - Verwalten von Kredit- und Inkassovorgängen
+
+  - Konfigurieren der Umsatzerkennung
+
+
+
+  ### <a name="module-758-configure-and-manage-budgeting"></a>Modul 7&#58; Konfigurieren und Verwalten der Budgetierung
+
+  Jede private oder öffentliche Organisation legt finanzielle und operative Ziele fest, indem sie Budgets erstellt. Wenn das Budget feststeht, überwacht das Management die Aktivitäten innerhalb des Budgetrahmens.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung
+
+  - Lektion 1&#58; Konfigurieren und Verwenden der grundlegenden Budgetierung
+
+  - Lektion 2&#58; Konfigurieren und Verwenden der Budgetkontrolle
+
+  - Lektion 3&#58; Erstellen und Konfigurieren von Registereinträgen
+
+  - Lektion 4&#58; Konfigurieren und Verwenden der Budgetplanung
+
+  - Zusammenfassung des Moduls
+
+  - Wissensbeurteilung
+
+
+  #### <a name="lab-58-exercise-158-configure-basic-budgeting-components"></a>Lab&#58; Übung 1&#58; Konfigurieren der grundlegenden Budgetierungskomponenten
+
+
+  #### <a name="lab-58-exercise-258-configure-budget-control-components"></a>Lab&#58; Übung 2&#58; Konfigurieren der Budgetkontrollkomponenten
+
+
+  #### <a name="lab-58-exercise-358-use-budget-register-entries"></a>Lab&#58; Übung 3&#58; Verwenden von Budgetregistereinträgen
+
+
+  #### <a name="lab-58-exercise-458-configure-budget-planning-create-and-use-a-planning-process"></a>Lab&#58; Übung 4&#58; Konfigurieren der Budgetplanung, Erstellen und Verwenden eines Planungsprozesses
+
+  Sie haben Folgendes gelernt&#58;
+
+  - Konfigurieren und Verwalten von Budgetierungsprozessen
+
+  - Konfigurieren von Budgetierungskomponenten einschließlich Budgetmodellen, Codes, Zuordnungsbedingungen, Zyklen, Übertragungsregeln
+
+  - Konfigurieren von Budgetkontrollkomponenten, einschließlich Zykluszeitspannen, Budgetparametern, Budgetverfügbarkeit...
+
+  - ... Optionen, Regeln und Gruppen für die Budgetkontrolle sowie Berechtigungen für Überbudgetierung
+
+  - Implementieren von Budgetworkflows
+
+  - Erstellen und Konfigurieren von Registereinträgen
+
+  - Durchführen von Budgetüberprüfungen für Dokumente und Journale
+
+  - Erstellen eines Budgetplans, einschließlich Szenarien, Phasen, Zuordnungsphasen, Phasenzuordnungen, Vorlagen
+
+  - Definieren eines Budgetplanungsprozesses und Planen eines Budgets
+
+
+
+  ### <a name="module-858-configure-and-manage-fixed-assets"></a>Modul 8&#58; Konfigurieren und Verwalten von Anlagevermögen
+
+  Die Art und Weise, wie das Anlagevermögen behandelt wird, muss sowohl den internationalen Rechnungslegungsstandards als auch den Rechnungslegungsvorschriften der einzelnen Länder/Regionen entsprechen. Zu den Anforderungen gehören beispielsweise Regeln für die Erfassung von Akquisitions- und Veräußerungsvorgängen, Abschreibungen, Nutzungsdauer sowie Zu- und Abschreibungen von Anlagevermögen. Die Funktionalität für Anlagevermögen beinhaltet viele dieser Standards und Regeln.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung
+
+  - Lektion 1&#58; Konfigurieren der Komponenten des Anlagevermögens
+
+  - Lektion 2&#58; Verwalten des Anlagevermögens
+
+  - Lektion 3&#58; Erwerb, Abschreibung und Veräußerung von Anlagevermögen
+
+  - Lektion 4&#58; Integration von Anlagenvermögen
+
+  - Zusammenfassung des Moduls
+
+  - Wissensbeurteilung
+
+
+  #### <a name="lab-58-exercise-158-configure-fixed-assets-components"></a>Lab&#58; Übung 1&#58; Konfigurieren der Komponenten des Anlagevermögens
+
+
+  #### <a name="lab-58-exercise-258-set-up-and-create-depreciation-profiles"></a>Lab&#58; Übung 2&#58; Einrichten und Erstellen von Abschreibungsprofilen
+
+
+  #### <a name="lab-58-exercise-358-acquiring-an-asset-using-the-fixed-assets-journal"></a>Lab&#58; Übung 3&#58; Erwerben einer Anlage über das Anlagevermögenjournal
+
+
+  #### <a name="lab-58-exercise-458-depreciating-and-disposing-an-asset"></a>Lab&#58; Übung 4&#58; Abschreiben und Veräußern einer Anlage
+
+  Sie haben Folgendes gelernt&#58;
+
+  - Implementieren und Verwalten des Anlagevermögens
+
+  - Erstellen von Anlagevermögen und Anlagengruppen
+
+  - Beschreiben und Konfigurieren von Anlagenbüchern und Abschreibungen
+
+  - Konfigurieren der Parameter des Anlagevermögens
+
+  - Erwerb und Abschreibung von Anlagevermögen
+
+  - Leasing von Anlagevermögen
+
+  - Duale Währung bei Anlagevermögen
+
+  - Organisationsweite Bezeichner für Anlagevermögen
+
+  - Veräußerung des Anlagevermögens
+
+  - Erstellen von Budgets für Anlagevermögen und Übertragen der Budgets an das Budgetierungsmodul
+
+  - Schätzen und Durchführen einer Löschung eines Projekts für Anlagevermögen

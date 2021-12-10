@@ -1,21 +1,27 @@
 ### YamlMime:Course
-title: Microsoft Azure Fundamentals (1 Day)
+title: Microsoft Azure Fundamentals (1 Tag)
 metadata:
-  title: 'Course AZ-900T01-A: Microsoft Azure Fundamentals (1 Day)'
-  description: 'Course AZ-900T01-A: Microsoft Azure Fundamentals (1 Day)'
+  title: 'Kurs AZ-900T01-A: Microsoft Azure Fundamentals (1 Tag)'
+  description: 'Kurs AZ-900T01-A: Microsoft Azure Fundamentals (1 Tag)'
   iltScheduling: true
+  ms.openlocfilehash: 514adfbe8bfe5a6cbcc00b895d2cee964746b8ab
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107562"
 uid: course.az-900t01
-courseNumber: 'AZ-900T01-A'
+courseNumber: AZ-900T01-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Erläutern Sie die Grundlagen von Cloud Computing und Azure sowie die ersten Schritte mit Abonnements und Accounts von Azure.
-- skill: Beschreiben Sie die Vorteile der Verwendung von Cloud-Computing-Services, lernen Sie, zwischen den Kategorien und Typen von Cloud-Computing zu unterscheiden, und wie Sie die verschiedenen Konzepte, Ressourcen und Terminologie untersuchen, die für die Arbeit mit der Azure-Architektur erforderlich sind.
-- skill: Beschreiben Sie die mit Microsoft Azure verfügbaren Kern-Services.
-- skill: Erläutern Sie die Kernlösungen, die eine Vielzahl von Tools und Services von Microsoft Azure umfassen.
-- skill: Beschreiben der allgemeinen Sicherheits- und Netzwerksicherheitsfunktionen sowie der Verwendung der verschiedenen Azure-Services, um sicherzustellen, dass Ihre Cloud-Ressourcen sicher und vertrauenswürdig sind.
-- skill: Erläutern Sie die Identitäts-, Governance-, Datenschutz- und Compliance-Funktionen und wie Azure Ihnen dabei helfen kann, den Zugriff auf Cloud-Ressourcen zu sichern, was es bedeutet, eine Cloud-Governance-Strategie zu erstellen und wie Azure gemeinsame Regulierungs- und Compliance-Standards einhält.
-- skill: Erläutern Sie die Faktoren, die die Kosten beeinflussen, Tools, mit denen Sie Ihre Cloud-Ausgaben schätzen und verwalten können, und wie sich die Service Level Agreements (SLAs) von Azure auf Ihre Entscheidungen zum Anwendungsdesign auswirken können.
+- skill: Erläutern Sie die Grundlagen von Cloud Computing und Microsoft Azure sowie die ersten Schritte mit Azure-Abonnements und -Konten.
+- skill: Beschreiben Sie die Vorteile der Verwendung von Cloud Computing-Diensten, lernen Sie, zwischen den Kategorien und Typen von Cloud Computing zu unterscheiden, und lernen Sie die verschiedenen Konzepte, Ressourcen und die Terminologie kennen, die für die Arbeit mit der Azure-Architektur erforderlich sind.
+- skill: Beschreiben Sie die in Microsoft Azure verfügbaren Kerndienste.
+- skill: Erläutern Sie die Kernlösungen, die eine Vielzahl von Tools und Diensten aus Microsoft Azure umfassen.
+- skill: Beschreiben Sie die allgemeinen Sicherheits- und Netzwerksicherheitsfeatures sowie die Verwendung der verschiedenen Azure-Dienste, um sicherzustellen, dass Ihre Cloudressourcen sicher, geschützt und vertrauenswürdig sind.
+- skill: Erläutern Sie die Identitäts-, Governance-, Datenschutz- und Compliancefeatures, und erörtern Sie, wie Sie mit Azure den Zugriff auf Cloudressourcen schützen, welche Bedeutung das Erstellen einer Cloudgovernancestrategie hat und wie Azure die üblichen gesetzlichen Vorgaben und Compliancestandards erfüllt.
+- skill: Beschreiben Sie die Faktoren, die die Kosten beeinflussen, und die Tools, die Sie zum Schätzen und Verwalten Ihrer Cloudausgaben verwenden können, und besprechen Sie, wie die Vereinbarung zum Servicelevel (Service Level Agreements, SLAs) von Azure Ihre Entscheidungen beim Anwendungsentwurf beeinflussen können.
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -44,112 +50,202 @@ products:
 - azure
 exams:
 - uid: exam.az-900
-summary: |-
-  Dieser zweitägige Kurs vermittelt grundlegende Kenntnisse über die wichtigsten Azure-Konzepte. Azure-Kernservices; Kernlösungen und Management-Tools; allgemeine Sicherheit und Netzwerksicherheit; Governance-, Datenschutz- und Compliance-Funktionen; Azure-Kostenmanagement- und Servicevereinbarungen.
+summary: >-
+  Dieser eintägige Kurs vermittelt grundlegende Kenntnisse über Azure-Konzepte, Azure-Kerndienste, Kernlösungen und Verwaltungstools, allgemeine Sicherheit und Netzwerksicherheit, Governance-, Datenschutz- und Compliancefeatures, Azure-Kostenverwaltung und Vereinbarungen zum Servicelevel.
 
-  Hinweis&#58; Dieser Kurs bietet keinen Azure-Pass oder Zeit für Schüler, an praktischen Übungen teilzunehmen. Wenn Sie an einer interaktiveren praktischen Laborerfahrung interessiert sind, sollten Sie den AZ-900T00 in Betracht ziehen&#58; Microsoft Azure Fundamentals (2-tägiger) Kurs, der von Trainern geleitete praktische Übungen umfasst. Der Inhalt für beide Kurse richtet sich nach der Zieldomäne der AZ-900-Prüfung.
 
-  #### Zielgruppenprofil
+  Hinweis: Dieser Kurs bietet keinen Azure-Pass oder Zeit für Schüler, an praktischen Übungen teilzunehmen. Wenn Sie an einem interaktiveren Praxislab interessiert sind, sollten Sie den Kurs „AZ-900T00: Microsoft Azure Fundamentals“ (2 Tage) in Betracht ziehen, der von Trainern geleitete Praxislabs umfasst. Der Inhalt für beide Kurse richtet sich nach der Zieldomäne der AZ-900-Prüfung.
+
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
   Dieser Kurs eignet sich für Programmmanager und technischen Vertrieb mit allgemeinem IT-Hintergrund. Diese Schüler möchten mehr über unsere Angebote erfahren, sehen, wie Komponenten implementiert werden, und Fragen zu Produkten und Funktionen stellen. Dieser Kurs bietet keinen Azure-Pass oder Zeit im Klassenzimmer, damit die Studenten praktische Aktivitäten ausführen können. Die Studenten können eine kostenlose Testversion erhalten und die Komplettlösungen außerhalb des Unterrichts durchführen. Dieser Kurs besteht hauptsächlich aus Vorlesungen und Demonstrationen. Dieser Kurs hilft dabei, jemanden auf die AZ-900-Prüfung vorzubereiten.
-prerequisitesSection: |-
-  Es gibt keine Voraussetzungen für die Teilnahme an diesem Kurs. Je mehr technisches Wissen ein Teilnehmer hat, desto besser wird er die Cloud verstehen.
-outlineSection: |-
-  ### Modul 1&#58; Beschreiben der wichtigsten Azure-Konzepte
-  In diesem Modul erhalten Sie einen umfassenden Einblick in Azure und seine Funktionen, der Ihnen eine solide Grundlage für die Vervollständigung der verfügbaren Module für Azure Fundamentals bietet.
-  #### Lektionen
-  - Einführung in die Azure-Grundlagen
-  - Erläutern der grundlegenden Azure-Konzepte
-  - Beschreiben der wichtigsten Azure-Architekturkomponenten
+prerequisitesSection: Es gibt keine Voraussetzungen für die Teilnahme am Kurs. Je mehr technisches Wissen ein Kursteilnehmer hat, desto besser wird er die Cloud verstehen.
+outlineSection: >-
+  ### <a name="module--158-describe-core-azure-concepts"></a>Modul 1&#58; Beschreiben der wichtigsten Azure-Konzepte
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Verstehen Sie die Vorteile von Cloud Computing in Azure und wie Sie Zeit und Geld sparen können.
-  - Erläutern Sie Konzepte wie Hochverfügbarkeit, Skalierbarkeit, Elastizität, Agilität und Notfallwiederherstellung. 
-  - Beschreiben der wichtigsten Azure-Architekturkomponenten wie Abonnements, Verwaltungsgruppen und Ressourcen. 
-  - Fassen Sie geografische Verteilungskonzepte wie Azure-Regionen, Regionspaare und Verfügbarkeitszonen zusammen. 
-  
-  ### Modul 2&#58; Beschreiben der Azure-Core-Services
-  In diesem Modul erfahren Sie mehr über Azure-Core-Services wie Azure Datenbank, Azure Compute, Azure Speicher, und Azure Networking.
-  #### Lektionen
-  - Erkunden Sie Azure-Datenbank- und Analyse-Services
-  - Erkunden Sie die Azure Compute Services
-  - Erkunden Sie die Azure Storage Services
-  - Erkunden Sie die Azure-Networking Services
-  
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Grundlegendes zu den in Azure verfügbaren Services, einschließlich Computer, Netzwerk, Speicher und Datenbanken.
-  - Identifizieren Sie Virtualisierungs-Services wie Azure-VMs, Azure-Containerinstanzen und Azure-Kubernetes. 
-  - Vergleichen Sie Azure-Datenbank-Services wie Azure Cosmos DB, Azure SQL und Azure Datenbank für MySQL.
-  - Untersuchen Sie Azure-Netzwerkressourcen wie virtuelle Netzwerke, VPN-Gateways und Azure ExpressRoute. 
-  - Fassen Sie Azure-Speicher-Services wie Azure Blob-Speicher, Azure-Festplattenspeicher und Azure-Dateispeicher zusammen. 
-  
-  ### Modul 3&#58; Beschreiben der Kernlösungen und Verwaltungstools in Azure
-  In diesem Modul lernen Sie KI-Maschinelles Lernen, Azure DevOps, Grundlagen der Überwachung, Grundlagen der Verwaltung und Grundlagen des Serverless Computing sowie IoT-Grundlagen kennen.
-  #### Lektionen
-  - Wählen Sie den besten KI-Service für Ihre Bedürfnisse
-  - Wählen Sie die besten Tools aus, mit denen Unternehmen bessere Lösungen entwickeln können
-  - Wählen Sie den besten Überwachungs-Service für Sichtbarkeit, Einblick und Ausfallminderung
-  - Wählen Sie die besten Tools zum Verwalten und Konfigurieren Ihrer Azure-Umgebung aus
-  - Wählen Sie die beste servierlose Azure-Technologie für Ihr Geschäftsszenario
-  - Wählen Sie den besten Azure IoT-Service für Ihre Anwendung aus
-  
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Wählen Sie den richtigen Azure AI-Service aus, um verschiedene Arten von geschäftlichen Herausforderungen zu bewältigen.
-  - Wählen Sie die besten Tools und Services für den Softwareentwicklungsprozess für ein bestimmtes Geschäftsszenario aus. 
-  - Wählen Sie den richtigen Cloud-Überwachungsservice, um verschiedene geschäftliche Herausforderungen zu bewältigen.
-  - Wählen Sie das richtige Azure-Verwaltungstool aus, um verschiedene technische Anforderungen zu erfüllen. 
-  - Wählen Sie die richtige serverlose Computertechnologie für Ihr Geschäftsszenario. 
-  - Wählen Sie den besten Azure IoT-Service für ein bestimmtes Geschäftsszenario aus.
-  
-  ### Modul 4&#58; Beschreiben der allgemeinen Sicherheits- und Netzwerksicherheitsfunktionen
-  In diesem Modul erfahren Sie, wie Sie sich vor Sicherheitsbedrohungen schützen und Ihre Netzwerke mit Azure schützen können.
-  #### Lektionen
-  - Schützen Sie Azure vor Sicherheitsbedrohungen
-  - Sichere Netzwerkverbindung in Azure
-  
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Stärken Sie Ihre Sicherheitslage und schützen Sie sich mit Hilfe des Azure Sicherheits-Centers vor Bedrohungen.
-  - Sammeln und verarbeiten Sie Sicherheitsdaten aus vielen verschiedenen Quellen mit Hilfe von Azure Sentinel.
-  - Verwalten Sie dedizierte physische Server, um Ihre Azure-VMs für Windows und Linux zu hosten. 
-  - Identifizieren Sie die Ebenen, aus denen sich eine Strategie der *Tiefenverteidigung* zusammensetzt.
-  - Erläutern Sie, wie Sie mit der Azure-Firewall steuern können, welcher Datenverkehr im Netzwerk zulässig ist.
-  - Konfigurieren Sie Netzwerksicherheitsgruppen, um den Netzwerkverkehr zu und von Azure-Ressourcen zu filtern.
-  - Erläutern Sie, wie Azure DDoS Protection Ihre Azure-Ressourcen vor DDoS-Angriffen schützt.
-  
-  ### Modul 5&#58; Beschreiben von Identitäts-, Governance-, Datenschutz- und Compliance-Funktionen
-  In diesem Modul erfahren Sie mehr über Azure-Identitätsservices, das Erstellen einer Cloud-Governance-Strategie sowie Datenschutz-, Compliance- und Datenschutzstandards für Azure.
-  #### Lektionen
-  - Sicherer Zugriff auf Ihre Anwendungen mit Hilfe von Azure-Identitätsservices
-  - Erstellen Sie eine Cloud-Governance-Strategie für Azure
-  - Überprüfen Sie die Datenschutz-, Compliance- und Datenschutzstandards in Azure
-  
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Erläutern Sie den Unterschied zwischen Authentifizierung und Autorisierung.
-  - Beschreiben Sie, wie Azure Active Directory die Identitäts- und Zugriffsverwaltung bereitstellt.
-  - Erläutern Sie die Rolle von Single Sign-On (SSO), Multifaktorauthentifizierung und bedingtem Zugriff.
-  - Treffen Sie mit Hilfe von CAF für Azure organisatorische Entscheidungen über Ihre Cloud-Umgebung.
-  - Definieren Sie mit Hilfe der rollenbasierten Azure-Zugriffssteuerung, wer auf Cloud-Ressourcen zugreifen kann.
-  - Wenden Sie eine Ressourcensperre an, um ein versehentliches Löschen Ihrer Azure-Ressourcen zu verhindern.
-  - Wenden Sie Tags für Ihre Azure-Ressourcen an, um deren Zweck zu beschreiben.
-  - Steuern und überwachen Sie, wie Ihre Ressourcen mit Hilfe der Azure-Richtlinie erstellt werden.
-  - Aktivieren Sie die Governance über mehrere Azure-Abonnements hinweg, mit Hilfe von Azure-Entwürfen.
-  - Erläutern Sie die Arten von Compliance-Angeboten, die in Azure verfügbar sind.
-  - Erhalten Sie Einblick in gesetzliche Standards und Compliance in Azure.
-  - Erläutern Sie die für Regierungsbehörden spezifischen Azure-Funktionen.
-  
-  ### Modul 6&#58; Beschreiben von Azure-Kostenmanagement- und Service Level-Vereinbarungen
-  In diesem Modul erfahren Sie, wie man Azure-Kosten planen und verwalten und die richtigen Azure-Services über SLAs und den Servicelebenszyklus auswählen kann.
-  #### Lektionen
-  - Planen und verwalten Sie Ihre Azure-Kosten
-  - Wählen Sie die richtigen Azure-Services aus, indem Sie die SLAs und den Dienstlebenszyklus untersuchen
-  
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Verwenden Sie den Rechner für die Gesamtbetriebskosten.
-  - Beschreiben Sie die verschiedenen Möglichkeiten, Azure-Produkte und -Services zu erwerben.
-  - Verwenden Sie den Preisrechner, um die monatlichen Kosten für die Ausführung Ihrer Cloud-Workloads anzusetzen.
-  - Definieren Sie die Hauptfaktoren, die sich auf die Gesamtkosten auswirken, und wenden Sie empfohlene Vorgehensweisen an, die Kosten zu minimieren.
-  - Beschreiben Sie, was ein Servicevertrag (SLA) ist und warum SLAs wichtig sind.
-  - Identifizieren Sie Faktoren wie die von Ihnen ausgewählte Serviceebene, die sich auf eine SLA auswirken können.
+  In diesem Modul erhalten Sie einen allgemeinen Überblick für Einsteiger über Azure und die dort verfügbaren Funktionen. Es stellt eine solide Grundlage für die Bearbeitung der verfügbaren Module zu Azure-Grundlagen dar.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung in Azure-Grundlagen
+
+  - Grundlegende Konzepte von Azure
+
+  - Beschreiben der wichtigsten Architekturkomponenten in Azure
+
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage:
+
+  - Informieren Sie sich über die Vorteile von Cloud Computing in Azure und wie Sie damit Zeit und Geld sparen können.
+
+  - Vermitteln von Konzepten wie Hochverfügbarkeit, Skalierbarkeit, Elastizität, Agilität und Notfallwiederherstellung
+
+  - Beschreiben der Azure-Architekturkomponenten, z. B. Abonnements, Verwaltungsgruppen und Ressourcen
+
+  - Zusammenfassen geografischer Verteilungskonzepte, z. B. Azure-Regionen, Regionspaare und Verfügbarkeitszonen
+
+
+
+  ### <a name="module--258-describe-core-azure-services"></a>Modul 2&#58: Beschreiben der wichtigsten Azure-Dienste
+
+  In diesem Modul erfahren Sie mehr über wichtige Azure-Dienste wie Azure-Datenbank, Azure Compute, Azure Storage und Azure-Netzwerk.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung in Azure-Datenbank- und Analysedienste
+
+  - Erkunden von Azure-Computediensten
+
+  - Informationen zu Azure Storage-Diensten
+
+  - Grundlagen zu Azure-Netzwerkdiensten
+
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage:
+
+  - Verständnis der in Azure verfügbaren Dienste für Computing, Netzwerke, Speicher und Datenbanken
+
+  - Identifizieren von Virtualisierungsdiensten wie Azure-VMs, Azure Container Instances und Azure Kubernetes
+
+  - Vergleichen der Azure-Datenbankdienste wie Azure Cosmos DB, Azure SQL und Azure Database for MySQL
+
+  - Überprüfen von Azure-Netzwerkressourcen wie virtuelle Netzwerke, VPN-Gateways und Azure ExpressRoute
+
+  - Zusammenfassen der Azure-Speicherdienste wie Azure Blob Storage, Azure Disk Storage und Azure File Storage
+
+
+
+  ### <a name="module--358-describe-core-solutions-and-management-tools-on-azure"></a>Modul 3&#58; Beschreiben grundlegender Lösungen und Verwaltungstools in Azure
+
+  In diesem Modul erfahren Sie mehr über maschinelles Lernen mit KI, Azure DevOps, Grundlagen der Überwachung, Verwaltungsgrundlagen, Grundlagen von serverlosem Computing und IoT-Grundlagen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Auswählen der besten KI-Dienste für Ihre Anforderungen
+
+  - Entscheidung für geeignete Tools, mit denen Organisationen bessere Lösungen entwickeln können
+
+  - Auswählen des besten Überwachungsdiensts für Sichtbarkeit und Erkenntnisse sowie zur Entschärfung von Ausfällen
+
+  - Auswählen des besten Tools zum Verwalten und Konfigurieren Ihrer Azure-Umgebung
+
+  - Auswählen der besten serverlosen Azure-Technologie für Ihr Geschäftsszenario
+
+  - Auswählen des besten Azure IoT-Diensts für Ihre Anwendung
+
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage:
+
+  - Auswählen des richtigen Azure KI-Diensts für verschiedene geschäftliche Herausforderungen
+
+  - Sie können die besten Tools und Dienste für den Softwareentwicklungsprozess für ein bestimmtes Geschäftsszenario auswählen.
+
+  - Sie können den richtigen Cloudüberwachungsdienst auswählen, um unterschiedliche geschäftliche Herausforderungen zu erfüllen.
+
+  - Auswählen des richtige Azure-Verwaltungstools für unterschiedliche technische Anforderungen
+
+  - Sie können die richtige Technologie für serverloses Computing für Ihr Geschäftsszenario auswählen.
+
+  - Zuletzt können Sie den besten Azure IoT-Dienst für ein bestimmtes Geschäftsszenario auswählen.
+
+
+
+  ### <a name="module--458-describe-general-security-and-network-security-features"></a>Modul 4&#58; Beschreiben der Features für allgemeine Sicherheit und Netzwerksicherheit
+
+  In diesem Modul erfahren Sie, wie Sie sich vor Sicherheitsbedrohungen und Ihre Netzwerke mit Azure schützen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Schutz vor Sicherheitsbedrohungen in Azure
+
+  - Sichere Netzwerkkonnektivität in Azure
+
+
+  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage:
+
+  - Stärken Ihres Sicherheitsstatus und Schützen vor Bedrohungen mithilfe des Azure Security Center
+
+  - Sammeln von Sicherheitsdaten aus verschiedenen Quellen mithilfe von Azure Sentinel und anschließendes Ergreifen von Maßnahmen
+
+  - Verwalten dedizierter physischer Server zum Hosten Ihrer Azure-VMs für Windows und Linux
+
+  - Identifizieren der Schichten einer *Defense-in-Depth*-Strategie.
+
+  - Erklären, wie mit Azure Firewall gesteuert werden kann, welcher Datenverkehr im Netzwerk zulässig ist
+
+  - Konfigurieren von Netzwerksicherheitsgruppen zum Filtern des Netzwerkdatenverkehrs zwischen Azure-Ressourcen
+
+  - Erklären, wie Azure DDoS Protection Sie beim Schutz Ihrer Azure-Ressourcen vor DDoS-Angriffen unterstützt
+
+
+
+  ### <a name="module--558-describe-identity-governance-privacy-and-compliance-features"></a>Modul 5&#58; Beschreiben der Features für Identität, Governance, Datenschutz und Compliance
+
+  In diesem Modul erfahren Sie mehr über Azure-Identitätsdienste, das Entwickeln einer Cloudgovernancestrategie sowie Datenschutz-, Compliance- und Schutzstandards in Azure.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Sichern des Zugriffs auf Ihre Anwendungen mithilfe von Azure-Identitätsdiensten
+
+  - Erstellen einer Strategie für Cloudgovernance in Azure
+
+  - Überprüfen von Datenschutz- und Compliancestandards in Azure
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Erläutern des Unterschieds zwischen Authentifizierung und Autorisierung.
+
+  - Beschreiben, wie Azure Active Directory Identitäts- und Zugriffsverwaltung bereitstellt.
+
+  - Erläutern, welche Rolle einmaliges Anmelden (Single Sign-On, SSO), mehrstufige Authentifizierung und bedingter Zugriff spielen
+
+  - Treffen von organisatorischen Entscheidungen für Ihre Cloudumgebung mithilfe des CAF für Azure
+
+  - Definieren, wer auf Cloudressourcen zugreifen kann, mithilfe von rollenbasierter Azure-Zugriffssteuerung.
+
+  - Anwenden einer Ressourcensperre, um ein versehentliches Löschen kritischer Azure-Ressourcen zu verhindern.
+
+  - Anwenden von Tags auf Ihre Azure-Ressourcen an, um ihren Zweck zu beschreiben.
+
+  - Steuern und Überwachen mit Azure Policy, wie Ihre Ressourcen erstellt werden.
+
+  - Aktivieren von entsprechender Governance über mehrere Azure-Abonnements hinweg mithilfe von Azure Blueprints.
+
+  - Erläutern der Typen von Complianceangeboten, die in Azure zur Verfügung stehen.
+
+  - Erhalten des Einblicks in gesetzliche Standards und Compliance in Azure
+
+  - Erläutern der Azure-Funktionen, die für Regierungsbehörden spezifisch sind.
+
+
+
+  ### <a name="module--658-describe-azure-cost-management-and-service-level-agreements"></a>Modul 6&#58; Beschreiben von Kostenmanagement in Azure und der Vereinbarungen zum Servicelevel
+
+  In diesem Modul erfahren Sie, wie Sie Azure-Kosten planen und verwalten und wie Sie die richtigen Azure-Dienste über SLAs und den Dienstlebenszyklus auswählen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Planen und Verwalten Ihrer Azure-Kosten
+
+  - Auswählen der richtigen Azure-Dienste durch Untersuchen der SLAs und des Dienstlebenszyklus
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Verwenden des Gesamtkostenrechners
+
+  - Beschreiben der unterschiedlichen Arten, in denen Sie Azure-Produkte und -Dienste kaufen können.
+
+  - Verwenden des Preisrechners, um die monatlichen Kosten der Ausführung Ihrer Cloudworkloads abzuschätzen.
+
+  - Definieren der Hauptfaktoren, die sich auf die Gesamtkosten auswirken, sowie Anwenden empfohlener Vorgehensweisen zum Minimieren von Kosten
+
+  - Beschreiben, was eine Vereinbarung zum Service Level (SLA) ist, und warum SLAs wichtig sind.
+
+  - Identifizieren von Faktoren, z. B. der von Ihnen gewählten Dienstebene, die sich auf eine SLA auswirken können.
+
   - Kombinieren Sie SLAs, um eine zusammengesetzte SLA zu berechnen.
-  - Beschreiben Sie den Servicelebenszyklus in Azure. 
 
-
+  - Beschreiben des Dienstlebenszyklus in Azure

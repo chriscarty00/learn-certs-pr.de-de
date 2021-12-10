@@ -1,6 +1,6 @@
 ---
-title: 'Geheimhaltungsvereinbarung zur Microsoft-Zertifizierungsverlängerungsbewertung | Microsoft Docs'
-description: 'Geheimhaltungsvereinbarung zur Microsoft-Zertifizierungsverlängerungsbewertung'
+title: 'Prüfung zur Verlängerung von Microsoft-Zertifizierungen: Geheimhaltungsvereinbarung | Microsoft-Dokumentation'
+description: 'Prüfung zur Verlängerung von Microsoft-Zertifizierungen: Geheimhaltungsvereinbarung'
 documentationcenter: NA
 author: micsullivan
 ms.topic: article
@@ -9,59 +9,64 @@ ms.workload: NA
 ms.date: 05/13/2021
 ms.author: msulliv
 ms.prod: non-product-specific
+ms.openlocfilehash: 6b0896135ea2663b804599af6fe4da12f00d3d1a
+ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 09/14/2021
+ms.locfileid: "132111368"
 ---
-# Geheimhaltungsvereinbarung zur Microsoft-Zertifizierungsverlängerungsbewertung
+# <a name="microsoft-certification-renewal-assessment-non-disclosure-agreement"></a>Prüfung zur Verlängerung von Microsoft-Zertifizierungen: Geheimhaltungsvereinbarung
 
-## VEREINBARUNG ZUR ERNEUERUNG DER MICROSOFT ZERTIFIZIERUNG
+### <a name="microsoft-certification-renewal-assessment-agreement"></a>Vereinbarung für die Prüfung zur Verlängerung von Microsoft-Zertifizierungen
 
-**BITTE LESEN SIE DIESE VEREINBARUNG ZUR ERNEUERUNG DER MICROSOFTERNEUERUNGSZERTIFIZIERUNG („VEREINBARUNG“) SORGFÄLTIG DURCH. SIE MÜSSEN DEM ZUSTIMMEN, DAMIT DIE BEWERTUNG VORGENOMMEN WERDEN KANN.**
+**Lesen Sie diese Vereinbarung zur Prüfung zur Verlängerung der Microsoft-Zertifizierung („Vereinbarung“) sorgfältig durch. Sie müssen ihr zustimmen, um an der Prüfung teilnehmen zu können.**
 
-Diese Vereinbarung wird ab dem Zeitpunkt Ihrer Zustimmung zwischen Ihnen (**Sie** oder **Ihrem/Ihrer**) und der Microsoft Corporation (**Microsoft**) abgeschlossen.
+Diese Vereinbarung wird zum Zeitpunkt Ihrer Zustimmung zwischen Ihnen (**Sie** oder **Ihrem/Ihrer**) und der Microsoft Corporation (**_Microsoft_**) abgeschlossen.
 
-1. **VERTRAULICHKEIT**
+1. **Vertraulichkeit**
 
-    Die Geheimhaltung von Microsoft-Zertifizierungserneuerungsbewertungen trägt dazu bei, den Wert von Microsoft-Zertifizierungen zu erhalten und sicherzustellen, dass nur qualifizierte Personen zertifiziert werden.
+    Die Geheimhaltung von Prüfungen zur Verlängerung von Microsoft-Zertifizierungen trägt dazu bei, die Bedeutung von Microsoft-Zertifizierungen zu wahren und sicherzustellen, dass nur qualifizierte Personen zertifiziert werden.
 
-    Bei dieser Bewertung handelt es sich um vertrauliche und urheberrechtlich geschützte Informationen von Microsoft, die durch Gesetze zum Schutz des geistigen Eigentums geschützt sind. Es wird Ihnen ausschließlich zur Verfügung gestellt, um Ihr Wissen und Ihre Kompetenz in dem Zertifizierungsthema zu testen.
+    Diese Prüfung ist eine vertrauliche und geschützte Information von Microsoft und unterliegt Gesetzen zum Schutz geistigen Eigentums. Sie wird exklusiv Ihnen allein angeboten, um Ihre Kenntnisse und Kompetenzen im Zusammenhang mit dem Zertifizierungsgegenstand zu testen.
 
-    Jegliche Offenlegung der Bewertung oder von Informationen im Zusammenhang mit der Bewertung, einschließlich Bewertungsfragen, Antworten, Inhalten, Berechnungen, Diagrammen, Zeichnungen oder Arbeitsblättern („***Bewertungsbezogene Informationen***“), ist strengstens untersagt. Sie werden die Bewertung oder bewertungsbezogene Informationen weder ganz noch teilweise, in irgendeiner Form oder auf irgendeine Weise, die jetzt bekannt ist oder später entwickelt wird, offenlegen, verteilen, kopieren, anzeigen, veröffentlichen, zusammenfassen, fotografieren, aufzeichnen, herunterladen, übertragen oder posten.
+    Jegliche Offenlegung der Prüfung oder von prüfungsbezogenen Informationen, einschließlich Prüfungsfragen, -antworten, -inhalten, -berechnungen, -diagrammen oder Arbeitsblättern (***Informationen in Verbindung mit der Prüfung***) ist streng untersagt. Sie werden die Prüfung oder prüfungsbezogene Informationen weder ganz noch teilweise in keiner Form oder mit irgendwelchen Mitteln, die jetzt bekannt sind oder nachstehend beschrieben werden, offenlegen, verteilen, kopieren, anzeigen, veröffentlichen, zusammenfassen, fotografieren, aufzeichnen, herunterladen, übertragen oder veröffentlichen.
 
-2. **VERHALTENSRICHTLINIE FÜR KANDIDATEN**
+2. **Verhaltensrichtlinien für Kandidaten**
 
-    Sie werden sich nicht an Verhaltensweisen beteiligen, die die Vertraulichkeit oder die Ergebnisse einer Microsoft-Zertifizierungsprüfung oder einer Verlängerungsbewertung beeinträchtigen könnten. Ihnen kann die Teilnahme an zukünftigen Microsoft-Zertifizierungsprüfungen untersagt werden und/oder Ihre Prüfungsergebnisse zur Verlängerung können ungültig werden, wenn Microsoft der Ansicht ist, dass Sie gegen diese Vereinbarung verstoßen oder ein Fehlverhalten begangen haben. Beispiele für Fehlverhalten sind unter anderem:
+    Sie werden sich nicht so verhalten, dass die Vertraulichkeit oder Ergebnisse einer Microsoft-Zertifizierungs- oder verlängerungsprüfung beeinträchtigt werden könnten. Wenn Microsoft der Ansicht ist, dass Sie gegen diese Vereinbarung verstoßen oder sich eines Fehlverhaltens schuldig gemacht haben, kann Ihnen die Teilnahme an künftigen Microsoft-Zertifizierungsprüfungen untersagt werden und/oder Ihre Ergebnisse der Verlängerungsprüfung können für ungültig erklärt werden. Beispiele für Fehlverhalten sind u. a.:
 
-    - Bereitstellung des Zugangs zu, Offenlegung, Verteilung, Kopieren, Fotografieren, Aufzeichnen, Herunterladen, Posten, Anzeigen, Veröffentlichen oder Übertragen von Bewertungen oder bewertungsbezogenen Informationen in jeglicher Form und auf jede beliebige Weise.
-    - Ihre Identität falsch darzustellen oder sich als eine andere Person auszugeben.
-    - Falsche Angaben zum Land Ihres Wohnsitzes.
-    - Ändern oder Ändern der Bewertung, der Bewertungspunktzahl oder eines Bewertungsdatensatzes.
-    - Einreichen von Arbeiten oder Antworten, die nicht vollständig von Ihnen stammen.
-    - Bereitstellung oder Erhalt unangemessener Hilfe jeglicher Art während der Bewertung.
-    - Beantragen oder Erlangen nicht autorisierten Zugriffs auf Microsoft-Zertifizierungserneuerungsbewertungen oder bewertungsbezogene Informationen (dies umfasst die Verwendung von Brain-Dump-Material oder die unbefugte Veröffentlichung von Bewertungsfragen mit oder ohne Antworten).
+    - Zugang gewähren zu, Offenlegung, Verteilung, Kopieren, Fotografieren, Aufzeichnen, Herunterladen, Posten, Anzeigen, Veröffentlichen oder Übertragen von Prüfungen oder prüfungsbezogenen Informationen in jeglicher Form oder mit jeglichen Mitteln.
+    - Falschdarstellung Ihrer Identität oder Verkörperung einer anderen Person.
+    - Falsche Angaben zum Land des Wohnsitzes.
+    - Modifizieren oder Ändern der Prüfung, des Prüfungsergebnisses oder eines Prüfungsdatensatzes.
+    - Einreichen von Arbeiten oder Antworten, die nicht ganz Ihre eigenen sind.
+    - Leisten oder in Anspruch nehmen unangemessener Unterstützung jeglicher Art während der Prüfung.
+    - Suchen oder Erlangen von nicht autorisiertem Zugriff auf Prüfungen zur Verlängerung von Microsoft-Zertifizierungen oder auf prüfungsbezogene Informationen (dies umfasst die Verwendung von Brain-Dump-Material oder die nicht autorisierte Veröffentlichung von Prüfungsfragen mit oder ohne Antworten).
     - Durch statistische Analyse festgestelltes Fehlverhalten.
-    - Beteiligung an sonstigem Fehlverhalten, das die Vertraulichkeit, Integrität oder Sicherheit der Bewertung beeinträchtigen könnte.
-    - Verstoß gegen eine Microsoft-Richtlinie, -Anforderung oder -Regel.
+    - Sonstiges Fehlverhalten, das die Vertraulichkeit, Integrität oder Sicherheit der Prüfung gefährden könnte.
+    - Verstoß gegen eine Richtlinie, Anforderung oder Regel von Microsoft.
 
-    Microsoft behält sich das Recht vor, Ihr Bewertungsergebnis für ungültig zu erklären, wenn Microsoft feststellt, dass Sie diesen Teil nicht eingehalten haben.
+    Microsoft behält sich das Recht vor, Ihr Prüfungsergebnis für ungültig zu erklären, sollte Microsoft feststellen, dass Sie diesen Abschnitt nicht beachtet haben.
 
 3. **RICHTLINIEN**
 
-    Sie sind allein dafür verantwortlich, die Microsoft-Zertifizierungsrichtlinien und -verfahren zu verstehen und einzuhalten, einschließlich der Richtlinien für die Wiederholungsprüfung, die Sie unter [https://docs.microsoft.com/learn/certifications/certification-exam-policies](/learn/certifications/certification-exam-policies) finden können.
+    Sie sind allein dafür verantwortlich, die Richtlinien und Verfahren der Microsoft-Zertifizierung zu verstehen und einzuhalten, einschließlich der Wiederholungsrichtlinien, die Sie unter [https://docs.microsoft.com/learn/certifications/certification-exam-policies](/learn/certifications/certification-exam-policies) finden.
 
-    Sie haben dreißig (30) Tage nach der Durchführung einer Bewertung Zeit, Ihre Bewertungspunktzahl für diese Bewertung anzufechten.
+    Sie haben 30 Tage nach der Teilnahme an einer Prüfung Zeit, Ihr Prüfungsergebnis anzufechten.
 
-4. **DATENSCHUTZ**
+4. **Datenschutz**
 
-    Die personenbezogenen Daten, die Sie für diese Bewertung bereitstellen, können von Microsoft gemäß der [Microsoft-Datenschutzerklärung.](https://privacy.microsoft.com/en-us/privacystatement) verwendet werden. Microsoft kann auch die von Ihnen bereitgestellten personenbezogenen Daten und Ihre Bewertungsergebnisse mit anderen Microsoft-Programmen, z. B. dem Microsoft Partner Network-Programm, teilen und die Einhaltung der Programmanforderungen durch Sie oder Ihren Arbeitgeber überprüfen.
+    Die personenbezogenen Daten, die Sie für die Teilnahme an dieser Prüfung zur Verfügung stellen, können von Microsoft in Übereinstimmung mit der [Microsoft-Datenschutzerklärung](https://privacy.microsoft.com/en-us/privacystatement) genutzt werden. Microsoft darf die von Ihnen bereitgestellten personenbezogenen Daten und Ihre Prüfungsergebnisse auch an andere Microsoft-Programme weitergeben, z. B. an das Microsoft Partner Network-Programm, und prüfen, ob Sie oder Ihr Arbeitgeber die Programmanforderungen erfüllen.
 
-5. **HINWEIS ZUR DATENÜBERTRAGUNG**
+5. **Hinweis zur Datenübertragung**
 
-    Ihre personenbezogenen Daten, Prüfungsinformationen und Prüfungsergebnisse (einschließlich personenbezogener Daten, die aus dem europäischen Wirtschaftsraum, Großbritannien und der Schweiz erhoben wurden) können in die Vereinigten Staaten von Amerika oder in jedes andere Land, in dem Microsoft oder seine Partner-Unternehmen oder Subunternehmer Einrichtungen unterhalten, übertragen werden. Sie beauftragen Microsoft und seine Partner-Unternehmen, eine solche Übertragung Ihrer Daten, Prüfungsinformationen und Prüfungsergebnisse in ein solches Land durchzuführen und Ihre Daten zu speichern und zu verarbeiten. Weitere Informationen darüber, wie wir Ihre Daten erheben, verwenden und weitergeben, finden Sie in der [Datenschutzerklärung von Microsoft](https://go.microsoft.com/fwlink/?LinkId=248681).
+    Ihre personenbezogenen Daten, Prüfungsinformationen und Prüfungsergebnisse (einschließlich der in der Europäischen Union, dem Europäischen Wirtschaftsraum, Vereinigen Königreich und der Schweiz gesammelten personenbezogenen Daten) können in die USA oder jedes andere Land, in dem Microsoft oder seine verbundenen Unternehmen oder Subunternehmer Einrichtungen betreiben, gespeichert und verarbeitet werden. Sie gestatten Microsoft und verbundenen Unternehmen, eine derartige Übermittlung Ihrer Daten, Prüfungsinformationen und Prüfungsergebnisse in ein solches Land durchzuführen und Ihre Daten zu speichern und zu verarbeiten. In der [Microsoft-Datenschutzerklärung](https://go.microsoft.com/fwlink/?LinkId=248681) finden Sie weitere Informationen zur Erfassung, Verwendung und Weitergabe Ihrer Daten.
 
-6. **BESITZRECHTE**
+6. **Besitz**
 
-    Microsoft besitzt und behält sich alle Rechte, Titel und Interessen an der Microsoft-Zertifizierungserneuerungsbewertung und den bewertungsbezogenen Informationen vor.
+    Microsoft ist Besitzer aller Rechte, Titel und Interessen an der Prüfung zur Verlängerung von Microsoft-Zertifizierungen und den prüfungsbezogenen Informationen und behält sich diese vor.
 
-7. **RECHTSMITTEL**
+7. **Rechtsmittel**
 
-    Zusätzlich zu allen anderen gesetzlich oder in dieser Vereinbarung vorgesehenen Rechten und Rechtsmitteln behält sich Microsoft hiermit ausdrücklich alle rechtlichen und billigen Rechtsmittel vor, die sich aus einer Verletzung dieser Vereinbarung und/oder der Verletzung von geistigen Eigentumsrechten von Microsoft ergeben.
-	
+    Zusätzlich zu allen anderen Rechten und Rechtsbehelfen, die durch das Gesetz oder diese Vereinbarung vorgesehen sind, behält sich Microsoft hiermit ausdrücklich alle legalen und angemessenen Rechtsbehelfe vor, die sich aus einer Verletzung dieser Vereinbarung oder der Verletzung eines der geistigen Eigentumsrechte von Microsoft ergeben.

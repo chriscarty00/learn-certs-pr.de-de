@@ -1,23 +1,30 @@
 ### YamlMime:Course
-title: Migrating Application Workloads to Azure
+title: Migrieren von Anwendungsworkloads zu Azure
 metadata:
-  title: 'Course WS-050T00-A: Migrating Application Workloads to Azure'
-  description: 'Course WS-050T00-A: Migrating Application Workloads to Azure'
+  title: 'Kurs WS-050T00-A: Migrieren von Anwendungsworkloads zu Azure'
+  description: 'Kurs WS-050T00-A: Migrieren von Anwendungsworkloads zu Azure'
+  ms.openlocfilehash: cd959264ec3ad599be25b071aa993255da8b8fe3
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132106946"
 uid: course.ws-050t00
-courseNumber: 'WS-050T00-A'
+courseNumber: WS-050T00-A
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
-skillsGained: 
-- skill: Identifizieren Sie die Tools und Services, die für jede Phase der Migration spezifisch sind
-- skill: Lokale Workloads für die Migration zu Azure ermitteln und bewerten
-- skill: Erhalten Sie eine tiefere Profilierung einer Umgebung mit Hilfe von App-Abhängigkeitszuordnung und Bewertungsanpassungen
-- skill: Durchführen einer durchgehenden Migration lokaler Workloads zu Azure mit Azure Migrate
-- skill: Daten von einem lokalen Rechenzentrum in Azure oder an einen sekundären Standort replizieren
-- skill: Migrieren von Daten aus vorhandenen Datenquellen zu Azure-Datenplattformen mit Hilfe des Database Migration-Services
-- skill: Migrierte Workloads mit Azure Security Center, Azure Backup und Log Analytics sichern und verwalten
-- skill: Gewährleistung einer effektiven Geschäftskontinuitätsstrategie, die Hochverfügbarkeit und Notfallwiederherstellung umfasst
-- skill: Sichern und Schützen  virtueller Azure IaaS-Computer von jedem Standort aus mit dem Azure Backup Service
-- skill: Definieren Sie einen Wiederherstellungsplan, um sicherzustellen, dass virtuelle Maschinen ordnungsgemäß Failover ausführen, bevor ein vollständiges Failover ausgeführt wird
+skillsGained:
+- skill: Bestimmen der Tools und Dienste, die für die einzelnen Phasen der Migration spezifisch sind.
+- skill: Bestimmen der Tools und Dienste, die für die einzelnen Phasen der Migration spezifisch sind
+- skill: Ermitteln und Bewerten von lokalen Workloads für die Migration zu Azure
+- skill: Erstellen eines umfassenderen Profils einer Umgebung mithilfe von App-Abhängigkeitszuordnung und Bewertungsanpassungen
+- skill: Durchführen einer vollständigen Migration von lokalen Workloads zu Azure mit Azure Migrate
+- skill: Replizieren von Daten aus einem lokalen Rechenzentrum in Azure oder an einem sekundären Standort
+- skill: Migrieren von Daten aus vorhandenen Datenquellen zu Azure-Datenplattformen mithilfe von Database Migration Service
+- skill: Sichern und Verwalten migrierter Workloads mit Azure Security Center, Azure Backup und Log Analytics
+- skill: Sicherstellen einer effektiven Geschäftskontinuitätsstrategie, die Hochverfügbarkeit und Notfallwiederherstellung umfasst
+- skill: Sichern und Schützen virtueller Azure-IaaS-Computer von jedem Standort aus mithilfe des Diensts Azure Backup
+- skill: Definieren eines Wiederherstellungsplans, der vor einem vollständigen Failover ein ordnungsgemäßes Failover virtueller Computer gewährleistet
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -30,59 +37,91 @@ roles:
 - developer
 products:
 - azure
-summary: |-
-  In diesem Workshop lernen IT-Experten, wie sie vorhandene lokale Workloads und Assets in die Cloud migrieren, insbesondere auf die Microsoft Azure-Plattform. Die Teilnehmer lernen, eine vorhandene lokale Umgebung in Vorbereitung auf eine Cloud-Migration zu bewerten. Die Teilnehmer lernen auch, wie sie ihre Azure-basierten Workloads überwachen und optimieren, um die (ROI) zu maximieren, und Azure-Services zum Schutz und zur Verwaltung Ihrer virtuellen Computer, Anwendungen und Daten zu verwenden.  
-
-  #### Zielgruppenprofil
-  Dieser Workshop richtet sich an IT-Administratoren und Mitarbeiter, die Migrationen von lokalen Ressourcen zu Azure planen, implementieren und verwalten oder virtuelle Azure-Computer an andere Azure-Standorte replizieren. Sie nehmen Geschäftsanfragen von Workload-Eigentümern entgegen, um Workloads in die Cloud zu migrieren, um die Vorteile einer Cloud-fähigen Strategie gegenüber einem herkömmlichen Rechenzentrumsansatz zu nutzen. Diese Rolle erfordert die Kommunikation und Koordination mit verschiedenen Personen innerhalb der IT-Abteilung und den Geschäftsgruppen eines Unternehmens sowie mit Anbietern.
-prerequisitesSection: |-
-  - IT-Administratoren beginnen diese Rolle mit Erfahrung in Betriebssystemen, Virtualisierung, Cloud-Infrastruktur, Speicherstrukturen und Netzwerken. Darüber hinaus sollten IT-Administratoren über Erfahrung oder gleichwertige Kenntnisse in der Verwaltung einer IaaS-Azure-Infrastruktur verfügen. 
-  - Kenntnisse der lokalen Virtualisierungstechnologien, einschließlich&#58; VMs, virtueller Netzwerke und virtueller Festplatten. 
-  - Grundlegendes zu Netzwerkkonfigurationen, inklusive TCP/IP, Domain Name System (DNS), virtual private networks (VPNs), Firewalls und Verschlüsselungstechnologien. 
-  - Verständnis der Active Directory-Konzepte, einschließlich Domains, Gesamtstrukturen, Domaincontroller, Replikation, Kerberos-Protokoll und Lightweight Directory Access Protocol (LDAP). 
-  - Verständnis von Resilienz und Notfallwiederherstellung, inklusive Sicherung und Wiederherstellungsvorgängen. 
-  - Vertrautheit mit der Verwendung von Azure, einschließlich Azure-Portal, Cloud Shell, Azure PowerShell, CLI und ARM -Vorlage.
-  - Verständnis von Azure Active Directory und Cloud-Identitätsverwaltung. 
-  - Verständnis der Verwaltung von Abonnements, Benutzern, Gruppen und Abrechnung sowie Azure-Richtlinien.
-outlineSection: |-
-  ### Modul 1&#58; Planung und Bewertung und Azure-Migration
-  In diesem Modul lernen Sie die wichtigsten geschäftlichen und technischen Faktoren kennen, die zu einer Cloud-Migration führen, die Phasen einer Azure-Migration und die für jede Phase verwendeten Tools und Services. Sie erfahren, wie Sie Ihre lokalen Umgebungen ermitteln und bewerten, um die Migration der entsprechenden Workloads zu Azure vorzubereiten. 
-
-  #### Lektionen
-  - Cloud-Migration - Geschäftsmotivationen, Ziele und Ergebnisse
-  - Entdeckung und Bewertung
+summary: >-
+  In diesem Workshop lernen IT-Fachleute, wie sie bestehende lokale Workloads und Ressourcen in die Cloud migrieren können, insbesondere auf die Microsoft Azure-Plattform. Kursteilnehmer erfahren, wie sie eine bestehende lokale Umgebung bei der Vorbereitung einer Cloudmigration beurteilen und bewerten. Sie lernen auch, wie sie ihre Azure-basierten Workloads überwachen und optimieren, um die Investitionsrendite zu maximieren, und wie sie Azure-Dienste nutzen, um ihre virtuellen Computer, Anwendungen und Daten zu schützen und zu verwalten.
 
 
-  #### Lab&#58; Lokale Ressourcen für die Migration ermitteln und bewerten
+  #### <a name="audience-profile"></a>Zielgruppenprofil
 
-  ### Modul 2&#58; Einführung in die Datenmigration
-  In diesem Modul lernen Sie Lösungen kennen, die Sie verwenden können, wenn Sie Terabyte an Daten sicher an Azure senden müssen. Sie lernen die Azure Data Box-Produktfamilie mit Online- und Offline-Übertragungsoptionen kennen. Anschließend erfahren Sie, wie Sie eine lokale SQL Server 2008R2-Datenbank mit dem Azure Database Migration Service (DMS) zu einer verwalteten Azure SQL-Datenbank (MI) migrieren. 
+  Dieser Workshop richtet sich an IT-Administratoren und Mitarbeiter, die Migrationen von lokalen Ressourcen zu Azure planen, implementieren und verwalten oder virtuelle Azure-Computer zu anderen Azure-Standorten replizieren müssen. Sie reagieren auf geschäftliche Anforderungen von Workloadbesitzern, Workloads in die Cloud zu migrieren, um von den Vorteilen zu profitieren, die eine cloudfähige Strategie gegenüber einem herkömmlichen Rechenzentrumsansatz bietet. Diese Aufgabe erfordert die Kommunikation und Koordination mit verschiedenen Personen innerhalb der IT-Abteilung einer Organisation und den Geschäftsbereichen sowie mit Anbietern.
+prerequisitesSection: >-
+  - IT-Administratoren benötigen für diese Rolle Erfahrung in den Bereichen Betriebssysteme, Virtualisierung, Cloudinfrastruktur, Speicherstrukturen und Netzwerk. Darüber hinaus sollten IT-Administratoren über Erfahrungen oder gleichwertige Kenntnisse in der Verwaltung einer IaaS-Azure-Infrastruktur verfügen.
 
-  #### Lektionen
-  - Azure-Data Box
+  - Verständnis lokaler Virtualisierungstechnologien wie VMs, virtuelle Netzwerke und virtuelle Festplatten.
+
+  - Verständnis der Netzwerkkonfiguration, einschließlich TCP/IP, Domain Name System (DNS), VPNs (virtuelle private Netzwerke), Firewalls und Verschlüsselungstechnologien.
+
+  - Verständnis von Active Directory-Konzepten, einschließlich Domänen, Gesamtstrukturen, Domänencontrollern, Replikation, Kerberos-Protokoll und LDAP (Lightweight Directory Access Protocol).
+
+  - Verständnis von Resilienz und Notfallwiederherstellung, einschließlich Sicherungs- und Wiederherstellungsvorgängen.
+
+  - Vertrautheit mit der Nutzung von Azure, einschließlich Azure-Portal, Cloud Shell, Azure PowerShell, CLI und ARM-Vorlage.
+
+  - Verständnis von Azure Active Directory und Cloudidentitätsverwaltung.
+
+  - Verständnis der Verwaltung von Abonnements, Benutzern, Gruppen, Abrechnung und Azure-Richtlinien.
+outlineSection: >-
+  ### <a name="module-158-planning-and-assessing-and-azure-migration"></a>Modul 1: Planen und Bewerten der Azure-Migration
+
+  In diesem Modul lernen Sie die wichtigsten geschäftlichen und technischen Faktoren kennen, die zu einer Cloudmigration führen, sowie die Phasen einer Azure-Migration und die für jede Phase verwendeten Tools und Dienste. Sie lernen, wie Sie Ihre lokalen Umgebungen als Vorbereitung auf die Migration der entsprechenden Workloads zu Azure ermitteln und bewerten können.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Cloudmigration: geschäftliche Beweggründe, Ziele und Ergebnisse
+
+  - Ermittlung und Bewertung
+
+
+
+  #### <a name="lab-58-discover-and-assess-on-premises-resources-for-migration"></a>Lab: Ermitteln und Bewerten lokaler Ressourcen für die Migration
+
+
+  ### <a name="module-258-introduction-to-data-migration"></a>Modul 2: Einführung in die Datenmigration
+
+  In diesem Modul lernen Sie Lösungen für das sichere Übertragen von Daten in Terabytegröße in Azure kennen. Sie erfahren mehr über die Azure Data Box-Produktfamilie mit sowohl Online- als auch Offlineübertragungsoptionen. Anschließend erfahren Sie, wie Sie eine lokale SQL Server 2008 R2-Datenbank mithilfe von Azure Database Migration Service (DMS) zu Azure SQL Managed Instance (MI) migrieren.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Azure Data Box
+
   - Datenbankmigration
 
-  #### Lab&#58; Migrieren der lokalen SQL Server-Datenbank zu einer verwalteten Azure SQL Managed Instance
-
-  ### Modul 3&#58; Implementieren der Migration mit Azure Migrate Services
-
-  In diesem Modul erfahren Sie, wie man die lokale Infrastruktur und die Azure-Komponenten vor der geplanten Migration vorbereiten. Außerdem erfahren Sie, wie man mit Azure Migrate Services eine durchgehende Migration durchführt. 
-
-  #### Lektionen
-  – Übersicht über die Azure Migrate Server Migration
-  - VMware - Agentenless Migration
-  - VMware - Agent-based Migration
-  - Sicherung migrierter Workloads
-  - Rechenzentrumsmigration mit Microsoft Migration Factory
 
 
-  #### Lab&#58; Virtuelle Maschinen nach Azure replizieren
+  #### <a name="lab-58-migrate-on-premises-sql-server-database-to-azure-sql-managed-instance"></a>Lab: Migrieren einer lokalen SQL Server-Datenbank zu Azure SQL Managed Instance
 
-  ### Modul 4&#58; Backup und Disaster Recovery in Azure
-  In diesem Modul lernen Sie die Schlüsselkomponenten einer Business-Continuity-Strategie und die Voraussetzungen für eine hochverfügbare Lösung kennen. Außerdem erfahren Sie, wie man die Sicherung virtueller Azure IaaS-Computer mit Hilfe des Azure Backup-Services implementieren. Darüber hinaus erfahren Sie, wie man Azure-VMs mit Azure Site Recovery an einen anderen Azure-Standort repliziert. 
 
-  #### Lektionen
-  - Übersicht über Azure Backup 
-  - Implementieren von Azure IaaS-Backup
+  ### <a name="module-358-implementing-migration-using-azure-migrate-services"></a>Modul 3: Implementieren der Migration mit Azure Migrate-Diensten
+
+  In diesem Modul erfahren Sie, wie Sie die lokale Infrastruktur und Azure-Komponenten vor der geplanten Migration vorbereiten. Außerdem erfahren Sie, wie Sie eine vollständige Migration mithilfe von Azure Migrate durchführen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht über die Servermigration mit Azure Migrate
+
+  - VMware – Migration ohne Agent
+
+  - VMware – Agent-basierte Migration
+
+  - Absichern migrierter Workloads
+
+  - Rechenzentrumsmigration mithilfe von Microsoft Migration Factory
+
+
+
+  #### <a name="lab-58-replicate-virtual-machines-to-azure"></a>Lab: Replizieren virtueller Computer zu Azure
+
+
+  ### <a name="module-458-backup-and-disaster-recovery-in-azure"></a>Modul 4: Sicherung und Notfallwiederherstellung in Azure
+
+  In diesem Modul lernen Sie die wichtigsten Komponenten einer Geschäftskontinuitätsstrategie kennen und erfahren, was für eine hochverfügbare Lösung erforderlich ist. Außerdem lernen Sie, wie Sie die Sicherung virtueller Azure-IaaS-Computer mit dem Dienst Azure Backup implementieren. Zudem erfahren Sie, wie Sie Azure-VMs mit Azure Site Recovery an einen anderen Azure-Standort replizieren können.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Azure Backup: Übersicht
+
+  - Implementieren der Azure-IaaS-Sicherung
+
   - Azure zu Azure Site Recovery
-  - Notfallwiederherstellung von Anwendungen
+
+  - Notfallwiederherstellung für Anwendungen

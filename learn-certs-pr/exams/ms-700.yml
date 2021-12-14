@@ -1,37 +1,49 @@
 ### YamlMime:Examination
-title: 'Managing Microsoft Teams'
+title: Verwalten von Microsoft Teams
 metadata:
-  title: 'Exam MS-700: Managing Microsoft Teams'
-  description: 'Exam MS-700: Managing Microsoft Teams'
+  title: 'Prüfung MS-700: Managing Microsoft Teams'
+  description: 'Prüfung MS-700: Managing Microsoft Teams'
+  ms.openlocfilehash: 2f85924a5ea2ddf637794de3dc57086000bf27ab
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133079458"
 uid: exam.ms-700
 displayName: MS-700
-summary: |-
-  <div><div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am Freitag, 24. September 2021 aktualisiert. Bitte laden Sie das unten stehende Dokument mit den bewerteten Fähigkeiten herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div><div><font color='red'>HINWEIS: Punktzahl für einen erfolgreichen Abschluss: 700. Erfahren Sie mehr über Prüfungsergebnisse <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
-  
+summary: >-
+  <div><div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am 24. September 2021 aktualisiert. Laden Sie das unten aufgeführte Dokument mit den gemessenen Qualifikationen herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div><div><font color='red'>HINWEIS: Erforderliche Mindestpunktzahl: 700. Weitere Informationen zu Prüfungsergebnissen finden Sie <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
+
+
   Kandidaten für diese Prüfung sind Microsoft Teams-Administratoren, die Microsoft Teams verwalten, um eine effiziente und effektive Zusammenarbeit und Kommunikation in einer Microsoft 365-Umgebung zu ermöglichen.
-  
+
+
   Kandidaten für diese Prüfung müssen in der Lage sein, Teams-Chat, -Apps, -Kanäle, -Besprechungen, -Audio-/Videokonferenzen, -Live-Events, -Anrufe und Microsoft Teams-zertifizierte Geräte zu planen, bereitzustellen, zu konfigurieren und zu sichern. Kandidaten sollten Erfahrung mit der Integration von Microsoft Teams in andere Workloads haben, einschließlich SharePoint, OneDrive, Exchange, Microsoft 365 Groups, Power Platform und mit anderen Microsoft-Apps, Drittanbieter-Apps und benutzerdefinierten Apps.
-  
+
+
   Ein Microsoft Teams-Administrator arbeitet auch mit anderen Funktionen zusammen, wie Netzwerk, Telefonie, Lizenzierung, Sicherheit, Compliance, Benutzerakzeptanz, App-Entwicklung und Support.
+
+
+  Wenn Sie dieses Zertifizierungsexamen bestehen, kann dies bei einer ACE-Hochschule angerechnet werden. Weitere Informationen finden Sie unter [ACE-Leistungspunkt für Zertifizierungsprüfungen](/learn/certifications/ace-credit-for-certification-exams).
 subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu bewältigen: Planen und Konfigurieren einer Microsoft Teams-Umgebung; Verwalten von Chats, Teams, Channels und Apps; Verwalten von Anrufen und Meetings; Überwachen und Beheben von Problemen in einer Microsoft Teams-Umgebung.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-700?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MS-700&examname=Exam%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-700
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-700&examname=Exam%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-700
 - providerType: gsi
-  examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MS-700&provider=psi&examname=Exam%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-700
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-700&provider=psi&examname=Exam%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-700
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Der Inhalt dieser Prüfung wurde am 24. September 2021 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich geändert hat.
-- Planen und Konfigurieren einer Microsoft-Teamumgebung (35 -40%)
-- Verwalten von Chats, Teams, Channels und Apps (25-30%)
-- Verwalten von Anrufen und Meetings (15-20%)
-- Überwachen und Beheben von Problemen in einer Microsoft Teams-Umgebung (10-15%)
+- The content of this exam was updated on September 24, 2021. Please download the exam skills outline below to see what changed.
+- Plan and configure a Microsoft Teams environment (35-40%)
+- Manage chat, teams, channels, and apps (25-30%)
+- Manage calling and meetings (15-20%)
+- Monitor and troubleshoot a Microsoft Teams environment (10-15%)
 roles:
 - administrator
 products:
@@ -49,7 +61,7 @@ relatedCertifications:
     uid: certification.m365-teams-administrator-associate
 resources:
 - title: Lernpfad zur Zertifizirung
-  description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Teams Administrator Associate.'
+  description: 'Entdecken Sie Schulungsressourcen zum Erlangen der Zertifizierung „Microsoft Certified: Teams Administrator Associate“.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.

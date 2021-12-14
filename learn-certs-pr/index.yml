@@ -1,77 +1,80 @@
 ### YamlMime:CertificationHome
-
+metadata:
+  ms.topic: hub-page
+  ms.prod: learning-azure
+  ms.openlocfilehash: 1749938a52394fdaf35f7b8fc01e46c2178e5b10
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133079227"
 title: Microsoft-Zertifizierungen
-summary: Erwerben Sie sich Zertifizierungen, die zeigen, dass Sie mit den heutigen technischen Anforderungen und Aufgaben Schritt halten. Wählen Sie eine Tätigkeit aus, um Ihre Zertifizierungspfade zu ermitteln.
-
+summary: Erwerben Sie Zertifizierungen, die zeigen, dass Sie stets auf dem aktuellen Stand sind, was technische Berufe und Anforderungen betrifft. Wählen Sie eine Rolle aus, und entdecken Sie geeignete Zertifizierungspfade.
 roles:
-  - name: developer
-    summary: Developers (Entwickler) entwerfen, erstellen, testen und warten Cloud-Lösungen.
-    url: /learn/certifications/roles/developer
-  - name: administrator
-    summary: Administratoren implementieren, überwachen und warten Microsoft-Lösungen.
-    url: /learn/certifications/roles/administrator
-  - name: solution-architect
-    summary: Solutions Architect (Lösungsarchitekten) verfügen über Expertise in den Bereichen Computing, Netzwerk, Storage und Sicherheit.
-    url: /learn/certifications/roles/solutions-architect
-  - name: data-engineer
-    summary: Data Engineer (Datentechniker) entwerfen und implementieren das Management, die Überwachung, die Sicherheit und den Schutz von Daten unter Verwendung sämtlicher verfügbarer Datendienste.
-    url: /learn/certifications/roles/data-engineer
-  - name: data-scientist
-    summary: Data Scientists (Datenwissenschaftler) wenden Methoden des maschinellen Lernens an, um Modelle zur Lösung von Geschäftsproblemen zu entwickeln, zu bewerten und einzusetzen.
-    url: /learn/certifications/roles/data-scientist
-  - name: ai-engineer
-    summary: AI Engineer (KI-Ingenieure) nutzen Cognitive Services, maschinelles Lernen und Wissensmanagement, um Microsoft KI-Lösungen zu entwickeln und zu implementieren.
-    url: /learn/certifications/roles/ai-engineer
-  - name: devops-engineer
-    summary: DevOps Engineer (DevOps-Techniker) kombinieren Menschen, Prozesse und Technologien, und stellen kontinuierlich wertvolle Produkte und Dienstleistungen bereit, die den Bedürfnissen der Endverbraucher und den Unternehmenszielen entsprechen.
-    url: /learn/certifications/roles/devops-engineer
-  - name: security-engineer
-    summary: Security Engineers (Sicherheitstechniker) implementieren Sicherheitskontrollen und Bedrohungsschutz, verwalten Identitäten und Zugriffe und schützen Daten, Anwendungen und Netzwerke.
-    url: /learn/certifications/roles/security-engineer
-  - name: functional-consultant
-    summary: Funktionsberater nutzen Microsoft Dynamics 365 und Microsoft Power Platform um Kundenbedürfnisse zu antizipieren und zu planen.
-    url: /learn/certifications/roles/functional-consultant
-
-
+- name: developer
+  summary: Developers (Entwickler) entwerfen, erstellen, testen und warten Cloud-Lösungen.
+  url: /learn/certifications/roles/developer
+- name: administrator
+  summary: Administratoren implementieren, überwachen und warten Microsoft-Lösungen.
+  url: /learn/certifications/roles/administrator
+- name: solution-architect
+  summary: Solutions Architects (Lösungsarchitekten) verfügen über Expertise in den Bereichen Computing, Netzwerk, Storage und Sicherheit.
+  url: /learn/certifications/roles/solutions-architect
+- name: data-engineer
+  summary: Data Engineers (Datentechniker) entwerfen und implementieren das Management, die Überwachung, die Sicherheit und den Schutz von Daten unter Verwendung sämtlicher verfügbarer Datendienste.
+  url: /learn/certifications/roles/data-engineer
+- name: data-scientist
+  summary: Data Scientists (Datenwissenschaftler) wenden Methoden des maschinellen Lernens an, um Modelle zur Lösung von Geschäftsproblemen zu trainieren, zu bewerten und einzusetzen.
+  url: /learn/certifications/roles/data-scientist
+- name: ai-engineer
+  summary: AI Engineers (KI-Ingenieure) nutzen Cognitive Services, maschinelles Lernen und Wissensmanagement, um Microsoft KI-Lösungen zu entwickeln und zu implementieren.
+  url: /learn/certifications/roles/ai-engineer
+- name: devops-engineer
+  summary: DevOps Engineers (DevOps-Techniker) kombinieren Menschen, Prozesse und Technologien und stellen kontinuierlich wertvolle Produkte und Dienstleistungen bereit, die den Bedürfnissen der Endverbraucher und den Unternehmenszielen entsprechen.
+  url: /learn/certifications/roles/devops-engineer
+- name: security-engineer
+  summary: Security Engineers (Sicherheitstechniker) implementieren Sicherheitskontrollen und Bedrohungsschutz, verwalten Identitäten und Zugriffe und schützen Daten, Anwendungen und Netzwerke.
+  url: /learn/certifications/roles/security-engineer
+- name: functional-consultant
+  summary: Functional Consultants (Funktionsberater) nutzen Microsoft Dynamics 365 und Microsoft Power Platform, um Kundenbedürfnisse zu antizipieren und zu planen.
+  url: /learn/certifications/roles/functional-consultant
 certificationsSection:
   title: Werden Sie Microsoft-zertifiziert
-  summary: 'Microsoft hat Zertifizierungspfade für viele technische Stellenangebote. Jede dieser Zertifizierungen erfordert das Bestehen einer Reihe von Prüfungen.'
+  summary: Bei vielen technischen Stellen hat Microsoft Zertifizierungspfade. Jede dieser Zertifizierungen besteht aus einer Reihe von Prüfungen, um die Zertifizierung zu erlangen.
   tiers:
-    - title: Basiszertifizierungen
-      summary: Empfohlener Start. Ideal für Menschen, die gerade erst in die Technik einsteigen oder über einen beruflichen Wechsel nachdenken.
-      certifications:
-        - uid: certification.azure-fundamentals
-        - uid: certification.microsoft-365-fundamentals
-        - uid: certification.power-platform-fundamentals
-      browseLink:
-        text: Basiszertifizierungen durchsuchen
-        url: /learn/certifications/browse/?type=fundamentals 
-    - title: Rollenbasierte Zertifizierungen
-      summary: Wählen Sie eine aufgabenspezifische Zertifizierung, um wertvolle berufliche Funktionskenntnisse zu erwerben.
-      certifications:
-        - uid: certification.azure-developer
-        - uid: certification.power-apps-and-d365-developer-associate
-        - uid: certification.d365-functional-consultant-sales
-      browseLink:
-        text: Aufgabenbasierte Zertifizierungen durchsuchen
-        url: /learn/certifications/browse?resource_type=certification
-    - title: Zusätzliche Zertifizierungen
-      summary: Informieren Sie sich über die technischen Zertifizierungen von Specialty, Microsoft Certified Educator und Microsoft Office.
-      certifications:
-        - uid: certification.azure-for-sap-workloads-specialty
-        - uid: certification.microsoft-certified-educator
-        - uid: certification.mos-word-expert-2019
-      browseLink:
-        text: Weitere Zertifizierungen einsehen
-        url: /learn/certifications/browse?resource_type=certification
-
+  - title: Basiszertifizierungen
+    summary: Empfohlener Start. Ideal für Menschen, die gerade erst in die Technik einsteigen oder über einen beruflichen Wechsel nachdenken.
+    certifications:
+    - uid: certification.azure-fundamentals
+    - uid: certification.microsoft-365-fundamentals
+    - uid: certification.power-platform-fundamentals
+    browseLink:
+      text: Basiszertifizierungen durchsuchen
+      url: /learn/certifications/browse/?type=fundamentals
+  - title: Rollenbasierte Zertifizierungen
+    summary: Wählen Sie eine aufgabenspezifische Zertifizierung, um wertvolle berufliche Funktionskenntnisse zu erwerben.
+    certifications:
+    - uid: certification.azure-developer
+    - uid: certification.m365-security-administrator
+    - uid: certification.d365-functional-consultant-sales
+    browseLink:
+      text: Aufgabenbasierte Zertifizierungen durchsuchen
+      url: /learn/certifications/browse?resource_type=certification
+  - title: Zusätzliche Zertifizierungen
+    summary: Informieren Sie sich über die technischen Zertifizierungen von Specialty, Microsoft Certified Educator und Microsoft Office.
+    certifications:
+    - uid: certification.azure-for-sap-workloads-specialty
+    - uid: certification.microsoft-certified-educator
+    - uid: certification.mos-word-expert-2019
+    browseLink:
+      text: Weitere Zertifizierungen einsehen
+      url: /learn/certifications/browse?resource_type=certification
 upworkSection:
-    title: Möchten Sie ein zusätzliches Einkommen verdienen?
-    summary: Wir arbeiten mit Upwork zusammen, um Azure-zertifizierte Freiberufler mit Kunden zu verbinden.
-    signupLink:
-        text: Melden Sie sich bei Upwork an
-        url: https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRw3HkB8qWX5Iq22_B4ihseZUN1haSVVPNUpINTRFRVRaQ1BRSzNCRllQNS4u
-
+  title: Möchten Sie ein zusätzliches Einkommen verdienen?
+  summary: Wir arbeiten mit Upwork zusammen, um Azure-zertifizierte Freiberufler mit Kunden zu verbinden.
+  signupLink:
+    text: Melden Sie sich bei Upwork an
+    url: https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRw3HkB8qWX5Iq22_B4ihseZUN1haSVVPNUpINTRFRVRaQ1BRSzNCRllQNS4u
 trainingSection:
   title: Wie man sich auf die Zertifizierung vorbereitet
   summary: Microsoft ist sich bewusst, dass jeder Mensch unterschiedliche Lernpräferenzen hat, deshalb bieten wir Zertifizierungen und Schulungsmöglichkeiten während Ihres gesamten Zertifizierungsvorhabens an.
@@ -80,7 +83,7 @@ trainingSection:
       alt: Frau beim Betrachten eines Microsoft-Surface
       src: /learn/certifications/images/image-working-lady-laptop.jpg
     title: Kostenlose Lernpfade zur Vorbereitung
-    summary: Mit Microsoft Learn kann jeder die Kernkonzepte in ihrer Geschwindigkeit und ihrem Zeitplan beherrschen. Ob es sich um ein einzelnes Modul handelt, um mehr über eine Kernaufgabe zu erfahren, oder um die vollständige Aufarbeitung eines Themas durch eine Sammlung von verwandten Modulen.
+    summary: Mit Microsoft Learn kann jeder die grundlegenden Konzepte im eigenen Tempo und nach eigenem Zeitplan meistern. Ob es sich um ein einzelnes Modul handelt, um mehr über eine Kernaufgabe zu erfahren, oder um die vollständige Aufarbeitung eines Themas durch eine Sammlung von verwandten Modulen.
     browseLinks:
     - text: Alle Lernpfade durchsuchen
       url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
@@ -92,41 +95,34 @@ trainingSection:
     browseLinks:
     - text: Durchsuchen Sie alle Präsenzschulungen.
       url: /learn/certifications/courses/browse/
-
 resourcesSection:
-  title: Learning resources
+  title: Lernressourcen
   items:
-    - title: Finden Sie einen Microsoft Learning Partner
-      summary: Unser weltweites Partnernetzwerk bietet flexible, lösungsorientierte und maßgeschneiderte Schulungen zu Microsoft-Technologien.
-      url: https://www.microsoft.com/learning/partners.aspx
-    - title: Unterstützung bei Zertifizierungen und Prüfungen
-      summary: Holen Sie sich Hilfe in den Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
-      url: /learn/certifications/help
-    - title: Alle Zertifizierungen und Prüfungen durchsuchen
-      summary: Informieren Sie sich über alle Zertifizierungen, um Ihre Karriere voranzubringen.
-      url: /learn/certifications/browse
-
+  - title: Finden Sie einen Microsoft Learning Partner
+    summary: Unser weltweites Partnernetzwerk bietet flexible, lösungsorientierte und maßgeschneiderte Schulungen zu Microsoft-Technologien.
+    url: https://www.microsoft.com/learning/partners.aspx
+  - title: Unterstützung bei Zertifizierungen und Prüfungen
+    summary: Holen Sie sich Hilfe in den Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+    url: /learn/certifications/help
+  - title: Alle Zertifizierungen und Prüfungen durchsuchen
+    summary: Informieren Sie sich über alle Zertifizierungen, um Ihre Karriere voranzubringen.
+    url: /learn/certifications/browse
 statisticsSection:
   title: Microsoft-Zertifizierungen
-  summary: Microsoft-Zertifizierungen bieten einen professionellen Vorteil, indem sie weltweit anerkannte und von der Industrie anerkannte Nachweise für die Beherrschung von Fähigkeiten in einem Digital- und Cloud-Unternehmen liefern.
+  summary: Microsoft-Zertifizierungen bieten einen professionellen Vorteil, indem sie einen weltweit anerkannten und von der Branche unterstützten Nachweis für Fertigkeiten im digitalen Bereich und in Cloudunternehmen liefern.
   video:
     pdfDownloadUrl: https://home.pearsonvue.com/voc
     iframeTitle: Microsoft-Zertifizierungen
-    iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    iframeSrc: https://www.microsoft.com/videoplayer/embed/RE4GBVK?pid=RE4GBVK-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
     title: Vorteile von Zertifizierungen
-    summary: Nach Erhalt einer Zertifizierung gaben 67% der Techniker an, dass sie ein größeres Selbstvertrauen in die Leistungsfähigkeit ihrer Arbeit hatten, 41% gaben eine höhere Arbeitszufriedenheit an und 35% verzeichneten eine Gehalts- oder Lohnerhöhung. —2018 Pearson VUE Wert der IT-Zertifizierung.
+    summary: Nach dem Erwerb einer Zertifizierung geben 61 % der Technologieexperten an, dass sie befördert wurden, 73 % haben sich weitergebildet, um mit Technologieveränderungen Schritt zu halten, und 76 % konnten eine höhere Zufriedenheit am Arbeitsplatz erzielen – 2021 Pearson VUE Value of IT Certification.
   items:
-    - title: 91%
-      summary: der zertifizierten IT-Fachleute geben an, dass Zertifizierungen ihnen mehr professionelle Glaubwürdigkeit geben.
-      note: 2018 Pearson VUE Wert der Zertifizierung
-    - title: 52%
-      summary: der zertifizierten IT-Fachleute geben an, dass ihr Fachwissen in ihrem Unternehmen gefragter ist.
-      note: Global Knowledge 2019 IT-Kenntnisse und Gehaltsbericht
-    - title: 93%
-      summary: der Entscheidungsträger sind sich einig, dass zertifizierte Mitarbeiter einen Mehrwert bieten.
-      note: Global Knowledge 2019 IT -Entscheidungsträger Sichtweisen
-      
-
-
-
-
+  - title: 91 %
+    summary: der zertifizierten IT-Experten geben an, dass sie durch die Zertifizierung mehr Selbstvertrauen für ihre Arbeit gewinnen konnten.
+    note: 2021 Pearson Vue Value of Certification
+  - title: 74 %
+    summary: der zertifizierten IT-Experten geben an, dass sie ihrer Arbeit selbstständiger und unabhängiger nachgehen können.
+    note: 2021 Pearson Vue Value of Certification
+  - title: 94 %
+    summary: der Entscheidungsträger weltweit geben an, dass zertifizierte Teammitglieder einen Mehrwert bieten.
+    note: Global Knowledge 2020 IT Skills and Salary Report

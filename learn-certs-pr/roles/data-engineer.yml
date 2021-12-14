@@ -1,15 +1,21 @@
-### YamlMime:Role 
-title: Datentechniker  
-metadata: 
-  title: Datentechniker  
-  description: Datentechniker entwerfen und implementieren das Management, die Überwachung, die Sicherheit und den Schutz von Daten unter Verwendung sämtlicher verfügbarer Datendienste.
-uid: role.data-engineer 
-summary: | 
-  Datentechniker entwerfen und implementieren das Management, die Überwachung, die Sicherheit und den Schutz von Daten unter Verwendung sämtlicher verfügbarer Datendienste.
-subTitle: Datentechniker entwerfen und implementieren das Management, die Überwachung, die Sicherheit und den Schutz von Daten unter Verwendung sämtlicher verfügbarer Datendienste.
+### YamlMime:Role
+title: Data Engineer
+metadata:
+  title: Data Engineer
+  description: Data Engineers entwerfen und implementieren die Verwaltung, Überwachung, Sicherheit und den Datenschutz unter Verwendung sämtlicher verfügbarer Datendienste.
+  ms.openlocfilehash: dfc90094cb7fddb2f748a53ecbef4e445346e383
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133078908"
+uid: role.data-engineer
+summary: >
+  Data Engineers entwerfen und implementieren die Verwaltung, Überwachung, Sicherheit und den Datenschutz unter Verwendung sämtlicher verfügbarer Datendienste.
+subTitle: Data Engineers entwerfen und implementieren die Verwaltung, Überwachung, Sicherheit und den Datenschutz unter Verwendung sämtlicher verfügbarer Datendienste.
 certificationPaths:
 - title: Azure Data Engineer
-  linkedInKeywords: Azure Data Engineer
+  linkedInKeywords: Azure data engineer
   uid: certification-path.azure-data-engineer
   prerequisites:
   - uid: certification.azure-fundamentals
@@ -25,11 +31,11 @@ certifications:
   - uid: exam.dp-203
 resources:
 - title: Microsoft Leitfaden für Schulungen und Zertifizierungen
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://aka.ms/TrainingCertDeck
 - title: Poster für Schulungen und Zertifizierungen
   description: Wählen Sie mit diesem Poster für Schulungen und Zertifizierungen Ihren Weg zum Erfolg.
   href: https://aka.ms/traincertposter
 - title: Unterstützung von Zertifizierungen
   href: ../help.md
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.

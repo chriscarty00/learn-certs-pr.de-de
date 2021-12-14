@@ -2,25 +2,33 @@
 title: 'Microsoft 365 Certified: Developer Associate'
 metadata:
   title: 'Microsoft 365 Certified: Developer Associate'
-  description: Microsoft 365 Developer entwerfen, erstellen, testen und warten Anwendungen und Lösungen, die für die Produktivitäts- und Kollaborationsanforderungen von Unternehmen optimiert sind, die die Microsoft 365-Plattform nutzen.
+  description: Microsoft 365-Entwickler entwerfen, erstellen, testen und warten Anwendungen und Lösungen, die für die Produktivitäts- und Kollaborationsanforderungen von Unternehmen optimiert sind, die die Microsoft 365-Plattform nutzen.
+  ms.openlocfilehash: c21163e651a6ec4964736526f0292c4d2a5b5c17
+  ms.sourcegitcommit: a2b584eb3752159a44885ce2df4ef8c7263255e4
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133301691"
 uid: certification.m365-developer-associate
 certificationRenewalUid: renewal.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am 24. September 2021 aktualisiert. Bitte laden Sie das Dokument über die gemessenen Fähigkeiten auf der <a href="/learn/certifications/exams/ms-600">MS-600 Prüfungsseite</a> herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
+summary: >-
+  <div><font color='red'><strong>Der Inhalt dieser Zertifizierung wurde am 29. November 2021 aktualisiert. Laden Sie das Dokument zu den bewerteten Qualifikationen von der <a href="/learn/certifications/exams/ms-600">Seite für das Examen MS-600</a> herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
 
-  Microsoft 365 Developer entwerfen, erstellen, testen und warten Anwendungen und Lösungen, die für die Produktivitäts- und Kollaborationsanforderungen von Unternehmen optimiert sind, die die Microsoft 365-Plattform nutzen.
 
-  Microsoft 365 Entwickler beherrschen Microsoft Identität, Microsoft Graph, und Aufbau von Apps für Microsoft Teams. Sie verfügen über allgemeine Kenntnisse über  UI Elemente (einschließlich Fluent UI (Office UI Fabric), Integrationspunkte (einschließlich Office Add-ins, SharePoint Framework, Actionable Messages) und die Bestimmung von Workload-Plattformzielen.
-subTitle: Microsoft 365 Developer entwerfen, erstellen, testen und warten Anwendungen und Lösungen, die für die Produktivitäts- und Kollaborationsanforderungen von Unternehmen optimiert sind, die die Microsoft 365-Plattform nutzen.
+  Microsoft 365-Entwickler entwerfen, erstellen, testen und warten Anwendungen und Lösungen, die für die Produktivitäts- und Kollaborationsanforderungen von Unternehmen optimiert sind, die die Microsoft 365-Plattform nutzen.
+
+
+  Microsoft 365-Entwickler beherrschen Microsoft-Identitäten, Microsoft Graph und die Erstellung von Anwendungen für Microsoft Teams. Sie verfügen über allgemeine Kenntnisse über Elemente der Benutzeroberfläche (einschließlich Fluent UI (Office UI Fabric), Integrationspunkte (einschließlich Office Add-Ins, SharePoint Framework, Actionable Messages) und die Bestimmung von Workload-Plattformzielen.
+subTitle: Microsoft 365-Entwickler entwerfen, erstellen, testen und warten Anwendungen und Lösungen, die für die Produktivitäts- und Kollaborationsanforderungen von Unternehmen optimiert sind, die die Microsoft 365-Plattform nutzen.
 levels:
 - intermediate
 skills:
-- Microsoft Identity einrichten
-- Apps mit Microsoft Graph erstellen
-- SharePoint erweitern und anpassen
-- Teams erweitern
-- Office erweitern
+- Implement Microsoft identity
+- Build apps with Microsoft Graph
+- Extend and customize SharePoint
+- Extend Microsoft Teams
+- Extend Office
 roles:
 - developer
 type: role-based
@@ -37,8 +45,8 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vc
 exams:
 - uid: exam.ms-600
 resources:
-- title: Lernpfad zur Zertifizirung
-  description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Developer Associate.'
+- title: Lernpfad zur Zertifizierung
+  description: 'Entdecken Sie Schulungsressourcen zum Erlangen der Zertifizierung „Microsoft Certified: Developer Associate“.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
@@ -55,7 +63,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Fordern Sie Ihren Microsoft-Zertifizierungsbadge an, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md
-

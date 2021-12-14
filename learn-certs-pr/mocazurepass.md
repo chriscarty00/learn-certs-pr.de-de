@@ -9,34 +9,34 @@ ms.workload: NA
 ms.date: 04/01/2020
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 43dcf2787010f6fbf3d59d4ae55b6899f4cb214a
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.openlocfilehash: 3fa4daf6c258a3a0c4ee65e9a5d1924decd85d2b
+ms.sourcegitcommit: b36347474884bb8a8c6a61feb1242d467d28396f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
-ms.locfileid: "132111131"
+ms.lasthandoff: 11/22/2021
+ms.locfileid: "132890581"
 ---
 # <a name="access-to-microsoft-learning-azure-passes-for-students-of-authorized-microsoft-learning-partners"></a>Zugriff auf Microsoft Learning Azure Passes für Teilnehmer an Kursen autorisierter Microsoft Learning-Partner
 
 <div>Im Folgenden finden Sie Informationen zu Azure Passes, die Microsoft zur Unterstützung von Lab-Lösungen für bestimmte Kurse zu Microsoft-Cloudtechnologien bereitstellt.  Weitere Informationen zu alternativen, SLA-gestützten Lösungen erhalten Sie von einem der autorisierten Labhoster (ALH), die derzeit Zugriff auf Azure gewähren.</div>
 
-Letzte Aktualisierung: **29. Juli 2021**
+Letzte Aktualisierung: **29. Juli 2021**
 
 Microsoft bietet Ihren Kursteilnehmern Zugriff auf einen kostenlosen 30-Tage-Microsoft Azure-Pass, wenn sie sich über Microsoft Official Courses für einen zulässigen Azure-Kurs anmelden. Pässe für Studenten können nur vom autorisierten Microsoft Learning Partner über den Lernsoftware-Marktplatz bezogen werden und sind direkt an einen Kauf eines MOC-Kurses gebunden, wobei ein Pass pro bestelltem MOC-Kurs eingeschlossen ist. Es ist kein anderer Mechanismus verfügbar, Pässe für Studenten zu erhalten. Wenn ein Lernpartner einen MOC-Kurs bestellt, aber nicht den Azure-Pass auswählt, der zum Zeitpunkt des Kaufs für den Kurs verfügbar ist, hat der Partner die Möglichkeit, zum Lernsoftware-Marktplatz zurückzukehren und diesen Pass bei Bedarf anschließend zu bestellen.
 
 Partner finden Sie in den Nutzungsbedingungen für Azure Passes, die [hier](https://shop.courseware-marketplace.com/shop/en-GB/Content/TermsAndConditions) über Courseware Marketplace vertrieben werden. Pässe sind 90 Tage gültig, nachdem sie Ihnen auf dem Lernsoftware-Marktplatz zugewiesen wurden. Abgelaufene Pässe können nicht erneut ausgestellt werden
 
-MCTs können einen Pass für die Vorbereitungsanforderungen für ihren zulässigen Azure-Kurs anfordern. Dies bleibt weiterhin so, und MCTs können ihren berechtigten Azure-Kursvorbereitungspass [hier](https://vouchers.cloudapp.net/AzurePass/) anfordern. Dieses Angebot kann jedoch jederzeit eingestellt werden.
+MCTs können einen Pass für die Vorbereitungsanforderungen für ihren zulässigen Azure-Kurs anfordern. Dies bleibt weiterhin so, und MCTs können ihren berechtigten Azure-Kursvorbereitungspass [hier](https://aka.ms/mctazurepass) anfordern. Dieses Angebot kann jedoch jederzeit eingestellt werden.
 
 Es steht eine begrenzte Anzahl von Pässen zur Verfügung, die an Lernpartner und MCTs ausgegeben werden können. Die Verfügbarkeit kann nur garantiert werden, solange der Vorrat reicht, und nur in [Ländern](https://www.windowsazure.com/pricing/faq/), in denen Microsoft Azure unterstützt wird.
 
-**Berechtigung**: Kurse, für die der Azure-Kursteilnehmerpass berechtigt ist, sind unten aufgeführt. Die lokalisierten entsprechenden Versionen sind ebenfalls berechtigt:
+**Berechtigung**: Kurse, die für den Azure-Kursteilnehmerpass berechtigen, sind unten aufgeführt. Die entsprechenden lokalisierten Versionen sind ebenfalls berechtigt:
 
-- 10986 Updating Your Skills to SQL Server 2016
-- 10998 Updating Your Skills to SQL Server 2017
-- 20486 Developing ASP.NET Core/MVC 5 Web Applications
+- 10986 Updating Your Skills to SQL Server 2016
+- 10998 Updating Your Skills to SQL Server 2017
+- 20486 Developing ASP.NET Core/MVC 5 Web Applications
 - 20487 Developing Windows Azure™ and Web Services
-- 20744 Securing Windows Server 2016
+- 20744 Securing Windows Server 2016
 - 20745 Implementing a Software-Defined DataCenter
 - 20765 Provisioning SQL Databases
 - 20767 Implementing a SQL Data Warehouse
@@ -127,16 +127,16 @@ Dieser für Microsoft Learning-Partner verfügbare Kursteilnehmerpass funktionie
 | Dollarbegrenzung: Mit dem Pass ist eine Dollarbegrenzung verbunden. Der Betrag richtet sich nach dem jeweiligen Kurs. |
 | 30-Tage-Limit: Die Laufzeitbeschränkung gilt weiterhin. Sobald Sie entweder das Dollar-Limit oder die Laufzeitbegrenzung erreichen, läuft der Pass ab. |
 | 20 Kerne |
-| 20 Clouds |
+| 20 Clouds |
 | 100 Speicherkonten |
 | Alle Rechenzentrumsstandorte sind verfügbar (außer China) |
 | Ein Microsoft-Konto ist erforderlich, um den Azure Pass zu registrieren |
 | Co-Administrator kann hinzugefügt werden, d. h., es lassen sich weitere Microsoft-Konten dem selben Pass hinzufügen |
 | Es können nicht mehrere Microsoft Learning Azure Passes demselben Microsoft-Konto hinzugefügt werden, unabhängig davon, ob die Pässe noch aktiv oder schon abgelaufen sind. Für ein Microsoft-Konto kann während seiner Gültigkeitsdauer also nur 1 Microsoft Learning Azure Pass-Angebot verwendet werden. Ein Account, das schon einen Microsoft Learning Azure-Pass verwendet hat, kann das öffentlich verfügbare kostenlose Testabonnement nicht nutzen. Ein Account, das das öffentlich verfügbare kostenlose Testabonnement genutzt hat, kann jedoch den Microsoft Learning Azure-Pass verwenden. |
 | Das Standardverzeichnis wird standardmäßig in Active Directory erstellt |
-| Azure-Features in der Vorschau verfügbar |
+| Azure-Features in der Vorschau sind verfügbar |
 | Können nicht zum Kauf von Azure-Supportplänen verwendet werden |
-| Können nicht mit Markenprodukten von Drittanbietern wie Oracle DB verwendet werden. Linux ist verfügbar |
+| Können nicht mit Markenprodukten von Drittanbietern wie z. B. Oracle DB verwendet werden. Linux ist verfügbar |
 | Können nicht zum Kauf von Produkten verwendet werden, die über den Marketplace oder den Store verkauft werden, oder von Produkten, die anderweitig separat von Azure verkauft werden (z. B. Microsoft Azure Active Directory Premium). |
 | Können mit diesem Microsoft Learning Azure Pass in ein normales kostenpflichtiges Abonnement umgewandelt werden, wobei alle in Azure erfolgten Einstellungen erhalten bleiben. |
 

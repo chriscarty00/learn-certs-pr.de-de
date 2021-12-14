@@ -1,78 +1,61 @@
-### YamlMime:Role 
-title: Solutions Architect 
-metadata: 
+### YamlMime:Role
+title: Solutions Architect
+metadata:
   title: Solutions Architect
-  description: Solutions Architect (Lösungsarchitekten) verfügen über Expertise in den Bereichen Computing, Netzwerk, Storage und Sicherheit. 
-uid: role.solution-architect  
-summary: | 
-  Solutions Architect (Lösungsarchitekten) verfügen über Expertise in den Bereichen Computing, Netzwerk, Storage und Sicherheit.
-subTitle: Solutions Architect (Lösungsarchitekten) verfügen über Expertise in den Bereichen Computing, Netzwerk, Storage und Sicherheit.
-certificationPaths: 
+  description: Solutions Architects (Lösungsarchitekten) verfügen über Expertise in den Bereichen Computing, Netzwerk, Storage und Sicherheit.
+  ms.openlocfilehash: b46528c24a88aa486046c098860e3e01784570e1
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133078667"
+uid: role.solution-architect
+summary: >
+  Solutions Architects (Lösungsarchitekten) verfügen über Expertise in den Bereichen Computing, Netzwerk, Storage und Sicherheit.
+subTitle: Solutions Architects (Lösungsarchitekten) verfügen über Expertise in den Bereichen Computing, Netzwerk, Storage und Sicherheit.
+certificationPaths:
 - title: Azure Solutions Architect
-  linkedInKeywords: Azure Solutions Architect
-  uid: certification-path.azure-solutions-architect 
-  prerequisites: 
+  linkedInKeywords: Azure solutions architect
+  uid: certification-path.azure-solutions-architect
+  prerequisites:
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.azure-solutions-architect
     levels:
-    - advanced    
-- title: Dynamics 365 Finance and Operations Apps Solution Architect
-  linkedInKeywords: Dynamics 365 Finance and Operations Apps Solution Architect
+    - advanced
+- title: Dynamics 365 Finance and Operations Apps Solution Architect
+  linkedInKeywords: Dynamics 365 finance and operations apps solution architect
   uid: certification-path.d365-finance-and-operations-apps-solution-architect-expert
-  prerequisites: 
-  - uid: certification.d365-fundamentals
+  prerequisites:
+  - uid: certification.d365-fundamentals-customer-engagement-apps-crm
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.d365-functional-consultant-financials
     levels:
-    - intermediate  
+    - intermediate
   - uid: certification.d365-functional-consultant-manufacturing
     levels:
-    - intermediate 
+    - intermediate
   - uid: certification.d365-functional-consultant-supply-chain-management
     levels:
-    - intermediate 
+    - intermediate
   - uid: certification.d365-finance-and-operations-apps-developer-associate
     levels:
-    - intermediate 
+    - intermediate
   - uid: certification.d365-finance-and-operations-apps-solution-architect-expert
-    levels:
-    - advanced  
-- title: Dynamics 365 + Power Platform Solution Architect
-  linkedInKeywords: Dynamics 365 + Power Platform Solution Architect
-  uid: certification-path.power-apps-and-d365-solution-architect-expert
-  prerequisites: 
-  - uid: certification.power-platform-fundamentals
-    isOptional: true
-    levels:
-    - beginner 
-  - uid: certification.d365-functional-consultant-sales
-    levels:
-    - intermediate
-  - uid: certification.d365-functional-consultant-marketing
-    levels:
-    - intermediate
-  - uid: certification.d365-functional-consultant-customer-service
-    levels:
-    - intermediate
-  - uid: certification.d365-functional-consultant-field-service
-    levels:
-    - intermediate
-  - uid: certification.power-apps-and-d365-solution-architect-expert
     levels:
     - advanced
 - title: Power Platform Solution Architect
-  linkedInKeywords: Power Platform Solution Architect
+  linkedInKeywords: Power Platform solution architect
   uid: certification-path.power-platform-solution-architect-expert
-  prerequisites: 
+  prerequisites:
   - uid: certification.power-platform-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.power-platform-functional-consultant-associate
     levels:
     - intermediate
@@ -102,7 +85,7 @@ resources:
   href: https://aka.ms/TrainingCertDeck
 - title: Poster für Schulungen und Zertifizierungen
   description: Wählen Sie mit diesem Poster für Schulungen und Zertifizierungen Ihren Weg zum Erfolg.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Unterstützung von Zertifizierungen
   href: ../help.md
   description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.

@@ -1,15 +1,21 @@
-### YamlMime:Role 
-title: Sicherheitstechniker
-metadata: 
-  title: Sicherheitstechniker
-  description: Sicherheitstechniker implementieren Sicherheitskontrollen und Bedrohungsschutz, verwalten Identitäten und Zugriffe und schützen Daten, Anwendungen und Netzwerke.  
-uid: role.security-engineer 
-summary: | 
-  Sicherheitstechniker implementieren Sicherheitskontrollen und Bedrohungsschutz, verwalten Identitäten und Zugriffe und schützen Daten, Anwendungen und Netzwerke.
-subTitle: Sicherheitstechniker implementieren Sicherheitskontrollen und Bedrohungsschutz, verwalten Identitäten und Zugriffe und schützen Daten, Anwendungen und Netzwerke.
+### YamlMime:Role
+title: Security Engineer
+metadata:
+  title: Security Engineer
+  description: Security Engineers (Sicherheitstechniker) implementieren Sicherheitskontrollen und Bedrohungsschutz, verwalten Identitäten und Zugriffe und schützen Daten, Anwendungen und Netzwerke.
+  ms.openlocfilehash: 23f9035bc8bcd035f88593c52e761ad49929b6f7
+  ms.sourcegitcommit: 9eca3b739709f987540c0877a64f38bbbe27bf50
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/07/2021
+  ms.locfileid: "133989061"
+uid: role.security-engineer
+summary: >
+  Security Engineers (Sicherheitstechniker) implementieren Sicherheitskontrollen und Bedrohungsschutz, verwalten Identitäten und Zugriffe und schützen Daten, Anwendungen und Netzwerke.
+subTitle: Security Engineers (Sicherheitstechniker) implementieren Sicherheitskontrollen und Bedrohungsschutz, verwalten Identitäten und Zugriffe und schützen Daten, Anwendungen und Netzwerke.
 certificationPaths:
 - title: Azure Security Engineer
-  linkedInKeywords: Azure Security Engineer
+  linkedInKeywords: Azure security engineer
   uid: certification-path.azure-security-engineer
   prerequisites:
   - uid: certification.azure-fundamentals
@@ -20,7 +26,7 @@ certificationPaths:
     levels:
     - intermediate
 - title: Identity and Access Administrator
-  linkedInKeywords: Identity and Access Administrator
+  linkedInKeywords: Identity and access administrator
   uid: certification-path.identity-and-access-administrator
   prerequisites:
   - uid: certification.security-compliance-and-identity-fundamentals
@@ -30,8 +36,8 @@ certificationPaths:
   - uid: certification.identity-and-access-administrator
     levels:
     - intermediate
-- title: Information Protection Administrator
-  linkedInKeywords: Information Protection Administrator
+- title: Information Protection-Administrator
+  linkedInKeywords: Information protection administrator
   uid: certification-path.information-protection-administrator
   prerequisites:
   - uid: certification.security-compliance-and-identity-fundamentals
@@ -42,7 +48,7 @@ certificationPaths:
     levels:
     - intermediate
 - title: Security Operations Analyst
-  linkedInKeywords: Security Operations Analyst
+  linkedInKeywords: Security operations analyst
   uid: certification-path.security-operations-analyst
   prerequisites:
   - uid: certification.security-compliance-and-identity-fundamentals
@@ -50,6 +56,17 @@ certificationPaths:
     levels:
     - beginner
   - uid: certification.security-operations-analyst
+    levels:
+    - intermediate
+- title: Windows Server-Hybridadministrator
+  linkedInKeywords: Windows Server hybrid administrator
+  uid: certification-path.windows-server-hybrid-administrator
+  prerequisites:
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner
+  - uid: certification.windows-server-hybrid-administrator
     levels:
     - intermediate
 certifications:
@@ -65,13 +82,17 @@ certifications:
 - uid: certification.information-protection-administrator
   requiredExams:
   - uid: exam.sc-400
+- uid: certification.windows-server-hybrid-administrator
+  requiredExams:
+  - uid: exam.az-800
+  - uid: exam.az-801
 resources:
 - title: Microsoft Leitfaden für Schulungen und Zertifizierungen
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://aka.ms/TrainingCertDeck
 - title: Poster für Schulungen und Zertifizierungen
   description: Wählen Sie mit diesem Poster für Schulungen und Zertifizierungen Ihren Weg zum Erfolg.
   href: https://aka.ms/traincertposter
 - title: Unterstützung von Zertifizierungen
   href: ../help.md
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.

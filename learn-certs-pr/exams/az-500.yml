@@ -1,42 +1,64 @@
 ### YamlMime:Examination
-title: Microsoft Azure Security Technologies
+title: Microsoft Azure-Sicherheitstechnologien
 metadata:
-  title: 'Exam AZ-500: Microsoft Azure Security Technologies'
-  description: 'Exam AZ-500: Microsoft Azure Security Technologies'
+  title: 'Prüfung AZ-500: Microsoft Azure-Sicherheitstechnologien'
+  description: 'Prüfung AZ-500: Microsoft Azure-Sicherheitstechnologien'
+  ms.openlocfilehash: 6f5e14d217c69c8fdf0b411dd39a9b8bce6be786
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133079491"
 uid: exam.az-500
 displayName: AZ-500
-summary: |-
-  <div><div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am Mittwoch, 29. September 2021 aktualisiert. Bitte laden Sie das unten stehende Dokument mit den bewerteten Fähigkeiten herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div><div><font color='red'>HINWEIS: Punktzahl für einen erfolgreichen Abschluss: 700. Erfahren Sie mehr über Prüfungsergebnisse <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
-  
-  Kandidaten für diese Prüfung sollten über Fachwissen zur Implementierung von Azure-Sicherheitskontrollen verfügen, die Identität, Zugriff, Daten, Anwendungen und Netzwerke in Cloud- und Hybrid-Umgebungen als Teil einer End-to-End-Infrastruktur schützen.
-  
+summary: >-
+  <div><div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am 29. September 2021 aktualisiert. Laden Sie das unten aufgeführte Dokument mit den gemessenen Qualifikationen herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div><div><font color='red'>HINWEIS: Erforderliche Mindestpunktzahl: 700. Weitere Informationen zu Prüfungsergebnissen finden Sie <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
+
+
+  Kandidaten für diese Prüfung sollten über Fachwissen zum Implementieren von Azure-Sicherheitskontrollen verfügen, die zum Schutz von Identitäten, Zugriff, Daten, Anwendungen und Netzwerken in Cloud- und Hybridumgebungen im Rahmen einer End-to-End-Infrastruktur dienen.
+
+
   Zu den Aufgaben eines Azure Security Engineer gehören die Verwaltung der Sicherheitslage, die Identifizierung und Behebung von Schwachstellen, die Durchführung von Bedrohungsmodellen, die Implementierung von Bedrohungsschutz und die Reaktion auf Eskalationen von Sicherheitsvorfällen.
-  
+
+
   Azure Security Engineers sind oft Teil eines größeren Teams zur Planung und Implementierung von cloud-basiertem Management und Sicherheit.
-  
-  Kandidaten für diese Prüfung sollten über praktische Erfahrung in der Administration von Azure und hybriden Umgebungen verfügen. Die Kandidaten sollten Erfahrung mit Infrastructure as Code, Sicherheitsabläufen, Cloud-Funktionen und Azure -Diensten haben.
+
+
+  Kandidaten für diese Prüfung sollten über praktische Erfahrung in der Administration von Azure und hybriden Umgebungen verfügen. Die Kandidaten sollten Erfahrung mit Infrastructure-as-Code, Sicherheitsabläufen, Cloudfunktionen und Azure -Diensten haben.
+
+
+  Wenn Sie dieses Zertifizierungsexamen bestehen, kann dies bei einer ACE-Hochschule angerechnet werden. Weitere Informationen finden Sie unter [ACE-Leistungspunkt für Zertifizierungsprüfungen](/learn/certifications/ace-credit-for-certification-exams).
 subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Identitäts- und Zugriffsmanagement, Plattformschutz implementieren, Sicherheitsmaßnahmen verwalten und Daten und Anwendungen schützen.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
 - providerType: gsi
-  examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-500&provider=psi&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-500&provider=psi&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
 locales:
 - en
 - ja
 - zh-cn
 - ko
+- de
+- fr
+- es
+- pt-br
+- ar-sa
+- ru
+- zh-tw
+- it
+- id-id
 levels:
 - intermediate
 skills:
-- Der Inhalt dieser Prüfung wurde am Mittwoch, 29. September 2021 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich geändert hat.
-- Verwalten von Identität und Zugriff (30-35%)
-- Plattform-Schutz implementieren (15-20%)
-- Verwaltung von Sicherheitsvorgängen (25-30%)
-- Sichern von Daten und Anwendungen (25-30%)
+- The content of this exam was updated on September 29, 2021. Please download the exam skills outline below to see what changed.
+- Manage identity and access (30-35%)
+- Implement platform protection (15-20%)
+- Manage security operations (25-30%)
+- Secure data and applications (25-30%)
 roles:
 - security-engineer
 products:
@@ -49,26 +71,24 @@ products:
 courses:
 - uid: course.az-500t00
 paths:
-- uid: learn.security.secure-your-cloud-apps
-- uid: learn.security.implement-resource-mgmt-security
-- uid: learn.security.implement-network-security
-- uid: learn.security.implement-host-security
-- uid: learn.security.manage-identity-and-access
-- uid: learn.security.manage-security-operations
+- uid: learn.wwl.manage-identity-access
+- uid: learn.wwl.implement-platform-protection
+- uid: learn.wwl.secure-your-data-applications
+- uid: learn.wwl.manage-security-operation
 relatedCertifications:
 - related:
     uid: certification.azure-security-engineer
 resources:
 - title: Reise zur Zertifizierung
-  description: Informieren Sie sich über die nötigen Schritte für eine Zertifizierung als Azure Security Engineer Associate und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
+  description: Informieren Sie sich über die Schritte zur Zertifizierung als Azure Security Engineer Associate und über die verfügbaren Ressourcen, die Ihnen bei der Vorbereitung helfen können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
-- title: Informieren Sie sich über die Zertifizierungen
+- title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
   href: https://aka.ms/traincertposter
-- title: Prüfungswiederholung
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
@@ -78,8 +98,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
-- title: Prüfungsrichtlinien und häufig gestellten Fragen
+- title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md

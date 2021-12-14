@@ -1,109 +1,104 @@
-### YamlMime:Role 
-title: Administrator 
-metadata: 
-  title: Administrator 
+### YamlMime:Role
+title: Administrator
+metadata:
+  title: Administrator
   description: Administrators (Administratoren) implementieren, überwachen und warten Microsoft-Lösungen, einschließlich wichtiger Dienste, in den Bereichen Computer, Speicher, Netzwerk und Sicherheit.
-uid: role.administrator 
-summary: | 
+  ms.openlocfilehash: 0282dffc61f81b711b6305cd69eb048348ad2380
+  ms.sourcegitcommit: 9eca3b739709f987540c0877a64f38bbbe27bf50
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/07/2021
+  ms.locfileid: "133989038"
+uid: role.administrator
+summary: >
   Administrators (Administratoren) implementieren, überwachen und warten Microsoft-Lösungen, einschließlich wichtiger Dienste, in den Bereichen Computer, Speicher, Netzwerk und Sicherheit.
 subTitle: Administratoren implementieren, überwachen und warten Microsoft-Lösungen.
-certificationPaths: 
-- title: Azure Administrator
-  linkedInKeywords: Azure Administrator
-  uid: certification-path.azure-administrator 
-  prerequisites: 
+certificationPaths:
+- title: Azure-Administrator
+  linkedInKeywords: Azure administrator
+  uid: certification-path.azure-administrator
+  prerequisites:
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.azure-administrator
     levels:
     - intermediate
-- title: Microsoft 365 Messaging Administrator Associate
-  linkedInKeywords: Microsoft 365 Messaging Administrator Associate
+- title: Messagingadministrator für Microsoft 365
+  linkedInKeywords: Microsoft 365 messaging administrator
   uid: certification-path.m365-messaging-administrator
-  prerequisites: 
+  prerequisites:
   - uid: certification.microsoft-365-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.m365-messaging-administrator
     levels:
     - intermediate
-- title: Microsoft 365 Modern Desktop Administrator Associate
-  linkedInKeywords: Microsoft 365 Modern Desktop Administrator Associate
+- title: Microsoft 365 Modern Desktop Administrator
+  linkedInKeywords: Microsoft 365 modern desktop administrator
   uid: certification-path.modern-desktop
-  prerequisites: 
+  prerequisites:
   - uid: certification.microsoft-365-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.modern-desktop
     levels:
     - intermediate
-- title: Microsoft 365 Security Administrator Associate
-  linkedInKeywords: Microsoft 365 Security Administrator Associate
+- title: Microsoft 365-Sicherheitsadministrator
+  linkedInKeywords: Microsoft 365 security administrator
   uid: certification-path.m365-security-administrator
-  prerequisites: 
+  prerequisites:
   - uid: certification.microsoft-365-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.m365-security-administrator
     levels:
     - intermediate
-- title: Microsoft 365 Teamwork Administrator Associate
-  linkedInKeywords: Microsoft 365 Teamwork Administrator Associate
-  uid: certification-path.m365-teamwork-administrator
-  prerequisites: 
-  - uid: certification.microsoft-365-fundamentals
-    isOptional: true
-    levels:
-    - beginner 
-  - uid: certification.m365-teamwork-administrator
-    levels:
-    - intermediate
-- title: Microsoft Teams Administrator
-  linkedInKeywords: Microsoft Teams Administrator
+- title: Microsoft Teams-Administrator
+  linkedInKeywords: Microsoft Teams administrator
   uid: certification-path.m365-teams-administrator-associate
-  prerequisites: 
+  prerequisites:
   - uid: certification.microsoft-365-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.m365-teams-administrator-associate
     levels:
     - intermediate
 - title: Identity and Access Administrator
-  linkedInKeywords: Identity and Access Administrator
+  linkedInKeywords: Identity and access administrator
   uid: certification-path.identity-and-access-administrator
-  prerequisites: 
+  prerequisites:
   - uid: certification.security-compliance-and-identity-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.identity-and-access-administrator
     levels:
     - intermediate
-- title: Information Protection Administrator
-  linkedInKeywords: Information Protection Administrator
+- title: Information Protection-Administrator
+  linkedInKeywords: Information protection administrator
   uid: certification-path.information-protection-administrator
-  prerequisites: 
+  prerequisites:
   - uid: certification.security-compliance-and-identity-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.information-protection-administrator
     levels:
     - intermediate
-- title: Enterprise Administrator Expert
-  linkedInKeywords: Enterprise Administrator Expert
+- title: Unternehmensadministrator
+  linkedInKeywords: Enterprise administrator
   uid: certification-path.m365-enterprise-administrator
-  prerequisites: 
+  prerequisites:
   - uid: certification.power-platform-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.modern-desktop
     levels:
     - intermediate
@@ -122,15 +117,40 @@ certificationPaths:
   - uid: certification.m365-enterprise-administrator
     levels:
     - advanced
-- title: Azure Stack Hub Administrator
-  linkedInKeywords: Azure Stack Hub Administrator
+- title: Azure Stack Hub-Administrator
+  linkedInKeywords: Azure Stack Hub administrator
   uid: certification-path.azure-stack-hub-operator
-  prerequisites: 
+  prerequisites:
   - uid: certification.power-platform-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.azure-stack-hub-operator
+    levels:
+    - intermediate
+- title: Microsoft Teams Voice Engineer
+  linkedInKeywords: Microsoft Teams voice engineer
+  uid: certification-path.m365-teams-voice-engineer-expert
+  prerequisites:
+  - uid: certification.microsoft-365-fundamentals
+    isOptional: true
+    levels:
+    - beginner
+  - uid: certification.m365-teams-administrator-associate
+    levels:
+    - intermediate
+  - uid: certification.m365-teams-voice-engineer-expert
+    levels:
+    - advanced
+- title: Windows Server-Hybridadministrator
+  linkedInKeywords: Windows Server hybrid administrator
+  uid: certification-path.windows-server-hybrid-administrator
+  prerequisites:
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner
+  - uid: certification.windows-server-hybrid-administrator
     levels:
     - intermediate
 certifications:
@@ -140,7 +160,7 @@ certifications:
 - uid: certification.azure-for-sap-workloads-specialty
   requiredExams:
   - uid: exam.az-120
-- uid: certification.azure-virtual-desktop-specialty
+- uid: certification.windows-virtual-desktop-specialty
   requiredExams:
   - uid: exam.az-140
 - uid: certification.azure-stack-hub-operator
@@ -169,6 +189,13 @@ certifications:
 - uid: certification.information-protection-administrator
   requiredExams:
   - uid: exam.sc-400
+- uid: certification.m365-teams-voice-engineer-expert
+  requiredExams:
+  - uid: exam.ms-720
+- uid: certification.windows-server-hybrid-administrator
+  requiredExams:
+  - uid: exam.az-800
+  - uid: exam.az-801
 resources:
 - title: Microsoft Leitfaden für Schulungen und Zertifizierungen
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.

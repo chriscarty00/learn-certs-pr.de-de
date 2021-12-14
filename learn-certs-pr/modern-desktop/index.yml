@@ -1,27 +1,34 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
+title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
 metadata:
-  title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
-  description: 'Modern Desktop Administrators übernehmen die Bereitstellung, konfigurieren, sichern, verwalten und überwachen Geräte und Client-Apps in einer Unternehmensumgebung.'
+  title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
+  description: Modern Desktop Administrators stellen Geräte und Client-Apps in einer Unternehmensumgebung bereit und übernehmen ihre Konfiguration, ihren Schutz, ihre Verwaltung und ihre Überwachung.
+  ms.openlocfilehash: 5bc18a9f5b28a3b88d92fa35e90e16266976f9ca
+  ms.sourcegitcommit: 629987a1453ce12f333d7208ec519258e24f4d78
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/03/2021
+  ms.locfileid: "133530046"
 uid: certification.modern-desktop
 certificationRenewalUid: renewal.m365-modern-desktop
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>Der Inhalt dieser Prüfung wurde kürzlich aktualisiert. <a href="/learn/certifications/exams/ms-101">MD-101</a> wurde am Freitag, 24. September 2021 aktualisiert, und <a href="/learn/certifications/exams/ms-100">MD-100</a> wurde am Donnerstag, 5. August 2021 aktualisiert. Bitte laden Sie die Dokumente zur Messung der Fähigkeiten auf den entsprechenden Prüfungsseiten herunter, um die Änderungen zu sehen.</strong></font><br/><br/></div>
-  
-  Modern Desktop Administrators übernehmen die Bereitstellung, konfigurieren, sichern, verwalten und überwachen Geräte und Client-Apps in einer Unternehmensumgebung.
-subTitle: Modern Desktop Administrators übernehmen die Bereitstellung, konfigurieren, sichern, verwalten und überwachen Geräte und Client-Apps in einer Unternehmensumgebung.
+summary: >-
+  <div><font color='red'><strong>Der Inhalt dieser Zertifizierung wurde kürzlich aktualisiert. Das <a href="/learn/certifications/exams/md-101">Examen MD-101</a> wurde am 24. November 2021 und das <a href="/learn/certifications/exams/md-100">Examen MD-100</a> am 3. Dezember 2021 aktualisiert. Laden Sie die Dokumente zu den bewerteten Qualifikation auf den zugehörigen Examensseiten herunter, um die Änderung zu sehen.</strong></font><br/><br/></div>
+
+
+  Modern Desktop Administrators stellen Geräte und Client-Apps in einer Unternehmensumgebung bereit und übernehmen ihre Konfiguration, ihren Schutz, ihre Verwaltung und ihre Überwachung.
+subTitle: Modern Desktop Administrators stellen Geräte und Client-Apps in einer Unternehmensumgebung bereit und übernehmen ihre Konfiguration, ihren Schutz, ihre Verwaltung und ihre Überwachung.
 levels:
 - intermediate
 skills:
-- Bereitstellen von Windows
-- Verwaltung von Geräten und Daten
-- Speicher und Konnektivität konfigurieren
-- Wartung von Windows
-- Bereitstellen und Aktualisieren von Betriebssystemen
-- Verwaltung von Richtlinien und Profilen
-- Verwalten und Pflegen von Geräten
-- Verwalten von Apps und Daten
+- Deploy Windows
+- Manage devices and data
+- Configure storage and connectivity
+- Maintain Windows
+- Deploy and upgrade operating systems
+- Manage policies and profiles
+- Manage and protect devices
+- Manage apps and data
 roles:
 - administrator
 type: role-based
@@ -40,8 +47,8 @@ exams:
 - uid: exam.md-100
 - uid: exam.md-101
 resources:
-- title: Lernpfad zur Zertifizirung
-  description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Modern Desktop Administrator Associate.'
+- title: Lernpfad zur Zertifizierung
+  description: 'Entdecken Sie Schulungsressourcen zum Erlangen der Zertifizierung „Microsoft Certified: Modern Desktop Administrator Associate“.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
@@ -58,7 +65,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Fordern Sie Ihren Microsoft-Zertifizierungsbadge an, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md
-

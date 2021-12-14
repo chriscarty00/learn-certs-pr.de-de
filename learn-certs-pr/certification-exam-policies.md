@@ -1,28 +1,33 @@
 ---
-title: Prüfungsrichtlinien und FAQs | Microsoft Docs
-description: 'Prüfungsrichtlinien und FAQs'
-documentationcenter: NA 
-author: venkatorugantimsft
+title: Prüfungsrichtlinien und häufig gestellte Fragen | Microsoft-Dokumentation
+description: Prüfungsrichtlinien und FAQs
+documentationcenter: NA
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 10/14/2019
-ms.author: venkato
+ms.author: msulliv
 ms.prod: non-product-specific
+ms.openlocfilehash: 826bb37e39688b180b8523a87d4cf90167beb742
+ms.sourcegitcommit: 08de83d8c07ad5bad17ae3ec18f70ddfb898708c
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 11/15/2021
+ms.locfileid: "132454856"
 ---
-# Prüfungsrichtlinien und FAQs
+# <a name="exam-policies-and-faqs"></a>Prüfungsrichtlinien und FAQs
 
-Auf der ganzen Welt erwarten Partner und Kunden von Microsoft Prüfungen und Zertifizierungen von höchster Qualität. Die Microsoft Certification Prüfungsrichtlinien wurden entwickelt, um die Ziele des Zertifizierungsprogramms zu unterstützen. Lesen Sie die folgenden Artikel zu den spezifischen Prüfungsrichtlinien und häufig gestellten Fragen (FAQs):
-
-- [Exam process overview](/learn/certifications/exam-process-overview)
-- [Exam security policy and exam retake policy](/learn/certifications/exam-security-policy-and-exam-retake-policy)
-- [Exam reschedule and cancellation policy](/learn/certifications/exam-reschedule-and-cancellation-policy)
-- [Microsoft certification program agreement](/learn/certifications/microsoft-certification-program-agreement)
-- [Microsoft certification non-disclosure agreement](/learn/certifications/microsoft-certification-renewal-non-disclosure-agreement)
-- [Microsoft exam non-disclosure agreement](/learn/certifications/microsoft-exam-non-disclosure-agreement)
-- [Request accommodations](/learn/certifications/request-accomodations)
-- [Exam item challenge process](/learn/certifications/exam-item-challenge-process)
-- [Beta exams](/learn/certifications/beta-exams)
-- [College credit for certification exams](/learn/certifications/college-credit-for-certification-exams)
-- [Student discounts](/learn/certifications/student-discounts)
-- [Contact Support](/learn/certifications/help)
+Auf der ganzen Welt erwarten Partner und Kunden von Microsoft Prüfungen und Zertifizierungen von höchster Qualität. Die Prüfungsrichtlinien für die Microsoft-Zertifizierung wurden entwickelt, um die Ziele des Zertifizierungsprogramms zu unterstützen. Lesen Sie die folgenden Artikel zu den spezifischen Prüfungsrichtlinien und häufig gestellten Fragen:
+- [Häufig gestellte Fragen](/learn/certifications/exam-process-overview)
+- [Richtlinien für die Prüfungswiederholung](/learn/certifications/exam-security-policy-and-exam-retake-policy)
+- [Prüfungsverschiebungs- und Stornierungsbedingungen](/learn/certifications/exam-reschedule-and-cancellation-policy)
+- [Vereinbarung zum Microsoft-Zertifizierungsprogramm](/learn/certifications/microsoft-certification-program-agreement)
+- [Geheimhaltungsvereinbarung für Microsoft-Zertifizierungen](/learn/certifications/microsoft-certification-renewal-non-disclosure-agreement)
+- [Geheimhaltungsvereinbarung für Microsoft-Prüfungen](/learn/certifications/microsoft-exam-non-disclosure-agreement)
+- [Anfordern von Unterkünften](/learn/certifications/request-accomodations)
+- [Prozess zur Anfechtung von Teilen von Zertifizierungsprüfungen und von Bewertungen zur Erneuerung von Zertifizierungen](/learn/certifications/exam-item-challenge-process)
+- [Beta-Prüfungen](/learn/certifications/beta-exams)
+- [Hochschulanrechnung für Zertifizierungsprüfungen](/learn/certifications/college-credit-for-certification-exams)
+- [Studentenermäßigungen](/learn/certifications/student-discounts)
+- [Zertifizierungsunterstützung](/learn/certifications/help)

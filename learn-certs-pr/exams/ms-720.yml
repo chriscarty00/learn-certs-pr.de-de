@@ -1,0 +1,76 @@
+### YamlMime:Examination
+title: Microsoft Teams Voice Engineer (Beta)
+metadata:
+  title: 'Prüfung MS-720: Microsoft Teams Voice Engineer (Beta)'
+  description: 'Prüfung MS-720: Microsoft Teams Voice Engineer (Beta)'
+  ms.openlocfilehash: 3455cb9764498974dc6125b4db0710849e973eea
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133078644"
+uid: exam.ms-720
+displayName: MS-720
+summary: >-
+  Kandidaten für diese Prüfung sind Microsoft Teams Voice Engineers, die integrierte Kommunikationslösungen in einer Organisation planen, entwerfen, konfigurieren und warten sowie Probleme behandeln. Sie müssen in der Lage sein, Geschäftsanforderungen in technische Architekturen und Entwürfe für Kommunikationslösungen umzusetzen.
+
+
+  Kandidaten sind mit Telekommunikationstechnologien vertraut und verfügen über Erfahrung mit Microsoft Teams, Microsoft 365 und PowerShell. Sie müssen in der Lage sein, Microsoft Teams-Telefon mit PSTN-Konnektivität über Direct Routing, Telefonieanbieter und Microsoft Teams-Anrufpläne bereitzustellen und zu konfigurieren. Die Kandidaten verwalten darüber hinaus Geräte, die für Microsoft Teams, Audio-/Videokonferenzen und Sprachmigration zertifiziert sind.
+
+
+  Die Kandidaten arbeiten mit Telefonieanbietern und Drittanbietern zusammen, um erweiterte Sprachfunktionen in Microsoft Teams zu ermöglichen. Sie arbeiten zudem mit Administratoren für andere Workloads zusammen, einschließlich Netzwerk, Identität, Lizenzierung, Sicherheit und Compliance.
+
+
+  <div><font color='red'><br/>HINWEIS: Erforderliche Punktzahl: 700. Weitere Informationen zur Prüfungsauswertung finden Sie <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>. Betaprüfungen werden nicht sofort bewertet, weil wir Daten zur Qualität der Fragen und der Prüfung sammeln. <a href="/learn/certifications/beta-exams">Erfahren Sie mehr über den Wert und die Bedeutung von Betaprüfungen.</a></font></div>
+subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben auszuführen: Planen und Konfigurieren von Microsoft Teams-Telefon, Optimieren der Netzwerkleistung, Planen und Konfigurieren von Direct Routing, Konfigurieren und Verwalten von Microsoft Teams-Telefon für Sprachbenutzer, Planen und Konfigurieren von Microsoft Teams-Clients und -Geräten sowie Überwachen von Microsoft Teams-Telefon und Behandeln von Problemen.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWLFS2
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-720&examname=Exam%20MS-720:%20Microsoft%20Teams%20Voice%20Engineer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-720
+locales:
+- en
+levels:
+- advanced
+skills:
+- Plan and configure Microsoft Teams Phone (25-30%)
+- Optimize network performance (5-10%)
+- Plan and configure Direct Routing (15-20%)
+- Configure and manage Microsoft Teams Phone for voice users (15-20%)
+- Plan and configure Microsoft Teams clients and devices (5-10%)
+- Monitor and troubleshoot Microsoft Teams Phone (15-20%)
+roles:
+- administrator
+products:
+- m365
+- office-teams
+courses:
+- uid: course.ms-720t00
+paths:
+- uid: learn.wwl.plan-configure-teams-voice
+- uid: learn.wwl.manage-teams-voice
+relatedCertifications:
+- related:
+    uid: certification.m365-teams-voice-engineer-expert
+resources:
+- title: Schulungs- und Zertifizierungsleitfaden
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://aka.ms/TrainingCertDeck
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+  href: ../deals.md
+- title: Unterstützung bei Zertifizierungsprüfungen
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  href: ../help.md
+- title: Zertifizierungsdashboard
+  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Unterkünfte anfordern
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
+  href: ../request-accommodations.md
+- title: Prüfungsrichtlinien und FAQs
+  description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
+  href: ../certification-exam-policies.md

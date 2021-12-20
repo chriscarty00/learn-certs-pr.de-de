@@ -1,35 +1,41 @@
 ### YamlMime:Course
 title: 'Microsoft Dynamics 365: Core Finance and Operations'
 metadata:
-  title: 'Course MB-300T00--A: Microsoft Dynamics 365: Core Finance and Operations'
-  description: 'Course MB-300T00--A: Microsoft Dynamics 365: Core Finance and Operations'
+  title: 'Kurs MB-300T00--A: Microsoft Dynamics 365: Core Finance and Operations'
+  description: 'Kurs MB-300T00--A: Microsoft Dynamics 365: Core Finance and Operations'
+  ms.openlocfilehash: 7b5ac3bbda1c80f961584730c8a3aafb67f04ff7
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132113117"
 uid: course.mb-300t00
-courseNumber: 'MB-300T00'
+courseNumber: MB-300T00
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Nutzung gemeinsamer Funktionen und Implementierungswerkzeuge
+- skill: Verwendung gängiger Funktionen und Implementierungswerkzeuge
 - skill: Beschreibung der Anwendungsfälle und Möglichkeiten von Arbeitsräumen
 - skill: Nutzung und Personalisierung betrieblicher Arbeitsbereiche
 - skill: Beschreibung des Fallmanagements
-- skill: Beschreibung der globalen Adressbuchfunktionen und ihrer Anwendungsfälle
+- skill: Erklären der globalen Adressbuchfeatures und ihrer Anwendungsfälle
 - skill: Identifizierung der in einer Standardinstallation verfügbaren Abfrage- und Berichtstypen
-- skill: Beschreibung der Anwendungsfälle für die Funktionen zur Verwaltung von Geschäftsdokumenten und zur elektronischen Berichterstattung
+- skill: Beschreibung der Anwendungsfälle für die Features zur Verwaltung von Geschäftsdokumenten und zur elektronischen Berichterstattung
 - skill: Navigieren und effizientes Verwenden von Suchfiltern und Erstellen von Suchanfragen
-- skill: Datensatzvorlagen verstehen und verwenden
+- skill: Verstehen und Verwenden von Datensatzvorlagen
 - skill: Beschreibung von Anwendungsfällen für Power Platform-Anwendungen und -Dienste
-- skill: Integrieren von Power BI mit Dynamics 365 Finance -Apps.
-- skill: Sicherheit und Aufgabentrennung umsetzen
-- skill: Entwerfen und Erstellen von Arbeitsabläufen
+- skill: Integrieren von Power BI mit Dynamics 365 Finance -Apps
+- skill: Implementieren von Sicherheit und Aufgabentrennung
+- skill: Entwurf und Erstellung von Workflows
 - skill: Einrichten und Konfigurieren von juristischen Personen und Betriebseinheiten
-- skill: Erstellen von Batch-Aufträgen
-- skill: Erstellung einer Organisationshierarchie und Zuweisung eines Zwecks
-- skill: Benutzeroptionen konfigurieren
-- skill: Verwendung von Excel Workbook Designer
+- skill: Erstellen von Batchaufträgen
+- skill: Erstellen einer Organisationshierarchie und Zuweisen von Zwecken
+- skill: Konfigurieren von Benutzeroptionen
+- skill: Verwenden des Excel-Arbeitsmappen-Designers
 - skill: Verwendung von Power Automate-Flows von Dynamics 365 Finance and Operations
-- skill: Planung für Datenmigration
-- skill: Verwalten von Daten und Anwendungen im Bereich Finanzen und Betrieb
-- skill: Implementierung von Lifecycle services (LCS) -Tools
+- skill: Planen der Datenmigration
+- skill: Verwalten von Daten und Anwendungen in Finance and Operations
+- skill: Implementieren von LCS-Tools (Lifecycle Services)
 - skill: Testen von Lösungen in Dynamics 365 Finance and Operations-Apps
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -42,270 +48,396 @@ products:
 - dynamics-365
 exams:
 - uid: exam.mb-300
-summary: |-
-  Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu bewältigen: Beschreiben von Finanz- und Betriebsanwendungen und Erweitern von Anwendungen durch den Einsatz von Microsoft Power Platform-Technologien; Konfigurieren von Verwaltungsfunktionen und Arbeitsabläufen; Verwalten von Finanz- und Betriebsdaten; Validieren und Unterstützen der Lösung.
-    
-  #### Profil der Zielgruppe
+summary: >-
+  Dieses Examen misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu bewältigen: Beschreiben von Finance and Operations-Apps und Erweitern von Anwendungen durch den Einsatz von Microsoft Power Platform-Technologien, Konfigurieren von Verwaltungsfeatures und -workflows, Verwalten von Finance and Operations-Daten, Validieren und Unterstützen der Lösung.
 
-  Berater (funktional und technisch) sammeln und analysieren Geschäftsanforderungen und übersetzen diese Anforderungen in vollständig realisierte Geschäftsprozesse und Lösungen, die die von der Branche empfohlenen Verfahren umsetzen. Sie dienen als wichtige Ressource bei der Implementierung und Konfiguration von Anwendungen, die den Geschäftsanforderungen entsprechen. Die Berater sollten in der Lage sein, die wichtigsten Komponenten und Funktionen von Dynamics 365 Finance and Operations-Apps einzurichten. Sie sollten auch wissen, wie Dynamics 365 Finance and Operations Anwendungen sind mit externen Systemen und Tools integrieren, darunter Power Platform. Der Berater verwendet Lifecycle Services (LCS), Azure DevOps und weitere Microsoft Werkzeuge und Plattformen zur Erleichterung der Verwaltung des Anwendungslebenszyklus (ALM) -Prozesses. Berater bilden sich kontinuierlich weiter, indem sie die Produktversionshinweise lesen, die Produkt-Roadmaps prüfen, an Konferenzen teilnehmen oder sich mithilfe von Microsoft Learn, Microsoft Docs,, Präsenzunterricht, Blogs und Benutzergemeinschaften weiterbilden. Sie sollten auch rollenbasierte Zertifizierungen und Prüfungen absolvieren, um sicherzustellen, dass ihr Wissen anerkannt wird.
-prerequisitesSection: |-
-  Vor Teilnahme an disesem Kurs benötigen die Teilnehmer&#58;
-  - Allgemeine Kenntnisse von Microsoft Windows
-  - Die Fähigkeit,  Dynamics 365 for Finance and Operations für die grundlegende Bearbeitung und Navigation zu nutzen
-  - Erfahrung als funktionaler oder technischer Berater, der  Dynamics Finance Apps zum Sammeln und Analysieren von Geschäftsanforderungen verwendet hat
-  - Allgemeines Wissen über grundlegende Funktionen und Navigation von Mobilgeräten
-  - Der Teilnehmer sollte in der Lage sein, an einem synchronen, virtuellen Kurs teilzunehmen und Feedback in einer positiven, konstruktiven Art und Weise zu kommunizieren.
-outlineSection: |-
-  ### Modul 1: Verwendung von gemeinsamen Funktionen und Implementierungswerkzeugen
 
-  In diesem Modul erhalten Sie eine Einführung in Dynamics 365 Finance and Operations durch Erlernen der Basic UI und Navigation. Teilnehmer arbeiten auch mit Power Platform-Tools, die mit Finanzierungs- und Betriebs-Apps arbeiten.
+  #### <a name="audience-profile"></a>Zielgruppenprofil
 
-  #### Lektionen
+
+  Berater*innen (funktional und technisch) sammeln und analysieren Geschäftsanforderungen und übersetzen diese Anforderungen in vollständig realisierte Geschäftsprozesse und Lösungen, die die von der Branche empfohlenen Verfahren umsetzen. Sie dienen als wichtige Ressource bei der Implementierung und Konfiguration von Anwendungen, die den Geschäftsanforderungen entsprechen. Berater*innen sollten in der Lage sein, die wichtigsten Komponenten und Features von Dynamics 365 Finance and Operations-Apps einzurichten. Sie sollten auch wissen, wie Dynamics 365 Finance and Operations-Apps mit externen Systemen und Tools wie Power Platform integriert werden. Berater*innen nutzen Lifecycle Services (LCS), Azure DevOps und andere Microsoft-Tools und -Plattformen, um den Prozess des Application Lifecycle Management (ALM) zu erleichtern. Berater*innen bilden sich kontinuierlich weiter, indem sie die Produktversionshinweise lesen, die Produkt-Roadmaps prüfen, an Konferenzen teilnehmen oder sich mithilfe von Microsoft Learn, Microsoft-Dokumentation, Präsenzschulungen, Blogs und Benutzercommunitys weiterbilden. Sie sollten auch rollenbasierte Zertifizierungen und Prüfungen absolvieren, um sicherzustellen, dass ihr Wissen anerkannt wird.
+prerequisitesSection: >-
+  Vor der Teilnahme an diesem Kurs müssen die Teilnehmer folgende Voraussetzungen erfüllen:
+   * Allgemeine Kenntnisse zu Microsoft Windows
+   * Grundkenntnisse bei der Verwendung von Dynamics 365 for Finance and Operations für die Verarbeitung und Navigation
+   * Erfahrung als funktionale*r oder technische*r Berater*in und mit der Verwendung von Dynamics Finance-Apps zur Erfassung und Analyse von Geschäftsanforderungen
+   * Allgemeine Kenntnisse der grundlegenden Features und Navigation mobiler Geräte
+   * Kursteilnehmer*innen sollten in der Lage sein, einen synchronen, virtuellen Kurs zu absolvieren und Feedback auf positive, konstruktive Weise zu kommunizieren.
+outlineSection: >-
+  ### <a name="module-1-use-common-functionality-and-implementation-tools"></a>Modul 1: Verwenden gängiger Funktionen und Implementierungstools
+
+
+  In diesem Modul erhalten Sie eine Einführung in Dynamics 365 Finance and Operations, indem Sie die grundlegende Benutzeroberfläche und Navigation kennenlernen. Kursteilnehmer*innen arbeiten auch mit Power Platform-Tools, die mit Finance and Operations-Apps arbeiten.
+
+
+  #### <a name="lessons"></a>Lektionen
+
 
   *   Einführung
+
 
   *   Einführung in Dynamics 365 Finance and Operations
 
-  *   Basic UI und Navigation
 
-  *   Dynamics 365 Finance &amp; Operations Merkmale und Funktionen
-
-  *   Power Platform -Tools, die mit Finanz- und Betriebsanwendungen arbeiten
-
-  *   Modulüberblick
+  *   Grundlegende Benutzeroberfläche und Navigation
 
 
-  #### Lab : Arbeit mit betrieblichen Arbeitsbereichen
+  *   Features und Funktionen von Dynamics 365 Finance and Operations
+
+
+  *   Mit Finance and Operations-Apps kompatible Power Platform-Tools
+
+
+  *   Zusammenfassung des Moduls
+
+
+
+  #### <a name="lab--work-with-operational-workspaces"></a>Lab: Arbeiten mit betrieblichen Arbeitsbereichen
+
 
   ####
 
-  #### Lab : Suchen durchführen und mit Filtern arbeiten
+
+  #### <a name="lab--perform-searches-and-work-with-filters"></a>Lab: Durchführen von Suchvorgängen und Arbeiten mit Filtern
+
 
   ####
 
-  #### Lab : Suchanfragen erstellen und zur späteren Verwendung speichern
+
+  #### <a name="lab--create-search-queries-and-save-for-future-use"></a>Lab: Erstellen von Suchabfragen und Speichern für die zukünftige Verwendung
+
 
   ####
 
-  #### Lab : Arbeiten mit Datensatzvorlagen
+
+  #### <a name="lab--work-with-record-templates"></a>Lab: Arbeiten mit Datensatzvorlagen
+
 
   ####
 
-  #### Lab : Vorbereitung, Aktivierung und Nutzung der Verwaltung von Geschäftsdokumenten
+
+  #### <a name="lab--prepare-enable-and-use-business-document-management"></a>Lab: Vorbereiten, Aktivieren und Verwenden der Verwaltung von Geschäftsdokumenten
+
 
   ####
 
-  #### Lab : Arbeiten mit gespeicherten Ansichten
+
+  #### <a name="lab--work-with-saved-views"></a>Lab: Arbeiten mit gespeicherten Ansichten
+
 
   ####
 
-  #### Lab : Einrichtung von Zahlenfolgen
+
+  #### <a name="lab--setup-number-sequences"></a>Lab: Einrichten von Zahlenfolgen
+
 
   ####
 
-  #### Lab : Konfigurieren von Adressbüchern
+
+  #### <a name="lab--configuring-address-books"></a>Lab: Konfigurieren von Adressbüchern
+
 
   ####
 
-  #### Lab : Arbeiten mit betrieblichen Arbeitsbereichen
+
+  #### <a name="lab--work-with-operational-workspaces"></a>Lab: Arbeiten mit betrieblichen Arbeitsbereichen
+
 
   ####
 
-  Sie haben folgendes gelernt:
 
-  * Nutzung gemeinsamer Funktionen und Implementierungswerkzeuge.
-
-  * Beschreibung der Anwendungsfälle und Möglichkeiten von Arbeitsräumen.
-
-  * Nutzung und Personalisierung betrieblicher Arbeitsbereiche.
-
-  * Beschreibung des Fallmanagements.
-
-  * Beschreibung der globalen Adressbuchfunktionen und ihrer Anwendungsfälle.
-
-  * Identifizierung der in einer Standardinstallation verfügbaren Abfrage- und Berichtstypen.
-
-  * Beschreibung der Anwendungsfälle für die Funktionen zur Verwaltung von Geschäftsdokumenten und zur elektronischen Berichterstattung.
-
-  * Navigieren und effizientes Verwenden von Suchfiltern und Erstellen von Suchanfragen.
-
-  * Datensatzvorlagen verstehen und verwenden.
-
-  * Die für verschiedene Geschäftsprozesse verfügbaren Finanz- und Betriebsanwendungen
-
-  * Beschreiben Sie Anwendungsfälle für Power Platform-Apps und Services.
-
-  Integrieren von Power BI mit Dynamics 365 Finance -Apps.
+  Folgendes wurde vermittelt:
 
 
-  ### Modul 2: Administrative Funktionen und Arbeitsabläufe konfigurieren
+  *   Verwenden gängiger Funktionen und Implementierungstools
 
-  In diesem Modul lernen Sie, wie Sie Sicherheit in Finance and Operations Apps implementieren und gleichzeitig Workflows und Geschäftsereignisse implementieren. Die Teilnehmer werden die Apps für Finanzen und Betrieb verwalten und das Berichtswesen implementieren.
 
-  #### Lektionen
+  *   Beschreibung der Anwendungsfälle und Möglichkeiten von Arbeitsbereichen
+
+
+  *   Nutzung und Personalisierung betrieblicher Arbeitsbereiche
+
+
+  *   Beschreibung des Fallmanagements
+
+
+  *   Beschreibung der globalen Adressbuchfeatures und ihrer Anwendungsfälle
+
+
+  *   Identifizierung der in einer Standardinstallation verfügbaren Abfrage- und Berichtstypen
+
+
+  *   Beschreibung der Anwendungsfälle für die Features zur Verwaltung von Geschäftsdokumenten und zur elektronischen Berichterstattung
+
+
+  *   Navigieren und effizientes Verwenden von Suchfiltern und Erstellen von Suchanfragen
+
+
+  *   Verstehen und Verwenden von Datensatzvorlagen
+
+
+  *   Für verschiedene Geschäftsprozesse verfügbare Finance and Operations-Apps
+
+
+  *   Beschreibung von Anwendungsfällen für Power Platform-Anwendungen und -Dienste
+
+
+  *   Integrieren von Power BI mit Dynamics 365 Finance -Apps
+
+
+
+  ### <a name="module-2-configure-administrative-features-and-workflows"></a>Modul 2: Konfigurieren administrativer Features und Workflows
+
+
+  In diesem Modul lernen Sie, wie Sie Sicherheitsmaßnahmen in Finance and Operations-Apps und gleichzeitig Workflows und Geschäftsereignisse implementieren. Die Teilnehmer werden die Apps für Finanzen und Betrieb verwalten und das Berichtswesen implementieren.
+
+
+  #### <a name="lessons"></a>Lektionen
+
 
   *   Einführung
 
-  *   Implementierung von Sicherheit in Finanz- und Betriebsanwendungen
 
-  *   Implementierung von Dynamics 365 Finance and Operations Anwendungsworkflows und Geschäftsvorfällen
-
-  *   Planung und Implementierung von einer Organisation in Dynamics 365 Finance and Operations
-
-  *   Verwaltung von Finanz- und Betriebsanwendungen
-
-  *   Umsetzung der Berichterstattung in Dynamics 365 Finance and Operations
-
-  *   Modulüberblick
+  *   Implementieren von Sicherheitsmaßnahmen in Finance and Operations-Apps
 
 
-  #### Lab : Einen Batch-Auftrag erstellen
+  *   Implementieren von Workflows und Geschäftsereignissen von Dynamics 365 Finance and Operations-Apps
 
-  ####
 
-  #### Lab : Eine Organisationshierarchie erstellen
+  *   Planen und Implementieren einer Organisation in Dynamics 365 Finance and Operations
 
-  ####
 
-  #### Lab : Eine Betriebseinheit erstellen
+  *   Verwalten von Finance and Operations-Apps
 
-  ####
 
-  #### Lab : Eine neue juristische Person konfigurieren
+  *   Implementieren der Berichterstellung in Dynamics 365 Finance and Operations
+
+
+  *   Zusammenfassung des Moduls
+
+
+
+  #### <a name="lab--create-a-batch-job"></a>Lab: Erstellen eines Batch-Auftrags
+
 
   ####
 
-  #### Lab : Erstellung eines Bestellanforderungsablaufs
+
+  #### <a name="lab--create-an-organization-hierarchy"></a>Lab: Erstellen einer Organisationshierarchie
+
 
   ####
 
-  #### Lab : Ausführen eines Sicherheitsberichts und Analysieren der Ergebnisse
+
+  #### <a name="lab--create-an-operating-unit"></a>Lab: Erstellen einer Betriebseinheit
+
 
   ####
 
-  #### Lab : Aufgabentrennung einführen
+
+  #### <a name="lab--configure-a-new-legal-entity"></a>Lab: Konfigurieren einer neuen juristischen Person
+
 
   ####
 
-  #### Lab : Benutzer anlegen und Sicherheitsrollen zuweisen
+
+  #### <a name="lab--create-a-purchase-requisition-workflow"></a>Lab: Erstellen eines Bestellanforderungsworkflows
+
 
   ####
 
-  Sie haben Folgendes gelernt:
 
-  *   Implementierung von Sicherheit und Aufgabentrennung
+  #### <a name="lab--run-a-security-report-and-analyze-the-outputs"></a>Lab: Ausführen eines Sicherheitsberichts und Analysieren der Ergebnisse
 
-  *   Workflows entwerfen und erstellen
+
+  ####
+
+
+  #### <a name="lab--set-up-segregation-of-duties"></a>Lab: Einrichten der Aufgabentrennung
+
+
+  ####
+
+
+  #### <a name="lab--create-users-and-assign-security-roles"></a>Lab: Erstellen von Benutzer*innen und Zuweisen von Sicherheitsrollen
+
+
+  ####
+
+
+  Folgendes wurde vermittelt:
+
+
+  *   Implementieren von Sicherheit und Aufgabentrennung
+
+
+  *   Entwurf und Erstellung von Workflows
+
 
   *   Einrichten und Konfigurieren von juristischen Personen und Betriebseinheiten
 
-  *   Batch-Jobs erstellen
 
-  *   Eine Organisationshierarchie erstellen und Zweck zuweisen
+  *   Erstellen von Batchaufträgen
 
-  *   Benutzeroptionen konfigurieren
 
-  *   Verwendung von Excel Workbook Designer
+  *   Erstellen einer Organisationshierarchie und Zuweisen von Zwecken
 
-  *   E-Mail konfigurieren (SMTP/Exchange)
 
-  *   E-Mail-Vorlagen erstellen und bearbeiten.
+  *   Konfigurieren von Benutzeroptionen
 
-  *   Verwenden der Power Automate Flows von Dynamics 365 Finance and Operations
 
-  ### Modul 3: Verwalten Dynamics 365 Finance and Operation -Daten
+  *   Verwenden des Excel-Arbeitsmappen-Designers
 
-  In diesem Modul lernen Sie, wie Sie Finanz- und Betriebsdaten verwalten, indem Sie Datenmigrationen planen und mit Anwendungen arbeiten, die sich in Finanz- und Betriebsanwendungen integrieren lassen.
 
-  #### Lektionen
+  *   Konfigurieren von E-Mails (SMTP/Exchange)
+
+
+  *   Erstellen und Pflegen von E-Mail-Vorlagen
+
+
+  *   Verwendung von Power Automate-Flows von Dynamics 365 Finance and Operations
+
+
+
+  ### <a name="module-3-manage-dynamics-365-finance-and-operation-data"></a>Modul 3: Verwalten von Dynamics 365 Finance and Operations-Daten
+
+
+  In diesem Modul lernen Sie, wie Sie Finance and Operations-Daten verwalten, indem Sie Datenmigrationen planen und mit Apps arbeiten, die mit Finance and Operations-Apps integriert werden können.
+
+
+  #### <a name="lessons"></a>Lektionen
+
 
   *   Einführung
+
 
   *   Verwalten von Daten in Dynamics 365 Finance and Operations-Apps
 
-  *   Planung für Datenmigration
 
-  *   Einführung in AppSource und ISV-Lösungen
+  *   Planen der Datenmigration
+
+
+  *   Einführung in AppSource- und ISV-Lösungen
+
 
   *   Dynamics 365 Finance and Operations-Integration
 
-  *   Modulüberblick
+
+  *   Zusammenfassung des Moduls
 
 
-  #### Lab : Arbeiten mit Vorlagen im Arbeitsbereich Datenverwaltung
+
+  #### <a name="lab--work-with-templates-in-the-data-management-workspace"></a>Lab: Arbeiten mit Vorlagen im Arbeitsbereich „Datenverwaltung“
+
 
   ####
 
-  #### Lab : Daten exportieren und importieren
+
+  #### <a name="lab--export-and-import-data"></a>Lab: Exportieren und Importieren von Daten
+
 
   ####
 
-  #### Lab : Kopieren von Konfigurationsdaten zwischen juristischen Personen
+
+  #### <a name="lab--copy-configuration-data-between-legal-entities"></a>Lab: Kopieren von Konfigurationsdaten zwischen juristischen Personen
+
 
   ####
 
-  #### Lab : Verwendung des Excel Workbook-Designers
+
+  #### <a name="lab--use-the-excel-workbook-designer"></a>Lab: Verwenden des Excel-Arbeitsmappen-Designers
+
 
   ####
+
 
   In diesem Modul haben Sie Folgendes gelernt:
 
-  *   Beschreibung von Datenverwaltungskonzepten.
 
-  *   Vorlagen für Konfigurationsdaten
+  *   Beschreibung von Datenverwaltungskonzepten
 
-  *   Identifizierung relevanter Dateneinheiten und -elemente auf der Grundlage vorgegebener Szenarien.
 
-  *   Beschreiben Sie Anwendungsfälle und Arten von Dateneinheiten.
+  *   Konfiguration von Datenvorlagen
 
-  *   Erstellen Sie eine Vorlage, unter Verwendung von Excel-Workbook Designer.
 
-  *   Beschreiben Sie Anwendungsfälle für die Dual-Write-Funktion.
+  *   Identifizierung relevanter Dateneinheiten und -elemente auf der Grundlage bestimmter Szenarios
 
-  *   Erläutern Sie, wie Sie Daten für den Import vorbereiten oder alle erforderlichen Startdaten einschließlich Postleitzahldaten erstellen.
 
-  *   Importieren oder Exportieren von Daten mit Hilfe des Datenverwaltungssystems.
+  *   Beschreiben von Anwendungsfällen für Datenentitäten und Arten von Datenentitäten
 
-  *   Kopieren von Konfigurationsdaten zwischen Unternehmen oder juristischen Personen mit Hilfe des Datenmanagement-Frameworks.
+
+  *   Erstellen einer Vorlage mit dem Excel-Arbeitsmappen-Designer
+
+
+  *   Beschreiben von Anwendungsfällen für das Dual-Write-Feature
+
+
+  *   Aufbereiten von Daten für den Import und Erstellen der erforderlichen Startdaten
+
+
+  *   Importieren oder Exportieren von Daten mithilfe des Datenverwaltungsframeworks
+
+
+  *   Kopieren von Konfigurationsdaten zwischen Unternehmen oder juristischen Personen mithilfe des Datenverwaltungsframeworks
+
 
   *   Dynamics 365 Finance and Operations-Integration
 
 
-  ### Modul 4: Validieren und Unterstützen der Lösung
 
-  In diesem Modul lernen Sie, wie Sie Anwendungen verwalten und Lösungen in Dynamics 365 Finance and Operations testen und  Lifecycle services (LCS) -Tools implementieren.
+  ### <a name="module-4-validate-and-support-the-solution"></a>Modul 4: Überprüfen und Unterstützen der Lösung
 
-  #### Lektionen
+
+  In diesem Modul lernen Sie, wie Sie Anwendungen verwalten, Lösungen in Dynamics 365 Finance and Operations testen und LCS-Tools (Lifecycle Services) implementieren.
+
+
+  #### <a name="lessons"></a>Lektionen
+
 
   *   Einführung
 
+
   *   Verwalten von Anwendungen in Dynamics 365 Finance and Operations
+
 
   *   Implementieren von Lifecycle Services (LCS)-Tools
 
+
   *   Testen von Lösungen in Dynamics 365 Finance and Operations-Apps
 
-  *   Modulüberblick
+
+  *   Zusammenfassung des Moduls
+
 
 
   In diesem Modul haben Sie Folgendes gelernt:
 
-  *   Lücken zwischen vorhandener und gewünschter Funktionalität dokumentieren
 
-  *   Bestimmen, wann man bauen und wann man kaufen sollte
+  *   Dokumentieren von Lücken zwischen vorhandener und gewünschter Funktionalität
 
-  *   Go-Live-Prozess und Fast-Track Go-Live-Prozesse
 
-  *   LCS-Werkzeuge und -Methoden
+  *   Bestimmen, wann entwickelt bzw. gekauft werden muss
+
+
+  *   Go-Live-Prozesse und Go-Live-Prozesse in Fast Track
+
+
+  *   LCS-Tools und -Methoden
+
 
   *   Geschäftsprozessmodellierer in LCS
 
-  *  LCS Suche und Serviceanfragen
 
-  *  Diagnostik und Umgebungsüberwachungstools
+  *   LCS-Suche und -Serviceanfragen
 
-  *  BPM-Bibliotheken Übersicht
 
-  *  Testfälle mit dem Regression Suite Automation Tool (RSAT) and Azure DevOps.
+  *   Tools zur Diagnose und Umgebungsüberwachung
+
+
+  *   Übersicht über BPM-Bibliotheken
+
+
+  *   Testfälle mit dem Regression Suite Automation Tool (RSAT) und Azure DevOps
+
 
   *   Analyse der Leistung mit Trace Parser

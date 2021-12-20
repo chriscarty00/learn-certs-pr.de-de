@@ -1,10 +1,16 @@
 ### YamlMime:Course
-title: Konfigurieren Dynamics 365 Field Service
+title: Konfigurieren von Dynamics 365 Field Service
 metadata:
-  title: 'Kurs MB-240T01-A: Konfigurieren Dynamics 365 Field Service'
-  description: 'Kurs MB-240T01-A: Konfigurieren Dynamics 365 Field Service'
+  title: 'Kurs MB-240T01-A: Configuring Dynamics 365 Field Service'
+  description: 'Kurs MB-240T01-A: Configuring Dynamics 365 Field Service'
+  ms.openlocfilehash: 7c75eea2e91194a349132bab9935e09af0d655d7
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107402"
 uid: course.mb-240t01
-courseNumber: 'MB-240T01-A'
+courseNumber: MB-240T01-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -12,8 +18,8 @@ skillsGained:
 - skill: Produkte und Dienstleistungen definieren, die an Kunden geliefert werden.
 - skill: Festlegen, welche Preisoptionen in bestimmten Szenarien verwendet werden sollen.
 - skill: Bestimmen, welche Ressourcen benötigt werden.
-- skill: Konfigurieren des Systems, so dass es den Ressourcenbedarf unterstützt.
-- skill: Häufig gemeldete Probleme definieren und eine Vorlage für leichteren Konsum schaffen.
+- skill: Konfigurieren des Systems, sodass es Ressourcenanforderungen unterstützt
+- skill: Definieren von häufig gemeldeten Problemen und Erstellen einer Vorlage für die einfachere Verarbeitung
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -22,39 +28,53 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-field-service
 exams:
 - uid: exam.mb-240
-summary: |-
-  Dynamics 365 for Field Service unterstützt Unternehmen, sich besser auf dem Markt zu positionieren, indem verschiedene Tools bereitgestellt werden, mit denen Ressourcen identifiziert und geplant sowie Arbeitslasten für mobile Mitarbeiter verwaltet werden können. In diesem Kurs werden die Teilnehmer mit den erforderlichen Fähigkeiten ausgestattet, um Schlüsselkomponenten zu identifizieren und zu konfigurieren, die für die Bereitstellung von Außendienst- und mobilen Lösungen verwendet werden. Zu den Hauptthemen gehört die Identifizierung organisatorischer Überlegungen, die zu Konfigurationsentscheidungen und allgemeinen Konfigurationsaspekten führen. 
+summary: "Dynamics 365 Field Service hilft Organisationen, mithilfe verschiedener Tools, sich besser auf dem Markt zu positionieren. Diese Tools helfen Ihnen, Ressourcen zu ermitteln und zu planen sowie Arbeitslasten für Remotemitarbeiter*innen zu verwalten. In diesem Kurs werden die Teilnehmer mit den erforderlichen Fähigkeiten ausgestattet, um Schlüsselkomponenten zu identifizieren und zu konfigurieren, die für die Bereitstellung von Außendienst- und mobilen Lösungen verwendet werden. Zu den Hauptthemen gehört die Identifizierung organisatorischer Überlegungen, die zu Konfigurationsentscheidungen und allgemeinen Konfigurationsaspekten führen. \n\nDieser Kurs hilft den Studenten, das Gesamtbild und die Endziele zu verstehen, die sich auf Implementierungen konzentrieren, die beim Entwerfen effizienterer Lösungen helfen, die mit Kunden- und Organisationszielen in Einklang stehen."
+prerequisitesSection: Grundlegende Kenntnisse zu Features, Funktionen und zur Navigation in Dynamics 365
+outlineSection: >-
+  ### <a name="module--158-configure-field-service"></a>Modul 1&#58; Konfigurieren von Field Service
 
-  Dieser Kurs hilft den Studenten, das Gesamtbild und die Endziele zu verstehen, die sich auf Implementierungen konzentrieren, die beim Entwerfen effizienterer Lösungen helfen, die mit Kunden- und Organisationszielen in Einklang stehen.
-prerequisitesSection: |-
-  Grundlegendes Verständnis der Eigenschaften, Funktionen und Navigation von Dynamics 365.
-outlineSection: |-
-  ### Modul 1&#58; Field Service konfigurieren
-  #### Lektionen
+  #### <a name="lessons"></a>Lektionen
+
   - Einführung in Field Service
+
   - Definieren von Produkten und Dienstleistungen
-  - Steuerkennzeichen definieren
+
+  - Definieren von Steuerkennzeichen
 
 
-  ### Modul 2&#58; Ressourcenplanung konfigurieren
-  #### Lektionen
+
+  ### <a name="module--258-resource-scheduling-configuration"></a>Modul 2&#58; Konfigurieren der Ressourcenplanung
+
+  #### <a name="lessons"></a>Lektionen
+
   - Mapping- und Standortinformationen
+
   - Konfigurieren von Ressourcenkomponenten
+
   - Definieren von Kontoeinstellungen
 
 
-  ### Modul 3&#58; Buchbare Ressourcen definieren und konfigurieren
-  #### Lektionen
-  - Buchbare Ressourcen definieren
-  - Ressourcenpools, Crews und Einrichtungen
+
+  ### <a name="module--358-defining-and-configuring-bookable-resources"></a>Modul 3&#58; Definieren und Konfigurieren von buchbaren Ressourcen
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Definieren von buchbaren Ressourcen
+
+  - Ressourcenpools, Teams und Einrichtungen
 
 
-  ### Modul 4&#58; Vorfälle bearbeiten und konfigurieren
-  #### Lektionen
-  - Vorfälle kreieren
+
+  ### <a name="module--458-working-with-and-configuring-incidents"></a>Modul 4&#58; Arbeiten mit und Konfigurieren von Vorfällen
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Erstellen von Vorfällen
+
   - Verwenden von Dienstleistungsaufgaben
-  - Definieren von Produkten, Dienstleistungen und Kompetenzen
+
+  - Definieren von Produkten, Diensten und Qualifikationen

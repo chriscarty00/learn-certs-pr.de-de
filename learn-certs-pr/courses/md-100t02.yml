@@ -1,19 +1,25 @@
 ### YamlMime:Course
-title: Configuring Windows 10
+title: Configuring Windows 10
 metadata:
-  title: 'Kurs MD-100T02-A: Configuring Windows 10'
-  description: 'Kurs MD-100T02-A: Configuring Windows 10'
+  title: 'Kurs MD-100T02-A: Configuring Windows 10'
+  description: 'Kurs MD-100T02-A: Configuring Windows 10'
+  ms.openlocfilehash: 3f92a46b9a184aa7a96f33c61ba6840335680448
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107186"
 uid: course.md-100t02
-courseNumber: 'MD-100T02-A'
+courseNumber: MD-100T02-A
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Konfigurieren von Geräten und Treibern für Windows.
-- skill: Konfigurieren des Speichers für Windows.
-- skill: Netzwerkeinstellungen in Windows konfigurieren.
-- skill: Konfiguration der Fernverwaltung von Windows.
-- skill: Konfigurieren und Verwalten von Anwendungen in Windows.
-- skill: Konfigurieren von Internet Explorer
+- skill: Konfigurieren Sie Geräte und Treiber für Windows.
+- skill: Konfigurieren Sie Speicher für Windows.
+- skill: Konfigurieren Sie Netzwerkeinstellungen in Windows.
+- skill: Konfigurieren Sie die Remoteverwaltung von Windows.
+- skill: Konfigurieren und verwalten Sie Anwendungen in Windows.
+- skill: Konfigurieren Sie Internet Explorer.
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -26,102 +32,152 @@ products:
 - windows
 exams:
 - uid: exam.md-100
-summary: |-
-  In
-  diesem Kurs lernen die Teilnehmer, wie sie die Konfigurationsaufgaben unterstützen können.
-  in Verbindung mit Windows 10 unterstützen können. Die Teilnehmer werden Fähigkeiten entwickeln, die das Management von
-  Speichern, Dateien, Treibern und Druckern sowie die Konfiguration von Netzwerk
-  Konnektivität für Windows 10 umfassen. In diesem Kurs wird auch die Verwaltung und Bereitstellung
-  von Anwendungen behandelt.
-
-  #### Zielgruppenprofil
-  Kandidaten
-  für diese Prüfung sind IT-Spezialisten, die die Installation und Konfiguration,
-  allgemeine lokale Verwaltung und Wartung der Windows 10-Kerndienste durchführen.
-  Die Kandidaten können auch mit Unternehmensszenarien und Cloud-integrierten
-  Diensten vertraut sein.
-prerequisitesSection: |-
-  Kandidaten
-  für diese Prüfung sind IT-Spezialisten, die die Installation und Konfiguration,
-  allgemeine lokale Verwaltung und Wartung der Windows 10-Kerndienste durchführen.
-  Die Kandidaten können auch mit Unternehmensszenarien und Cloud-integrierten
-  Diensten vertraut sein.
-outlineSection: |-
-  ### Modul 1&#58; Konfigurieren von Peripheriegeräten und Treibern
-  Dieses Modul deckt die Gerätekonfiguration ab. Die Teilnehmer lernen, wie Gerätetreiber funktionieren und wie man sie installiert. Die Teilnehmer werden auch in die Verwaltung und Konfiguration von Hardware-Peripheriegeräten wie z.B. Druckern eingeführt.
-  #### Lektionen
-  - Verwaltung von Geräten und Treibern
-  - Drucker verwalten
+summary: >-
+  In diesem Kurs lernen die Teilnehmer, wie sie die Konfigurationsaufgaben unterstützen, die mit Windows 10 verbunden sind. Die Kursteilnehmer entwickeln Fertigkeiten, die das Verwalten von Speichern, Dateien, Treibern und Druckern sowie das Konfigurieren der Netzwerkkonnektivität für Windows 10 umfassen. Dieser Kurs deckt auch das Verwalten und Bereitstellen von Anwendungen ab.
 
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Konzepte in Bezug auf Treiber beschreiben
-  - Installieren eines Gerätetreibers
-  - Konzepte zur Druckerverwaltung beschreiben
-  - Client-seitiges Drucken und die Verwaltung der Druckserver-Eigenschaften konfigurieren
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+  Die Prüfung wird von IT-Fachleuten abgelegt, die Installation, Konfiguration, allgemeine lokale Verwaltung und Wartung der Windows 10-Kerndienste durchführen.
+
+  Die Prüfungskandidaten sind möglicherweise auch mit Unternehmensszenarios und cloudintegrierten Diensten vertraut.
+prerequisitesSection: >-
+  Die Prüfung wird von IT-Fachleuten abgelegt, die Installation, Konfiguration, allgemeine lokale Verwaltung und Wartung der Windows 10-Kerndienste durchführen.
+
+  Die Prüfungskandidaten sind möglicherweise auch mit Unternehmensszenarios und cloudintegrierten Diensten vertraut.
+outlineSection: >-
+  ### <a name="module--158-configuring-peripherals-and-drivers"></a>Modul 1: Konfigurieren von Peripheriegeräten und Treibern
+
+  Dieses Modul deckt die Gerätekonfiguration ab. Die Kursteilnehmer erfahren, wie Gerätetreiber funktionieren und wie sie installiert werden. Die Teilnehmer werden auch mit der Verwaltung und Konfiguration von Hardwareperipheriegeräten wie Druckern vertraut gemacht.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Verwalten von Geräten und Treibern
+
+  - Verwalten von Druckern
 
 
-  ### Modul 2&#58; Vernetzung konfigurieren
-  In diesem Modul lernen die Teilnehmer die Konzepte der Vernetzung kennen. Dieses Modul führt in IPv4 und IPv6 und in Konzepte wie DNS ein  Die Teilnehmer lernen, wie die Netzwerkeinstellungen in Windows konfiguriert werden, und erfahren etwas über drahtlose Netzwerktechnologien. Das Modul schließt mit Methoden zur Fernverwaltung von Windows.
-  #### Lektionen
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Konzepte im Zusammenhang mit Treibern erläutern
+
+  - Gerätetreiber installieren
+
+  - Druckerverwaltungskonzepte erläutern
+
+  - Den Vorgang des clientseitigen Druckens konfigurieren und Druckservereigenschaften verwalten
+
+
+
+  ### <a name="module--258-configuring-networking"></a>Modul 2: Konfigurieren von Netzwerken
+
+  In diesem Modul erfahren die Kursteilnehmer mehr über Netzwerkkonzepte. In diesem Modul werden IPv4 und IPv6 sowie Konzepte wie DNS erläutert.  Die Kursteilnehmer erfahren, wie sie Netzwerkeinstellungen in Windows konfigurieren, und erfahren mehr über drahtlose Netzwerktechnologien. Zum Abschluss des Moduls werden Methoden der Windows-Remoteverwaltung beschrieben.
+
+  #### <a name="lessons"></a>Lektionen
+
   - Konfigurieren der IP-Netzwerkkonnektivität
-  - Namensauflösung umsetzen
-  - Implementierung einer drahtlosen Netzwerkverbindung
-  - Fernzugriff-Übersicht
-  - Fernverwaltung
+
+  - Implementieren der Namensauflösung
+
+  - Implementieren von drahtloser Netzwerkkonnektivität
+
+  - Remotezugriff – Übersicht
+
+  - Remoteverwaltung
 
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Die verschiedenen Arten von Anwendungen beschreiben
-  - Anwendungen manuell und mit automatisierten Methoden installieren
-  - Verwalten der Anwendungsbereitstellung über den Windows-Store
-  - Weitere Informationen zu den Webbrowser-Funktionen in Windows 10 erhalten
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Die verschiedenen Arten von Anwendungen beschreiben.
+
+  - Anwendungen manuell und automatisiert installieren.
+
+  - Anwendungsbereitstellung mit dem Windows Store verwalten
+
+  - Weitere Informationen zu den Webbrowserfeatures in Windows 10 erläutern
 
 
-  ### Modul 3&#58; Konfigurieren der Speicherung
-  Dieses Modul deckt die Speicherkonfiguration und -verwaltung in Windows 10 ab.  Die Teilnehmer werden in lokale, Cloud- und virtuelle Speicheroptionen eingeführt. Dieser Kurs behandelt auch die Konfiguration von Speicherplatz auf Client-Geräten und stellt Speicherplätze vor.
-  #### Lektionen
-  - Übersicht der Speichermöglichkeiten
-  - Mit OneDrive
-  - Verwalten von Laufwerken, Partitionen und Volumen
-  - Datenträger und Volumen pflegen
-  - Verwaltung der Speicherplätze
+
+  ### <a name="module--358-configuring-storage"></a>Modul 3: Konfigurieren von Speichern
+
+  In diesem Modul werden Speicherkonfiguration und -verwaltung in Windows 10 behandelt.  Die Kursteilnehmer werden mit lokalen, cloudbasierten und virtuellen Speicheroptionen vertraut gemacht. In diesem Kurs wird auch das Konfigurieren von Storage auf Clientgeräten erläutert. Außerdem werden die Teilnehmer in das Thema Speicherplatz eingeführt.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht über Speicheroptionen
+
+  - Verwenden von OneDrive
+
+  - Verwalten von Datenträgern, Partitionen und Volumes
+
+  - Verwalten von Datenträgern und Volumes
+
+  - Verwalten von „Speicherplätze“
 
 
-  #### Labor&#58; Praxislab&#58; Verwalten der Speicherung
+
+  #### <a name="lab-58-practice-lab58-managing-storage"></a>Lab: Praxislab: Verwalten von Storage
+
   - Hinzufügen eines Datenträgers
-  - Erstellen eines einfachen Volumens
-  - Einen Ordner komprimieren
-  - Aktivieren von Datenträgerquoten
+
+  - Erstellen einfacher Volumes
+
+  - Komprimieren eines Ordners
+
+  - Aktivieren von Datenträgerkontingenten
+
   - Erstellen eines Speicherplatzes
 
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Beschreiben der Optionen und Vorteile von lokalem, Cloud- und virtuellem Speicher
-  - OneDrive konfigurieren
-  - Lokale Festplattenpartitionen und Volumen konfigurieren
-  - Die Fähigkeiten und Vorteile von Speicherplätzen beschreiben
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Die Optionen und Vorteile von lokalen, cloudbasierten und virtuellen Speichern erläutern
+
+  - Konfigurieren von OneDrive
+
+  - Partitionen lokaler Datenträger sowie Volumes konfigurieren
+
+  - Die Möglichkeiten und Vorteile von Speicherplätzen beschreiben
 
 
-  ### Modul 4&#58; Apps in Windows 10 verwalten
-  In diesem Modul werden die Teilnehmer in die App-Verwaltung in Windows 10 eingeführt. Dieses Modul deckt die verschiedenen Arten von Anwendungen und unterstützten Installationsmethoden ab.  Die Teilnehmer lernen, wie man Apps mit manuellen und automatisierten Methoden installiert und die Bereitstellung von Apps über den Windows-Store verwaltet. Schließlich wird dieses Modul die Unterschiede zwischen Internet Explorer und Microsoft Edge behandeln.
-  #### Lektionen
-  - Bereitstellung von Apps für Benutzer
-  - Verwaltung von Universal Windows Anwendungen
-  - Der Windows-Store
-  - Web-Browser unter Windows 10
+
+  ### <a name="module--458-managing-apps-in-windows-10"></a>Modul 4: Verwalten von Anwendungen in Windows 10
+
+  In diesem Modul erhalten die Teilnehmer eine Einführung in das Verwalten von Anwendungen in Windows 10. In diesem Modul werden die verschiedenen Arten von Anwendungen und die unterstützten Installationsmethoden behandelt.  Die Teilnehmer lernen, wie sie Anwendungen mit manuellen und automatisierten Methoden installieren und wie sie die Bereitstellung von Anwendungen mit dem Windows Store verwalten. Schließlich werden in diesem Modul die Unterschiede zwischen Internet Explorer und Microsoft Edge abgedeckt.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Bereitstellen von Anwendungen für Benutzer
+
+  - Verwalten von universellen Windows-Apps
+
+  - Der Windows Store
+
+  - Webbrowser in Windows 10
 
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Die verschiedenen Arten von Anwendungen beschreiben
-  - Anwendungen manuell und mit automatisierten Methoden installieren
-  - Verwalten der Anwendungsbereitstellung über den Windows-Store
-  - Weitere Informationen zu den Webbrowser-Funktionen in Windows 10 erhalten
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Die verschiedenen Arten von Anwendungen beschreiben.
+
+  - Anwendungen manuell und automatisiert installieren.
+
+  - Anwendungsbereitstellung mit dem Windows Store verwalten
+
+  - Weitere Informationen zu den Webbrowserfeatures in Windows 10 erläutern
 
 
-  ### Modul 5&#58; Abschluss des Kurses
-  #### Lektionen
+
+  ### <a name="module--558-course-conclusion"></a>Modul 5: Abschluss des Kurses
+
+  #### <a name="lessons"></a>Lektionen
+
   - Abschlussprüfung
 
 
-  #### Labor&#58; Abgestuftes Lab
+
+  #### <a name="lab-58-graded-lab"></a>Lab: Bewertetes Lab

@@ -1,22 +1,34 @@
 ### YamlMime:Examination
 title: Microsoft Azure Architect Design
 metadata:
-  title: 'Exam AZ-301: Microsoft Azure Architect Design'
-  description: 'Exam AZ-301: Microsoft Azure Architect Design'
+  title: 'Examen AZ-301: Microsoft Azure Architect Design'
+  description: 'Examen AZ-301: Microsoft Azure Architect Design'
+  ms.openlocfilehash: 6f981a9ef30219ac86d189b198f56479cdb3513b
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105890"
 uid: exam.az-301
 displayName: AZ-301
-summary: |-
+summary: >-
   <div>
-  <div><strong>DIESE PRÜFUNG WURDE EINGESTELLT. Eine Ersatzprüfung, AZ-304, ist verfügbar. Weitere Informationen finden Sie auf der <a href="/learn/certifications/exams/az-304">Seite mit den AZ-304-Prüfungsdetails</a>.</strong><br/><br/></div>
+
+  <div><strong>DIESES EXAMEN WURDE EINGESTELLT. Ein Ersatzexamen, AZ-304, ist verfügbar. Weitere Informationen finden Sie auf der <a href="/learn/certifications/exams/az-304">Examensdetailseite zu AZ-304</a>.</strong><br/><br/></div>
+
   </div>
 
-  Kandidaten für diese Prüfung sollten über Fachkenntnisse beim Entwerfen und Implementieren von Lösungen verfügen, die unter Microsoft Azure ausgeführt werden, einschließlich Aspekten wie Computer, Netzwerk, Speicher und Sicherheit.
+
+  Kandidaten für dieses examens sollten über Fachkenntnisse beim Entwerfen und Implementieren von Lösungen verfügen, die unter Microsoft Azure ausgeführt werden, einschließlich Aspekten wie Computer, Netzwerk, Speicher und Sicherheit.
+
 
   Zu den Aufgaben eines Azure Solution Architects gehören die Beratung von Stakeholdern und die Umsetzung von Geschäftsanforderungen in sichere, skalierbare und zuverlässige Cloud-Lösungen.
 
+
   Ein Azure Solution Architect arbeitet mit Cloud-Administratoren, Cloud-Datenbankadministratoren und Clients zusammen, um Lösungen zu implementieren.
 
-  Ein Kandidat für dieses examens sollte über umfassende Erfahrung und Kenntnisse in verschiedenen Aspekten des IT-Betriebs verfügen, einschließlich Netzwerk, Virtualisierung, Identität, Sicherheit, Geschäftskontinuität, Notfallwiederherstellung, Datenmanagement, Budgetierung und Governance. Jemand in dieser Position sollte Entscheidungen in den einzelnen Bereichen steuern, die eine Gesamtlösung beeinflussen. Darüber hinaus sollte jemand in dieser Position mindestens eine dieser Azure-Knowledge-Domains beherrschen&#58; Verwaltung, Entwicklung oder DevOps.
+
+  Ein Kandidat für dieses examens sollte über umfassende Erfahrung und Kenntnisse in verschiedenen Aspekten des IT-Betriebs verfügen, einschließlich Netzwerk, Virtualisierung, Identität, Sicherheit, Geschäftskontinuität, Notfallwiederherstellung, Datenmanagement, Budgetierung und Governance. Jemand in dieser Position sollte Entscheidungen in den einzelnen Bereichen steuern, die eine Gesamtlösung beeinflussen. Darüber hinaus sollte jemand in dieser Position mindestens eine dieser Azure-Knowledge-Domains beherrschen: Verwaltung, Entwicklung oder DevOps.
 subTitle: 'Diese Prüfung misst Ihre Fähigkeit, folgende technische Aufgaben zu erfüllen: Ermittlung der Workload-Anforderungen; Design für Identität und Sicherheit; Design einer Datenplattformlösung; Design einer Geschäftskontinuitätsstrategie; Design für Bereitstellung, Migration und Integration; und Design einer Infrastrukturstrategie.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
@@ -28,12 +40,12 @@ locales:
 levels:
 - advanced
 skills:
-- Bestimmen Sie die Workload-Anforderungen (10-15%)
-- Design für Identität und Sicherheit (20-25%)
-- Entwurf einer Datenplattformlösung (15-20%)
-- Entwickeln einer Geschäfts-Weiterführungsstrategie (15-20%)
-- Konzeption für die Bereiche Verteilung, Migration und Integration (10-15%)
-- Entwerfen einer Infrastrukturstrategie (15-20%)
+- Determine workload requirements (10-15%)
+- Design for identity and security (20-25%)
+- Design a data platform solution (15-20%)
+- Design a business continuity strategy (15-20%)
+- Design for deployment, migration, and integration (10-15%)
+- Design an infrastructure strategy (15-20%)
 retirementDate: 09/30/2020
 roles:
 - solution-architect
@@ -75,13 +87,13 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: Informieren Sie sich über die Zertifizierungen
+- title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Prüfungswiederholung
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
@@ -91,9 +103,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
-- title: Prüfungsrichtlinien und häufig gestellten Fragen
+- title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
-

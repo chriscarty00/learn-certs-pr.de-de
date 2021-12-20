@@ -2,27 +2,36 @@
 title: 'Microsoft Certified: Azure Developer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Developer Associate'
-  description: 'Azure-Entwickler entwerfen, erstellen, testen und warten Cloud-Anwendungen und -Services.'
+  description: Azure-Entwickler entwerfen, erstellen, testen und warten Cloud-Anwendungen und -Services.
+  ms.openlocfilehash: 092f30e3979d3432184f4500f1b8f99e3b53a75b
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132110969"
 uid: certification.azure-developer
 certificationRenewalUid: renewal.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Kandidaten für die Azure Developer Associate-Zertifizierung sollten über Fachkenntnisse beim Entwerfen, Erstellen, Testen und Verwalten von Cloud-Anwendungen und - Services in Microsoft Azure verfügen.
-  
-  Zu den Aufgaben dieser Position gehört die Teilnahme an allen Phasen der Cloud-Entwicklung, von der Definition und dem Entwerfen der Anforderungen über Entwicklung, Bereitstellung und Wartung, bis hin zu Leistungsoptimierung und Überwachung.
-  
-  Azure-Entwickler arbeiten mit Cloud-Lösungsarchitekten , Cloud-Datenbankadministratoren,  Cloud-Administratoren und Clients zusammen, um Lösungen zu implementieren.
-  
-  Ein Kandidat für diese Prüfung sollte über 1-2 Jahre Berufserfahrung sowie Erfahrung mit Microsoft Azure verfügen. Darüber hinaus sollte der Kandidat für diese Rolle in der Lage sein, in einer von Azure unterstützten Sprache zu programmieren  und über Kenntnisse in Azure SDKs, Azure PowerShell, Azure CLI, Datenspeicheroptionen, Datenverbindungen, APIs, App-Authentifizierung und -Autorisierung, Berechnung und Containerbereitstellung Debugging, Leistungsoptimierung und Überwachung verfügen.
+summary: >-
+  Kandidat*innen für die Azure Developer Associate-Zertifizierung sollten über Fachkenntnisse im Entwerfen, Kompilieren, Testen und Verwalten von Cloudanwendungen und -diensten in Microsoft Azure verfügen.
+
+
+  Zu den Aufgaben dieser Rolle gehört die Teilnahme an allen Phasen der Cloudentwicklung, von Anforderungen, Definition und Entwurf über Entwicklung, Bereitstellung und Wartung bis hin zu Leistungsoptimierung und Überwachung.
+
+
+  Azure-Entwickler*innen arbeiten mit Cloudlösungsarchitekt*innen, Cloud-Datenbankadministrator*innen (DBAs), Cloud-Administrator*innen und Kunden zusammen, um Lösungen zu implementieren.
+
+
+  Ein Kandidat für Diese Zertifizierung sollte über 1-2 Jahre Berufserfahrung und Erfahrung mit Microsoft Azure verfügen. Darüber hinaus sollten Kandidat*innen für diese Rolle über die Fähigkeit verfügen, in einer von Azure unterstützten Sprache zu programmieren. Außerdem benötigen sie Kenntnisse zu Azure-SDKs, Azure PowerShell, der Azure CLI, Datenspeicheroptionen, Datenverbindungen, APIs, App-Authentifizierung und -Autorisierung, Computer- und Containerbereitstellung, Debugging, Leistungsoptimierung und Überwachung.
 subTitle: Azure-Entwickler entwerfen, erstellen, testen und warten Cloud-Anwendungen und -Services.
 levels:
 - intermediate
 skills:
-- Entwicklung von Azure-Computerlösungen
-- Entwickeln für Azure-Storage
-- Implementieren der Azure-Sicherheit
-- Überwachung, Fehlerbehebung und Optimierung von Azure Lösungen
-- Verbindung zu Azure-Diensten und Diensten von Drittanbietern herstellen und nutzen
+- Develop Azure compute solutions
+- Develop for Azure storage
+- Implement Azure security
+- Monitor, troubleshoot, and optimize Azure solutions
+- Connect to and consume Azure services and third-party services
 roles:
 - developer
 type: role-based
@@ -43,14 +52,11 @@ courses:
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together
-- uid: learn.work-with-relational-data-in-azure
 - uid: learn.store-data-in-azure
 - uid: learn.deploy-a-website-with-azure-virtual-machines
 - uid: learn.manage-resources-in-azure
 - uid: learn.deploy-a-website-with-azure-app-service
 - uid: learn.secure-your-cloud-data
-- uid: learn.work-with-nosql-data-in-azure-cosmos-db
-- uid: learn.data-ai.intro-to-ml-with-python
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUJ
 exams:
 - uid: exam.az-204
@@ -59,7 +65,7 @@ resources:
   description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Azure an.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Reise zur Zertifizierung
-  description: Informieren Sie sich über die nötigen Schritte für eine Zertifizierung als Azure AI Engineer Associate und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
+  description: Informieren Sie sich über die nötigen Schritte für eine Zertifizierung als Azure Developer Associate und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
@@ -76,7 +82,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg in Ihrem Netzwerk. Erhalten Sie Ihren Microsoft-Zertifizierungsbadge, und fügen Sie ihn beispielsweise LinkedIn oder Ihrem Lebenslauf hinzu.
   href: ../badges.md
-

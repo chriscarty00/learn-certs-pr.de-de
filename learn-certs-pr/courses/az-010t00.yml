@@ -1,10 +1,16 @@
 ### YamlMime:Course
 title: Azure Administration for AWS SysOps
 metadata:
-  title: 'Course AZ-010T00-A: Azure Administration for AWS SysOps'
-  description: 'Course AZ-010T00-A: Azure Administration for AWS SysOps'
+  title: 'Kurs AZ-010T00-A: Azure-Verwaltung für AWS SysOps'
+  description: 'Kurs AZ-010T00-A: Azure-Verwaltung für AWS SysOps'
+  ms.openlocfilehash: ef26d25d894288e01915edde98523e75ffaa29ac
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107715"
 uid: course.az-010t00
-courseNumber: 'AZ-010T00-A'
+courseNumber: AZ-010T00-A
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
@@ -22,35 +28,50 @@ products:
 exams:
 - uid: exam.az-103
 - uid: exam.az-104
-summary: |-
+summary: >-
   Dieser zweitägige Kurs richtet sich an AWS Sysops-Administratoren, die erfahren möchten, wie sich Azure von AWS unterscheidet und wie Azure verwaltet wird. Die Hauptthemen der Workshops sind Azure-Administration, Azure-Netzwerk, Azure Compute, Azure-Speicher und Azure-Governance. Dieser Workshop kombiniert Vorlesung mit praktischen Übungen und Diskussion / Überprüfung. Während des Workshops erstellen die Teilnehmer eine durchgängige Architektur, die die im Kurs diskutierten Hauptmerkmale demonstriert.
 
-  #### Zielgruppenprofil
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
   Die Zielgruppe für diesen Kurs sind AWS Sysops Administrator Associates oder Mitarbeiter mit gleichwertiger Qualifikation. So eine Person verfügt über ein bis zwei Jahre Erfahrung in der Bereitstellung, Verwaltung und im Betrieb von AWS. Teilnehmer dieses Kurses möchten erfahren, wie sich Azure von AWS unterscheidet und wie Azure verwaltet wird. Teilnehmer interessieren sich vielleicht auch für AZ-103 Microsoft Azure Administrator-Zertifizierungsprüfung oder die AZ-900 Azure Fundamentals-Prüfung.
-prerequisitesSection: |-
-  Erfolgreiche AWS Sysops beginnen diesen Kurs, wenn sie Erfahrung in Betriebssystemen, Virtualisierung, Cloud-Infrastruktur, Speicherstrukturen, Identitätslösungen und Netzwerken haben. Insbesondere sollten die Teilnehmer über Folgendes verfügen&#58;
-  - Grundkenntnisse in der Erstellung von CLI-Befehlen, einschließlich Verwendung der Hilfeseiten zur Ermittlung geeigneter Parameter und einer Befehlsstruktur.
-  - Verständnis von Konzepten für virtuelle Netzwerke, DNS (Domain Name System), VPNs (Virtual Private Networks), Firewalls, Gateways und Verschlüsselungstechnologien.
-  - Verständnis der virtuellen Maschinen, ihrer Verwendung und Konfigurationsoptionen wie CPU-Leistung und Festplatten.
-  - Verständnis von virtuellen Speicherkonzepten wie Speicherkonten, Blobs, Dateifreigaben und Festplattentypen.
-  - Verständnis von Governance-Konzepten, einschließlich rollenbasierter Zugriffskontrolle, Identitätsverwaltung und Identitätsschutz.
-outlineSection: |-
-  ### Modul 1&#58; Azure-Administration
-  In diesem Modul erfahren Sie etwas über Tools und grundlegende Konzepte, die zum Verwalten von Azure erforderlich sind. Zu den Themen gehören&#58; Ressourcen-Manager, Ressourcen-Gruppen, Azure Portal, Azure CLI, Azure-Vorlagen, Cloud Shell, Azure Marketplace und Azure PowerShell.
+prerequisitesSection: >-
+  Erfolgreiche AWS Sysops beginnen diesen Kurs, wenn sie Erfahrung in Betriebssystemen, Virtualisierung, Cloud-Infrastruktur, Speicherstrukturen, Identitätslösungen und Netzwerken haben. Insbesondere sollten die Teilnehmer über Folgendes verfügen:
+
+  - Grundkenntnisse zum Erstellen von CLI-Befehlen, einschließlich des Verwendens der Hilfeseiten zur Ermittlung geeigneter Parameter und einer Befehlsstruktur
+
+  - Kenntnisse der Konzepte virtueller Netzwerke, des Domain Name System (DNS), virtueller privater Netzwerke (VPNs), Firewalls, Gateways und von Verschlüsselungstechnologien
+
+  - Kenntnisse zu virtuellen Computern, ihrer Verwendung und Konfigurationsoptionen wie der CPU-Leistung und Datenträgern
+
+  - Kenntnisse zu virtuellen Speicherkonzepten wie Speicherkonten, Blobs, Dateifreigaben und Datenträgertypen
+
+  - Kenntnisse zu Governance-Konzepten, einschließlich der rollenbasierte Zugriffssteuerung, der Identitätsverwaltung und dem Identitätsschutz
+outlineSection: >-
+  ### <a name="module--158-azure-administration"></a>Modul 1: Azure-Verwaltung
+
+  In diesem Modul erfahren Sie etwas über Tools und grundlegende Konzepte, die zum Verwalten von Azure erforderlich sind. Zu den Themen gehören: Der Resource Manager, Ressourcengruppen, das Azure-Portal, die Azure CLI, Azure-Vorlagen, Cloud Shell, der Azure Marketplace und Azure PowerShell.
 
 
-  ### Modul 2&#58; Azure Networking
-  In diesem Modul lernen Sie Azure-Netzwerkfunktionen kennen. Zu den Themen&#58; Azure-Regionen, virtuelle Netzwerke und Subnetze, IP-Adressierung, Netzwerksicherheitsgruppen, Peering virtueller Netzwerke, VNet-zu-VNet-Verbindungen, ExpressRoute, Load Balancer und Network Watcher.
+
+  ### <a name="module--258-azure-networking"></a>Modul 2: Azure-Netzwerk
+
+  In diesem Modul lernen Sie Azure-Netzwerkfunktionen kennen. Zu den Themen: Azure-Regionen, virtuelle Netzwerke und Subnetze, IP-Adressierung, Netzwerksicherheitsgruppen, Peering virtueller Netzwerke, VNet-zu-VNet-Verbindungen, ExpressRoute, Load Balancer und Network Watcher.
 
 
-  ### Modul 3&#58; Azure Compute
-  In diesem Modul erfahren Sie, wie man virtuelle Azure-Maschinen konfigurieren und überwachen kann. Zu den Themen gehören&#58; Virtuelle Azure-Maschinen, Erstellen virtueller Maschinen, Größe virtueller Maschinen, Festplatten virtueller Maschinen, Verfügbarkeitszonen, Verfügbarkeitssätze, Windows-VM-Verbindungen, Linux-VM-Verbindungen, Azure-Monitor und Azure-Warnungen.
+
+  ### <a name="module--358-azure-compute"></a>Modul 3: Azure Compute
+
+  In diesem Modul erfahren Sie, wie man virtuelle Azure-Maschinen konfigurieren und überwachen kann. Zu den Themen gehören: Virtuelle Azure-Maschinen, Erstellen virtueller Maschinen, Größe virtueller Maschinen, Festplatten virtueller Maschinen, Verfügbarkeitszonen, Verfügbarkeitssätze, Windows-VM-Verbindungen, Linux-VM-Verbindungen, Azure-Monitor und Azure-Warnungen.
 
 
-  ### Modul 4&#58; Azure-Speicher
-  In diesem Modul erfahren Sie etwas über Azure-Speicherfunktionen und deren Implementieren. Zu den Themen gehören&#58; Speicher-Accounts, Blob-Speicher, Blob-Leistungsstufen, Dateifreigaben, Dateisynchronisierung, Datenbox, Content Delivery-Netzwerk, Signaturen für gemeinsamen Zugriff und Service-Endpunkte.
+
+  ### <a name="module--458-azure-storage"></a>Modul 4: Azure Storage
+
+  In diesem Modul erfahren Sie etwas über Azure-Speicherfunktionen und deren Implementieren. Zu den Themen gehören: Speicher-Accounts, Blob-Speicher, Blob-Leistungsstufen, Dateifreigaben, Dateisynchronisierung, Datenbox, Content Delivery-Netzwerk, Signaturen für gemeinsamen Zugriff und Service-Endpunkte.
 
 
-  ### Modul 5&#58; Azure-Identität
-  In diesem Modul Mehr erfahren über Azure-Identitätslösungen. Zu den Themen&#58; Azure-Domains, rollenbasierte Zugriffssteuerung, Azure Active Directory, mehrstufige Authentifizierung, Azure AD-Identitätsschutz und Azure-Richtlinien.
 
+  ### <a name="module--558-azure-identity"></a>Modul 5: Azure-Identität
+
+  In diesem Modul Mehr erfahren über Azure-Identitätslösungen. Zu den Themen: Azure-Domains, rollenbasierte Zugriffssteuerung, Azure Active Directory, mehrstufige Authentifizierung, Azure AD-Identitätsschutz und Azure-Richtlinien.

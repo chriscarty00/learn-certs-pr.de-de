@@ -1,7 +1,7 @@
 ---
-title: Verwalten Sie Ihr Zertifizierungsprofil | Microsoft Docs
-description: 'Verwalten Sie Ihr Zertifizierungsprofil' 
-documentationcenter: NA 
+title: Verwalten Ihres Zertifizierungsprofils | Microsoft-Dokumentation
+description: Verwalten Ihres Zertifizierungsprofils
+documentationcenter: NA
 author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
@@ -9,61 +9,68 @@ ms.workload: NA
 ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
+ms.openlocfilehash: 1468b3299a5956931bd2f1bb8058a06475ea72b4
+ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 09/14/2021
+ms.locfileid: "132105482"
 ---
-# Verwalten Sie Ihr Zertifizierungsprofil
+# <a name="manage-your-certification-profile"></a>Verwalten Ihres Zertifizierungsprofils
 
-## Was ist das Zertifizierungsprofil?
+## <a name="what-is-the-certification-profile"></a>Was ist das Zertifizierungsprofil?
 
-Ihr Microsoft-Zertifizierungsprofil ist eine wichtige Datenquelle. Wenn Sie eine Prüfung ablegen, gleicht der Prüfer die von Ihnen zum Zeitpunkt der Prüfung gemachten Angaben mit den Angaben in Ihrem Profil ab. Daher müssen Ihre Profilinformationen mit Ihrem behördlich ausgestellten Ausweis identisch sein. Ist dies nicht der Fall, können Sie die Prüfung nicht ablegen. Wenn Sie Ihr Profil aktualisieren, sparen Sie Zeit und Ärger.
+Ihr Microsoft-Zertifizierungsprofil ist eine wichtige Datenquelle. Wenn Sie eine Prüfung ablegen, gleicht die Prüfungsaufsichtsperson die Informationen, die Sie zum Zeitpunkt der Prüfung angeben, mit den Angaben in Ihrem Profil ab. Daher müssen Ihre Profilinformationen mit Ihrem behördlicherseits ausgestellten Identifikationsnachweis identisch sein. Wenn dies nicht der Fall ist, können Sie die Prüfung nicht ablegen. Wenn Sie Ihr Profil auf dem neuesten Stand halten, können Sie Zeit und Aufwand sparen.
 
-Um Ihr Zertifizierungsprofil zu verwalten, müssen Sie sich zuerst bei Ihrem [Zertifizierungs-Dashboard](https://aka.ms/certdashboard) anmelden, indem Sie die folgenden Schritte ausführen.
+Zum Verwalten Ihres Zertifizierungsprofils müssen Sie sich zunächst mit den folgenden Schritten bei Ihrem [Zertifizierungsdashboard](https://aka.ms/certdashboard) anmelden.
 
-## So greifen Sie auf Ihr Zertifizierungsprofil zu und aktualisieren es
+## <a name="how-to-access-and-update-your-certification-profile"></a>Vorgehensweise zum Aufrufen und Aktualisieren Ihres Zertifizierungsprofils
 
-1. Melden Sie sich beim Zertifizierungs-Dashboard an. Ausführliche Anweisungen zur Anmeldung finden Sie unter: [Zugriff auf Ihr Zertifizierungs-Dashboard](/learn/certifications/access-certification-dashboard).
+1. Melden Sie sich beim Zertifizierungsdashboard an. Ausführliche Anweisungen zur Anmeldung finden Sie unter [Zugreifen auf das Zertifizierungsdashboard](/learn/certifications/access-certification-dashboard).
 
-2. Klicken Sie oben rechts auf der Seite auf „Zertifizierungsprofil bearbeiten“.
+2. Klicken Sie oben rechts auf der Seite auf „Ihr Zertifizierungsprofil bearbeiten“.
 <br/>
 <br/>
-![Klicken Sie auf Zertifizierungsprofil bearbeiten](images/manage-certification-profile-1.png)
+![Klicken auf „Ihr Zertifizierungsprofil bearbeiten“](images/manage-certification-profile-1.png)
 <br/>
 <br/>
-3. Wählen Sie das Stiftsymbol neben dem Titel „Zertifizierungsprofil", um Ihre Informationen zu bearbeiten.
+3. Wählen Sie das Stiftsymbol neben dem Titel „Zertifizierungsprofil“ aus, um Ihre Informationen zu bearbeiten.
 <br/>
 <br/>
-![Wählen Sie das Stiftsymbol aus, um Ihre Informationen zu bearbeiten](images/manage-certification-profile-2.png)
+![Klicken auf das Stiftsymbol zum Bearbeiten Ihrer Informationen](images/manage-certification-profile-2.png)
 <br/>
 <br/>
-4. Nachdem Sie Ihre Profilinformationen aktualisiert haben, wählen Sie unten „Speichern & fortfahren“, um Ihre Änderungen zu speichern.
+4. Nachdem Sie Ihre Profilinformationen aktualisiert haben, wählen Sie im unteren Bereich „Speichern und fortfahren“ aus, um die Änderungen zu speichern.
 <br/>
 <br/>
-![Nach Aktualisierung speichern und fortfahren auswählen](images/manage-certification-profile-3.png)
+![Auswählen von „Speichern und fortfahren“ nach dem Aktualisieren](images/manage-certification-profile-3.png)
 <br/>
 <br/>
 
-## Ihr Microsoft-Konto aktiv halten
+## <a name="keeping-your-microsoft-account-active"></a>Aufrechterhalten des aktiven Status Ihres Microsoft-Kontos
 
-Um weiterhin auf Ihr Zertifizierungs-Dashboard zugreifen zu können, müssen Sie Ihr Microsoft-Account aktiv halten. Sie können es aktiv halten, indem Sie sich mindestens alle zwei Jahre bei Ihrem Microsoft-Konto anmelden. Sobald Ihr Account inaktiv wird, müssen Sie sich an den Support wenden, damit Ihnen bei einem Wiederherstellungsprozess geholfen wird und Sie wieder auf Ihre Zertifizierungsinformationen zugreifen können.
+Damit Sie dauerhaft auf das Zertifizierungsdashboard zugreifen können, müssen Sie den aktiven Status Ihres Microsoft-Kontos aufrechterhalten. Sie können den aktiven Status des Kontos aufrechterhalten, indem Sie sich mindestens alle zwei Jahre bei Ihrem Microsoft-Konto anmelden. Wenn Ihr Konto inaktiv wird, müssen Sie sich möglicherweise an den Support wenden, damit dieser Sie beim Wiederherstellungsprozess unterstützen kann, sodass Sie wieder auf Ihre Zertifizierungsinformationen zugreifen können.
 
-## Stellen Sie Ihre verlorenen oder vergessenen Microsoft-Zertifizierungsnachweise wieder her
+## <a name="recover-your-lost-or-forgotten-microsoft-certification-credentials"></a>Wiederherstellen verlorener oder vergessener Anmeldeinformationen für Microsoft-Zertifizierungen
 
-Gehen Sie auf: [Zertifizierungsbegleitung](/learn/certifications/help) für detaillierte Anweisungen.
+Ausführliche Anweisungen finden Sie unter [Zertifizierungsunterstützung](/learn/certifications/help).
 
-## So ändern Sie den Namen in Ihrem Microsoft-Zertifizierungsprofil
+## <a name="how-to-change-the-name-on-your-microsoft-certification-profile"></a>Vorgehensweise zum Ändern des Namens in Ihrem Microsoft-Zertifizierungsprofil
 
-Um an einer Microsoft-Zertifizierungsprüfung teilzunehmen, muss der Name in Ihrem Microsoft-Zertifizierungsprofil mit dem Namen auf dem amtlichen Ausweis übereinstimmen, den Sie bei Ihrem Prüfungstermin (persönlich und online) vorlegen. Wenn Sie den Namen in Ihrem Profil ändern müssen, führen Sie die folgenden Schritte aus.
+Damit Sie eine Microsoft-Zertifizierungsprüfung ablegen können, muss der Name, der in Ihrem Microsoft-Zertifizierungsprofil angezeigt wird, mit dem Namen auf dem behördlicherseits ausgestellten Identifikationsnachweis übereinstimmen, den Sie bei Ihrem Prüfungstermin (persönlich und online) vorlegen. Wenn Sie den Namen in Ihrem Profil ändern müssen, führen Sie die folgenden Schritte aus.
 
-### Anfragen in englischer Sprache
+### <a name="english-language-requests"></a>Anträge in englischer Sprache
 
-Senden Sie Ihre Änderungsanforderung mit dem [Microsoft Certification Antragsformular für die Änderung des Profilnamens](https://aka.ms/MSCertificationLegalNamechange). Sie werden aufgefordert, die in Ihrem Microsoft -Zertifizierungsprofil enthaltenen Informationen zu überprüfen. Dieses Formular ist derzeit nur auf Englisch verfügbar. Bitte planen Sie 3-6 Werkstage für die Änderung Ihres Namens ein.
+Senden Sie Ihren Änderungsantrag mit dem [Antragsformular zur Änderung des Namens im Microsoft-Zertifizierungsprofil](https://aka.ms/MSCertificationLegalNamechange). Sie werden aufgefordert, die in Ihrem Microsoft-Zertifizierungsprofil enthaltenen Informationen zu überprüfen. Dieses Formular ist derzeit nur auf Englisch verfügbar. Bitte planen Sie 3-6 Werkstage für die Änderung Ihres Namens ein.
 
-### Andere Sprachen als Englisch
-Stellen Sie eine Anfrage über unsere moderierten Zertifizierungs-Support-Foren. Gehen Sie auf: [Zertifizierungs-Support](/learn/certifications/help) für Hilfe bei der Verwaltung Ihres Zertifizierungsprofils in einer anderen Sprache als Englisch.
+### <a name="languages-other-than-english"></a>Andere Sprache als Englisch
+Stellen Sie eine Anfrage über unsere moderierten Zertifizierungs-Support-Foren. Wenden Sie sich an die [Zertifizierungsunterstützung](/learn/certifications/help), um Hilfe zum Ändern Ihres Zertifizierungsprofils in einer anderen Sprache als Englisch anzufordern.
 
-## Um Ihre Microsoft-Zertifizierungsprofil-Identifikationsnummer (MCID) zu finden,
+## <a name="to-find-your-microsoft-certification-profile-identification-number-mcid"></a>Vorgehensweise zum Einsehen der Microsoft-Zertifizierungsprofil-ID (MCID)
 
-gehen Sie auf: [Finden Sie Ihre MCID](/learn/certifications/find-mcid).
+Informationen hierzu finden Sie unter [MCID-Suche](/learn/certifications/find-mcid).
 
-## Um zwei Microsoft-Zertifizierungsprofile zusammenzuführen.
 
-gehen Sie auf: [Zertifizierungsprofile zusammenführen und übertragen](/learn/certifications/merge-profiles).
+## <a name="to-merge-two-microsoft-certification-profiles"></a>Vorgehensweise zum Zusammenführen von zwei Microsoft-Zertifizierungsprofilen
+
+Informationen hierzu finden Sie unter [Zusammenführen und Übertragen von Zertifizierungsprofilen](/learn/certifications/merge-profiles).

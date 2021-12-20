@@ -1,28 +1,33 @@
 ### YamlMime:CertificationRenewal
-title: 'Erneuerung für Microsoft Certified: Azure Security Engineer Associate'
+title: 'Erneuerung von Microsoft Certified: Azure Security Engineer Associate'
 metadata:
-  title: 'Erneuerung für Microsoft Certified: Azure Security Engineer Associate'
-  description: 'Wenn Sie über diese Zertifizierung verfügen und sie innerhalb von sechs Monaten abläuft, sind Sie berechtigt, diese zu erneuern.'
+  title: 'Erneuerung von Microsoft Certified: Azure Security Engineer Associate'
+  description: Wenn Sie diese Zertifizierung besitzen und sie innerhalb von sechs Monaten abläuft, können Sie sie erneuern.
+  ms.openlocfilehash: 8cd317d93887b6163535d126818a9c066c45562a
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132110933"
 uid: renewal.azure-security-engineer
 certificationUid: certification.azure-security-engineer
 assessmentId: 824be456-aba3-45ba-a4b4-4478c41a7622
 durationInMinutes: 45
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Wenn Sie über diese Zertifizierung verfügen und sie innerhalb von sechs Monaten abläuft, sind Sie berechtigt, diese zu erneuern. Zeigen Sie, dass Sie mit den neuesten Azure-Updates auf dem letzten Stand sind, indem Sie die Prüfung zur Erneuerung bestehen.Sie können sich auf die Erneuerung auch mit der kuratierten Sammlung von Lernmodulen vorbereiten.
+summary: Wenn Sie diese Zertifizierung besitzen und sie innerhalb von sechs Monaten abläuft, können Sie sie erneuern. Zeigen Sie, dass Sie sich über die neuesten Azure-Aktualisierungen auf dem Laufenden gehalten haben, indem Sie das Erneuerungsexamen bestehen. Sie können sich auch mit der kuratierten Sammlung von Lernmodulen auf die Erneuerung vorbereiten.
 skills:
-- Verstärken der Authentifizierung (bedingter Zugriff) mit Azure Active Directory
-- Sichere Administratorkonten in Azure Active Directory
-- Den Identitätsschutz in Azure Active Directory aktivieren
-- Ihre Azure-Ressourcen mit rollenbasierter Zugriffssteuerung (RBAC) sichern.
-- Den Zugriff auf Azure-Ressourcen mit Hilfe von Netzwerksicherheitsgruppen und Serviceendpunkten sichern und isolieren
-- Entwerfen einer ganzheitlichen Überwachungsstrategie für Azure
-- Sichern Ihres Azure-Speicheraccounts
-- Geheimnisse in Ihren Server-Apps mit Azure Key Vault verwalten
+- Strengthen authentication (conditional access) with Azure Active Directory
+- Secure administrator accounts in Azure Active Directory
+- Enable identity protection in Azure Active Directory
+- Secure your Azure resources with role-based access control (RBAC)
+- Secure and isolate access to Azure resources by using network security groups and service endpoints
+- Design a holistic monitoring strategy on Azure
+- Secure your Azure Storage account
+- Manage secrets in your server apps with Azure Key Vault
 examsPassed:
 - az-500
-studyGuideDescription: 'Verwenden Sie diese Sammlung von Lernmodulen, um sich auf diese Microsoft-Zertifizierung vorzubereiten: Azure Data Engineer Associate Erneuerungsbewertung.'
+studyGuideDescription: 'Verwenden Sie diese Lernmodule, um sich auf das Erneuerungsexamen „Microsoft Certified: Azure Security Engineer Associate“ vorzubereiten.'
 resources:
-- title: Über die Erneuerung von Zertifizierungen
-  summary: Verstehen Sie den Prozess und die Anforderungen, um Ihre Zertifizierungen online zu erneuern
+- title: Informationen zur Zertifizierungserneuerung
+  summary: Informationen zum Prozess und zu den Anforderungen der Onlineerneuerung Ihrer Zertifizierungen
   url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

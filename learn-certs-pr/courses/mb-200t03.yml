@@ -1,18 +1,24 @@
 ### YamlMime:Course
-title: 'Dynamics 365: Power-Plattform-Anwendungen'
+title: 'Dynamics 365: Power Platform-Integrationen'
 metadata:
-  title: 'Kurs MB-200T03-A: Dynamics 365: Power-Plattform-Anwendungen'
-  description: 'Kurs MB-200T03-A: Dynamics 365: Power-Plattform-Anwendungen'
+  title: 'Kurs MB-200T03-A: Dynamics 365: Power Platform-Integrationen'
+  description: 'Kurs MB-200T03-A: Dynamics 365: Power Platform-Integrationen'
+  ms.openlocfilehash: d57c303f70a43eb4d5effc05b0da4fbe6e8e049c
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107443"
 uid: course.mb-200t03
-courseNumber: 'MB-200T03-A'
+courseNumber: MB-200T03-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Identifizieren wichtiger Integrationsszenarien.
-- skill: Konfigurieren und verwenden integrierter E-Mails.
-- skill: Konfigurieren und Verwenden der Outlook-Integration.
-- skill: Konfigurieren und Verwenden zusätzlicher Office-Integrationen.
-- skill: Daten importieren und exportieren.
+- skill: Identifizieren wichtiger Integrationsszenarios
+- skill: Konfigurieren und Verwenden integrierter E-Mails
+- skill: Konfigurieren und Verwenden der Outlook-Integration
+- skill: Konfigurieren und Verwenden zusätzlicher Office-Integrationen
+- skill: Importieren und Exportieren von Daten.
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -21,60 +27,94 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-sales
 - dynamics-marketing
 - dynamics-field-service
 - dynamics-customer-service
 exams:
 - uid: exam.mb-200
-summary: |-
+summary: >-
   Mit Hilfe der Microsoft Power-Platform können Unternehmen Abläufe optimieren, indem sie Routineaufgaben automatisieren und bewährte Praktiken standardisieren. Diese Schulung bietet einen allgemeinen Überblick über die Funktionen von Microsoft Dynamics 365 und der Power-Plattform und bildet die Grundlage für andere Schulungsangebote von Microsoft Dynamics 365 und der Power-Plattform.
 
-  In diesem Kurs führen unsere weltweit anerkannten Experten die Studenten durch die verschiedenen verfügbaren Automatisierungsoptionen und deren Verwendung in realen Szenarien.
 
-  #### Zielgruppenprofil
-  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von sowie Lösungen und Anwendungen zu konfigurieren. Der Modulbetreuer implementiert eine Lösung mit gebrauchsfertigen Funktionen, codefreier Erweiterungsmöglichkeit, sowie Anwendungs- und Service-Integrationen.
-prerequisitesSection: |-
-  Vertrautheit mit Geschäftsanwendungen und der Wunsch, diese für Ihr Unternehmen anzupassen und zu implementieren.
-outlineSection: |-
-  ### Modul 1&#58; Einführung in Integrationen
-  In diesem Modul lernen die Teilnehmer die Grundlagen der Power-Plattform-Integrationsfähigkeiten sowie die Konfiguration und Verwendung von E-Mail-Integrationen.
-  #### Lektionen
-  - Übersicht über gängige Szenarien
-  E-Mail-Integration
+  In diesem Kurs leiten unsere global anerkannten Expert*innen die Kursteilnehmer*innen bei den verschiedenen verfügbaren Integrationsoptionen und deren Verwendung in realen Szenarios an.
+
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von sowie Lösungen und Anwendungen zu konfigurieren. Der Functional Consultant implementiert eine Lösung unter Verwendung von standardisierten Funktionen, codeloser Erweiterbarkeit, Anwendungs- und Dienstintegrationen.
+prerequisitesSection: Vertrautheit mit Geschäftsanwendungen und der Wunsch, sie für Ihr Unternehmen anzupassen und zu implementieren.
+outlineSection: >-
+  ### <a name="module--158-introduction-to-integrations"></a>Modul 1: Einführung in Integrationen
+
+  In diesem Modul lernen die Kursteilnehmer*innen die Grundlagen der Power Platform-Integrationsfunktionen sowie E-Mail-Integrationen zu konfigurieren und verwenden.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht über gängige Szenarios
+
+  - E-Mail-Integration
+
   - Outlook-Integration
-  - Modulübersicht
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Gängige Integrationen erkennen
-  - E-Mail-Integration konfigurieren und verwenden
+  - Zusammenfassung des Moduls
 
 
-  ### Modul 2&#58; Integration mit Office
-  In diesem Modul lernen die Studenten, wie sie gängige Office-Produkte, einschließlich OneNote, Word und Excel, integrieren können.
-  #### Lektionen
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer*innen zu Folgendem in der Lage sein:
+
+  - Identifizieren gängiger Integrationen
+
+  - Konfigurieren und Verwenden der E-Mail-Integration
+
+
+
+  ### <a name="module--258-integration-with-office"></a>Modul 2: Integration mit Office
+
+  In diesem Modul lernen die Kursteilnehmer*innen, wie sie gängige Office-Produkte wie OneNote, Word und Excel integrieren.
+
+  #### <a name="lessons"></a>Lektionen
+
   - Vorlagen
+
   - SharePoint
+
   - Microsoft Teams
+
   - Zusätzliche Integrationen
-  - Modulübersicht
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Integrationen mit Office-Produkten konfigurieren und verwenden
+  - Zusammenfassung des Moduls
 
 
-  ### Modul 3&#58; Daten verwalten
-  In diesem Modul lernen die Studenten, wie man Daten für die Power-Plattform im-und exportiert und Datenzuordnungen erstellt und verwendet.
-  #### Lektionen
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Konfigurieren und Verwenden von Integrationen mit Office-Produkten
+
+
+
+  ### <a name="module--358-managing-data"></a>Modul 3: Daten verwalten
+
+  In diesem Modul lernen Kursteilnehmer*innen, Daten für Power Platform zu importieren und exportieren sowie Datenzuordnungen zu erstellen und verwenden.
+
+  #### <a name="lessons"></a>Lektionen
+
   - Datenübersicht verwalten
-  - Dublettenerkennung
-  - Daten importieren
-  - Daten exportieren
-  - Massenlöschen
-  - Modulübersicht
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Daten importieren und exportieren
-  - Erstellen und Verwenden von Datenkarten
+  - Duplikaterkennung
+
+  - Importieren von Daten
+
+  - Exportieren von Daten
+
+  - Massenlöschen
+
+  - Zusammenfassung des Moduls
+
+
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer*innen zu Folgendem in der Lage sein:
+
+  - Importieren und Exportieren von Daten.
+
+  - Erstellen und Verwenden von Datenzuordnungen
+
   - Massenlöschung durchführen

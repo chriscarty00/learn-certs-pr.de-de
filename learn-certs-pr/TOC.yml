@@ -1,123 +1,123 @@
-- name: Zertifizierungsübersicht
+- name: Übersicht über Zertifizierungen
   href: index.yml
-- name: Erwerben Sie eine Zertifizierung
+- name: Erhalten einer Zertifizierung
   expanded: false
   items:
-  - name: Übersicht über den Zertifizierungsprozess
-    href: certification-process-overview.md
-  - name: Unterkünfte anfordern
-    href: request-accommodations.md
-  - name: Anmelden und Prüfungstermin vereinbaren
-    href: register-schedule-exam.md
-  - name: Vorbereiten auf eine Prüfung
-    href: prepare-exam.md
-  - name: Prüfungsdauer und Arten von Fragen
-    href: exam-duration-question-types.md
-  - name: Prüfungsbewertung und Ergebnisberichte
-    href: exam-scoring-reports.md
-  - name: Beaufsichtigte Online-Prüfungen
-    expanded: false
-    items:
-    - name: Einführung und FAQs
-      href: online-exams-intro.md
-    - name: Über Online-Prüfungen mit Pearson VUE
-      href: online-exams.md
-    - name: Über Online-Prüfungen mit PSI
-      href: online-exams-psi.md
-  - name: Erneuern Sie Ihre Microsoft Zertifizierung
-    href: renew-your-microsoft-certification.md  
-- name: Verwalten Sie Ihre Zertifizierungen
+    - name: Übersicht über den Zertifizierungsprozess
+      href: certification-process-overview.md
+    - name: Unterkünfte anfordern
+      href: request-accommodations.md
+    - name: Registrieren und Vereinbaren eines Examens
+      href: register-schedule-exam.md
+    - name: Bereiten Sie sich auf eine Prüfung vor
+      href: prepare-exam.md
+    - name: Examensdauer und Arten von Fragen
+      href: exam-duration-question-types.md
+    - name: Examensbewertung und Ergebnisberichte
+      href: exam-scoring-reports.md
+    - name: Online beaufsichtigte Examen
+      expanded: false
+      items:
+        - name: Einführung und häufig gestellte Fragen
+          href: online-exams-intro.md
+        - name: Über Online-Prüfungen mit Pearson VUE
+          href: online-exams.md
+        - name: Über Online-Prüfungen mit PSI
+          href: online-exams-psi.md
+    - name: Erneuern Ihrer Zertifizierung
+      href: renew-your-microsoft-certification.md
+- name: Verwalten Ihrer Zertifizierungen
   expanded: false
   items:
-  - name: Greifen Sie auf Ihr Zertifizierungs-Dashboard zu
-    href: access-certification-dashboard.md
-  - name: Verwalten Sie Ihr Zertifizierungsprofil
-    href: manage-certification-profile.md
-  - name: Greifen Sie auf Ihr Transkript, Ihre Zertifikate und Ihre Abzeichen zu
-    href: access-certificates-badges-transcript.md
-  - name: Zertifizierungsabzeichen verwenden und teilen
-    href: badges.md
-- name: Schulungs- und Zertifizierungsnachrichten
+    - name: Zugreifen auf Ihr Zertifizierungsdashboard
+      href: access-certification-dashboard.md
+    - name: Verwalten Ihres Zertifizierungsprofils
+      href: manage-certification-profile.md
+    - name: 'Zugreifen auf Ihre Zertifikate, Ihre Badges und Ihr Transkript'
+      href: access-certificates-badges-transcript.md
+    - name: Verwenden und Teilen von Zertifizierungsbadges
+      href: badges.md
+- name: Neuigkeiten zu Schulungen und Zertifizierungen
   expanded: false
   items:
-  - name: Social Media und Blogs
-    href: social-media-blog.md
-  - name: Schulung und Zertifizierung in Medien 
-    href: media.md
-  - name: Informationen zur Einstellung
-    expanded: false
-    items:
-    - name: Einstellung einer Zertifizierung
-      href: retired-certifications.md
-    - name: Prüfungseinstellung
-      href: retired-certification-exams.md 
-    - name: Kurseinstellung
-      href: retired-courses.md
-  - name: Wechsel von Learn zu Microsoft Learn
-    href: learnfaq.yml
-- name: Offers
+    - name: Soziale Medien und Blog
+      href: social-media-blog.md
+    - name: Medienberichte zu Schulungen und Zertifizierungen
+      href: media.md
+    - name: Informationen zur Ausmusterung
+      expanded: false
+      items:
+        - name: Einstellung von Zertifizierungen
+          href: retired-certifications.md
+        - name: Einstellung von Examen
+          href: retired-certification-exams.md
+        - name: Einstellung von Kursen
+          href: retired-courses.md
+    - name: Wechsel von Learning zu Microsoft Learn
+      href: learnfaq.yml
+- name: Angebote
   href: deals.md
 - name: Programminformationen
   expanded: false
   items:
-  - name: Beta-Prüfungen
-    href: beta-exams.md
-  - name: Prüfungsentwicklung
-    href: exam-development.md
-  - name: Zertifizierung für Studenten
-    expanded: false
-    items:
-    - name: Studentenermäßigungen
-      href: student-discounts.md
-    - name: College credit for certification exams
-      href: college-credit.md
-  - name: Richtlinien und Vereinbarungen
-    expanded: false
-    items:
-    - name: Richtlinien zum Ablauf der Zertifizierung
-      href: certification-expiration-policy.md
-    - name: Exam item challenge process
-      href: exam-item-challenge-process.md
-    - name: Prüfungs-Sicherheitsrichtlinien
-      href: exam-security-policy.md
-    - name: Richtlinien für die Wiederholung von Prüfungen
-      href: exam-retake-policy.md
-    - name: Prüfungsverschiebungs- und Stornierungsbedingungen
-      href: exam-reschedule-and-cancellation-policy.md
-    - name: Microsoft Certification Program Agreement
-      href: microsoft-certification-program-agreement.md
-    - name: Microsoft Certification Renewal Non-disclosure Agreement
-      href: microsoft-certification-renewal-non-disclosure-agreement.md
-    - name: Microsoft Exam Non-disclosure Agreement
-      href: microsoft-exam-non-disclosure-agreement.md
-  - name: Microsoft Learning Partners 
-    expanded: false
-    items:
-    - name: Einen Learning Partner finden
-      href: partners.md
-    - name: Der Wert von Learning Partners
-      href: partners-value.md      
-  - name: Microsoft Certified Trainer
-    href: mct-certification.md
-  - name: Volume licensing
-    href: volume-licensing-program.md
+    - name: Beta-Prüfungen
+      href: beta-exams.md
+    - name: Prüfungsentwicklung
+      href: exam-development.md
+    - name: Zertifizierungen für Studierende
+      expanded: false
+      items:
+        - name: Studierendenrabatte
+          href: student-discounts.md
+        - name: Leistungspunkte für Zertifizierungsexamen
+          href: college-credit.md
+    - name: Richtlinien und Vereinbarungen
+      expanded: false
+      items:
+        - name: Richtlinien zum Ablauf der Zertifizierung
+          href: certification-expiration-policy.md
+        - name: Prozess zur Anfechtung von Examensteilen
+          href: exam-item-challenge-process.md
+        - name: Examenssicherheitsrichtlinie
+          href: exam-security-policy.md
+        - name: Richtlinien für die Prüfungswiederholung
+          href: exam-retake-policy.md
+        - name: Examenverschiebungs- und Stornierungsbedingungen
+          href: exam-reschedule-and-cancellation-policy.md
+        - name: Microsoft-Zertifizierungsprogramm-Vereinbarung
+          href: microsoft-certification-program-agreement.md
+        - name: Geheimhaltungsvereinbarung zur Erneuerung von Microsoft-Zertifizierungen
+          href: microsoft-certification-renewal-non-disclosure-agreement.md
+        - name: Geheimhaltungsvereinbarung für Microsoft-Examen
+          href: microsoft-exam-non-disclosure-agreement.md
+    - name: "Microsoft\_Learning-Partner"
+      expanded: false
+      items:
+        - name: Finden von Learning-Partnern
+          href: partners.md
+        - name: Bedeutung von Learning-Partnern
+          href: partners-value.md
+    - name: Microsoft Certified Trainer
+      href: mct-certification.md
+    - name: Volumenlizenzierung
+      href: volume-licensing-program.md
 - name: Zertifizierungshilfe
   expanded: false
   items:
-  - name: Zertifizierungsunterstützung
-    href: help.md
-  - name: Häufig gestellte Fragen
-    href: frequently-asked-questions.md
-  - name: Microsoft Official Courseware (MOC) Unterstützung
-    href: certification-and-training-help.md
-  - name: Anleitungen zur Fehlerbehebung
-    expanded: false
-    items:
-    - name: Finden Sie Ihre MCID
-      href: find-mcid.md
-    - name: Zertifizierungsprofile zusammenführen und übertragen
-      href: merge-profiles.md
-    - name: Gutscheine und Einlösen von Rabatten
-      href: redeem-discounts.md
-    - name: Abgleich von Accounts zwischen Certification profil und Learn profil
-      href: aligning-accounts-between-certification-profile-and-learn-profile.md
+    - name: Zertifizierungsunterstützung
+      href: help.md
+    - name: Häufig gestellte Fragen
+      href: frequently-asked-questions.yml
+    - name: Support zu Microsoft Official Courseware (MOC)
+      href: certification-and-training-help.md
+    - name: Leitfäden zur Problembehandlung
+      expanded: false
+      items:
+        - name: Finden Ihrer MCID
+          href: find-mcid.md
+        - name: Zusammenführen und Übertragen von Zertifizierungsprofilen
+          href: merge-profiles.md
+        - name: Gutscheine und Einlösen von Rabatten
+          href: redeem-discounts.md
+        - name: Abstimmen von Konten zwischen Zertifizierungsprofil und Learn-Profil
+          href: aligning-accounts-between-certification-profile-and-learn-profile.md

@@ -1,19 +1,25 @@
 ### YamlMime:Course
-title: 'Dynamics 365: Power Platform anwendungen'
+title: 'Dynamics 365: Power Platform Automation'
 metadata:
-  title: 'Kurs MB-200T02-A: Dynamics 365: Power Platform anwendungen'
-  description: 'Kurs MB-200T02-A: Dynamics 365: Power Platform anwendungen'
+  title: 'Kurs MB-200T02-A: Dynamics 365: Power Platform Automation'
+  description: 'Kurs MB-200T02-A: Dynamics 365: Power Platform Automation'
+  ms.openlocfilehash: 6fe52af581b5d16b155ffd407fe40be16a832ff3
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107459"
 uid: course.mb-200t02
-courseNumber: 'MB-200T02-A'
+courseNumber: MB-200T02-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Identifizieren der verfügbaren Automatisierungsoptionen in der Power-Plattform.
-- skill: Identifizieren, wann welche Automatisierung verwendet werden soll.
-- skill: Geschäftsregeln erstellen und verwenden
-- skill: Erstellen und Verwenden von Arbeitsabläufen
-- skill: Microsoftabläufe erstellen und verwenden
-- skill: Geschäftsprozessabläufe erstellen und verwenden
+- skill: Identifizieren der Automatisierungsoptionen, die auf der Power Platform verfügbar sind
+- skill: Ermitteln, wann welche Automatisierungsoption verwendet werden soll
+- skill: Erstellen und Verwenden von Geschäftsregeln
+- skill: Erstellen und Verwenden von Workflows
+- skill: Erstellen und Verwenden von Microsoft Flows
+- skill: Erstellen und Verwenden von Geschäftsprozessflows
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -22,78 +28,124 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-sales
 - dynamics-marketing
 - dynamics-field-service
 - dynamics-customer-service
 exams:
 - uid: exam.mb-200
-summary: |-
+summary: >-
   Mit Hilfe der Microsoft Power-Platform können Unternehmen Abläufe optimieren, indem sie Routineaufgaben automatisieren und bewährte Praktiken standardisieren. Diese Schulung bietet einen allgemeinen Überblick über die Funktionen von Microsoft Dynamics 365 und der Power-Plattform und bildet die Grundlage für andere Schulungsangebote von Microsoft Dynamics 365 und der Power-Plattform.
 
-  In diesem Kurs führen unsere weltweit anerkannten Experten die Studenten durch die verschiedenen verfügbaren Automatisierungsoptionen und deren Verwendung in realen Szenarien.
 
-  #### Zielgruppenprofil
-  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von sowie Lösungen und Anwendungen zu konfigurieren. Der Modulbetreuer implementiert eine Lösung mit gebrauchsfertigen Funktionen, codefreier Erweiterungsmöglichkeit, sowie Anwendungs- und Service-Integrationen.
-prerequisitesSection: |-
-  Vertrautheit mit Geschäftsanwendungen und der Wunsch, diese für Ihr Unternehmen anzupassen und zu implementieren.
-outlineSection: |-
-  ### Modul 1&#58; Plattformübersicht
-  In diesem Modul lernen die Studenten die Grundlagen der Automatisierungsmöglichkeiten der Power-Plattform. Sie lernen die Notwendigkeit der Automatisierung und die Zuordnung der Anforderungen zu den Funktionen.
-  #### Lektionen
-  - Plattform-Automatisierungsübersicht
-  - Modulübersicht
-
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Die allgemeine Plattformautomatisierung und deren Verwendung erkennen
+  In diesem Kurs leiten unsere global anerkannten Experten die Kursteilnehmer bei den verschiedenen verfügbaren Automatisierungsoptionen und deren Verwendung in realen Szenarios an.
 
 
-  ### Modul 2&#58; Geschäftsregeln
-  In diesem Modul lernen die Studenten, wie sie Geschäftsregeln erstellen und verwenden und wie diese neben anderen Plattformautomatisierungen funktionieren.
-  #### Lektionen
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von sowie Lösungen und Anwendungen zu konfigurieren. Der Functional Consultant implementiert eine Lösung unter Verwendung von gebrauchsfertigen Features, Erweiterbarkeit ohne Programmieraufwand, Anwendungs- und Dienstintegrationen.
+prerequisitesSection: Vertrautheit mit Geschäftsanwendungen und der Wunsch, sie für Ihr Unternehmen anzupassen und zu implementieren
+outlineSection: >-
+  ### <a name="module--158-platform-automation-overview"></a>Modul 1: Übersicht über die Automatisierungsfeatures der Plattform
+
+  In diesem Modul werden die Kursteilnehmer mit den Grundlagen der Automatisierungsmöglichkeiten der Power Platform vertraut gemacht. Sie lernen die Notwendigkeit der Automatisierung kennen und erfahren, wie Sie die Anforderungen den Features zuordnen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht über die Automatisierungsfeatures der Plattform
+
+  - Zusammenfassung des Moduls
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Allgemeine Automatisierungsfeatures der Plattform und deren Verwendung identifizieren
+
+
+
+  ### <a name="module--258-business-rules"></a>Modul 2: Geschäftsregeln
+
+  In diesem Modul lernen die Kursteilnehmer, wie sie Geschäftsregeln erstellen und verwenden und wie diese neben anderen Automatisierungsmöglichkeiten der Plattform funktionieren.
+
+  #### <a name="lessons"></a>Lektionen
+
   - Einführung in Geschäftsregeln
-  - Zusätzliche Details zu Geschäftsregeln
-  - Modulübersicht
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Zusätzliche Details zu Geschäftsregeln
+
+  - Zusammenfassung des Moduls
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
   - Geschäftsregeln erstellen und verwenden
 
 
-  ### Modul 3&#58; Arbeitsabläufe
-  In diesem Modul lernen die Studenten, wie sie Arbeitsabläufe erstellen und verwenden und wie diese neben anderen Plattformautomatisierungen funktionieren.
-  #### Lektionen
-  - Einführung in Arbeitsabläufe
-  - Erstellen von Arbeitsabläufen
-  - Erweiterter Arbeitsablauf
-  - Modulübersicht
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Erstellen und Verwenden von Arbeitsabläufen
+  ### <a name="module--358-workflows"></a>Modul 3: Workflows
+
+  In diesem Modul lernen die Kursteilnehmer, wie sie Workflows erstellen und verwenden und wie diese neben anderen Automatisierungsmöglichkeiten der Plattform funktionieren.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung in Workflows
+
+  - Erstellen von Workflows
+
+  - Erweiterter Workflow
+
+  - Zusammenfassung des Moduls
 
 
-  ### Modul 4&#58; Microsoftabläufe
-  In diesem Modul lernen die Studenten, wie sie Microsoftarbeitsabläufe erstellen und verwenden und wie diese neben anderen Plattformautomatisierungen funktionieren.
-  #### Lektionen
-  - Einführung in Microsoftabläufe
-  - Andere Ablaufkonzepte
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Workflows erstellen und verwenden
+
+
+
+  ### <a name="module--458-microsoft-flows"></a>Modul 4: Microsoft Flow
+
+  In diesem Modul lernen die Kursteilnehmer, wie sie Microsoft Flows erstellen und verwenden und wie diese neben anderen Automatisierungsmöglichkeiten der Plattform funktionieren.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung in Microsoft Flow
+
+  - Andere Flowkonzepte
+
   - Arbeiten mit CDS
-  - Genehmigungsabläufe erstellen
-  - Ausgehend von Apps
-  Überlegungen zur Bereitstellung des Ablaufs
-  - Modulübersicht
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Microsoftabläufe erstellen und verwenden
+  - Erstellen von Genehmigungsflows
+
+  - Starten ausgehend von Apps
+
+  - Überlegungen zur Bereitstellung von Flows
+
+  - Zusammenfassung des Moduls
 
 
-  ### Modul 5&#58; Geschäftsprozessabläufe
-  In diesem Modul lernen die Studenten, Geschäftsprozessabläufe zu erstellen und verwenden und wie diese neben anderen Plattformautomatisierungen funktionieren.
-  #### Lektionen
-  - Einführung in Geschäftsprozessabläufe
-  - Konfigurieren von Geschäftsprozessabläufen
-  - Zusätzliche Details zu Geschäftsprozessabläufen
-  - Modulübersicht
+  Nach Abschluss dieses Moduls können die Schüler:
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Geschäftsprozessabläufe erstellen und verwenden
+  - Microsoft Flows erstellen und verwenden
+
+
+
+  ### <a name="module--558-business-process-flows"></a>Modul 5: Geschäftsprozessflows
+
+  In diesem Modul lernen die Kursteilnehmer, wie sie Geschäftsprozessflows erstellen und verwenden und wie diese neben anderen Automatisierungsmöglichkeiten der Plattform funktionieren.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung in Geschäftsprozessflows
+
+  - Konfigurieren von Geschäftsprozessflows
+
+  - Zusätzliche Details zu Geschäftsprozessflows
+
+  - Zusammenfassung des Moduls
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Geschäftsprozessflows erstellen und verwenden

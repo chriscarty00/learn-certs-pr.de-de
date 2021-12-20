@@ -3,29 +3,29 @@ title: 'Microsoft Certified: Azure Data Fundamentals'
 metadata:
   title: 'Microsoft Certified: Azure Data Fundamentals'
   description: Azure Data Fundamentals überprüft das grundlegende Wissen über Kerndatenkonzepte und deren Implementieren mit Hilfe von Microsoft Azure-Daten-Services.
+  ms.openlocfilehash: 7bfb07b1be9c81d02412cf05bf471fdbb1b754b3
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132113184"
 uid: certification.azure-data-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  <div><font color='red'><strong>Der Inhalt dieser Prüfung wird am 25. Oktober 2021 aktualisiert. Bitte laden Sie das Dokument über die gemessenen Fähigkeiten auf der <a href="/learn/certifications/exams/az-900">DP-900 Prüfungsseite herunter</a> um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
-  
-  Kandidaten für die Azure Data Fundamentals-Zertifizierung sollten über grundlegende Kenntnisse der Kerndatenkonzepte und deren Implementieren mit Hilfe von Microsoft Azure-Daten-Services verfügen.  
-  
-  Diese Zertifizierung richtet sich an Kandidaten, die mit Daten in der Cloud arbeiten.  
-  
-  Die Kandidaten sollten mit den Konzepten relationaler und nicht relationaler Daten sowie mit verschiedenen Arten von Daten-Workloads wie Transaktions- oder Analysedaten vertraut sein.  
-  
-  Azure Data Fundamentals kann verwendet werden, um sich auf andere rollenbasierte Azure-Zertifizierungen wie Azure Database Administrator Associate oder Azure Data Engineer Associate vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen.
+summary: "<div><font color='red'><strong>Der Inhalt dieser Zertifizierung wurde am 25. Oktober 2021 aktualisiert. Laden Sie das Dokument zu den bewerteten Qualifikationen von der <a href=\"/learn/certifications/exams/dp-900\">Seite für das Examen DP-900</a> herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>\n\nKandidaten für die Azure Data Fundamentals-Zertifizierung sollten über grundlegende Kenntnisse der Kerndatenkonzepte und deren Implementieren mit Hilfe von Microsoft Azure-Daten-Services verfügen.  \n\nDiese Zertifizierung richtet sich an Kandidaten, die mit Daten in der Cloud arbeiten.  \n\nDie Kandidaten sollten mit den Konzepten relationaler und nicht relationaler Daten sowie mit verschiedenen Arten von Daten-Workloads wie Transaktions- oder Analysedaten vertraut sein.  \n\nAzure Data Fundamentals kann verwendet werden, um sich auf andere rollenbasierte Azure-Zertifizierungen wie Azure Database Administrator Associate oder Azure Data Engineer Associate vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen."
 subTitle: Azure Data Fundamentals überprüft das grundlegende Wissen über Kerndatenkonzepte und deren Implementieren mit Hilfe von Microsoft Azure-Daten-Services.
 levels:
 - beginner
 skills:
-- Beschreiben von Kerndatenkonzepten
-- Beschreiben, wie man mit relationalen Daten in Azure arbeitet
-- Beschreiben, wie man mit nicht-relationalen Daten in Azure arbeitet
-- Beschreiben einer Analyse-Workload in Azure
+- Describe core data concepts
+- Describe how to work with relational data on Azure
+- Describe how to work with non-relational data on Azure
+- Describe an analytics workload on Azure
 roles:
-- data-engineer
 - database-administrator
+- data-analyst
+- data-engineer
+- developer
+- student
 type: fundamentals
 products:
 - azure
@@ -48,10 +48,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AM8g
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
@@ -61,7 +61,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Erhalten Sie Ihren Microsoft-Zertifizierungsbadge, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md
-

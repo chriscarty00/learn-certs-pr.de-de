@@ -1,32 +1,39 @@
 ### YamlMime:Examination
-title: 'Troubleshooting Microsoft Teams (beta)'
+title: Problembehandlung bei Microsoft Teams
 metadata:
-  title: 'Exam MS-740: Troubleshooting Microsoft Teams (beta)'
-  description: 'Exam MS-740: Troubleshooting Microsoft Teams (beta)'
+  title: 'Examen MS-740: Problembehandlung bei Microsoft Teams'
+  description: 'Examen MS-740: Problembehandlung bei Microsoft Teams'
+  ms.openlocfilehash: 46c5a384db8b040829036521207fbdf62b032d3a
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132113240"
 uid: exam.ms-740
 displayName: MS-740
-summary: |-
-  Kandidaten für diese Prüfung sind Support-Techniker, die Microsoft Teams-Umgebungen unterstützen, Fehler bei der Bereitstellung beheben, die Leistung optimieren, Telemetrie- und Protokolldaten sammeln und analysieren sowie Teams-Umgebungen verwalten.
-  
-  Kandidaten sollten über umfangreiche Erfahrungen im Bereich vereinheitlichte Kommunikation und praktische Erfahrungen mit Microsoft Teams verfügen. Darüber hinaus sollten Kandidaten über Netzwerkkenntnisse in Bezug auf Azure-Grundlagen, Telefonie, PowerShell, Datenspeichertechnologien, APIs, App-Sicherheit, Authentifizierung und Autorisierung, Sicherheits- und Compliance-Informationen, Debugging, Leistungsoptimierung und Überwachung verfügen.
-  
-  <div><br/><font color='red'><strong>Diese Beta-Prüfung ist auf Eis gelegt, während wir geschäftskritisches Feedback von Kunden untersuchen. Wir werden weitere Aktualisierungen bekannt geben, sobald sie verfügbar sind.</strong></font><br/></div>
+summary: >-
+  <div><font color='red'>HINWEIS: Die zum Bestehen benötigte Mindestpunktzahl beträgt 700 Punkte. Weitere Informationen zur Examensauswertung finden Sie <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div>
 
-  <div><br/><font color='red'><strong>Beta-Prüfungen werden nicht sofort bewertet, da wir Daten über die Qualität der Fragen und der Prüfung sammeln. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Erfahren Sie mehr über den Wert und die Bedeutung von Beta-Prüfungen.</a></strong></font></div>
-subTitle: 'Juli 2021 verfügbar sein. Diese Prüfung misst Ihre Fähigkeit zur Fehlerbehebung bei folgenden technischen Aufgaben: Microsoft Teams Sprachprobleme; Microsoft Teams -Meetings und Live-Events; Föderationsprobleme; Anmeldung bei Microsoft Teams; Teams und Channels; und Dateien.'
+
+  Die Kandidat*innen für dieses Examen sind Supporttechniker*innen, die fortgeschrittene Problembehandlungsmethoden verwenden, um Microsoft Teams-Umgebungen zu unterstützen, Telemetrie- und Protokolldaten zu analysieren, Probleme bei Bereitstellungen zu behandeln und die Leistung zu optimieren. Es wird erwartet, dass die Kandidat*innen Protokolle und andere Daten überprüfen, die Grundursache eines Problems erkennen und eine Lösung bereitstellen.
+
+
+  Die Kandidat*innen sollten über weitreichende Erfahrung bei der Problembehandlung von vereinheitlichten Kommunikationslösungen sowie über praktische Kompetenzen insbesondere bei der Problembehandlung von Microsoft Teams verfügen. Darüber hinaus sollten die Kandidat*innen über Netzwerkkenntnisse in Bezug auf Azure-Grundlagen, Telefonie, PowerShell, Datenspeichertechnologien, APIs, App-Sicherheit, Authentifizierung und Autorisierung, Sicherheits- und Complianceinformationen, Debuggen, Leistung, Optimierung und Überwachung verfügen.
+subTitle: 'In diesem Examen wird Ihre Fähigkeit geprüft, in den folgenden technischen Aufgabenszenarios Probleme zu behandeln: Sprachprobleme bei Microsoft Teams, Besprechungen und Liveereignisse in Microsoft Teams, Verbundprobleme, Anmelden bei Microsoft Teams, Teams und Kanäle sowie Dateien.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4O2rS
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-740&examname=Exam%20MS-740:%20Troubleshooting%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-740
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Fehlerbehebung Microsoft Teams Sprachprobleme (15-20%)
-- Behebung von Problemen mit Microsoft Teams-Meetings und Live-Events (20-25%)
-- Behebung von Problemen mit der Föderation (10-15%)
-- Behebung von Problemen bei der Anmeldung bei Microsoft Teams  (15-20%)
-- Behebung von Problemen mit Teams und Channels (10-15%)
-- Behebung von Problemen mit Dateien (15-20%)
+- Troubleshoot Microsoft Teams voice issues (15-20%)
+- Troubleshoot issues with Microsoft Teams meetings and live events (20-25%)
+- Troubleshoot federation issues (10-15%)
+- Troubleshoot issues signing into Microsoft Teams (15-20%)
+- Troubleshoot teams and channels (10-15%)
+- Troubleshoot issues with files (15-20%)
 roles:
 - administrator
 - support-engineer
@@ -40,7 +47,7 @@ paths:
 - uid: learn.wwl.troubleshoot-microsoft-365-teams
 relatedCertifications:
 - related:
-    uid: certification.m365-teams-support-engineer-associate
+    uid: certification.m365-teams-support-engineer-specialty
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.

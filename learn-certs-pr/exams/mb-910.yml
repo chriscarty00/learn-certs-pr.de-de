@@ -1,23 +1,30 @@
 ### YamlMime:Examination
 title: Microsoft Dynamics 365 Fundamentals (CRM)
 metadata:
-  title: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
-  description: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
+  title: 'Examen MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
+  description: 'Examen MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
+  ms.openlocfilehash: 529aa464914e8c21139e9e4c825f3b11b7b199c6
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105771"
 uid: exam.mb-910
 displayName: MB-910
-summary: |-
-  Diese Prüfung behandelt die Funktionen und Möglichkeiten von Microsoft Dynamics 365-Apps zur kundenbindung.
-  
-  Kandidaten für diese Prüfung sollten über allgemeine Kenntnisse oder einschlägige Berufserfahrung in einem Informationstechnologie (IT)-Umfeld verfügen. Sie sollten auch ein grundlegendes Verständnis der Prinzipien der Kundenbindung und des Geschäftsbetriebs haben.
-subTitle: 'Diese Prüfung misst Ihre Fähigkeit, Folgendes zu beschreiben: Dynamics 365 Marketing; Dynamics 365 Sales; Dynamics 365-Kundenservice; Dynamics 365-Außendienst; Projektbetrieb und gemeinsame Funktionen.'
+summary: >-
+  In diesem Examen werden die Features und Funktionen der Microsoft Dynamics 365 Customer Engagement-Apps behandelt.
+
+
+  Kandidat*innen für dieses Examen sollten über allgemeine Kenntnisse oder einschlägige Berufserfahrung in einem IT-Umfeld (Informationstechnologie) verfügen. Lernende sollten außerdem über ein grundlegendes Verständnis der Kundenbindungsprinzipien und des Geschäftsbetriebs verfügen.
+subTitle: 'In diesem Examen wird Ihre Fähigkeit abgefragt, Folgendes zu beschreiben: Dynamics 365 Marketing, Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Field Service, Project Operations und gemeinsame Features.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIev
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-910?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MB-910&examname=Exam%20MB-910:%20Microsoft%20Dynamics%20365%20Fundamentals%20(CRM)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-910
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-910&examname=Exam%20MB-910:%20Microsoft%20Dynamics%20365%20Fundamentals%20(CRM)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-910
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
@@ -34,12 +41,12 @@ locales:
 levels:
 - beginner
 skills:
-- Beschreiben Sie Dynamics 365 Marketing (10-15%)
-- Beschreiben Sie Dynamics 365 Sales (15-20%)
-- Beschreiben Sie Dynamics 365-Customer Service (15-20%)
-- Beschreiben Sie Dynamics 365-Field Service (15-20%)
-- Beschreiben Sie Projektabläufe (15-20%)
-- Beschreiben Sie gemeinsam genutzte Funktionen (15-20%)
+- Describe Dynamics 365 Marketing (10-15%)
+- Describe Dynamics 365 Sales (15-20%)
+- Describe Dynamics 365 Customer Service (15-20%)
+- Describe Dynamics 365 Field Service (15-20%)
+- Describe Project Operations (15-20%)
+- Describe shared features (15-20%)
 roles:
 - business-owner
 - business-user
@@ -60,10 +67,10 @@ relatedCertifications:
 - related:
     uid: certification.d365-fundamentals-customer-engagement-apps-crm
 resources:
-- title: Zertifizierungslernpfad
+- title: Lernpfad zur Zertifizierung
   description: Empfohlene Schulungsressourcen, die Ihnen helfen, sich auf die erforderlichen Prüfungen vorzubereiten und Ihre Zertifizierung zu erhalten.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAs3I
-- title: Informieren Sie sich über die Zertifizierungen
+- title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
@@ -76,8 +83,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
-- title: Prüfungsrichtlinien und häufig gestellten Fragen
+- title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md

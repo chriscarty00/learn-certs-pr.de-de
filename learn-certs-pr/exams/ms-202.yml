@@ -1,17 +1,25 @@
 ### YamlMime:Examination
 title: Microsoft 365 Messaging Administrator Certification Transition
 metadata:
-  title: 'Prüfung MS-202: Microsoft 365 Messaging Administrator Certification Transition'
-  description: 'Prüfung MS-202: Microsoft 365 Messaging Administrator Certification Transition'
+  title: 'Übergangsexamen MS-202: Microsoft 365 Messaging Administrator Certification'
+  description: 'Übergangsexamen MS-202: Microsoft 365 Messaging Administrator Certification'
+  ms.openlocfilehash: a82a2652f9d7f8cfd4e3b15d06d498bef8a8f070
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105698"
 uid: exam.ms-202
 displayName: MS-202
 summary: >-
-  <div style='color&#58; red; font-weight&#58; bold;'>DIESE PRÜFUNG WURDE AM 30. SEPTEMBER 2019 EINGESTELLT. Hinweis&#58; Prüfungen werden um 23:59 Uhr Central Standard Time</div>
+  <div>
 
-  <br/>
+  <div><strong>DIESES EXAMEN WURDE AM 30. SEPTEMBER 2019 EINGESTELLT. Hinweis: Examen werden um 23:59 Uhr Central Standard Time eingestellt.</strong><br/></div>
+
+  </div>
 
 
-  Diese Prüfung ist nur für Bewerber gedacht, die die [Prüfung 70-345&#58;](https://www.microsoft.com/learning/exam-70-345.aspx) abgelegt haben Designing and Deploying Microsoft Exchange Server 2016. Wenn Sie die Prüfung 345 nicht abgelegt haben, erhalten Sie mit dieser Prüfung keine Zertifizierung.
+  Dieses Examen ist nur für Kandidat*innen vorgesehen, die das [Examen 70-345:](https://www.microsoft.com/learning/exam-70-345.aspx) Entwerfen und Bereitstellen von Microsoft Exchange Server 2016 abgeschlossen haben. Wenn Sie die Exam 345 nicht abgelegt haben, erhalten Sie mit dieser Prüfung keine Zertifizierung.
 
 
   Kandidaten für diese Prüfung sind Messaging-Administratoren, die Empfänger, Berechtigungen, E-Mail-Schutz, E-Mail-Fluss und öffentliche Ordner sowohl in lokalen als auch in Cloud-Umgebungen bereitstellen, konfigurieren, verwalten, fehlerbeheben und überwachen.
@@ -20,47 +28,50 @@ summary: >-
   Messaging-Administratoren sind für die Verwaltung von Hygiene, Messaging-Infrastruktur, Hybridkonfiguration, Migration, Disaster Recovery, Hochverfügbarkeit und Client-Zugriff verantwortlich.
 
 
-  Messaging-Administratoren arbeiten gemeinsam mit dem Security Administrator und Microsoft 365 Enterprise Administrator an der Implementierung einer sicheren Hybrid-Topologie, die den Geschäftsanforderungen eines modernen Unternehmens entspricht.
+  Messaging-Administratoren arbeiten gemeinsam mit dem SecurityAdministrator und Microsoft 365 Enterprise Administrator an der Implementierung einer sicheren Hybrid-Topologie, die den Geschäftsanforderungen eines modernen Unternehmens entspricht.
 
 
   Der Messaging-Administrator sollte über gute Kenntnisse in den Bereichen Authentifizierung, Lizenzierung und Integration mit Microsoft 365-Anwendungen verfügen.
-subTitle: 'Diese Prüfung ist nur für Kandidaten bestimmt, die Prüfung 70-345 abgelegt haben: Designing und Deploying Microsoft Exchange Server 2016. Wenn Sie die Prüfung 345 nicht abgelegt haben, erhalten Sie mit dieser Prüfung keine Zertifizierung.'
+subTitle: 'Dieses Examen ist nur für Kandidat*innen vorgesehen, die das Examen 70-345: Entwerfen und Bereitstellen von Microsoft Exchange Server 2016 abgeschlossen haben. Wenn Sie die Exam 345 nicht abgelegt haben, erhalten Sie mit dieser Prüfung keine Zertifizierung.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8R
+scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/
-retirementDate: 09/30/2019
 levels:
 - intermediate
 skills:
-- Verwaltung einer modernen Messaging-Infrastruktur (20-25%)
-- Verwalten der Email-Arbeitsablaufstruktur (5-10%)
-- Verwalten von Empfängern und Geräten (10-15%)
-- Planen und Implementierung einer Hybrid- Konfiguration und Migration (20-25%)
-- Sichern der Messaging-Umgebung (35-40%)
+- Manage modern messaging infrastructure (20-25%)
+- Manage mail flow topology (5-10%)
+- Manage recipients and devices (10-15%)
+- Plan and implement a hybrid configuration and migration (20-25%)
+- Secure the messaging environment (35-40%)
+retirementDate: 09/30/2019
 roles:
 - administrator
+products:
+- m365
 exams:
 - uid: exam.ms-200
 - uid: exam.ms-201
-products:
-- m365
 relatedCertifications:
 - related:
     uid: certification.m365-messaging-administrator
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://aka.ms/TrainingCertDeck
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://aka.ms/traincertposter
 - title: Unterstützung bei Zertifizierungsprüfungen
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.

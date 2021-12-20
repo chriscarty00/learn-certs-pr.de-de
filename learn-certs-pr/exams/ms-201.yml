@@ -1,23 +1,35 @@
 ### YamlMime:Examination
-title: Implementing a Hybrid and Secure Messaging Platform
+title: Implementierung einer hybriden und sicheren Messaging-Plattform
 metadata:
-  title: 'Exam MS-201: Implementing a Hybrid and Secure Messaging Platform'
-  description: 'Exam MS-201: Implementing a Hybrid and Secure Messaging Platform'
+  title: 'Examen MS-201: Implementieren einer hybriden und sicheren Messaging-Plattform'
+  description: 'Examen MS-201: Implementieren einer hybriden und sicheren Messaging-Plattform'
+  ms.openlocfilehash: c35dc11703e683388fa97a57acf5913354fda479
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105706"
 uid: exam.ms-201
 displayName: MS-201
-summary: |-
+summary: >-
   <div>
-  <div><strong>Dieses Examen wird am 31. August 2020 eingestellt. Eine Ersatzprüfung, MS-203, ist verfügbar. Weitere Informationen finden Sie auf der Seite mit den <a href="/learn/certifications/exams/ms-203"> MS-203 Prüfungsdetails</a>.</strong><br/><br/></div>
+
+  <div><strong>Dieses Examen wurde am 31. August 2020 eingestellt. Ein Ersatzexamen, MS-203, ist verfügbar. Weitere Informationen finden Sie auf der <a href="/learn/certifications/exams/ms-203">Examensdetailseite zu MS-203</a>.</strong><br/><br/></div>
+
   </div>
 
-  Kandidaten für dieses examens sind Messaging-Administratoren, die Empfänger, Berechtigungen, E-Mail-Schutz, E-Mail-Fluss und öffentliche Ordner sowohl in lokalen als auch in Cloud-Umgebungen bereitstellen, konfigurieren, verwalten, fehlerbeheben und überwachen.
+
+  Kandidaten für diese Prüfung sind Messaging-Administratoren, die Empfänger, Berechtigungen, E-Mail-Schutz, E-Mail-Fluss und öffentliche Ordner sowohl in lokalen als auch in Cloud-Umgebungen bereitstellen, konfigurieren, verwalten, fehlerbeheben und überwachen.
+
 
   Messaging-Administratoren sind für die Verwaltung von Hygiene, Messaging-Infrastruktur, Hybridkonfiguration, Migration, Disaster Recovery, Hochverfügbarkeit und Client-Zugriff verantwortlich.
 
-  Messaging-Administratoren arbeiten gemeinsam mit dem Security Administrator und Microsoft 365 Enterprise Administrator an der Implementierung einer sicheren Hybrid-Topologie, die den Geschäftsanforderungen eines modernen Unternehmens entspricht.
+
+  Messaging-Administratoren arbeiten gemeinsam mit dem SecurityAdministrator und Microsoft 365 Enterprise Administrator an der Implementierung einer sicheren Hybrid-Topologie, die den Geschäftsanforderungen eines modernen Unternehmens entspricht.
+
 
   Der Messaging-Administrator sollte über gute Kenntnisse in den Bereichen Authentifizierung, Lizenzierung und Integration mit Microsoft 365-Anwendungen verfügen.
-subTitle: 'dieses examens misst Ihre Fähigkeit, folgende technische Aufgaben zu erfüllen: Planung und Implementierung einer hybriden Konfiguration und Migration, Sicherung der Messaging-Umgebung und Verwaltung der organisatorischen Einstellungen.'
+subTitle: 'Diese Prüfung misst Ihre Fähigkeit, folgende technische Aufgaben zu erfüllen: Planung und Implementieren einer hybriden Konfiguration und Migration, Sicherung der Messagingumgebung und Verwaltung der organisatorischen Einstellungen.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk9
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -26,9 +38,9 @@ locales:
 levels:
 - intermediate
 skills:
-- Planen und Implementieren einer Hybrid- Konfiguration und Migration (35-40%)
-- Sichern der Messaging-Umgebung (40-45%)
-- Organisatorische Einstellungen verwalten (15-20%)
+- Plan and implement a hybrid configuration and migration (35-40%)
+- Secure the messaging environment (40-45%)
+- Manage organizational settings (15-20%)
 retirementDate: 08/31/2020
 roles:
 - administrator
@@ -36,19 +48,16 @@ products:
 - m365
 exams:
 - uid: exam.ms-200
-courses:
-- uid: course.ms-201t01
-- uid: course.ms-201t02
 relatedCertifications:
 - related:
     uid: none
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
@@ -64,4 +73,3 @@ resources:
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
-

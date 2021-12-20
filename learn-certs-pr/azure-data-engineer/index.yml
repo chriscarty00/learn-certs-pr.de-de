@@ -3,26 +3,34 @@ title: 'Microsoft Certified: Azure Data Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Engineer Associate'
   description: Azure Data Engineers integrieren, transformieren und konsolidieren Daten aus verschiedenen strukturierten und unstrukturierten Datensystemen in Strukturen, die für die Erstellung von Analyselösungen geeignet sind.
+  ms.openlocfilehash: 6c5abf2ecb3efc01b05936bbea8895bd81b20eaf
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132111008"
 uid: certification.azure-data-engineer
 certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-  
-  Ein Kandidat für die Azure Data Engineer Associate-Zertifizierung sollte über Fachkenntnisse verfügen, um Daten aus verschiedenen strukturierten und unstrukturierten Datensystemen in Strukturen zu integrieren, zu transformieren und zu konsolidieren, die für die Erstellung von Analyselösungen geeignet sind.
-  
-  Zu den Aufgaben für diese Rolle gehört es, den Interessenvertretern zu helfen, die Daten durch Exploration, Aufbau und Wartung sicherer und konformer Datenverarbeitungs-Pipelines mit Hilfe verschiedener Tools und Techniken zu verstehen. Dieser Fachmann verwendet verschiedene Azure-Datenservices und -Sprachen, um bereinigte und erweiterte Datasets für die Analyse zu speichern und zu erstellen.
-  
-  Ein Azure-Dateningenieur stellt außerdem sicher, dass Datenpipelines und Datenspeicher unter bestimmten geschäftlichen Anforderungen und Einschränkungen leistungsstark, effizient, organisiert und zuverlässig sind. Dieser Fachmann kümmert sich zeitnah um unerwartete Probleme und minimiert Datenverluste. Ein Azure Dateningenieur entwirft, implementiert, überwacht und optimiert Datenplattformen, um die Anforderungen der Datenpipeline zu erfüllen.
-  
-  Ein Kandidat für diese Zertifizierung muss über fundierte Kenntnisse in Datenverarbeitungssprachen wie SQL, Python oder Scala verfügen und die Muster der Parallelverarbeitung und Datenarchitektur verstehen.
-  
+summary: >-
+  Kandidaten für die Azure Data Engineer Associate-Zertifizierung sollten über Fachkenntnisse zur Integration, Transformation und Zusammenführung von Daten aus verschiedenen strukturierten und unstrukturierten Datensystemen in Strukturen verfügen, die für den Aufbau von Analyselösungen geeignet sind.
+
+
+  Zu den Zuständigkeiten dieser Rolle gehört es, Projektbeteiligten zu helfen, die Daten durch Exploration sowie Konzeption und Pflege sicherer und konformer Datenverarbeitungspipelines mithilfe verschiedener Tools und Techniken zu verstehen. Diese Fachkräfte für Daten nutzen verschiedene Azure-Datendienste und Sprachen, um bereinigte und erweiterte Datasets für die Analyse zu speichern und zu erstellen.
+
+
+  Azure Data Engineers stellen außerdem sicher, dass Datenpipelines und Datenspeicher unter Berücksichtigung einer Reihe von Geschäftsanforderungen und -einschränkungen leistungsstark, effizient, organisiert und zuverlässig sind. Diese Fachkräfte kümmern sich zeitnah um unerwartete Probleme und minimieren Datenverluste. Azure Data Engineers entwerfen, implementieren, überwachen und optimieren außerdem Datenplattformen, damit die Anforderungen der Datenpipeline erfüllt werden.
+
+
+  Kandidaten für diese Zertifizierung müssen über fundierte Kenntnisse über Datenverarbeitungssprachen wie SQL, Python oder Scala verfügen und Muster der Parallelverarbeitung und der Datenarchitektur verstehen.
 subTitle: Azure Data Engineers integrieren, transformieren und konsolidieren Daten aus verschiedenen strukturierten und unstrukturierten Datensystemen in Strukturen, die für die Erstellung von Analyselösungen geeignet sind.
 levels:
 - intermediate
 skills:
-- Entwerfen und Implementieren der Datenspeicherung
-- Entwerfen und Entwickeln der Datenverarbeitung
-- Entwerfen und Implementieren von Datensicherheit
-- Überwachung und Optimierung der Datenspeicherung und Datenverarbeitung
+- Design and implement data storage
+- Design and develop data processing
+- Design and implement data security
+- Monitor and optimize data storage and data processing
 roles:
 - data-engineer
 type: role-based
@@ -71,6 +79,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Freigeben Ihrer Zertifizierungsbadges
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Fordern Sie Ihren Microsoft-Zertifizierungsbadge an, und fügen Sie ihn in LinkedIn oder in Ihrem Lebenslauf und anderem mehr hinzu.
   href: ../badges.md

@@ -1,73 +1,85 @@
 ### YamlMime:Examination
-title: Microsoft Azure Administrator Certification Transition
+title: Microsoft Azure Administrator Zertifizierungsüberführung
 metadata:
-  title: 'Prüfung AZ-102: Microsoft Azure Administrator Certification Transition'
-  description: 'Prüfung AZ-102: Microsoft Azure Administrator Certification Transition'
+  title: 'Examen AZ-102: Microsoft Azure Administrator Certification Transition'
+  description: 'Examen AZ-102: Microsoft Azure Administrator Certification Transition'
+  ms.openlocfilehash: 5fb23df34c0e88767e8b0d94bd294e585f329bb1
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105946"
 uid: exam.az-102
 displayName: AZ-102
 summary: >-
-  <div><strong>DIESE PRÜFUNG WURDE AM 30. JUNI 2019 EINGESTELLT. Hinweis&#58; Prüfungen werden um 23:59 Uhr Central Standard Time</strong></div>
+  <div>
 
-  <br/>
+  <div><strong>DIESES EXAMEN WURDE AM 30. JUNI 2019 EINGESTELLT. Hinweis&#58; Examen werden um 23:59 Uhr Central Standard Time eingestellt.</strong><br/><br/></div>
+
+  </div>
 
 
-  Diese Prüfung ist nur für diejenigen Kandidaten bestimmt, die [Prüfung 70-533](https://www.microsoft.com/learning/exam-70-533.aspx) abgelegt haben&#58; Implementing Microsoft Azure Infrastructure Solutions. Wenn Sie die Prüfung 533 nicht absolviert haben, erhalten Sie keine Zertifizierung, wenn Sie diese Prüfung ablegen.
+  Dieses Examen ist nur für Kandidat*innen bestimmt, die „[Examen 70-533](https://www.microsoft.com/learning/exam-70-533.aspx)&#58; Implementing Microsoft Azure Infrastructure Solutions“ abgelegt haben. Wenn Sie Examen 533 nicht abgelegt haben, erhalten Sie mit diesem Examen keine Zertifizierung.
 
 
-  Die Übergangsprüfung richtet sich an Personen, die bereits Fähigkeiten im Content-Bereich nachgewiesen haben, indem sie die bestehende(n) Prüfung(en) bestanden haben, die durch die neue rollenbasierte Zertifizierungsprüfungen ersetzt werden. Sie decken das Missverhältnis zwischen der aktuellen Zertifizierung und dem, was wir von Menschen erwarten, die neue Zertifizierung erhalten, ab. Wir wollen Personen mit dem gleichen Inhalt nicht erneut testen, wenn sie bereits Kompetenz nachgewiesen haben, indem sie die bestehende Prüfung bestanden haben.
+  Die Übergangsprüfung richtet sich an Personen, die bereits Fähigkeiten im Content-Bereich nachgewiesen haben, indem sie die bestehende(n) Prüfung(en) bestanden haben, die durch die neue rollenbasierte Zertifizierungsprüfungen ersetzt werden. Sie behandeln den Bereich zwischen der aktuellen Zertifizierung und dem, was von Personen, die die neue Zertifizierung erhalten, an Fähigkeiten erwartet wird. Personen sollen nicht wieder über dieselben Inhalten geprüft werden, in denen sie sich bereits durch Bestehen des aktuellen Examens als kompetent erwiesen haben.
 
 
   Die Übergangsprüfung umfasst neue Nettoinhalte, weitere Inhalte, die nicht ausreichend vertieft wurden, und Inhalte zu Aspekten der Technologie, die sich wahrscheinlich seit der Teilnahme an der Prüfung geändert haben. Infolgedessen ist die Übergangsprüfung nicht kürzer als eine typische Prüfung, sondern konzentriert sich mehr auf die Schlüsselaufgaben und -fähigkeiten, die in der bestehenden Prüfung oder der zu ersetzenden Zertifizierung nicht bewertet wurden.
 
 
-  Kandidaten für diese Prüfung sind Azure-Administratoren, die Cloud-Services verwalten, die Speicher-, Sicherheits-, Netzwerk- und Cloud-Funktionen umfassen. Kandidaten haben ein tiefes Verständnis für jeden Service über den gesamten IT-Lebenszyklus hinweg und nehmen Anfragen für Infrastrukturdienste, Anwendungen und Umgebungen entgegen. Sie geben Empfehlungen zur Nutzung von Diensten für eine optimale Leistung und Skalierung sowie zur Bereitstellung, Größe, Überwachung und Anpassung von Ressourcen.
+  Kandidaten für dieses examens sind Azure-Administratoren, die Cloud-Services verwalten, die Speicher-, Sicherheits-, Netzwerk- und Cloud-Funktionen umfassen. Kandidaten haben ein tiefes Verständnis für jeden Service über den gesamten IT-Lebenszyklus hinweg und nehmen Anfragen für Infrastrukturdienste, Anwendungen und Umgebungen entgegen. Sie geben Empfehlungen zur Nutzung von Diensten für eine optimale Leistung und Skalierung sowie zur Bereitstellung, Größe, Überwachung und Anpassung von Ressourcen.
 
 
   Kandidaten für diese Prüfung sollten über Kenntnisse im Umgang mit PowerShell und der Befehlszeilenoberfläche verfügen. Kandidaten sollten grundlegende Kenntnisse über Azure Portal, ARM-Vorlagen, Betriebssysteme, Virtualisierung, Cloud-Infrastruktur, Speicherstrukturen und Netzwerke haben.
-subTitle: 'Diese Prüfung ist nur für Kandidaten bestimmt, die abgelegt haben Prüfung 70-533: Implementing Microsoft Azure Infrastructure Solutions. Wenn Sie die Prüfung 533 nicht abgelegt haben, erhalten Sie mit dieser Prüfung keine Zertifizierung.'
+subTitle: 'Dieses Examen ist nur für Kandidat*innen bestimmt, die „Examen 70-533: Implementing Microsoft Azure Infrastructure Solutions“ abgelegt haben. Wenn Sie Examen 533 nicht abgelegt haben, erhalten Sie mit diesem Examen keine Zertifizierung.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwA
 practiceTestUrl: https://www.mindhub.com/product-p/mu-az-102_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/
 levels:
 - intermediate
 skills:
-- Verwaltung von Azure-Abonnements und Ressourcen (5-10%)
-- Implementierung und Verwaltung von Speicherplatz (5-10%)
-- Virtuelle Netzwerke konfigurieren und verwalten (15-20%)
-- Identitäten verwalten (15-20%)
-- Evaluierung und Durchführung der Server-Migration nach Azure (15-20%)
-- Implementierung und Verwaltung von Anwendungsdiensten (5-10%)
-- Implementierung eines erweiterten virtuellen Netzwerks (5-10%)
-- Identitäten sichern (5-10%)
+- Manage Azure subscriptions and resources (5-10%)
+- Implement and manage storage (5-10%)
+- Configure and manage virtual networks (15-20%)
+- Manage identities (15-20%)
+- Evaluate and perform server migration to Azure (15-20%)
+- Implement and manage application services (5-10%)
+- Implement advanced virtual networking (5-10%)
+- Secure identities (5-10%)
+retirementDate: 06/30/2019
 roles:
 - administrator
+products:
+- azure
 exams:
 - uid: exam.az-100
 - uid: exam.az-101
-products:
-- azure
 relatedCertifications:
 - related:
     uid: certification.azure-administrator
 resources:
 - title: Lernpfad zur Zertifizirung
-  description: 'Entdecken Sie die Schulungsressourcen, um Microsoft Certified: Azure Administrator Associate zu werden.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
+  description: 'Entdecken Sie Schulungsressourcen, um die Zertifizierung „Microsoft Certified: Azure Administrator Associate“ zu erlangen.'
+  href: https://aka.ms/AzureAdminInfographic
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://aka.ms/TrainingCertDeck
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://aka.ms/traincertposter
 - title: Unterstützung bei Zertifizierungsprüfungen
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.

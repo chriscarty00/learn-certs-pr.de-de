@@ -1,19 +1,25 @@
 ### YamlMime:Course
-title: Universelle Ressourcenplanung für Dynamics 365 für den Außendienst
+title: Universal Resource Scheduling for Dynamics 365 for Field Service
 metadata:
-  title: 'Kurs MB-240T03-A: Universelle Ressourcenplanung für Dynamics 365 für den Außendienst'
-  description: 'Kurs MB-240T03-A: Universelle Ressourcenplanung für Dynamics 365 für den Außendienst'
+  title: 'Kurs MB-240T03-A: Universal Resource Scheduling for Dynamics 365 for Field Service'
+  description: 'Kurs MB-240T03-A: Universal Resource Scheduling for Dynamics 365 for Field Service'
+  ms.openlocfilehash: f462ad0eefe819e2994bb7aa4e51832f03ea9d0f
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107378"
 uid: course.mb-240t03
-courseNumber: 'MB-240T03-A'
+courseNumber: MB-240T03-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Kernkomponenten identifizieren, die zum Planen von Artikeln verwendet werden.
-- skill: Eine Anwendung so zu konfigurieren, dass man sie für Planungsfunktionen am besten nutzen kann.
-- skill: Planungsfunktionen nutzen, um Ressourcen für die Arbeit zu lokalisieren und zu planen.
-- skill: Eine Anwendung so anpassen, dass sie die organisatorischen Anforderungen bestens erfüllt.
-- skill: Entwickeln von Lösungen, mit denen Sie einzelne oder mehrere Ressourcen planen können.
-- skill: Identifizieren der Erweiterungsoptionen, die im Rahmen der universellen Ressourcenplanung verfügbar sind.
+- skill: Identifizieren Sie die Kernkomponenten, die zum Planen von Elementen verwendet werden.
+- skill: Konfigurieren Sie die Anwendung, um die Planungsfeatures optimal zu nutzen.
+- skill: Nutzen Sie Planungsfeatures, um nach Ressourcen für die Arbeit zu suchen und diese einzuplanen.
+- skill: Passen Sie die Anwendung so an, dass sie die Anforderungen der Organisation am besten erfüllt.
+- skill: Entwickeln Sie Lösungen, die zum Planen einzelner oder mehrerer Ressourcen verwendet werden können.
+- skill: Identifizieren Sie die Erweiterungsoptionen, die im Rahmen von Universal Resource Scheduling verfügbar sind.
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -22,46 +28,63 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-field-service
 exams:
 - uid: exam.mb-240
-summary: |-
-  Jede Organisation, die Ressourcen zur Ausführung von Diensten benötigt, muss in der Lage sein, auf der Grundlage von Anforderungen, die durch die organisatorischen Anforderungen definiert werden, effizient zu identifizieren und zu planen. Mit der universellen Lösung zur Ressourcenplanung von Dynamics 365 können Unternehmen diese Ressourcen durch Bereitstellen eines konfigurierbaren Toolsets effektiver verwalten und planen.
+summary: "Jede Organisation, die Ressourcen zum Ausführen von Diensten benötigt, muss in der Lage sein, die Ressourcen basierend auf den jeweiligen Anforderungen, die durch die Erfordernisse der Organisation vorgegeben sind, effizient zu identifizieren und einzuplanen. Mit der Lösung Universal Resource Scheduling von Dynamics 365 können Organisationen diese Ressourcen effektiver verwalten und planen, da durch die Lösung ein konfigurierbares Toolset bereitgestellt wird.\n\nIn diesem Kurs werden die Teilnehmer mit den Qualifikationen ausgestattet, die sie benötigen, um die Tools zu konfigurieren und zu nutzen, die zur effizienteren Verwaltung von Ressourcen der Organisation verfügbar sind. Zu den wichtigsten Themen gehören die Ermittlung des Ausgangspunkts sowie die organisationsbezogenen Überlegungen, die Entscheidungen hinsichtlich der Ressourcenplanung beeinflussen. Ein Hauptfokus liegt auf der optimalen Nutzung der Tools, die zum Suchen und Planen von Ressourcen verfügbar sind, z. B. die Verwendung der Zeitplanübersicht und des Zeitplan-Assistenten. Darüber hinaus werden Anpassungsszenarios untersucht, z. B. das Aktivieren von Elementen für die Planung, das Festlegen von Optionen für die Zeitplanübersicht, das Arbeiten mit mehreren Zeitplanübersichten und das Erweitern der grundlegenden Planungsfeatures.     \n\nDieser Kurs hilft den Teilnehmern, besser zu verstehen, was für Organisationen bei der Planung von Ressourcen wichtig ist, und ist auf Überlegungen hinsichtlich der Implementierung konzentriert, die beim Entwerfen effizienterer Lösungen helfen, die den Kunden- und Organisationszielen entsprechen. "
+prerequisitesSection: Grundlegende Kenntnisse zu Features, Funktionen und zur Navigation in Dynamics 365.
+outlineSection: >-
+  ### <a name="module--158-universal-resource-scheduling"></a>Modul 1: Universal Resource Scheduling
 
-  Dieser Kurs vermittelt den Teilnehmern die erforderlichen Kenntnisse, um die verfügbaren Tools für eine effizientere Verwaltung der Organisationsressourcen zu konfigurieren und zu nutzen. Zentrale Themen sind zu identifizieren, z.B. wo man beginnen soll, sowie organisatorische Überlegungen, die Entscheidungen zur Ressourcenplanung Entscheidungen antreiben. Das Hauptaugenmerk wird darauf gerichtet sein, wie die Tools, die zum Lokalisieren und Planen von Ressourcen zur Verfügung stehen, am besten genutzt werden können, z. B. mit Hilfe der Planungstafel und des Planungsassistenten. Darüber hinaus werden Anpassungsszenarien untersucht, wie z. B. das Aktivieren von Zeitplanelementen, das Definieren von Zeitplanoptionen, das Arbeiten mit mehreren Zeitplanelementen und das Erweitern der zentralen Zeitplanfunktionen.     
+  #### <a name="lessons"></a>Lektionen
 
-  Dieser Kurs hilft den Studenten, besser zu verstehen, was für Organisationen beim Planen von Ressourcen wichtig ist, und konzentriert sich auf Aspekte der Umsetzung, die beim Entwerfen effizienterer Lösungen helfen, die mit Kunden- und Organisationszielen in Einklang stehen.
-prerequisitesSection: |-
-  Grundlegendes Verständnis der Eigenschaften, Funktionen und Navigation von Dynamics 365.
-outlineSection: |-
-  ### Modul 1&#58; Universelle Ressourcenplanung
-  #### Lektionen
-  - Universelle Ressourcenplanung  (URS) - Überblick und Konfiguration
-  - Entitäten für URS aktivieren
+  - Universal Resource Scheduling (URS) – Übersicht und Konfiguration
+
+  - Aktivieren von Entitäten für URS
+
   - Überlegungen zur Anpassung und Automatisierung von Entitäten
 
 
-  ### Modul 2&#58; Verwalten von Planungsoptionen
-  #### Lektionen
-  - Verwenden der Planungstafel
-  - Positionen planen
-  - Neuplanung und Ressourcen austauschen
-  - Crew und Ressourcenpool-Planung
+
+  ### <a name="module--258-managing-scheduling-options"></a>Modul 2: Verwalten von Planungsoptionen
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Verwenden der Zeitplanübersicht
+
+  - Planen von Elementen
+
+  - Umplanen und Ersetzen von Ressourcen
+
+  - Planen von Team- und Ressourcenpools
 
 
-  ### Modul 3&#58; Anpassen der Planungstafel
-  #### Lektionen
-  - Konfigurieren der Planungstafel
-  - Erstellen zusätzlicher Planungstafeln
-  - Dynamics 365-Ansichten mit der Planungstafel nutzen
-  - Konfigurieren der Planungstafel-Abfragen und Filter
+
+  ### <a name="module--358-customizing-the-schedule-board"></a>Modul 3: Anpassen der Zeitplanübersicht
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Konfigurieren der Zeitplanübersicht
+
+  - Erstellen zusätzlicher Zeitplanübersichten
+
+  - Nutzen von Dynamics 365-Ansichten mit der Zeitplanübersicht
+
+  - Konfigurieren von Abfragen und Filtern für die Zeitplanübersicht
+
   - Arbeiten mit Anforderungsgruppen
 
 
-  ### Modul 4&#58; Optimierung der Ressourcenplanung
-  #### Lektionen
-  - Übersicht über die Optimierung der Ressourcenplanung
-  - Definition von Optimierungszielen
-  - Definition von Optimierungsrahmen
+
+  ### <a name="module--458-resource-scheduling-optimization"></a>Modul 4: Resource Scheduling Optimization
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Resource Scheduling Optimization – Übersicht
+
+  - Definieren von Optimierungszielen
+
+  - Definieren des Optimierungsumfangs
+
   - Definieren von Optimierungsprofilen

@@ -1,51 +1,71 @@
 ### YamlMime:Examination
 title: Microsoft Azure Infrastructure and Deployment
 metadata:
-  title: 'Prüfung AZ-100: Microsoft Azure Infrastructure and Deployment'
-  description: 'Prüfung AZ-100: Microsoft Azure Infrastructure and Deployment'
+  title: 'Examen AZ-100: Microsoft Azure Infrastructure and Deployment'
+  description: 'Examen AZ-100: Microsoft Azure Infrastructure and Deployment'
+  ms.openlocfilehash: 6dd59ed8187eb57a39d54a54bdefc5cb852227b1
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105954"
 uid: exam.az-100
 displayName: AZ-100
-summary: "<div><strong>DIESE PRÜFUNG WURDE AM 01. KANN 2019 EINGESTELLT. Hinweis&#58; Prüfungen werden um 23:59 Uhr Central Standard Time</strong></div>\n<br/>   \nKandidaten für diese Prüfung sind Azure-Administratoren, die Cloud-Services verwalten, die Speicher-, Sicherheits-, Netzwerk- und Cloud-Funktionen umfassen. Die Kandidaten haben ein tiefes Verständnis für den jeweiligen Service über den gesamten IT-Lebenszyklus hinweg und nehmen Anfragen nach Infrastrukturdiensten, Anwendungen und Umgebungen entgegen. Sie geben Empfehlungen zur Nutzung von Diensten für eine optimale Leistung und Skalierung sowie zur Bereitstellung, Größe, Überwachung und Anpassung von Ressourcen. Die Kandidaten für diese Prüfung sollten über Kenntnisse in der Verwendung von PowerShell, der Befehlszeilenschnittstelle, dem Azure Portal, ARM-Vorlagen, Betriebssystemen, Virtualisierung, Cloud-Infrastruktur, Speicherstrukturen und Netzwerken verfügen."
+summary: >-
+  <div>
+
+  <div><strong>DIESES EXAMEN WURDE AM 1. MAI 2019 EINGESTELLT. Hinweis: Examen werden um 23:59 Uhr Central Standard Time eingestellt.</strong></div>
+
+  <br/>
+
+  </div>
+
+
+  Kandidaten für dieses examens sind Azure-Administratoren, die Cloud-Services verwalten, die Speicher-, Sicherheits-, Netzwerk- und Cloud-Funktionen umfassen. Kandidaten haben ein tiefes Verständnis für jeden Service über den gesamten IT-Lebenszyklus hinweg und nehmen Anfragen für Infrastrukturdienste, Anwendungen und Umgebungen entgegen. Sie geben Empfehlungen zur Nutzung von Diensten für eine optimale Leistung und Skalierung sowie zur Bereitstellung, Größe, Überwachung und Anpassung von Ressourcen. Die Kandidaten für dieses examens sollten über Kenntnisse in der Verwendung von PowerShell, der Befehlszeilenschnittstelle, dem Azure Portal, ARM-Vorlagen, Betriebssystemen, Virtualisierung, Cloud-Infrastruktur, Speicherstrukturen und Netzwerken verfügen.
 subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Verwaltung von Azure-Abonnements und -Ressourcen, Implementierung und Verwaltung von Speicher, Bereitstellung und Verwaltung virtueller Maschinen (VMs), Konfiguration und Verwaltung virtueller Netzwerke und Verwaltung von Identitäten.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRLp
 practiceTestUrl: https://www.mindhub.com/AZ-100-Microsoft-Azure-Infrastructure-Deployment-p/mu-az-100_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/
 levels:
 - intermediate
 skills:
-- Verwaltung von Azure-Abonnements und Ressourcen (15-20%)
-- Implementierung und Verwaltung von Speicherplatz (20-25%)
-- Bereitstellen und Verwalten von virtuellen Maschinen (VMs) (20-25%)
-- Virtuelle Netzwerke konfigurieren und verwalten (20-25%)
-- Identitäten verwalten (15-20%)
+- Manage Azure subscriptions and resources (15-20%)
+- Implement and manage storage (20-25%)
+- Deploy and manage virtual machines (VMs) (20-25%)
+- Configure and manage virtual networks (20-25%)
+- Manage identities (15-20%)
+retirementDate: 05/01/2019
 roles:
 - administrator
+products:
+- azure
 exams:
 - uid: exam.az-101
 - uid: exam.az-102
-products:
-- azure
 relatedCertifications:
 - related:
     uid: certification.azure-administrator
 resources:
 - title: Lernpfad zur Zertifizirung
-  description: 'Entdecken Sie die Schulungsressourcen, um Microsoft Certified: Azure Administrator Associate zu werden.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
+  description: 'Entdecken Sie Schulungsressourcen, um die Zertifizierung „Microsoft Certified: Azure Administrator Associate“ zu erlangen.'
+  href: https://aka.ms/AzureAdminInfographic
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://aka.ms/TrainingCertDeck
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://aka.ms/traincertposter
 - title: Unterstützung bei Zertifizierungsprüfungen
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.

@@ -2,25 +2,36 @@
 title: 'Microsoft Certified: Power Platform Solution Architect Expert'
 metadata:
   title: 'Microsoft Certified: Power Platform Solution Architect Expert'
-  description: Power Platform Solution Architect Experts arbeiten mit Interessenvertretern zusammen und konzentrieren sich auf Lösungen, die sich auf die allgemeinen geschäftlichen und technischen Anforderungen ihres Unternehmens auswirken. Sie verfügen über funktionale und technische Kenntnisse in Bezug auf Power-Power Platform, Dynamics 365-Apps zur Kundenbindung, verwandte Microsoft cloud-Lösungen und Technologien von Drittanbietern.
+  description: Power Platform Solution Architect-Experten arbeiten mit Projektbeteiligten zusammen und konzentrieren sich auf Lösungen, die sich auf die allgemeinen geschäftlichen und technischen Anforderungen ihrer Organisation auswirken. Kandidaten verfügen über funktionale und technische Kenntnisse über Power Platform, Dynamics 365-Apps für Kundenbindung, zugehörige Microsoft-Cloudlösungen und Technologien von Drittanbietern.
+  ms.openlocfilehash: 9af26f94a68041c7e09b364a7e1c166fbfefff70
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132111800"
 uid: certification.power-platform-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Wenn Sie Ihr Fachwissen als Microsoft Power Platform-oder Microsoft Dynamics 365-Lösungsarchitekt unter Beweis stellen möchten oder wenn Sie Entwickler oder leitender Berater sind, der bereit ist, den nächsten Schritt zum Lösungsarchitekten zu unternehmen, kann Ihnen diese Experten-Zertifizierung helfen, Ihre Karriere voran zu bringen.
-  
-  Als Kandidat für die Power Platform Solution Architect Expert-Zertifizierung arbeiten Sie mit Stakeholdern zusammen und konzentrieren sich auf Lösungen, die sich auf die allgemeinen geschäftlichen und technischen Anforderungen Ihres Unternehmens auswirken. Sie verfügen über funktionale und technische Kenntnisse in Bezug auf Power Platform, Dynamics 365 -Apps zur Kundenbindung, verwandte Microsoft cloud-Lösungen und Technologien von Drittanbietern. Für diese Zertifizierung benötigen Sie mindestens 1 bis 3 Jahre Erfahrung als Power Platform-Lösungsarchitekt oder 7 bis 10 Jahre als Senior Consultant oder Entwickler sowie umfassende Kenntnisse der Power Platform-Architektur.
-  
-  Wenn Sie zusätzliche Erfahrung benötigen, bevor Sie diese Zertifizierung beantragen, finden Sie hier einige Vorschläge&#58;
+summary: >-
+  Wenn Sie Ihr Fachwissen als Microsoft Power Platform- oder Microsoft Dynamics 365-Lösungsarchitekt nachweisen möchten oder ein Entwickler oder leitender Berater sind, der bereit ist, den nächsten Schritt zum Lösungsarchitekten zu unternehmen, kann diese Expertenzertifizierung Ihnen helfen, Ihre Karriere voranzubringen.
+
+
+  Als Kandidat für die Power Platform Solution Architect Expert-Zertifizierung arbeiten Sie mit Projektbeteiligten zusammen und konzentrieren sich auf Lösungen, die sich auf die allgemeinen geschäftlichen und technischen Anforderungen Ihres Unternehmens auswirken. Sie verfügen über funktionale und technische Kenntnisse über Power Platform, Dynamics 365-Apps für Kundenbindung, zugehörige Microsoft-Cloudlösungen und Technologien von Drittanbietern. Für diese Zertifizierung benötigen Sie mindestens 1 bis 3 Jahre Erfahrung als Power Platform-Lösungsarchitekt oder 7 bis 10 Jahre Erfahrung als leitender Berater oder Entwickler sowie umfassende Kenntnisse über die Power Platform-Architektur.
+
+
+  Wenn Sie zusätzliche Erfahrung benötigen, bevor Sie versuchen, diese Zertifizierung zu erlangen, finden Sie nachstehend einige Vorschläge:
+
   - Arbeiten Sie als Lösungsarchitekt (oder schauen Sie einem über die Schulter) an Power Platform-Projekten.
-  - Melden Sie sich für einen von einem Dozenten geleiteten Schulungskurs an.
-  - Untersuchen Sie die verfügbaren Lernpfade in [Microsoft Learn](/learn/paths/become-solution-architect/).
-subTitle: Power Platform Solution Architect Experts arbeiten mit Interessenvertretern zusammen und konzentrieren sich auf Lösungen, die sich auf die allgemeinen geschäftlichen und technischen Anforderungen ihres Unternehmens auswirken. Sie verfügen über funktionale und technische Kenntnisse in Bezug auf Power-Power Platform, Dynamics 365-Apps zur Kundenbindung, verwandte Microsoft cloud-Lösungen und Technologien von Drittanbietern.
+
+  - Melden Sie sich zu einem Präsenzschulungskurs an.
+
+  - Machen Sie sich mit den Lernpfaden vertraut, die auf [Microsoft Learn](/learn/paths/become-solution-architect/) verfügbar sind.
+subTitle: Power Platform Solution Architect-Experten arbeiten mit Projektbeteiligten zusammen und konzentrieren sich auf Lösungen, die sich auf die allgemeinen geschäftlichen und technischen Anforderungen ihrer Organisation auswirken. Kandidaten verfügen über funktionale und technische Kenntnisse über Power Platform, Dynamics 365-Apps für Kundenbindung, zugehörige Microsoft-Cloudlösungen und Technologien von Drittanbietern.
 levels:
 - advanced
 skills:
-- Führen Sie Lösungsvorstellungen und Anforderungsanalysen durch
-- Entwerfen Sie eine Lösung
-- Implementieren Sie die Lösung
+- Perform solution envisioning and requirement analyses
+- Architect a solution
+- Implement the solution
 roles:
 - developer
 - functional-consultant
@@ -45,6 +56,8 @@ products:
 paths:
 - uid: learn-dynamics.become-solution-architect
 - uid: learn-bizapps.solution-architect-design
+courses:
+- uid: course.pl-600t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56P
 exams:
 - uid: exam.pl-600
@@ -75,7 +88,6 @@ resources:
 - title: Unterstützung von Zertifizierungen
   description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Freigeben Ihrer Zertifizierungsbadges
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Fordern Sie Ihren Microsoft-Zertifizierungsbadge an, und fügen Sie ihn in LinkedIn oder in Ihrem Lebenslauf und anderem mehr hinzu.
   href: ../badges.md
-  

@@ -1,10 +1,16 @@
 ### YamlMime:Course
 title: Microsoft Dynamics 365 Field Service
 metadata:
-  title: 'Course MB-240T00-A: Microsoft Dynamics 365 Field Service'
-  description: 'Course MB-240T00-A: Microsoft Dynamics 365 Field Service'
+  title: 'Kurs MB-240T00-A: Microsoft Dynamics 365 Field Service'
+  description: 'Kurs MB-240T00-A: Microsoft Dynamics 365 Field Service'
+  ms.openlocfilehash: 50dc118d31b2441b8573b0e6753753bfc92c05e5
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107410"
 uid: course.mb-240t00
-courseNumber: 'MB-240T00-A'
+courseNumber: MB-240T00-A
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -20,165 +26,284 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-field-service
 exams:
 - uid: exam.mb-240
-summary: |-
+summary: >-
   Dynamics 365 Field Service unterstützt Unternehmen, sich besser auf dem Markt zu positionieren, indem verschiedene Tools bereitgestellt werden, mit denen Ressourcen identifiziert und geplant sowie Arbeitslasten für mobile Mitarbeiter verwaltet werden können. In diesem Kurs werden die Teilnehmer mit den erforderlichen Fähigkeiten ausgestattet, um Schlüsselkomponenten zu identifizieren und zu konfigurieren, die für die Bereitstellung von Außendienst- und mobilen Lösungen verwendet werden. Zu den Hauptthemen gehört die Identifizierung organisatorischer Überlegungen, die zu Konfigurationsentscheidungen und allgemeinen Konfigurationsaspekten führen.
+
   Dieser Kurs hilft den Studenten, das Gesamtbild und die Endziele zu verstehen, die sich auf Implementierungen konzentrieren, die beim Entwerfen effizienterer Lösungen helfen, die mit Kunden- und Organisationszielen in Einklang stehen.
 
-  #### Zielgruppenprofil
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
   Dieser Kurs richtet sich an IT-Experten mit Erfahrung oder Interesse an der Bereitstellung von Field Service-Lösungen für Großkunden.
-outlineSection: |-
-  ### Modul 1&#58; Field Service konfigurieren
+outlineSection: >-
+  ### <a name="module--158-configure-field-service"></a>Modul 1&#58; Konfigurieren von Field Service
+
   In diesem Einführungsmodul werden Schlüsselkonzepte des Dynamics 365 Field Service vorgestellt, einschließlich Produkte, Dienstleistungen und Steuercodes.
-  #### Lektionen
-  - Einführung in das Konfigurieren des Field Services
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung in das Konfigurieren von Field Services
+
   - Definieren von Produkten und Dienstleistungen
-  - Steuerkennzeichen definieren
 
-  Sie werden in der Lage sein&#58;
-  - Produkte und Dienstleistungen zu erstellen und verwalten
-  - Steuerkennzeichen für Ihre Organisation zu konfigurieren
+  - Definieren von Steuerkennzeichen
 
 
-  ### Modul 2&#58; Ressourcenplanung konfigurieren
+  Sie werden in der Lage sein:
+
+  - Erstellen und Verwalten von Produkte und Dienstleistungen
+
+  - Konfigurieren von Steuerkennzeichen für Ihre Organisation
+
+
+
+  ### <a name="module--258-resource-scheduling-configuration"></a>Modul 2&#58; Konfigurieren der Ressourcenplanung
+
   In diesem Modul werden wir das Konzept der Ressourcenplanung untersuchen und lernen, wie Sie das System so konfigurieren, dass Ressourcen effizient geplant werden.
-  #### Lektionen
+
+  #### <a name="lessons"></a>Lektionen
+
   - Mapping- und Standortinformationen
+
   - Konfigurieren von Ressourcenkomponenten
+
   - Definieren von Kontoeinstellungen
 
-  Sie werden in der Lage sein&#58;
-  - Konfigurieren Sie die Ressourcenplanung für Ihre Organisation
-  - Definieren sie Kontoeinstellungen
-  - Aktivieren Sie Location-Mapping
+
+  Sie werden in der Lage sein:
+
+  - Konfigurieren der Ressourcenplanung für Ihre Organisation
+
+  - Definieren von Kontoeinstellungen
+
+  - Aktivieren von Standortmapping
 
 
-  ### Modul 3&#58; Definieren und Konfigurieren von buchbaren Ressourcen
+
+  ### <a name="module--358-defining-and-configuring-bookable-resources"></a>Modul 3&#58; Definieren und Konfigurieren von buchbaren Ressourcen
+
   In diesem Modul erfahren Sie, wie Sie buchbare Ressourcen erstellen und verwalten, einschließlich Ressourcenpools und Crews.
-  #### Lektionen
-  - Buchbare Ressourcen definieren
-  - Ressourcenpools, Crews und Einrichtungen
 
-  Sie werden in der Lage sein&#58;
-  - Definieren Sie buchbare Ressourcen
-  - Erstellen Sie Pools und Crews
-  - Verwalten SIE Einrichtungsdatensätze
+  #### <a name="lessons"></a>Lektionen
+
+  - Definieren von buchbaren Ressourcen
+
+  - Ressourcenpools, Teams und Einrichtungen
 
 
-  ### Modul 4&#58; Vorfälle konfigurieren
+  Sie werden in der Lage sein:
+
+  - Definieren von buchbaren Ressourcen
+
+  - Erstellen von Pools und Teams
+
+  - Verwalten von Einrichtungsdatensätzen
+
+
+
+  ### <a name="module--458-configure-incidents"></a>Modul 4&#58; Konfigurieren von Vorfällen
+
   In diesem Modul lernen wir, wie Vorfälle die Planungseffizienz und -konsistenz Ihres Unternehmens verbessern können.
-  #### Lektionen
+
+  #### <a name="lessons"></a>Lektionen
+
   - Erstellen eines Ereignisses
+
   - Verwenden von Dienstleistungsaufgaben
 
-  Sie werden in der Lage sein&#58;
-  - Erstellen Sie ein Ereignis für allgemeine Serviceaufgaben
-  - Planen Sie anhand von Ereignissen
+
+  Sie werden in der Lage sein:
+
+  - Erstellen eines Vorfalls für allgemeine Dienstleistungsaufgaben
+
+  - Planen anhand von Vorfällen
 
 
-  ### Modul 5&#58; Bestands- und Arbeitsauftragsverwaltung
+
+  ### <a name="module--558-inventory-and-work-order-management"></a>Modul 5&#58; Inventar- und Arbeitsauftragsverwaltung
+
   In diesem Modul erfahren wir, wie man Arbeitsaufträge erstellt und verwendet, um Ressourcen zu planen.
-  #### Lektionen
-  - Konfigurieren sie Field Service-Arbeitsaufträge
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Konfigurieren von Field Service-Arbeitsaufträgen
+
   - Erstellen von Arbeitsaufträgen
-  - Arbeitsaufträge verwalten
 
-  Sie werden in der Lage sein&#58;
-  - Arbeitsaufträge konfigurieren
-  - Planen Sie Ressourcen mit Hilfe von Arbeitsaufträgen
+  - Verwalten von Arbeitsaufträgen
 
 
-  ### Modul 6&#58; Field Service-Vereinbarungen
+  Sie werden in der Lage sein:
+
+  - Konfigurieren von Arbeitsaufträgen
+
+  - Planen von Ressourcen mithilfe von Arbeitsaufträgen
+
+
+
+  ### <a name="module--658-field-service-agreements"></a>Modul 6&#58; Field Service-Vereinbarungen
+
   In diesem Modul werden wir Vereinbarungen vorstellen und lernen, wie man sie für Ihre Organisation konfiguriert.
-  #### Lektionen
-  - Verwendung von Field Service-Vereinbarungen
-  - Buchungen einrichten
-  - Rechnungen erstellen
 
-  Sie werden in der Lage sein&#58;
-  - Verwenden Sie eine Vereinbarung, um Arbeitsaufträge zu planen
-  - Erstellen sie Rechnungen für Kunden
+  #### <a name="lessons"></a>Lektionen
+
+  - Verwenden von Field Service-Vereinbarungen
+
+  - Einrichten von Buchungen
+
+  - Erstellen von Rechnungen
 
 
-  ### Modul 7&#58; Bestand und Einkauf
+  Sie werden in der Lage sein:
+
+  - Verwenden eine Vereinbarung zur Planung von Arbeitsaufträgen
+
+  - Erstellen von Rechnungen für Kunden
+
+
+
+  ### <a name="module--758-inventory-and-purchasing"></a>Modul 7&#58; Inventar und Einkauf
+
   In diesem Modul lernen wir die Verwaltung von Kundenvermögen kennen.
-  #### Lektionen
-  - Kunden-Assets verwalten
-  - Bestand verwalten
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Kundenvermögen verwalten
+
+  - Verwalten des Inventars
+
   - Einkauf und Rückgabe
 
-  Sie werden in der Lage sein&#58;
-  - Erstellen sie Kundendatensätze
-  - Verwalten Sie Inventar, Einkauf und Retouren
+
+  Sie werden in der Lage sein:
+
+  - Erstellen von Kundendatensätzen
+
+  - Verwalten von Inventar, Einkauf und Rückgaben
 
 
-  ### Modul 8&#58; Field Service mobil
+
+  ### <a name="module--858-field-service-mobile"></a>Modul  8&#58; Field Service Mobile
+
   In diesem Modul erfahren wir, wie man die Field Service Mobil-Anwendung für mobile Mitarbeiter verwendet und konfiguriert.
-  #### Lektionen
+
+  #### <a name="lessons"></a>Lektionen
+
   - Übersicht über Mobile-Clients
-  - Installieren und Bereitstellen von mobilen Field-Service - Projekten
+
+  - Installieren und Bereitstellen von Field-Service Mobile-Projekten
+
   - Mobile Projekte verwalten
-  - Den Mobilkunde bereitstellen
 
-  Sie werden in der Lage sein&#58;
+  - Bereitstellen des Mobile-Clients
+
+
+  Sie werden in der Lage sein:
+
   - Mobile Projekte verwalten
-  - Installieren und implementieren Sie den mobilen Client
-  - Beschreiben Sie den Wert der mobilen App für eine mobile Belegschaft
+
+  - Installieren und Implementieren des Mobile-Clients
+
+  - Beschreiben des Werts der mobilen App für Remotemitarbeiter*innen
 
 
-  ### Modul 9&#58; Universelle Ressourcenplanung
+
+  ### <a name="module--958-universal-resource-scheduling"></a>Modul 9&#58; Universelle Ressourcenplanung
+
   In diesem Modul werden wir das Konzept der universellen Ressourcenplanung vorstellen und beschreiben, wie es für eine Organisation genutzt werden kann.
-  #### Lektionen
-  -URS-Übersicht und Konfiguration
-  - Entitäten für URS aktivieren
-  - Passen Sie Entitäten für URS an
 
-  Sie werden in der Lage sein&#58;
-  - Beschreiben sie die universelle Ressourcenplanung
-  - Aktivieren Sie eine Entität für URS
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht und Konfiguration der universellen Ressourcenplanung
+
+  - Aktivieren von Entitäten für die universelle Ressourcenplanung
+
+  - Anpassen von Entitäten für die universelle Ressourcenplanung
 
 
-  ### Modul 10&#58; Verwalten von Planungsoptionen
+  Sie werden in der Lage sein:
+
+  - Beschreiben der universellen Ressourcenplanung
+
+  - Aktivieren einer Entität für die universelle Ressourcenplanung
+
+
+
+  ### <a name="module--1058-managing-scheduling-options"></a>Modul 10&#58; Verwalten von Planungsoptionen
+
   In diesem Modul erfahren wir, wie man mit Hilfe der Zeitplantafel neue Ressourcen planen, ersetzen und Pools und Crews planen kann.
-  #### Lektionen
-  - Verwenden der Planungstafel
-  - Planen Sie Elemente
-  - Neuplanung und Ressourcen austauschen
-  - Crew- und Poolplanung
 
-  Sie werden in der Lage sein&#58;
-  - Konfigurieren und verwenden Sie die Zeitplantafel, um Ressourcen zu planen
-  - Arbeitsaufträge neu planen
-  - Ersetzen sie Ressourcen
+  #### <a name="lessons"></a>Lektionen
+
+  - Verwenden des Planungsboards
+
+  - Planen von Artikeln
+
+  - Neuplanen und Ersetzen von Ressourcen
+
+  - Planung von Teams und Pools
 
 
-  ### Modul 11&#58; Anpassen der Planungstafel
+  Sie werden in der Lage sein:
+
+  - Konfigurieren und Verwenden des Planungsboards für die Ressourcenplanung
+
+  - Neuplanen von Arbeitsaufträgen
+
+  - Ersetzen von Ressourcen
+
+
+
+  ### <a name="module--1158-customizing-the-schedule-board"></a>Modul 11&#58; Anpassen des Planungsboards
+
   In diesem Modul erfahren wir, wie man den Zeitplan so konfiguriert, dass er den Anforderungen der Organisation oder des Planers am besten entspricht.
-  #### Lektionen
-  - Konfigurieren Sie die Tafel
-  - Erstellen zusätzlicher Planungstafeln
-  - Verwenden Sie Ansichten, um den Zeitplan zu erweitern
-  - Konfigurieren sie Abfragen und Filtern für Zeitplanplatinen
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Konfigurieren des Boards
+
+  - Erstellen zusätzlicher Planungsboards
+
+  - Erweitern des Planungsboards mithilfe von Ansichten
+
+  - Konfigurieren von Abfragen und Filtern für das Planungsboard
+
   - Arbeiten mit Anforderungsgruppen
 
-  Sie werden in der Lage sein&#58;
-  - Passen Sie die Zeitplantafel an
-  - Erstellen sie zusätzlicher Zeiplanungstafeln
-  - Fügen Sie einer Zeitplantafel Ansichten hinzu
+
+  Sie werden in der Lage sein:
+
+  - Anpassen des Planungsboards
+
+  - Erstellen zusätzlicher Planungsboards
+
+  - Hinzufügen von Ansichten zu einem Planungsboard
 
 
-  ### Modul 12&#58; Erweiterte Planungsoptionen
+
+  ### <a name="module--1258-advanced-scheduling-options"></a>Modul 12&#58; Erweiterte Planungsoptionen
+
   In diesem Modul werden wir uns eingehender mit den Optionen zum Anpassen der Planung von Arbeitsaufträgen auf der Grundlage einzigartiger Geschäftsanforderungen befassen.
-  #### Lektionen
+
+  #### <a name="lessons"></a>Lektionen
+
   - Arbeiten mit der Optimierung der Ressourcenplanung
+
   - Definition von Optimierungszielen
-  - Definition von Optimierungsrahmen
+
+  - Definieren des Optimierungsumfangs
+
   - Definieren von Optimierungsprofilen
+
   - Einzelressourcenplanung
 
-  Sie werden in der Lage sein&#58;
-  - Definieren Sie die Optimierung für eine Organisation
-  - Planen Sie einzelne Ressourcen
+
+  Sie werden in der Lage sein:
+
+  - Definieren der Optimierung für eine Organisation
+
+  - Planen von einzelnen Ressourcen

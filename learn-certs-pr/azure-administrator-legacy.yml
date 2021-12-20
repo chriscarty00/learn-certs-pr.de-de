@@ -1,28 +1,37 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure Administrator Associate (Historisch)'
+title: 'Microsoft Certified: Azure Administrator Associate (Legacy)'
 metadata:
-  title: 'Microsoft Certified: Azure Administrator Associate (Historisch)'
+  title: 'Microsoft Certified: Azure Administrator Associate (Legacy)'
   description: Azure-Administratoren implementieren, verwalten und überwachen die Microsoft Azure-Umgebung eines Unternehmens.
+  ms.openlocfilehash: 2804af48e44a777ccd54506f0e763302d1a0d1ac
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105475"
 uid: certification.azure-administrator-erlr
-certificationRenewalUid: renewal.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color="#D83B01"><strong>Diese Version der Zertifizierung ist nicht mehr verfügbar. Wenn Sie diese Version der Zertifizierung haben, erhalten Sie automatisch die neueste Version der Zertifizierung.<br/><br/>  Beide Versionen der Zertifizierung werden in Ihren Zertifizierungen aufgeführt. Sie müssen nur die neuere Version erneuern. Sobald die vorherige Version abläuft, wird sie in den Abschnitt mit dem Zertifizierungsverlauf Ihres Transkripts verschoben.<br/><br/></strong></font></div>
-  
+summary: >-
+  <div><font color="#D83B01"><strong>Diese Version der Zertifizierung ist nicht mehr verfügbar. Wenn Sie über diese Version der Zertifizierung verfügen, erhalten Sie automatisch die aktuelle Version der Zertifizierung.<br/><br/>  Beide Versionen werden in Ihren Zertifizierungen aufgeführt. Sie müssen nur die aktuellere Version erneuern. Wenn die vorherige Version abläuft, wird sie in den Abschnitt „Zertifizierungsverlauf“ Ihres Transkripts verschoben.<br/><br/></strong></font></div>
+
+
   Kandidaten für die Azure Administrator Associate-Zertifizierung sollten über Fachkenntnisse in der Implementieren, Verwaltung und Überwachung der Microsoft Azure-Umgebung eines Unternehmens verfügen.
-  
+
+
   Zu den Aufgaben in dieser Position gehören das Implementieren, Verwalten und Überwachen von Identitäts-, Governance-, Speicher-, Compute- und virtuellen Netzwerken in einer Cloud-Umgebung sowie die Bereitstellung, Größe, Überwachung und Anpassung von Ressourcen, je nach Bedarf.
-  
-  Ein Azure-Administrator ist häufig Teil eines größeren Teams, das sich mit der Implementieren der Cloud-Infrastruktur Ihres Unternehmens befasst.
-  
+
+
+  Ein Azure-Administrator fungiert häufig als Teil eines größeren Teams, das mit der Implementierung der Cloudinfrastruktur einer Organisation betraut ist.
+
+
   Ein Kandidat für Diese Zertifizierung sollte mindestens sechs Monate praktische Erfahrung in der Verwaltung von Azure sowie ein umfassendes Verständnis der wichtigsten Azure-Services, Azure-Workloads, Sicherheit und Governance haben. Darüber hinaus sollte man in dieser Rolle Erfahrung mit PowerShell-, Azure CLI-, Azure Portal- und Azure Resource Manager-Vorlagen haben.
 subTitle: Azure-Administratoren implementieren, verwalten und überwachen die Microsoft Azure-Umgebung eines Unternehmens.
 hidden: true
 hideFishboneDiagram: true
 levels:
-- intermediate 
+- intermediate
 skills:
-- Keine 
+- None
 roles:
 - administrator
 type: role-based
@@ -56,10 +65,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElC
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: deals.md
@@ -69,7 +78,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Erhalten Sie Ihren Microsoft-Zertifizierungsbadge, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: badges.md
-

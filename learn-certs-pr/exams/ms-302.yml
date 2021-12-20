@@ -1,49 +1,58 @@
 ### YamlMime:Examination
 title: Microsoft 365 Teamwork Administrator Certification Transition
 metadata:
-  title: 'Prüfung MS-302: Microsoft 365 Teamwork Administrator Certification Transition'
-  description: 'Prüfung MS-302: Microsoft 365 Teamwork Administrator Certification Transition'
+  title: 'Übergangsexamen MS-302: Microsoft 365 Teamwork Administrator Certification'
+  description: 'Übergangsexamen MS-302: Microsoft 365 Teamwork Administrator Certification'
+  ms.openlocfilehash: d6f1fc0a3cfd75f239778c41909c5ddc1cfc0c12
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105683"
 uid: exam.ms-302
 displayName: MS-302
-summary: "<div style='color&#58; red; font-weight&#58; bold;'>DIESE PRÜFUNG WURDE AM 30. SEPTEMBER 2019 EINGESTELLT. Hinweis&#58; Prüfungen werden um 23:59 Uhr Central Standard Time eingestellt.</div> \n<br/>\n\nDiese Prüfung ist nur für Bewerber gedacht, die die [Prüfung 70-339&#58;](https://www.microsoft.com/learning/exam-70-339.aspx) abgelegt haben Managing Microsoft SharePoint Server 2016. Wenn Sie die Prüfung 339 nicht abgelegt haben, erhalten Sie mit dieser Prüfung keine Zertifizierung.\n\nKandidaten für diese Prüfung sind Teamwork Administratoren, die verantwortlich sind für die Konfiguration, Bereitstellung und Verwaltung von Office 365 und Azure Workloads, die den Schwerpunkt legen auf Effizienz und effiziente Zusammenarbeit und Übernahme. Teamwork Administratoren verwalten Apps, Dienste und die unterstützende Infrastruktur, um die Anforderungen des jeweiligen Business zu erfüllen. Der Teamwork Administrator sollte in der Lage sein, SharePoint (online, vor Ort und hybrid), OneDrive und Teams bereitzustellen, zu verwalten, zu übertragen und zu sichern.\n\nDer Teamwork-Administrator ist an Entscheidungen über die Governance beteiligt und arbeitet mit anderen Administratoren zusammen, um viele der Entscheidungen der Führungsgremien umzusetzen. Der Teamwork Administrator arbeitet mit dem Message Administrator zusammen, um Optionen und Sicherheit im Emailbereich zu konfigurieren, und mit dem Voice Administrator, um Sprachfunktionen in den Organisationen einzubinden, sowie dem Sicherheits-Administrator, um die End-to-End Sicherheit zu gewährleisten.\n\nDie Kandidaten für diese Prüfung haben ein grundlegendes Verständnis für Integrationspunkte mit den folgenden Anwendungen und Diensten&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner und Project. Der Administrator kann Drittanbieter-Apps und Dienste inklusive Line-of-Business Apps einbinden. Kandidaten haben ebenfalls Kenntnisse in SQL Servermanagement-Konzepten, Azure Archive Directory, PowerShell, Networking, Windows Server Administration, dem DNS Domain Name System, Active Directory Mobilgerätverwaltung und alternativen Betriebssystemen."
-subTitle: 'Diese Prüfung ist nur für Kandidaten bestimmt, die Prüfung 70-339 abgelegt haben: Managing Microsoft SharePoint Server 2016. Wenn Sie die Prüfung 339 nicht abgelegt haben, erhalten Sie mit dieser Prüfung keine Zertifizierung.'
+summary: "<div>\n<div><strong>DIESES EXAMEN WURDE AM 30. SEPTEMBER 2019 EINGESTELLT. Hinweis: Examen werden um 23:59 Uhr Central Standard Time eingestellt.</strong><br/><br/></div>\n</div>\n    \nDieses Examen war nur für Kandidat*innen vorgesehen, die das [Examen 70-339:](https://www.microsoft.com/learning/exam-70-339.aspx) Managing Microsoft SharePoint Server 2016 abgeschlossen haben. Wenn Sie das Examen 339 nicht abgelegt haben, erhalten Sie durch die Teilnahme an diesem Examen keine Zertifizierung.\n\nKandidaten für dieses examens sind Teamwork Administratoren, die verantwortlich sind für die Konfiguration, Bereitstellung und Verwaltung von Office 365 und Azure Workloads, die den Schwerpunkt legen auf Effizienz und effiziente Zusammenarbeit und Übernahme. Teamwork Administratoren verwalten Apps, Services und die unterstützende Infrastruktur, um die Anforderungen des jeweiligen Unternehmens zu erfüllen. Der Teamwork Administrator sollte in der Lage sein, SharePoint (online, vor Ort und hybrid), OneDrive und Teams bereitzustellen, zu verwalten, zu übertragen und zu sichern.\n\nDer Teamwork-Administrator ist an Entscheidungen über die Governance beteiligt und arbeitet mit anderen Administratoren zusammen, um viele der Entscheidungen der Führungsgremien umzusetzen. Der Teamwork Administrator arbeitet mit dem Message Administrator zusammen, um Optionen und Sicherheit im Emailbereich zu konfigurieren, und mit dem Voice Administrator, um Sprachfunktionen in den Organisationen einzubinden, sowie dem Sicherheits-Administrator, um die End-to-End Sicherheit zu gewährleisten.\n\nDie Kandidaten für diese Prüfung haben ein grundlegendes Verständnis für Integrationspunkte mit den folgenden Anwendungen und Diensten: Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner und Project. Der Administrator weiß wie man Drittanbieter-Apps und Services, inklusive Line-of-Business Apps, einbindet. Kandidaten haben ebenfalls Kenntnisse in SQL Servermanagement-Konzepten, Azure Archive Directory, PowerShell, Networking, Windows Server Administration, dem DNS Domain Name System, Active Directory Mobilgerätverwaltung und alternativen Betriebssystemen."
+subTitle: 'Dieses Examen ist nur für Kandidat*innen vorgesehen, die das Examen 70-339: Managing Microsoft SharePoint Server 2016 abgeschlossen haben. Wenn Sie das Examen 339 nicht abgelegt haben, erhalten Sie durch die Teilnahme an diesem Examen keine Zertifizierung.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC7x
+scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/
-retirementDate: 09/30/2019
 levels:
 - intermediate
 skills:
-- SharePoint Online konfigurieren und verwalten (20-25%)
-- Konfigurieren und Verwalten von OneDrive for Business (20-25%)
-- Konfigurieren und Verwalten von Teams (20-25%)
-- Workload Integration konfigurieren und verwalten (15-20%)
-- Hybrid-Szenarien konfigurieren und verwalten (5-10%)
-- Zu SharePoint Online migrieren (5-10%)
+- Configure and manage SharePoint Online (20-25%)
+- Configure and manage OneDrive for Business (20-25%)
+- Configure and manage Teams (20-25%)
+- Configure and manage workload integrations (15-20%)
+- Configure and manage hybrid scenarios (5-10%)
+- Migrate to SharePoint Online (5-10%)
+retirementDate: 09/30/2019
 roles:
 - administrator
+products:
+- m365
 exams:
 - uid: exam.ms-300
 - uid: exam.ms-301
-products:
-- m365
 relatedCertifications:
 - related:
     uid: certification.m365-teamwork-administrator
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über alle Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://aka.ms/TrainingCertDeck
+- title: Zertifizierungsposter
+  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  href: https://aka.ms/traincertposter
 - title: Unterstützung bei Zertifizierungsprüfungen
-  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.

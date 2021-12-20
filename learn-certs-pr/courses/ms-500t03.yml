@@ -1,10 +1,16 @@
 ### YamlMime:Course
-title: Implementing Microsoft 365 Information Protection
+title: Implementing Microsoft 365 Information Protection
 metadata:
   title: 'Kurs MS-500T03-A: Implementing Microsoft 365 Information Protection'
   description: 'Kurs MS-500T03-A: Implementing Microsoft 365 Information Protection'
+  ms.openlocfilehash: fafab0ff440bd73f90f2fd9c36ee30f1d04e0909
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107042"
 uid: course.ms-500t03
-courseNumber: 'MS-500T03-A'
+courseNumber: MS-500T03-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -12,7 +18,7 @@ skillsGained:
 - skill: Nachrichten in Office 365 sichern.
 - skill: Datenverlust-Präventionsrichtlinien konfigurieren.
 - skill: Bereitstellen und Verwalten der Cloud-App-Sicherheit.
-- skill: Implementieren von Azure-Informationsschutz für Microsoft 365.
+- skill: Implementieren von Azure Information Protection (AIP) für Microsoft 365
 - skill: Implementieren von Windows-Informationsschutz für Geräte.
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -27,90 +33,145 @@ products:
 - office-365
 exams:
 - uid: exam.ms-500
-summary: |-
-  Informationsschutz ist das Konzept der Lokalisierung und Klassifizierung von Daten, wo immer sie sich befinden. In diesem Kurs erfahren Sie mehr über Informationsschutztechnologien, mit denen Sie Ihre Microsoft 365-Umgebung schützen können. In diesem Kurs werden speziell mit Informationsrechten verwaltete Inhalte, Nachrichtenverschlüsselung sowie Beschriftungen, Richtlinien und Regeln behandelt, die die Verhinderung von Datenverlust und den Schutz von Informationen unterstützen. Zuletzt wird die Bereitstellung der Microsoft-Cloud-App-Sicherheit erläutert.
+summary: "Beim Informationsschutz handelt es sich um ein Konzept der Ermittlung und Klassifizierung von Daten an einem beliebigen Ort. In diesem Kurs erfahren Sie mehr über Informationsschutztechnologien, mit denen Sie Ihre Microsoft 365-Umgebung schützen können. In diesem Kurs werden speziell mit Informationsrechten verwaltete Inhalte, Nachrichtenverschlüsselung sowie Beschriftungen, Richtlinien und Regeln behandelt, die die Verhinderung von Datenverlust und den Schutz von Informationen unterstützen. Abschließend wird in dem Kurs die Bereitstellung von Microsoft Cloud App Security erläutert.\n\n#### <a name=\"audience-profile\"></a>Zielgruppenprofil\nDieser Kurs ist für die Rolle des Microsoft 365-Sicherheitsadministrators vorgesehen. Diese Rolle arbeitet mit einem Microsoft 365 Enterprise Administrator, Projektbeteiligten und anderen Workloadadministratoren zusammen, um Sicherheitsstrategien zu planen und umzusetzen und um sicherzustellen, dass die Lösungen den Richtlinien und Vorschriften des Unternehmens entsprechen. \n\nDiese Rolle sichert proaktiv Microsoft 365-Unternehmensumgebungen. Zu den Aufgaben gehören das Reagieren auf Bedrohungen, das Implementieren, Verwalten und Überwachen von Sicherheits- und Compliance-Lösungen für die Microsoft 365-Umgebung. Sie reagieren auf Vorfälle, Untersuchungen und die Durchsetzung von Data Governance.\n\nDer Microsoft 365-Sicherheitsadministrator ist mit Microsoft 365-Workloads vertraut und verfügt über umfassende Kenntnisse und Erfahrungen in den Bereichen Identitätsschutz, Informationsschutz, Bedrohungsschutz, Sicherheitsverwaltung und Datengovernance. Diese Position legt den Schwerpunkt auf Microsoft 365 Umgebungen und umfasst auch hybride Umgebungen."
+prerequisitesSection: >-
+  Die Lernenden sollten diesen Kurs bereits mit den folgenden Fähigkeiten beginnen:
 
-  #### Zielgruppenprofil
-  Dieser Kurs richtet sich an Microsoft 365-Teamwork-Administratoren. Diese Rolle arbeitet mit dem Microsoft 365 Enterprise Administrator, Geschäftsinteressenten und anderen Workload-Administratoren zusammen, um Sicherheitsstrategien zu planen und umzusetzen und um sicherzustellen, dass die Lösungen den Richtlinien und Vorschriften des Unternehmens entsprechen. 
-  
-  Diese Rolle sichert proaktiv Microsoft 365-Unternehmensumgebungen. Zu den Aufgaben gehören das Reagieren auf Bedrohungen, das Implementieren, Verwalten und Überwachen von Sicherheits- und Compliance-Lösungen für die Microsoft 365-Umgebung. Sie reagieren auf Vorfälle, Untersuchungen und die Durchsetzung von Data Governance.
-
-  Der Microsoft 365-Sicherheitsadministrator ist mit Microsoft 365-Arbeitsabläufen vertraut und verfügt über umfassende Kenntnisse und Erfahrungen in den Bereichen Identitätsschutz, Informationsschutz, Bedrohungsschutz, Sicherheitsverwaltung und Datenverwaltung. Die Funktion legt den Schwerpunkt auf Microsoft 365 Umgebungen und umfasst hybride Umgebungen.
-prerequisitesSection: |-
-  Die Lernenden sollten diesen Kurs bereits mit den folgenden Fähigkeiten beginnen&#58;
   - Grundlegendes konzeptionelles Verständnis von Microsoft Azure
-  - Erfahrung mit Windows 10-Geräten
-  - Erfahrung mit Office 365
+
+  - Erfahrung mit Windows 10-Geräten
+
+  - Erfahrung mit Office 365
+
   - Grundlegendes Verständnis von Autorisierung und Authentifizierung
+
   - Grundlegendes Verständnis von Computernetzwerken
+
   - Grundkenntnisse in der Verwaltung mobiler Geräte
-outlineSection: |-
-  ### Modul 1&#58; Informationsschutz
-  In diesem Modul wird die Verwaltung von Informationsrechten in Exchange und SharePoint erläutert. Es werden auch Verschlüsselungstechnologien zum Sichern von Nachrichten beschrieben. Das Modul führt in die Implementierung von Azure Informationsschutz und Windows Informationsschutz ein.
-  #### Lektionen
-  Informationsrechts-Management
-  - Einführung in die sichere Mehrzweck-Internet-Mail-Erweiterung
+outlineSection: >-
+  ### <a name="module--158-information-protection"></a>Modul 1: Information Protection
+
+  In diesem Modul wird die Verwaltung von Informationsrechten in Exchange und SharePoint erläutert. In diesem Modul werden auch Verschlüsselungstechnologien beschrieben, die zur Absicherung von Nachrichten verwendet werden. In dem Modul wird vorgestellt, wie Azure Information Protection und Windows Information Protection implementiert werden.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Information Rights Management
+
+  - Absichern der Multipurpose Internet Mail Extension
+
   - Office 365-Nachrichtenverschlüsselung
-  - Azure Informationsschutz
-  - erweiterten Informationsschutzes
-  - Windows-Informationsschutz
+
+  - Azure Information Protection
+
+  - Erweiterter Informationsschutz
+
+  - Windows Information Protection
 
 
-  #### Labor&#58; Prävention von Datenverlust
-  - Erstellen und lizenzieren von Benutzern in Ihrer Organisation
-  - Konfigurieren einer automatischen MDM-Registrierung
+
+  #### <a name="lab-58-data-loss-prevention"></a>Modul 58: Verhinderung von Datenverlust
+
+  - Erstellen und Lizenzieren von Benutzern in Ihrem Unternehmen
+
+  - Konfigurieren der automatischen MDM-Registrierung
+
   - Konfigurieren von AIP und WIP
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Verschiedene Microsoft 365-Verschlüsselungsoptionen beschreiben.
-  - Die Verwendung von S / MIME beschreiben.
-  - Die Funktionsweise der Office 365-Nachrichtenverschlüsselung beschreiben.
-  - Konfigurieren von Kennzeichnungen und Richtlinien für den Azure Informationsschutz.
-  - Konfigurieren erweiterter AIP-Diensteinstellungen für Rechtsmanagementdienst (RMS) -Vorlagen.
-  - Planen einer Bereitstellung von Windows-Richtlinien für den Informationsschutz.
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Die verschiedenen Microsoft 365-Verschlüsselungsoptionen beschreiben
+
+  - Die Verwendung von S/MIME beschreiben
+
+  - Die Funktionsweise der Office 365-Nachrichtenverschlüsselung erläutern
+
+  - Bezeichnungen und Richtlinien für Azure Information Protection konfigurieren
+
+  - Die erweiterten AIP-Diensteinstellungen für RMS-Vorlagen (Microsoft Rights Management Services) konfigurieren
+
+  - Eine Bereitstellung von Windows Information Protection-Richtlinien planen
 
 
-  ### Modul 2&#58; Prävention von  Datenverlust
-  Dieses Modul befasst sich mit der Prävention von Datenverlust in Microsoft 365.  Sie erfahren, wie man Richtlinien erstellt, Regeln bearbeitet und Benutzerbenachrichtigungen anpasst.
-  #### Lektionen
-  - Erklärung zur Prävention von Datenverlust
-  - Richtlinien zur Prävention von Datenverlust
+
+  ### <a name="module--258-data-loss-prevention"></a>Modul 2: Verhinderung von Datenverlust
+
+  Dieses Modul ist auf die Verhinderung von Datenverlusten in Microsoft 365 konzentriert.  Sie erfahren, wie Sie Richtlinien erstellen, Regeln bearbeiten und Benutzerbenachrichtigungen anpassen können.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Erklärung zur Verhinderung von Datenverlust
+
+  - Richtlinien zur Verhinderung von Datenverlust
+
   - Benutzerdefinierte DLP-Richtlinien
+
   - Erstellen einer DLP-Richtlinie zum Schutz von Dokumenten
+
   - Richtlinientipps
 
 
-  #### Labor&#58; Prävention von Datenverlust
-  - Erstellen und lizenzieren von Benutzern in Ihrer Organisation
-  - Erstellen Sie eine DLP-Richtlinie
+
+  #### <a name="lab-58-data-loss-prevention"></a>Modul 58: Verhinderung von Datenverlust
+
+  - Erstellen und Lizenzieren von Benutzern in Ihrem Unternehmen
+
+  - Erstellen einer DLP-Richtlinie
+
   - Testen von DLP-Richtlinien
 
-  Nach Abschluss dieses Moduls sollten Sie in der Lage sein&#58;
-  - Prävention von Datenverlust (DLP) beschreiben.
-  - Erkennen, wie Aktionen und Bedingungen für DLP zusammenwirken.
-  - Verwenden von Richtlinienvorlagen, um DLP-Richtlinien für häufig verwendete Informationen zu implementieren.
-  - Beschreiben verschiedener integrierter Vorlagen für DLP-Richtlinien.
-  - Konfigurieren von korrekten Regeln zum Schutz von Inhalten.
-  - Beschreiben, wie vorhandene Regeln von DLP-Richtlinien geändert werden.
-  - Konfigurieren einer Option zur Benutzerübersteuerung für eine DLP-Regel.
-  - Beschreiben, wie man mit verwalteten Eigenschaften für DLP-Richtlinien arbeitet.
-  - Erläutern, wie SharePoint Online gecrawlte Eigenschaften aus Dokumenten erstellt.
-  - Beschreiben der Benutzererfahrung, wenn ein Benutzer eine E-Mail mit vertraulichen Informationen erstellt.
+
+  Nach Abschluss dieses Moduls sollten die Kursteilnehmer dazu in der Lage sein:
+
+  - Die Verhinderung von Datenverlust (DLP) zu beschreiben
+
+  - Zu erkennen, wie Aktionen und Bedingungen für DLP zusammenwirken
+
+  - Richtlinienvorlagen zu verwenden, um DLP-Richtlinien für häufig verwendete Informationen zu implementieren
+
+  - Verschiedene integrierte Vorlagen für DLP-Richtlinien zu beschreiben
+
+  - Die richtigen Regeln zum Schutz von Inhalten zu konfigurieren
+
+  - Zu beschreiben, wie vorhandene Regeln von DLP-Richtlinien geändert werden
+
+  - Die Option zur durch einen Benutzer erfolgenden Außerkraftsetzung einer DLP-Regel zu konfigurieren
+
+  - Die Vorgehensweise zum Arbeiten mit verwalteten Eigenschaften für DLP-Richtlinien zu beschreiben
+
+  - Zu erläutern, wie SharePoint Online gecrawlte Eigenschaften aus Dokumenten erstellt
+
+  - Die Benutzererfahrung zu beschreiben, wenn ein Benutzer eine E-Mail mit vertraulichen Informationen erstellt
 
 
-  ### Modul 3&#58; Cloud-Anwendungssicherheit
-  In diesem Modul dreht sich alles um die Sicherheit von Cloud-Apps für Microsoft 365.  Das Modul erläutert die Cloud-Erkennung, App-Connectors, Richtlinien und Warnungen.
-  #### Lektionen
-  - Erklärung der Sicherheit von Cloud-Anwendungen
-  - Verwenden von Sicherheitsinformationen für Cloud-Anwendungen
+
+  ### <a name="module--358-cloud-application-security"></a>Modul 3: Sicherheit von Cloudanwendungen
+
+  In diesem Modul geht es um Cloud App Security für Microsoft 365.  Das Modul erläutert die Cloud-Erkennung, App-Connectors, Richtlinien und Warnungen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Modul 11: Erklärung der Sicherheit von Cloudanwendungen
+
+  - Verwenden von Sicherheitsinformationen für Cloudanwendungen
+
   - Office 365 Cloud App Security
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Beschreiben der Cloud-App-Sicherheit.
-  - Erläutern, wie die Cloud-App-Sicherheit bereitgestellt wird.
-  - Kontrollieren Ihrer Cloud-Apps mit Richtlinien.
-  - Problembehandlung für die Cloud-App-Sicherheit.
-  - Verwenden des Cloud-App-Katalogs.
-  - Verwenden des Cloud-Discovery-Dashboards.
-  - Bereiten Sie sich auf die Office 365 Cloud-App-Sicherheit vor.
-  - Verwalten von Cloud-App-Berechtigungen.
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Cloud App Security beschreiben
+
+  - Die Bereitstellung von Cloud App Security erläutern
+
+  - Cloud-Apps mit Richtlinien steuern
+
+  - Die Problembehandlung für Cloud App Security durchführen
+
+  - Den Cloud-App-Katalog verwenden
+
+  - Das Cloud Discovery-Dashboard verwenden
+
+  - Die Vorbereitung für Office 365 Cloud App Security durchführen
+
+  - Berechtigungen für Cloud-Apps verwalten

@@ -1,18 +1,24 @@
 ### YamlMime:Course
 title: Protecting Windows 10
 metadata:
-  title: 'Kurs MD-100T03-A: Protecting Windows 10'
-  description: 'Kurs MD-100T03-A: Protecting Windows 10'
+  title: 'Kurs MD-100T03-A: Protecting Windows 10'
+  description: 'Kurs MD-100T03-A: Protecting Windows 10'
+  ms.openlocfilehash: 2e218968b99883f7ed401244ec39ce9b83d677ce
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107178"
 uid: course.md-100t03
-courseNumber: 'MD-100T03-A'
+courseNumber: MD-100T03-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Beschreiben der Methoden zur Sicherung von Windows 10
+- skill: Beschreiben der Methoden zum Absichern von Windows 10
 - skill: Konfigurieren des Kontozugriffs und der Authentifizierung
 - skill: Konfigurieren von Datei- und Ordnerberechtigungen
-- skill: Sicherheitsrichtlinien erstellen
-- skill: Beschreiben Sie gemeinsame Bedrohungen und Methoden zu deren Eindämmung
+- skill: Erstellen von Sicherheitsrichtlinien
+- skill: Beschreiben gängiger Bedrohungen und Methoden zur Risikominderung
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -25,83 +31,138 @@ products:
 - windows
 exams:
 - uid: exam.md-100
-summary: |-
-  In diesem Kurs lernen die Teilnehmer, wie sie das Windows 10 Betriebssystem sichern und die Daten auf dem Gerät schützen können. Die Teilnehmer werden in gängige Methoden zur Authentifizierung und Zugangskontrolle eingeführt. In diesem Kurs lernen Sie, wie Sie Datei- und Ordnerberechtigungen konfigurieren und Sicherheitsrichtlinien erstellen. Die Teilnehmer werden auch in die verschiedenen Arten von externen Bedrohungen eingeführt und erfahren, wie Funktionen wie Verschlüsselung und Firewalls sowie Tools wie Windows Defender genutzt werden können.
+summary: >-
+  In diesem Kurs erfahren die Teilnehmer, wie Sie das Betriebssystem Windows 10 und die Daten auf dem jeweiligen Gerät schützen. Die Kursteilnehmer werden mit gängigen Methoden für Authentifizierung und Zugriffssteuerung vertraut gemacht. In diesem Kurs erfahren Sie, wie Sie Datei- und Ordnerberechtigungen konfigurieren und Sicherheitsrichtlinien erstellen. Außerdem lernen die Kursteilnehmer die verschiedenen Arten von externen Bedrohungen und die Nutzung von Features wie Verschlüsselung und Firewalls sowie Tools wie Windows Defender kennen.
 
-  #### Zielgruppenprofil
-  Die Prüfung wird von IT-Fachleuten abgelegt, die Installation, Konfiguration, allgemeine lokale Verwaltung und Wartung der Windows 10-Kerndienste durchführen. Die Kandidaten können auch mit Unternehmensszenarien und Cloud-integrierten Diensten vertraut sein.
-prerequisitesSection: |-
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+  Die Prüfung wird von IT-Fachleuten abgelegt, die Installation, Konfiguration, allgemeine lokale Verwaltung und Wartung der Windows 10-Kerndienste durchführen. Die Prüfungskandidaten sind möglicherweise auch mit Unternehmensszenarios und cloudintegrierten Diensten vertraut.
+prerequisitesSection: >-
   Die Lernenden sollten diesen Kurs bereits mit den folgenden Fähigkeiten beginnen:
-  - Grundlegendes Verständnis von Computernetzwerken und Hardwarekonzepten.
-  - Grundlegendes Verständnis von OS- und Anwendungskonzepten.
-  - Erfahrung im Umgang mit dem Windows-Betriebssystem.
-outlineSection: |-
-  ### Modul 1&#58; Konfigurieren von Autorisierung & Authentifizierung
-  Dieses Modul stellt die Tools und Funktionen von Windows 10 für die Autorisierung des Zugriffs auf Windows 10-Clients vor. Die Teilnehmer lernen Methoden für die Anmeldung von Benutzern bei Windows 10 kennen.  Dieses Modul deckt auch die Beschränkung dessen ab, was Benutzer auf einem Gerät durch Methoden wie User Account Control (UAC) und Kontotypen durchführen können oder nicht.
-  #### Lektionen
-  - Verwendung der Sicherheitseinstellungen zur Minderung von Bedrohungen
-  - Konfigurieren der UAC
-  - Implementierung der Geräteregistrierung
+
+  - Grundlegende Kenntnisse von Computernetzwerken und Hardwarekonzepten
+
+  - Grundlegende Kenntnisse zu Betriebssystem- und Anwendungskonzepten
+
+  - Erfahrung mit der Verwendung des Windows-Betriebssystems
+outlineSection: >-
+  ### <a name="module--158-configuring-authorization--authentication"></a>Modul 1: Konfigurieren von Autorisierung und Authentifizierung
+
+  In diesem Modul werden die Tools und Features von Windows 10 zum Autorisieren des Zugriffs auf Windows 10-Clients erläutert. Die Kursteilnehmer lernen Methoden kennen, wie sich Benutzer bei Windows 10 anmelden.  In diesem Modul wird auch die Einschränkung der Möglichkeiten von Benutzern auf einem Gerät durch Methoden wie Benutzerkontensteuerung (User Account Control, UAC) und Kontotypen behandelt.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Verwenden von Sicherheitseinstellungen zum Mindern von Bedrohungen
+
+  - Konfigurieren der Benutzerkontensteuerung
+
+  - Implementieren der Geräteregistrierung
+
   - Authentifizierung
 
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Beschreibung der verschiedenen Methoden zur Sicherung von Daten und des Windows 10 OS.
-  - Beschreibung der verschiedenen Arten von Benutzer- und Servicekonten.
-  - Windows Hallo konfigurieren.
-  - Konfigurieren der Benutzerkontenkontrolle.
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Die verschiedenen Methoden zum Absichern von Daten und des Betriebssystems Windows 10 beschreiben
+
+  - Die verschiedenen Arten von Benutzer- und Dienstkonten beschreiben
+
+  - Windows Hello konfigurieren
+
+  - Die Benutzerkontensteuerung konfigurieren
 
 
-  ### Modul 2&#58; Datenzugriff und -nutzung konfigurieren
-  In diesem Modul werden die Teilnehmer über Berechtigungen informiert. Dieses Modul behandelt Überlegungen zu unterschiedlichen Dateisystemen. Die Teilnehmer lernen, wie Datei- und Ordnerberechtigungen sowie gemeinsame Ordner konfiguriert werden. Das Modul schließt mit der Konfiguration von Einstellungen durch Methoden wie lokalen und Gruppenrichtlinien ab.
-  #### Lektionen
-  - Übersicht über die Dateisysteme
+
+  ### <a name="module--258-configuring-data-access-and-usage"></a>Modul 2: Konfigurieren von Datenzugriff und Datennutzung
+
+  In diesem Modul erfahren die Kursteilnehmer mehr über Berechtigungen. In diesem Modul werden Überlegungen zu verschiedenen Dateisystemen angestellt. Die Teilnehmer lernen, wie sie Datei- und Ordnerberechtigungen sowie freigegebene Ordner konfigurieren können. Zum Abschluss des Moduls wird die Konfiguration von Einstellungen mithilfe von Methoden wie lokalen Richtlinien und Gruppenrichtlinien behandelt.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht über Dateisysteme
+
   - Konfigurieren und Verwalten des Dateizugriffs
-  - Konfigurieren und Verwalten von gemeinsamen Ordnern
-  - Sicherheit mit Richtlinien verwalten
+
+  - Konfigurieren und Verwalten freigegebener Ordner
+
+  - Verwalten der Sicherheit mithilfe von Richtlinien
 
 
-  #### Labor&#58; Konfigurieren und Verwalten von Berechtigungen und Freigaben
+
+  #### <a name="lab-58-configuring-and-managing-permissions-and-shares"></a>Lab: Konfigurieren und Verwalten von Berechtigungen und Freigaben
+
   - Erstellen, Verwalten und Freigeben eines Ordners
-  - Verwendung von Bedingungen zur Kontrolle des Zugangs und der effektiven Berechtigungen
+
+  - Verwendung von Bedingungen zur Kontrolle des Zugriffs und effektiver Berechtigungen
 
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Beschreibung der Unterschiede und Vorteile der unterstützten Dateisysteme.
-  - Konfigurieren von Datei- und Ordnerberechtigungen.
-  - Konfigurieren von freigegebenen Ordnern.
-  - Sicherung von Windows durch lokale Richtlinieneinstellungen.
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Die Unterschiede und Vorteile der unterstützten Dateisysteme beschreiben
+
+  - Datei- und Ordnerberechtigungen konfigurieren
+
+  - Freigegebene Ordner konfigurieren
+
+  - Windows durch Einstellungen lokaler Richtlinien absichern
 
 
-  ### Modul 3&#58; Konfigurieren des Schutzes vor Bedrohungen
-  Dieses Modul führt die Teilnehmer in den sicheren Umgang mit Geräten gegen externe Bedrohungen ein. Die Teilnehmer lernen die verschiedenen Arten von allgemeinen Bedrohungen kennen. In diesem Modul lernen die Teilnehmer den Einsatz von Verschlüsselung, Firewalls und IPSec zum Schutz vor Bedrohungen kennen. Das Modul schließt mit der Konfiguration und Verwendung von Windows Defender und AppLocker.
-  #### Lektionen
-  - Schutz vor Malware und Bedrohungen
-  - Windows Defender
+
+  ### <a name="module--358-configuring-threat-protection"></a>Modul 3: Konfigurieren des Bedrohungsschutzes
+
+  In diesem Modul erhalten Kursteilnehmer eine Einführung in den Schutz von Geräten vor externen Bedrohungen. Die Teilnehmer lernen die verschiedenen Arten gängiger Bedrohungen kennen. In diesem Modul werden die Teilnehmer mit dem Einsatz von Verschlüsselung, Firewalls und IPSec zum Schutz vor Bedrohungen vertraut gemacht. Den Abschluss des Moduls bildet die Konfiguration und Verwendung von Windows Defender und AppLocker.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Schutz vor Schadsoftware und Bedrohungen
+
+  - Windows Defender
+
   - Verbindungssicherheitsregeln
-  - Erweiterte Schutzmaßnahmen
+
+  - Erweiterte Schutzmethoden
 
 
-  #### Labor&#58; Praxislab&#58; Verwalten der Netzwerksicherheit
-  - Eingangsregeln erstellen und testen
-  - Regeln für den Ausgang erstellen und testen
-  - Regeln für die Verbindungssicherheit erstellen und testen
-  - Windows Defender konfigurieren
+
+  #### <a name="lab-58-practice-lab58-managing-network-security"></a>Lab: Übungslabor: Verwalten der Netzwerksicherheit
+
+  - Erstellen und Testen von Eingangsregeln
+
+  - Erstellen und Testen von Ausgangsregeln
+
+  - Erstellen und Testen von Verbindungssicherheitsregeln
+
+  - Konfigurieren von Windows Defender
 
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Gemeinsame Sicherheitsbedrohungen erkennen
-  - Beschreibung der Methoden, mit denen Sie diese häufigen Sicherheitsbedrohungen abschwächen können.
-  - Beschreibung der verschiedenen Methoden der Verschlüsselung.
-  - Beschreibung, wie die Windows-Firewall das Gerät schützen kann.
-  - Beschreibung der Vorteile der Verwendung von IPSec.
-  - Beschreibung der verschiedenen Funktionen von Windows Defender.
-  - Beschreibung der Vorteile der Verwendung von AppLocker.
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Allgemeine Sicherheitsbedrohungen erkennen
+
+  - Die Methoden beschreiben, mit denen Sie diese allgemeinen Sicherheitsbedrohungen entschärfen können
+
+  - Die verschiedenen Methoden der Verschlüsselung beschreiben
+
+  - Beschreiben, wie das Gerät mit der Windows-Firewall geschützt werden kann
+
+  - Die Vorteile der Verwendung von IPSec beschreiben
+
+  - Die verschiedenen Features von Windows Defender beschreiben
+
+  - Die Vorteile der Verwendung von AppLocker beschreiben
 
 
-  ### Modul 4&#58; Abschluss des Kurses
-  #### Lektionen
+
+  ### <a name="module--458-course-conclusion"></a>Modul 4: Abschluss des Kurses
+
+  #### <a name="lessons"></a>Lektionen
+
   - Abschlussprüfung
 
 
-  #### Labor&#58; Abgestuftes Lab
+
+  #### <a name="lab-58-graded-lab"></a>Lab: Bewertetes Lab

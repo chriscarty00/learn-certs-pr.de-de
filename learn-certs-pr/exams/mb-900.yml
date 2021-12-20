@@ -1,18 +1,29 @@
 ### YamlMime:Examination
 title: Microsoft Dynamics 365 Fundamentals
 metadata:
-  title: 'Exam MB-900: Microsoft Dynamics 365 Fundamentals'
-  description: 'Exam MB-900: Microsoft Dynamics 365 Fundamentals'
+  title: 'Examen MB-900: Microsoft Dynamics 365 Fundamentals'
+  description: 'Examen MB-900: Microsoft Dynamics 365 Fundamentals'
+  ms.openlocfilehash: 41695790e8bc021b68d258c43cd3b2460f8b927d
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105779"
 uid: exam.mb-900
 displayName: MB-900
-summary: |-
+summary: >-
   <div>
-  <div style='font-weight&#58; bold;'>dieses examens WURDE AM 31. Dezember 2019 EINGESTELLT. Eine Ersatzprüfung, MB-901, ist verfügbar. Weitere Informationen finden Sie auf der Seite mit den <a href="/learn/certifications/exams/mb-901">MB-901-Prüfungsdetails</a>.</div>
+
+  <div><strong>DIESES EXAMEN WURDE AM 31. DEZEMBER 2019 EINGESTELLT. Ein Ersatzexamen, MB-901, ist verfügbar. Weitere Informationen finden Sie auf der <a href="/learn/certifications/exams/mb-901">Examensdetailseite zu MB-901</a>.</strong></div>
+
   <br/>
+
   </div>
+
   dieses examens richtet sich an Kandidaten, die grundlegende Kenntnisse über Microsoft Dynamics 365, Power Platform-Anwendungen und das Cloud Computing-Modell nachweisen möchten. dieses examens behandelt die Überlegungen und Vorteile der Einführung von Dynamics 365, der Power Platform und Cloud Services im Allgemeinen. dieses examens kann als Vorläufer für Dynamics 365-Zertifizierungen und -Training genommen werden.
 
-  Kandidaten für dieses examens sollten über allgemeine Kenntnisse oder relevante Arbeitserfahrung in einer Informationstechnologie-(IT)-Umgebung. Die Kandidaten sollten auch über ein grundlegendes Verständnis von Geschäftsszenarien und Erfahrungen bei der Bewältigung von Geschäfts-, Rechts- und Sicherheitsanforderungen für IT-Projekte verfügen.
+
+  Kandidaten für dieses examens sollten über allgemeine Kenntnisse oder relevante Arbeitserfahrung in einer Informationstechnologie-(IT)-Umgebung. Kandidaten sollten auch über ein grundlegendes Verständnis von Geschäftsszenarien und Erfahrungen bei der Bewältigung von Geschäfts-, Rechts- und Sicherheitsanforderungen für IT-Projekte verfügen.
 subTitle: dieses examens misst Ihre Kompetenz, Microsoft Dynamics 365, die Power Platform, Cloud-Konzepte, Lizenzoptionen sowie Bereitstellungs- und Release-Optionen zu verstehen.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVu
@@ -23,14 +34,14 @@ locales:
 levels:
 - beginner
 skills:
-- Dynamics verstehen 365 (40-45%)
-- Kenntnisse von Cloud Konzepten (25-30%)
-- Verstehen von Implementierenen und Versionen (20-25%)
+- Understand Dynamics 365 (40-45%)
+- Understand cloud concepts (25-30%)
+- Understand deployments and releases (20-25%)
 retirementDate: 12/31/2019
 roles:
 - developer
 products:
-- dynamics
+- dynamics-365
 courses:
 - uid: course.mb-900t01
 paths:
@@ -40,14 +51,14 @@ relatedCertifications:
     uid: certification.d365-fundamentals
 resources:
 - title: Lernpfad zur Zertifizirung
-  description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Dynamics 365 Fundamentals.'
+  description: 'Entdecken Sie Schulungsressourcen, um die Zertifizierung „Microsoft Certified: Dynamics 365 Fundamentals“ zu erlangen.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Unterstützung bei Zertifizierungsprüfungen
   description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
@@ -60,4 +71,3 @@ resources:
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
-

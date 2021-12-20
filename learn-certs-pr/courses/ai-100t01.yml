@@ -1,11 +1,17 @@
 ### YamlMime:Course
-title: Entwurf und Implementieren einer Azure AI Lösung
+title: Entwerfen und Implementieren einer Azure AI Lösung
 metadata:
-  title: 'Kurs AI-100T01-A: Entwurf und Implementieren einer Azure AI Lösung'
-  description: 'Kurs AI-100T01-A: Entwurf und Implementieren einer Azure AI Lösung'
+  title: 'Kurs AI-100T01-A: Entwerfen und Implementieren einer Azure KI-Lösung'
+  description: 'Kurs AI-100T01-A: Entwerfen und Implementieren einer Azure KI-Lösung'
   iltScheduling: true
+  ms.openlocfilehash: 00618f92fb8022e576bcd01032db006c77cb6c55
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107738"
 uid: course.ai-100t01
-courseNumber: 'AI-100T01-A'
+courseNumber: AI-100T01-A
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
@@ -24,70 +30,93 @@ products:
 - azure-search
 exams:
 - uid: exam.ai-100
-summary: |-
-  Erlangen Sie das benötigte Wissen um Azure AI Lösungen zu entwerfen indem Sie Kundenservice Chat-Bots mit Künstlicher Intelligenz von der Microsoft Azure Plattform inklusive Spracherkennung und vorher errichteter AI Funktionalität in den Azure-cognitive-services, bauen.
-
-  #### Zielgruppenprofil
-  Der Kurs ist für Cloud Service Architekten, Designern von Künstlicher Intelligenz in Azure und AI&#58; Developer ausgerichtet.
-prerequisitesSection: |-
-  Erfolgreiche Azure AI-Ingenieure beginnen diese Rolle mit Berufserfahrung in Cloud-Technologien und Erfahrung mit Softwareentwicklungskits.
-
-  Insbesondere&#58;
-  - Implementieren von Lösungen in C# oder Python
-  - Anwendungsentwicklung in der Cloud
-  - Grundlegendes zu Azure-Speichertechnologien
-
-  Um diese erforderlichen Fähigkeiten zu erwerben, nehmen Sie bitte an der folgenden kostenlosen Online-Schulung teil, bevor Sie den Kurs besuchen&#58;
-  - [Microsoft Azure-Cloud-Konzepte erkunden](/learn/paths/explore-microsoft-azure-cloud-concepts/)
-  - [Machen Sie Ihre ersten Schritte mit C#](/learn/paths/csharp-first-steps/) oder [Machen Sie Ihre ersten Schritte mit Python](/learn/paths/python-first-steps/)
-  - [Core Cloud Services - Einführung in Azure](/learn/modules/welcome-to-azure/)
-  - [Core Cloud Services - Azure-Berechnungsoptionen](/learn/modules/intro-to-azure-compute/)  
-
-  Wenn Sie mit Azure AI-Services noch nicht vertraut sind, absolvieren Sie zunächst[Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals).
-outlineSection: |-
-  ### Modul 1&#58; Einführung in Azure-cognitive-services
-  Der Teilnehmer wird etwas über die cognitive-services von Microsoft Azure und ihre Rolle in der Bildung von KI-Lösungen lernen.
-  #### Lektionen
-  - Überblick über Azure-cognitive-services
-  - Erstellung von Kognitiven Dienstleistungen in dem Azure Portal
-  - Zugang und Test der Kognitiven Dienstleistungen
+summary: >-
+  Erwerben Sie das zum Entwerfen einer Azure KI-Lösung erforderliche Wissen, indem Sie einen Chatbot für den Kundendienst erstellen, der die künstliche Intelligenz der Microsoft Azure-Plattform verwendet, einschließlich von Language Understanding und vorgefertigten KI-Funktionen in den Azure Cognitive Services-Diensten.
 
 
-  ### Modul 2&#58; Bots Erstellen
-  Der Teilnehmer wir etwas über die Microsoft Bot-Frameworks und Bot Dienstleistungen lernen.
-  #### Lektionen
-  - Einführung in die Bot-Dienste
-  - Erstellung eines grundlegenden Chat Bots
-  - Tests mit dem Bot Emulator
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+  Der Kurs richtet sich an Cloud Solution Architects, Designer*innen für künstliche Intelligenz in Azure und KI-Entwickler*innen.
+prerequisitesSection: "Erfolgreiche Azure AI Engineers haben zu Beginn ihrer Tätigkeit bereits Berufserfahrung mit Cloudtechnologien und Erfahrung mit Software Development Kits.  \n\nInsbesondere verfügen sie über Erfahrung mit:\n-   Dem Implementieren von Lösungen in C# oder Python\n-   Der Anwendungsentwicklung in der Cloud\n-   Azure-Speichertechnologien  \n\nUm diese erforderlichen Qualifikationen zu erwerben, sollten Sie vor der Teilnahme an diesem Kurs das folgende kostenlose Onlinetraining absolvieren:\n-   [Grundlagen der Microsoft Azure-Cloudkonzepte](/learn/paths/explore-microsoft-azure-cloud-concepts/)\n-   [Erste Schritte mit C#](/learn/paths/csharp-first-steps/) oder [Erste Schritte mit Python](/learn/paths/python-first-steps/)\n-   [Core Cloud Services: Einführung in Azure](/learn/modules/welcome-to-azure/)\n-   [Core Cloud Services: Computeoptionen in Azure](/learn/modules/intro-to-azure-compute/)  \n\nWenn Sie noch nicht mit Azure KI-Diensten vertraut sind, absolvieren Sie zunächst [Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals)."
+outlineSection: >-
+  ### <a name="module--158-introducing-azure-cognitive-services"></a>Modul 1&#58; Einführung in Azure Cognitive Services
+
+  Der*Die Kursteilnehmer*in erfährt mehr über die verfügbaren Cognitive Services-Dienste auf Microsoft Azure und ihre Rolle beim Entwerfen von KI-Lösungen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht über Azure Cognitive Services
+
+  - Erstellen eines Cognitive Services-Diensts im Azure-Portal
+
+  - Zugreifen und Testen eines Cognitive Services-Diensts
 
 
-  ### Modul 3&#58; Bots mit QnA Maker verbessern
-  Der Teilnehmer lernt etwas über den QnA Maker und wie Bots in den QnA Maker integriert werden um nützliches Basiswissen für Nutzerinteraktion aufzubauen.
-  #### Lektionen
-  - Vorstellung des QnA Makers
-  - Wissensgrundlage mit dem QnA Maker implementieren
-  - QnA mit einem Bot integrieren
+
+  ### <a name="module--258-creating-bots"></a>Modul 2&#58; Erstellen von Bots
+
+  Der*Die Kursteilnehmer*in erfährt mehr über Microsoft Bot Framework und Bot Service.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung in Bot Service
+
+  - Erstellen eines einfachen Chatbots
+
+  - Testen mit dem Bot-Emulator
 
 
-  ### Modul 4&#58; Lernen, wie man mit LUIS Language Understanding Funktionalität erschafft
-  Der Teilnehmer lernt etwas über Language Understanding mit Intents und Utterances (LUIS) und wie Absicht und Ausdruck erstellt wird um eine Natürliche Sprachverarbeitungslösung zu unterstützen.
-  #### Lektionen
-  - Einführung in die Spracherkennung
-  - Neue LUIS Dienste erstellen
-  - LUIS Bauen
+
+  ### <a name="module--358-enhancing-bots-with-qna-maker"></a>Modul 3&#58; Verbessern von Bots mit dem QnA Maker
+
+  Der*Die Kursteilnehmer*in erfährt mehr über den QnA Maker und das Integrieren von Bots und QnA Maker, um eine nützliche Wissensdatenbank für Benutzerinteraktionen zu erstellen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung in den QnA Maker
+
+  - Implementieren einer Wissensdatenbank mit QnA Maker
+
+  - Integrieren von QnA in einen Bot
 
 
-  ### Modul 5&#58; Ihre Bots mit LUIS verbessern
-  Der Teilnehmer lernt die Integration von LUIS mit einem Bot um die Absichten des Nutzers bei der Interaktion mit dem Bot besser verstehen zu können.
-  #### Lektionen
-  - Überblick über Language Unterstanding für alle KI Anwendungen
-  - Intagration von LUIS und einem Bot um Ki-basierte Lösungen zu erstellen
+
+  ### <a name="module--458--learn-how-to-create-language-understanding-functionality-with-luis"></a>Modul 4&#58; Erstellen von Language Understanding-Funktionen mit LUIS
+
+  Der*Die Kursteilnehmer*in erfährt mehr über LUIS (Language Understanding with Intents and Utterances) und wie Absichten und Äußerungen erstellt werden können, um eine Lösung zur Verarbeitung natürlicher Sprache zu unterstützen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung in Language Understanding
+
+  - Erstellen eines LUIS-Diensts
+
+  - Erstellen von LUIS
 
 
-  ### Modul 6&#58; Kognitive Dienstleistungen Bots und Agents Integrieren
-  Der Teilnehmer lernt die Integration von Bots und Agents mit Azure-cognitive-services für fortgeschrittene Funktionen wie Sentiment Detection, Bild und Text Analyse und OCR und Objekterkennung kennen.
-  #### Lektionen
-  - Kognitive Dienstleistungen für Bot Interaktionen verstehen
-  - Sentiment Analyse für Ihren Bot mit Textanalyse ausführen
-  - Spracherkennung in einem Bot mit den Kognitiven Sprach-Dienstleistungen
-  - Computervision mit Bots integrieren
+
+  ### <a name="module--558-enhancing-your-bots-with-luis"></a>Modul 5&#58; Verbessern Ihrer Bots mit LUIS
+
+  Der*Die Kursteilnehmer*in erfährt mehr über das Integrieren von LUIS in einen Bot, um die Absichten der Benutzer*innen bei der Interaktion mit dem Bot besser verstehen zu können.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht über Language Understanding für KI-Anwendungen
+
+  - Integrieren von LUIS und eines Bots zum Erstellen einer KI-basierten Lösung
+
+
+
+  ### <a name="module--658-integrate-cognitive-services-with-bots-and-agents"></a>Modul 6&#58; Integrieren von Cognitive Services-Diensten in Bots und Agents
+
+  Der*Die Kursteilnehmer*in erfährt mehr über das Integrieren von Bots und Agents mit Azure Cognitive Services für erweiterte Features wie die Stimmungsanalyse, die Bild-und Textanalyse und die OCR- sowie Objekterkennung.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Grundlegendes zu Cognitive Services für Bot-Interaktionen
+
+  - Durchführen einer Stimmungsanalyse für Ihren Bot mit der Textanalyse
+
+  - Erkennen der Sprache in einem Bot mit Language Cognitive Services
+
+  - Integrieren von maschinellem Sehen in Bots

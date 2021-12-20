@@ -1,21 +1,31 @@
 ### YamlMime:Examination
 title: Microsoft Power Platform + Dynamics 365 Core
 metadata:
-  title: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
-  description: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
+  title: 'MB-200: Microsoft Power Platform und Dynamics 365 Core'
+  description: 'MB-200: Microsoft Power Platform und Dynamics 365 Core'
+  ms.openlocfilehash: 539fff15371e2249b4969cc9b7ba938a52d6169c
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105850"
 uid: exam.mb-200
 displayName: MB-200
-summary: |-
+summary: >-
   <div>
-  <div><strong>Diese Prüfung wurde am 31. Dezember 2020 eingestellt.Eine Ersatzprüfung, PL-200, ist verfügbar. Weitere Informationen finden Sie auf der <a href="/learn/certifications/exams/pl-200">Seite mit den PL-200-Prüfungsdetails</a>.</strong><br/><br/></div>
+
+  <div><strong>Dieses Examen wurde am 31. Dezember 2020 eingestellt. Ein Ersatzexamen, PL-200, ist verfügbar. Weitere Informationen finden Sie auf der <a href="/learn/certifications/exams/pl-200"> Examensdetailseite zu PL-200</a>.</strong><br/><br/></div>
+
   </div>
+
 
   Kandidaten für diese Prüfung sind funktionale Berater, die Zugang zu den Funktionen und der Funktionalität des unternehmenslizenzierten Produkts haben. Als funktionaler Berater kennt der Kandidat gebündelte Versionen von Features, arbeitet aber nicht in erster Linie mit diesen gebündelten Produkten.
 
+
   Die Kandidaten sind in erster Linie dafür verantwortlich, das System so zu konfigurieren, dass es den Kundenbedürfnissen entspricht, Designaufgaben im Zusammenhang mit dem Implementieren neuer Funktionen sowie dem Implementieren und dem Test von Systemänderungen durchzuführen.
 
-  Die Kandidaten planen das funktionale Design für Lösungen, setzen einen Application Lifecycle Management (ALM)-Prozess um, migrieren Daten und Objekte aus Legacy-Systemen und externen Systemen, integrieren Power Platform mit anderen Systemen und verwalten die Power Platform-Umgebung.
 
+  Kandidaten planen das funktionale Design für Lösungen, setzen einen Anwendungslebenszyklus-Management (ALM)-Prozess um, migrieren Daten und Objekte aus vorhandenen und externen Systemen, integrieren Power Platform mit anderen Systemen und verwalten die Power Platform-Umgebung.
 subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Erkennen, Planen und Analysieren, Verwalten von Benutzererfahrungsdesign, Verwalten von Einheiten und Daten, Implementieren von Sicherheit, Implementieren von Integration, und Durchführen von Lösungsimplementierung und -prüfung.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
@@ -26,12 +36,12 @@ locales:
 levels:
 - intermediate
 skills:
-- Ermittlung, Planung und Analyse durchführen (5-10%)
-- Design zur Benutzererfahrung verwalten (20-25%)
-- Entitäten und Daten verwalten (15-20%)
-- Sicherheit implementieren (5-10%)
-- Integration implementieren (15-20%)
-- Bereitstellung und Testen von Lösungen durchführen (25-30%)
+- Perform discovery, planning, and analysis (5-10%)
+- Manage user experience design (20-25%)
+- Manage entities and data (15-20%)
+- Implement security (5-10%)
+- Implement integration (15-20%)
+- Perform solutions deployment and testing (25-30%)
 retirementDate: 12/31/2020
 roles:
 - functional-consultant
@@ -55,13 +65,13 @@ relatedCertifications:
 - related:
     uid: certification.power-apps-and-d365-developer-associate
 resources:
-- title: Informieren Sie sich über die Zertifizierungen
+- title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Prüfungswiederholung
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
@@ -71,9 +81,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
-- title: Prüfungsrichtlinien und häufig gestellten Fragen
+- title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
-

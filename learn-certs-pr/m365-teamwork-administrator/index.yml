@@ -2,26 +2,35 @@
 title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
-  description: 'Microsoft 365 Teamwork Administratoren konfigurieren, übernehmen die Bereitstellung und verwalten Office 365 Workloads mit einem Fokus auf effiziente und effektive Zusammenarbeit mit z.B. SharePoint (Online, On-Premises und Hybrid), OneDrive und Teams.'
+  description: Microsoft 365 Teamwork Administratoren konfigurieren, übernehmen die Bereitstellung und verwalten Office 365 Workloads mit einem Fokus auf effiziente und effektive Zusammenarbeit mit z.B. SharePoint (Online, On-Premises und Hybrid), OneDrive und Teams.
+  ms.openlocfilehash: d58e64f1bc97c3c9dbc4fec2f3d2388489681ab8
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105490"
 uid: certification.m365-teamwork-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
+summary: >-
   <div>
-  <div><strong>Diese Zertifizierung endet am 31. August 2020. Alle Zertifizierungen, die Sie vor deren Ablaufen erhalten haben, werden weiterhin auf Ihrem Transkript im <a href="https://www.microsoft.com/learning/dashboard.aspx">Zertifizierungs-Dashboard</a>angezeigt.</strong><br/><br/></div>
+
+  <div><strong>Diese Zertifizierung wurde am 31. August 2020 eingestellt. Alle Zertifizierungen, die Sie vor deren Ablaufen erhalten haben, werden weiterhin auf Ihrem Transkript auf dem <a href="https://www.microsoft.com/learning/dashboard.aspx">Zertifizierungsdashboard</a> angezeigt.</strong><br/><br/></div>
+
   </div>
+
 
   Microsoft 365 Teamwork Administratoren konfigurieren, übernehmen die Bereitstellung und verwalten Office 365 Workloads mit einem Fokus auf effiziente und effektive Zusammenarbeit mit z.B. SharePoint (Online, On-Premises und Hybrid), OneDrive und Teams.
 subTitle: Microsoft 365 Teamwork Administratoren konfigurieren, übernehmen die Bereitstellung und verwalten Office 365 Workloads mit einem Fokus auf effiziente und effektive Zusammenarbeit mit z.B. SharePoint (Online, On-Premises und Hybrid), OneDrive und Teams.
 levels:
 - intermediate
 skills:
-- Konfiguration und Management von SharePoint Online
-- Konfigurieren und Verwalten von OneDrive for Business
-- Konfigurieren und Verwalten von Teams
-- Konfiguration und Management von Workload Integration
-- Konfiguration und Management von SharePoint On-Premises
-- Konfiguration und Management von hybriden Szenarien
-- Zu SharePoint Online migrieren
+- Configure and manage SharePoint Online
+- Configure and manage OneDrive for Business
+- Configure and manage Teams
+- Configure and manage workload integrations
+- Configure and manage SharePoint On-Premises
+- Configure and manage hybrid scenarios
+- Migrate to SharePoint Online
 roles:
 - administrator
 type: role-based
@@ -31,15 +40,6 @@ products:
 - office-onedrive
 - office-teams
 - office-yammer
-courses:
-- uid: course.ms-300t01
-- uid: course.ms-300t02
-- uid: course.ms-300t03
-- uid: course.ms-300t04
-- uid: course.ms-301t01
-- uid: course.ms-301t02
-- uid: course.ms-301t03
-- uid: course.ms-301t04
 paths:
 - uid: learn-m365.m365-teams-sharepoint
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUE
@@ -47,15 +47,15 @@ exams:
 - uid: exam.ms-300
 - uid: exam.ms-301
 resources:
-- title: Lernpfad zur Zertifizirung
-  description: 'Lernen Sie die Schulungsressourcen kennen, mit deren Hilfe Sie ein Microsoft Certified: Teamwork Administrator Associate.'
+- title: Lernpfad zur Zertifizierung
+  description: 'Entdecken Sie Schulungsressourcen, um die Zertifizierung „Microsoft Certified: Teamwork Administrator Associate“ zu erlangen.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
@@ -65,7 +65,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Erhalten Sie Ihren Microsoft-Zertifizierungsbadge, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md
-

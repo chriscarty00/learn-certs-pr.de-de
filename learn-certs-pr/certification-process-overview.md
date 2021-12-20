@@ -1,7 +1,7 @@
 ---
-title: Übersicht über den Zertifizierungsprozess | Microsoft Docs
+title: Übersicht über den Zertifizierungsprozess | Microsoft-Dokumentation
 description: Übersicht über den Zertifizierungsprozess
-documentationcenter: NA 
+documentationcenter: NA
 author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
@@ -9,59 +9,64 @@ ms.workload: NA
 ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
+ms.openlocfilehash: ec5b4eee62881de888b66e7c74e50ad65a530423
+ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 09/14/2021
+ms.locfileid: "132110852"
 ---
-# Übersicht über den Zertifizierungsprozess
+# <a name="certification-process-overview"></a>Übersicht über den Zertifizierungsprozess
 
-## Warum sollte man sich zertifizieren lassen
+## <a name="why-get-certified"></a>Warum eine Zertifizierung?
 
 <div><br/>
-Der Erwerb einer Microsoft-Zertifizierung ist ein weltweit anerkannter und branchenweit empfohlener Nachweis für das Beherrschen praxisbezogener Kompetenzen. Es zeigt ihre Kompetenz, mit der Technologie Schritt halten zu können. Es ist ein Karriereschritt, der viele positive Ergebnisse bringt. Zum Beispiel können Menschen, die ihre Fähigkeiten verbessern oder erweitern möchten, erwarten, in ihren Rollen produktiver und effizienter zu sein. IT-Experten, die eine relevante, rollenbasierte technische Zertifizierung erlangt haben, schneiden im Durchschnitt um 26 Prozent besser ab als ihre nicht zertifizierten Kollegen mit den gleichen Aufgaben <sup>1</sup> Produktivitätssteigerung und Effizienz können zu weiteren Beförderungen, höheren Löhnen und größerem Einfluss in Ihrem Unternehmen führen. Nach Erhalt einer Zertifizierung geben 35 Prozent der technischen Fachkräfte an, dass die Zertifizierung zu Lohn- oder Gehaltserhöhungen geführt hat, und 26 Prozent berichten von Beförderungen. <sup> 2</sup>
+Eine Microsoft-Zertifizierung ist ein weltweit anerkannter und branchengeprüfter Nachweis Ihrer praktischen Fähigkeiten. Sie zeigt, dass Sie sich auf dem aktuellen Stand des technologischen Fortschritts befinden. Sie stellt einen wichtigen Punkt in Ihrer Karriere mit zahlreichen positiven Auswirkungen dar. So sind etwa Menschen, die ihre Fähigkeiten ausbauen und erweitern, tendenziell produktiver und effizienter bei der Erfüllung ihrer Aufgaben. IT-Experten mit einer anerkannten, ihrem Aufgabenbereich entsprechenden technischen Zertifizierung erzielen eine um durchschnittlich 26 % bessere Leistung als Kollegen desselben Arbeitsbereichs ohne Zertifizierung.<sup>1</sup> Und eine höhere Produktivität und Leistungsbereitschaft führen nicht selten zu Beförderungen, höheren Gehältern und einem größeren Einfluss innerhalb der Organisation. 35 % der technischen Mitarbeiter geben an, dass der Erwerb einer Zertifizierung mit einer Lohnsteigerung einherging, 26 % berichten von einer Beförderung.<sup>2</sup>
 <br/><br/>
-Teamleiter, die ihre Teams unterstützen und ermutigen, sich weiterzubilden und zu zertifizieren, können eine selbstbewusstere und motivierte Belegschaft erwarten. Arbeitnehmer bleiben eher bei einem Unternehmen, das ihnen hilft, ihre Kompetenzen durch Zertifizierungen zu erweitern.<sup> 3</sup></div>
+Teamleiter, die ihre Teams zu Schulungen und Zertifizierungen ermutigen und sie dabei unterstützen, werden mit engagierten und qualifizierteren Mitarbeitern belohnt. Mitarbeiter, die sich unterstützt und durch eine Zertifizierung gefördert fühlen, bleiben einem Unternehmen eher treu.<sup>3</sup></div>
 
-Eine Microsoft-Zertifizierung ist auch eine großartige Möglichkeit, in die Technologiebranche einzusteigen. Eine Microsoft-Zertifizierung verleiht sofort ein gewisses Maß an Autorität und Fachwissen, was besonders hilfreich für jemanden ist, der neu in der Branche ist.
+Eine Microsoft-Zertifizierung kann auch äußerst hilfreich sein, wenn Sie neu in der Technologiebranche Fuß fassen möchten. Gerade als Neuling strahlt eine Microsoft-Zertifizierung sofort ein hohes Maß an Autorität und Fachwissen aus.
 
-## Erste Schritte mit der Microsoft-Zertifizierung
+## <a name="getting-started-with-microsoft-certification"></a>Erste Schritte mit Microsoft-Zertifizierungen
 
-Ein guter Ausgangspunkt ist die [Übersicht über Zertifizierungen](/learn/certifications/), wo Sie mehr über Zertifizierungen erfahren und Ihre Optionen nach Rolle oder Zertifizierungsstufe erkunden können. Wenn Sie bereits wissen, an welcher Zertifizierung Sie interessiert sind, können Sie auf der Seite [Zertifizierungen durchsuchen](/lernen/Zertifizierungen/durchsuchen/) filtern und danach suchen.  
+Beginnen Sie zunächst mit der Übersichtsseite zu [Microsoft-Zertifizierungen](/learn/certifications/). Dort erhalten Sie Informationen zu den verfügbaren Zertifizierungen sowie den nach Rollen oder Zertifizierungsstufen sortierten Optionen. Wenn Sie bereits wissen, an welcher Zertifizierung Sie interessiert sind, können Sie auf der Seite [Zertifizierungen durchsuchen](/learn/certifications/browse/) danach filtern und suchen.  
 
-Jede Zertifizierung hat eine „Details“-Seite mit Informationen darüber, welche Prüfungen Sie ablegen und bestehen müssen, um diese Zertifizierung zu erlangen. Bei einigen Zertifizierungen müssen Sie nur eine einzige Prüfung bestehen, während andere mehr als eine erfordern. Die Seite mit den Zertifizierungsdetails enthält auch Informationen zu den in den Prüfungen gemessenen Kompetenzen, wie Sie sich vorbereiten können und Links zur Anmeldung für die Prüfungen. Jede Prüfung verfügt auch über eine Detailansicht, auf der Sie die spezifischen Informationen für die jeweilige Prüfung einsehen können.
+Jede Zertifizierung verfügt über eine Detailseite, auf der die jeweiligen Prüfungen aufgeführt werden, die für den Erwerb der Zertifizierung erforderlich sind. Für manche Zertifizierungen ist nur eine Prüfung erforderlich, für andere sind es mehrere. Die Seite mit den Zertifizierungsdetails enthält auch Informationen zu den in der Prüfung bewerteten Fähigkeiten, Möglichkeiten zur Vorbereitung sowie Links zur Anmeldung für die Prüfung. Auch jede Prüfung verfügt über eine Detailseite mit den jeweiligen Informationen.
 
-## Bereiten Sie sich auf Ihre Zertifizierungsprüfung(en) vor
+## <a name="prepare-for-your-certification-exams"></a>Vorbereiten auf die Zertifizierungsprüfung
 
-Auf jeder Zertifizierungs- und Prüfungsdetailseite finden Sie einen Abschnitt über „Gemessene Kompetenzen“. Dieser listet die zu bewertenden Kompetenzen sowie eine herunterladbare detaillierte Gliederung auf. Beginnen Sie mit der Überprüfung der durch die Prüfung(en) gemessenen Kompetenzen. Wenn Sie über die erforderlichen Kompetenzen verfügen, können Sie sich zur Prüfung anmelden. Wenn Sie jedoch mehr Training wünschen, stehen Ihnen einige Optionen zur Verfügung. Diese sind auf den Zertifizierungs- und Prüfungsdetailseiten aufgeführt und können Folgendes umfassen:
+Auf jeder Detailseite für eine Zertifizierung oder eine Prüfung finden Sie den Abschnitt „Bewertete Fähigkeiten (Skills measured)“. Darin finden Sie eine Auflistung der erforderlichen Fähigkeiten sowie eine Downloadmöglichkeit für eine detaillierte Gliederung. Überprüfen Sie zunächst die Fähigkeiten und Qualifikationen, die bei der Prüfung bewertet werden. Wenn Sie über die Voraussetzungen verfügen, können Sie sich für die Prüfung registrieren. Wenn Sie sich jedoch zunächst besser darauf vorbereiten möchten, stehen Ihnen hierfür eine Reihe von Möglichkeiten zur Verfügung. Die Vorbereitungsmöglichkeiten finden Sie auf der Detailseite der Zertifizierung und der Prüfung. Folgende Optionen stehen zur Auswahl:
 
-- kostenlose Online-Schulung, verfügbar auf Microsoft Learn
-- von einem Dozenten geleitete Schulung
-- verfügbare offizielle Microsoft-Übungstests, angeboten von MeasureUp.
-- zusätzliches Vorbereitungsmaterial von Microsoft Press und Schulungen von Microsoft Learning-Partnern.
+- Kostenlose Onlineschulungen auf Microsoft Learn
+- Schulungen mit Kursleitern
+- Offizielle Microsoft-Praxistests (bereitgestellt von MeasureUp)
+- Zusätzliche Vorbereitungsmaterialien von Microsoft Press sowie Schulungen durch Microsoft Learning-Partner
 
-Um mehr über diese und andere Möglichkeiten der Vorbereitung zu erfahren, gehen Sie auf: [Prüfung vorbereiten](/learn/certifications/prepare-exam).
+Weitere Informationen zu diesen und anderen Vorbereitungsmöglichkeiten finden Sie unter [Vorbereiten auf eine Prüfung](/learn/certifications/prepare-exam).
 
-## Registrieren Sie sich für eine Microsoft-Zertifizierungsprüfung
+## <a name="register-for-a-microsoft-certification-exam"></a>Registrierung für eine Microsoft-Zertifizierungsprüfung
 
-Wenn Sie vorbereitet und bereit sind, Ihre Prüfung zu planen, können Sie sich von jeder Detailseite aus anmelden.
-Während des Planungsprozesses können Sie wählen, ob Sie die Prüfung in einem lokalen Testzentrum oder online ablegen möchten. Jede Option hat Ihre eigenen Vorteile! Lokale Testzentren bieten eine sichere Computerumgebung, in der Sie Ihre Prüfung ablegen können. Bei einer beaufsichtigten Online-Prüfung können Sie Ihre Prüfung fast jederzeit von Ihrem eigenen Computer aus ablegen, es erfordert jedoch die Installation eines sicheren Browsers und einen zuverlässigen Internetzugang. Wenn Sie Ihre Prüfung online ablegen, führen Sie  vorab eine Systemprüfung durch, um sicherzustellen, dass Ihr Gerät die Anforderungen für die Prüfung erfüllt.
+Wenn Sie sich ausreichend vorbereitet haben, können Sie sich von der Detailseite aus für eine Prüfung registrieren. Während des Planungsvorgangs können Sie auswählen, ob Sie die Prüfung in einem Testzentrum vor Ort oder online ablegen möchten.  Beide Möglichkeiten haben ihre Vorteile. In einem lokalen Testzentrum wird eine sichere Computerumgebung für die Prüfung bereitgestellt. Eine Onlineprüfung können Sie zu nahezu jedem Zeitpunkt auf Ihrem eigenen Computer ablegen. Hierfür sind jedoch die Installation eines sicheren Browsers und eine zuverlässige Internetverbindung erforderlich. Für eine Onlineprüfung müssen Sie zunächst eine Vorüberprüfung des Systems ausführen, um sicherzustellen, dass Ihr Computer die Prüfungsanforderungen erfüllt.
 
-Microsoft arbeitet mit mehreren Prüfungsanbietern zusammen, um Zertifizierungsprüfungen für verschiedene Arten von Kandidaten bereitzustellen. Um mehr über diese Anbieter zu erfahren und sich anzumelden, besuchen Sie: [Für eine Prüfung anmelden und planen](/learn/certifications/register-schedule-exam).
+Microsoft kooperiert mit mehreren Prüfungsanbietern, um Zertifizierungsprüfungen für verschiedene Arten von Kandidaten bereitzustellen. Weitere Informationen zu diesen Anbietern und zur Registrierung finden Sie unter [Anmelden und Prüfungstermin vereinbaren](/learn/certifications/register-schedule-exam).
 
-## Prüfungsergebnisse und Zertifizierungen erhalten
+## <a name="getting-your-exam-results-and-certifications"></a>Abrufen der Prüfungsergebnisse und Zertifizierungen
 
-Wenn Sie die Prüfung abgeschlossen haben, werden Sie innerhalb weniger Minuten über die Ergebnisse informiert. Für Prüfungen, die mit Pearson VUE abgelegt wurden, können Sie einen Ergebnisbericht von Ihrem [Zertifizierungs-Dashboard.](https://aka.ms/certdashboard) abrufen.
+Sie erhalten Ihre Ergebnisse innerhalb von wenigen Minuten nach Abschluss der Prüfung. Für Prüfungen bei Pearson VUE erhalten Sie einen Bewertungsbericht über Ihr [Zertifizierungsdashboard](https://aka.ms/certdashboard). Für Prüfungen bei PSI erhalten Sie Ihren Bewertungsbericht per E-Mail.
 
-Wenn Sie an einer Beta-Prüfung teilgenommen haben, erhalten Sie Ihre Punktzahl etwa 10 Tage nach dem Start der Prüfung. Weitere Informationen finden Sie unter:- [Beta exams](/learn/certifications/beta-exams).
+Das Ergebnis einer Betaprüfung erhalten Sie etwa zehn Tage nach der Liveschaltung der Prüfung. Weitere Informationen finden Sie unter [Betaprüfungen](/learn/certifications/beta-exams).
 
-Wenn Sie alle Prüfungen zur Erlangung einer Zertifizierung bestanden haben, herzlichen Glückwunsch! Sie können Ihre individuellen Leistungen als Abzeichen oder Zertifikate anzeigen, herunterladen und teilen oder eine vollständige Aufzeichnung Ihrer Zertifizierungen und Prüfungen in Ihrem Microsoft-Zertifizierungstranskript erhalten. Weitere Informationen finden Sie unter: [Zugriff auf Ihre Zertifikate, Abzeichen und Transkripte](/learn/certifications/access-certificates-badges-transcript).
+Haben Sie alle Prüfungen für eine Zertifizierung erfolgreich abgelegt? Herzlichen Glückwunsch! Sie können Ihre Erfolge als Abzeichen oder Zertifikat anzeigen, herunterladen und freigeben oder sich eine vollständige Aufstellung Ihrer Zertifizierungen und Prüfungen als Transkript für Ihre Microsoft-Zertifizierungen abrufen. Weitere Informationen finden Sie unter [Zugreifen auf Ihre Zertifikate, Abzeichen und Ihr Transkript](/learn/certifications/access-certificates-badges-transcript).
 
-## Ihre Zertifizierung erneuern
+## <a name="renewing-your-certification"></a>Erneuern einer Zertifizierung
 
-Genauso wichtig wie der Erwerb Ihrer Zertifizierung ist es, Ihre Kenntnisse auf dem neuesten Stand zu halten. Für rollenbasierte und Spezialzertifizierungen, die Sie erworben haben, können Sie sechs Monate vor Ablauf kostenlos online eine Erneuerungsprüfung ablegen und sie damit um ein Jahr verlängern. Weitere Informationen finden Sie unter: [Erneuern Sie Ihre Zertifizierung](/learn/certifications/renew-your-microsoft-certification).
+Nach dem Erwerb einer Zertifizierung ist es entscheidend, mit Ihren Fähigkeiten immer auf dem neuesten Stand zu bleiben. Ihre rollenbasierten und speziellen Zertifizierungen können Sie sechs Monate vor Ablauf durch eine online durchgeführte kostenlose Erneuerungsprüfung um ein Jahr verlängern. Weitere Informationen finden Sie unter [Erneuern Ihrer Zertifizierung](/learn/certifications/renew-your-microsoft-certification).
 
 <div>
 <br/>
-<hr style="border-top: 1px einfarbig schwarz">
+<hr style="border-top: 1px solid black">
 
-  <sup>1</sup>IDC-Whitepaper, gesponsert von Microsoft, „<a href="https://aka.ms/IDC_Role-basedCerts">Vorteile rollenbasierter Zertifizierungen</a>“, Juni 2020.<br/>
-  <sup>2</sup>PearsonVUE, „<a href="https://home.pearsonvue.com/Test-Owner/Market-expertise/Information-Technology/VOC.aspx">2018 Wert der IT-Zertifizierung“</a>, 2018.<br/>
-  <sup>3</sup>LinkedIn, „<a href="https://business.linkedin.com/talent-solutions/recruiting-tips/global-talent-trends-2020?">Bericht zu globalen Talenttrends 2020</a>“, 2020.
+  <sup>1</sup>IDC-Whitepaper, gesponsert von Microsoft, <a href="https://aka.ms/IDC_Role-basedCerts">„Benefits of Role-Based Certifications“</a>, Juni 2020.<br/>
+  <sup>2</sup>Person VUE, <a href="https://home.pearsonvue.com/Test-Owner/Market-expertise/Information-Technology/VOC.aspx">„2018 Value of IT Certification“</a>, 2018.<br/>
+  <sup>3</sup>LinkedIn, <a href="https://business.linkedin.com/talent-solutions/recruiting-tips/global-talent-trends-2020?">„2020 Global Talent Trends Report“</a>, 2020.
 </div>

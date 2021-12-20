@@ -1,0 +1,81 @@
+### YamlMime:Examination
+title: Microsoft Customer Data Platform Specialist (beta)
+metadata:
+  title: 'Examen MB-260: Microsoft Customer Data Platform Specialist (beta)'
+  description: 'Examen MB-260: Microsoft Customer Data Platform Specialist (beta)'
+  ms.openlocfilehash: 8bb0a9a60827f33b04f5b773e79e84bc6ce3ef2f
+  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "132113408"
+uid: exam.mb-260
+displayName: MB-260
+summary: >-
+  Kandidat*innen für dieses Examen implementieren Lösungen, die Einblicke in Kundenprofile bieten und mit denen Kundenbindungsaktivitäten nachverfolgt werden können, sodass die Kundenerfahrung verbessert und die Kundenbindung gesteigert werden kann.
+
+
+  Kandidat*innen sollten praktische Erfahrung mit Dynamics 365 Customer Insights und mindestens einer weiteren Dynamics 365-App, Power Query, Microsoft Dataverse, Common Data Model und Microsoft Power Platform haben. Darüber hinaus sollten sie direkte Erfahrung mit Verfahren im Zusammenhang mit Datenschutz, Compliance, Einwilligung, Sicherheit, verantwortungsvoller KI und Datenaufbewahrungsrichtlinien mitbringen.
+
+
+  Kandidat*innen benötigen auch Erfahrung mit Prozessen im Zusammenhang mit KPIs sowie Datenaufbewahrung, -validierung, -visualisierung, -aufbereitung, -abgleich, -fragmentierung, -segmentierung und -erweiterung. Sie sollten ein allgemeines Verständnis von Azure Machine Learning, Azure Synapse Analytics und Azure Data Factory haben.
+
+
+  <div><br/><br/><font color='red'><strong>Dieses Examen wird im Dezember 2021 verfügbar sein.</strong></font></div>
+subTitle: 'Diese Prüfung wird im Dezember 2021 verfügbar sein. In diesem Examen wird Ihre Fähigkeit abgefragt, die folgenden technischen Aufgaben auszuführen: Entwerfen von Customer Insights-Lösungen; Erfassen von Daten in Customer Insights; Erstellen von Kundenprofilen durch Vereinheitlichen von Daten; Implementieren von KI-Vorhersagen in Customer Insights; Konfigurieren von Measures und Segmenten; Konfigurieren von Drittanbieterverbindungen; und Verwalten von Customer Insights.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMD8f
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Design Customer Insights solutions (5-10%)
+- Ingest data into Customer Insights (10-15%)
+- Create customer profiles by unifying data (20-25%)
+- Implement AI predictions in Customer Insights (10-15%)
+- Configure measures and segments (15-20%)
+- Configure third-party connections (10-15%)
+- Administer Customer Insights (5-10%)
+roles:
+- data-engineer
+- data-analyst
+- data-scientist
+- functional-consultant
+products:
+- azure-data-factory
+- azure-data-lake
+- azure-synapse-analytics
+- dynamics-365
+- dynamics-cust-insights
+- dynamics-customer-engagement
+- power-platform
+- power-query
+- common-data-service
+exams:
+- uid: exam.mb-260
+relatedCertifications:
+- related:
+    uid: certification.customer-data-platform-specialty
+resources:
+- title: Schulungs- und Zertifizierungsleitfaden
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://aka.ms/TrainingCertDeck
+- title: Zertifizierungsposter
+  description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Dynamics 365 und Power Platform an.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Exam Replay
+  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+  href: ../deals.md
+- title: Unterstützung bei Zertifizierungsprüfungen
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  href: ../help.md
+- title: Zertifizierungsdashboard
+  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Unterkünfte anfordern
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
+  href: ../request-accommodations.md
+- title: Prüfungsrichtlinien und FAQs
+  description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
+  href: ../certification-exam-policies.md

@@ -1,10 +1,16 @@
 ### YamlMime:Course
-title: 'Microsoft Dynamics 365: Finanzen und Betrieb Apps Entwickler'
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Developer'
 metadata:
-  title: 'Kurs MB-500T00-A: Microsoft Dynamics 365: Finanzen und Betrieb Apps Entwickler'
-  description: 'Kurs MB-500T00-A: Microsoft Dynamics 365: Finanzen und Betrieb Apps Entwickler'
+  title: 'Kurs MB-500T00-A: Microsoft Dynamics 365: Finance and Operations Apps Developer'
+  description: 'Kurs MB-500T00-A: Microsoft Dynamics 365: Finance and Operations Apps Developer'
+  ms.openlocfilehash: 98244af93e8d0155984cd9471820369bc4704c5b
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107258"
 uid: course.mb-500t00
-courseNumber: 'MB-500T00-A'
+courseNumber: MB-500T00-A
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
@@ -15,80 +21,105 @@ levels:
 roles:
 - developer
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance-operations
 exams:
 - uid: exam.mb-500
-summary: |-
-  Entwickler-Schulung. Microsoft Dynamics 365 Finance and Operations App-Entwickler implementieren und erweitern Anwendungen, um die Anforderungen des Unternehmens zu erfüllen. Die Kandidaten bieten vollständig realisierte Lösungen durch standardisierte Anwendungscodierungsmuster, erweiterbare Funktionen und externe Integrationen.
+summary: "Entwicklerschulung. Microsoft Dynamics 365 Finance and Operations Apps Developer implementieren und erweitern Anwendungen so, dass die Anforderungen des Unternehmens erfüllt werden. Kandidaten bieten vollständig realisierte Lösungen, indem sie standardisierte Anwendungskodierungsmuster, erweiterbare Funktionen und externe Integrationen verwenden.\n\n#### <a name=\"audience-profile\"></a>Zielgruppenprofil\n\nMicrosoft Dynamics 365 Finance and Operations Apps Developer  "
+outlineSection: >-
+  ### <a name="module-1-overview--architecture"></a>Modul 1: Übersicht und Architektur
 
-  #### Zielgruppenprofil
-  
-  Microsoft Dynamics 365 App-Entwickler für Finance and Operations 
 
-outlineSection: |-
-  ### Modul 1&#58; Überblick & Architektur
-  
-  Beschreiben des Dynamics 365-Ökosystems und der Hauptkomponenten der Dynamics 365- Finance and Operations-Software (FO), Beschreiben der Architektur der D365FO, Beschreiben der relevanten Überlegungen zum Enturf und zur Bereitstellung von D365FO
-  
-  #### Labor&#58; Konfiguration der Entwicklungsumgebung und Projekt- / Modellerstellung
-  
-  ### Modul 2&#58; Entwicklertools
+  Beschreiben des Dynamics 365-Ökosystems und der Hauptkomponenten der Dynamics 365 Finance and Operations-Software (FO), Beschreiben der Architektur von D365FO, Beschreiben relevanter Überlegungen zum Entwurf und zur Bereitstellung von D365FO
 
-  Verwalten von Systemimplementierungen mit Hilfe von Lifecycle-Diensten, Anpassen der D365FO mit Hilfe von Visual Studio, Verwalten von Quellcode und Artefakten mit Hilfe der Versionskontrolle, Ausführen von Aufgaben mit anderen Entwicklungstools
-  
-  #### Labor&#58; Quellcodeverwaltung mit DevOps
 
-  ### Modul 3&#58; Lösungskonzept
-  Bestimmen der erforderlichen Anwendungslkomponenten und Serverarchitektur. Implementieren der LifecycleManagementanwendung (ALM). Entwerfen einer Lösung für D365FO
+  #### <a name="lab--development-environment-configuration-and-projectmodel-creation"></a>Lab: Konfigurieren der Entwicklungsumgebung und Erstellen von Projekten/Modellen
 
-  #### Labor&#58; Datenstrukturentwicklung
-  
-  ### Modul 4&#58; AOT-Elementen
-  
-  Formulare erstellen, Tabellen erstellen und erweitern, erweiterte Datentypen (EDT) und Aufzählungen erstellen, Klassen erstellen und AOT-Elemente erweitern
-  
-  #### Labor&#58; Metadatenerweiterung und -entwicklung
-  
-  ### Modul 5&#58; Codeentwicklung & Testen
-  
-  Entwickeln eines X ++ - Code, Entwickeln eines objektorientiertem Codes, Erweitern der D365-FO-Funktionalität, beschreiben des Testrahmens und der Tools, Durchführen von Komponententests
-  
-  #### Labor&#58; Metadatenerweiterung und -entwicklung
-  
-  ### Modul 6&#58; Datenmigration
-  
-  Beschreiben von Migrationstools und -methoden, Planen der Migrationsstrategie, Vorbereiten von Daten für die Migration und Migrieren von Daten
 
-  #### Labor&#58; Datenexport / -import mit Data Entity
-  
-  #### Labor&#58; Wiederkehrende Datenübertragung
-  
-  ### Modul 7&#58; Rahmenpläne
-  
-  Implementieren der D365-FO-Funktionalität
-  
-  #### Labor&#58; SysExtension Framework
-  
-  ### Modul 8&#58; Integration
-  
-  Identifizieren von Datenintegrationsmustern und -szenarien, Implementieren von Datenintegrationskonzepten und -lösungen, Implementieren von wiederkehrenden Integrationen, Integrieren von D365FO in Microsoft Azure, Beheben von Integrationsfehlern, Implementieren des Datenverwaltungspakets API
-  
-  #### Labor&#58; OData-Integration
+  #### <a name="module-2-developer-tools"></a>Modul 2: Entwicklertools
 
-  #### Labor&#58; Logic-App-Integration
-  
-  #### Labor&#58; Aufrufen eines externen Webdienstes
 
-  ### Modul 9&#58; Reporting
-  
-  Beschreiben der Funktionen und Einschränkungen der Berichterstellungstools in D365FO, Entwerfen, Erstellen und Überarbeiten von Dynamics-Berichten, Entwerfen, Erstellen und Überarbeiten
-  Dynamics-Arbeitsbereiche, Entwerfen, Erstellen und Überarbeiten von Datenquellen, die eine Verbindung zu externen Datenspeichern von D365FO herstellen
+  Verwalten von Systemimplementierungen mithilfe von Lifecycle Services, Anpassen von D365FO mithilfe von Visual Studio, Verwalten von Quellcode und Artefakten mithilfe der Versionskontrolle, Arbeiten mit anderen Entwicklungstools zum Ausführen von Aufgaben
 
-  #### Labor&#58; Power BI-Berichterstellung von F & O
-  
-  ### Modul 10&#58; Sicherheit und Leistung
-  
-  Beschreiben und Implementieren von leistungsfähigen Tools und LCS Umgebungsüberwachungs-Tools, Implementieren von rollenbasierten Sicherheitsrichtlinien und -anforderungen, Anwenden grundlegender Techniken zur Leistungsoptimierung, Optimieren der Leistung für Chargeprozesse, Optimieren der Benutzerschnittstellenleistung, Verbessern der Integrationsleistung, Optimieren der Berichtsleistung
-  
-  #### Labor&#58; Asynchrone & Sandbox-Funktionalität
+
+  #### <a name="lab--source-control-using-devops"></a>Lab: Quellcodeverwaltung mit DevOps
+
+
+  #### <a name="module-3-solution-design"></a>Modul 3: Lösungsentwurf
+
+  Ermitteln der erforderlichen Anwendungsstapelkomponenten und der erforderlichen Serverarchitektur, Implementieren von Application Lifecycle Management (ALM), Entwerfen einer Lösung für D365FO
+
+
+  #### <a name="lab--data-structure-development"></a>Lab: Datenstrukturentwicklung
+
+
+  #### <a name="module-4-aot-elements"></a>Modul 4: AOT-Elemente
+
+
+  Erstellen von Formularen, Erstellen und Erweitern von Tabellen, Erstellen erweiterter Datentypen (EDT) und Enumerationen, Erstellen von Klassen und Erweitern von AOT-Elementen
+
+
+  #### <a name="lab--metadata-extension--development"></a>Lab: Metadatenerweiterung und Entwicklung
+
+
+  #### <a name="module-5-code-development--testing"></a>Modul 5: Codeentwicklung und Tests
+
+
+  Entwickeln von X++-Code, Entwickeln von objektorientiertem Code, Erweitern der D365 FO-Features, Beschreiben des Testframeworks und der Tools, Ausführen von Komponententests
+
+
+  #### <a name="lab--code-extension--development"></a>Lab: Codeerweiterung und Entwicklung
+
+
+  #### <a name="module-6-data-migration"></a>Modul 6: Datenmigration
+
+
+  Beschreiben von Migrationstools und -methoden, Planen der Migrationsstrategie, Aufbereiten von Daten für die Migration und Migrieren von Daten
+
+
+  #### <a name="lab--data-exportimport-using-data-entity"></a>Lab: Datenexport/-import mithilfe der Datenentität
+
+
+  #### <a name="lab--recurring-data-transfer"></a>Lab: Wiederkehrende Datenübertragung
+
+
+  #### <a name="module-7-frameworks"></a>Modul 7: Frameworks
+
+
+  Implementieren der D365 FO-Features
+
+
+  #### <a name="lab--sysextension-framework"></a>Lab : SysExtension-Framework
+
+
+  #### <a name="module-8-integration"></a>Modul 8: Integrationen
+
+
+  Identifizieren von Datenintegrationsmustern und -szenarios, Implementieren von Konzepten und Lösungen für die Datenintegration, Implementieren wiederkehrender Integrationen, Integrieren von D365FO mit Microsoft Azure, Beheben von Integrationsfehlern, Implementieren der Datenverwaltungspaket-API
+
+
+  #### <a name="lab--odata-integration"></a>Lab: OData-Integration
+
+
+  #### <a name="lab--logic-app-integration"></a>Lab: Logik-App-Integration
+
+
+  #### <a name="lab--calling-an-external-web-service"></a>Lab: Aufrufen eines externen Webdiensts
+
+
+  #### <a name="module-9-reporting"></a>Modul 9: Berichterstellung
+
+
+  Beschreiben der Features und Einschränkungen von Berichtstools in D365FO, Entwerfen, Erstellen und Überarbeiten von Dynamics-Berichten, Entwerfen, Erstellen und Überarbeiten von Dynamics-Arbeitsbereichen, Entwerfen, Erstellen und Überarbeiten von Datenquellen, von denen eine Verbindung mit Datenspeichern außerhalb von D365FO hergestellt wird
+
+
+  #### <a name="lab--power-bi-reporting-from-fo"></a>Lab: Power BI-Berichterstellung von F&O
+
+
+  #### <a name="module-10-security--performance"></a>Modul 10: Sicherheit und Leistung
+
+
+  Beschreiben und Implementieren von Leistungstools und Überwachungstools für LCS-Umgebungen, Implementieren rollenbasierter Sicherheitsrichtlinien und -anforderungen, Anwenden grundlegender Leistungsoptimierungstechniken, Optimieren der Leistung für Batchprozesse, Optimieren der Leistung der Benutzeroberfläche, Verbessern der Integrationsleistung, Optimieren der Berichtsleistung
+
+
+  #### <a name="lab--async--sandbox-functionality"></a>Lab: Asynchrone Features und Sandboxfeatures

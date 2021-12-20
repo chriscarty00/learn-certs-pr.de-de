@@ -1,19 +1,25 @@
 ### YamlMime:Course
-title: Microsoft Dynamics 365 Business Central Functional Consultant
+title: Microsoft Dynamics 365 Business Central Functional Consultant
 metadata:
-  title: 'Course MB-800T00-A: Microsoft Dynamics 365 Business Central Functional Consultant'
-  description: 'Course MB-800T00-A: Microsoft Dynamics 365 Business Central Functional Consultant'
+  title: 'Kurs MB-800T00-A: Microsoft Dynamics 365 Business Central Functional Consultant'
+  description: 'Kurs MB-800T00-A: Microsoft Dynamics 365 Business Central Functional Consultant'
+  ms.openlocfilehash: 02c0fa427c7a7c00adb2920690ed42101f0201d9
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107226"
 uid: course.mb-800t00
-courseNumber: 'MB-800T00-A'
+courseNumber: MB-800T00-A
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Anwendungsfälle für Business Central-Module verstehen
-- skill: Business Central einrichten
-- skill: Finanzdaten konfigurieren
-- skill: Verkauf und Einkauf konfigurieren
-- skill: Vorgänge konfigurieren
-- skill: Integrations- und Automatisierungsszenarien verstehen
+- skill: Verständnis von Anwendungsfällen für Business Central-Module
+- skill: Einrichten von Business Central
+- skill: Konfigurieren von Finanzdaten
+- skill: Konfigurieren von Verkauf und Einkauf
+- skill: Konfigurieren von Vorgängen
+- skill: Verstehen von Integrations- und Automatisierungsszenarios
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -26,30 +32,104 @@ products:
 - power-platform
 exams:
 - uid: exam.mb-800
-summary: |-
-  Dynamics 365 Business Central wurde für kleine und mittlere Unternehmen entwickelt und ist eine Anwendung für Unternehmen, die aus ihren Einstiegsanwendungen herausgewachsen sind.Expandierende Unternehmen wachsen häufig aus ihrer grundlegenden Buchhaltungssoftware oder ihren ERP-Systemen (Legacy Enterprise Resource Planning) heraus, die nicht in der Lage sind, erhöhte Lagerbestände und Transaktionen zu bewältigen, nicht in andere Branchen integriert sind und Einschränkungen bei der Berichterstellung aufweisen.Unternehmen stehen auch vor der Herausforderung, Serviceleistungen bereitzustellen, die skalierbarer, mobiler und in der Cloud verfügbar sind.Mit Business Central können Sie Ihre Finanzen verwalten, Ihre Lieferkette automatisieren und sichern, intelligenter verkaufen, den Kundenservice und die Projektleistung verbessern und Ihre Abläufe optimieren.
+summary: >-
+  Dynamics 365 Business Central wurde für kleine und mittlere Unternehmen entwickelt und optimiert und ist eine Anwendung für Unternehmen, deren Anforderungen die Möglichkeiten der anfänglich verwendeten Geschäftsanwendungen mittlerweile übertreffen. Wachsende Unternehmen entwickeln häufig höhere Anforderungen, als mit ihren grundlegenden Buchhaltungsanwendungen oder ERP-Legacysystemen (Enterprise Resource Planning) erfüllt werden können, die keine größeren Lagerbestände und Transaktionen verarbeiten können, nicht mit anderen Branchensystemen integriert sind und Berichtseinschränkungen aufweisen. Unternehmen haben auch mit der Logistik der Bereitstellung von Diensten zu kämpfen, die in der Cloud mehr Skalierbarkeit, erhöhte Mobilität und Verfügbarkeit bieten. Mit Business Central können Sie Ihre Finanzdaten verwalten, Ihre Lieferkette automatisieren und absichern, Produkte oder Services intelligenter verkaufen, den Kundenservice und die Projektleistung verbessern und Ihre Betriebsabläufe optimieren.
 
-  #### Zielgruppenprofil
-  Dynamics 365 Business Central-Modulberater sind für die Implementierung der wichtigsten Einrichtungsprozesse für kleine und mittlere Unternehmen verantwortlich.
-prerequisitesSection: |-
-  Dieser Kurs richtet sich an Funktionsberater, die mit Dynamics 365 Business Central arbeiten, oder an Funktionsberater, die mit anderen Dynamics 365-Apps arbeiten und ihre Kenntnisse in Business Central erweitern möchten.
-outlineSection: |-
-  ### Modul 1&#58; Einführung in Business Central
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+  Dynamics 365 Business Central Functional Consultants sind für die Implementierung der wichtigsten Einrichtungsprozesse von Anwendungen für kleine und mittlere Unternehmen verantwortlich.
+prerequisitesSection: Dieser Kurs richtet sich an Functional Consultants, die mit Dynamics 365 Business Central arbeiten, oder an Functional Consultants, die mit anderen Dynamics 365-Anwendungen arbeiten und ihr Wissen über Business Central erweitern möchten.
+outlineSection: >-
+  ### <a name="module--158-introduction-to-business-central"></a>Modul 1: Einführung in Business Central
+
   Einführung in Business Central-Module
- 
-  ### Modul 2&#58; Anwendungseinrichtung
-  
-  
-  ### Modul 3&#58; Finanzdaten konfigurieren
-  
-  
-  ### Modul 4&#58; Vertrieb und Einkauf konfigurieren
-  
-  
-  ### Modul 5&#58; Vorgänge
-  
-  
-  ### Modul 6&#58; Integration und Automatisierung
-  
-  #### Zusätzliche Lektüre
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung in Business Central
+
+  - Technologieübersicht
+
+  - Navigieren auf der Benutzeroberfläche
+
+  - Masterdaten für den Verkaufs- und Einkaufsprozess
+
+
+
+  ### <a name="module--258-application-setup"></a>Modul 2: Einrichten der Anwendung
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Erstellen und Konfigurieren eines neuen Unternehmens
+
+  - Migrieren von Daten zu Business Central
+
+  - Sicherheit verwalten
+
+  - Einrichten der wichtigsten Anwendungsfeatures
+
+  - Einrichten von Dimensionen
+
+
+
+  ### <a name="module--358-configure-financials"></a>Modul 3: Konfigurieren von Finanzdaten
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einrichten des Finanzmanagements
+
+  - Einrichten des Kontenplans
+
+  - Einrichten von Buchungsgruppen
+
+  - Fibu Buch.-Blätter
+
+  - Einrichten des Zahlungsmanagements
+
+  - Einrichten von Kreditor – Saldenrückblicke
+
+  - Einrichten von Debitorenkonten
+
+
+
+  ### <a name="module--458-configure-sales-and-purchasing"></a>Modul 4: Konfigurieren von Verkauf und Einkauf
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einrichten des Bestands
+
+  - Konfigurieren von Preisen und Rabatten
+
+
+
+  ### <a name="module--558-operations"></a>Modul 5: Betriebsabläufe
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einkaufen von Artikeln
+
+  - Verkaufen von Artikeln
+
+  - Verarbeiten von Finanztransaktionen
+
+  - Lagernachkalkulation
+
+
+
+  ### <a name="module--658-integration-and-automation"></a>Modul 6: Integration und Automatisierung
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einrichten und Verwenden von Genehmigungen mit Workflows
+
+  - Verbinden von Power Apps
+
+  - Verbinden von Power Automate
+
+  - Verbinden von Power BI
+
+
+  #### <a name="additional-reading"></a>Weiterführende Lektüre
+
   Microsoft.com/learn

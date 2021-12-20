@@ -1,10 +1,16 @@
 ### YamlMime:Course
-title: Microsoft 365 Fundamentals
+title: Grundlagen zu Microsoft 365
 metadata:
-  title: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
-  description: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
+  title: 'Kurs MS-900T01--A: Microsoft 365 Fundamentals'
+  description: 'Kurs MS-900T01--A: Microsoft 365 Fundamentals'
+  ms.openlocfilehash: f1447c156d30550bc09ec29faab6789ac7d81de9
+  ms.sourcegitcommit: 11cc92e852ff53aaf3dac9aea7f9a86d9796ee2b
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 10/18/2021
+  ms.locfileid: "132113085"
 uid: course.ms-900t01
-courseNumber: 'MS-900T01-A'
+courseNumber: MS-900T01
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -17,83 +23,123 @@ skillsGained:
 - skill: Verwaltung und Schutz von Cloud-Geräten beschreiben, einschließlich der Verwendung von Intune.
 - skill: Datenschutz beschreiben, einschließlich der Verwendung von Azure Informationsschutz.
 - skill: Kompatibilität im Allgemeinen und die Kompatibilitätsfunktionen in Microsoft 365 beschreiben.
-- skill: Microsoft 365-Abonnements, Lizenzen, Abrechnungen und Support beschreiben.
+- skill: Microsoft 365-Abonnements, Lizenzen, Abrechnungen und Support beschreiben
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
-- ja
-- zh-cn
-- ko
-- de
-- fr
-- es
-- pt-br
-- ru
-- zh-tw
-- it
 levels:
 - beginner
 roles:
-- business-user
 - administrator
-- maker
 products:
 - m365
-- windows
-- office-365
 exams:
 - uid: exam.ms-900
-summary: |-
+summary: >-
   Dieser Kurs vermittelt grundlegende Kenntnisse zu Überlegungen und Vorteilen der Einführung von Cloud-Services und des SaaS-Cloud-Modells (Software-as-a-Service), wobei der Schwerpunkt auf Microsoft 365-Cloud-Serviceangeboten liegt. Zunächst lernen Sie Grundlagen der Cloud kennen, einschließlich eines Überblicks über Cloud Computing und speziell über Microsoft Cloudservices. Sie erhalten eine Einführung in Microsoft Azure und werden die Unterschiede zwischen Microsoft 365 und Office 365 untersuchen. Anschließend führen Sie eine eingehende Überprüfung von Microsoft 365 durch, einschließlich eines Vergleichs von lokalen Microsoft-Services mit Microsoft 365-Cloudservices, einer Überprüfung der Unternehmensmobilität in Microsoft 365 und einer Analyse der Zusammenarbeit von Microsoft 365-Services. Im Kurs wird dann analysiert, wie Sicherheit, Compliance, Datenschutz und Vertrauen in Microsoft 365 gehandhabt werden, und schließt mit einer Überprüfung der Microsoft 365-Abonnements, Lizenzen, Abrechnungen und Support ab.
 
-  #### Zielgruppenprofil
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+
   Dieser Kurs richtet sich an IT-Experten, die Cloudservices in ihrem Unternehmen bereitstellen und verwalten möchten oder einfach nur grundlegende Kenntnisse über Cloud-Grundlagen erwerben möchten. Dies umfasst die Überlegungen und Vorteile der allgemeinen Einführung von Cloudservices und des speziellen SaaS-Cloud-Modells (Software-as-a-Service) mit einem allgemeinen Schwerpunkt auf Microsoft 365-Clouddienstangeboten.
-prerequisitesSection: |-
-  Dieser Kurs richtet sich an Entscheidungsträger und IT-Experten, die Cloud-Services in ihrem Unternehmen bereitstellen möchten. Die Teilnehmer sollten folgenden Hintergrund haben&#58;
-  - Allgemeines Wissen über Netzwerk-, EDV- und Cloud-Konzepte
-outlineSection: |-
-  ### Modul 1&#58; Cloud-Konzepte
-  Informieren Sie sich über die Kernkonzepte des Cloud-EDV und darüber, wie es Ihrem Unternehmen helfen kann.
-  #### Lektionen 
-  - Prinzipien der Cloud-EDV
-  - Was ist Microsoft 365?
-  - Wählen Sie eine Cloud-Bereitstellung aus
+prerequisitesSection: >-
+  Dieser Kurs richtet sich an Entscheidungsträger und IT-Experten, die Cloud-Services in ihrem Unternehmen bereitstellen möchten. Die Teilnehmer*innen sollten folgenden Hintergrund haben:
 
 
-  ### Modul 2&#58; Microsoft 365-Produktivitäts- und Teamwork-Funktionen
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Allgemeines Wissen über Netzwerk-, Computing- und Cloudkonzepte
+outlineSection: >-
+  ### <a name="module-1-microsoft-365-productivity-and-teamwork-capabilities"></a>Modul 1: Produktivitäts- und Teamwork-Funktionen in Microsoft 365
+
+
   Mehr erfahren über die Produktivitäts- und Teamwork-Lösungen in Microsoft 365 und die Funktionen, mit denen Benutzer mit Microsoft 365 - der Produktivitäts-Cloud der Welt - produktiver arbeiten können.
-  #### Lektionen 
-  - Microsoft 365-Produktivitäts- und Teamwork-Lösungen
-  - Binden Sie Mitarbeiter in Microsoft Stream, Teams und Yammer ein
-  - Erledigen Sie mehr mit Office auf allen Geräten
-  - Speichern und Freigeben von Dateien mit OneDrive und SharePoint
 
 
-  ### Modul 3&#58; Microsoft 365 Business Management-Funktionen
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Produktivitäts- und Teamwork-Lösungen in Microsoft 365
+
+
+  *   Einbinden Ihrer Mitarbeiter in Microsoft Stream, Teams und Yammer
+
+
+  *   Erledigen Sie mehr mit Office auf allen Geräten
+
+
+  *   Speichern und Freigeben von Dateien mit OneDrive und SharePoint
+
+
+
+  ### <a name="module-2-microsoft-365-business-management-capabilities"></a>Modul 2: Unternehmensverwaltungsunktionen in Microsoft 365
+
+
   Mehr erfahren über die Unternehmensverwaltungslösungen in Microsoft 365 und die Funktionen, mit denen Unternehmen mit Microsoft 365 - der Produktivitäts-Cloud der Welt - produktiver arbeiten können.
-  #### Lektionen 
-  - Verwalten Sie Ihr Unternehmen mit Microsoft 365
-  - Vereinfachen Sie die Geräteverwaltung mit Microsoft Endpoint Manager
-  - Erledigen Sie mehr und bleiben Sie sicher mit Windows 10
-  - Nutzen Sie Geschäftsanalytik mit Microsoft 365-Analysen und Berichten
 
 
-  ### Modul 4&#58; Microsoft 365-Sicherheit und -Konformität
-  Mehr erfahren über die Bereiche der Microsoft 365-Sicherheits- und Compliance-Lösungen und die verfügbaren Funktionen, mit denen Unternehmen ihr Unternehmen schützen und gesetzliche Anforderungen erfüllen können.
-  #### Lektionen 
-  - Sicherheitsprinzipien und Lösungsbereiche
-  - Identitäts- und Zugriffsmanagement
-  - Bedrohungsschutz
-  - Cloud-Sicherheit
-  - Informationsschutz und Governance
-  - Compliance-Management
-  - Verwalten von Risiken, Entdeckungen und Audits
+  #### <a name="lessons"></a>Lektionen
 
 
-  ### Modul 5&#58; Microsoft 365-Lizenzierung und Support
+  *   Verwalten Ihres Unternehmens mit Microsoft 365
+
+
+  *   Vereinfachen der Geräteverwaltung mit dem Microsoft Endpoint Manager
+
+
+  *   Mehr Schaffen und Steigern der Sicherheit mit Windows 10
+
+
+  *   Nutzen der Business Intelligence mit Microsoft 365-Analysen und -Berichten
+
+
+
+  ### <a name="module-3-microsoft-365-licensing-and-support"></a>Modul 3: Lizenzierung und Support in Microsoft 365
+
+
   Weitere Informationen zu Lizenzierungs-, Service- und Supportoptionen für Microsoft 365.
-  #### Lektionen 
-  - Identifizieren Sie die in Microsoft 365 verfügbaren Lizenzoptionen
-  - Beschreiben von Supportangeboten in Microsoft 365-Diensten
-  - Beschreiben des Service-Lebenszyklus in Microsoft 365
 
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Identifizieren von in Microsoft 365 verfügbaren Lizenzierungsoptionen
+
+
+  *   Beschreiben von Supportangeboten in Microsoft 365-Diensten
+
+
+  *   Beschreiben des Dienstlebenszyklus in Microsoft 365
+
+
+  *   Auswählen einer Cloudbereitstellung
+
+
+
+  ### <a name="module-4-microsoft-365-security-and-compliance"></a>Modul 4: Sicherheit und Compliance in Microsoft 365
+
+
+  Mehr erfahren über die Bereiche der Microsoft 365-Sicherheits- und Compliance-Lösungen und die verfügbaren Funktionen, mit denen Unternehmen ihr Unternehmen schützen und gesetzliche Anforderungen erfüllen können.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Sicherheitsprinzipien und Lösungsbereiche
+
+
+  *   Identitäts- und Zugriffsverwaltung
+
+
+  *   Bedrohungsschutz
+
+
+  *   Cloudsicherheit
+
+
+  *   Informationsschutz und Governance
+
+
+  *   Complianceverwaltung
+
+
+  *   Verwalten von Risiken, Ermittlung und Audits

@@ -1,20 +1,29 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure Solutions Architect Expert (Historisch)'
+title: 'Microsoft Certified: Azure Solutions Architect Expert (Legacy)'
 metadata:
-  title: 'Microsoft Certified: Azure Solutions Architect Expert (Historisch)'
-  description: 'Azure Solution-Architects entwerfen und implementieren Lösungen, die unter Microsoft Azure ausgeführt werden, einschließlich Aspekten wie Computer, Netzwerk, Speicher und Sicherheit.'
+  title: 'Microsoft Certified: Azure Solutions Architect Expert (Legacy)'
+  description: Azure Solution-Architects entwerfen und implementieren Lösungen, die unter Microsoft Azure ausgeführt werden, einschließlich Aspekten wie Computer, Netzwerk, Speicher und Sicherheit.
+  ms.openlocfilehash: 8791223e344a17a0bb408c2768afb6747bc57d31
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132110927"
 uid: certification.azure-solutions-architect-erlr
-certificationRenewalUid: renewal.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  <div><font color="#D83B01"><strong>Diese Version der Zertifizierung ist nicht mehr verfügbar. Wenn Sie diese Version der Zertifizierung haben, erhalten Sie automatisch die neueste Version der Zertifizierung.<br/><br/>  Beide Versionen der Zertifizierung werden in Ihren Zertifizierungen aufgeführt. Sie müssen nur die neuere Version erneuern. Sobald die vorherige Version abläuft, wird sie in den Abschnitt mit dem Zertifizierungsverlauf Ihres Transkripts verschoben.<br/><br/></strong></font></div>
-  
-  Kandidaten für Azure Solutions Architect Expert certification sollten über Fachkenntnisse beim Entwerfen und Implementieren von Lösungen verfügen, die unter Microsoft Azure ausgeführt werden, einschließlich Aspekten wie Computer, Netzwerk, Speicher und Sicherheit. Kandidaten sollten über fortgeschrittene Kenntnisse zur Verwaltung von Azure verfügen.Kandidaten sollten über Azure-Entwicklungs- und DevOps-Prozesse Bescheid wissen.
-  
+summary: >-
+  <div><font color="#D83B01"><strong>Diese Version der Zertifizierung ist nicht mehr verfügbar. Wenn Sie über diese Version der Zertifizierung verfügen, erhalten Sie automatisch die aktuelle Version der Zertifizierung.<br/><br/>  Beide Versionen werden in Ihren Zertifizierungen aufgeführt. Sie müssen nur die aktuellere Version erneuern. Wenn die vorherige Version abläuft, wird sie in den Abschnitt „Zertifizierungsverlauf“ Ihres Transkripts verschoben.<br/><br/></strong></font></div>
+
+
+  Kandidaten für Azure Solutions Architect Expert certification sollten über Fachkenntnisse beim Entwerfen und Implementieren von Lösungen verfügen, die unter Microsoft Azure ausgeführt werden, einschließlich Aspekten wie Computer, Netzwerk, Speicher und Sicherheit. Kandidat*innen sollten über fortgeschrittene Fähigkeiten im Verwalten von Azure verfügen. Kandidat*innen sollten die Entwicklung mit Azure und DevOps-Prozesse verstehen.
+
+
   Zu den Aufgabenin dieser Position gehören die Beratung von Stakeholdern und die Umsetzung von Geschäftsanforderungen in sichere, skalierbare und zuverlässige Cloud-Lösungen.
-  
+
+
   Ein Azure Solution Architect arbeitet mit Cloud-Administratoren, Cloud-Datenbankadministratoren und Clients zusammen, um Lösungen zu implementieren.
-  
+
+
   Ein Kandidat für diese Zertifizierung sollte über umfassende Erfahrung und Kenntnisse in verschiedenen Aspekten des IT-Betriebs verfügen, einschließlich Netzwerk, Virtualisierung, Identität, Sicherheit, Geschäftskontinuität, Notfallwiederherstellung, Datenmanagement, Budgetierung und Governance. Jemand in dieser Position sollte Entscheidungen in den einzelnen Bereichen steuern, die eine Gesamtlösung beeinflussen. Darüber hinaus sollte diese Rolle über Expertenkenntnisse in der Azure-Verwaltung verfügen und Erfahrung mit der Azure-Entwicklung und den DevOps-Prozessen haben.
 subTitle: Azure Solution-Architects entwerfen und implementieren Lösungen, die unter Microsoft Azure ausgeführt werden, einschließlich Aspekten wie Computer, Netzwerk, Speicher und Sicherheit.
 hidden: true
@@ -22,7 +31,7 @@ hideFishboneDiagram: true
 levels:
 - advanced
 skills:
-- Keine
+- None
 roles:
 - solution-architect
 type: role-based
@@ -73,13 +82,13 @@ resources:
 - title: Reise zur Zertifizierung
   description: Informieren Sie sich über die Schritte zur Zertifizierung als Azure Solutions Architect Expert und über die verfügbaren Ressourcen, die Ihnen bei der Vorbereitung helfen können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
-- title: Informieren Sie sich über die Zertifizierungen
+- title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Prüfungswiederholung
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: deals.md
 - title: Unterstützung von Zertifizierungen
@@ -88,7 +97,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Erhalten Sie Ihren Microsoft-Zertifizierungsbadge, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: badges.md
-

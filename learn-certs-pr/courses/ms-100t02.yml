@@ -1,20 +1,26 @@
 ### YamlMime:Course
 title: Microsoft 365 Tenant & Service Management
 metadata:
-  title: 'Kurs MS-100T02-A: Microsoft 365 Tenant & Service Management'
-  description: 'Kurs MS-100T02-A: Microsoft 365 Tenant & Service Management'
+  title: 'Kurs MS-100T02-A: Microsoft 365 Tenant and Service Management'
+  description: 'Kurs MS-100T02-A: Microsoft 365 Tenant and Service Management'
+  ms.openlocfilehash: 08fbdba578a8faddc90cb50c085aa063bc99a202
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107106"
 uid: course.ms-100t02
-courseNumber: 'MS-100T02-A'
+courseNumber: MS-100T02-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Planen einer Microsoft 365 Vor-Ort-Infrastruktur
-- skill: Planen ihrer Identitäts- und Authentifizierungslösung
-- skill: Planen und konfigurieren ihrer Microsoft 365-Erfahrung
-- skill: Nutzen der FastTrack- und Partnerdienste von Microsoft
-- skill: Implementieren ihrer Domaindienste
-- skill: Konfigurieren der Microsoft 365-Mandantenrolle
-- skill: Verwalten des Microsoft 365-Tenant Health and Services
+- skill: Planen einer lokalen Microsoft 365-Infrastruktur
+- skill: Planen einer Identitäts- und Authentifizierungslösung
+- skill: Planen und Konfigurieren einer Microsoft 365-Benutzeroberfläche
+- skill: Nutzen von Microsoft FastTrack und Partnerdiensten
+- skill: Implementieren von Domänendiensten
+- skill: Konfigurieren von Microsoft 365-Mandantenrollen
+- skill: Verwalten der Integrität und Dienste von Microsoft 365-Mandanten
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -28,40 +34,63 @@ products:
 - office-365
 exams:
 - uid: exam.ms-100
-summary: |-
-  Erfahren Sie mehr über das Microsoft 365-Tenant and Service Management, einschließlich Planung, Verwaltung und Anpassung des Microsoft 365-Tenant and Service Managements.
+summary: >-
+  Hier erfahren Sie mehr über Microsoft 365 Tenant and Service Management, einschließlich wie Sie die Microsoft 365-Mandanten und -Dienste einer Organisation planen, verwalten und anpassen.
 
-  #### Zielgruppenprofil
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
   Dieser Kurs richtet sich an Personen, die die Microsoft 365 Enterprise-Administratorrolle anstreben und einen der Microsoft 365-Zertifizierungspfade für rollenbasierte Administratoren abgeschlossen haben.
-prerequisitesSection: |-
-  - Abschluss eines rollenbasierten Administratorkurses wie z.B. Nachrichtenvermittlung, Teamwork, Sicherheit und Compliance oder Zusammenarbeit.
-  - Ein fundiertes Verständnis von DNS und grundlegenden Funktionserfahrungen mit Microsoft 365-Diensten.
+prerequisitesSection: >-
+  - Abschluss eines rollenbasierten Administratorkurses wie z. B. Messaging, Teamwork, Sicherheit und Compliance oder Zusammenarbeit.
+
+  - Ein fundiertes Verständnis von DNS und grundlegenden Funktionserfahrung mit Microsoft 365-Diensten.
+
   - Ein fundiertes Verständnis allgemeiner IT-Praktiken.
-outlineSection: |-
-  ### Modul 1&#58; Entwerfen Ihres Microsoft 365-Tenant
-  #### Lektionen
-  - Planen einer lokalen Microsoft 365-Infrastruktur
+outlineSection: >-
+  ### <a name="module--158-designing-your-microsoft-365-tenant"></a>Modul 1: Entwerfen Ihres Microsoft 365-Mandanten
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Planen einer lokalen Microsoft 365-Infrastruktur
+
   - Planung Ihrer Identitäts- und Authentifizierungslösung
 
 
-  ### Modul 2&#58; Konfigurieren Ihres Microsoft 365-Tenant
-  #### Lektionen
-  - Planen Ihres Microsoft 365-Erlebnisses
-  - Konfigurieren Ihres Microsoft 365 Erlebnisses
-  - Nutzung von FastTrack- und Partnerdiensten
+
+  ### <a name="module--258-configuring-your-microsoft-365-tenant"></a>Modul 2: Konfigurieren Ihres Microsoft 365-Mandanten
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Planen Ihrer Microsoft 365-Benutzeroberfläche
+
+  - Konfigurieren Ihrer Microsoft 365-Benutzeroberfläche
+
+  - Nutzen von FastTrack- und Partnerdiensten
+
   - Implementieren Ihrer Domaindienste
 
 
-  ### Modul 3&#58; Verwalten Ihres Microsoft 365-Tenants
-  #### Lektionen
-  - Konfigurieren von Mandanten-Rollen
-  - Tenant Health and Services verwalten
+
+  ### <a name="module--358-managing-your-microsoft-365-tenant"></a>Modul 3: Verwalten Ihres Microsoft 365-Mandanten
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Konfigurieren von Mandantenrollen
+
+  - Verwalten von Mandantenintegrität und -diensten
 
 
-  ### Modul 4&#58; Praktisches Labor
 
-  #### Labor&#58; Microsoft 365 Tenant and Service Management
-  - Übung 1&#58; Erstellen eines Microsoft 365-Testmieters
-  - Übung 2&#58; Verwalten von Microsoft 365-Benutzern, -Gruppen und -Administration
-  - Übung 3&#58; Konfigurieren von Rechtsverwaltung und Compliance
-  - Übung 4&#58; Überwachen und Beheben von Problemen in Microsoft 365
+  ### <a name="module--458-hands-on-lab"></a>Modul 4: Praxislab
+
+
+  #### <a name="lab-58-microsoft-365-tenant-and-service-management"></a>Lab: Microsoft 365 Tenant and Service Management
+
+  - Übung 1: Erstellen eines Microsoft 365-Testmandanten
+
+  - Übung 2: Verwalten von Microsoft 365-Benutzer*innen, -Gruppen und Administration
+
+  - Übung 3: Konfigurieren von Rights Management und Compliance
+
+  - Übung 4: Überwachen und Problembehandlung bei Microsoft 365

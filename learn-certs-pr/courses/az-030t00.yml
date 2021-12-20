@@ -1,21 +1,27 @@
 ### YamlMime:Course
 title: Microsoft Azure technologies for AWS architects
 metadata:
-  title: 'Course AZ-030T00-A: Microsoft Azure technologies for AWS architects'
-  description: 'Course AZ-030T00-A: Microsoft Azure technologies for AWS architects'
+  title: 'Kurs AZ-030T00--A: Microsoft Azure technologies for AWS architects'
+  description: 'Kurs AZ-030T00--A: Microsoft Azure technologies for AWS architects'
+  ms.openlocfilehash: 17cde286906d4ce6c105c4272c1e9a7beb92705e
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107706"
 uid: course.az-030t00
-courseNumber: 'AZ-030T00-A'
+courseNumber: AZ-030T00
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Sichere Identitäten mit Azure Active Directory sowie Benutzern und Gruppen.
-- skill: Implementieren von Identitätslösungen, die lokale und Cloud-basierte Funktionen umfassen.
+- skill: Implementieren von Identitätslösungen, die lokale und Cloud-basierte Funktionen umfassen
 - skill: Anwenden von Überwachungslösungen zum Sammeln, Kombinieren und Analysieren von Daten aus verschiedenen Quellen.
 - skill: Verwalten von Abonnements, Accounts, Azure-Richtlinien und rollenbasierter Zugriffssteuerung.
 - skill: Verwalten von Azure mithilfe des Ressourcenmanagers, des Azure-Portals, der Cloud-Shell und der CLI.
 - skill: Konfigurieren standortübergreifender Konnektivitätslösungen wie VNet Peering und virtuelle Netzwerk-Gateways.
 - skill: Verwalten Sie den Azure App-Service, Azure Container-Instanzen und Kubernetes.
-learningPartnersLink: /learn/certifications/partners
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 - ja
@@ -27,224 +33,501 @@ roles:
 - solution-architect
 products:
 - azure
-summary: |-
-  In diesem Kurs lernen Lösungsarchitekten, die zuvor für Amazon Web Services entworfen haben, Geschäftsanforderungen in sichere, skalierbare und zuverlässige Lösungen für Azure umzusetzen. Die Lektionen umfassen Virtualisierung, Automatisierung, Netzwerk, Speicher, Identität, Sicherheit, Datenplattform und Anwendungsinfrastruktur. In diesem Kurs wird erläutert, wie sich Entscheidungen in den einzelnen Bereichen auf eine Gesamtlösung auswirken
+summary: >-
+  In diesem Kurs lernen Lösungsarchitekten, die zuvor für Amazon Web Services entworfen haben, Geschäftsanforderungen in sichere, skalierbare und zuverlässige Lösungen für Azure umzusetzen. Die Lektionen umfassen Virtualisierung, Automatisierung, Netzwerk, Speicher, Identität, Sicherheit, Datenplattform und Anwendungsinfrastruktur. In diesem Kurs wird erläutert, wie sich Entscheidungen in den einzelnen Bereichen auf eine Gesamtlösung auswirken.
 
-  #### Zielgruppenprofil
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
 
   Dieser Kurs richtet sich an AWS Cloud Architects mit Fachkenntnissen im Entwerfen und Implementieren von Lösungen, die unter AWS ausgeführt werden und jetzt für Microsoft Azure entwerfen möchten.
-prerequisitesSection: |-
-  Um in diesem Kurs erfolgreich zu sein, sollten die Teilnehmer Folgendes aufweisen&#58;
+prerequisitesSection: >-
+  Die Teilnehmer sollten über Folgendes verfügen, um in diesem Kurs erfolgreich zu sein:
 
-  - Erfahrung (&gt;1Jahr) als AWS-Architekt beim Entwerfen sicherer und skalierbarer AWS-Cloud-Lösungen für Speicherstrukturen, Computer, Netzwerke und die Interaktion mit externen Ressourcen/Services.
-  - Verständnis lokaler Virtualisierungstechnologien&#58;VMs, virtueller Netzwerke und virtueller Festplatten.
-  - Grundlegendes zur Netzwerkkonfiguration, einschließlich TCP/IP, DNS (Domain Name System), VPNs (Virtual Private Networks), Firewalls und Verschlüsselungstechnologien.
-  - Grundlegendes zu Active Directory-Konzepten, einschließlich Domains, Gesamtstrukturen, Domain-Controllern, Replikation, Kerberos-Protokoll und LDAP (Lightweight Directory Access Protocol).
-  - Grundlegendes zu Ausfallsicherheit und Notfallwiederherstellung, einschließlich Sicherungs- und Wiederherstellungsvorgängen.
-  - Grundlagen der Programmiergrundlagen und Verwendung einer Skriptsprache.
+
+  *   Erfahrung (&gt; 1 Jahr) als AWS-Architekt beim Entwerfen sicherer und skalierbarer AWS Cloud-Lösungen für Speicherstrukturen, Compute, Netzwerke und die Interaktion mit externen Ressourcen/Services
+
+
+  *   Kenntnisse zu lokalen Virtualisierungstechnologien, z. B. VMs, virtuelle Netzwerke und virtuelle Festplatten
+
+
+  *   Kenntnisse zur Netzwerkkonfiguration, z. B. TCP/IP, DNS (Domain Name System), VPNs (virtuelle private Netzwerke), Firewalls und Verschlüsselungstechnologien
+
+
+  *   Verständnis von Active Directory-Konzepten, einschließlich Domänen, Gesamtstrukturen, Domänencontrollern, Replikation, Kerberos-Protokoll und LDAP (Lightweight Directory Access Protocol).
+
+
+  *   Verständnis von Ausfallsicherheit und Notfallwiederherstellung, u. a. von Sicherungs- und Wiederherstellungsvorgängen
+
+
+  *   Verständnis von Programmiergrundlagen und Verwendung einer Skriptsprache
+
 
   Kandidaten profitieren von der Vertrautheit mit der Azure-Verwaltung, den Azure-Entwicklungsprozessen und den DevOps-Prozessen.
-outlineSection: |-
-  ### Modul 1&#58; Einführung in MDX
+outlineSection: >-
+  ### <a name="module-1-introduction-to-azure"></a>Modul 1: Einführung in Azure
+
+
   In diesem Modul erfahren Sie, wie Azure Abonnements und Accounts organisiert, und Sie können Ressourcengruppen und Vorlagen einrichten, um die Erstellung und das Lebenszyklusmanagement Ihrer Ressourcen zu standardisieren.
-  #### Lektionen
-  * Abonnements und Accounts
-  * Ressourcengruppen und Vorlagen in Azure Resource Manager
-
-  Nach Abschluss dieses Moduls werden Sie in der Lage sein&#58;
-  * Bestimmen Sie den Accounttyp und das Abonnement, die für Ihre Lösung am besten geeignet sind.
-  * Erstellen Sie Ressourcengruppen und Vorlagen, um Lösungen zu standardisieren und zu verwalten.
 
 
-  ### Modul 2&#58; Globale Azure-Infrastruktur
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Abonnements und Konten
+
+
+  *   Ressourcengruppen und Vorlagen in Azure Resource Manager
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Bestimmen des für Ihre Lösung am besten geeigneten Kontos und Abonnements
+
+
+  *   Erstellen von Ressourcengruppen und Vorlagen zum Standardisieren und Verwalten von Lösungen
+
+
+  ### <a name="module-2-azure-global-infrastructure"></a>Modul 2: Globale Azure-Infrastruktur
+
+
   In diesem Modul sehen Sie die weltweite Architektur von Microsoft Azure und wie sich diese Architektur auf die Verfügbarkeit und Zuverlässigkeit Ihrer Anwendungen und Websites auswirkt.
-  #### Lektionen
-  * Azure Regionen
-  * Azure-Verfügbarkeitszonen
-  * Vergleich mit AWS
-
-  Nach Abschluss dieses Moduls werden Sie in der Lage sein&#58;
-  * Implementieren Sie eine Architektur, die die für Ihre Lösung erforderliche Verfügbarkeit und Zuverlässigkeit bietet.
 
 
-  ### Modul 3&#58; Implementieren Sie Azure Active Directory
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Azure-Regionen
+
+
+  *   Azure-Verfügbarkeitszonen
+
+
+  *   Vergleich mit AWS
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Implementieren einer Architektur, die die für Ihre Lösung erforderliche Verfügbarkeit und Zuverlässigkeit bietet
+
+
+  ### <a name="module-3-implement-azure-active-directory"></a>Modul 3: Implementieren von Azure Active Directory
+
+
   In diesem Modul erfahren Sie, wie Sie Identitäten mit Azure Active Directory sichern und Benutzer und Gruppen implementieren.
-  #### Lektionen
-  * Einführung in Azure Active Directory
-  * Domains und benutzerdefinierte Domains
-  * Sicherheitsfunktionen
-  * Gastbenutzer in Azure Active Directory
-  * Mehrere Verzeichnisse verwalten
-  * Vergleich mit AWS
-
-  Nach Abschluss dieses Moduls werden Sie in der Lage sein&#58;
-  * Sichern und Verwalten von Identitäten mit Azure Active Directory.
-  * Implementieren Sie Benutzer und Gruppen.
 
 
-  ### Modul 4&#58; Implementieren und Verwalten hybrider Identitäten
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Einführung in Azure Active Directory
+
+
+  *   Domänen und benutzerdefinierte Domänen
+
+
+  *   Sicherheitsfeatures
+
+
+  *   Gastbenutzer in Azure Active Directory
+
+
+  *   Verwalten von mehreren Verzeichnissen
+
+
+  *   Vergleich mit AWS
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Absichern von Identitäten mit Azure Active Directory
+
+
+  *   Implementieren von Benutzern und Gruppen
+
+
+  ### <a name="module-4-implement-and-manage-hybrid-identities"></a>Modul 4: Implementieren und Verwalten hybrider Identitäten
+
+
   In diesem Modul erfahren Sie, wie Sie Ihre lokalen Active Directory-Accounts auf die Cloud erweitern und die Konten synchronisieren können.
-  #### Lektionen
-  * Einführung in Azure AD Connect
-  * Vergleich mit AWS
-
-  Nach Abschluss dieses Moduls werden Sie in der Lage sein&#58;
-  * Verwenden Sie Ihr lokales Active Directory-Account, um sich bei Ihrer Cloud-Lösung zu authentifizieren.
-  * Synchronisieren Sie Accounts zwischen lokal und der Cloud.
 
 
-  ### Modul 5&#58; Implementieren eines virtuellen Netzwerks
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Einführung in Azure AD Connect
+
+
+  *   Vergleich mit AWS
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Verwenden des lokalen Active Directory-Kontos zum Authentifizieren bei Ihrer Cloudlösung
+
+
+  *   Synchronisieren von Konten zwischen lokaler Bereitstellung und Cloudbereitstellung
+
+
+  ### <a name="module-5-implement-virtual-networking"></a>Modul 5: Implementieren eines virtuellen Netzwerks
+
+
   In diesem Modul lernen Sie grundlegende Konzepte für virtuelle Netzwerke wie z.B. virtuelle Netzwerke und Subnetze, IP-Adressierung, Azure DNS, Netzwerksicherheitsgruppen und Azure Firewall kennen.
-  #### Lektionen
-  * Azure Virtual Network und VNet Peering
-  * VPN- und ExpressRoute-Verbindungen
-  * Vergleich mit AWS
-
-  Nach Abschluss dieses Moduls werden Sie in der Lage sein&#58;
-  * Entwerfen Sie virtuelle Netzwerke unter Berücksichtigung der Sicherheit.
 
 
-  ### Modul 6&#58; Implementieren von VMs für Windows und Linux
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Azure Virtual Network und VNet-Peering
+
+
+  *   VPN- und ExpressRoute-Verbindungen
+
+
+  *   Vergleich mit AWS
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Entwerfen virtueller Netzwerke unter Berücksichtigung der Sicherheit
+
+
+  ### <a name="module-6-implement-vms-for-windows-and-linux"></a>Modul 6: Implementieren von VMs für Windows und Linux
+
+
   In diesem Modul erfahren Sie, wie man VMs für hohe Verfügbarkeit konfiguriert und Skalierungssätze bereitstellt und konfiguriert.
-  #### Lektionen
-  Hochverfügbarkeit konfigurieren
-  * Vergleich mit AWS
-
-  Nach Abschluss dieses Moduls werden Sie in der Lage sein&#58;
-  * Implementieren Sie VMs, um Hochverfügbarkeitslösungen zu erstellen.
-  * Bereitstellen und Konfigurieren von Skalensätzen.
 
 
-  ### Modul 7&#58; Implementieren von Load Balancing und Netzwerksicherheit
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Konfigurieren von Hochverfügbarkeit
+
+
+  *   Vergleich mit AWS
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Implementieren von VMs zum Erstellen von Hochverfügbarkeitslösungen
+
+
+  *   Bereitstellen und Konfigurieren von Skalierungsgruppen.
+
+
+  ### <a name="module-7-implement-load-balancing-and-network-security"></a>Modul 7: Implementieren von Lastenausgleich und Netzwerksicherheit
+
+
   In diesem Modul erfahren Sie, wie man Azure Load Balancer implementieren und Sicherheitsgruppen einrichten kann.
-  #### Lektionen
-  * Azure Lastausgleicher implementieren
-  * Implementieren Sie ein Azure Anwendungs-Gateway
-  * Implementieren Sie die Azure-Firewall
-  * Implementieren Sie Netzwerksicherheitsgruppen und Anwendungssicherheitsgruppen
-  * Vergleich mit AWS
-
-  Nach Abschluss dieses Moduls werden Sie in der Lage sein&#58;
-  * Implementieren Sie die Komponenten des Lastausgleichs.
-  * Richten Sie Netzwerk- und Anwendungssicherheitsgruppen ein.
 
 
-  ### Modul 8&#58; Implementieren Sie containergestützte Anwendungen
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Implementieren von Azure Load Balancer
+
+
+  *   Implementieren eines Azure Application Gateways
+
+
+  *   Implementieren von Azure Firewall
+
+
+  *   Implementieren von Netzwerksicherheitsgruppen und Anwendungssicherheitsgruppen
+
+
+  *   Vergleich mit AWS
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Implementieren der Komponenten des Lastenausgleichs
+
+
+  *   Einrichten von Netzwerk- und Anwendungssicherheitsgruppen
+
+
+  ### <a name="module-8-implement-container-based-applications"></a>Modul 8: Implementieren von containerbasierten Anwendungen
+
+
   In diesem Modul erfahren Sie, wie man den Azure Kubernetes-Service konfiguriert und eine Lösung in einem Azure-Container veröffentlicht.
-  #### Lektionen
-  * Konfigurieren Sie den Azure-Kybernetes-Service
-  * Veröffentlichen Sie eine Lösung auf einer Azure Container-Instanz
-  * Vergleich mit AWS
-
-  Nach Abschluss dieses Moduls werden Sie in der Lage sein&#58;
-  * Konfigurieren Sie den Azure Kubernetes-Service für Ihre Lösung.
-  * Veröffentlichen Sie Ihre Lösung auf einer Azure Container-Instanz.
 
 
-  ### Modul 9&#58; Implementieren Sie eine Anwendungsinfrastruktur
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Konfigurieren von Azure Kubernetes Service
+
+
+  *   Veröffentlichen einer Lösung in einer Azure-Containerinstanz
+
+
+  *   Vergleich mit AWS
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Konfigurieren des Azure Kubernetes Service für Ihre Lösung
+
+
+  *   Veröffentlichen Ihrer Lösung in einer Azure-Containerinstanz
+
+
+  ### <a name="module-9-implement-an-application-infrastructure"></a>Modul 9: Implementieren einer Anwendungsinfrastruktur
+
+
   In diesem Modul lernen Sie die Grundlagen zum Auswählen eines App Service-Plans, zum Konfigurieren Ihres Plans und zum Einrichten von Logik-Apps und Azure-Funktionen.
-  #### Lektionen
-  * Einen App-Serviceplan erstellen.
-  * Erstellen und Konfigurieren des Azure App-Services
-  * Konfigurieren Sie das Netzwerk für einen App-Service
-  * Einführung in Logik-Apps und Azure-Funktionen
-  * Vergleich mit AWS
-
-  Nach Abschluss dieses Moduls werden Sie in der Lage sein&#58;
-  * Wählen Sie einen für Ihre Lösung geeigneten App Service-Plan.
-  * Konfigurieren Sie den App Service.
-  * Integrieren Sie Logik-Apps und Azure-Funktionen in Ihre Lösung.
 
 
-  ### Modul 10&#58; Implementieren Sie Speicher-Accounts
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Wie erstelle ich einen Plan?
+
+
+  *   Erstellen und Konfigurieren von Azure App Service
+
+
+  *   Konfigurieren des Netzwerks für einen App Service
+
+
+  *   Einführung in Logic Apps und Azure Functions
+
+
+  *   Vergleich mit AWS
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Auswählen eines für Ihre Lösung geeigneten App Service-Plans
+
+
+  *   Konfigurieren des App Service
+
+
+  *   Integrieren von Logic Apps und Azure Functions in Ihre Lösung
+
+
+  ### <a name="module-10-implement-storage-accounts"></a>Modul 10: Implementieren von Speicherkonten
+
+
   In diesem Modul werden Sie in Azure Storage und in Konfiguration von Netzwerkzugriff, Replikation, Authentifizierung, Zugriff und Failover eingeführt.
-  #### Lektionen
-  * Azure Spreicher-Kernkonzepte
-  * Verwalten des Azure Blob-Speicherlebenszyklus
-  * Arbeit mit Azure Blob Storage
-  * Vergleich mit AWS
-
-  Nach Abschluss dieses Moduls werden Sie in der Lage sein&#58;
-  * Wählen Sie ein geeignetes Azure-Speicheaccount für Ihre Lösung aus.
-  * Konfigurieren Sie Ihr Speicheraccount.
 
 
-  ### Modul 11&#58; Implementieren Sie NoSQL-Datenbanken
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Azure Storage-Kernkonzepte
+
+
+  *   Verwalten des Azure Blob Storage-Lebenszyklus
+
+
+  *   Arbeiten mit Azure Blob Storage
+
+
+  *   Vergleich mit AWS
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Auswählen eines geeigneten Azure Storage-Kontos für Ihre Lösung
+
+
+  *   Konfigurieren Ihres Speicherkontos
+
+
+  ### <a name="module-11-implement-nosql-databases"></a>Modul 11: Implementieren von NoSQL-Datenbanken
+
+
   In diesem Modul erfahren Sie mehr über Azure Cosmos DB und dessen Konfiguration.
-  #### Lektionen
-  * Einführung in Azure Cosmos DB
-  * Übereinstimmung
-  * Wählen Sie die entsprechenden CosmosDB-APIs aus
-  * Richten Sie Replikate in CosmosDB ein
-  * Vergleich mit AWS DynamoDB
-
-  Nach Abschluss dieses Moduls werden Sie in der Lage sein&#58;
-  * Konfigurieren Sie eine NoSQL-Datenbanklösung mit Hilfe von Azure Cosmos DB.
 
 
-  ### Modul 12&#58; Implementieren Sie Azure SQL-Datenbanken
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Einführung in Azure Cosmos DB
+
+
+  *   Konsistenz
+
+
+  *   Auswählen geeigneter CosmosDB-APIs
+
+
+  *   Einrichten von Replikaten in CosmosDB
+
+
+  *   Vergleich mit AWS DynamoDB
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Konfigurieren einer NoSQL-Datenbanklösung mithilfe von Azure Cosmos DB
+
+
+  ### <a name="module-12-implement-azure-sql-databases"></a>Modul 12: Implementieren von Azure SQL-Datenbanken
+
+
   In diesem Modul erfahren Sie, wie man verwaltete Instanzen der Azure SQL-Datenbank implementieren und für hohe Verfügbarkeit konfigurieren kann.
-  #### Lektionen
-  * Konfigurieren Sie die Azure SQL-Datenbankeinstellungen
-  * Implementieren Sie verwaltete Azure SQL-Datenbankinstanzen
-  * Konfigurieren Sie die Hochverfügbarkeit für eine Azure SQL-Datenbank
-  * Vergleich mit AWS
-
-  Nach Abschluss dieses Moduls werden Sie in der Lage sein&#58;
-  * Implementieren Sie verwaltete Instanzen der Azure SQL-Datenbank.
-  * Konfigurieren Sie Ihre Datenbank für hohe Verfügbarkeit.
 
 
-  ### Modul 13&#58; Implementieren Sie die Überwachung der Cloud-Infrastruktur
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Konfigurieren der Azure SQL-Datenbankeinstellungen
+
+
+  *   Implementieren der verwalteten Azure SQL-Datenbankinstanzen
+
+
+  *   Konfigurieren von Hochverfügbarkeit für eine Azure SQL-Datenbank
+
+
+  *   Vergleich mit AWS
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Implementieren verwalteter Instanzen der Azure SQL-Datenbank
+
+
+  *   Konfigurieren der Datenbank für Hochverfügbarkeit
+
+
+  ### <a name="module-13-implement-cloud-infrastructure-monitoring"></a>Modul 13: Implementieren der Überwachung der Cloudinfrastruktur
+
+
   In diesem Modul erfahren Sie, wie Sie mit Azure Monitor Warnungen festlegen und Kosten protokollieren und verwalten.
-  #### Lektionen
-  * Überwachen Sie die Sicherheit
-  * Kosten überwachen
-  * Konfigurieren Sie einen Log Analytics*Arbeitsbereich
-  * Vergleich mit AWS
-
-  Nach Abschluss dieses Moduls werden Sie in der Lage sein&#58;
-  * Richten Sie die Sicherheitsüberwachung für Ihre Lösung ein.
-  * Überwachen Sie die Kosten durch Analyse der Protokolle.
 
 
-  ### Modul 14&#58; Implementieren und Verwalten von Azure Governance-Lösungen
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Überwachen der Sicherheit
+
+
+  *   Überwachen der Kosten
+
+
+  *   Konfigurieren eines Log Analytics-Arbeitsbereichs
+
+
+  *   Vergleich mit AWS
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Einrichten der Sicherheitsüberwachung für Ihre Lösung
+
+
+  *   Überwachen der Kosten durch Analyse der Protokolle
+
+
+  ### <a name="module-14-implement-and-manage-azure-governance-solutions"></a>Modul 14: Implementieren und Verwalten von Azure Governance-Lösungen
+
+
   In diesem Modul erfahren Sie, wie man die rollenbasierte Zugriffssteuerung konfiguriert und die Azure-Richtlinie so konfiguriert, dass die Einhaltung der Governance-Anforderungen erzwungen wird.
-  #### Lektionen
-  * RBAC-Rollen zuordnen
-  * Verwaltungszugriff auf Azure konfigurieren
-  * Implementieren und Konfigurieren einer Azure-Richtlinie
-  * Vergleich mit AWS
-
-  Nach Abschluss dieses Moduls werden Sie in der Lage sein&#58;
-  * Konfigurieren Sie RBAC-Rollen für den Governance-Zugriff.
-  * Konfigurieren Sie eine Azure-Richtlinie, um die Einhaltung der Governance-Anforderungen durchzusetzen.
 
 
-  ### Modul 15&#58; Verwalten Sie die Sicherheit für alle Anwendungen
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Zuweisen von RBAC-Rollen
+
+
+  *   Konfigurieren des Verwaltungszugriffs auf Azure
+
+
+  *   Implementieren und Konfigurieren einer Azure-Richtlinie
+
+
+  *   Vergleich mit AWS
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Konfigurieren von RBAC-Rollen für den Governancezugriff
+
+
+  *   Konfigurieren einer Azure-Richtlinie zum Durchsetzen der Einhaltung von Governanceanforderungen
+
+
+  ### <a name="module-15-manage-security-for-applications"></a>Modul 15: Verwalten von Sicherheit für Anwendungen
+
+
   In diesem Modul erfahren Sie, wie man KeyVault implementiert und konfiguriert, Anwendungen in Azure Active Directory registriert und verwaltet und verwaltete Azure Active Directory-Identitäten konfiguriert.
-  #### Lektionen
-  * Implementieren Sie Azure Key Vault
-  * Implementieren und konfigurieren Sie verwaltete Azure AD-Identitäten
-  * Registrieren und Verwalten von Anwendungen in Azure AD
-  * Vergleich mit AWS
-
-  Nach Abschluss dieses Moduls werden Sie in der Lage sein&#58;
-  * Registrieren Sie Ihre App in Azure Active Directory.
-  * Konfigurieren Sie Azure Active Directory für verwaltete Identitäten, die von Ihrer App für den Zugriff auf Daten verwendet werden.
 
 
-  ### Modul 16&#58; Migrations-, Backup- und Disaster Recovery-Management
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Implementieren von Azure Key Vault
+
+
+  *   Implementieren und Konfigurieren von verwalteten Azure AD-Identitäten
+
+
+  *   Registrieren und Verwalten von Anwendungen in Azure AD
+
+
+  *   Vergleich mit AWS
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Registrieren Ihrer App in Azure Active Directory
+
+
+  *   Konfigurieren von Azure Active Directory für verwaltete Identitäten, die von Ihrer App für den Zugriff auf Daten verwendet werden
+
+
+  ### <a name="module-16-migration-backup-and-disaster-recovery-management"></a>Modul 16: Verwalten von Migration, Sicherung und Notfallwiederherstellung
+
+
   In diesem Modul erfahren Sie, wie man Workloads migriert und jetzt Backups, Disaster Recovery und Updates verwaltet.
-  #### Lektionen
-  * Migrieren Sie Workloads
-  * Implementieren Sie Azure Backup für VMs
-  * Implementieren Sie Disaster Recovery
-  * Vergleich mit AWS
 
-  Nach Abschluss dieses Moduls werden Sie in der Lage sein&#58;
-  * Migrieren Sie Workloads in die Cloud und über VMs hinweg.
-  * Implementieren Sie Cloud-Backups.
-  * Implementieren Sie Disaster Recovery-Optionen.
-  * Implementieren Sie Aktualisierungsstrategien, die negative Auswirkungen auf Verfügbarkeit und Leistung vermeiden.
 
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Migrieren von Workloads
+
+
+  *   Implementieren von Azure Backup für VMs
+
+
+  *   Implementieren der Notfallwiederherstellung
+
+
+  *   Vergleich mit AWS
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Migrieren von Workloads in die Cloud und VM-übergreifend
+
+
+  *   Implementieren von Cloudsicherungen
+
+
+  *   Implementieren von Notfallwiederherstellungsoptionen
+
+
+  *   Implementieren von Aktualisierungsstrategien, die negative Auswirkungen auf Verfügbarkeit und Leistung verhindern

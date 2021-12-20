@@ -1,21 +1,34 @@
 ### YamlMime:Examination
-title: Designing an Azure Data Solution
+title: Entwerfen einer Azure-Datenlösung
 metadata:
-  title: 'Exam DP-201: Designing an Azure Data Solution'
-  description: 'Exam DP-201: Designing an Azure Data Solution'
+  title: 'Examen DP-201: Entwerfen einer Azure-Datenlösung'
+  description: 'Examen DP-201: Entwerfen einer Azure-Datenlösung'
+  ms.openlocfilehash: eed1e22d62b2cb498255548417e025788bf7d90f
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105859"
 uid: exam.dp-201
 displayName: DP-201
-summary: |-
-  <div><font color='red'><strong>DIESE PRÜFUNG WURDE AM 31. AUGUST 2021 EINGESTELLT. Eine Ersatzprüfung, DP-203, ist verfügbar. Weitere Informationen finden Sie auf der <a href='/learn/certifications/exams/dp-203'>DP-203</a> Seite mit den Prüfungsdetails.</strong></font><br/><br/></div>
-  <div><strong> Der Inhalt dieser Prüfung wurde am 31. Juli 2020 aktualisiert. Bitte laden Sie das untenstehende Dokument „Skills measured” herunter, um zu sehen, was sich geändert hat.</strong><br/><br/></div>
+summary: >-
+  <div>
+
+  <div><font color='red'><strong>DIESES EXAMEN WURDE AM 31. AUGUST 2021 EINGESTELLT. Ein Ersatzexamen, DP-203, ist verfügbar. Weitere Informationen finden Sie auf der Examensdetailseite zu <a href='/learn/certifications/exams/dp-203'>DP-203</a>.</strong></font><br/><br/></div>
+
+  <div><strong>Der Inhalt dieses Examens wurde am 31. Juli 2020 aktualisiert. Laden Sie das unten aufgeführte Dokument mit den gemessenen Qualifikationen herunter, um zu sehen, was sich geändert hat.</strong><br/><br/></div>
+
   </div>
-  
-  Kandidaten für dieses examens sind Microsoft Azure-Dateningenieure, die mit Geschäftsinteressenten zusammenarbeiten, um die Datenanforderungen für die Design von Datenlösungen zu ermitteln und zu erfüllen, die Azure-Datendienste verwenden.
-  
+
+
+  Kandidaten für diese Prüfung sind Microsoft Azure-Dateningenieure, die mit Wirtschaftsakteueren zusammenarbeiten, um die Datenanforderungen für das Entwerfen von Datenlösungen, die Azure-Datendienste verwenden, zu ermitteln und zu erfüllen.
+
+
   Die Datentechniker von Azure sind für datenbezogene Aufgaben verantwortlich, einschließlich der Entwicklung von Azure-Datenspeicherlösungen, die relationale und nicht-relationale Datenspeicher, Batch- und Echtzeit-Datenverarbeitungslösungen sowie Datensicherheits- und Compliance-Lösungen verwenden.
-  
-  Die Kandidaten für diese Prüfung müssen Datenlösungen entwickeln, die die folgenden Azure-Dienste verwenden&#58; Azure Cosmos DB, Azure Synapse Analytics, Azure SQL Data Warehouse, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks und Azure Blob Storage.
-subTitle: 'dieses examens misst Ihre Kompetenz, die folgenden technischen Aufgaben zu erfüllen: Design von Azure-Datenspeicherlösungen, Design von Datenverarbeitungslösungen und Design für Datensicherheit und Konformität.'
+
+
+  Die Kandidaten für diese Prüfung müssen Datenlösungen entwickeln, die die folgenden Azure-Dienste verwenden: Azure Cosmos DB, Azure Synapse Analytics, Azure SQL Data Warehouse, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks und Azure Blob Storage.
+subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Entwurf von Azure-Datenspeicherlösungen, Entwurf von Datenverarbeitungslösungen und Entwurf für Datensicherheit und Compliance.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
 practiceTestUrl: https://www.mindhub.com/p/MU-DP-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -27,10 +40,10 @@ locales:
 levels:
 - intermediate
 skills:
-- Der Inhalt dieser Prüfung wurde am 31. Juli 2020 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungsfertigkeiten herunter, um zu sehen, was sich geändert hat.
-- Entwickeln von Azure-Datenspeicherlösungen (40-45%)
-- Entwerfen von Datenverarbeitungslösungen (25-30%)
-- Entwickeln für Datensicherheit und Compliance (25-30%)
+- The content of this exam was updated on July 31, 2020. Please download the exam skills outline below to see what changed.
+- Design Azure data storage solutions (40-45%)
+- Design data processing solutions (25-30%)
+- Design for data security and compliance (25-30%)
 retirementDate: 08/31/2021
 roles:
 - data-engineer
@@ -67,9 +80,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
-

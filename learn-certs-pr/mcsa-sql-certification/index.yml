@@ -3,31 +3,39 @@ title: 'MCSA: SQL Server 2012/2014'
 metadata:
   title: 'MCSA: SQL Server 2012/2014'
   description: 'MCSA: SQL Server 2012/2014'
+  ms.openlocfilehash: 17fc80bd59c64bd43f464b09408bfee369863d8f
+  ms.sourcegitcommit: 35b014146be2d7badafdb39548c387b2af6c0314
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 10/15/2021
+  ms.locfileid: "132113016"
 uid: certification.mcsa-sql-certification
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>Diese Zertifizierung wurde eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>. Alle Zertifizierungen, die Sie vor deren Einstellung erworben haben, werden weiterhin auf Ihrem Transkript im<a href='https://aka.ms/certdashboard'> Zertifizierungs-Dashboard angezeigt</a>.</strong></font><br/><br/></div>
+iconUrl: /media/learn/certification/badges/mcsa-badge.svg
+summary: >-
+  <div><font color='red'><strong>Diese Zertifizierung wurde eingestellt. Informationen zu den derzeit verfügbaren Optionen finden Sie auf der Seite zum <a href='/learn/certifications/browse/'>Durchsuchen von Zertifizierungen und Examen</a>. Alle Zertifizierungen, die Sie vor deren Ablaufdatum erhalten, werden weiterhin in Ihrem Transkript im <a href='https://aka.ms/certdashboard'>Zertifizierungsdashboard</a> angezeigt.</strong></font><br/><br/></div>
+
 
   Diese Zertifizierung bestätigt Ihre Fähigkeiten und bahnbrechenden Erkenntnisse bei der Entwicklung und Wartung der nächsten Welle unternehmenskritischer Umgebungen.
 subTitle: Diese Zertifizierung bestätigt Ihre Fähigkeiten und bahnbrechenden Erkenntnisse bei der Entwicklung und Wartung der nächsten Welle unternehmenskritischer Umgebungen.
+hideFishboneDiagram: true
 levels:
 - advanced
 skills:
-- Erstellen von Datenbankobjekten 
-- Arbeiten mit Daten 
-- Daten ändern 
-- Fehlersuche und Optimierung 
-- Installieren und konfigurieren 
-- Instanzen und Datenbanken pflegen 
-- Optimierung und Fehlerbehebung
-- Verwalten von Daten 
-- Sicherheit implementieren 
-- Implementieren von Hochverfügbarkeit 
-- Entwerfen und Implementieren eines Data Warehouse
-- Daten extrahieren und transformieren 
-- Daten laden 
-- Konfigurieren und Bereitstellen von SSIS-Lösungen
-- Erstellung von Datenqualitätslösungen
+- Create database objects
+- Work with data
+- Modify data
+- Troubleshoot and optimize
+- Install and configure
+- Maintain instances and databases
+- Optimize and troubleshoot
+- Manage data
+- Implement security
+- Implement high availability
+- Design and implement a data warehouse
+- Extract and transform data
+- Load data
+- Configure and deploy SSIS solutions
+- Build data quality solutions
 roles:
 - database-administrator
 type: mcsa
@@ -58,7 +66,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Erhalten Sie Ihren Microsoft-Zertifizierungsbadge, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md
-

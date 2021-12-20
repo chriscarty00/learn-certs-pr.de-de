@@ -1,18 +1,24 @@
 ### YamlMime:Course
-title: 'Dynamics 365: Testen und Bereitstellen der Power- Plattform'
+title: 'Dynamics 365: Testen und Bereitstellen von Power Platform'
 metadata:
-  title: 'Kurs MB-200T04-A: Dynamics 365: Testen und Bereitstellen der Power- Plattform'
-  description: 'Kurs MB-200T04-A: Dynamics 365: Testen und Bereitstellen der Power- Plattform'
+  title: 'Kurs MB-200T04-A: Dynamics 365: Testen und Bereitstellen von Power Platform'
+  description: 'Kurs MB-200T04-A: Dynamics 365: Testen und Bereitstellen von Power Platform'
+  ms.openlocfilehash: 6c5280eaeb070915f4803ac838e30d3720f741ae
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107434"
 uid: course.mb-200t04
-courseNumber: 'MB-200T04-A'
+courseNumber: MB-200T04-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Apps von Erstanbietern aktivieren und aktualisieren
-- skill: Anwendungen von Drittanbietern installieren.
-- skill: Verwaltete und nicht verwaltete Lösungen konfigurieren.
-- skill: Lösungen aktualisieren und verbessern.
-- skill: Lösungen vertreiben
+- skill: Aktivieren und Aktualisieren von Erstanbieteranwendungen
+- skill: Installieren von Drittanbieteranwendungen
+- skill: Konfigurieren von verwalteten und nicht verwalteten Lösungen
+- skill: Aktualisieren und Reparieren von Lösungen
+- skill: Vertreiben von Lösungen
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -21,72 +27,115 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-sales
 - dynamics-marketing
 - dynamics-field-service
 - dynamics-customer-service
 exams:
 - uid: exam.mb-200
-summary: |-
+summary: >-
   Mit Hilfe der Microsoft Power-Platform können Unternehmen Abläufe optimieren, indem sie Routineaufgaben automatisieren und bewährte Praktiken standardisieren. Diese Schulung bietet einen allgemeinen Überblick über die Funktionen von Microsoft Dynamics 365 und der Power-Plattform und bildet die Grundlage für andere Schulungsangebote von Microsoft Dynamics 365 und der Power-Plattform.
 
-  In diesem Kurs führen unsere weltweit anerkannten Experten die Studenten durch die Verwaltung von Lösungen und deren Bereitstellung.
 
-  #### Zielgruppenprofil
-  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von sowie Lösungen und Anwendungen zu konfigurieren. Der Modulbetreuer implementiert eine Lösung mit gebrauchsfertigen Funktionen, codefreier Erweiterungsmöglichkeit, sowie Anwendungs- und Service-Integrationen.
-prerequisitesSection: |-
-  Vertrautheit mit Geschäftsanwendungen und der Wunsch, diese für Ihr Unternehmen anzupassen und zu implementieren.
-outlineSection: |-
-  ### Modul 1&#58; Instanzen und Anwendungen verwalten
-  In diesem Modul lernen die Studenten, Erstanbieteranwendungen zu aktivieren und zu aktualisieren, Drittanbieteranwendungen zu installieren und diese mit Hilfe von Administrationsportalen zu konfigurieren.
-  #### Lektionen
+  In diesem Kurs begleiten unser weltweit anerkannten Expert*innen die Kursteilnehmer*innen durch das Verwalten von Lösungen und deren Bereitstellung.
+
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von sowie Lösungen und Anwendungen zu konfigurieren. Der*Die Functional Consultant implementiert eine Lösung unter Verwendung von vorgefertigten Funktionen, codeloser Erweiterbarkeit sowie Anwendungs- und Dienstintegrationen.
+prerequisitesSection: Erfahrung mit Geschäftsanwendungen und der Wunsch, sie für Unternehmen anzupassen und zu implementieren
+outlineSection: >-
+  ### <a name="module--158-manage-instances-and-applications"></a>Modul 1: Verwalten von Instanzen und Anwendungen
+
+  In diesem Modul lernen die Kursteilnehmer*innen, wie sie Erstanbieteranwendungen aktivieren und aktualisieren, Drittanbieter-Apps installieren und mithilfe des Verwaltungsportals konfigurieren.
+
+  #### <a name="lessons"></a>Lektionen
+
   - Übersicht
-  - Anwendungen verwalten
-  - Modulübersicht
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Verwalten von Anwendungen
+
+  - Zusammenfassung des Moduls
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
   - Apps von Erstanbietern aktivieren und aktualisieren
+
   - Apps von Drittanbietern installieren
 
 
-  ### Modul 2&#58; Lösungen verwalten
-  In diesem Modul lernen die Studenten, Lösungen zu erstellen, zu verwalten und bereitzustellen.
-  #### Lektionen
-  - Lösungskonzepte
-  - Planen und Erstellen von Lösungen
-  - Arbeiten mit Lösungskomponenten
-  - Lösungen vertreiben
-  - Arbeiten mit verwalteten Lösungen
-  - Modulübersicht
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  ### <a name="module--258-manage-solutions"></a>Modul 2: Verwalten von Lösungen
+
+  In diesem Modul lernen die Kursteilnehmer*innen, wie sie Lösungen erstellen, verwalten und bereitstellen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Lösungskonzepte
+
+  - Planen und Erstellen von Lösungen
+
+  - Arbeiten mit Lösungskomponenten
+
+  - Vertreiben von Lösungen
+
+  - Arbeiten mit verwalteten Lösungen
+
+  - Zusammenfassung des Moduls
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
   - Anpassungen mit Lösungen erstellen, verwalten und bereitstellen
 
 
-  ### Modul 3&#58; Zusätzliche Überlegungen zur Bereitstellung
-  In diesem Modul lernen die Teilnehmer,  mobile Geräte zu konfigurieren und Komponenten wie Microsoft Flow bereitzustellen.
-  #### Lektionen
-  - Konfigurieren
-  - Mobile Konfigurationseinstellungen
-  - Mobile Konfiguration
-  - Modulübersicht
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Mobile Geräte konfigurieren
+  ### <a name="module--358-additional-deployment-considerations"></a>Modul 3: Zusätzliche Überlegungen zur Bereitstellung
+
+  In diesem Modul lernen die Kursteilnehmer*innen, wie sie für mobile Geräte konfigurieren und Komponenten wie Microsoft Flow bereitstellen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Konfigurieren
+
+  - Konfigurationseinstellungen für mobile Geräte
+
+  - Konfiguration mobiler Geräte
+
+  - Zusammenfassung des Moduls
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Konfigurieren für mobile Geräte
+
   - Komponenten bereitstellen
 
 
-  ### Modul 4&#58; Dokumentation und Prüfung
-  In diesem Modul lernen die Studenten, Testpläne zu entwerfen und Leistungsoptimierung durchzuführen.
-  #### Lektionen
-  - Erstellen von Testplänen
-  - Prüfung der Benutzerschnittstelle
-  - Leistungsoptimierung und -abstimmung
-  - Dokumentation
-  - Betreuen des Kunden
-  - Modulübersicht
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Erstellen und Verwenden von Testplänen
-  - Tools zur Leistungsoptimierung lokalisieren
+  ### <a name="module--458-documentation-and-testing"></a>Modul 4: Dokumentation und Tests
+
+  In diesem Modul lernen die Kursteilnehmer*innen, wie sie Testpläne entwerfen und Leistungsoptimierungen durchführen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Erstellen von Testplänen
+
+  - Testen der Benutzeroberfläche
+
+  - Leistungsoptimierung
+
+  - Dokumentation
+
+  - Interaktion mit den Kund*innen
+
+  - Zusammenfassung des Moduls
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Testpläne erstellen und verwenden
+
+  - Tools zur Leistungsoptimierung suchen

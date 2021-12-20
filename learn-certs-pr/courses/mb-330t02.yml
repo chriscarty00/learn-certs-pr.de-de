@@ -1,10 +1,16 @@
 ### YamlMime:Course
-title: Nutzung von Qualitätsmanagement, unternehmensübergreifendem Handel und Gesamtplanung in Dynamics 365 für Finanzen und Betrieb3332
+title: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Kurs MB-330T02-A: Nutzung von Qualitätsmanagement, unternehmensübergreifendem Handel und Gesamtplanung in Dynamics 365 für Finanzen und Betrieb'
-  description: 'Kurs MB-330T02-A: Nutzung von Qualitätsmanagement, unternehmensübergreifendem Handel und Gesamtplanung in Dynamics 365 für Finanzen und Betrieb'
+  title: 'Kurs MB-330T02-A: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations'
+  description: 'Kurs MB-330T02-A: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations'
+  ms.openlocfilehash: 21ee27dfd59284faf88d34b1fb64ee676ad05333
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107266"
 uid: course.mb-330t02
-courseNumber: 'MB-330T02-A'
+courseNumber: MB-330T02-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
@@ -15,86 +21,143 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance-operations
 exams:
 - uid: exam.mb-330
-summary: |-
-  Unternehmen verwenden Dynamics 365 for Finance and Operations, um ihre Lieferkette zu automatisieren und zu rationalisieren, indem sie die Geschäftslogistik modernisieren, zeitnahe Kundenreaktionen liefern, vorausschauende Erkenntnisse erhalten, die Beschaffung optimieren und Prozesse vom Verkauf bis zur Ausführung vereinheitlichen. In diesem Kurs wird die Verwendung des Qualitätsmanagements, des firmeninternen Handels und der Masterplanung in Dynamics 365 for Finance and Operations erläutert.
+summary: >-
+  Organisationen automatisieren und optimieren ihre Lieferkette mit Dynamics 365 Finance and Operations, indem sie die Unternehmenslogistik modernisieren, zeitnah auf Kundenanfragen reagieren, dank Erkenntnissen aus Vorhersagen proaktiv agieren, die Beschaffung optimieren und Prozesse vom Vertrieb bis zur Auftragsabwicklung vereinheitlichen. In diesem Kurs wird erläutert, wie Qualitätsmanagement, innerbetriebliche Geschäftsvorgänge und Produktprogrammplanung in Dynamics 365 for Finance and Operations erfolgt.
 
-  #### Zielgruppenprofil
-  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von Bedürfnissen, sowie Lösungen und Anwendungen zu konfigurieren. Der Modulbetreuer implementiert eine Lösung mit gebrauchsfertigen Funktionen, codefreier Erweiterungsmöglichkeit, sowie Anwendungs- und Service-Integrationen.
-prerequisitesSection: |-
-  Grundlegendes Verständnis von ERP- und CRM-Konzepten.
-outlineSection: |-
-  ### Modul 1&#58; Konfigurieren und Verwenden von Qualitätskontroll- und Verwaltungsprozessen
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von Bedürfnissen, sowie Lösungen und Anwendungen zu konfigurieren. Ein Functional Consultant implementiert eine Lösung unter Verwendung von sofort einsatzbereiten Funktionen sowie Anwendungs- und Dienstintegrationen, die sich ohne jeden Programmieraufwand erweitern lässt.
+prerequisitesSection: Grundkenntnisse der ERP- und CRM-Konzepte
+outlineSection: >-
+  ### <a name="module--158-configure-and-use-quality-control-and-management-processes"></a>Modul 1&#58; Konfigurieren und Verwenden von Qualitätskontroll- und Verwaltungsprozessen
+
   In diesem Modul wird beschrieben, wie Sie die Qualitätskontrolle in Finance and Operations konfigurieren und verwenden, wie Sie die Qualitätskontrollfunktionen verwenden, Abweichungen definieren und pflegen und wie Sie mit Korrekturen umgehen. Machen wir uns aber zunächst mit den Gesamtprozessen des Qualitätsmanagements vertraut.
-  #### Lektionen
+
+  #### <a name="lessons"></a>Lektionen
+
   - Einführung
-  - Führen Sie Qualitätskontroll- und Managementprozesse durch
-  - Bestandssperrung anwenden
-  - Quarantäneverwaltung durchführen
-  - Übungslabore
-  - Modulübersicht
+
+  - Durchführen von Qualitätskontroll- und Verwaltungsprozessen
+
+  - Verhängen einer Sperrung von Lagerbestand
+
+  - Durchführen von Quarantäneverwaltung
+
+  - Übungslabs
+
+  - Zusammenfassung des Moduls
 
 
-  In diesem Modul lernten die Studenten etwas über&#58;
+
+  In diesem Modul haben die Kursteilnehmer Folgendes gelernt&#58;
+
   - Qualitätskontroll- und Managementprozesse durchführen
-  - Bestandssperrung anwenden
-  - Quarantäneverwaltung durchführen
+
+  - Verhängen einer Sperrung von Lagerbestand
+
+  - Durchführen von Quarantäneverwaltung
 
 
-  ### Modul 2&#58; Konfigurieren und Verwenden von firmeninternen-Handelsbeziehungen
-  Die firmeninterne Funktionalität in Dynamics 365 for Finance and Operations bietet einen Mechanismus für die Konsolidierung statischer und dynamischer Daten mehrerer Unternehmen als separate juristische Einheiten in einer einzigen Datenbank. Firmeninterner Handel ermöglicht es, das global verteilte Produktionsstätten, Vertriebszentren und Vertriebsniederlassungen als eine Organisation agieren. In diesem Abschnitt wird das Konfigurieren und Verwenden der firmeninternenHandelsbeziehungen und das Verarbeiten von firmeninternen Aufträgen in Finance and Operations erläutert.
-  #### Lektionen
+
+  ### <a name="module--258-configure-and-use-intercompany-trade-relations"></a>Modul 2&#58; Konfigurieren und Verwenden von innerbetrieblichen Geschäftsvorgängen
+
+  Die firmeninterne Funktionalität in Dynamics 365 for Finance and Operations bietet einen Mechanismus für die Konsolidierung statischer und dynamischer Daten mehrerer Unternehmen als separate juristische Einheiten in einer einzigen Datenbank. Firmeninterner Handel ermöglicht es, das global verteilte Produktionsstätten, Vertriebszentren und Vertriebsniederlassungen als eine Organisation agieren. In diesem Abschnitt wird das Konfigurieren und Verwenden der firmeninternen Handelsbeziehungen und das Verarbeiten von firmeninternen Aufträgen in Finance and Operations erläutert.
+
+  #### <a name="lessons"></a>Lektionen
+
   - Einführung
-  - Firmeninternen Handel verstehen
-  - Aufbau firmeninterner Handelsbeziehungen
-  - Firmeninterne Kettenbestellungen bearbeiten
-  - Firmeninterne Vereinbarungen und Direktlieferungen einrichten
-  - Übungslabore
-  - Modulübersicht
+
+  - Grundlagen zu innerbetrieblichen Geschäftsvorgängen
+
+  - Aufbauen von innerbetrieblichen Geschäftsvorgängen
+
+  - Abwickeln von Intercompany-Kettenbestellungen
+
+  - Einrichten von Intercompany-Vereinbarungen und Direktlieferungen
+
+  - Übungslabs
+
+  - Zusammenfassung des Moduls
 
 
-  In diesem Modul lernen die Studenten, wie man&#58;
+
+  In diesem Modul haben Kursteilnehmer*innen Folgendes gelernt&#58;
+
   - Produkte für firmeninterne Handelsbeziehungen konfiguriert
-  - Firmeninterne Handelsbeziehungen konfigurieren
-  - Firmeninterne Vereinbarungen konfigurieren
-  - Firmeninterne Kettenbestellungen abwickeln
-  - Firmeninterne Direktlieferungen abwickeln
-  - Firmeninterne Gebühren abwickeln
-  - Firmeninterne Rückgabeauftragskette verstehen
+
+  - Konfigurieren von innerbetrieblichen Geschäftsvorgängen
+
+  - Konfigurieren von Intercompany-Vereinbarungen
+
+  - Abwickeln von Intercompany-Bestellungen
+
+  - Abwickeln von Intercompany-Direktlieferungen
+
+  - Abwickeln von Intercompany-Gebühren
+
+  - Grundlagen zu Intercompany-Rückgabeauftragsketten
 
 
-  ### Modul 3&#58; Konfigurieren und Verwenden der Masterplanung
+
+  ### <a name="module--358-configure-and-use-master-planning"></a>Modul 3&#58; Konfigurieren und Verwenden der Programmplanung
+
   In diesem Abschnitt wird erläutert, wie man die Masterplanung in Finance and Operations konfiguriert und verwendet.
-  #### Lektionen
+
+  #### <a name="lessons"></a>Lektionen
+
   - Einführung
-  - Überlegungen und Einrichtung der Masterplanung
-  - Masterpläne erstellen
-  - Etwas über Angebot- und Nachfrageprognosen erfahren
-  - Artikelerfassung konfigurieren
-  - Kurze Einführung in die firmeninterne Planung
-  - Pläne und fest geplante Aufträge ausführen
-  - Übungslabore
-  - Modulübersicht
+
+  - Überlegungen und Einrichtung der Programmplanung
+
+  - Erstellen einer Programmplanung
+
+  - Informationen zu Angebot- und Nachfrageprognosen
+
+  - Konfigurieren der Artikelerfassung
+
+  - Kurze Einführung in die Intercompany-Planung
+
+  - Umsetzen von Plänen und fest geplanten Aufträgen
+
+  - Übungslabs
+
+  - Zusammenfassung des Moduls
 
 
-  In diesem Modul lernen die Studenten, wie man&#58;
+
+  In diesem Modul haben Kursteilnehmer*innen Folgendes gelernt&#58;
+
   - Masterplanungsrichtlinien definieren
-  - Etwas über Angebot- und Nachfrageprognosen erfahren
-  - Berechenbare Verzögerungen konfigurieren
-  - Artikelerfassung konfigurieren
-  - Kurze Einführung in die firmeninterne Masterplanung verstehen
-  - Pläne und fest geplante Aufträge ausführen
+
+  - Informationen zu Angebot- und Nachfrageprognosen
+
+  - Konfigurieren berechneter Verzögerungen
+
+  - Konfigurieren der Artikelerfassung
+
+  - Kurze Einführung in die Intercompany-Produktprogrammplanung
+
+  - Umsetzen von Plänen und fest geplanten Aufträgen
 
 
-  ### Modul 4&#58; Abschluss des Kurses
+
+  ### <a name="module--458-course-conclusion"></a>Modul 4&#58; Kursabschluss
+
   Abschließende Bewertung und Kurszusammenfassung sowie eine Umfrage nach dem Kurs.
-  #### Lektionen
+
+  #### <a name="lessons"></a>Lektionen
+
   - Abschließende Bewertung
+
   - Kurszusammenfassung
+
   - Umfrage nach dem Kurs
 
 
-  Die Kursteilnehmer haben den Kurs abgeschlossen.
+
+  Die Kursteilnehmer*innen haben den Kurs abgeschlossen.

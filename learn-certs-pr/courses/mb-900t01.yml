@@ -1,17 +1,23 @@
 ### YamlMime:Course
-title: Dynamics 365 fundamentals
+title: Dynamics 365 Fundamentals
 metadata:
-  title: 'Kurs MB-900T01-A: Dynamics 365 fundamentals'
-  description: 'Kurs MB-900T01-A: Dynamics 365 fundamentals'
+  title: 'Kurs MB-900T01-A: Dynamics 365 Fundamentals'
+  description: 'Kurs MB-900T01-A: Dynamics 365 Fundamentals'
+  ms.openlocfilehash: 4104c593b323adeeaab244a0758ed4d8a7880f53
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107218"
 uid: course.mb-900t01
-courseNumber: 'MB-900T01-A'
+courseNumber: MB-900T01-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Identifizieren der wichtigsten Funktionen und Module von Dynamics 365
-- skill: Verstehen von Cloud-Konzepten
-- skill: Beschreiben des Dynamics 365-Sicherheitsmodells
-- skill: Überlegungen zur Lizenzierung und Bereitstellung erläutern
+- skill: Identifizieren der wichtigsten Features und Module von Dynamics 365
+- skill: Beschreiben von Cloudkonzepten
+- skill: Beschreiben des Dynamics 365-Sicherheitsmodells
+- skill: Erläutern von Überlegungen zur Lizenzierung und Bereitstellung
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -20,45 +26,70 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 exams:
 - uid: exam.mb-900
-summary: |-
-  Dynamics 365 ist ein vielseitiges Tool für Kundenbindung, einheitlichen Betrieb, Marketing, Einzelhandel und Talent-Management. Dieser Kurs macht Studenten mit den Funktionen und dem geschäftlichen Nutzen von Dynamics 365 vertraut. Der Kurs behandelt Dynamics 365-Anwendungen, die Power Platform, Cloud-Konzepte, das Sicherheitsmodell und Überlegungen zur Lizenzierung.
-prerequisitesSection: |-
-  Grundlegendes Verständnis der IT-Prinzipien und Interesse an Dynamics 365.
-outlineSection: |-
-  ### Modul 1&#58; Einführung in Geschäftsanwendungen
-  In diesem Modul werden alle Geschäftsanwendungsmodule und -funktionalitäten vorgestellt, wobei der Schwerpunkt auf Kundenbindung, einheitlichem Betrieb, der Power-Plattform und entsprechenden Geschäftsanwendungen liegt.
-  #### Lektionen
-  -Apps im Überblick
-  - Apps zur Kundenbindung
-  - Apps für einheitlichen Betrieb
-  - Die Power-Plattform
+summary: Dynamics 365 ist ein vielseitiges Tool für Kundenbindung, einheitlichen Betrieb, Marketing, Einzelhandel und Talentmanagement. In diesem Kurs werden die Teilnehmer mit den Features und dem geschäftlichen Nutzen von Dynamics 365 vertraut gemacht. In dem Kurs werden Dynamics 365-Anwendungen, die Power Platform, Cloudkonzepte, das Sicherheitsmodell und Lizenzierungsaspekte behandelt.
+prerequisitesSection: Ein grundlegendes Verständnis der IT-Prinzipien und ein Interesse an Dynamics 365
+outlineSection: >-
+  ### <a name="module--158-introduction-to-business-applications"></a>Modul 1: Einführung in Geschäftsanwendungen
+
+  In diesem Modul werden alle Geschäftsanwendungsmodule und -features vorgestellt. Die Schwerpunkte liegen hierbei auf Customer Engagement, Unified Operations, der Power Platform und den entsprechenden Geschäftsanwendungen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Überblick über die Apps
+
+  - Apps für Customer Engagement
+
+  - Apps für Unified Operations
+
+  - Die Power Platform
+
   - Grundlagen der Anwendung
 
 
-  ### Modul 2&#58; Cloud-Konzepte
-  In diesem Modul werden allgemeine Cloud-Konzepte erörtert und das Microsoft-Cloud-Angebot Azure vorgestellt, in dem die Beziehung zu Dynamics 365 untersucht wird.
-  #### Lektionen
-  - Übersicht über die Cloud-Architektur
-  - Verschiedene Arten von verfügbaren Cloud-Diensten
-  - Vergleich von Cloud-Angeboten mit entsprechenden lokalen Angeboten
+
+  ### <a name="module--258-cloud-concepts"></a>Modul 2: Cloudkonzepte
+
+  In diesem Modul werden allgemeine Cloudkonzepte erläutert und das Cloudangebot Azure von Microsoft vorgestellt und seine Beziehung zu Dynamics 365 erläutert.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Übersicht über die Cloudarchitektur
+
+  - Verschiedene Arten von verfügbaren Clouddiensten
+
+  - Vergleich zwischen Cloudangeboten und entsprechenden lokalen Angeboten
 
 
-  ### Modul 3&#58; Verwalten von Bereitstellungen und Releases
-  In diesem Modul werden wichtige Überlegungen zur Implementierung behandelt, einschließlich Bereitstellungstypen, Freisetzungs-Kadenzen und Entwurf von Sicherheitsmodellen.
-  #### Lektionen
-  - Arten von Bereitstellungen
-  - Arten von Veröffentlichungen
+
+  ### <a name="module--358-managing-deployments-and-releases"></a>Modul 3: Verwalten von Bereitstellungen und Releases
+
+  In diesem Modul werden wichtige Überlegungen zur Implementierung behandelt, u. a. Bereitstellungstypen, Releasekadenzen und der Entwurf des Sicherheitsmodells.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Typen von Bereitstellungen
+
+  - Typen von Releases
+
   - Sicherheitskonzepte und -rollen
+
   - Rollen und Teams
-  - GDPR
+
+  - DSGVO
 
 
-  ### Modul 4&#58; Lizenzierung, Einstellung und Support
-  Dieses Modul bietet dem Studenten die Möglichkeit, mit Dynamics 365 zu beginnen, indem er Lizenzoptionen erkundet und Implementierungsunterstützung findet.
-  #### Lektionen
-  - Einen Partner finden und mit ihm zusammenarbeiten
-  Lizenzierungsoptionen
-  - Vorbereitungen
+
+  ### <a name="module--458-licensing-onboarding-and-support"></a>Modul 4: Lizenzierung, Onboarding und Support
+
+  Dieses Modul ermöglicht es dem Kursteilnehmer, die ersten Schritte mit Dynamics 365 zu unternehmen, indem er sich mit Lizenzierungsoptionen und der Suche nach Implementierungsunterstützung vertraut macht.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Suchen nach einem Partner und Zusammenarbeit mit diesem
+
+  - Lizenzierungsoptionen
+
+  - Einrichten

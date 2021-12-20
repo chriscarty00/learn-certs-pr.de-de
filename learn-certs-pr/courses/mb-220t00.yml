@@ -1,10 +1,16 @@
 ### YamlMime:Course
 title: Microsoft Dynamics 365 Marketing
 metadata:
-  title: 'Course MB-220T00-A: Microsoft Dynamics 365 Marketing'
-  description: 'Course MB-220T00-A: Microsoft Dynamics 365 Marketing'
+  title: 'Kurs MB-220T00--A: Microsoft Dynamics 365 Marketing'
+  description: 'Kurs MB-220T00--A: Microsoft Dynamics 365 Marketing'
+  ms.openlocfilehash: 1689609f43eb117ef432b89f5d65d5ad603f1c0b
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107419"
 uid: course.mb-220t00
-courseNumber: 'MB-220T00-A'
+courseNumber: MB-220T00
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -14,7 +20,7 @@ skillsGained:
 - skill: Entwerfen und erstellen von Marketingformularen und -seiten
 - skill: Anlegen und Verwalten von Segmenten
 - skill: Kundentripps einrichten und starten
-- skill: Erstellen und Verwalten von Events
+- skill: Erstellen und Verwalten von Ereignissen
 - skill: Verteilen und analysieren sie Umfragen
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -24,106 +30,242 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 exams:
 - uid: exam.mb-220
-summary: |-
+summary: >-
   In diesem Kurs wird die Konfiguration der Marketinganwendung besprochen, die für das Geschäftswachstum erforderlich ist. Dabei wird sich auch mit Lead-Management, Marketingformularen und -seiten, Segmentierung und E-Mail-Marketing-Nachrichten befasst. Alle diese Teile sind durch interaktives Customer-Journey-Design miteinander verbunden, einschließlich der Konfiguration von Veranstaltungen und Umfragen.
 
-  #### Zielgruppenprofil
 
-  Dieser Kurs richtet sich an IT- oder Marketingfachleute, die lernen möchten, wie Dynamics 365 Marketing für Unternehmen eingesetzt werden kann.
-prerequisitesSection: |-
-  Kenntnisse der Dynamics 365-Plattform und Verständnis der grundlegenden Marketingprinzipien. Erfahrung mit Power Platform, insbesondere in modellgesteuerten Anwendungen, ist ebenfalls empfehlenswert.
-outlineSection: |-
-  ### Modul 1&#58; Konfigurieren Sie Dynamics 365 Marketing
-  In diesem Modul erfahren Sie, wie Sie Ihre Marketing-Instanz einrichten und erweiterte Einstellungen konfigurieren können.
-  #### Lektionen
-  * Einrichten und Verwalten von Dynamics 365 Marketing
-  * Konfigurieren von Marketingeinstellungen
-  
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  * Richten Sie Ihre Marketing-Anwendung ein.
-  * erweiterte Einstellungen wie Organisation, Geschäftsverwaltung und Inhalte zu konfigurieren.
-  
-  ### Modul 2&#58; Segmente und Listen verwalten
-  In diesem Modul wird erläutert, wie Sie Segmente und Abonnementcenter erstellen verwalten und verwenden können.
-  #### Lektionen
-  * Segmente erstellen und verwalten
-  * Erstellen und verwalten von Abonnement-Centern und Listen
-  
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  * Segmente zu erstellen und zu verwalten.
-  * Abonnement-Center zu erstellen und zu verwalten.
-  
-  ### Modul 3&#58; Marketingformulare und -seiten verwalten
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+
+  Dieser Kurs richtet sich an IT- oder Marketingfachleute, die lernen möchten, wie Dynamics 365 for Marketing für Unternehmen eingesetzt werden kann.
+prerequisitesSection: Kenntnisse der Dynamics 365-Plattform und Verständnis der grundlegenden Marketingprinzipien. Die Power Platform-Nutzung, insbesondere in modellgesteuerten Anwendungen, wird ebenfalls empfohlen.
+outlineSection: >-
+  ### <a name="module-1-configure-dynamics-365-marketing"></a>Modul 1: Konfigurieren von Dynamics 365 for Marketing
+
+
+  In diesem Modul erfahren Sie, wie Sie Ihre Marketinginstanz einrichten und erweiterte Einstellungen konfigurieren.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Einrichten und Verwalten von Dynamics 365 for Marketing
+
+
+  *   Marketingeinstellungen konfigurieren
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Einrichten der Marketinganwendung
+
+
+  *   Konfigurieren von erweiterten Einstellungen wie Organisation, Geschäftsverwaltung und Inhalt.
+
+
+  ### <a name="module-2-manage-segments-and-lists"></a>Modul 2: Verwalten von Segmenten und Listen
+
+
+  In diesem Modul wird das Erstellen, Verwalten und Verwenden von Segmenten und Abonnementcentern erläutert.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Anlegen und Verwalten von Segmenten
+
+
+  *   Erstellen und Verwalten von Abonnentenzentren und Listen
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Erstellen und Verwalten von Segmenten
+
+
+  *   Erstellen und Verwalten Sie Abonnementcentern
+
+
+  ### <a name="module-3-manage-marketing-forms-and-pages"></a>Modul 3: Verwalten von Marketingformularen und -seiten
+
+
   In diesem Modul erfahren Sie, wie Sie Marketingformulare und -seiten erstellen.
-  #### Lektionen
-  * Formulare verwalten
-  * Marketing-Seiten verwalten
-  
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58; 
-  * Marketingformulare zu erstellen und sie in die Marketing-Seiten einzubinden.
-  * Erstellen einer Marketingseite.
-  * Vorschau, Validierung und Live-Schaltung einer Marketingseite.
-  * Erstellen von Marketingformularen und Seitenvorlagen.
-  
-  ### Modul 4&#58; Verwalten Sie Leads, Accounts und Kontakte
-  In diesem Modul erfahren Sie, wie Sie Kunden als Accounts oder Kontakte verwalten und sie über den Lebenszyklus des Leads hinaus pflegen.
-  #### Lektionen
-  * Leads erstellen und verwalten
-  * Konten und Kontakte verwalten
-  
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  * Kunden als Accounts oder Kontakte zu verfolgen.
-  * einen Lead zu erstellen und ihn in eine Chance umzuwandeln.
-  * Leads während ihres Lebenszyklus zu verwalten. 
-  
-  ### Modul 5&#58; Verwalten von Marketing-E-Mails und Kundenreisen
-  In diesem Modul wird beschrieben, wie Sie E-Mail-Nachrichten und Kundenreisen in Dynamics 365 Marketing erstellen.
-  #### Lektionen
-  * Erstellen von Marketing-E-Mails
-  * Kundenreisen erstellen
-  
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  * E-Mail-Nachrichten zu erstellen und gestalten.
-  * Vorschau, Validierung und Inbetriebnahme von E-Mail-Nachrichten vorzunehmen.
-  * eine E-Mail-Nachricht als Vorlage zu speichern.
-  * eine Kundenreise zu erstellen.
-  
-  ### Modul 6&#58; Ereignisse verwalten
-  Dieses Modul überprüft den Erstellungsprozess der Kundenreise.
-  #### Lektionen
-  * Erstellen Sie einen Event
-  * Erstellen einer Webinar-Veranstaltung
-  * Förderung und Verwaltung von Veranstaltungen
-  
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  * Erstellen Sie einen Event.
-  * Erstellen Sie eine Webinar-Veranstaltung mit Teams als Webinar-Anbieter.
-  * eine Veranstaltung zu bewerben.
-  * die Event-Website zu verwalten.
-  * die Ereigniseinstellungen zu konfigurieren.
-  
-  ### Modul 7&#58; Erstellen Sie Umfragen mit Dynamics 365 Customer Voice
-  In diesem Modul wird gezeigt, wie Umfragen erstellt und an Kunden weitergeleitet werden.
-  #### Lektionen
-  * Erstellen eines Umfrageprojekts
-  * Erstellen von Umfragen mit Dynamics 365 Customer Voice
-  * Aussenden von Dynamics 365 Customer Voice-Umfragen
-  
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  *Umfragen mit Hilfe von Projekten zu verwalten.
-  * eine Umfrage zu erstellen.
-  * eine Umfrage zu personalisieren.
-  * eine Umfrage an Kunden weiterzuleiten.
-  
-  ### Modul 8&#58; Analysieren Sie Erkenntnisse in Dynamics 365 Marketing
-  In diesem Modul erfahren Sie, wie Sie mit Hilfe von Erkenntnissen Daten zu Ihren Marketinginitiativen anzeigen und analysieren.
-  #### Lektionen
-  * Bewerten von Marketinginitiativen mit Analytics
-  
-  Nach Abschluss dieses Moduls sind die Teilnehmer in der Lage&#58;
-  * Erkenntnisse zu verwenden, um Entscheidungen über Marketingbemühungen zu treffen.
-  * Leads zu erzielen.
-  * Erkenntnisse zu Kundenreisen und E-Mail-Nachrichten zu überprüfen
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Verwalten von Formularen
+
+
+  *   Verwalten von Marketingseiten
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Erstellen von Marketingformularen und deren Einbettung in Marketingseiten
+
+
+  *   Erstellen einer Marketingseite
+
+
+  *   Anzeigen einer Vorschau, Überprüfen und Liveschalten einer Marketingseite
+
+
+  *   Erstellen von Marketingformularen und Seitenvorlagen
+
+
+  ### <a name="module-4-manage-leads-accounts-and-contacts"></a>Modul 4: Verwalten von Leads, Konten und Kontakten
+
+
+  In diesem Modul erfahren Sie, wie Sie Kunden als Konten oder Kontakte verwalten und wie Sie sie während des Leadlebenszyklus pflegen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Leads erstellen und verwalten
+
+
+  *   Verwalten von Konten und Kontakten
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Nachverfolgen von Kunden als Konten oder Kontakte
+
+
+  *   Erstellen eines Leads und Konvertieren des Leads in eine Verkaufschance
+
+
+  *   Verwalten von Leads durch den Leadlebenszyklus
+
+
+  ### <a name="module-5-manage-marketing-emails-and-customer-journeys"></a>Modul 5: Verwalten von Marketing-E-Mails und Customer Journeys
+
+
+  In diesem Modul erfahren Sie, wie Sie E-Mail-Nachrichten und Customer Journeys in Dynamics 365 for Marketing erstellen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Erstellen von Marketing-E-Mails
+
+
+  *   Kundenreisen erstellen
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Erstellen und Gestalten von E-Mail-Nachrichten
+
+
+  *   Anzeigen einer Vorschau, Überprüfen und Liveschalten von E-Mail-Nachrichten
+
+
+  *   Speichern einer E-Mail-Nachricht als Vorlage
+
+
+  *   Erstellen einer Customer Journey
+
+
+  ### <a name="module-6-manage-events"></a>Modul 6: Verwalten von Ereignissen
+
+
+  In diesem Modul wird der Erstellungsprozess für Customer Journeys überprüft.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Erstellen eines Ereignisses
+
+
+  *   Erstellen eines Webinarereignisses
+
+
+  *   Erstellen und Verwalten von Ereignissen
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Erstellen eines Ereignisses
+
+
+  *   Erstellen eines Webinarereignisses mit Teams als Webinaranbieter
+
+
+  *   Werben für ein Ereignis
+
+
+  *   Verwalten der Ereigniswebsite
+
+
+  *   Konfigurieren von Ereigniseinstellungen
+
+
+  ### <a name="module-7-create-surveys-with-dynamics-365-customer-voice"></a>Modul 7: Erstellen von Umfragen mit Stimme des Kunden für Dynamics 365
+
+
+  In diesem Modul wird veranschaulicht, wie Sie Umfragen erstellen und an Kunden verteilen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Erstellen eines Umfrageprojekts
+
+
+  *   Erstellen von Umfragen mit Dynamics 365 Customer Voice
+
+
+  *   Senden von Dynamics 365 Customer Voice-Umfragen
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Verwalten von Umfragen mithilfe von Projekten
+
+
+  *   Umfrage erstellen
+
+
+  *   Personalisieren einer Umfrage
+
+
+  *   Verteilen einer Umfrage an Kunden
+
+
+  ### <a name="module-8-analyze-insights-in-dynamics-365-marketing"></a>Modul 8: Analysieren von Erkenntnissen in Dynamics 365 for Marketing
+
+
+  In diesem Modul erfahren Sie mehr über die Verwendung von Features für Erkenntnisse zum Anzeigen und Analysieren von Daten im Zusammenhang mit Ihren Marketinginitiativen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Auswerten von Marketinginitiativen mit Analysen
+
+
+  Nach Abschluss dieses Moduls sind Sie zu Folgendem in der Lage:
+
+
+  *   Nutzen von Erkenntnissen zum Treffen von Entscheidungen über Marketingmaßnahmen
+
+
+  *   Bewerten von Leads
+
+
+  *   Anzeigen von Erkenntnissen im Zusammenhang mit Customer Journeys und E-Mail-Nachrichten

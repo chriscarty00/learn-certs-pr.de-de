@@ -1,21 +1,32 @@
 ### YamlMime:Examination
-title: Microsoft Azure Administrator
+title: Microsoft Azure-Administrator
 metadata:
-  title: 'Exam AZ-103: Microsoft Azure Administrator'
-  description: 'Exam AZ-103: Microsoft Azure Administrator'
+  title: 'Examen AZ-103: Microsoft Azure Administrator'
+  description: 'Examen AZ-103: Microsoft Azure Administrator'
+  ms.openlocfilehash: c06b714d61a58e638e47c1afd6dec7d5fd44819a
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105938"
 uid: exam.az-103
 displayName: AZ-103
-summary: |-
+summary: >-
   <div>
-  <div><strong>Dieses Examen wird am 31. August 2020 eingestellt. Eine Ersatzprüfung, AZ-104, ist verfügbar. Weitere Informationen finden Sie auf der Seite mit den <a href="/learn/certifications/exams/az-104">AZ-104 Prüfungsdetails</a>.</strong><br/><br/></div>
+
+  <div><strong>Dieses Examen wurde am 31. August 2020 eingestellt. Ein Ersatzexamen, AZ-104, ist verfügbar. Weitere Informationen finden Sie auf der <a href="/learn/certifications/exams/az-104">Examensdetailseite zu AZ-104</a>.</strong><br/><br/></div>
+
   </div>
+
 
   Ab dem 1. Mai 2019 müssen Sie nur noch die Exam AZ-103 ablegen, um diese Zertifizierung zu erhalten. Diese neue Prüfung kombiniert die Kompetenzen von AZ-100 und AZ-101 (die am 1. Mai 2019 aus dem Programm genommen wurden), während der Großteil der neuen Prüfung aus AZ-100 stammt.
 
+
   Kandidaten für dieses examens sind Azure-Administratoren, die Cloud-Services verwalten, die Speicher-, Sicherheits-, Netzwerk- und Cloud-Funktionen umfassen. Kandidaten haben ein tiefes Verständnis für jeden Service über den gesamten IT-Lebenszyklus hinweg und nehmen Anfragen für Infrastrukturdienste, Anwendungen und Umgebungen entgegen. Sie geben Empfehlungen zur Nutzung von Diensten für eine optimale Leistung und Skalierung sowie zur Bereitstellung, Größe, Überwachung und Anpassung von Ressourcen.
 
+
   Die Kandidaten für dieses examens sollten über Kenntnisse in der Verwendung von PowerShell, der Befehlszeilenschnittstelle, dem Azure Portal, ARM-Vorlagen, Betriebssystemen, Virtualisierung, Cloud-Infrastruktur, Speicherstrukturen und Netzwerken verfügen.
-subTitle: 'Ab dem 1. Mai 2019 müssen Sie nur noch die Exam AZ-103 ablegen, um diese Zertifizierung zu erhalten. Diese neue Prüfung kombiniert die Kompetenzen von AZ-100 und AZ-101 (die am 1. Mai 2019 aus dem Programm genommen wurden), während der Großteil der neuen Prüfung aus AZ-100 stammt. Dieses examens misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Verwalten von Azure-Abonnements und -Ressourcen, Implementieren und Verwalten von Speicher, Bereitstellen und Verwalten von virtuellen Maschinen (VMs), Konfigurieren und Verwalten virtueller Netzwerke und Verwalten von Identitäten.'
+subTitle: 'Ab dem 1. Mai 2019 müssen Sie nur noch die Exam AZ-103 ablegen, um diese Zertifizierung zu erhalten. Diese neue Prüfung kombiniert die Kompetenzen von AZ-100 und AZ-101 (die am 1. Mai 2019 aus dem Programm genommen wurden), während der Großteil der neuen Prüfung aus AZ-100 stammt. Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Verwaltung von Azure-Abonnements und -Ressourcen, Implementieren und Verwalten von Speicher, Bereitstellung und Verwaltung von virtuellen Maschinen (VMs), Konfiguration und Verwaltung virtueller Netzwerke und Verwaltung von Identitäten.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUR
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-103?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -27,11 +38,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Verwaltung von Azure-Abonnements und Ressourcen (15-20%)
-- Speicherplatz implementieren und verwalten (15-20%)
-- Bereitstellen und Verwalten von virtuellen Maschinen (VMs) (15-20%)
-- Virtuelle Vernetzung konfigurieren und verwalten (30-35%)
-- Identitäten verwalten (15-20%)
+- Manage Azure subscriptions and resources (15-20%)
+- Implement and manage storage (15-20%)
+- Deploy and manage virtual machines (VMs) (15-20%)
+- Configure and manage virtual networks (30-35%)
+- Manage identities (15-20%)
 retirementDate: 08/31/2020
 roles:
 - administrator
@@ -44,7 +55,6 @@ products:
 - azure-resource-manager
 courses:
 - uid: course.az-010t00
-- uid: course.az-103t00
 paths:
 - uid: learn.administer-infrastructure-resources-in-azure
 - uid: learn.architect-storage-infrastructure
@@ -63,10 +73,10 @@ relatedCertifications:
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
@@ -82,4 +92,3 @@ resources:
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
-

@@ -1,23 +1,35 @@
 ### YamlMime:Examination
 title: Microsoft Azure Architect Technologies
 metadata:
-  title: 'Exam AZ-300: Microsoft Azure Architect Technologies'
-  description: 'Exam AZ-300: Microsoft Azure Architect Technologies'
+  title: 'Examen AZ-300: Microsoft Azure Architect Technologies'
+  description: 'Examen AZ-300: Microsoft Azure Architect Technologies'
+  ms.openlocfilehash: 1d1bec9153028f4852089e0e18935ec34f482f5d
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105891"
 uid: exam.az-300
 displayName: AZ-300
-summary: |-
+summary: >-
   <div>
-  <div><strong>DIESE PRÜFUNG WURDE EINGESTELLT. Eine Ersatzprüfung, AZ-303, ist verfügbar. Weitere Informationen finden Sie auf der <a href="/learn/certifications/exams/az-303">Seite mit den AZ-303-Prüfungsdetails</a>.</strong><br/><br/></div>
+
+  <div><strong>DIESES EXAMEN WURDE EINGESTELLT. Ein Ersatzexamen, AZ-303, ist verfügbar. Weitere Informationen finden Sie auf der <a href="/learn/certifications/exams/az-303">Examensdetailseite zu AZ-303</a>.</strong><br/><br/></div>
+
   </div>
 
-  Kandidaten für diese Prüfung sollten über Fachkenntnisse beim Entwerfen und Implementieren von Lösungen verfügen, die unter Microsoft Azure ausgeführt werden, einschließlich Aspekten wie Computer, Netzwerk, Speicher und Sicherheit.
+
+  Kandidaten für dieses examens sollten über Fachkenntnisse beim Entwerfen und Implementieren von Lösungen verfügen, die unter Microsoft Azure ausgeführt werden, einschließlich Aspekten wie Computer, Netzwerk, Speicher und Sicherheit.
+
 
   Zu den Aufgaben eines Azure Solution Architects gehören die Beratung von Stakeholdern und die Umsetzung von Geschäftsanforderungen in sichere, skalierbare und zuverlässige Cloud-Lösungen.
 
+
   Ein Azure Solution Architect arbeitet mit Cloud-Administratoren, Cloud-Datenbankadministratoren und Clients zusammen, um Lösungen zu implementieren.
 
-  Ein Kandidat für dieses examens sollte über umfassende Erfahrung und Kenntnisse in verschiedenen Aspekten des IT-Betriebs verfügen, einschließlich Netzwerk, Virtualisierung, Identität, Sicherheit, Geschäftskontinuität, Notfallwiederherstellung, Datenmanagement, Budgetierung und Governance. Jemand in dieser Position sollte Entscheidungen in den einzelnen Bereichen steuern, die eine Gesamtlösung beeinflussen. Darüber hinaus sollte jemand in dieser Position mindestens eine dieser Azure-Knowledge-Domains beherrschen&#58; Verwaltung, Entwicklung oder DevOps.
-subTitle: 'dieses examens misst Ihre Fähigkeit, folgende technische Aufgaben zu erfüllen: Bereitstellen und Konfigurieren der Infrastruktur, Implementieren von Workloads und Sicherheit, Erstellen und Bereitstellen von Anwendungen, Implementieren von Authentifizierungen und sicheren Daten, und Entwickeln für die Cloud- und Azure-Speicher.'
+
+  Ein Kandidat für dieses examens sollte über umfassende Erfahrung und Kenntnisse in verschiedenen Aspekten des IT-Betriebs verfügen, einschließlich Netzwerk, Virtualisierung, Identität, Sicherheit, Geschäftskontinuität, Notfallwiederherstellung, Datenmanagement, Budgetierung und Governance. Jemand in dieser Position sollte Entscheidungen in den einzelnen Bereichen steuern, die eine Gesamtlösung beeinflussen. Darüber hinaus sollte jemand in dieser Position mindestens eine dieser Azure-Knowledge-Domains beherrschen: Verwaltung, Entwicklung oder DevOps.
+subTitle: 'Diese Prüfung misst Ihre Fähigkeit, folgende technische Aufgaben zu erfüllen: Bereitstellung und Konfiguration der Infrastruktur, Implementieren von Workloads und Sicherheit, Erstellung und Bereitstellung von Anwendungen, Implementieren von Authentifizierung und sicheren Daten, und Entwickeln für den Cloud- und Azure-Speicher.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -28,11 +40,11 @@ locales:
 levels:
 - advanced
 skills:
-- Bereitstellung und Konfiguration der Infrastruktur (40-45%)
-- Implementierung von Workloads und Sicherheit (25-30%)
-- Erstellen und Bereitstellen von Apps (5-10%)
-- Implementierung von Authentifizierung und sicheren Daten (5-10%)
-- Entwickeln für die Cloud und für Azur-Speichermedien (15-20%)
+- Deploy and configure infrastructure (40-45%)
+- Implement workloads and security (25-30%)
+- Create and deploy apps (5-10%)
+- Implement authentication and secure data (5-10%)
+- Develop for the cloud and for Azure storage (15-20%)
 retirementDate: 09/30/2020
 roles:
 - solution-architect
@@ -74,13 +86,13 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: Informieren Sie sich über die Zertifizierungen
+- title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Prüfungswiederholung
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
@@ -90,9 +102,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
-- title: Prüfungsrichtlinien und häufig gestellten Fragen
+- title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
-

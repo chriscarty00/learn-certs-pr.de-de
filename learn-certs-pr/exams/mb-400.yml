@@ -1,22 +1,32 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Apps + Dynamics 365 Developer'
+title: Microsoft Power Apps + Dynamics 365 Developer
 metadata:
-  title: 'Exam MB-400: Microsoft Power Apps + Dynamics 365 Developer'
-  description: 'Exam MB-400: Microsoft Power Apps + Dynamics 365 Developer'
+  title: 'Examen MB-400: Microsoft Power Apps + Dynamics 365 Developer'
+  description: 'Examen MB-400: Microsoft Power Apps + Dynamics 365 Developer'
+  ms.openlocfilehash: 7bd3e46681bb6d9f3af7064440b09655a40430b1
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105810"
 uid: exam.mb-400
 displayName: MB-400
-summary: |-
+summary: >-
   <div>
-  <div><strong>Diese Prüfung wurde am 31. Dezember 2020 eingestellt. Eine Ersatzprüfung, PL-400, ist verfügbar. Weitere Informationen finden Sie auf der <a href="/learn/certifications/exams/pl-400">Seite mit den PL-400-Prüfungsdetails</a>.</strong><br/><br/></div>
+
+  <div><strong>Dieses Examen wurde am 31. Dezember 2020 eingestellt. Ein Ersatzexamen, PL-400, ist verfügbar. Weitere Informationen finden Sie auf der <a href="/learn/certifications/exams/pl-400"> Prüfungsdetailseite zu PL-400</a>.</strong><br/><br/></div>
+
   </div>
+
 
   Kandidaten für dieses examens sind Entwickler, die mit Microsoft Power Apps modellbasierten Anwendungen in Dynamics 365 arbeiten, um Dynamics 365-Implementierenen zu entwerfen, zu entwickeln, zu sichern und zu erweitern. Die Kandidaten implementieren die Komponenten einer Lösung, zu denen Anwendungserweiterungen, individuelle Benutzererlebnisse, Systemintegrationen, Datenkonvertierungen, benutzerdefinierte Prozessautomatisierung und benutzerdefinierte Visualisierungen gehören.
 
+
   Die Kandidaten müssen über fundierte Kenntnisse in Power Apps modellbasierten Anwendungen in Dynamics 365 verfügen, einschließlich genauer Kenntnisse der Anpassung, Konfiguration, Integration und Erweiterbarkeit sowie der Grenzen und Einschränkungen. Die Kandidaten sollen über ein grundlegendes Verständnis der DevOps-Methoden für Power Apps modellbasierte Anwendungen in Dynamics 365 verfügen. Die Kandidaten müssen Daten bereitstellen, speichern und dokumentieren.
 
-  Die Kandidaten sollten über Entwicklungserfahrung verfügen, die JavaScript, TypeScript, C#, HTML, .NET, Microsoft Azure, Office 365, RESTful Web Services, ASP.NET und Power BI umfasst.
 
-subTitle: 'Dieses examens misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Erstellen eines technischen Designs, Konfigurieren eines Common Data Service (CDS), Erstellen und Konfigurieren von Power Apps, Konfigurieren der Geschäftsprozessautomatisierung, Erweitern der Benutzererfahrung, Erweitern der Plattform und Entwickeln von Integrationen.'
+  Die Kandidaten sollten über Entwicklungserfahrung verfügen, die JavaScript, TypeScript, C#, HTML, .NET, Microsoft Azure, Office 365, RESTful Web Services, ASP.NET und Power BI umfasst.
+subTitle: 'In diesem Examen wird Ihre Fähigkeit abgefragt, die folgenden technischen Aufgaben zu bewältigen: Erstellen eines technischen Designs, Konfigurieren einer Common Data Service-Instanz (CDS), Erstellen und Konfigurieren von Power Apps, Konfigurieren der Geschäftsprozessautomatisierung, Erweitern der Benutzererfahrung, Erweitern der Plattform und Entwickeln von Integrationen.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
 locales:
@@ -24,13 +34,13 @@ locales:
 levels:
 - intermediate
 skills:
-- Erstellen eines technischen Designs (10-15%)
-- Konfigurieren des Common Data Service (15-20%)
-- Erstellen und Konfigurieren von Power Apps (10-15%)
-- Konfigurieren der Automatisierung von Geschäftsprozessen (10-15%)
-- Verbessern des Benutzererlebnisses (15-20%)
-- Erweitern der Plattform (15-20%)
-- Integrationen entwickeln (10-15%)
+- Create a technical design (10-15%)
+- Configure Common Data Service (15-20%)
+- Create and configure Power Apps (10-15%)
+- Configure business process automation (10-15%)
+- Extend the user experience (15-20%)
+- Extend the platform (15-20%)
+- Develop integrations (10-15%)
 retirementDate: 12/31/2020
 roles:
 - developer
@@ -51,13 +61,13 @@ resources:
 - title: Lernpfad zur Zertifizierung
   description: Empfohlene Schulungsressourcen, die Ihnen helfen, sich auf die erforderlichen Prüfungen vorzubereiten und Ihre Zertifizierung zu erhalten.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C5rO
-- title: Informieren Sie sich über die Zertifizierungen
+- title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Dynamics 365 und Power Platform an.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Prüfungswiederholung
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
@@ -67,9 +77,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
-- title: Prüfungsrichtlinien und häufig gestellten Fragen
+- title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
-

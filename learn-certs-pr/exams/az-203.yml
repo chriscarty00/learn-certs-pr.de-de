@@ -1,22 +1,34 @@
 ### YamlMime:Examination
 title: Developing Solutions for Microsoft Azure
 metadata:
-  title: 'Exam AZ-203: Developing Solutions for Microsoft Azure'
-  description: 'Exam AZ-203: Developing Solutions for Microsoft Azure'
+  title: 'Examen AZ-203: Developing Solutions for Microsoft Azure'
+  description: 'Examen AZ-203: Developing Solutions for Microsoft Azure'
+  ms.openlocfilehash: 3a32816cd268bf12aeb8303e777f0ac588d662be
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132105906"
 uid: exam.az-203
 displayName: AZ-203
-summary: |-
+summary: >-
   <div>
-  <div><strong>Dieses Examen wird am 31. August 2020 eingestellt. Eine Ersatzprüfung, AZ-204, ist verfügbar. Weitere Informationen finden Sie auf der Seite mit den <a href="/learn/certifications/exams/az-204">AZ-204 Prüfungsdetails</a>.</strong><br/><br/></div>
+
+  <div><strong>Dieses Examen wurde am 31. August 2020 eingestellt. Ein Ersatzexamen, AZ-204, ist verfügbar. Weitere Informationen finden Sie auf der <a href="/learn/certifications/exams/az-204">Examensdetailseite zu AZ-204</a>.</strong><br/><br/></div>
+
   </div>
 
+
   Kandidaten für dieses examens sind Azure Entwickler, die Cloud-Lösungen wie Anwendungen und Services entwerfen und bauen. Sie nehmen an allen Phasen der Entwicklung teil, vom Lösungsdesign über die Entwicklung und Bereitstellung bis hin zu Test und Wartung. Sie arbeiten mit Cloud Solution Architects, Cloud DBAs, Cloud Administratoren und Clients zusammen, um die Lösung zu implementieren.
+
   <br/>
 
-  Die Kandidaten sollten in der Entwicklung von Anwendungen und Diensten unter Verwendung von Azure-Tools und -Technologien, einschließlich Speicherung, Sicherheit, Berechnung und Kommunikation, versiert sein.
+
+  Die Kandidaten sollten in der Entwickeln von Anwendungen und Diensten unter Verwendung von Azure-Tools und -Technologien, einschließlich Speicherung, Sicherheit, Berechnung und Kommunikation, versiert sein.
+
 
   Die Kandidaten müssen über mindestens ein Jahr Erfahrung in der Entwickeln skalierbarer Lösungen in allen Phasen der Softwareentwicklung verfügen und über Kenntnisse in mindestens einer Cloud-gestützten Programmiersprache verfügen.
-subTitle: 'dieses examens misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Entwickeln von Azure Infrastructure as a Service Compute-Lösungen; Entwickeln von Azure Platform as a Service Compute-Lösungen; Entwickeln für Azure Storage; Implementieren von Azure Security; Überwachung, Fehlerbehebung und Optimieren von Lösungen; Verbinden mit Azure Services und Drittanbieter-Diensten.'
+subTitle: 'In diesem Examen wird Ihre Fähigkeit abgefragt, die folgenden technischen Aufgaben zu bewältigen: Entwickeln von Compute-Lösungen für Azure Infrastructure as a Service, Entwickeln von Compute-Lösungen für Azure Platform as a Service, Entwickeln für Azure Storage, Implementieren von Azure Security, Überwachen und Optimieren von sowie Problembehandlung bei Lösungen sowie Verbinden mit Azure-Diensten und Drittanbieter-Diensten.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
 locales:
@@ -27,12 +39,12 @@ locales:
 levels:
 - intermediate
 skills:
-- Entwickeln von Azure Infrastructure als Service Computing-Lösungen (10-15%)
-- Entwickeln von Azure Platform als Service Computing-Lösungen (20-25%)
-- Entwickeln für Azure-Storage (15-20%)
-- Implementieren der Azure-Sicherheit (10-15%)
-- Überwachen, Fehlerbehebung und Optimierung von Lösungen (10-15%)
-- Verbindung zu Azure- und Drittanbieter-Diensten herstellen und nutzen (20-25%)
+- Develop Azure Infrastructure as a Service compute solution (10-15%)
+- Develop Azure Platform as a Service compute solution (20-25%)
+- Develop for Azure storage (15-20%)
+- Implement Azure security (10-15%)
+- Monitor, troubleshoot, and optimize solutions (10-15%)
+- Connect to and consume Azure and third-party services (20-25%)
 retirementDate: 08/31/2020
 roles:
 - developer
@@ -47,13 +59,6 @@ products:
 - azure-bot-service
 - azure-functions
 - azure-logic-apps
-courses:
-- uid: course.az-203t01
-- uid: course.az-203t02
-- uid: course.az-203t03
-- uid: course.az-203t04
-- uid: course.az-203t05
-- uid: course.az-203t06
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together
@@ -69,10 +74,10 @@ relatedCertifications:
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
@@ -88,4 +93,3 @@ resources:
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
-

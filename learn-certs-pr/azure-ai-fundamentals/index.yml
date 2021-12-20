@@ -3,23 +3,29 @@ title: 'Microsoft Certified: Azure AI Fundamentals'
 metadata:
   title: 'Microsoft Certified: Azure AI Fundamentals'
   description: Azure AI Fundamentals validiert grundlegende Kenntnisse über Konzepte für maschinelles Lernen und künstliche Intelligenz sowie zugehörige Microsoft Azure-Services.
+  ms.openlocfilehash: deb7f894cc8d9364157aeaf4bfb10cdf87885e4c
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132111011"
 uid: certification.azure-ai-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: "Kandidaten für Azure AI Fundamentals certification sollten über grundlegende Kenntnisse der Konzepte maschinellen Lernens (ML) und künstlicher Intelligenz (AI) sowie der zugehörigen Microsoft Azure-Services verfügen.  \r\n\r\nDiese Zertifizierung bietet die Gelegenheit, Kenntnisse über gängige ML- und AI-Workloads und deren Implementieren in Azure zu demonstrieren. \r\n\r\nDiese Zertifizierung richtet sich an Kandidaten mit technischem als auch nichttechnischem Hintergrund. Erfahrung in Data-Science und Software-Engineering ist nicht erforderlich. Einige allgemeine Programmierkenntnisse oder -erfahrungen wären jedoch von Vorteil. \r\n\r\nAzure AI-Grundlagen können verwendet werden, um sich auf andere rollenbasierte Azure-Zertifizierungen wie Azure Data Scientist Associate oder Azure AI Engineer Associate vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen."
+summary: "Kandidaten für Azure AI Fundamentals certification sollten über grundlegende Kenntnisse der Konzepte maschinellen Lernens (ML) und künstlicher Intelligenz (AI) sowie der zugehörigen Microsoft Azure-Services verfügen.  \n\nDiese Zertifizierung bietet die Gelegenheit, Kenntnisse über gängige ML- und AI-Workloads und deren Implementieren in Azure zu demonstrieren.  \n\nDiese Zertifizierung richtet sich an Kandidaten mit technischem als auch nichttechnischem Hintergrund. Erfahrung in Data-Science und Software-Engineering ist nicht erforderlich. Einige allgemeine Programmierkenntnisse oder -erfahrungen wären jedoch von Vorteil.  \n\nAzure AI-Grundlagen können verwendet werden, um sich auf andere rollenbasierte Azure-Zertifizierungen wie Azure Data Scientist Associate oder Azure AI Engineer Associate vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen."
 subTitle: Azure AI Fundamentals validiert grundlegende Kenntnisse über Konzepte für maschinelles Lernen und künstliche Intelligenz sowie zugehörige Microsoft Azure-Services.
 levels:
 - beginner
 skills:
-- AI-Workloads und Überlegungen dazu beschreiben
-- Grundprinzipien des maschinellen Lernens in Azure beschreiben
-- Funktionen von Computer Vision-Workloads in Azure beschreiben
-- Funktionen von NLP-Workloads beschreiben (Natural Language Processing) in Azure
-- Beschreiben der Funktionen von dialogorientierten AI-Workloads in Azure
+- Describe AI workloads and considerations
+- Describe fundamental principles of machine learning on Azure
+- Describe features of computer vision workloads on Azure
+- Describe features of Natural Language Processing (NLP) workloads on Azure
+- Describe features of conversational AI workloads on Azure
 roles:
 - ai-engineer
-- data-scientist
 - developer
-- solution-architect
+- data-scientist
+- student
 type: fundamentals
 products:
 - azure
@@ -53,14 +59,14 @@ resources:
   description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Azure an.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Reise zur Zertifizierung
-  description: Informieren Sie sich über die Schritte zur Zertifizierung in Azure AI Fundamentals und über die verfügbaren Ressourcen, die Ihnen bei der Vorbereitung helfen können.
+  description: Informieren Sie sich über die Schritte zur Zertifizierung als Azure AI Fundamentals und über die verfügbaren Ressourcen, die Ihnen bei der Vorbereitung helfen können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARlg
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
@@ -70,7 +76,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Erhalten Sie Ihren Microsoft-Zertifizierungsbadge, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md
-

@@ -1,10 +1,16 @@
 ### YamlMime:Course
-title: 'Microsoft Dynamics 365 + Power Platform Solution Architect'
+title: Microsoft Dynamics 365 + Power Platform Solution Architect
 metadata:
-  title: 'Course MB-600T00-A: Microsoft Dynamics 365 + Power Platform Solution Architect'
-  description: 'Course MB-600T00-A: Microsoft Dynamics 365 + Power Platform Solution Architect'
+  title: 'Kurs MB-600T00-A: Solution Architect für Dynamics 365 und Microsoft Power Platform'
+  description: 'Kurs MB-600T00-A: Solution Architect für Dynamics 365 und Microsoft Power Platform'
+  ms.openlocfilehash: 08b8472fb8b285bdc67eeeed01b2efcee93138aa
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107243"
 uid: course.mb-600t00
-courseNumber: 'MB-600T00-A'
+courseNumber: MB-600T00-A
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
@@ -19,129 +25,218 @@ products:
 - power-apps
 exams:
 - uid: exam.mb-600
-summary: |-
+summary: >-
   Der Solution Architect ist für den erfolgreichen Entwurf, die Implementierung, die Bereitstellung und die Annahme einer Gesamtlösung verantwortlich. Der Solution Architect stellt sicher, dass die Lösung die Anforderungen des Kunden jetzt und in Zukunft erfüllt. In diesem Kurs lernen die Teilnehmer die Entscheidungen kennen, die ein Solution Architect während einer Implementierung trifft, und zwar in den Bereichen Sicherheit, Integrationen, Power Apps-Architektur, Power Automate-Architektur und mehr. Dieser Kurs soll eine Einführung in die Rolle des Solution Architect geben.
 
-  #### Zielgruppenprofil
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
 
   Senior Consultants (sowohl funktionale als auch technische), die die Rolle des Solution Architects anstreben, oder aktuelle Solution Architects, die neu in der Rolle sind.
-prerequisitesSection: |-
-  Vor Teilnahme an disesem Kurs benötigen die Teilnehmer&#58;
-
-  Bestandene MB-200 Prüfung
-  Erfahrungen mit Dynamics 365 und der Power-Plattform
-  Senior Consultant (funktional oder technisch) oder Solution Architect neu in der Rolle
-  Einige Kenntnisse über Microsoft Azure
-outlineSection: |-
-  ### Modul 1&#58; Lösungsarchitekt werden/ Ihren Kunden kennenlernen
-  #### Lektionen
-  - Definieren Sie einen Solution Architect
-  - Rolle eines Solution Architects bei Projekten
-  - Projekt-Methodik
-  - Lernen Sie Ihren Kunden kennen
-  - Gruppenübung Lernen Sie Ihren Kunden kennen
+prerequisitesSection: >-
+  Vor der Teilnahme an diesem Kurs müssen die Teilnehmer folgende Voraussetzungen erfüllen:
 
 
-  ### Modul 2&#58; Konzeptualisierung des Entwurfs aus den Anforderungen
-  #### Lektionen
-  - Wie man die Anforderungserfassung leitet
-  - Verwendung der Passungslückenanalyse
-  - Pfeiler guter Architektur
-  - Entwurf der Lösungsarchitektur
-  - Gruppenübung - Entwurf aus Anforderungen
+  - Sie haben das Examen MB-200 bestanden.
+
+  - Sie haben Erfahrung mit Dynamics 365 und den Power Platform-Diensten.
+
+  - Sie sind ein*e Senior Consultant (funktional oder technisch) oder ein*e Solution Architect, der*die neu in der Rolle sind
+
+  - Sie verfügen über Grundkenntnisse zu Microsoft Azure.
+outlineSection: >-
+  ### <a name="module-158-becoming-a-solution-architectgetting-to-know-your-customer"></a>Modul 1: Solution Architect werden/Kennenlernen Ihrer Kund*innen
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Was ist ein*e Solution Architect?
+
+  - Die Rolle von Solution Architects bei Projekten
+
+  - Projektmethodik
+
+  - Kennenlernen Ihrer Kund*innen
+
+  - Gruppenübung: Kennenlernen Ihrer Kund*innen
 
 
-  ### Modul 3&#58; Projektleitung und Arbeiten im Team
-  #### Lektionen
-  - Die Rolle des Solution Architect bei der Projektleitung
-  - Techniken, um ein Projekt auf Kurs zu halten
-  - Szenarien, die ein Projekt zum Scheitern bringen könnten
-  - Gruppenübung Projektleitung und Teamarbeit
+
+  ### <a name="module-258-conceptualizing-the-design-from-requirements"></a>Modul 2&#58; Konzeptualisieren des Entwurfs anhand der Anforderungen
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Leiten der Anforderungserfassung
+
+  - Verwenden der Analyse von Anpassungslücken
+
+  - Grundpfeiler einer guten Architektur
+
+  - Entwerfen der Lösungsarchitektur
+
+  - Gruppenübung: Entwerfen anhand der Anforderungen
 
 
-  ### Modul 4&#58; Leistungsplattform Architektur
-  #### Lektionen
-  - Wichtige Komponenten der Power Platform Architektur
-  - Verstehen, wie Plattformdesign und Grenzen die Lösungsarchitekturen beeinflussen
-  - Updates und Funktionsveröffentlichungen
-  - Verstehen, wie man kommuniziert, wie die Plattform die Kundenbedürfnisse erfüllt
+
+  ### <a name="module-358-project-governance-and-working-as-a-team"></a>Modul 3&#58; Projektgovernance und Teamarbeit
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Die Rolle des Solution Architect bei der Projektgovernance
+
+  - Techniken, um ein Projekt im Zeitplan zu halten
+
+  - Szenarios, die ein Projekt zum Scheitern bringen können
+
+  - Gruppenübung: Projektgovernance und Teamarbeit
 
 
-  ### Modul 5&#58; Datenmodellierung
-  #### Lektionen
+
+  ### <a name="module-458-power-platform-architecture"></a>Modul 4&#58; Power Platform-Architektur
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Wichtige Komponenten der Power Platform-Architektur
+
+  - Einfluss des Plattformdesigns und der Plattformgrenzen auf Lösungsarchitekturen
+
+  - Updates und Featurereleases
+
+  - Kommunizieren, wie die Plattform Kundenbedürfnisse erfüllt
+
+
+
+  ### <a name="module-558-data-modeling"></a>Modul 5&#58; Datenmodellierung
+
+  #### <a name="lessons"></a>Lektionen
+
   - Einflüsse des Datenmodells
-  - Datenmodell-Strategie
+
+  - Datenmodellstrategie
+
   - Datentypen
+
   - Datenbeziehungen
-  - Gruppenübung Datenmodellierung
+
+  - Gruppenübung: Datenmodellierung
 
 
-  ### Modul 6&#58; Analytik und künstliche Intelligenz
-  #### Lektionen
-  - Planung und Bewertung von Anforderungen
+
+  ### <a name="module-658-analytics-and-artificial-intelligence"></a>Modul 6: Analysen und künstliche Intelligenz
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Planen und Auswerten von Anforderungen
+
   - Operative Berichterstattung
+
   - Power BI
-  - Unternehmens-BI
+
+  - Enterprise BI
+
   - Vorgefertigte Erkenntnisse und benutzerdefinierte KI
 
 
-  ### Modul 7&#58; Architektur von Power Apps
-  #### Lektionen
-  - Besprechen der Optionen für Anwendungen und wie Sie wählen können, wo Sie beginnen möchten
-  - Besprechen von Optionen für die Zusammenstellung von Apps
-  - Verwendung von Komponenten als Teil Ihrer Anwendungsarchitektur
-  - Überlegungen zur Aufnahme von Portalen als App in Ihre Architektur
-  - Gruppenübung Power Apps Architektur-Themen
+
+  ### <a name="module-758-power-apps-architecture"></a>Modul 7: Power Apps-Architektur
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Optionen für Apps und die Auswahl des richtigen Startpunkts
+
+  - App-Kompositionsoptionen
+
+  - Verwenden von Komponenten als Teil Ihrer App-Architektur
+
+  - Überlegungen zum Aufnehmen von Portalen als App in Ihre Architektur
+
+  - Gruppenübung: Themen der Power Apps-Architektur
 
 
-  ### Modul 8&#58; Anwendung Lebenszyklus-Management (ALM)
-  #### Lektionen
-  - Die Rolle des Microsoft Vision und Solution Architect im ALM
-  - Strategien für die Umwelt
+
+  ### <a name="module-858-application-lifecycle-management-alm"></a>Modul 8: Application Lifecycle Management (ALM)
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Die Microsoft-Vision und die Rolle des*der Solution Architect im ALM
+
+  - Umgebungsstrategien
+
   - Bestimmen einer Lösungsstruktur für Ihr Ergebnis
 
-  #### Labor&#58; ALM Hands-On-Labor
+
+  #### <a name="lab-58-alm-hands-on-lab"></a>Lab: ALM-Praxislab
 
 
-  ### Modul 9&#58; Power Automate Architecture
-  #### Lektionen
-  - Besprechen der Optionen für Automatisierung und benutzerdefinierte Logik
-  - Überlegungen zur Verwendung von Auslösern und gemeinsamen Aktionen überprüfen
-  - Erkunden der Verwendung von Business Process Flows (BPF), um Benutzer durch Geschäftsprozesse zu führen
-  - Gruppenübung Evaluieren von Szenarien für die Nutzung von Power Automate
+
+  ### <a name="module-958-power-automate-architecture"></a>Modul 9: Power Automate-Architektur
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Optionen für die Automatisierung und die benutzerdefinierte Logik
+
+  - Überlegungen zum Verwenden von Auslösern und gängigen Aktionen
+
+  - Verwenden von Business Process Flows (BPF) zum Leiten von Benutzer*innen durch Geschäftsprozesse
+
+  - Gruppenübung: Auswerten von Szenarios für die Nutzung von Power Automate
 
 
-  ### Modul 10&#58; Sicherheitsmodellierung
-  #### Lektionen
-  - Die Rolle des Solution Architect bei der Sicherheitsmodellierung
-  - Entdecken und lernen Sie die Umgebung Ihres Kunden
-  - Kontrolle des Zugangs zu Umgebungen und Ressourcen
-  - Kontrolle des Zugriffs auf CDS Daten
-  - Gruppenübung Sicherheitsmodellierung
+
+  ### <a name="module-1058-security-modeling"></a>Modul 10: Sicherheitsmodellierung
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Die Rolle des*der Solution Architect bei der Sicherheitsmodellierung
+
+  - Entdecken und Kennenlernen der Umgebung der Kund*innen
+
+  - Steuern des Zugriffs auf Umgebungen und Ressourcen
+
+  - Steuern des Zugriffs auf CDS-Daten
+
+  - Gruppenübung: Sicherheitsmodellierung
 
 
-  ### Modul 11&#58; Integrationen
-  #### Lektionen
+
+  ### <a name="module-1158-integration"></a>Modul 11: Integration
+
+  #### <a name="lessons"></a>Lektionen
+
   - Die Rolle von Solution Architects bei Integrationen
-  - Was ist eine Integration und warum brauchen wir sie?
-  - Plattformfunktionen, die eine Integration ermöglichen
-  - Veröffentlichung von CDS-Veranstaltungen
-  - Szenarien für Gruppendiskussionen
+
+  - Was ist eine Integration, und warum benötigen wir sie?
+
+  - Plattformfeatures, die eine Integration ermöglichen
+
+  - Veröffentlichen von CDS-Ereignissen
+
+  - Szenarios für Gruppendiskussionen
 
 
-  ### Module 12&#58; Dynamics 365 Applications Architecture
-  #### Lektionen
-  - Die Rolle des Solution Architect bei der Bereitstellung von Dynamics 365-Anwendungen
-  - Architecture-Betrachtungen für primäre Anwendungen
-  - Gruppenübung Spezielle Arbeitsgruppen bewerten die Anforderungen
+
+  ### <a name="module-1258-dynamics-365-applications-architecture"></a>Modul 12: Dynamics 365-Anwendungsarchitektur
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Die Rolle des*der Solution Architect beim Bereitstellen von Dynamics 365-Apps
+
+  - Überlegungen zur Architektur für primäre Apps
+
+  - Gruppenübung: Auswerten von Anforderungen durch App-spezifische Arbeitsgruppen
 
 
-  ### Modul 13&#58; Tests und Inbetriebnahme
-  #### Lektionen
-  - Die Rolle von Solution Architects mit Tests und Inbetriebnahme
-  - Planung für Tests
-  - Planung für die Inbetriebnahme
 
-  #### Additional Reading
+  ### <a name="module-1358-testing-and-go-live"></a>Modul 13: Testen und Inbetriebnahme
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Die Rolle der*des Solution Architect beim Testen und bei der Inbetriebnahme
+
+  - Planen des Testens
+
+  - Planen der Inbetriebnahme
+
+
+  #### <a name="additional-reading"></a>Weiterführende Lektüre
+
   https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/
-

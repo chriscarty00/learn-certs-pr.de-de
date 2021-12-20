@@ -1,10 +1,16 @@
 ### YamlMime:Course
 title: Microsoft 365 Messaging
 metadata:
-  title: 'Course MS-203T00-A: Microsoft 365 Messaging'
-  description: 'Course MS-203T00-A: Microsoft 365 Messaging'
+  title: 'Kurs MS-203T00--A: Microsoft 365 Messaging'
+  description: 'Kurs MS-203T00--A: Microsoft 365 Messaging'
+  ms.openlocfilehash: 58ef8184ff4468689d755838203aa7e08078d7bb
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107058"
 uid: course.ms-203t00
-courseNumber: 'MS-203T00-A'
+courseNumber: MS-203T00
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -13,7 +19,7 @@ skillsGained:
 - skill: Verwalten Sie Nachrichtenhygiene und -konformität
 - skill: Verwalten Sie die Authentifizierung für das Messaging
 - skill: Konfigurieren Sie Organisationseinstellungen und deren Freigabe
-- skill: Verwaltung mobiler Geräte
+- skill: Verwalten von mobilen Geräten
 - skill: Verwaltung funktionsbasierter Berechtigungen
 - skill: Erstellen und verwalten Sie Empfängerobjekte und -ressourcen
 - skill: Planen, Implementieren und Beheben von Problemen mit öffentlichen Ordnern
@@ -31,311 +37,787 @@ products:
 - azure
 exams:
 - uid: exam.ms-203
-summary: |-
+summary: >-
   In diesem Kurs werden die wichtigsten Elemente der Microsoft 365-Messaging-Verwaltung untersucht, einschließlich Nachrichtentransport und Nachrichtenfluss, Messaging-Sicherheit, Hygiene und Compliance, Messaging-Infrastruktur und Hybrid-Messaging. Dieser Kurs richtet sich an IT-Experten, die die Messaging-Infrastruktur für Microsoft 365 in ihrem Unternehmen bereitstellen und verwalten.
 
-  #### Zielgruppenprofil
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+
   Der Nachrichten-Administrator stellt Empfänger, Berechtigungen, E-Mail-Schutz, Nachrichtenfluss und öffentliche Ordner sowohl in lokalen als auch in Cloud-Unternehmensumgebungen bereit, konfiguriert und verwaltet sie und behebt Probleme. Zu den Aufgaben gehören die Verwaltung der Nachrichtenreinhaltung, der Infrastruktur zur Nachrichtenübermittlung sowie der Hybridkonfiguration und -migration. Um eine sichere Hybridtopologie zu implementieren, die den Geschäftsanforderungen einer modernen Organisation entspricht, muss der Nachrichten-Administrator mit dem Sicherheitsadministrator und Microsoft 365 Enterprise Administrator zusammenarbeiten. Der Messaging-Administrator sollte über gute Kenntnisse in den Bereichen Authentifizierung, Lizenzierung und Integration mit Microsoft 365-Anwendungen verfügen.
-prerequisitesSection: |-
-  Dieser Kurs richtet sich an Personen, die die Position des Microsoft 365 Messaging-Administrators anstreben.
-outlineSection: |-
-  ### Modul 1&#58; Übermittlungspipeline verwalten
-  In diesem Modul erfahren Sie mehr über die verschiedenen Transportkomponenten von Exchange, die Funktionsweise des Nachrichtenroutings und die Konfiguration des Nachrichtenflusses für Ihr Unternehmen. Sie untersuchen die Aufgaben, die Messaging-Administratoren ausführen müssen, um den Nachrichtentransport zu konfigurieren. Sie überprüfen die Optionen für den Nachrichtentransport und erfahren, wie man Domains und Connectors konfiguriert und einen Genehmigungs-Workflow für das Messaging implementiert. Außerdem erfahren Sie, wie man Transportregeln verwaltet, eine sehr leistungsstarke Konfiguration zur Steuerung des Nachrichtenflusses in Ihrem Unternehmen. 
-  #### Lektionen
-  - Übersicht über Übermittlungsdienste
-  - Nachrichtentransport konfigurieren
-  - Transportregeln verwalten
+prerequisitesSection: Dieser Kurs richtet sich an Personen, die die Position des Microsoft 365 Messaging-Administrators anstreben.
+outlineSection: >-
+  ### <a name="module-1-managing-the-transport-pipeline"></a>Modul 1: Verwalten der Transportpipeline
 
 
-  #### Labor &#58; Konfigurieren Sie den Nachrichtentransport
-  - Erstellen Sie Connectors
-
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Beschreiben Sie die Transportkomponenten von Exchange
-  - Planen Sie ein effektives Nachrichtenrouting für Ihr Untermehmen
-  - Ändern Sie den Nachrichtenfluss für Ihr Unternehmen
-  - Beschreiben Sie, welche Transportmedien vorhanden sind und was diese tun
-  - Konfigurieren Sie die verschiedenen Transportmöglichkeiten
-  - Planen und Einrichten von Domains für Ihre Unternehmen
-  - Grundlegendes zur Funktion von Empfangs- und Sendeanschlüssen
-  - Beschreiben Sie, wie die Nachrichtenmoderation für verschiedene Empfänger funktioniert
-  - Grundlegendes zu Transportregeln
-  - Beschreiben Sie, wie Transportregeln funktionieren
-  - Konfigurieren Sie benutzerdefinierte Transportregeln
-  - Beschreiben Sie, wie Transportregeln zur Verhinderung von Datenverlust verwendet werden können
+  In diesem Modul erfahren Sie mehr über die verschiedenen Transportkomponenten von Exchange, die Funktionsweise des Nachrichtenroutings und die Konfiguration des Nachrichtenflusses für Ihr Unternehmen. Sie untersuchen die Aufgaben, die Messaging-Administratoren ausführen müssen, um den Nachrichtentransport zu konfigurieren. Sie überprüfen die Optionen für den Nachrichtentransport und erfahren, wie man Domains und Connectors konfiguriert und einen Genehmigungs-Workflow für das Messaging implementiert. Außerdem erfahren Sie, wie man Transportregeln verwaltet, eine sehr leistungsstarke Konfiguration zur Steuerung des Nachrichtenflusses in Ihrem Unternehmen.
 
 
-  ### Modul 2&#58;  Problembehebung und Verwaltung des E-Mailflusses
-  Modul untersuchen Sie die Komponenten des Nachrichtenflusses und lernen, wie man den Nachrichtenfluss verwaltet, eine wichtige Aufgabe für jeden Exchange-Administrator. Sie untersuchen die Unterschiede zwischen der Verwaltung des Nachrichtenflusses in Exchange Online-, Exchange Server- und Exchange Hybrid-Bereitstellungen. Von der Verwaltung des Nachrichtenflusses gehen Sie über zur Fehlerbehebung bei Problemen mit dem Nachrichtenfluss, z. B. wenn E-Mails innerhalb oder außerhalb Ihres Unternehmens nicht ordnungsgemäß weitergeleitet oder keine sicheren Verbindungen hergestellt werden können. Sie erfahren mehr über die Tools, die Microsoft bereitstellt, um Ihnen zu helfen, die Hauptursache für Ihre Probleme zu finden und den Nachrichtenfluss wiederherzustellen. Anschließend gehen Sie von der Fehlerbehebung beim Nachrichtenfluss zur Fehlerbehebung bei Transportproblemen wie netzwerkbasierten Problemen, Connector-, Agenten- und Architekturproblemen sowie zur Fehlerbehebung bei der Koexistenz über. Schließlich erfahren Sie, wie Sie Ereignis-, Protokoll- und Nachverfolgungs-Logs überprüfen können, wenn alle Maßnahmen zur Fehlerbehebung für die Servicebereitschaft und den Nachrichtentransport abgeschlossen sind und das Problem weiterhin besteht oder wenn Sie historische Daten zu Problemen in der Vergangenheit suchen müssen.
-  #### Lektionen
-  - Verwalten des Mailflows
-  - Problembehebung beim E-Mailfluss
-  - Problembehebung bei Übermittlungsproblemen
-  - Problembehebung bei Logs
+  #### <a name="lessons"></a>Lektionen
 
 
-  #### Labor &#58; Bedingtes Mail-Routing
-  - Erstellen Sie Regeln für den Nachrichtenfluss
-
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Verwalten Sie den Nachrichtenfluss in Unternehmen
-  - Grundlegendes zum Nachrichtenfluss für Exchange Server
-  - Verwalten Sie den Nachrichtenfluss für Exchange Online
-  - Beschreiben und Verwalten des Nachrichtenflusses in Hybridumgebungen
-  - Grundlegendes zur Problembehebung beim SMTP-Nachrichtenfluss
-  - Beschreiben Sie, wie man Probleme mit einem gemeinsam genutzten Namespace beheben kann
-  - Beschreiben Sie das Beheben von Verschlüsselungsproblemen mit TLS
-  - Führen Sie eine Fehlerbehebung für netzwerkbasierte Probleme durch
-  - Beschreiben Sie Verfahren zur Fehlerbehebung für Connector- und Agentenprobleme
-  - Planen Sie die Fehlerbehebung bei Architekturproblemen
-  - Grundlegendes zur Durchführung Fehlerbehebung in Koexistenz
-  - Erstellen Sie Suchvorgänge für den Nachrichtenverfolgungs-Log
-  - Beschreiben Sie die Fehlerbehebung mit Hilfe der Protokoll-Logs
-  - Grundlegendes zur Arbeit mit dem Ereignis-Logging für Exchange
+  *   Übersicht über Transportdienste
 
 
-  ### Modul 3&#58; Verwalten der Nachrichtenreinhaltung
-  In diesem Modul lernen Sie die Eigenschaften und Funktionen von Microsoft Exchange Online Protection (EOP) kennen. Sie erfahren außerdem, wie Sie das Messaging-Routing für diesen Dienst planen, der Anti-Malware- und Anti-Spam-Richtlinien bereitstellt, die Ihr Unternehmen vor Spam und Malware schützen und Ihr Unternehmen vor Verletzungen der Messaging-Richtlinien bewahren. Anschließend werden Sie den Anti-Malware- und Anti-Spam-Schutz, den Exchange Server und Online Protection bieten, überprüfen und lernen, wie Sie SPAM- und Malwarefilter, Richtlinien und Einstellungen konfigurieren, um Ihre Benutzer zu schützen. Zum Abschluss des Moduls untersuchen Sie Defender für Office 365 und erfahren, wie es den von EOP bereitgestellten Schutz erweitert, indem es gezielte Angriffe filtert, die die Verteidigungslinie von EOP passieren könnten, einschließlich fortgeschrittener Bedrohungen wie Zero-Day-Angriffe in E-Mail-Anhängen und Office-Dokumenten und Time-of-Click-Schutz vor bösartigen URLs. Sie erfahren, wie Defender for Office 365 Benutzer durch Funktionen wie sichere Anhänge und sichere Links vor fortgeschrittenen Bedrohungen schützt und wie es Berichte erstellt, die Administratoren einen Einblick in Angriffe auf ihre Tenants per E-Mail geben.
-  #### Lektionen
-  - Planung für Nachrichtenreinhaltung
-  - Verwalten von Anti-Malware- und Anti-Spam-Richtlinien
-  - Verwalten von erweitertem Bedrohungsschutz mit Defender für Office 365
+  *   Konfigurieren des Nachrichtentransports
 
 
-  #### Labor &#58; Nachrichtenreinhaltung verwalten
-  - Erstellen Sie Hygienefilter
-
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Erläutern Sie die Verwendung und Funktionen von Exchange Online-Schutz
-  - Planen Sie das Nachrichtenrouting für Exchange Online-Schutz
-  - Untersuchen Sie die verfügbaren EOP-Berichte und -Protokolle
-  - Grundlegendes zu verschiedenen Message-Header-Feldern, die für den Spam- und Spoofing-Schutz relevant sind
-  - Konfigurieren Sie Anti-Spam- und Anti-Malware-Filter in Exchange Server
-  - Verwenden zusätzlicher Funktionen für die Filterung und Quarantäne ausgehender Spam-Mails
-  - Implementieren von Schutzfunktionen gegen Phishing und Spoofing
-  - Beschreiben der Funktionen von Microsoft Defender for Office 365
-  - Beschreiben Sie die Funktionen von Advanced Threat Protection
-  - Beschreiben Sie den Schutz, den die Richtlinien für sichere Anhänge und sichere Links bieten
-  - Grundlegendes zu gefälschten Intelligenzfunktionen
-  - Wissen, wie ATP-Anti-Phishing-Richtlinien funktionieren
-  - Verstehen, wie man den Configuration Analyzer verwendet
+  *   Verwalten von Transportregeln
 
 
-  ### Modul 4&#58; Sicherheitsverwaltung
-  In diesem Modul werden zunächst die verschiedenen Compliance-Funktionen im Security & Compliance Center (SCC) beschrieben, die Messaging-Administratoren nutzen können, um die gesetzlichen und behördlichen Anforderungen zu erfüllen. Dieses Modul unterstützt die Konformität in Exchange, indem die im Exchange Admin Center für Exchange Server und in Hybridbereitstellungen verfügbaren Konformitätsfunktionen untersucht werden. Aufgrund der komplexen Aufbewahrungsanforderungen moderner Messaging-Umgebungen konzentriert sich dieses Modul darauf, wie Archivierung mit Exchange durchgeführt wird, damit Sie Ihren Benutzern eine effiziente und kompatible Umgebung bieten können. Sie untersuchen auch, wie Ihren Benutzern zusätzlicher Archivspeicher bereitgestellt wird, wie Nachrichten automatisch verarbeitet und archiviert werden und wie die Audit-Protokollierung in Exchange Informationen zu Administrator-, Delegierten- und Benutzeraktionen in Benutzerpostfächern und Ihrer Exchange-Organisation bereitstellt. Schließlich untersuchen Sie, wie eDiscovery für Microsoft Exchange Sie bei der Suche nach relevanten Inhalten in Postfächern unterstützen kann, da Unternehmen die gesetzlichen Anforderungen zur Offenlegung einhalten müssen (in Bezug auf Organisationsrichtlinien, Compliance oder Rechtsstreitigkeiten).
-  #### Lektionen
-  - Compliance bei der Nachrichtenübermittlung im SCC
-  - Compliance bei der Nachrichtenübermittlung in Exchange
-  - Exchange Online-Archivierung und -Prüfung verwalten
-  - Verwalten der Inhaltssuche
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Beschreiben Sie verschiedene Richtlinien- und Compliance-Funktionen für das Messaging
-  - Bewerten Sie die verschiedenen Rollen im Security & Compliance Center
-  - Planen Sie Aufbewahrungsrichtlinien für Exchange Online-Postfächer
-  - Konfigurieren Sie DLP-Richtlinien (Data Loss Prevention) für Daten in Microsoft 365
-  - Erstellen Sie Nachrichtenspuren, um den Nachrichtenfluss in Ihrer Exchange Online-Organisation zu verstehen
-  - Beschreiben Sie Rechtsstreitigkeiten und In-Place-Holds in Exchange Server
-  - Planen Sie die Aufbewahrung und Löschung mit Message Records Management (MRM)
-  - Schützen Sie Ihren Nachrichtenfluss mit Richtlinien zur Verhinderung von Datenverlust in Exchange Server
-  - Untersuchen Sie das Nachrichtenverfolgungs-Log in Ihrer Exchange-Organisation
-  - Beschreiben Sie, was In-Place-Archivierung ist und wie sie funktioniert
-  - Verstehen Sie die Unterschiede zwischen Journaling und Archivierung
-  - Wissen, wofür die Mailbox- und Administrator-Überwachungsprotokolle verwendet werden
-  - Grundlegendes zur Inhaltssuche, um nach Nachrichten in Ihrer Organisation zu suchen
-  - Beschreiben von eDiscovery-Fällen und direktem eDiscovery für Exchange
-  - Verwalten Sie erweiterte eDiscovery-Fälle im Security & Compliance Center
+  #### <a name="lab--configure-message-transport"></a>Lab: Konfigurieren des Nachrichtentransports
 
 
-  ### Modul 5&#58; Organisationseinstellungen verwalten
-  Dieses Modul beginnt mit einer Untersuchung zum Verwalten der Authentifizierung für Messaging. Dieses Modul konzentriert sich darauf, wie sichergestellt werden kann, dass Benutzerkonten gut geschützt und sicher sind, und wie mehrere Sicherheitsfunktionen bereitgestellt werden, die die tägliche Arbeit der Benutzer nicht unnötig komplex machen, was zu einer geringeren Unternehmensproduktivität und neuen Sicherheitsrisiken führen könnte. Anschließend wechseln Sie von der Messaging-Authentifizierung zu den Organisationseinstellungen. Dort erfahren Sie, wie Sie Einstellungen konfigurieren, die für die gesamte Organisation oder für viele Benutzer in der Organisation gelten. Abschließend erfahren Sie, wie Sie die organisatorische Freigabe konfigurieren. 
-  #### Lektionen
-  - Authentifizierung für die Nachrichtenübermittlung verwalten
-  - Konfigurieren der Organisations-Einstellungen
-  - Konfigurieren der organisatorischen Freigabe
+  ####
+     *   Erstellen eines Connectors
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Konfigurieren von Passwortrichtlinienoptionen
-  - Konfigurieren der Self-Service-Passwortverwaltung
-  - mehrstufige Authentifizierung implementieren
-  - Passwort-Richtlinien
-  - Konfigurieren Sie Workload-Richtlinien und Drosselung
-  - Konfigurieren Sie Kontingentkonfigurationen
-  - Konfigurieren Sie die Integration von Exchange Server und Skype for Business
-  - Bereitstellung von integrierten Office 365-Apps
-  - Bieten Sie einen Überblick über die Funktionen zur Freigabe von Exchange-Verbunddelegationen
-  - Beschreiben Sie Verbundfreigabekomponenten
-  - Erläutern Sie Überlegungen zum Entwerfen und Implementieren von Verbundvertrauensstellungen und -zertifikaten
-  - Implementieren Sie Unternehmensbeziehungen
-  - Implementieren Sie Freigaberichtlinien
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  ### Modul 6&#58; Mobile Geräte verwalten
+  *   Erklären der Transportkomponenten von Exchange
+
+
+  *   Planen Sie eines effektiven Nachrichtenroutings für Organisationen
+
+
+  *   Ändern des Nachrichtenflusses für Organisationen
+
+
+  *   Erklären der vorhandenen Transport-Agents und ihrer Funktionsweise
+
+
+  *   Konfigurieren der verschiedenen Transportoptionen
+
+
+  *   Planen und Einrichten von Domänen für Organisationen
+
+
+  *   Grundlegendes zur Funktionsweise von Empfangs- und Sendeconnectors
+
+
+  *   Erklären der Funktionsweise der Nachrichtenmoderation für verschiedene Empfänger
+
+
+  *   Grundlegendes zu Transportregeln
+
+
+  *   Erklären der Funktionsweise von Transportregeln
+
+
+  *   Konfigurieren benutzerdefinierter Transportregeln
+
+
+  *   Erklären der Verwendung von Transportregeln zur Verhinderung von Datenverlust
+
+
+
+  ### <a name="module-2-managing-and-troubleshooting-mail-flow"></a>Modul 2: Problembehebung und Verwaltung des Nachrichtenflusses
+
+
+  Modul untersuchen Sie die Komponenten des Nachrichtenflusses und lernen, wie man den Nachrichtenfluss verwaltet, eine wichtige Aufgabe für jeden Exchange-Administrator. Sie untersuchen die Unterschiede zwischen der Verwaltung des Nachrichtenflusses in Exchange Online-, Exchange Server- und Exchange Hybrid-Bereitstellungen. Von der Verwaltung des Nachrichtenflusses gehen Sie über zur Fehlerbehebung bei Problemen mit dem Nachrichtenfluss, z. B. wenn E-Mails innerhalb oder außerhalb Ihres Unternehmens nicht ordnungsgemäß weitergeleitet oder keine sicheren Verbindungen hergestellt werden können. Sie erfahren mehr über die Tools, die Microsoft bereitstellt, um Ihnen zu helfen, die Hauptursache für Ihre Probleme zu finden und den Nachrichtenfluss wiederherzustellen. Anschließend gehen Sie von der Fehlerbehebung beim Nachrichtenfluss zur Fehlerbehebung bei Transportproblemen wie netzwerkbasierten Problemen, Connector-, Agenten- und Architekturproblemen sowie zur Fehlerbehebung bei der Koexistenz über. Schließlich lernen Sie, wie Sie Protokolle wie Ereignis- und Nachverfolgungsprotokolle überprüfen können, wenn alle Maßnahmen zur Fehlerbehebung für die Dienstverfügbarkeit und den Nachrichtentransport abgeschlossen sind und das Problem weiterhin besteht oder Sie Verlaufsdaten zu Problemen in der Vergangenheit suchen müssen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Verwalten des Nachrichtenflusses
+
+
+  *   Behandeln von Problemen mit dem Nachrichtenfluss
+
+
+  *   Behandeln von Transportproblemen
+
+
+  *   Problembehandlung mit Protokollen
+
+
+
+  #### <a name="lab--conditional-mail-routing"></a>Lab: Bedingtes E-Mail-Routing
+
+
+  ####
+     *   Erstellen von Regeln für den Nachrichtenfluss
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Verwalten des Nachrichtenflusses in Organisationen
+
+
+  *   Grundlegendes zum Nachrichtenfluss für Exchange Server
+
+
+  *   Verwalten des Nachrichtenflusses für Exchange Online
+
+
+  *   Erklären und Verwalten des Nachrichtenflusses in Hybridumgebungen
+
+
+  *   Behandlung von Problemen mit dem SMTP-Nachrichtenfluss
+
+
+  *   Erklären der Problembehandlung bei einem gemeinsam genutzten Namespace
+
+
+  *   Erklären der Behebung von Verschlüsselungsproblemen mit TLS
+
+
+  *   Behandlung von netzwerkbasierten Problemen
+
+
+  *   Erklären von Problembehandlungsverfahren für Connector- und Agent-Probleme
+
+
+  *   Planen der Problembehandlung für Architekturprobleme
+
+
+  *   Durchführen der Problembehandlung in Koexistenz
+
+
+  *   Durchführen von Suchvorgängen für das Nachrichtennachverfolgungsprotokoll
+
+
+  *   Erklären der Problembehandlung mithilfe von Protokollen
+
+
+  *   Arbeiten mit der Ereignisprotokollierung für Exchange
+
+
+
+  ### <a name="module-3-managing-message-hygiene"></a>Modul 3: Verwalten des aktiven Nachrichtenschutzes
+
+
+  In diesem Modul lernen Sie Features und Funktionen von Microsoft Exchange Online Protection (EOP) kennen. Sie erfahren außerdem, wie Sie das Messaging-Routing für diesen Dienst planen, der Anti-Malware- und Anti-Spam-Richtlinien bereitstellt, die Ihr Unternehmen vor Spam und Malware schützen und Ihr Unternehmen vor Verletzungen der Messaging-Richtlinien bewahren. Anschließend überprüfen Sie den von Exchange Server und Online Protection bereitgestellten Anti-Malware- und Anti-Spam-Schutz und erfahren, wie man SPAM- und Malware-Filter, -Richtlinien und -Einstellungen konfiguriert, um Ihren Benutzern Schutz zu bieten. Zum Abschluss des Moduls lernen Sie Defender für Office 365 kennen und erfahren, wie dieser Dienst den von EOP bereitgestellten Schutz erweitert, indem er gezielte Angriffe filtert, die die Verteidigungslinie von EOP passieren könnten, einschließlich komplexer Bedrohungen wie Zero-Day-Angriffe in E-Mail-Anhängen und Office-Dokumenten und Time-of-Click-Schutz vor bösartigen URLs. Sie erfahren, wie Defender for Office 365 Benutzer*innen durch Features wie sichere Anhänge und sichere Links vor komplexen Bedrohungen schützt und Berichte erstellt, die Administrator*innen einen Einblick in Angriffe per E-Mail auf ihre Mandanten geben.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Planen des aktiven Nachrichtenschutzes
+
+
+  *   Verwalten von Richtlinien für Schadsoftware und Spam
+
+
+  *   Verwalten von Advanced Threat Protection mit Defender für Office 365
+
+
+
+  #### <a name="lab--managing-messaging-hygiene"></a>Lab: Verwalten des aktiven Nachrichtenschutzes
+
+
+  ####
+     *   Erstellen von Schutzfiltern
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erklären der Verwendung und der Features von Exchange Online Protection
+
+
+  *   Planen des Nachrichtenroutings für Exchange Online Protection
+
+
+  *   Untersuchen der verfügbaren EOP-Berichte und -Protokolle
+
+
+  *   Kenntnis der verschiedenen Meldungsheaderfelder für den Schutz vor Spam und Spoofing
+
+
+  *   Konfigurieren von Filtern gegen Spam und Schadsoftware in Exchange Server
+
+
+  *   Verwenden zusätzlicher Features für die Filterung und Quarantäne ausgehender Spam-E-Mails
+
+
+  *   Implementieren von Schutzfeatures gegen Phishing und Spoofing
+
+
+  *   Erstellen von Transportregeln für benutzerdefinierte Anforderungen
+
+
+  *   Erklären der Features von Microsoft Defender für Office 365
+
+
+  *   Erklären der Schutzfunktion von Richtlinien für sichere Anhänge und sichere Links
+
+
+  *   Grundkenntnisse zu Spoof-Intelligence-Features
+
+
+  *   Kenntnis der Funktionsweise von Anti-Phishing-Richtlinien in ATP
+
+
+  *   Grundkenntnisse zur Verwendung der Konfigurationsanalyse
+
+
+
+  ### <a name="module-4-managing-compliance"></a>Modul 4: Verwalten der Compliance
+
+
+  In diesem Modul werden zunächst die verschiedenen Compliancefeatures im Security &amp; Compliance Center (SCC) beschrieben, die Messagingadministrator*innen nutzen können, um die gesetzlichen und behördlichen Anforderungen zu erfüllen. Dieses Modul unterstützt die Konformität in Exchange, indem die im Exchange Admin Center für Exchange Server und in Hybridbereitstellungen verfügbaren Konformitätsfunktionen untersucht werden. Aufgrund der komplexen Aufbewahrungsanforderungen moderner Messaging-Umgebungen konzentriert sich dieses Modul darauf, wie Archivierung mit Exchange durchgeführt wird, damit Sie Ihren Benutzern eine effiziente und kompatible Umgebung bieten können. Sie untersuchen auch, wie Ihren Benutzern zusätzlicher Archivspeicher bereitgestellt wird, wie Nachrichten automatisch verarbeitet und archiviert werden und wie die Audit-Protokollierung in Exchange Informationen zu Administrator-, Delegierten- und Benutzeraktionen in Benutzerpostfächern und Ihrer Exchange-Organisation bereitstellt. Schließlich untersuchen Sie, wie eDiscovery für Microsoft Exchange Sie bei der Suche nach relevanten Inhalten in Postfächern unterstützen kann, da Unternehmen die gesetzlichen Anforderungen zur Offenlegung einhalten müssen (in Bezug auf Organisationsrichtlinien, Compliance oder Rechtsstreitigkeiten).
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Compliance beim Messaging im SCC
+
+
+  *   Compliance beim Messaging in Exchange
+
+
+  *   Verwalten der Exchange Online-Archivierung und -Überwachung
+
+
+  *   Verwalten der Inhaltssuche
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erklären verschiedener Richtlinien- und Konformitätsfeatures für das Messaging
+
+
+  *   Auswerten der verschiedenen Rollen im Security &amp; Compliance Center
+
+
+  *   Planen von Aufbewahrungsrichtlinien für Exchange Online-Postfächer
+
+
+  *   Konfigurieren von DLP-Richtlinien (Data Loss Prevention) in Microsoft 365
+
+
+  *   Erstellen von Nachrichtenüberwachungen, um den Nachrichtenfluss in Ihrer Exchange Online-Organisation nachzuvollziehen
+
+
+  *   Erklären der Aufbewahrung für juristische Zwecke und der In-Situ-Aufbewahrung in Exchange Server
+
+
+  *   Planen der Aufbewahrung und Löschung mit Message Records Management (MRM)
+
+
+  *   Schützen des Nachrichtenflusses mit Richtlinien zur Verhinderung von Datenverlust in Exchange Server
+
+
+  *   Untersuchen des Nachrichtennachverfolgungsprotokolls in Exchange-Organisationen
+
+
+  *   Erklären der In-Situ-Archivierung und ihrer Funktionsweise
+
+
+  *   Kenntnis der Unterschiede zwischen Journaling und Archivierung
+
+
+  *   Kenntnis der Verwendungszwecke von Postfach- und Administratorüberwachungsprotokollen
+
+
+  *   Grundkenntnisse zu Inhaltssuchen für die Suche nach Nachrichten in der Organisation
+
+
+  *   Erklären von eDiscovery-Fällen und der In-Situ-eDiscovery für Exchange
+
+
+  *   Verwalten von komplexen eDiscovery-Fällen im Security &amp; Compliance Center
+
+
+
+  ### <a name="module-5-managing-organizational-settings"></a>Modul 5: Verwalten von organisationsbezogenen Einstellungen
+
+
+  Dieses Modul beginnt mit einer Untersuchung zum Verwalten der Authentifizierung für Messaging. Dieses Modul konzentriert sich darauf, wie sichergestellt werden kann, dass Benutzerkonten gut geschützt und sicher sind, und wie mehrere Sicherheitsfunktionen bereitgestellt werden, die die tägliche Arbeit der Benutzer nicht unnötig komplex machen, was zu einer geringeren Unternehmensproduktivität und neuen Sicherheitsrisiken führen könnte. Anschließend wechseln Sie von der Messaging-Authentifizierung zu den Organisationseinstellungen. Dort erfahren Sie, wie Sie Einstellungen konfigurieren, die für die gesamte Organisation oder für viele Benutzer in der Organisation gelten. Abschließend erfahren Sie, wie Sie die organisatorische Freigabe konfigurieren.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Verwalten der Authentifizierung für das Messaging
+
+
+  *   Konfigurieren von organisationsbezogenen Einstellungen
+
+
+  *   Konfigurieren der organisationsbezogenen Freigabe
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Konfigurieren von Kennwortrichtlinienoptionen
+
+
+  *   Konfigurieren der Self-Service-Kennwortverwaltung
+
+
+  *   Implementieren der Multi-Faktor-Authentifizierung
+
+
+  *   Planen von Kennwortrichtlinien
+
+
+  *   Konfigurieren von Workloadrichtlinien und Drosselung
+
+
+  *   Konfigurieren von Kontingentkonfigurationen
+
+
+  *   Konfigurieren der Integration von Exchange Server und Skype for Business
+
+
+  *   Bereitstellen integrierten Office 365-Apps
+
+
+  *   Erklären der Features zur Freigabe von Exchange-Verbunddelegierungen
+
+
+  *   Erklären der Komponenten für die Verbundfreigabe
+
+
+  *   Erklären der Überlegungen zum Entwerfen und Implementieren von Verbundvertrauensstellungen und -zertifikaten
+
+
+  *   Implementieren von Organisationsbeziehungen
+
+
+  *   Implementieren von Freigaberichtlinien
+
+
+
+  ### <a name="module-6-managing-mobile-devices"></a>Modul 6: Verwalten mobiler Geräte
+
+
   Modul untersuchen Sie zunächst die Verwaltung mobiler Geräte in Microsoft 365 sowie die Unterstützung dieser Bemühungen durch Exchange ActiveSync- und Postfachrichtlinien für mobile Geräte. Anschließend erfahren Sie, wie man den Zugriff auf mobile Geräte verwalten und Fehler beheben kann. In diesem Modul wird dann untersucht, wie sowohl der Zugriff als auch die Infrastruktur für mobile Geräte konfiguriert werden, und Grundlegendes zu den Auswirkungen des Remote-Löschvorgangs für mobile Geräte und alternative Methoden für die Verwaltung mobiler Geräte werden erlernt.
-  #### Lektionen
-  - Postfachrichtlinien für mobile Geräte
-  - Mobilgerätezugang verwalten
 
 
-  #### Lab&#58; ActiveSync implementieren
-  - Implementieren Sie Active Sync für einzelne und mehrere Postfächer
-
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Beschreiben der Funktionsweise von Exchange ActiveSync
-  - Mobilgeräte-Mailboxrichtlinien konfigurieren
-  - Grundlegendes zur Verwaltung mobiler Geräte in Microsoft 365
-  - Konfigurieren Sie den Zugriff für mobile Geräte
-  - Grundlegendes zu Komponenten der Infrastruktur mobiler Geräte
-  - Erklären Sie, wie das Remote-Löschen eines Mobilgeräts funktioniert
-  - Beschreiben Sie Alternativen für die Verwaltung mobiler Geräte
-  - Fehlerbehebung beim Zugriff auf mobile Geräte
+  #### <a name="lessons"></a>Lektionen
 
 
-  ### Modul 7&#58; Rollenbasierte Berechtigungen verwalten
-  In diesem Modul wird untersucht, wie Messaging-Administratoren rollenbasierte Berechtigungen verwalten. Dies ist eine wichtige Aufgabe für jeden Messaging-Administrator. Da sowohl Exchange Server als auch Exchange Online das Berechtigungsmodell RBAC (Role Based Access Control) verwenden, werden in diesem Modul die Grundlagen der RBAC-Verwaltung untersucht. Das Modul schließt mit der Untersuchung, wie ein Messaging-Administrator Berechtigungen sorgfältig planen und konfigurieren muss, um die Umgebung oder das gesamte Active Directory nicht zu gefährden. 
-  #### Lektionen
-  - Admin-Rollen verwalten
-  - Nutzerrollen verwalten
-  - Exchange-Einrichtung - RBAC- und AD-Split-Berechtigung
-
-  #### Labor &#58; Verwalten von Rollen und Berechtigungsrichtlinien
-  - Verwalten von Rollen und Berechtigungsrichtlinien
-
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Beschreiben Sie, wie RBAC verwendet wird, um Benutzern Rollen zuzuweisen
-  - Grundlegendes dazu, welche Verwaltungsrollengruppe für Verwaltungsaufgaben ist
-  - Weisen Sie die integrierten Verwaltungsrollen für die Verwaltung zu
-  - Erstellen Sie benutzerdefinierte Verwaltungsrollen und weisen Sie sie Benutzern über Richtlinien zur Rollenzuweisung zu
-  - Fehlerbehebung bei RBAC-Verwaltungsrollen
-  - Beschreiben Sie integrierte Endbenutzerrollen
-  - Konfigurieren Sie Richtlinien für die Rollenzuweisung
-  - Erstellen Sie neue benutzerdefinierte Rollen und Rollenzuweisungsrichtlinien
-  - Grundlegendes zu Unterschieden zwischen freigegebenen Berechtigungen und geteilten Berechtigungen
-  - Beschreiben Sie Berechtigungen für mehrere Gesamtstrukturen
-  - Identifizieren Sie die Unterschiede zwischen den Berechtigungsmodellen
+  *   Postfachrichtlinien für mobile Geräte
 
 
-  ### Modul 8&#58; Objekte und -ressourcen des Empfängers verwalten
-  In diesem Modul werden einige der häufigsten Aufgaben von Messaging-Administratoren untersucht - das Erstellen und Konfigurieren von E-Mail-Empfängern, -Listen und -Ressourcen. In diesem Modul werden die verschiedenen Arten von Exchange Server-Empfängern untersucht, einschließlich ihrer Unterschiede. Das Modul konzentriert sich dann auf die verschiedenen Aufgaben, für die Sie Exchange-Empfänger in Exchange erstellen und verwalten müssen, einschließlich Benutzerpostfächer, Ressourcenpostfächer, freigegebene Postfächer, E-Mail-Kontakte und E-Mail-Benutzer. Außerdem erfahren Sie, wie Sie Berechtigungen für Empfänger verwalten und Gruppen erstellen und verwalten. 
-  #### Lektionen
-  - Exchange-Empfänger
-  - Erstellen und Verwalten von Exchange-Empfängern
-  - Verwalten von E-Mail-Adressen, Listen und Ressourcen
-
-  #### Labor &#58; Erstellen und Verwalten von Empfängerobjekten und -ressourcen
-  - Erstellen von Exchange-Empfängern
-  - Erstellen von Gruppen
-
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Beschreiben Sie die verschiedenen Empfängerobjekte in Exchange
-  - Beschreiben Sie Ressourcenpostfächer
-  - Beschreiben Sie freigegebene Postfächer
-  - Beschreiben verknüpfter Postfächer
-  - Beschreiben Sie Gruppen
-  - Erstellen und verwalten Sie Postfacheinstellungen
-  - Erstellen und verwalten Sie Ressourcen- und freigegebene Postfächer
-  - Erstellen und verwalten Sie E-Mail-Kontakte und E-Mail-Benutzer
-  - Erstellen und Verwalten von Empfängerberechtigungen
-  - Gruppen erstellen und verwalten
-  - Beschreiben Sie Adresslisten
-  - Erklären Sie, wie man Adresslisten konfiguriert
-  - Beschreiben Sie Adressbuchrichtlinien
-  - Erklären Sie, wie man Offline-Adressbücher konfiguriert
-  - Beschreiben Sie Richtlinien für E-Mail-Adressen
+  *   Verwalten des Zugriffs für mobile Geräte
 
 
-  ### Modul 9&#58; Öffentliche Ordner verwalten
-  Modul lernen Sie öffentliche Ordner in Exchange kennen, überprüfen die Planungsüberlegungen für die Bereitstellung von öffentlichen Ordnern und diskutieren Alternativen zu öffentlichen Ordnern. Außerdem erfahren Sie, wie man Postfächer für öffentliche Ordner, öffentliche Ordner und Berechtigungen für öffentliche Ordner implementiert und verwaltet sowie E-Mail-fähige öffentliche Ordner erstellt und verwaltet. Das Modul schließt mit der Untersuchung, wie Probleme im Zusammenhang mit öffentlichen Ordnern überwacht und behoben werden können. 
-  #### Lektionen
-  - Öffentlichen Ordner-Hierarchie planen
-  - Öffentliche Ordner implementieren und verwalten
-  - Problembehandlung für öffentliche Ordner
 
-  #### Lab&#58; Implementierung von Arbeitsmappen
-  - Erstellen Sie öffentliche Ordner
-  - Öffentliche Ordner verwalten
-
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Beschreiben Sie öffentliche Ordner in Exchange
-  - Planen Sie eine Hierarchie für öffentliche Ordner
-  - Planen Sie Postfächer für öffentliche Ordner
-  - Erläutern Sie die Quoten für öffentliche Ordner
-  - Evaluieren Sie Alternativen zu öffentlichen Ordnern
-  - Beschreiben Sie Überlegungen zur Implementierung von öffentlichen Ordnern
-  - Stellen Sie Postfächer für öffentliche Ordner bereit
-  - Verwalten Sie Berechtigungen für öffentliche Ordner
-  - Erstellen und verwalten Sie E-Mail-fähige öffentliche Ordner
-  - Überwachen Sie öffentliche Ordner
-  - Fehlerbehebung bei öffentlichen Ordnern
-  - Fehlerbehebung beim Zugriff auf öffentliche Ordner
+  #### <a name="lab--implement-activesync"></a>Lab: Implementieren von Active Sync
 
 
-  ### Modul 10&#58; Planen einer hybriden Umgebung
-  In diesem Modul untersuchen Sie die Anforderungen, die zum Implementieren einer Hybridbereitstellung erforderlich sind, und lernen die Funktionen und Komponenten kennen, die zur Implementierung einer Hybridbereitstellung erforderlich sind. Dieses Modul untersucht alle Planungsaspekte, die erforderlich sind, bevor der Hybridkonfigurations-Assistent ausgeführt wird. Dies umfasst die Konfigurationsoptionen des HCW sowie die Details zum Organisationskonfigurations-Transfer (OCT) und dem Hybrid-Agenten. Das Modul schließt mit einer Überprüfung der Nachrichtenflussoptionen für eine Hybridbereitstellung. 
-  #### Lektionen
-  - Anforderungen für die Bereitstellung von Exchange-Hybriden
-  - Planen der Ausführung des Assistenten für die Hybridkonfiguration
+  ####
+     *   Implementieren von Active Sync für einzelne und mehrere Postfächer
 
-  #### Labor &#58; Bereiten Sie Azure AD für die Hybridsynchronisierung vor
-  - Bereiten Sie Azure AD für die Hybridsynchronisierung vor
-
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Beschreiben Sie Verbindungsoptionen, die für die Verbindung von lokalem Exchange mit Microsoft 365 verfügbar sind
-  - Auflisten und Beschreiben von Komponenten einer Hybridbereitstellung
-  - Beschreiben von Azure Active Directory Connect (Azure AD Connect)
-  - Identifizieren Sie Microsoft 365-Identitätsoptionen für Exchange Hybrid
-  - Vergleichen Sie den von Exchange delegierten Verbund mit OAuth
-  - Planen Sie die Exchange Hybrid-Konfiguration
-  - Beschreiben Sie den Organisationskonfigurations-Transfer
-  - Erklären Sie Exchange Modern Hybrid und Hybrid-Agent
-  - Planen Sie die Nachrichtenflussoptionen für eine Hybridbereitstellung
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  ### Modul 11&#58; Durchführen von Postfachmigrationen
-  Dieses Modul untersucht die Optionen, die für die Migration von E-Mails zu Exchange Online zur Verfügung stehen, z. B. die Durchführung einer Migration oder die Verwendung von FastTrack, um Postfächer von Ihren vorhandenen Mailservern zu Exchange Online zu verschieben. Dieses Modul fasst die Optionen für Migration und Koexistenz zusammen und empfiehlt, wann welche Option verwendet werden soll. Das Modul untersucht dann die Anforderungen für die Durchführung einer IMAP-Migration, die verfügbaren Migrationsoptionen und die Schritte, die während einer Migration durchgeführt werden. Das Modul untersucht dann, wie man sowohl eine Umstellung als auch eine abgestufte Migration plant und durchführen kann. Es vergleicht jeden dieser beiden Migrationsansätze und Sie erfahren mehr über die Anforderungen, Planungsaktivitäten und den Migrationsprozess für jede Option. Das Modul schließt mit der Untersuchung wichtiger zusätzlicher Migrationsaufgaben, wie z. B. mandantenübergreifende Migrationen, die Migration einer PST-Datei und die Überlegungen für eine Migration öffentlicher Ordner.
-  #### Lektionen
-  - Planen von Postfachmigrationen
-  - Durchführen von IMAP-Migrationen
-  - Umstellung und gestufte Migrationen durchführen
-  - Durchführen erweiterter Migrationen
-
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Beschreiben der Migrations- und Koexistenzstrategien mit Exchange Online
-  - Verwenden Sie FastTrack, um Postfächer zu verschieben
-  - Beschreiben Sie die Anforderungen für eine IMAP-Migration und deren Durchführung
-  - Verschieben Sie Postfachdaten mit Hilfe einer IMAP-Migration
-  - Beschreiben Sie die Anforderungen für Umstellungs- oder abgestufte Migrationen
-  - Führen Sie eine Migration durch und verschieben Sie Postfächer entweder mit einer Umstellungs oder einer abgestuften Migration
-  - Importieren Sie PST-Dateien in Exchange Online-Postfächer
-  - Durchführen einer mandantenübergreifenden Migration
+  *   Erklären der Funktionsweise von Exchange Active Sync
 
 
-  ### Modul 12&#58; Bereitstellen einer hybriden Umgebung und das Beheben von Problemen
-  In diesem Modul lernen Sie die wichtigsten Bereiche kennen, die für Edge-Transport-Server geplant werden müssen. Anschließend lernen Sie die Anforderungen und bewährte Praktiken für die Konfiguration einer Hybridbereitstellung kennen. Dies ist der erste Schritt für Ihre Exchange-Organisation, unabhängig davon, ob Sie Ihre lokalen Exchange- und Exchange Online-Organisationen für eine langfristige Koexistenz oder als Teil einer Cloud-Migrationsstrategie verbinden möchten. In diesem Modul untersuchen Sie dann, wie man eine Hybridbereitstellung verwaltet und erweiterte Hybridfunktionen implementieren kann. Sie werden die Funktionen behandeln, die eine erfolgreiche Hybridbereitstellung erfordern, z. B. die Koexistenz von öffentlichen Ordnern oder die Speicherung von OneDrive for Business-Anhängen für lokale Postfächer. Dieses Modul schließt mit einer Einführung in die Fehlerbehebungstechniken für eine Hybridbereitstellung. Sie erfahren, wie man Probleme mit der Verzeichnissynchronisierung behebten, einschließlich PTA (Pass-Through-Authentifizierung) und Single Sign-On, Exchange-Transport und Fehlerbehebung beim Client-Zugriff sowie Fehlerbehebung beim Postfachreplikations-Service. 
-  #### Lektionen
-  - Bereitstellen und Verwalten eines Edge-Übermittlungs-Servers
-  - Konfigurieren einer Hybridbereitstellung mit Hilfe der HCW
-  - Implementierung erweiterter Hybridfunktionen
-  - Problembehebung bei Hybridbereitstellungen
+  *   Konfigurieren von Postfachrichtlinien für mobile Geräte
 
-  #### Labor &#58;  Bereitstellen einer Hybridumgebung
-  - Richten Sie Ihre Hybridbereitstellung ein
-  - Testen Sie Ihre Hybridbereitstellung
 
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer in der Lage sein&#58;
-  - Beschreiben Sie den Zweck und die Funktionalität von Edge-Transport-Servern
-  - Erläutern Sie die Infrastrukturanforderungen für Edge-Transport-Server
-  - Beschreiben Sie EdgeSync
-  - Planen Sie den Nachrichtenfluss mit einem Edge-Transport-Server
-  - Beschreiben Sie die Voraussetzungen zum Ausführen des Office 365 Hybrid-Konfigurationsassistenten
-  - Erläutern Sie bewährte Methoden für die Implementierung einer Hybridbereitstellung
-  - Verwalten Sie eine Hybridbereitstellung
-  - Beschreiben Sie, wann man die Koexistenz von Ordnern mit Office 365 konfigurieren muss
-  - Erklären Sie, wie man Oauth für eine gemischte Exchange-Umgebung konfiguriert
-  - Beschreiben Sie, wie OneDrive for Business-Anhänge für lokale Postfächer konfiguriert wird
-  - Fehlerbehebung bei der Verzeichnissynchronisierung
-  - Fehlerbehebung bei Pass-Through-Authentifizierung und Single Sign-On
-  - Fehlerbehebung beim Transport mit Exchange Online
-  - Fehlerbehebung beim Client-Zugriff in Koexistenz
-  - Fehlerbehebung beim Postfachreplikations-Service
+  *   Grundkenntnisse zur Verwaltung mobiler Geräte in Microsoft 365
 
+
+  *   Konfigurieren des Zugriffs für mobile Geräte
+
+
+  *   Grundkenntnisse zu Komponenten der Infrastruktur mobiler Geräte
+
+
+  *   Erklären der Funktionsweise des Remotelöschens für mobile Geräte
+
+
+  *   Erklären der Alternativen für die Verwaltung mobiler Geräte
+
+
+  *   Problembehandlung beim Zugriff für mobile Geräte
+
+
+
+  ### <a name="module-7-managing-role-based-permissions"></a>Modul 7: Verwalten von rollenbasierten Berechtigungen
+
+
+  In diesem Modul wird untersucht, wie Messaging-Administratoren rollenbasierte Berechtigungen verwalten. Dies ist eine wichtige Aufgabe für jeden Messaging-Administrator. Da sowohl Exchange Server als auch Exchange Online das Berechtigungsmodell RBAC (Role Based Access Control) verwenden, werden in diesem Modul die Grundlagen der RBAC-Verwaltung untersucht. Das Modul schließt mit der Untersuchung, wie ein Messaging-Administrator Berechtigungen sorgfältig planen und konfigurieren muss, um die Umgebung oder das gesamte Active Directory nicht zu gefährden.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Verwalten von Administratorrollen
+
+
+  *   Verwalten von Benutzerrollen
+
+
+  *   Exchange-Einrichtung: rollenbasierte Zugriffssteuerung und geteilte AD-Berechtigungen
+
+
+
+  #### <a name="lab--manage-roles-and-permission-policies"></a>Lab: Verwalten von Rollen und Berechtigungsrichtlinien
+
+
+  ####
+     *   Verwalten von Rollen und Berechtigungsrichtlinien
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erklären der Verwendung der rollenbasierten Zugriffssteuerung zur Zuweisung von Benutzerrollen
+
+
+  *   Grundwissen zur Verwaltungsrollengruppe für administrative Aufgaben
+
+
+  *   Zuweisen der integrierten Verwaltungsrollen
+
+
+  *   Erstellen benutzerdefinierter Verwaltungsrollen und Zuweisen dieser Rollen über Rollenzuweisungsrichtlinien zu Benutzer*innen
+
+
+  *   Problembehandlung bei RBAC-Verwaltungsrollen
+
+
+  *   Erklären der integrierten Endbenutzerrollen
+
+
+  *   Konfigurieren von Rollenzuweisungsrichtlinien
+
+
+  *   Erstellen neuer benutzerdefinierter Rollen und Rollenzuweisungsrichtlinien
+
+
+  *   Kenntnis der Unterschiede zwischen gemeinsamen Berechtigungen und geteilten Berechtigungen
+
+
+  *   Erklären der Berechtigungen für mehrere Gesamtstrukturen
+
+
+  *   Erkennen der Unterschiede zwischen den Berechtigungsmodellen
+
+
+
+  ### <a name="module-8-managing-recipient-objects-and-resources"></a>Modul 8: Verwalten von Empfängerobjekten und Ressourcen
+
+
+  In diesem Modul werden einige der häufigsten Aufgaben von Messaging-Administratoren untersucht - das Erstellen und Konfigurieren von E-Mail-Empfängern, -Listen und -Ressourcen. In diesem Modul werden die verschiedenen Arten von Exchange Server-Empfängern untersucht, einschließlich ihrer Unterschiede. Das Modul konzentriert sich dann auf die verschiedenen Aufgaben, für die Sie Exchange-Empfänger in Exchange erstellen und verwalten müssen, einschließlich Benutzerpostfächer, Ressourcenpostfächer, freigegebene Postfächer, E-Mail-Kontakte und E-Mail-Benutzer. Außerdem erfahren Sie, wie Sie Berechtigungen für Empfänger verwalten und Gruppen erstellen und verwalten.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Exchange-Empfänger
+
+
+  *   Erstellen und Verwalten von Exchange-Empfängern
+
+
+  *   Verwalten von E-Mail-Adressen, Listen und Ressourcen
+
+
+
+  #### <a name="lab--create-recipient-objects-and-resources"></a>Lab: Erstellen von Empfängerobjekten und Ressourcen
+
+
+  ####
+     *   Erstellen von Exchange-Empfängern
+     *   Gruppen erstellen
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erklären der verschiedenen Empfängerobjekte in Exchange
+
+
+  *   Erklären von Ressourcenpostfächern
+
+
+  *   Erklären von freigegebenen Postfächern
+
+
+  *   Erklären von verknüpften Postfächern
+
+
+  *   Erklären von Gruppen
+
+
+  *   Erstellen und Verwalten von Postfacheinstellungen
+
+
+  *   Erstellen und Verwalten von Ressourcen und freigegebenen Postfächern
+
+
+  *   Erstellen und Verwalten von E-Mail-Kontakten und E-Mail-Benutzer*innen
+
+
+  *   Erstellen und Verwalten von Empfängerberechtigungen
+
+
+  *   Erstellen und Verwalten von Gruppen
+
+
+  *   Erklären von Adresslisten
+
+
+  *   Erläutern der Konfiguration von Adresslisten
+
+
+  *   Erklären von Adressbuchrichtlinien
+
+
+  *   Erläutern der Konfiguration von Offlineadressbüchern
+
+
+  *   Erklären von E-Mail-Adressrichtlinien
+
+
+
+  ### <a name="module-9-managing-public-folders"></a>Modul 9: Verwalten öffentlicher Ordner
+
+
+  Modul lernen Sie öffentliche Ordner in Exchange kennen, überprüfen die Planungsüberlegungen für die Bereitstellung von öffentlichen Ordnern und diskutieren Alternativen zu öffentlichen Ordnern. Außerdem erfahren Sie, wie man Postfächer für öffentliche Ordner, öffentliche Ordner und Berechtigungen für öffentliche Ordner implementiert und verwaltet sowie E-Mail-fähige öffentliche Ordner erstellt und verwaltet. Das Modul schließt mit der Untersuchung, wie Probleme im Zusammenhang mit öffentlichen Ordnern überwacht und behoben werden können.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Planen der Hierarchie öffentlicher Ordner
+
+
+  *   Implementieren und Verwalten von öffentlichen Ordnern
+
+
+  *   Problembehandlung bei öffentlichen Ordnern
+
+
+
+  #### <a name="lab--implement-public-folders"></a>Lab: Implementieren von öffentlichen Ordnern
+
+
+  ####
+     *   Erstellen öffentlicher Ordner
+     *   Öffentliche Ordner verwalten
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erklären öffentlicher Ordner in Exchange
+
+
+  *   Planen einer Hierarchie für öffentliche Ordner
+
+
+  *   Planen von Postfächern für öffentliche Ordner
+
+
+  *   Erläutern von Kontingenten für öffentliche Ordner
+
+
+  *   Auswerten von Alternativen zu öffentlichen Ordnern
+
+
+  *   Erklären von Überlegungen zum Implementieren von öffentlichen Ordnern
+
+
+  *   Bereitstellen von Postfächern für öffentliche Ordner
+
+
+  *   Verwalten von Berechtigungen für öffentliche Ordner
+
+
+  *   Erstellen und Verwalten von E-Mail-fähigen öffentlichen Ordnern
+
+
+  *   Überwachen öffentlicher Ordner
+
+
+  *   Problembehandlung bei öffentlichen Ordnern
+
+
+  *   Problembehandlung beim Zugriff auf öffentliche Ordner
+
+
+
+  ### <a name="module-10-planning-a-hybrid-environment"></a>Modul 10: Planen einer Hybridumgebung
+
+
+  In diesem Modul untersuchen Sie die Anforderungen, die zum Implementieren einer Hybridbereitstellung erforderlich sind, und lernen die Funktionen und Komponenten kennen, die zur Implementierung einer Hybridbereitstellung erforderlich sind. Dieses Modul untersucht alle Planungsaspekte, die erforderlich sind, bevor der Hybridkonfigurations-Assistent ausgeführt wird. Dies umfasst die Konfigurationsoptionen des HCW sowie die Details zum Organisationskonfigurations-Transfer (OCT) und dem Hybrid-Agenten. Das Modul schließt mit einer Überprüfung der Nachrichtenflussoptionen für eine Hybridbereitstellung.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Anforderungen an Exchange-Hybridbereitstellungen
+
+
+  *   Planen der Ausführung des Hybridkonfigurations-Assistenten
+
+
+
+  #### <a name="lab--prepare-azure-ad-for-hybrid-synchronization"></a>Lab: Vorbereiten von Azure AD für die Hybridsynchronisierung
+
+
+  ####
+     *   Vorbereiten von Azure AD für die Hybridsynchronisierung
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erklären der verfügbaren Optionen für die Verbindungsherstellung zwischen lokalen Exchange-Instanzen und Microsoft 365
+
+
+  *   Auflisten und Erklären der Komponenten einer Hybridbereitstellung
+
+
+  *   Erklären von Azure Active Directory Connect (Azure AD Connect)
+
+
+  *   Kenntnis der Microsoft 365-Identitätsoptionen für Exchange Hybrid
+
+
+  *   Vergleichen von delegierten Exchange-Verbünden und OAuth
+
+
+  *   Planen der Exchange-Hybridkonfiguration
+
+
+  *   Erklären von Organization Configuration Transfer
+
+
+  *   Erläutern von Exchange Modern Hybrid und Hybrid Agent
+
+
+  *   Planen der Nachrichtenflussoptionen für eine Hybridbereitstellung
+
+
+
+  ### <a name="module-11-performing-mailbox-migrations"></a>Modul 11: Durchführen von Postfachmigrationen
+
+
+  In diesem Modul werden die Optionen untersucht, die für die Migration von E-Mails nach Exchange Online verfügbar sind, z. B. die Durchführung einer Migration oder die Verwendung von FastTrack zum Verschieben von Postfächern von Ihren vorhandenen Mailservern zu Exchange Online. Dieses Modul fasst die Optionen für Migration und Koexistenz zusammen und empfiehlt, wann welche Option verwendet werden soll. Das Modul untersucht dann die Anforderungen für die Ausführung einer IMAP-Migration, die verfügbaren Migrationsoptionen und die Schritte, die während einer Migration ausgeführt werden. Das Modul untersucht dann, wie man sowohl eine Umstellung als auch eine abgestufte Migration plant und durchführen kann. Es vergleicht jeden dieser beiden Migrationsansätze und Sie erfahren mehr über die Anforderungen, Planungsaktivitäten und den Migrationsprozess für jede Option. Das Modul wird mit der Vorstellung wichtiger zusätzlicher Migrationsaufgaben abgeschlossen, wie z. B. mandantenübergreifende Migrationen, die Migration einer PST-Datei und die Überlegungen für eine Migration öffentlicher Ordner.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Planen von Postfachmigrationen
+
+
+  *   Durchführen von IMAP-Migrationen
+
+
+  *   Durchführen von Umstellungen und mehrstufigen Migrationen
+
+
+  *   Durchführen erweiterter Migrationen
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erklären der Migrations- und Koexistenzstrategien mit Exchange Online
+
+
+  *   Verwenden von FastTrack zum Verschieben von Postfächern
+
+
+  *   Erklären der Anforderungen für eine IMAP-Migration und deren Durchführung
+
+
+  *   Verschieben von Postfachdaten mithilfe einer IMAP-Migration
+
+
+  *   Erklären der Anforderungen für Umstellungen und mehrstufigen Migrationen
+
+
+  *   Durchführen einer Migration und Verschieben von Postfächern mit einer Umstellung oder einer mehrstufigen Migration
+
+
+  *   Importieren von PST-Dateien in Exchange Online-Postfächer
+
+
+  *   Migrieren von öffentlichen Ordnern zu Exchange Online
+
+
+  *   Durchführen einer mandantenübergreifenden Migration
+
+
+
+  ### <a name="module-12-deploying-and-troubleshooting-a-hybrid-environment"></a>Modul 12: Bereitstellen einer Hybridumgebung und Problembehandlung
+
+
+  In diesem Modul lernen Sie die wichtigsten Bereiche kennen, die für Edge-Transport-Server geplant werden müssen. Anschließend lernen Sie die Anforderungen und bewährte Praktiken für die Konfiguration einer Hybridbereitstellung kennen. Dies ist der erste Schritt für Ihre Exchange-Organisation, unabhängig davon, ob Sie Ihre lokalen Exchange- und Exchange Online-Organisationen für eine langfristige Koexistenz oder als Teil einer Cloud-Migrationsstrategie verbinden möchten. In diesem Modul untersuchen Sie dann, wie man eine Hybridbereitstellung verwaltet und erweiterte Hybridfunktionen implementieren kann. Sie werden die Funktionen behandeln, die eine erfolgreiche Hybridbereitstellung erfordern, z. B. die Koexistenz von öffentlichen Ordnern oder die Speicherung von OneDrive for Business-Anhängen für lokale Postfächer. Dieses Modul schließt mit einer Einführung in die Fehlerbehebungstechniken für eine Hybridbereitstellung. Sie erfahren, wie man Probleme mit der Verzeichnissynchronisierung behebten, einschließlich PTA (Pass-Through-Authentifizierung) und Single Sign-On, Exchange-Transport und Fehlerbehebung beim Client-Zugriff sowie Fehlerbehebung beim Postfachreplikations-Service.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Bereitstellen und Verwalten eines Edge-Transportservers
+
+
+  *   Konfigurieren einer Hybridbereitstellung mit HCW
+
+
+  *   Implementieren erweiterter Hybridfunktionen
+
+
+  *   Problembehandlung bei Hybridbereitstellungen
+
+
+
+  #### <a name="lab--deploy-a-hybrid-environment"></a>Lab: Bereitstellung einer Hybridumgebung
+
+
+  ####
+     *   Einrichten der Hybridbereitstellung
+     *   Testen der Hybridbereitstellung
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erklären des Zwecks und der Funktionsweise von Edge-Transportservern
+
+
+  *   Erläutern der Infrastrukturanforderungen für Edge-Transportserver
+
+
+  *   Erklären von EdgeSync
+
+
+  *   Planen des Nachrichtenflusses mit einem Edge-Transportserver
+
+
+  *   Erklären der Voraussetzungen zum Ausführen des Assistenten für die Office 365-Hybridkonfiguration
+
+
+  *   Erläutern bewährter Methoden für die Implementierung einer Hybridbereitstellung
+
+
+  *   Verwalten einer Hybridbereitstellung
+
+
+  *   Erklären von Situationen, in denen die Koexistenz öffentlicher Ordner mit Office 365 konfiguriert werden muss
+
+
+  *   Erläutern der Konfiguration von OAuth für eine gemischte Exchange-Umgebung
+
+
+  *   Erklären der Konfiguration von OneDrive for Business-Anhängen für lokale Postfächer
+
+
+  *   Problembehandlung bei der Verzeichnissynchronisierung
+
+
+  *   Problembehandlung bei der Passthrough-Authentifizierung und beim Single Sign-On-Prozess
+
+
+  *   - Fehlerbehebung beim Transport mit Exchange Online
+
+
+  *   - Fehlerbehebung beim Client-Zugriff in Koexistenz
+
+
+  *   - Fehlerbehebung beim Postfachreplikations-Service

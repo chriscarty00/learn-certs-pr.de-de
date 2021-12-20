@@ -1,7 +1,7 @@
 ---
-title: 'Studentenermäßigungen | Microsoft Docs'
-description: 'Studentenermäßigungen' 
-documentationcenter: NA 
+title: Studierendenrabatte | Microsoft-Dokumentation
+description: Studierendenrabatte
+documentationcenter: NA
 author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
@@ -9,69 +9,75 @@ ms.workload: NA
 ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
+ms.openlocfilehash: c554de0602862c0f3e8c096d62a5631965c42e4c
+ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 09/14/2021
+ms.locfileid: "132111881"
 ---
-# Studentenermäßigungen
+# <a name="student-discounts"></a>Studierendenrabatte
 
-## Informationen zu Studentenrabatten
+## <a name="about-student-discounts"></a>Informationen zu Studierendenrabatten
 
-Wir freuen uns, in den meisten Ländern/Regionen (außer Indien und China) akademische Preise für Microsoft-Zertifizierungsprüfungen anbieten zu können. Um sich für den Studentenrabatt zu qualifizieren, müssen Sie sich zunächst in Ihrem Microsoft-Zertifizierungsprofil als Student identifizieren und dann Ihren akademischen Status verifizieren lassen. Nach erfolgreicher Verifizierung erhalten Sie den Studentenrabatt bei der Prüfungsanmeldung.
+Wir freuen uns, in den meisten Ländern/Regionen (mit Ausnahme von Indien und China) Studierendenpreise für Microsoft-Zertifizierungsprüfungen anbieten zu können. Damit Sie sich für den Studierendenrabatt qualifizieren können, müssen Sie sich zunächst in Ihrem Microsoft-Zertifizierungsprofil als Studierende/r identifizieren und dann Ihren akademischen Status überprüfen lassen. Nach erfolgreicher Überprüfung können Sie den Studierendenrabatt bei der Prüfungsanmeldung in Anspruch nehmen.
 
-## <a name="how-to-identify-yourself-as-student-in-profile"></a> So identifizieren Sie sich als Student in Ihrem Microsoft-Zertifizierungsprofil
+## <a name="how-to-identify-yourself-as-a-student-in-your-microsoft-certification-profile"></a><a name="how-to-identify-yourself-as-student-in-profile"></a> So identifizieren Sie sich im Microsoft-Zertifizierungsprofil als Studierende/r
 
-1. Melden Sie sich mit Ihren Microsoft-Kontoanmeldeinformationen bei Ihrem [Microsoft-Zertifizierungs-Dashboard](https://aka.ms/certdashboard) an.
-2. Wählen Sie oben auf der Seite „Ihr Zertifizierungsprofil bearbeiten“.
+1. Melden Sie sich mit den Anmeldeinformationen Ihres Microsoft-Kontos beim [Microsoft-Zertifizierungsdashboard](https://aka.ms/certdashboard) an.
+2. Wählen Sie oben auf der Seite „Ihr Zertifizierungsprofil bearbeiten“ aus.
 <br/>
 <br/>
-![Wählen Sie Ihr Zertifizierungsprofil bearbeiten](images/student-discounts-1.png)
+![Auswählen von „Ihr Zertifizierungsprofil bearbeiten“](images/student-discounts-1.png)
 <br/>
 <br/>
-3. Um Ihr Profil zu bearbeiten, wählen Sie das Stiftsymbol neben „Zertifizierungsprofil“.
+3. Zum Bearbeiten Ihres Profils wählen Sie neben „Zertifizierungsprofil“ das Stiftsymbol aus.
 <br/>
 <br/>
-![Stiftsymbol auswählen, um das Profil zu bearbeiten](images/student-discounts-2.png)
+![Auswählen des Stiftsymbols zum Bearbeiten des Profils](images/student-discounts-2.png)
 <br/>
 <br/>
-4. Wählen Sie im Auswahlmenü „Berufsbezeichnung“ die Option „Student“.
+4. Wählen Sie in der Dropdownliste „Position“ die Option „Student“ aus.
 <br/>
 <br/>
-![Im Auswahlmenü Berufsbezeichnung „Student" auswählen](images/student-discounts-3.png)
+![Auswählen der Option „Student“ in der Dropdownliste „Position“](images/student-discounts-3.png)
 <br/>
 <br/>
-5. Suchen Sie nach dem akademischen Preishinweis, der unter dem Auswahlmenü „Berufsbezeichnung" angezeigt wird.
+5. Suchen Sie nach dem Hinweis auf Studierendenpreise, der unterhalb der Dropdownliste „Position“ angezeigt wird.
 <br/>
 <br/>
-![Im Auswahlmenü Berufsbezeichnung „Student" auswählen](images/student-discounts-4.png)
-<br/>
-<br/>
-
-## <a name="how-to-verify-your-academic-status"></a> So überprüfen Sie Ihren akademischen Status
-
-1. Befolgen Sie die Anweisungen, um sich in Ihrem Microsoft-Zertifizierungsprofil als Student zu identifizieren.
-2. Suchen Sie nach dem akademischen Preishinweis, der unter dem Auswahlmenü „Berufsbezeichnung" angezeigt wird. Wählen Sie „Jetzt verifizieren lassen“, um zum akademischen Verifizierungssystem weitergeleitet zu werden.
-<br/>
-<br/>
-![Wählen „Jetzt verifizieren lassen“](images/student-discounts-5.png)
-<br/>
-<br/>
-3. Sie können Ihren akademischen Status mit einer der folgenden Methoden überprüfen. Wählen Sie die gewünschte Methode aus dem Hauptmenü aus. Befolgen Sie die Anweisungen auf dem Bildschirm für die Bestätigungsmethode Ihrer Wahl.
-    - Von der Schule ausgestelltes E-Mail-Konto.
-    - Schulnetzwerk-Anmeldeinformationen.
-    - Internationaler Studentenausweis (ISIC).
-    - Bestätigungscode von einem Microsoft-Vertreter oder dem Administrator Ihrer Institution.
-    - Unterlagen (zulässige Unterlagen sind ein gültiger Studentenausweis, ein aktueller Fortschrittsbericht, ein aktueller Stundenplan oder der Zulassungsbescheid einer Hochschule).
-<br/>
-<br/>
-![Akademischen Status überprüfen](images/student-discounts-6.png)
+![Auswählen der Option „Student“ in der Dropdownliste „Position“](images/student-discounts-4.png)
 <br/>
 <br/>
 
-## Überprüfung Ihres akademischen Status bei der anmeldung zu einer Prüfung
+## <a name="how-to-verify-your-academic-status"></a><a name="how-to-verify-your-academic-status"></a> So lassen Sie Ihren akademischen Status überprüfen
 
-1. Klicken Sie auf der Seite mit den Zertifizierungs- oder Prüfungsdetails, für die Sie sich anmelden möchten, auf „Prüfung planen“.
-2. Melden Sie sich mit  den Anmeldeinformationen Ihres Microsoft-Accounts, die Ihrem Microsoft-Zertifizierungsprofil zugeordnet sind.
-3. Stellen Sie bei der Überprüfung der Aktualität Ihres Zertifizierungsprofils sicher, dass im Feld „Berufsbezeichnung“ „Student – verifiziert“ angezeigt wird.
-4. Wenn Ihr Zertifizierungsprofil diesen Status nicht aufweist, befolgen Sie die Anweisungen unter [So identifizieren Sie sich als Student in Ihrem Microsoft-Zertifizierungsprofil](#how-to-identify-yourself-as-student-in-profile) oder [So überprüfen Sie Ihren akademischen Status](#how-to-verify-your-academic-status).
+1. Befolgen Sie die Anweisungen, um sich im Microsoft-Zertifizierungsprofil als Studierende/r zu identifizieren.
+2. Suchen Sie nach dem Hinweis auf Studierendenpreise, der unterhalb der Dropdownliste „Position“ angezeigt wird. Wählen Sie „Jetzt verifizieren lassen“ aus, um zum akademischen Verifizierungssystem weitergeleitet zu werden.
+<br/>
+<br/>
+![Auswählen von „Jetzt verifizieren lassen“](images/student-discounts-5.png)
+<br/>
+<br/>
+3. Sie können Ihren akademischen Status mit einer der folgenden Methoden verifizieren. Wählen Sie im Hauptmenü die bevorzugte Methode aus. Befolgen Sie die Anweisungen auf dem Bildschirm für die Bestätigungsmethode Ihrer Wahl.
+    - Von der Hochschule bereitgestelltes E-Mail-Konto
+    - Anmeldedaten für das Hochschulnetzwerk
+    - Internationaler Studierendenausweis (ISIC)
+    - Prüfcode von einem Microsoft-Vertreter oder dem Administrator Ihrer Einrichtung
+    - Unterlagen (zulässige Unterlagen sind ein mit Datum versehener Studierendenausweis, ein aktueller Fortschrittsbericht, ein aktueller mit Datum versehener Vorlesungsplan oder ein Zulassungsbescheid einer Hochschule).
+<br/>
+<br/>
+![Verifizieren des akademischen Status](images/student-discounts-6.png)
+<br/>
+<br/>
 
-## Hilfe bei Studentenrabatten bekommen
+## <a name="checking-your-student-status-when-registering-for-an-exam"></a>Überprüfen Ihres akademischen Status bei der Anmeldung zu einer Prüfung
 
-Gehen Sie auf: [Zertifizierungsbegleitung](/learn/certifications/help).
+1. Klicken Sie auf der Seite mit den Details der Zertifizierung oder Prüfung, für die Sie sich anmelden möchten, auf „Prüfung planen“.
+2. Melden Sie sich mit Ihren Anmeldeinformationen für das Microsoft-Konto an, das Ihrem Microsoft-Zertifizierungsprofil zugeordnet ist.
+3. Wenn Sie überprüfen, ob Ihr Zertifizierungsprofil auf dem aktuellen Stand ist, vergewissern Sie sich, dass im Feld „Position“ der Eintrag „Student – verifiziert“ angezeigt wird.
+4. Wenn Ihr Zertifizierungsprofil diesen Status nicht aufweist, befolgen Sie die Anweisungen unter [So identifizieren Sie sich im Microsoft-Zertifizierungsprofil als Studierende/r](#how-to-identify-yourself-as-student-in-profile) oder [So lassen Sie Ihren akademischen Status überprüfen](#how-to-verify-your-academic-status).
+
+## <a name="get-help-with-student-discounts"></a>Anfordern von Hilfe bei Studierendenrabatten
+
+Besuchen Sie die Seite mit den [Informationen zur Zertifizierungsunterstützung](/learn/certifications/help).

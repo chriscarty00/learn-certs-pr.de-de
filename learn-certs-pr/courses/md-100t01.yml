@@ -1,18 +1,24 @@
 ### YamlMime:Course
-title: Installing Windows 10
+title: Installieren von Windows 10
 metadata:
-  title: 'Kurs MD-100T01-A: Installing Windows 10'
-  description: 'Kurs MD-100T01-A: Installing Windows 10'
+  title: 'Kurs MD-100T01-A: Installieren von Windows 10'
+  description: 'Kurs MD-100T01-A: Installieren von Windows 10'
   iltScheduling: true
+  ms.openlocfilehash: f52728f103ec2fff0d65c012f42efd74d4e9382e
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107195"
 uid: course.md-100t01
-courseNumber: 'MD-100T01-A'
+courseNumber: MD-100T01-A
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Vorbereiten der Installation von Windows 10.
-- skill: Installation von Windows 10.
-- skill: Konfigurieren von Updates für Windows.
-- skill: Durchführung von Konfigurationsaufgaben nach der Installation.
+- skill: Vorbereiten der Installation von Windows 10
+- skill: Installieren von Windows 10
+- skill: Konfigurieren von Updates für Windows
+- skill: Durchführen von Konfigurationsaufgaben nach der Installation
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -25,93 +31,140 @@ products:
 - windows
 exams:
 - uid: exam.md-100
-summary: |-
-  In
-  diesem Kurs lernen die Teilnehmer, wie sie die Installationsaufgaben
-  in Verbindung mit Windows 10 unterstützen können. Die Teilnehmer werden Fähigkeiten entwickeln,
-  die auch das Erlernen der Installation und Anpassung von Windows 10-Betriebssystemen umfassen. Die Teilnehmer lernen auch
-  das neue Windows-Servicemodell und Methoden kennen, um Windows auf dem neuesten Stand
-  zu halten. Der Kurs wird mit gemeinsamen Aufgaben nach der Installation abgeschlossen.
+summary: >-
+  In diesem Kurs lernen die Teilnehmer*innen, wie sie die Installationsaufgaben unterstützen, die mit Windows 10 verbunden sind. Sie entwickeln Qualifikationen wie das Installieren und Anpassen von Windows 10-Betriebssystemen. Außerdem erfahren die Kursteilnehmer*innen mehr über das neue Windows-Servicemodell und die neuen Methoden, um Windows auf dem neuesten Stand zu halten. Am Ende dieses Kurses werden gängige, nach der Installation notwendige Aufgaben behandelt.
 
-  #### Zielgruppenprofil
-  Kandidaten
-  für diese Prüfung sind IT-Spezialisten, die die Installation und Konfiguration,
-  allgemeine lokale Verwaltung und Wartung der Windows 10-Kerndienste durchführen.
-  Die Kandidaten können auch mit Unternehmensszenarien und Cloud-integrierten
-  Diensten vertraut sein.
-prerequisitesSection: |-
-  Die Lernenden sollten diesen Kurs bereits mit den folgenden Fähigkeiten beginnen&#58;
-  - Grundlegendes Verständnis von Computernetzwerken und Hardwarekonzepten.
-  - Grundlegendes Verständnis von OS- und Anwendungskonzepten.
-  - Erfahrung im Umgang mit dem Windows-Betriebssystem.
-outlineSection: |-
-  ### Modul 1&#58; Installation von Windows
-  Dieses Modul deckt die Installation von Windows 10 OS ab.  Die Teilnehmer lernen die verschiedenen Editionen von Windows 10, die Anforderungen und die neu eingeführten Features kennen. Dieses Modul behandelt sowohl die Installation des Betriebssystems als auch Methoden für Migrationen und Upgrades. Die Teilnehmer lernen auch die gängigen Tools kennen, die im Bereitstellungsprozess verwendet werden.
-  #### Lektionen
-  - Einführung in Windows 10
-  - Installationsmöglichkeiten
-  - Anforderungen an die Windows-Funktionen
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+  Das Examen wird von IT-Expert*innen absolviert, die für Installationen, Konfigurationen, die allgemeine lokale Verwaltung und die Wartung der Windows 10-Kerndienste verantwortlich sind.
+
+  Die Kandidat*innen sind möglicherweise auch mit Unternehmensszenarios und cloudintegrierten Diensten vertraut.
+prerequisitesSection: >-
+  Die Lernenden sollten diesen Kurs bereits mit den folgenden Fähigkeiten beginnen:
+
+  - Grundlegende Kenntnisse zu Computernetzwerken und Hardwarekonzepten
+
+  - Grundlegende Kenntnisse zu Betriebssystem- und Anwendungskonzepten
+
+  - Erfahrung mit der Verwendung des Windows-Betriebssystems
+outlineSection: >-
+  ### <a name="module--158-installing-windows"></a>Modul 1: Installieren von Windows
+
+  In diesem Modul wird das Installieren des Windows 10-Betriebssystems behandelt.  Die Kursteilnehmer*innen lernen die verschiedenen Editionen von Windows 10, die Anforderungen und die neuen Features kennen. In diesem Modul werden das Installieren des Betriebssystems sowie Methoden für Migrationen und Upgrades behandelt. Die Kursteilnehmer*innen erfahren außerdem mehr über gängige Tools, die im Bereitstellungsprozess verwendet werden.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Einführung in Windows 10
+
+  - Installationsoptionen
+
+  - Anforderungen für Windows-Features
+
   - Installationsprozess und Medien
-  - Upgrade auf Windows 10
+
+  - Upgrade auf Windows 10
 
 
-  #### Labor&#58; Installation von Windows 10
-  - Aktualisieren von Windows 7 auf Windows 10
-  - Migration von Benutzereinstellungen
+
+  #### <a name="lab-58-installing-windows-10"></a>Lab: Installieren von Windows 10
+
+  - Upgrade von Windows 7 auf Windows 10
+
+  - Migrieren von Benutzereinstellungen
 
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Die verschiedenen Editionen und Funktionen von Windows 10 verstehen
-  - Die Installationsoptionen des Windows 10-Clients verstehen
-  - Die Installation von Windows 10 mit einer virtuellen Online-Maschine üben
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Die verschiedenen Editionen und Features von Windows 10 verstehen
+
+  - Die Clientinstallationsoptionen für Windows 10 verstehen
+
+  - Das Installieren von Windows 10 mithilfe eines virtuellen Onlinecomputers üben
 
 
-  ### Modul 2&#58; Aktualisierung von Windows
-  In diesem Modul lernen die Teilnehmer, Windows 10 auf dem neuesten Stand zu halten. Die Teilnehmer werden in das neue Windows-Servicemodell und dessen Anwendung auf verschiedene Szenarien eingeführt. Die Teilnehmer lernen die verschiedenen Methoden zum Aktualisieren von Windows und Anwendungen sowie die Verwaltung von Updates mithilfe von Tools wie Gruppenrichtlinien und Windows Update for Business kennen.
-  #### Lektionen
+
+  ### <a name="module--258-updating-windows"></a>Modul 2: Aktualisieren von Windows
+
+  In diesem Modul erfahren die Kursteilnehmer*innen, wie sie Windows 10 auf dem neuesten Stand halten. Das neue Windows-Servicemodell wird vorgestellt, und es wird erklärt, wie es auf verschiedene Szenarios angewendet wird. Die Kursteilnehmer*innen lernen verschiedene Methoden zum Aktualisieren von Windows und Anwendungen kennen. Auch lernen sie das Verwalten von Updates mithilfe von Tools wie Gruppenrichtlinien und Windows Update for Business.
+
+  #### <a name="lessons"></a>Lektionen
+
   - Windows-Servicemodell
-  - Aktualisierung von Windows
+
+  - Aktualisieren von Windows
+
   - Anwenden von Anwendungen und Windows-Updates
 
 
-  #### Labor&#58; Aktualisierung von Windows 10
+
+  #### <a name="lab-58-updating-windows-10"></a>Lab: Aktualisieren von Windows 10
+
   - Konfigurieren von Updates für ein einzelnes Gerät
-  - Updates mit GPOs konfigurieren
+
+  - Konfigurieren von Updates mit GPOs
 
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Das Windows-Servicemodell beschreiben
-  - Die Windows-Update-Einstellungen konfigurieren
-  - Die Aktualisierung von Windows mit WSUS beschreiben
-  - Das Aktualisieren von Windows mit Windows Update for Business beschreiben
-  - Windows Update mithilfe von Gruppenrichtlinien konfigurieren
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Das Windows-Servicemodell erläutern
+
+  - Windows-Updateeinstellungen konfigurieren
+
+  - Das Aktualisieren von Windows mithilfe von WSUS erläutern
+
+  - Das Aktualisieren von Windows mithilfe von Windows Update for Business erläutern
+
+  - Das Windows-Update mithilfe einer Gruppenrichtlinie konfigurieren
 
 
-  ### Modul 3&#58; Konfiguration und Personalisierung nach der Installation
-  Dieses Modul deckt allgemeine Aufgaben nach der Installation in Windows 10 ab. Die Teilnehmer lernen, wie die Benutzeroberfläche angepasst werden kann, sowie die Verwendung des Bedienfelds und der Einstellungsapplikation, um allgemeine Betriebssystemeinstellungen zu konfigurieren. In diesem Kurs werden die Teilnehmer auch in Windows PowerShell eingeführt.
-  #### Lektionen
-  - Die Windows 10-Benutzeroberfläche anpassen
-  - Gerätespezifische Einstellungen wie z. B. Energiepläne und Optionen für mobile Geräte konfigurieren
-  - Systemsteuerung und Einstellungsprogramm von Windows verwenden, um Einstellungen zu konfigurieren
-  - Beschreibung der Verwendung von Windows PowerShell
+
+  ### <a name="module--358-post-installation-configuration-and-personalization"></a>Modul 3: Konfiguration und Personalisierung nach der Installation
+
+  In diesem Modul werden gängige, nach der Installation notwendige Aufgaben in Windows 10 behandelt. Die Kursteilnehmer*innen lernen, wie sie die Benutzeroberfläche anpassen können und die Systemsteuerung- und Einstellungen-App zum Konfigurieren allgemeiner Betriebssystemeinstellungen verwenden können. In diesem Kurs lernen die Kursteilnehmer*innen auch Windows PowerShell kennen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Anpassen der Windows 10-Benutzeroberfläche
+
+  - Konfigurieren von gerätespezifischen Einstellungen wie Energiesparplänen und Optionen für mobile Geräte
+
+  - Verwenden von Windows-Systemsteuerung und der Einstellungen-App zum Konfigurieren von Einstellungen
+
+  - Verwenden von Windows PowerShell
 
 
-  #### Labor&#58; Konfigurieren von Windows 10
-  - Mit der Einrichtungs-App
-  - Mit der Systemsteuerung
-  - Mit Windows PowerShell
+
+  #### <a name="lab-58-configuring-windows-10"></a>Lab: Konfigurieren von Windows 10
+
+  - Verwenden der Einstellungen-App
+
+  - Verwenden von Systemsteuerung
+
+  - Verwenden von Windows PowerShell
 
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Die Windows 10-Benutzeroberfläche anpassen
-  - Gerätespezifische Einstellungen wie z. B. Energiepläne und Optionen für mobile Geräte konfigurieren
-  - Systemsteuerung und Einstellungsprogramm von Windows verwenden, um Einstellungen zu konfigurieren
-  - Beschreibung der Verwendung von Windows PowerShell
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Anpassen der Windows 10-Benutzeroberfläche
+
+  - Konfigurieren von gerätespezifischen Einstellungen wie Energiesparplänen und Optionen für mobile Geräte
+
+  - Verwenden von Windows-Systemsteuerung und der Einstellungen-App zum Konfigurieren von Einstellungen
+
+  - Verwenden von Windows PowerShell
 
 
-  ### Modul 4&#58; Abschluss des Kurses
-  #### Lektionen
-  - Abschlussprüfung
+
+  ### <a name="module--458-course-conclusion"></a>Modul 4: Abschluss des Kurses
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Abschlussexamen
 
 
-  #### Labor&#58; Abgestuftes Lab
+
+  #### <a name="lab-58-graded-lab"></a>Lab: Bewertetes Lab

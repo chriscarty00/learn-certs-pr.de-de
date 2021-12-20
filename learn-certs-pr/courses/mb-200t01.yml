@@ -1,20 +1,26 @@
 ### YamlMime:Course
-title: 'Dynamics 365: Power Platform anwendungen'
+title: 'Dynamics 365: Power Platform applications'
 metadata:
-  title: 'Kurs MB-200T01-A: Dynamics 365: Power Platform anwendungen'
-  description: 'Kurs MB-200T01-A: Dynamics 365: Power Platform anwendungen'
+  title: 'Kurs MB-200T01-A: Dynamics 365: Power Platform applications'
+  description: 'Kurs MB-200T01-A: Dynamics 365: Power Platform applications'
   iltScheduling: true
+  ms.openlocfilehash: eabed96fb778b2ddb7a2505915fc543668d71c04
+  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 09/14/2021
+  ms.locfileid: "132107474"
 uid: course.mb-200t01
-courseNumber: 'MB-200T01-A'
+courseNumber: MB-200T01-A
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Plattformkomponenten identifizieren.
 - skill: Administratoroptionen verstehen.
 - skill: Daten effektiv gestalten.
-- skill: Erstellen einer modellgetriebenen Basisanwendung auf der Power-Plattform.
-- skill: Erstellen einer einfache Canvas-Anwendung auf der Power-Plattform.
-- skill: Verwalten des Nutzerzugriffs auf Daten und Funktionen mit Hilfe der Sicherheit.
+- skill: Erstellen einer einfachen modellgesteuerten Anwendung auf der Power Platform
+- skill: Erstellen einer einfachen Canvas-Anwendung auf der Power Platform
+- skill: Verwalten des Benutzerzugriffs auf Daten und Features mithilfe von Sicherheit
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -23,89 +29,146 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-sales
 - dynamics-marketing
 - dynamics-field-service
 - dynamics-customer-service
 exams:
 - uid: exam.mb-200
-summary: |-
+summary: >-
   Mit Hilfe der Microsoft Power-Platform können Unternehmen Abläufe optimieren, indem sie Routineaufgaben automatisieren und bewährte Praktiken standardisieren. Diese Schulung bietet einen allgemeinen Überblick über die Funktionen von Microsoft Dynamics 365 und der Power-Plattform und bildet die Grundlage für andere Schulungsangebote von Microsoft Dynamics 365 und der Power-Plattform.
 
-  In diesem Kurs vermitteln unsere weltweit anerkannten Experten den Schülern das grundlegende Wissen, um sie auf die Erstellung von Apps auf der Power-Plattform vorzubereiten.
 
-  #### Zielgruppenprofil
-  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von sowie Lösungen und Anwendungen zu konfigurieren. Der Modulbetreuer implementiert eine Lösung mit gebrauchsfertigen Funktionen, codefreier Erweiterungsmöglichkeit, sowie Anwendungs- und Service-Integrationen.
-prerequisitesSection: |-
-  Dieser Kurs richtet sich an Personen, die die Microsoft 365 Enterprise-Administratorrolle anstreben und einen der Microsoft 365-Zertifizierungspfade für Workload-Administratoren abgeschlossen haben.
-outlineSection: |-
-  ### Modul 1&#58; Plattformübersicht
-  In diesem Modul lernen die Studenten die Grundlagen der Power-Plattform.  Sie werden die verschiedenen Administrator-Portale und -Optionen durchgehen und Anwendungen installieren.
-  #### Lektionen
+  In diesem Kurs vermitteln unsere global anerkannten Experten den Kursteilnehmern das grundlegende Wissen, um sie auf die Erstellung von Apps auf der Power Platform vorzubereiten.
+
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+  Zu den Aufgaben des Dynamics 365-Modulbetreuers für den Kundendialog gehören Netzwerksuche, Erfassen von Bedürfnissen, die Einbeziehung von Fachexperten und Stakeholdern, das Übersetzen von sowie Lösungen und Anwendungen zu konfigurieren. Der Functional Consultant implementiert eine Lösung unter Verwendung von gebrauchsfertigen Features, Erweiterbarkeit ohne Programmieraufwand, Anwendungs- und Dienstintegrationen.
+prerequisitesSection: Dieser Kurs richtet sich an Personen, die die Microsoft 365 Enterprise-Administratorrolle anstreben und einen der Microsoft 365-Zertifizierungspfade für Administratoren für Workloads abgeschlossen haben.
+outlineSection: >-
+  ### <a name="module--158-platform-overview"></a>Modul 1: Übersicht über die Plattform
+
+  In diesem Modul werden die Kursteilnehmer mit den Grundlagen der Power Platform vertraut gemacht.Sie werden die verschiedenen Administratorportale und -optionen kennenlernen und Anwendungen installieren.
+
+  #### <a name="lessons"></a>Lektionen
+
   - Übersicht
-  - Konfigurieren von Power-Plattform-Umgebungen
-  - Erstellen von Anwendungen
-  - Erkennung und Planung
-  - Modulübersicht
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Konfigurieren von Power Platform-Umgebungen
+
+  - Erstellen von Anwendungen
+
+  - Erkennung und Planung
+
+  - Zusammenfassung des Moduls
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
   - Gängige Plattformkomponenten und deren Verwendung erkennen
 
 
-  ### Modul 2&#58; Datenmodellierung
-  In diesem Modul lernen die Teilnehmer, Daten mit Hilfe von Entitäten, Attributen und Beziehungen der Plattform effektiv zu modellieren.
-  #### Lektionen
+
+  ### <a name="module--258-data-modeling"></a>Modul 2: Datenmodellierung
+
+  In diesem Modul lernen die Kursteilnehmer, Daten mithilfe der Entitäten, Attribute und Beziehungen der Plattform effektiv zu modellieren.
+
+  #### <a name="lessons"></a>Lektionen
+
   - Datenmodellgrundlagen
+
   - Beziehungen
+
   - Andere Entitätsoptionen
+
   - Andere Feldoptionen
+
   - Internationalisierung
-  - Modulübersicht
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Zusammenhänge und Entitäten erstellen und verwenden
+  - Zusammenfassung des Moduls
 
 
-  ### Modul 3&#58; Modellgetriebene Apps
-  In diesem Modul lernen die Studenten modellgetriebene Anwendungen sowie deren Konfiguration und Verwendung kennen.
-  #### Lektionen
-  - Konfigurieren modellbasierter Apps
-  - Konfigurieren modellbasierter Formulare
-  - Ansichten konfigurieren
-  - Konfigurieren modellbasierter Diagramme
-  - Konfigurieren modellbasierter  Dashboards
-  - Berichte konfigurieren
-  - Modulübersicht
+  Nach Abschluss dieses Moduls können die Schüler:
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
-  - Formulare, Ansichten, Dashboards und andere Komponenten zur Benutzererfahrung erstellen und ändern
+  - Beziehungen und Entitäten erstellen und verwenden
 
 
-  ### Modul 4&#58; Canvas-Apps
-  In diesem Modul lernen die Studenten, Canvas-Apps zu erstellen und verwenden, sowie die Unterschiede zwischen Canvas-Apps und modellgetriebenen Apps zu erkennen.
-  #### Lektionen
+
+  ### <a name="module--358-model-driven-apps"></a>Modul 3: Modellgesteuerte Apps
+
+  In diesem Modul lernen die Kursteilnehmer, modellgesteuerte Anwendungen sowie deren Konfiguration und Verwendung kennen.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Konfigurieren modellgesteuerter Apps
+
+  - Konfigurieren modellgesteuerter Formulare
+
+  - Konfigurieren von Ansichten
+
+  - Konfigurieren modellgesteuerter Diagramme
+
+  - Konfigurieren modellgesteuerter Dashboards
+
+  - Konfigurieren von Berichten
+
+  - Zusammenfassung des Moduls
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
+  - Formulare, Ansichten, Dashboards und andere Benutzeroberflächenkomponenten erstellen und ändern
+
+
+
+  ### <a name="module--458-canvas-apps"></a>Modul 4: Canvas-Apps
+
+  In diesem Modul lernen die Kursteilnehmer, Canvas-Apps zu erstellen und zu verwenden, sowie die Unterschiede zwischen Canvas-Apps und modellgesteuerten Apps zu erkennen.
+
+  #### <a name="lessons"></a>Lektionen
+
   - Anwendungsgrundlagen
-  - Arbeiten mit Daten und Diensten
-  - Anpassen der Benutzererfahrung
-  - Integration mit modellbasierten Apps
-  - Modulübersicht
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  - Arbeiten mit Daten und Diensten
+
+  - Anpassen der Benutzeroberfläche
+
+  - Integration mit modellgesteuerten Apps
+
+  - Zusammenfassung des Moduls
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
   - Eine Canvas-App erstellen
+
   - Mit CDS-Daten arbeiten
 
 
-  ### Modul 5&#58; Sicherheit
-  In diesem Modul lernen die Teilnehmer, wie durch das Sicherheitsmodell der Plattform Benutzererfahrungen und Zugriff auf Daten und Funktionen verwaltet werden.
-  #### Lektionen
-  - Sicherheit - Überblick
-  - Geschäftsbereiche
-  - Sicherheitsrollen verwalten
-  - Teams verwalten
-  - Hierarchiesicherheit konfigurieren
-  - Modulübersicht
 
-  Nach Abschluss dieses Moduls können die Teilnehmer&#58;
+  ### <a name="module--558-security"></a>Modul 5: Sicherheit
+
+  In diesem Modul lernen die Kursteilnehmer, wie durch das Sicherheitsmodell der Plattform Benutzererfahrungen und Zugriff auf Daten und Features verwaltet werden.
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Sicherheitsübersicht
+
+  - Geschäftseinheiten
+
+  - Verwalten von Sicherheitsrollen
+
+  - Verwalten von Teams
+
+  - Konfigurieren der Hierarchiesicherheit
+
+  - Zusammenfassung des Moduls
+
+
+  Nach Abschluss dieses Moduls können die Schüler:
+
   - Geschäftsbereiche erstellen und verwenden
+
   - Sicherheitsrollen erstellen, ändern und verwenden

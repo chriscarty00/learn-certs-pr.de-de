@@ -1,32 +1,52 @@
 ### YamlMime:Examination
-title: Designing and Implementing Microsoft Azure Networking Solutions
+title: Entwerfen und Implementieren von Microsoft Azure-Netzwerklösungen
 metadata:
-  title: 'Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions'
-  description: 'Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions'
+  title: 'Examen AZ-700: Designing and Implementing Microsoft Azure Networking Solutions'
+  description: 'Examen AZ-700: Designing and Implementing Microsoft Azure Networking Solutions'
+  ms.openlocfilehash: ca1b83d8d1b3377f9b02e091d35cd6b564cf2e22
+  ms.sourcegitcommit: 3a53de64ec81bf478275e0a13a80f3a69bc1e586
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/10/2021
+  ms.locfileid: "134680715"
 uid: exam.az-700
 displayName: AZ-700
-summary: |-
-  <div><font color='red'>HINWEIS: Punktzahl für einen erfolgreichen Abschluss: 700. Erfahren Sie mehr über Prüfungsergebnisse <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
+summary: >-
+  <div><div><font color='red'><strong>Der Inhalt dieses Examens wurde am 23. November 2021 aktualisiert. Laden Sie das unten aufgeführte Dokument mit den bewerteten Qualifikationen herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div><div><font color='red'>HINWEIS: Erforderliche Mindestpunktzahl: 700. Weitere Informationen zu Prüfungsergebnissen finden Sie <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
 
-  Kandidaten für diese Prüfung sollten über Fachwissen in der Planung, Implementierung und Wartung von Azure-Netzwerklösungen verfügen, einschließlich hybrider Netzwerke, Konnektivität, Routing, Sicherheit und privater Zugang zu Azure-Services.
-  
-  Kandidaten für diese Prüfung sollten über fachkundige Azure -Administrationskenntnisse verfügen, zusätzlich zu umfangreichen Erfahrungen und Kenntnissen über Netzwerke, hybride Verbindungen und Netzwerksicherheit.
-subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu bewältigen: Entwerfen, Implementieren und Verwalten von hybriden Netzwerken, Entwerfen und Implementieren von Kernnetzwerkinfrastrukturen, Entwerfen und Implementieren von Routing, Sichern und Überwachen von Netzwerken sowie Entwerfen und Implementieren von privatem Zugang zu Azure Services.'
+
+  Kandidat*innen für dieses Examen sollten über Fachwissen im Planen, Implementieren und Warten von Azure-Netzwerklösungen verfügen, einschließlich hybrider Netzwerke, Konnektivität, Routing, Sicherheit und privatem Zugang zu Azure-Diensten.
+
+
+  Kandidat*innen für dieses Examen sollten zusätzlich zu umfangreichen Erfahrungen und Kenntnissen über Netzwerke, hybride Verbindungen und Netzwerksicherheit über sehr fortgeschrittene administrative Kenntnisse in Azure verfügen.
+subTitle: 'In diesem Examen wird Ihre Fähigkeit abgefragt, die folgenden technischen Aufgaben zu bewältigen: Entwerfen, Implementieren und Verwalten von hybriden Netzwerken, Entwerfen und Implementieren von Kernnetzwerkinfrastrukturen, Entwerfen und Implementieren von Routing, Sichern und Überwachen von Netzwerken sowie Entwerfen und Implementieren von privatem Zugang zu Azure-Diensten.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4PaHw
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-700&examname=Exam%20AZ-700:%20Designing%20and%20Implementing%20Microsoft%20Azure%20Networking%20Solutions%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-700
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-700&examname=Exam%20AZ-700:%20Designing%20and%20Implementing%20Microsoft%20Azure%20Networking%20Solutions%20&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-700
 locales:
 - en
+- ja
+- zh-cn
+- ko
+- de
+- fr
+- es
+- pt-br
+- ar-sa
+- ru
+- zh-tw
+- it
 levels:
 - intermediate
 skills:
-- Entwerfen, Implementierung und Verwaltung hybrider Netzwerke (10-15%)
-- Entwerfen und Implementierung von Kernnetzinfrastrukturen (20-25%)
-- Entwerfen und Implementieren von Routing (25-30%)
-- Netzwerke sichern und überwachen (15-20%)
-- Entwerfen und Implementieren von privatem Zugang zu Azure Services (10-15%)
+- The content of this exam was updated on November 23, 2021. Please download the exam skills outline below to see what changed.
+- Design, implement, and manage hybrid networking (10-15%)
+- Design and implement core networking infrastructure (20-25%)
+- Design and implement routing (25-30%)
+- Secure and monitor networks (15-20%)
+- Design and implement Private access to Azure Services (10-15%)
 roles:
 - network-engineer
 products:
@@ -57,13 +77,13 @@ relatedCertifications:
 - related:
     uid: certification.azure-network-engineer-associate
 resources:
-- title: Informieren Sie sich über die Zertifizierungen
+- title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
   href: https://aka.ms/traincertposter
-- title: Prüfungswiederholung
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
@@ -73,8 +93,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
-- title: Prüfungsrichtlinien und häufig gestellten Fragen
+- title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md

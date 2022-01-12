@@ -1,0 +1,736 @@
+### YamlMime:Course
+title: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB
+metadata:
+  title: 'Course DP-420T00--A: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB'
+  description: 'Course DP-420T00--A: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB'
+  ms.openlocfilehash: 7800ccfa1f5050f7ee40d93eb7d9518b05aa8bf6
+  ms.sourcegitcommit: c116073237510c2d0096e8ace7a60c3c2384e870
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/12/2021
+  ms.locfileid: "132382812"
+uid: course.dp-420t00
+courseNumber: DP-420T00
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Erstellen und Konfigurieren von Azure Cosmos DB-SQL-API-Konten, -Datenbanken und -Containern
+- skill: Verwenden des .NET SDK zum Verwalten von Ressourcen und Ausführen von Vorgängen
+- skill: Ausführen von Abfragen unterschiedlicher Komplexität
+- skill: Entwerfen einer Datenmodellierungs- und Partitionierungsstrategie
+- skill: Optimieren von Abfragen und Indizes basierend auf den Merkmalen einer Anwendung
+- skill: Verwenden von Azure Resource Manager zum Verwalten von Konten und Ressourcen mithilfe der CLI oder unter Verwendung von JSON- und Bicep-Vorlagen
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.dp-420
+summary: >-
+  In diesem Kurs lernen Entwickler*innen, wie sie eine Anwendung mit der SQL-API und dem SDK für Azure Cosmos DB erstellen können. Die Kursteilnehmer*innen erfahren, wie sie effiziente Abfragen schreiben, Indizierungsrichtlinien erstellen, Ressourcen verwalten und bereitstellen und allgemeine Vorgänge mit dem SDK durchführen können.
+
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+
+  Softwareentwickler*innen, die mit der Entwicklung von cloudnativen Lösungen betraut sind, die die Azure Cosmos DB-SQL-API und ihre verschiedenen SDKs nutzen. Sie sind mit C#, Python, Java oder JavaScript vertraut. Außerdem verfügen sie über Erfahrung beim Schreiben von Code, der mit einer SQL- oder NoSQL-Datenbankplattform interagiert.
+prerequisitesSection: >-
+  Vor der Teilnahme an diesem Kurs müssen die Kursteilnehmer*innen über folgende Kenntnisse verfügen:
+
+
+  *   Kenntnisse zu Microsoft Azure und der Navigation im Azure-Portal (gemäß AZ-900)
+
+
+  *   Erfahrung mit dem Programmieren in einer von Azure unterstützten Sprache auf dem Niveau fortgeschrittener Anfänger (C#, JavaScript, Python oder Java)
+
+
+  *   Fähigkeit, Code zu schreiben, um eine Verbindung mit einem SQL- oder NoSQL-Datenbankprodukt herzustellen und Vorgänge darin auszuführen (SQL Server, Oracle, MongoDB, Cassandra oder ähnliches)
+outlineSection: >-
+  ### <a name="module-1-get-started-with-azure-cosmos-db-sql-api"></a>Modul 1: Erste Schritte mit der Azure Cosmos DB-SQL-API
+
+
+  Moderne Apps profitieren von Echtzeitdaten aus verschiedenen Quellen und in verschiedenen Formen. Für diese Apps wird eine moderne Datenbank benötigt, die die Vielfalt an Daten und die Geschwindigkeit, mit der sie verarbeitet werden, bewältigen kann. In diesem Modul wird Azure Cosmos DB vorgestellt und Sie erfahren, wie die SQL-API einige der Probleme moderner Anwendungen lösen kann.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Einführung in Azure Cosmos DB: SQL-API
+
+
+  *   Ausprobieren der Azure Cosmos DB-SQL-API
+
+
+
+  #### <a name="lab--exercise-create-an-azure-cosmos-db-sql-api-account"></a>Lab: Übung: Erstellen eines Azure Cosmos DB-SQL-API-Kontos
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Auswerten, ob sich die SQL-API von Azure Cosmos DB als Datenbank für Ihre Anwendung eignet
+
+
+  *   Erklären, inwiefern sich die Features der SQL-API von Azure Cosmos DB für moderne Anwendungen eignen
+
+
+  *   Erstellen eines neuen Azure Cosmos DB-SQL-API-Kontos
+
+
+  *   Erstellen von Datenbank-, Container- und Elementressourcen für ein Azure Cosmos DB-SQL-API-Konto
+
+
+
+  ### <a name="module-2-plan-and-implement-azure-cosmos-db-sql-api"></a>Modul 2: Planen und Implementieren der Azure Cosmos DB-SQL-API
+
+
+  Die Erstellung eines neuen Azure Cosmos DB-Kontos erfordert oft eine Reihe von Konfigurationsentscheidungen, was anfangs etwas entmutigend sein kann. Obwohl die Standardeinstellungen für viele Szenarios geeignet sind, ist es am sinnvollsten, sich mit den Konfigurationsoptionen vertraut zu machen. So können Sie dafür sorgen, dass Ihr Konto und Ihre Ressourcen optimal für Ihre Lösung konfiguriert sind. In diesem Modul erfahren Sie, wie Sie ein Azure Cosmos DB-Konto und Ressourcen für eine neue Lösung vorbereiten und konfigurieren.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Planen der Ressourcenanforderungen
+
+
+  *   Konfigurieren von Azure Cosmos DB-SQL-API-Datenbanken und -Containern
+
+
+  *   Verschieben von Daten in die und aus der Azure Cosmos DB-SQL-API
+
+
+
+  #### <a name="lab--exercise-configure-throughput-for-azure-cosmos-db-sql-api-with-the-azure-portal"></a>Lab: Übung: Konfigurieren des Durchsatzes für die Azure Cosmos DB-SQL-API mit dem Azure-Portal
+
+
+  ####
+
+
+  #### <a name="lab--exercise-migrate-existing-data-using-azure-data-factory"></a>Lab: Übung: Migrieren vorhandener Daten mit Azure Data Factory
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Auswerten verschiedener Anforderungen Ihrer Anwendung
+
+
+  *   Planen von Skalierungs- und Aufbewahrungsanforderungen
+
+
+  *   Konfigurieren der Durchsatzzuteilung
+
+
+  *   Konfigurieren der Gültigkeitsdauer (TTL)
+
+
+  *   Migrieren von Daten mithilfe von Azure-Diensten
+
+
+  *   Migrieren von Daten mithilfe von Spark oder Kafka
+
+
+
+  ### <a name="module-3-connect-to-azure-cosmos-db-sql-api-with-the-sdk"></a>Modul 3: Herstellen einer Verbindung mit der Azure Cosmos DB-SQL-API über das SDK
+
+
+  Es stehen verschiedene SDKs für die Verbindung mit der Azure Cosmos DB-SQL-API aus vielen gängigen Programmiersprachen zur Verfügung, darunter beispielsweise: .NET (C#), Java, Python und JavaScript (Node.js). In diesem Modul lernen Sie das .NET SDK für die Azure Cosmos DB-SQL-API in der Praxis kennen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Verwenden des SDK für die Azure Cosmos DB-SQL-API
+
+
+  *   Konfigurieren des SDK für die Azure Cosmos DB-SQL-API
+
+
+
+  #### <a name="lab--exercise-configure-the-azure-cosmos-db-sql-api-sdk-for-offline-development"></a>Lab: Übung: Konfigurieren des SDK für die Azure Cosmos DB-SQL-API zur Offlineentwicklung
+
+
+  ####
+
+
+  #### <a name="lab--exercise-connect-to-azure-cosmos-db-sql-api-with-the-sdk"></a>Lab: Übung: Herstellen einer Verbindung mit der Azure Cosmos DB-SQL-API über das SDK
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Integrieren der SDK-Bibliothek „Microsoft.Azure.Cosmos“ aus NuGet
+
+
+  *   Herstellen einer Verbindung mit einem Azure Cosmos DB-SQL-API-Konto mithilfe von SDK und .NET
+
+
+  *   Konfigurieren des SDK für die Offlineentwicklung
+
+
+  *   Behandlung häufiger Verbindungsprobleme
+
+
+  *   Implementieren von Parallelität im SDK
+
+
+  *   Konfigurieren der Protokollierung mit dem SDK
+
+
+
+  ### <a name="module-4-access-and-manage-data-with-the-azure-cosmos-db-sql-api-sdks"></a>Modul 4: Zugreifen auf und Verwalten von Daten mit den SDKs der Azure Cosmos DB-SQL-API
+
+
+  Das SQL-API-SDK für Azure Cosmos DB wird verwendet, um verschiedene Punktvorgänge und Transaktionen durchzuführen sowie Massendaten zu verarbeiten. In diesem Modul verwenden Sie das SDK, um Dokumente einzeln oder in Gruppen zu bearbeiten.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Implementieren von Azure Cosmos DB-SQL-API-Punktvorgängen
+
+
+  *   Ausführen dokumentübergreifender Transaktionsvorgänge mit der Azure Cosmos DB-SQL-API
+
+
+  *   Verarbeiten von Massendaten in der Azure Cosmos DB-SQL-API
+
+
+
+  #### <a name="lab--exercise-create-and-update-documents-with-the-azure-cosmos-db-sql-api-sdk"></a>Lab: Übung: Erstellen und Aktualisieren von Dokumenten mit dem SDK der Azure Cosmos DB-SQL-API
+
+
+  ####
+
+
+  #### <a name="lab--exercise-batch-multiple-point-operations-together-with-the-azure-cosmos-db-sql-api-sdk"></a>Lab: Übung: Batchverarbeitung mehrerer Punktvorgänge mit dem SDK der Azure Cosmos DB-SQL-API
+
+
+  ####
+
+
+  #### <a name="lab--exercise-move-multiple-documents-in-bulk-with-the-azure-cosmos-db-sql-api-sdk"></a>Lab: Übung: Massenverschieben von Dokumenten mit dem SDK der Azure Cosmos DB-SQL-API
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Ausführen von CRUD-Vorgängen mit dem SDK
+
+
+  *   Konfigurieren der Gültigkeitsdauer (TTL) für ein bestimmtes Dokument
+
+
+  *   Implementieren der Steuerung der optimistischen Nebenläufigkeit für einen Vorgang
+
+
+  *   Erstellen eines Transaktionsbatches und Überprüfen der Ergebnisse
+
+
+  *   Erstellen eines Massenvorgangs
+
+
+  *   Überprüfen der Ergebnisse eines Massenvorgangs
+
+
+  *   Implementieren von Best Practices für Massenvorgänge
+
+
+
+  ### <a name="module-5-execute-queries-in-azure-cosmos-db-sql-api"></a>Modul 5: Ausführen von Abfragen in der Azure Cosmos DB-SQL-API
+
+
+  Die Azure Cosmos DB-SQL-API unterstützt SQL (Structured Query Language) als JSON-Abfragesprache. In diesem Modul erfahren Sie, wie Sie mithilfe der SQL-Abfragesprache effiziente Abfragen erstellen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Abfragen der Azure Cosmos DB-SQL-API
+
+
+  *   Erstellen komplexer Abfragen mit der Azure Cosmos DB-SQL-API
+
+
+
+  #### <a name="lab--exercise-paginate-cross-product-query-results-with-the-azure-cosmos-db-sql-api-sdk"></a>Lab: Übung: Paginieren produktübergreifender Abfrageergebnisse mit dem SDK der Azure Cosmos DB-SQL-API
+
+
+  ####
+
+
+  #### <a name="lab--exercise-execute-a-query-with-the-azure-cosmos-db-sql-api-sdk"></a>Lab: Übung: Ausführen einer Abfrage mit dem SDK der Azure Cosmos DB-SQL-API
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erstellen und Ausführen einer SQL-Abfrage
+
+
+  *   Projizieren von Abfrageergebnissen
+
+
+  *   Verwenden integrierter Funktionen in einer Abfrage
+
+
+  *   Implementieren einer korrelierten Unterabfrage
+
+
+  *   Erstellen einer produktübergreifenden Abfrage
+
+
+
+  ### <a name="module-6-define-and-implement-an-indexing-strategy-for-azure-cosmos-db-sql-api"></a>Modul 6: Definieren und Implementieren einer Indizierungsstrategie für die Azure Cosmos DB-SQL-API
+
+
+  Standardmäßig indiziert Azure Cosmos DB automatisch alle Pfade von Dokumenten, die mit der SQL-API gespeichert werden. Das ist ideal für die Entwicklung neuer Anwendungen, da Sie nahezu sofort komplexe Abfragen erstellen können. Mit zunehmendem Reifegrad Ihrer Anwendung können Sie Ihre Indizierungsrichtlinie anpassen, um sie besser auf die Anforderungen Ihrer Lösung abzustimmen. In diesem Modul erfahren Sie, wie Sie eine benutzerdefinierte Indizierungsrichtlinie erstellen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Definieren von Indizes in der Azure Cosmos DB-SQL-API
+
+
+  *   Anpassen von Indizes in der Azure Cosmos DB-SQL-API
+
+
+
+  #### <a name="lab--exercise-review-the-default-index-policy-for-an-azure-cosmos-db-sql-api-container-with-the-portal"></a>Lab: Übung: Überprüfen der Standardindizierungsrichtlinie für einen Azure Cosmos DB-SQL-API-Container mithilfe des Portal
+
+
+  ####
+
+
+  #### <a name="lab--exercise-configure-an-azure-cosmos-db-sql-api-containers-index-policy-with-the-portal"></a>Lab: Übung: Konfigurieren einer Indexrichtlinie für einen Azure Cosmos DB-SQL-API-Container mithilfe des Portals
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Anzeigen und Nachvollziehen der Standardindizierungsrichtlinie für einen SQL-API-Container
+
+
+  *   Anpassen der Indizierungsrichtlinie für einen Container
+
+
+  *   Verwenden eines zusammengesetzten Indexes in einer Indizierungsrichtlinie
+
+
+
+  ### <a name="module-7-integrate-azure-cosmos-db-sql-api-with-azure-services"></a>Modul 7: Integrieren der Azure Cosmos DB-SQL-API mit Azure-Diensten
+
+
+  Azure Cosmos DB ist eng mit zahlreichen anderen Azure-Diensten wie Azure Functions, Azure Cognitive Search, Azure Event Hubs, Azure Storage, Azure Data Factory und Azure Stream Analytics verzahnt. Darüber hinaus können Sie den Änderungsfeed nutzen, um Azure Cosmos DB mit vielen weiteren Diensten innerhalb und außerhalb von Azure zu integrieren. In diesem Modul wird Azure Cosmos DB sowohl mit Azure Functions als auch mit Azure Cognitive Search integriert. Außerdem wird der Änderungsfeed mithilfe des SDK untersucht.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Nutzen eines Azure Cosmos DB SQL-API-Änderungsfeeds mithilfe des SDK
+
+
+  *   Behandeln von Ereignissen mit Azure Functions und dem Änderungsfeed der Azure Cosmos DB-SQL-API
+
+
+  *   Durchsuchen von Azure Cosmos DB-SQL-API-Daten mit Azure Cognitive Search
+
+
+
+  #### <a name="lab--exercise-archive-azure-cosmos-db-sql-api-data-using-azure-functions"></a>Lab: Übung: Archivieren von Azure Cosmos DB-SQL-API-Daten mit Azure Functions
+
+
+  ####
+
+
+  #### <a name="lab--exercise-process-change-feed-events-using-the-azure-cosmos-db-sql-api-sdk"></a>Lab: Übung: Verarbeiten von Änderungsfeedereignissen mit dem SDK der Azure Cosmos DB-SQL-API
+
+
+  ####
+
+
+  #### <a name="lab--exercise-archive-data-using-azure-functions-and-azure-cosmos-db-sql-api"></a>Lab: Übung: Archivieren von Daten mithilfe von Azure Functions und der Azure Cosmos DB-SQL-API
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Verarbeiten von Änderungsfeedereignissen mit dem SDK
+
+
+  *   Implementieren von Best Practices für Änderungsfeeds
+
+
+  *   Erstellen eines Azure Functions-Triggers für Azure Cosmos DB
+
+
+  *   Erstellen einer Azure Functions-Eingabe für Azure Cosmos DB
+
+
+  *   Indizieren von Azure Cosmos DB-Daten in Azure Cognitive Search
+
+
+
+  ### <a name="module-8-implement-a-data-modeling-and-partitioning-strategy-for-azure-cosmos-db-sql-api"></a>Modul 8: Implementieren einer Datenmodellierungs- und Partitionierungsstrategie für die Azure Cosmos DB-SQL-API
+
+
+  Azure Cosmos DB ist sowohl horizontal skalierbar als auch nicht relational. Benutzer müssen zum Erreichen dieses Grads an Skalierbarkeit die Konzepte, Techniken und Technologien für die Modellierung und Partitionierung von Daten verstehen, die einzigartig für NoSQL-Datenbanken sind. In diesem Modul modellieren und partitionieren Sie Daten in geeigneter Weise für eine NoSQL-Datenbank wie die Azure Cosmos DB-SQL-API.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Modellieren und Partitionieren von Daten in Azure Cosmos DB
+
+
+  *   Optimieren von Datenbanken mithilfe erweiterter Modellierungsmuster für Azure Cosmos DB
+
+
+
+  #### <a name="lab--exercise-measure-performance-for-customer-entities"></a>Lab: Übung: Messen der Leistung für Kundenentitäten
+
+
+  ####
+
+
+  #### <a name="lab--exercise-advanced-modeling-patterns"></a>Lab: Übung: Erweiterte Modellierungsmuster
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Identifizieren von Anwendungszugriffsmustern für eine vorhandene Anwendung
+
+
+  *   Entscheiden, wann Daten eingebettet oder referenziert werden sollen
+
+
+  *   Verwalten der referenziellen Integrität mithilfe des Änderungsfeeds
+
+
+  *   Kombinieren mehrerer Entitäten im einem einzelnen Container
+
+
+  *   Denormalisieren aggregierter Daten in einem einzelnen Container
+
+
+
+  ### <a name="module-9-design-and-implement-a-replication-strategy-for-azure-cosmos-db-sql-api"></a>Modul 9: Entwerfen und Implementieren einer Replikationsstrategie für die Azure Cosmos DB-SQL-API
+
+
+  Moderne Anwendungen erfordern eine hohe Reaktionsschnelligkeit und müssen immer online sein. Um eine geringe Latenz und Hochverfügbarkeit zu erreichen, müssen Instanzen dieser Anwendungen in Rechenzentren eingesetzt werden, die sich in der Nähe ihrer Benutzer befinden. In diesem Modul lernen Sie, wie Sie mit der Azure Cosmos DB-SQL-API Daten replizieren und die Konsistenz weltweit verwalten können.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Konfigurieren der Replikation und Verwalten von Failovern in Azure Cosmos DB
+
+
+  *   Verwenden von Konsistenzmodellen in der Azure Cosmos DB-SQL-API
+
+
+  *   Konfigurieren von Schreibvorgängen in mehreren Regionen in der Azure Cosmos DB SQL-API
+
+
+
+  #### <a name="lab--exercise-configure-consistency-models-in-the-portal-and-the-azure-cosmos-db-sql-api-sdk"></a>Lab: Übung: Konfigurieren von Konsistenzmodellen im Portal und im SDK der Azure Cosmos DB-SQL-API
+
+
+  ####
+
+
+  #### <a name="lab--exercise-connect-to-different-regions-with-the-azure-cosmos-db-sql-api-sdk"></a>Lab: Übung: Verbindungsherstellung mit verschiedenen Regionen mit dem SDK der Azure Cosmos DB-SQL-API
+
+
+  ####
+
+
+  #### <a name="lab--exercise-connect-to-a-multi-region-write-account-with-the-azure-cosmos-db-sql-api-sdk"></a>Lab: Übung: Verbindungsherstellung mit einem Konto für Schreibvorgänge in mehreren Regionen mit dem SDK der Azure Cosmos DB-SQL-API
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Verteilen von Daten auf verschiedene Geografien
+
+
+  *   Definieren von Richtlinien für ein automatisches Failover
+
+
+  *   Ausführen eines manuellen Failovers
+
+
+  *   Konfigurieren des Standardkonsistenzmodells
+
+
+  *   Ändern des sitzungsspezifischen Konsistenzmodells
+
+
+  *   Konfigurieren von Schreibvorgängen in mehreren Regionen im SDK
+
+
+  *   Erstellen einer benutzerdefinierten Konfliktlösungsrichtlinie
+
+
+
+  ### <a name="module-10-optimize-query-performance-in-azure-cosmos-db-sql-api"></a>Modul 10: Optimieren der Abfrageleistung in der Azure Cosmos DB-SQL-API
+
+
+  Azure Cosmos DB bietet eine umfangreiche Sammlung von Datenbankvorgängen, die für die Elemente in einem Container ausgeführt werden. Die Kosten im Zusammenhang mit diesen Vorgängen variieren basierend auf dem CPU-, E/A- und Speicheraufwand, der für den jeweiligen Vorgang erforderlich ist. In diesem Modul erfahren Sie, wie Sie Indizierungsrichtlinien verwalten und Abfragen bearbeiten können, um die Kosten pro Anforderungseinheit (Request Unit, RU) zu minimieren.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Auswählen von Indizes in der Azure Cosmos DB-SQL-API
+
+
+  *   Optimieren von Abfragen in der Azure Cosmos DB-SQL-API
+
+
+  *   Implementieren des integrierten Caches
+
+
+
+  #### <a name="lab--exercise-optimize-an-azure-cosmos-db-sql-api-containers-index-policy-for-common-operations"></a>Lab: Übung: Optimieren der Indizierungsrichtlinie eines Azure Cosmos DB-SQL-API-Containers für allgemeine Vorgänge
+
+
+  ####
+
+
+  #### <a name="lab--exercise-optimize-an-azure-cosmos-db-sql-api-containers-index-policy-for-a-specific-query"></a>Lab: Übung: Optimieren der Indizierungsrichtlinie eines Azure Cosmos DB-SQL-API-Containers für eine bestimmte Abfrage
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Überprüfen und Vergleichen von lese- und schreibintensiven Indexmustern
+
+
+  *   Aktualisieren einer Indizierungsrichtlinie zum Optimieren der Indexleistung
+
+
+  *   Messen der Kosten einer Abfrage in Anforderungseinheiten (Request Units, RUs)
+
+
+  *   Messen der Kosten von Punktvorgängen
+
+
+  *   Arbeiten mit dem integrierten Element- und Abfragecache
+
+
+  *   Konfigurieren der Veraltung im integrierten Cache
+
+
+
+  ### <a name="module-11-administrating-and-monitoring-tasks-for-an-azure-cosmos-db-sql-api-solution"></a>Modul 11: Verwaltungs- und Überwachungsaufgaben für eine Azure Cosmos DB-SQL-API-Lösung
+
+
+  Wenn Sie über kritische Anwendungen und Geschäftsprozesse verfügen, die auf Azure-Ressourcen wie Azure Cosmos DB angewiesen sind, sollten Sie diese Ressourcen im Hinblick auf Verfügbarkeit, Leistung und Betrieb überwachen. In diesem Modul erfahren Sie, wie Sie Ereignisse und die Leistung eines Azure Cosmos DB-Kontos überwachen. Außerdem lernen Sie, wie Sie übliche Sicherheitsmaßnahmen sowie die Sicherung und Wiederherstellung in Azure Cosmos DB implementieren.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Messen der Leistung in der Azure Cosmos DB-SQL-API
+
+
+  *   Überwachen von Antworten und Ereignissen in der Azure Cosmos DB-SQL-API
+
+
+  *   Implementieren von Sicherung und Wiederherstellung für die Azure Cosmos DB-SQL-API
+
+
+  *   Implementieren der Sicherheit in der Azure Cosmos DB-SQL-API
+
+
+
+  #### <a name="lab--exercise-troubleshoot-an-application-using-the-azure-cosmos-db-sql-api-sdk"></a>Lab: Übung: Problembehandlung für eine Anwendung mit dem SDK der Azure Cosmos DB-SQL-API
+
+
+  ####
+
+
+  #### <a name="lab--exercise-use-azure-monitor-to-analyze-an-azure-cosmos-db-sql-api-account"></a>Lab: Übung: Verwenden von Azure Monitor zum Analysieren eines Azure Cosmos DB-SQL-API-Kontos
+
+
+  ####
+
+
+  #### <a name="lab--exercise-recover-a-database-or-container-from-a-recovery-point"></a>Lab: Übung: Wiederherstellen einer Datenbank oder eines Containers anhand eines Wiederherstellungspunkts
+
+
+  ####
+
+
+  #### <a name="lab--exercise-store-azure-cosmos-db-sql-api-account-keys-in-azure-key-vault"></a>Lab: Übung: Speichern von Azure Cosmos DB-SQL-API-Kontoschlüsseln in Azure Key Vault
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Beobachten von Ratenbegrenzungsereignissen in einem Container oder einer Datenbank
+
+
+  *   Abfragen von Ressourcenprotokollen mit Azure Monitor
+
+
+  *   Überprüfen und Beobachten von vorübergehenden Fehlern und Ratenbegrenzungsfehlern
+
+
+  *   Konfigurieren von Warnungen
+
+
+  *   Konfigurieren der fortlaufenden Sicherung und Wiederherstellung
+
+
+  *   Durchführen einer Zeitpunktwiederherstellung
+
+
+  *   Verwenden der rollenbasierten Zugriffssteuerung (Role-Based Access Control, RBAC)
+
+
+  *   Zugreifen auf Kontoressourcen mithilfe von Azure AD und Microsoft Identity Platform
+
+
+
+  ### <a name="module-12-manage-an-azure-cosmos-db-sql-api-solution-using-devops-practices"></a>Modul 12: Verwalten einer Azure Cosmos DB-SQL-API-Lösung mithilfe von DevOps-Verfahren
+
+
+  Sobald ein Azure Cosmos DB-SQL-API-Konto bereit zum Durchlaufen eines Releaselebenszyklus ist, unternimmt ein Betriebsteam nicht selten den Versuch, die Erstellung von Azure Cosmos DB-Ressourcen in der Cloud zu automatisieren. Die Automatisierung erleichtert die Bereitstellung neuer Umgebungen, die Wiederherstellung früherer Umgebungen oder die Aufskalierung eines Diensts. In diesem Modul erfahren Sie, wie Sie den Azure Resource Manager verwenden, um ein Azure Cosmos DB-Konto und seine untergeordneten Ressourcen mithilfe von JSON-Vorlagen, Bicep-Vorlagen oder der Azure CLI zu verwalten.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Schreiben von Skripts für die Azure Cosmos DB-SQL-API
+
+
+  *   Erstellen einer Ressourcenvorlage für die Azure Cosmos DB-SQL-API
+
+
+
+  #### <a name="lab--exercise-adjust-provisioned-throughput-using-an-azure-cli-script"></a>Lab: Übung: Anpassen des bereitgestellten Durchsatzes mithilfe eines Azure CLI-Skripts
+
+
+  ####
+
+
+  #### <a name="lab--exercise-create-an-azure-cosmos-db-sql-api-container-using-azure-resource-manager-templates"></a>Lab: Übung: Erstellen eines Azure Cosmos DB-SQL-API-Containers mithilfe von Azure Resource Manager-Vorlagen
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Anzeigen von Argumenten, Gruppen und Untergruppen für einen bestimmten CLI-Befehl
+
+
+  *   Erstellen von Azure Cosmos DB-Konten, -Datenbanken und -Containern mithilfe der CLI
+
+
+  *   Verwalten einer Indizierungsrichtlinie mithilfe der CLI
+
+
+  *   Konfigurieren des Datenbank- oder Containerdurchsatzes mithilfe der CLI
+
+
+  *   Einleitern eines Failovers und Verwalten von Failoverregionen mithilfe der CLI
+
+
+  *   Ermitteln der drei gängigsten Ressourcentypen für Azure Cosmos DB-SQL-API-Konten
+
+
+  *   Erstellen und Bereitstellen einer JSON-ARM-Vorlage für die Azure Cosmos DB-SQL-API
+
+
+  *   Erstellen und Bereitstellen einer Bicep-ARM-Vorlage für die Azure Cosmos DB-SQL-API
+
+
+  *   Verwalten von Durchsatz- und Indizierungsrichtlinien mithilfe von JSON- oder Bicep-Vorlagen
+
+
+
+  ### <a name="module-13-create-server-side-programming-constructs-in-azure-cosmos-db-sql-api"></a>Modul 13: Erstellen serverseitiger Programmierkonstrukte in der Azure Cosmos DB-SQL-API
+
+
+  Azure Cosmos DB ermöglicht die in die JavaScript-Sprache integrierte, transaktionale Ausführung von JavaScript. Wenn Sie die SQL-API in Azure Cosmos DB verwenden, können Sie gespeicherte Prozeduren, Trigger und benutzerdefinierte Funktionen (User-Defined Functions, UDFs) in der JavaScript-Sprache schreiben. In diesem Modul erstellen Sie JavaScript-Logik, die direkt innerhalb der Datenbank-Engine ausgeführt wird.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Erstellen von Transaktionen mit mehreren Elementen unter Verwendung der Azure Cosmos DB-SQL-API
+
+
+  *   Erweitern der Abfrage- und Transaktionsfunktionalität in der Azure Cosmos DB-SQL-API
+
+
+
+  #### <a name="lab--exercise-implement-and-then-use-a-udf-using-the-sdk"></a>Lab: Übung: Implementieren und anschließendes Verwenden einer benutzerdefinierten Funktion mit dem SDK
+
+
+  ####
+
+
+  #### <a name="lab--exercise-create-a-stored-procedure-with-the-azure-portal"></a>Lab: Übung: Erstellen einer gespeicherten Prozedur mit dem Azure-Portal
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erstellen einer gespeicherten Prozedur
+
+
+  *   Durchführen eines Rollbacks für Transaktionen gespeicherter Prozeduren
+
+
+  *   Erstellen einer UDF
+
+
+  *   Erstellen von Pre- und Post-Triggern

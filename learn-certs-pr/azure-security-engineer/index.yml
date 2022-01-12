@@ -2,28 +2,38 @@
 title: 'Microsoft Certified: Azure Security Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Security Engineer Associate'
-  description: Azure Security Engineers implementieren Azure -Sicherheitskontrollen, die Identität, Zugriff, Daten, Anwendungen und Netzwerke in Cloud- und Hybrid-Umgebungen als Teil einer End-to-End-Infrastruktur schützen.
+  description: Azure Security Engineers implementieren Azure-Sicherheitskontrollen, die Identitäten, Zugriff, Daten, Anwendungen und Netzwerke in Cloud- und Hybridumgebungen als Teil einer End-to-End-Infrastruktur schützen.
+  ms.openlocfilehash: 68aae0a994213e05fcafdfccf40f8bdb3c947838
+  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133078457"
 uid: certification.azure-security-engineer
 certificationRenewalUid: renewal.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am Mittwoch, 29. September 2021 aktualisiert. Bitte laden Sie das Dokument über die gemessenen Fähigkeiten auf der<a href="/learn/certifications/exams/az-500">AZ-500 Prüfungsseite</a> herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
-  
-  Kandidaten für die Azure Security Engineer-Zertifizierung sollten über Fachkenntnisse in der Implementierung von Azure Sicherheitskontrollen- verfügen, die Identität, Zugriff, Daten, Anwendungen und Netzwerke in cloud- und Hybrid-Umgebungen als Teil einer End-to-End-Infrastruktur schützen.
-  
+summary: >-
+  <div><font color='red'><strong>Der Inhalt dieser Zertifizierung wurde am 29. September 2021 aktualisiert. Laden Sie das Dokument zu den bewerteten Qualifikationen von der <a href="/learn/certifications/exams/az-500">Seite für das Examen AZ-500</a> herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
+
+
+  Kandidat*innen für die Zertifizierung als „Azure Security Engineer Associate“ sollten über Fachwissen zum Implementieren von Azure-Sicherheitskontrollen verfügen, die Identitäten, Zugriff, Daten, Anwendungen und Netzwerken in Cloud- und Hybridumgebungen im Rahmen einer End-to-End-Infrastruktur schützen.
+
+
   Zu den Aufgaben eines Azure Security Engineer gehören die Verwaltung der Sicherheitslage, die Identifizierung und Behebung von Schwachstellen, die Durchführung von Bedrohungsmodellen, die Implementierung von Bedrohungsschutz und die Reaktion auf Eskalationen von Sicherheitsvorfällen.
-  
+
+
   Azure Security Engineers sind oft Teil eines größeren Teams zur Planung und Implementierung von cloud-basiertem Management und Sicherheit.
-  
-  Kandidaten für diese Prüfung sollten über praktische Erfahrung in der Administration von Azure und hybriden Umgebungen verfügen. Die Kandidaten sollten Erfahrung mit Infrastructure as Code, Sicherheitsabläufen, cloud-Funktionen und Azure -Diensten haben.
-subTitle: Azure Security Engineers implementieren Azure -Sicherheitskontrollen, die Identität, Zugriff, Daten, Anwendungen und Netzwerke in Cloud- und Hybrid-Umgebungen als Teil einer End-to-End-Infrastruktur schützen.
+
+
+  Kandidat*innen für diese Zertifizierung sollten über praktische Erfahrung in der Verwaltung von Azure und hybriden Umgebungen verfügen. Die Kandidaten sollten Erfahrung mit Infrastructure-as-Code, Sicherheitsabläufen, Cloudfunktionen und Azure -Diensten haben.
+subTitle: Azure Security Engineers implementieren Azure-Sicherheitskontrollen, die Identitäten, Zugriff, Daten, Anwendungen und Netzwerke in Cloud- und Hybridumgebungen als Teil einer End-to-End-Infrastruktur schützen.
 levels:
 - intermediate
 skills:
-- Verwalten von Identität und Zugriff
-- Plattform-Schutz implementieren
-- Verwaltung von Sicherheitsvorgängen
-- Sichern von Daten und Anwendungen
+- Manage identity and access
+- Implement platform protection
+- Manage security operations
+- Secure data and applications
 roles:
 - security-engineer
 type: role-based
@@ -37,30 +47,28 @@ products:
 courses:
 - uid: course.az-500t00
 paths:
-- uid: learn.security.secure-your-cloud-apps
-- uid: learn.security.implement-resource-mgmt-security
-- uid: learn.security.implement-network-security
-- uid: learn.security.implement-host-security
-- uid: learn.security.manage-identity-and-access
-- uid: learn.security.manage-security-operations
+- uid: learn.wwl.manage-identity-access
+- uid: learn.wwl.implement-platform-protection
+- uid: learn.wwl.secure-your-data-applications
+- uid: learn.wwl.manage-security-operation
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUH
 exams:
 - uid: exam.az-500
 resources:
-- title: Azure-Zertifizierungsplakat
-  description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Azure an.
+- title: Azure-Zertifizierungsübersicht
+  description: Hier finden Sie eine Übersicht über die Basiszertifizierungen, die rollenbasierten Zertifizierungen und die Specialty-Zertifizierungen für Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: Reise zur Zertifizierung
-  description: Informieren Sie sich über die Schritte zur Zertifizierung als Azure Security Engineer Associate und über die verfügbaren Ressourcen, die Ihnen bei der Vorbereitung helfen können.
+- title: Der Weg zur Zertifizierung
+  description: Informieren Sie sich über die Schritte zur Zertifizierung als „Azure Security Engineer Associate“ und über die verfügbaren Ressourcen, die Ihnen bei der Vorbereitung helfen können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://aka.ms/TrainingCertDeck
-- title: Zertifizierungsposter
-  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+- title: Zertifizierungsübersicht
+  description: Hier finden Sie eine Übersicht über die Basiszertifizierungen, die rollenbasierten Zertifizierungen und die Specialty-Zertifizierungen.
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+- title: Examenswiederholung
+  description: Hier finden Sie zwei großartige Angebote, mit denen Sie Ihre Erfolgschancen erhöhen können.
   href: ../deals.md
 - title: Unterstützung von Zertifizierungen
   description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
@@ -68,6 +76,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Fordern Sie Ihren Microsoft-Zertifizierungsbadge an, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md

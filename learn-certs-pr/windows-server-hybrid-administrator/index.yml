@@ -2,35 +2,43 @@
 title: 'Microsoft Certified: Windows Server Hybrid Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Windows Server Hybrid Administrator Associate'
-  description: Diese Zertifizierung wird im Dezember 2021 verfügbar sein. Kandidaten für die Windows Server Hybrid Administrator Associate Zertifizierung sollte Fachwissen über die Konfiguration und Verwaltung Windows Server vor Ort, hybriden und Infrastructure as a Service (IaaS) -Plattform-Workloads haben.
+  description: Windows Server Hybrid Administrators integrieren Windows Server-Umgebungen mit Azure-Diensten und verwalten Windows Server in lokalen Netzwerken.
+  ms.openlocfilehash: 066a44807c164f140797d7f99ba81dcf4f08d8b7
+  ms.sourcegitcommit: 9eca3b739709f987540c0877a64f38bbbe27bf50
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/07/2021
+  ms.locfileid: "133989027"
 uid: certification.windows-server-hybrid-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Kandidaten für die Windows Server Hybrid Administrator Associate Zertifizierung sollte Fachwissen über die Konfiguration und Verwaltung Windows Server vor Ort, hybriden und Infrastructure as a Service (IaaS) -Plattform-Workloads haben.
-  
-  Zu den Aufgaben dieser Rolle gehören die Integration von Windows Server Umgebungen mit Azure  Diensten und die Verwaltung von Windows Server in On-Premises Netzwerken. Diese Rolle verwaltet und betreut die Windows Server IaaS Workloads in Azure, zusätzlich zur Migration und Bereitstellung von Workloads auf Azure.
-  
-  Diese Rolle arbeitet in der Regel zusammen mit Azure Administratoren, Unternehmensarchitekten, Microsoft 365-Administratoren und Netzwerktechnikern.
-  
-  Kandidaten für diese Zertifizierung verwalten zentrale und erweiterte Windows Server-Workloads und -Dienste unter Verwendung von On-Premises-, Hybrid- und Cloud-Technologien. Diese Spezialisten sollten über Fachwissen bei der Implementierung und Verwaltung von lokalen und hybriden Lösungen verfügen, z. B. in den Bereichen Identität, Verwaltung, Datenverarbeitung, Netzwerk und Speicherung. Sie sind auch Experten für die Durchführung von Aufgaben in den Bereichen Sicherheit, Migration, Überwachung, Hochverfügbarkeit, Fehlerbehebung und Notfallwiederherstellung. Diese Experten verwenden verwaltungstechnische Instrumente und Technologien, darunter Windows Admin Center, PowerShell, Azure Arc und IaaS Verwaltung virtueller Maschinen. Sie arbeiten auch mit Azure Automation Update Management, Microsoft Defender for Identity, Azure Security Center, Azure Migrate, und Azure Monitor.
-  
-  Kandidaten für diese Zertifizierung sollten über umfangreiche Erfahrungen in der Arbeit mit Windows Server Betriebssystemen haben.
-  
-  <div><br/><font color='red'><strong>HINWEIS: Diese Zertifizierung wird im Dezember 2021 verfügbar sein.</strong></font></div>
-subTitle: Diese Zertifizierung wird im Dezember 2021 verfügbar sein. Kandidaten für die Windows Server Hybrid Administrator Associate Zertifizierung sollte Fachwissen über die Konfiguration und Verwaltung Windows Server vor Ort, hybriden und Infrastructure as a Service (IaaS) -Plattform-Workloads haben.
+summary: >-
+  Kandidat*innen für die Zertifizierung als Windows Server Hybrid Administrator Associate sollten Fachwissen über die Konfiguration und Verwaltung von lokalen, hybriden und IaaS-basierten Plattformworkloads in Windows Server haben.
+
+
+  Zu den Aufgaben dieser Rolle gehören die Integration von Windows Server-Umgebungen mit Azure-Diensten und die Verwaltung von Windows Server in lokalen Netzwerken. Diese Rolle verwaltet und betreut die Windows Server-IaaS-Workloads in Azure. Außerdem migriert sie diese Workloads zu Azure und stellt sie dort bereit.
+
+
+  Diese Rolle arbeitet in der Regel mit Azure-Administrator*innen, Unternehmensarchitekt*innen, Microsoft 365-Administrator*innen und Netzwerktechniker*innen zusammen.
+
+
+  Kandidat*innen für diese Zertifizierung verwalten zentrale und erweiterte Windows Server-Workloads und -Dienste mithilfe lokaler, hybrider und cloudbasierter Technologien. Diese Expert*innen sollten über Fachwissen im Implementieren und Verwalten lokaler und hybrider Lösungen verfügen, z. B. in den Bereichen Identität, Verwaltung, Compute, Netzwerk und Speicher. Sie sind auch Expert*innen für Aufgaben in den Bereichen Sicherheit, Migration, Überwachung, Hochverfügbarkeit, Problembehandlung und Notfallwiederherstellung. Diese Expert*innen verwenden Verwaltungstools und -technologien, darunter Windows Admin Center, PowerShell, Azure Arc und IaaS-Verwaltung für VMs. Sie arbeiten auch mit der Azure Automation-Updateverwaltung, Microsoft Defender for Identity, Azure Security Center, Azure Migrate und Azure Monitor.
+
+
+  Kandidat*innen für diese Zertifizierung sollten über umfangreiche Erfahrungen in der Arbeit mit Windows Server-Betriebssystemen verfügen.
+subTitle: Windows Server Hybrid Administrators integrieren Windows Server-Umgebungen mit Azure-Diensten und verwalten Windows Server in lokalen Netzwerken.
 levels:
 - intermediate
 skills:
-- Bereitstellen und Verwalten von Active Directory Domain Services (AD DS)  in On-Premises- und cloud-Umgebungen
-- Verwalten von Windows-Servers und Workloads in einer hybriden Umgebung 
-- Verwalten von virtuellen Maschinen und Containern 
-- Implementieren und Verwalten einer ortsfesten und hybriden Netzwerkinfrastruktur 
-- Verwalten von Speicher- und Dateidiensten
-- Sichern von Windows Server-Infrastrukturen vor Ort und in hybriden Umgebungen
-- Implementieren und Verwalten von Windows Server -Hochverfügbarkeit 
-- Notfallwiederherstellung implementieren
-- Server und Workloads migrieren
-- Überwachung und Fehlerbehebung Windows Server-Umgebungen 
+- Deploy and manage Active Directory Domain Services (AD DS) in on-premises and cloud environments
+- Manage Windows Servers and workloads in a hybrid environment
+- Manage virtual machines and containers
+- Implement and manage an on-premises and hybrid networking infrastructure
+- Manage storage and file services
+- Secure Windows Server on-premises and hybrid infrastructures
+- Implement and manage Windows Server high availability
+- Implement disaster recovery
+- Migrate servers and workloads
+- Monitor and troubleshoot Windows Server environments
 roles:
 - administrator
 - identity-access-admin
@@ -56,22 +64,28 @@ products:
 - azure-virtual-machines
 - mdatp
 - windows-server
+paths:
+- uid: learn.wwl.deploy-manage-identity-infrastructure
+- uid: learn.wwl.manage-windows-servers-workloads-hybrid-environment
+- uid: learn.wwl.manage-virtualization-containers-hybrid-environment
+- uid: learn.wwl.implement-operate-premises-hybrid
+- uid: learn.wwl.configure-storage-file-services
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKDF9
 exams:
 - uid: exam.az-800
 - uid: exam.az-801
 resources:
-- title: Azure-Zertifizierungsplakat
-  description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Azure an.
+- title: Azure-Zertifizierungsübersicht
+  description: Hier finden Sie eine Übersicht über die Basiszertifizierungen, die rollenbasierten Zertifizierungen und die Specialty-Zertifizierungen für Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://aka.ms/TrainingCertDeck
-- title: Zertifizierungsposter
-  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+- title: Zertifizierungsübersicht
+  description: Hier finden Sie eine Übersicht über die Basiszertifizierungen, die rollenbasierten Zertifizierungen und die Specialty-Zertifizierungen.
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+- title: Examenswiederholung
+  description: Hier finden Sie zwei großartige Angebote, mit denen Sie Ihre Erfolgschancen erhöhen können.
   href: ../deals.md
 - title: Unterstützung von Zertifizierungen
   description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
@@ -79,6 +93,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Fordern Sie Ihren Microsoft-Zertifizierungsbadge an, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md

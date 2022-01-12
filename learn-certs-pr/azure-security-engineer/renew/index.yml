@@ -3,27 +3,29 @@ title: 'Erneuerung von Microsoft Certified: Azure Security Engineer Associate'
 metadata:
   title: 'Erneuerung von Microsoft Certified: Azure Security Engineer Associate'
   description: Wenn Sie diese Zertifizierung besitzen und sie innerhalb von sechs Monaten abläuft, können Sie sie erneuern.
-  ms.openlocfilehash: 8cd317d93887b6163535d126818a9c066c45562a
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.openlocfilehash: 6816229120e69795429035cedf420d470b0e1bd1
+  ms.sourcegitcommit: 8eea77e8e5c6afd5914ba7ef2f0058440816aee7
+  ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132110933"
+  ms.lasthandoff: 11/23/2021
+  ms.locfileid: "132963973"
 uid: renewal.azure-security-engineer
 certificationUid: certification.azure-security-engineer
 assessmentId: 824be456-aba3-45ba-a4b4-4478c41a7622
 durationInMinutes: 45
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Wenn Sie diese Zertifizierung besitzen und sie innerhalb von sechs Monaten abläuft, können Sie sie erneuern. Zeigen Sie, dass Sie sich über die neuesten Azure-Aktualisierungen auf dem Laufenden gehalten haben, indem Sie das Erneuerungsexamen bestehen. Sie können sich auch mit der kuratierten Sammlung von Lernmodulen auf die Erneuerung vorbereiten.
+summary: Wenn Sie diese Zertifizierung besitzen und sie innerhalb von sechs Monaten abläuft, können Sie sie erneuern. Zeigen Sie, dass Sie sich über die neuesten Azure-Aktualisierungen auf dem Laufenden gehalten haben, indem Sie das Erneuerungsexamen bestehen. Sie können sich auch mit der zusammengestellten Sammlung von Lernmodulen auf das Erneuerungsexamen vorbereiten.
 skills:
-- Strengthen authentication (conditional access) with Azure Active Directory
-- Secure administrator accounts in Azure Active Directory
-- Enable identity protection in Azure Active Directory
+- Plan and implement privileged access
+- Plan, implement, and manage access review
+- Protect your identities with Azure AD Identity Protection
 - Secure your Azure resources with role-based access control (RBAC)
 - Secure and isolate access to Azure resources by using network security groups and service endpoints
 - Design a holistic monitoring strategy on Azure
 - Secure your Azure Storage account
-- Manage secrets in your server apps with Azure Key Vault
+- Manage user authentication
+- Protect data in-transit and at rest
+- Secure your Azure virtual machine disks
 examsPassed:
 - az-500
 studyGuideDescription: 'Verwenden Sie diese Lernmodule, um sich auf das Erneuerungsexamen „Microsoft Certified: Azure Security Engineer Associate“ vorzubereiten.'

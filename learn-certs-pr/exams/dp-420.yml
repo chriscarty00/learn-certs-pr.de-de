@@ -1,0 +1,80 @@
+### YamlMime:Examination
+title: Entwerfen und Implementieren von cloudnativen Anwendungen mit Microsoft Azure Cosmos DB (beta)
+metadata:
+  title: 'DP-420: Entwerfen und Implementieren von cloudnativen Anwendungen mit Microsoft Azure Cosmos DB (beta)'
+  description: 'DP-420: Entwerfen und Implementieren von cloudnativen Anwendungen mit Microsoft Azure Cosmos DB (beta)'
+  ms.openlocfilehash: 70fa0003b496a583914baa4c7f0d950980d1f96b
+  ms.sourcegitcommit: fff1846d9a8cf0c925fb142b42daa47ab66f0f42
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/04/2021
+  ms.locfileid: "133560224"
+uid: exam.dp-420
+displayName: DP-420
+summary: >-
+  Kandidat*innen für dieses Examen benötigen solide Kenntnisse und Erfahrung in der Entwicklung von Apps für Azure und mit Azure Cosmos DB-Datenbanktechnologien. Sie sollten mit der Entwicklung von Anwendungen mithilfe der Core-API (SQL) und SDKs vertraut sein, effiziente Abfragen schreiben und geeignete Indexrichtlinien erstellen, Ressourcen in Azure bereitstellen und verwalten sowie serverseitige Objekte mit JavaScript erstellen können. Sie sollten JSON interpretieren, C#- oder Java-Code lesen und PowerShell verwenden können.
+
+
+  <div></br><font color='red'><strong>Hinweis: Erforderliche Punktzahl: 700. Weitere Informationen zur Examensbewertung finden Sie <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>. Beta-Examen werden nicht sofort bewertet, da Daten zur Qualität der Fragen und des Examens gesammelt werden. Hier erfahren Sie mehr <a href="/learn/certifications/beta-exams">über den Wert und die Wichtigkeit von Beta-Examen</a>.</strong></font></div>
+subTitle: 'Dieses Examen fragt Ihre Fähigkeiten ab, die folgenden technischen Aufgaben durchzuführen: Entwerfen und Implementieren von Datenmodellen, Entwerfen und Implementieren der Datenverteilung, Integrieren einer Azure Cosmos DB-Lösung, Optimieren einer Azure Cosmos DB-Lösung und Verwalten einer Azure Cosmos DB-Lösung.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMvIJ
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-420&examname=Exam%20DP-420:%20Designing%20and%20Implementing%20Cloud-Native%20Applications%20Using%20Microsoft%20Azure%20Cosmos%20DB&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-420
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Design and implement data models (35–40%)
+- Design and implement data distribution (5–10%)
+- Integrate an Azure Cosmos DB solution (5–10%)
+- Optimize an Azure Cosmos DB solution (15–20%)
+- Maintain an Azure Cosmos DB solution (25–30%)
+roles:
+- developer
+- data-engineer
+- solution-architect
+products:
+- azure
+- azure-cosmos-db
+paths:
+- uid: learn.wwl.get-started-azure-cosmos-db-sql-api
+- uid: learn.wwl.plan-implement-azure-cosmos-db-sql-api
+- uid: learn.wwl.connect-to-azure-cosmos-db-sql-api-sdk
+- uid: learn.wwl.access-manage-data-azure-cosmos-db-sql-api-sdks
+- uid: learn.wwl.execute-queries-azure-cosmos-db-sql-api
+- uid: learn.wwl.define-implement-indexing-strategy-cosmos-db-sql-api
+- uid: learn.wwl.integrate-azure-cosmos-db-sql-api-azure-services
+- uid: learn.wwl.implement-modeling-partitioning-azure-cosmos-db-sql-api
+- uid: learn.wwl.design-implement-replication-strategy-cosmos-db-sql-api
+- uid: learn.wwl.optimize-query-performance-azure-cosmos-db-sql-api
+- uid: learn.wwl.monitor-troubleshoot-azure-cosmos-db-sql-api-solution
+- uid: learn.wwl.manage-cosmos-db-sql-api-solution-using-devops-practices
+- uid: learn.wwl.create-server-side-programming-azure-cosmos-db-sql-api
+courses:
+- uid: course.dp-420t00
+relatedCertifications:
+- related:
+    uid: certification.azure-cosmos-db-developer-specialty
+resources:
+- title: Schulungs- und Zertifizierungsleitfaden
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://aka.ms/TrainingCertDeck
+- title: Zertifizierungsübersicht
+  description: Hier finden Sie eine Übersicht über die Basiszertifizierungen, die rollenbasierten Zertifizierungen und die Specialty-Zertifizierungen.
+  href: https://aka.ms/traincertposter
+- title: Examenswiederholung
+  description: Hier finden Sie zwei großartige Angebote, mit denen Sie Ihre Erfolgschancen erhöhen können.
+  href: ../deals.md
+- title: Unterstützung bei Zertifizierungsexamen
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  href: ../help.md
+- title: Zertifizierungsdashboard
+  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Beantragen von Hilfsmitteln
+  description: Hier erfahren Sie mehr über das Beantragen von Hilfsmitteln für Ihr Examen.
+  href: ../request-accommodations.md
+- title: Prüfungsrichtlinien und FAQs
+  description: Lesen Sie die Examensrichtlinien und die häufig gestellten Fragen.
+  href: ../certification-exam-policies.md

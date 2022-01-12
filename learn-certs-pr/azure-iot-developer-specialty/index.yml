@@ -2,32 +2,44 @@
 title: 'Microsoft Certified: Azure IoT Developer Specialty'
 metadata:
   title: 'Microsoft Certified: Azure IoT Developer Specialty'
-  description: Azure IoT-Entwickler implementieren die Konfiguration und führen Codierungsaufgaben aus, die zum Erstellen und Verwalten der Cloud-und Edge-Teile einer  IoT-Lösung erforderlich sind.
+  description: Azure IoT Developer implementieren die Konfiguration und führen Programmierungsaufgaben aus, die zum Erstellen und Verwalten der Cloud- und Edgebereiche einer IoT-Lösung erforderlich sind.
+  ms.openlocfilehash: 3348f8f37325f7431f9a0002b7d2ebf619adf793
+  ms.sourcegitcommit: 3a53de64ec81bf478275e0a13a80f3a69bc1e586
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/10/2021
+  ms.locfileid: "134680638"
 uid: certification.azure-iot-developer-specialty
+certificationRenewalUid: renewal.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
-summary: |-
-  <div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am 24. September 2021 aktualisiert. Bitte laden Sie das Dokument über die gemessenen Fähigkeiten auf der Website <a href="/learn/certifications/exams/az-220">AZ-220 Prüfungsseite</a> um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
+summary: >-
+  <div><font color='red'><strong>Der Inhalt dieser Zertifizierung wurde am 24. September 2021 aktualisiert. Laden Sie das Dokument zu den bewerteten Qualifikationen von der <a href="/learn/certifications/exams/az-220">Seite für das Examen AZ-220</a> herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
 
-  Kandidaten für diese Zertifizierung sollten über Fachwissen bei der Implementierung der Konfigurations- und Kodierungsaufgaben verfügen, die für die Erstellung und Wartung der Cloud- und Edge -Teile einer IoT-Lösung erforderlich sind.
-  
-  Zu den Aufgaben dieser Rolle gehören die Bereitstellung physischer Geräte, deren Konfiguration und Wartung mithilfe von Cloud-Diensten, sowie die Wartung und Fehlerbehebung der Konfiguration während des gesamten Lebenszyklus des Geräts.
-  
-  Azure IoT-Entwickler sind auch für die Implementierung von Designspezifikationen für IoT-Lösungen verantwortlich, einschließlich Gerätetopologie, Konnektivität, Diagnose und Überwachung, sowie Sicherheit. Diese Fachleute entwickeln und implementieren Module und konfigurieren die Gerätevernetzung für den Azure IoT Edge -Teil der Lösung. Darüber hinaus implementieren sie Entwürfe für Lösungen zur Verwaltung von Datenpipelines, einschließlich Überwachung und Datentransformation im Zusammenhang mit dem IoT.
-  
-  Azure IoT Entwickler arbeiten mit Architekten, Dateningenieuren und anderen Beteiligten zusammen, um eine erfolgreiche Geschäftsintegration zu gewährleisten, einschließlich der Umsetzung des Azure Digital Twins -Service.
-  
-  Kandidaten für diese Zertifizierung sollten über ein allgemeines Verständnis der Gerätetypen und Azure Services verfügen, einschließlich Möglichkeiten der Datenspeicherung, Datenanalyse und Datenverarbeitung, AI, und andere Plattformen als Dienstleistungs (PaaS) -Optionen. Sie müssen in der Lage sein, in mindestens einer vom Azure IoT Software Development Kit (SDK) unterstützten Sprache zu programmieren.
+
+  Kandidat*innen für diese Zertifizierung sollten über Fachwissen beim Implementieren der Konfigurations- und Codierungsaufgaben verfügen, die zum Erstellen und Warten der Cloud- und Edgebereiche einer IoT-Lösung erforderlich sind.
+
+
+  Zu den Aufgaben dieser Rolle gehören die Bereitstellung physischer Geräte, deren Konfiguration und Wartung mithilfe von Clouddiensten, sowie die Wartung und Fehlerbehebung der Konfiguration während des gesamten Lebenszyklus des Geräts.
+
+
+  Azure IoT Developer sind auch für das Implementieren von Entwurfsspezifikationen für IoT-Lösungen verantwortlich, einschließlich Gerätetopologie, Konnektivität, Diagnose und Überwachung sowie Sicherheit. Diese Fachleute entwickeln und implementieren Module und konfigurieren die Gerätevernetzung für den Azure IoT Edge-Teil der Lösung. Darüber hinaus implementieren sie Entwürfe für Lösungen zur Verwaltung von Datenpipelines, einschließlich Überwachung und Datentransformation im Zusammenhang mit dem IoT.
+
+
+  Azure IoT Developer arbeiten mit Architekt*innen, Dateningenieur*innen und anderen Projektbeteiligten zusammen, um eine erfolgreiche Geschäftsintegration zu gewährleisten, einschließlich des Implementierens des Azure Digital Twins-Diensts.
+
+
+  Kandidat*innen für diese Zertifizierung sollten über ein allgemeines Verständnis von Gerätetypen und Azure-Diensten verfügen, einschließlich Datenspeicheroptionen, Datenanalyse, Datenverarbeitung, KI und andere Platform-as-a-Service-Optionen (PaaS). Sie müssen in der Lage sein, in mindestens einer vom Azure IoT Software Development Kit (SDK) unterstützten Sprache zu programmieren.
 subTitle: Azure IoT-Entwickler entwickeln Cloud- und Edge-Komponenten einer Azure IoT-Lösung.
 levels:
 - intermediate
 skills:
-- IoT-Lösungsinfrastruktur einrichten 
-- Bereitstellung und Verwaltung von Geräten
-- IoT Edge implementieren 
-- Geschäftsintegration implementieren
-- Daten verarbeiten und verwalten
-- Überwachung, Fehlerbehebung und Optimierung von IoT-Lösungen
-- Sicherheit implementieren
+- Set up the IoT solution infrastructure
+- Provision and manage devices
+- Implement IoT Edge
+- Implement business integration
+- Process and manage data
+- Monitor, troubleshoot, and optimize IoT solutions
+- Implement security
 roles:
 - developer
 type: specialty
@@ -38,11 +50,18 @@ products:
 courses:
 - uid: course.az-220t00
 paths:
-- uid: learn.introduction-to-azure-iot
-- uid: learn.securely-connect-iot-devices-to-cloud
-- uid: learn.build-intelligent-edge-with-azure-iot-edge
-- uid: learn-develop-solutions-with-azure-iot-central
-- uid: learn.azure.develop-azure-digital-twins
+- uid: learn.wwl.create-azure-iot-services-azure-portal
+- uid: learn.wwl.implement-iot-device-communication-by-using-azure-iot-sdks
+- uid: learn.wwl.provision-iot-devices-at-scale-by-using-device
+- uid: learn.wwl.implement-device-message-processing-data-analytics
+- uid: learn.wwl.develop-data-insights-business-integrations
+- uid: learn.wwl.deploy-azure-iot-edge-devices-modules
+- uid: learn.wwl.develop-deploy-custom-iot-edge-modules
+- uid: learn.wwl.manage-iot-devices-by-using-iot-hub-apps
+- uid: learn.wwl.monitor-troubleshoot-iot-solution-by-using-azure-monitor
+- uid: learn.wwl.enhance-iot-solution-security-by-using-azure-defender
+- uid: learn.wwl.extend-iot-solutions-by-using-azure-digital-twins
+- uid: learn.wwl.build-low-touch-iot-solutions-by-using-azure-iot-central
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1V
 exams:
 - uid: exam.az-220
@@ -51,7 +70,7 @@ resources:
   description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Azure an.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Reise zur Zertifizierung
-  description: Informieren Sie sich über die nötigen Schritte, um eine Azure IoT Developer Specialty-Zertifizierung zu erhalten, und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
+  description: Informieren Sie sich über die nötigen Schritte für eine Zertifizierung als Azure IoT Developer Specialty und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
@@ -68,6 +87,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Fordern Sie Ihren Microsoft-Zertifizierungsbadge an, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md

@@ -2,26 +2,38 @@
 title: 'Microsoft Certified: Azure Network Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Network Engineer Associate'
-  description: 'Diese Zertifizierung wird im Juli 2021 verfügbar sein. Kandidaten für die Azure Network Engineer Associate -Zertifizierung sollten über Fachwissen in der Planung, Implementierung und Wartung von Azure -Netzwerklösungen verfügen, einschließlich hybrider Netzwerke, Konnektivität, Routing, Sicherheit und privatem Zugang zu Azure -Services.'
+  description: Diese Zertifizierung wird im Juli 2021 verfügbar sein. Kandidat*innen für die Azure Network Engineer Associate-Zertifizierung sollten über Fachwissen im Planen, Implementieren und Warten von Azure-Netzwerklösungen verfügen, einschließlich hybrider Netzwerke, Konnektivität, Routing, Sicherheit und privatem Zugang zu Azure-Diensten.
+  ms.openlocfilehash: 576c41ec7734312a4b1b7198e7a2fd2d69f939f6
+  ms.sourcegitcommit: aff11b575edcec99afa93eb5c014d5d58cb81e0b
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133028330"
 uid: certification.azure-network-engineer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Kandidaten für die Azure Network Engineer Associate -Zertifizierung sollten über Fachwissen in der Planung, Implementierung und Wartung von Azure -Netzwerklösungen verfügen, einschließlich hybrider Netzwerke, Konnektivität, Routing, Sicherheit und privatem Zugang zu Azure -Services.
-  
-  Zu den Aufgaben dieser Rolle gehören die Empfehlung, Planung und Implementierung von  Azure -Netzwerklösungen. Fachleute in dieser Rolle verwalten die Lösungen für Leistung, Ausfallsicherheit, Skalierung und Sicherheit. Sie setzen Netzwerklösungen ein, indem sie das Azure-Portal und weitere Methoden verwenden, einschließlich PowerShell, Azure Command-Line Interface (CLI), und Azure Resource Manager-Vorlagen (ARM-Vorlagen).
-  
-  Der Azure Network Engineer arbeitet mit Lösungsarchitekten, cloud Administratoren, Sicherheitstechnikern, Anwendungsentwicklern und DevOps Technikern zusammen, um Azure Lösungen zu liefern.
-  
-  Kandidaten für diese Zertifizierung sollten über fachkundige Azure -Administrationskenntnisse verfügen, zusätzlich zu umfangreichen Erfahrungen und Kenntnissen über Netzwerke, hybride Verbindungen und Netzwerksicherheit.
-subTitle: Kandidaten für die Azure Network Engineer Associate -Zertifizierung sollten über Fachwissen in der Planung, Implementierung und Wartung von Azure -Netzwerklösungen verfügen, einschließlich hybrider Netzwerke, Konnektivität, Routing, Sicherheit und privatem Zugang zu Azure -Services.
+summary: >-
+  <div><font color='red'><strong>Der Inhalt dieser Zertifizierung wurde am 23. November 2021 aktualisiert. Laden Sie das Dokument zu den bewerteten Qualifikationen von der <a href="/learn/certifications/exams/az-700">Seite für das Examen AZ-700</a> herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
+
+
+  Kandidat*innen für die Azure Network Engineer Associate-Zertifizierung sollten über Fachwissen im Planen, Implementieren und Warten von Azure-Netzwerklösungen verfügen, einschließlich hybrider Netzwerke, Konnektivität, Routing, Sicherheit und privatem Zugang zu Azure-Diensten.
+
+
+  Zu den Aufgaben dieser Rolle gehören Empfehlen Planen und Implementieren von Azure-Netzwerklösungen. Fachpersonal in dieser Rolle verwaltet die Lösungen für Leistung, Resilienz, Skalierung und Sicherheit. Sie setzen Netzwerklösungen ein, indem sie das Azure-Portal und weitere Methoden verwenden, einschließlich PowerShell, die Azure-Befehlszeilenschnittstelle (CLI) und Azure Resource Manager-Vorlagen (ARM-Vorlagen).
+
+
+  Azure Network Engineers arbeiten mit Lösungsarchitekt*innen, Cloudadministrator*innen, Sicherheitstechniker*innen, Anwendungsentwickler*innen und DevOps-Techniker*innen zusammen, um Azure-Lösungen zu liefern.
+
+
+  Kandidat*innen für diese Zertifizierung sollten zusätzlich zu umfangreichen Erfahrungen und Kenntnissen über Netzwerke, hybride Verbindungen und Netzwerksicherheit über sehr fortgeschrittene Azure-Administrationskenntnisse verfügen.
+subTitle: Kandidat*innen für die Azure Network Engineer Associate-Zertifizierung sollten über Fachwissen im Planen, Implementieren und Warten von Azure-Netzwerklösungen verfügen, einschließlich hybrider Netzwerke, Konnektivität, Routing, Sicherheit und privatem Zugang zu Azure-Diensten.
 levels:
 - intermediate
 skills:
-- Entwerfen, Implementierung und Verwaltung hybrider Netzwerke 
-- Entwerfen und Implementierung einer zentralen Netzwerkinfrastruktur 
-- Entwerfen und Implementieren von Routing 
-- Netzwerke sichern und überwachen 
-- Entwerfen und Implementierung des privaten Zugangs zu Azure Services
+- Design, implement, and manage hybrid networking
+- Design and implement core networking infrastructure
+- Design and implement routing
+- Secure and monitor networks
+- Design and implement Private access to Azure Services
 roles:
 - network-engineer
 type: role-based
@@ -53,17 +65,17 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4OV0
 exams:
 - uid: exam.az-700
 resources:
-- title: Azure-Zertifizierungsplakat
-  description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Azure an.
+- title: Azure-Zertifizierungsübersicht
+  description: Hier finden Sie eine Übersicht über die Basiszertifizierungen, die rollenbasierten Zertifizierungen und die Specialty-Zertifizierungen für Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://aka.ms/TrainingCertDeck
-- title: Zertifizierungsposter
-  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+- title: Zertifizierungsübersicht
+  description: Hier finden Sie eine Übersicht über die Basiszertifizierungen, die rollenbasierten Zertifizierungen und die Specialty-Zertifizierungen.
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+- title: Examenswiederholung
+  description: Hier finden Sie zwei großartige Angebote, mit denen Sie Ihre Erfolgschancen erhöhen können.
   href: ../deals.md
 - title: Unterstützung von Zertifizierungen
   description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
@@ -71,6 +83,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Fordern Sie Ihren Microsoft-Zertifizierungsbadge an, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md

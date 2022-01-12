@@ -2,28 +2,39 @@
 title: 'Microsoft Certified: Azure Virtual Desktop Specialty'
 metadata:
   title: 'Microsoft Certified: Azure Virtual Desktop Specialty'
-  description: Kandidaten für die Azure Virtual Desktop Specialty -Zertifizierung sind Microsoft Azure-Administratoren mit Fachkenntnissen in der Planung, Bereitstellung und Verwaltung virtueller Desktoperlebnisse und Remote-Apps für jedes Gerät, auf Azure.
+  description: Kandidat*innen für die Azure Virtual Desktop Specialty-Zertifizierung sind Microsoft Azure-Administrator*innen mit Fachkenntnissen in der Planung, Bereitstellung und Verwaltung virtueller Desktops und Remote-Apps für jedes Gerät und in Azure.
+  ms.openlocfilehash: b299828d778c7715a28b6d345aae5ddb4b4fd49d
+  ms.sourcegitcommit: 367335eb84a6583bb7300f39e7d302c9bbd30bea
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/13/2021
+  ms.locfileid: "134694417"
 uid: certification.azure-virtual-desktop-specialty
+certificationRenewalUid: renewal.azure-virtual-desktop-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
-summary: |-
-  <div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am 24. September 2021 aktualisiert. Bitte laden Sie das Dokument über die gemessenen Fähigkeiten auf der <a href="/learn/certifications/exams/az-140">AZ-140 Prüfungsseite herunter</a> um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
+summary: >-
+  <div><font color='red'><strong>Der Inhalt dieser Zertifizierung wurde am 22. November 2021 aktualisiert. Laden Sie das Dokument zu den bewerteten Qualifikationen von der <a href="/learn/certifications/exams/az-140">Seite für das Examen AZ-140</a> herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
 
-  Kandidaten für die Azure Virtual Desktop Specialty -Zertifizierung sind Microsoft Azure-Administratoren mit Fachkenntnissen in der Planung, Bereitstellung und Verwaltung virtueller Desktoperlebnisse und Remote-Apps für jedes Gerät, auf Azure.
-  
-  Zu den Aufgaben dieser Rolle gehört die Bereitstellung von virtuellen Desktoperlebnissen und Anwendungen auf Azure. Fachleute in dieser Rolle stellen Anwendungen auf Azure Virtual Desktop bereit und optimieren sie für die Ausführung in virtuellen Multisession-Umgebungen. Um diese Erfahrungen bereitzustellen, arbeiten sie eng mit Azure-Administratoren und -Architekten sowie Microsoft 365-Administratoren zusammen.
-  
-  Kandidaten für diese Prüfung sollten Erfahrung mit Azure-Technologien haben, einschließlich Virtualisierung, Netzwerk, Identität, Speichern, Backups, Ausfallsicherheit und Notfallwiederherstellung. Sie sollten die Technologien der lokalen virtuellen Desktop-Infrastruktur im Hinblick auf die Migration zu Azure Virtual Desktop verstehen. Diese Fachleute verwenden das Azure-Portal und Azure Resource Manager (ARM)-Vorlagen, um viele ihrer Aufgaben zu erledigen. Sie können PowerShell und Azure Command-Line Interface (CLI) für eine effizientere Automatisierung verwenden.
-  
-  Kandidaten für diese Zertifizierung müssen über fundierte administrative Fähigkeiten in Azure -verfügen.
-subTitle: Kandidaten für die Azure Virtual Desktop Specialty -Zertifizierung sind Microsoft Azure-Administratoren mit Fachkenntnissen in der Planung, Bereitstellung und Verwaltung virtueller Desktoperlebnisse und Remote-Apps für jedes Gerät, auf Azure.
+
+  Kandidat*innen für die Azure Virtual Desktop Specialty-Zertifizierung sind Microsoft Azure-Administrator*innen mit Fachkenntnissen in der Planung, Bereitstellung und Verwaltung virtueller Desktops und Remote-Apps für jedes Gerät und in Azure.
+
+
+  Zu den Aufgaben dieser Rolle gehört die Bereitstellung virtueller Desktopumgebungen und Apps in Azure. Fachkräfte in dieser Rolle stellen Anwendungen in Azure Virtual Desktop bereit und optimieren sie für die Ausführung in virtuellen Umgebungen mit mehreren Sitzungen. Um diese Umgebungen bereitzustellen, arbeiten sie eng mit Azure-Administrator*innen und -Architekt*innen sowie Microsoft 365-Administrator*innen zusammen.
+
+
+  Kandidat*innen für dieses Examen sollten Erfahrung mit Azure-Technologien haben, einschließlich Virtualisierung, Netzwerken, Identitäten, Speichern, Sicherungen, Ausfallsicherheit und Notfallwiederherstellung. Sie sollten die Technologien der lokalen virtuellen Desktopinfrastruktur im Hinblick auf eine Migration zu Azure Virtual Desktop verstehen. Diese Expert*innen verwenden das Azure-Portal und Azure Resource Manager-Vorlagen (ARM), um viele ihrer Aufgaben zu erledigen. Sie können PowerShell und die Azure-Befehlszeilenschnittstelle (CLI) für eine effizientere Automatisierung verwenden.
+
+
+  Kandidat*innen für diese Zertifizierung müssen über sehr fortgeschrittene administrative Fähigkeiten in Azure verfügen.
+subTitle: Kandidat*innen für die Azure Virtual Desktop Specialty-Zertifizierung sind Microsoft Azure-Administrator*innen mit Fachkenntnissen in der Planung, Bereitstellung und Verwaltung virtueller Desktops und Remote-Apps für jedes Gerät und in Azure.
 levels:
 - intermediate
 skills:
-- Planen einer Azure Virtual Desktop Architecture
-- Implementieren einer Azure Virtual Desktop Infrastructure
-- Verwalten von Zugriff und Sicherheit
-- Verwalten von Benutzerumgebungen und Apps
-- Überwachen und Pflegen einer Azure Virtual Desktop Infrastructure
+- Plan an Azure Virtual Desktop architecture
+- Implement an Azure Virtual Desktop infrastructure
+- Manage access and security
+- Manage user environments and apps
+- Monitor and maintain an Azure Virtual Desktop infrastructure
 roles:
 - administrator
 type: specialty
@@ -50,19 +61,19 @@ products:
 - azure-monitor
 - azure-advisor
 - azure-virtual-desktop
+paths:
+- uid: learn-m365.windows-virtual-desktop
 courses:
 - uid: course.az-140t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFTM
 exams:
 - uid: exam.az-140
-paths:
-- uid: learn-m365.windows-virtual-desktop
 resources:
 - title: Azure-Zertifizierungsplakat
   description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Azure an.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: Der Weg zur Zertifizierung
-  description: Informieren Sie sich über die Schritte zur Zertifizierung in Azure for Virtual Desktop Specialty und die verfügbaren Ressourcen, die Ihnen bei der Vorbereitung helfen. 
+- title: Reise zur Zertifizierung
+  description: Für die Examensvorbereitung sollten Sie sich über die Schritte für die Zertifizierung „Azure for Virtual Desktop Specialty“ und die verfügbaren Ressourcen informieren.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKHFH
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
@@ -79,6 +90,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Fordern Sie Ihren Microsoft-Zertifizierungsbadge an, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md

@@ -2,17 +2,17 @@
 title: 'Microsoft Certified: Azure AI Fundamentals'
 metadata:
   title: 'Microsoft Certified: Azure AI Fundamentals'
-  description: Azure AI Fundamentals validiert grundlegende Kenntnisse über Konzepte für maschinelles Lernen und künstliche Intelligenz sowie zugehörige Microsoft Azure-Services.
-  ms.openlocfilehash: deb7f894cc8d9364157aeaf4bfb10cdf87885e4c
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  description: Bei Azure AI Fundamentals werden grundlegende Kenntnisse zu Konzepten des maschinellen Lernens und der künstlichen Intelligenz sowie der zugehörigen Microsoft Azure-Dienste überprüft.
+  ms.openlocfilehash: 1703a99d3be61ba068479422516000049a4c972d
+  ms.sourcegitcommit: 2c1db6d125fa1f6992ec5e35173a89a353dd8543
+  ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132111011"
+  ms.lasthandoff: 11/11/2021
+  ms.locfileid: "132270554"
 uid: certification.azure-ai-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: "Kandidaten für Azure AI Fundamentals certification sollten über grundlegende Kenntnisse der Konzepte maschinellen Lernens (ML) und künstlicher Intelligenz (AI) sowie der zugehörigen Microsoft Azure-Services verfügen.  \n\nDiese Zertifizierung bietet die Gelegenheit, Kenntnisse über gängige ML- und AI-Workloads und deren Implementieren in Azure zu demonstrieren.  \n\nDiese Zertifizierung richtet sich an Kandidaten mit technischem als auch nichttechnischem Hintergrund. Erfahrung in Data-Science und Software-Engineering ist nicht erforderlich. Einige allgemeine Programmierkenntnisse oder -erfahrungen wären jedoch von Vorteil.  \n\nAzure AI-Grundlagen können verwendet werden, um sich auf andere rollenbasierte Azure-Zertifizierungen wie Azure Data Scientist Associate oder Azure AI Engineer Associate vorzubereiten. Dies ist jedoch keine Voraussetzung für eine dieser Zertifizierungen."
-subTitle: Azure AI Fundamentals validiert grundlegende Kenntnisse über Konzepte für maschinelles Lernen und künstliche Intelligenz sowie zugehörige Microsoft Azure-Services.
+summary: "Kandidat*innen für die Azure AI Fundamentals-Zertifizierung sollten über grundlegende Kenntnisse der Konzepte des maschinellen Lernens (ML) und der künstlichen Intelligenz (KI) sowie der zugehörigen Microsoft Azure-Dienste verfügen.  \n\nMit dieser Zertifizierung können Sie Ihre Kenntnisse zu gängigen ML- und KI-Workloads und deren Implementierung in Azure unter Beweis stellen.  \n\nDiese Zertifizierung ist sowohl für Kandidat*innen mit technischem als auch mit nicht-technischem Hintergrund geeignet. Erfahrung in den Bereichen Data Science und Softwareentwicklung ist nicht erforderlich, allgemeine Programmierkenntnisse oder -erfahrung wären jedoch von Vorteil.  \n\nMit Azure AI Fundamentals können Sie sich auf andere rollenbasierte Azure-Zertifizierungen wie Azure Data Scientist Associate oder Azure AI Engineer Associate vorzubereiten, sie ist jedoch keine Voraussetzung für eine dieser Zertifizierungen."
+subTitle: Bei Azure AI Fundamentals werden grundlegende Kenntnisse zu Konzepten des maschinellen Lernens und der künstlichen Intelligenz sowie der zugehörigen Microsoft Azure-Dienste überprüft.
 levels:
 - beginner
 skills:
@@ -51,24 +51,26 @@ paths:
 - uid: learn.wwl.explore-computer-vision-microsoft-azure
 - uid: learn.wwl.explore-natural-language-processing
 - uid: learn.wwl.explore-conversational-ai
+- uid: learn.wwl.explore-fundamentals-of-decision-support
+- uid: learn.wwl.explore-fundamentals-of-knowledge-mining
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAEF
 exams:
 - uid: exam.ai-900
 resources:
-- title: Azure-Zertifizierungsplakat
-  description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Azure an.
+- title: Azure-Zertifizierungsposter
+  description: Hier finden Sie eine Übersicht mit den Basiszertifizierungen, den rollenbasierten Zertifizierungen und den Specialty-Zertifizierungen für Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: Reise zur Zertifizierung
-  description: Informieren Sie sich über die Schritte zur Zertifizierung als Azure AI Fundamentals und über die verfügbaren Ressourcen, die Ihnen bei der Vorbereitung helfen können.
+- title: Der Weg zur Zertifizierung
+  description: Informieren Sie sich über die Schritte zur Zertifizierung in Azure AI Fundamentals und über die verfügbaren Ressourcen, mit denen Sie sich vorbereiten können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARlg
-- title: Schulungs- und Zertifizierungsleitfaden
+- title: Trainings- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
-  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+  description: Hier finden Sie eine Übersicht mit den Basiszertifizierungen, den rollenbasierten Zertifizierungen und den Specialty-Zertifizierungen.
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+- title: Examenswiederholung
+  description: Hier finden Sie zwei großartige Angebote, mit denen Sie Ihre Erfolgschancen erhöhen können.
   href: ../deals.md
 - title: Unterstützung von Zertifizierungen
   description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
@@ -77,5 +79,5 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Teilen Sie Ihre Zertifizierungsbadges.
-  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Erhalten Sie Ihren Microsoft-Zertifizierungsbadge, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Fordern Sie Ihren Microsoft-Zertifizierungsbadge an, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md

@@ -1,31 +1,39 @@
 ### YamlMime:Examination
-title: Microsoft 365 Mobility and Security
+title: Microsoft 365 Mobility and Security
 metadata:
-  title: 'Exam MS-101: Microsoft 365 Mobility and Security'
-  description: 'Exam MS-101: Microsoft 365 Mobility and Security'
+  title: 'Examen MS-101: Microsoft 365 Mobility and Security'
+  description: 'Examen MS-101: Microsoft 365 Mobility and Security'
+  ms.openlocfilehash: 1106c18970489caacc7394d8e34633ca2c278540
+  ms.sourcegitcommit: 788d52f7255adbc93138b211a28be9c4fa35989b
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133101844"
 uid: exam.ms-101
 displayName: MS-101
-summary: |-
-  <div><div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am Freitag, 24. September 2021 aktualisiert. Bitte laden Sie das unten stehende Dokument mit den bewerteten Fähigkeiten herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div><div><font color='red'>HINWEIS: Punktzahl für einen erfolgreichen Abschluss: 700. Erfahren Sie mehr über Prüfungsergebnisse <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
-  
-  Kandidaten für diese Prüfung sind Microsoft 365 Enterprise Administratoren, die an der Bewertung, Planung, Migration, Bereitstellung und Verwaltung von Microsoft 365 Services mitwirken. Sie führen Verwaltungsaufgaben im Bereich der Microsoft 365 Mietverhältnisse für Unternehme durch, inkl. Identitäten, Sicherheit, Konformität und unterstützenden Technologien.
-  
-  Kandidaten verfügen über Kenntnisse in Microsoft 365-Workloads und sollten mindestens als Administrator für die Bereitstellung von Exchange, SharePoint, Teams und Windows 10 tätig gewesen sein. Kandidaten sollten auch Erfahrung im Networking, Server Administration und IT Grundlagen wie DNS, Acrive Directory und PowerShell haben.
-subTitle: 'dieses examens misst Ihre Kompetenz, folgende technische Aufgaben zu erfüllen: Implementierung moderner Gerätedienste; Implementierung von Microsoft 365 Sicherheits- und Bedrohungsmanagement; und Management von Microsoft 365 Governance und Konformität.'
+summary: >-
+  <div><div><font color='red'><strong>Der Inhalt dieses Examens wurde am 24. November 2021 aktualisiert. Laden Sie das unten aufgeführte Dokument mit den bewerteten Qualifikationen herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div><div><font color='red'>HINWEIS: Erforderliche Mindestpunktzahl: 700. Weitere Informationen zu Prüfungsergebnissen finden Sie <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
+
+
+  Kandidat*innen für dieses Examen sind Microsoft 365 Enterprise-Administrator*innen, die an der Bewertung, Planung, Migration, Bereitstellung und Verwaltung von Microsoft 365-Diensten mitwirken. Sie führen Mandantenverwaltungsaufgaben in Microsoft 365 für Unternehmen aus, die sich auf Identitäten, Sicherheit, Compliance und unterstützenden Technologien beziehen.
+
+
+  Kandidat*innen verfügen über Berufserfahrung mit Microsoft 365-Workloads und sollten mindestens als Administrator*in für die Bereitstellung von Exchange, SharePoint, Teams oder Windows 10 tätig gewesen sein. Kandidat*innen sollten auch über Berufserfahrung im Bereich Netzwerke, Serververwaltung und IT-Grundlagen wie DNS, Active Directory Domain Services und PowerShell verfügen.
+subTitle: 'In diesem Examen wird Ihre Fähigkeit bewertet, die folgenden technischen Aufgaben auszuführen: Implementieren moderner Gerätedienste, Implementieren der Microsoft 365 Sicherheits- und Bedrohungsverwaltung und Verwalten von Microsoft 365 Governance und Compliance.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
 practiceTestUrl: https://us.mindhub.com/p/MU-MS-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=MS-101&examname=Exam%20MS-101:%20Microsoft%20365%20Mobility%20and%20Security&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-101
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-101&examname=Exam%20MS-101:%20Microsoft%20365%20Mobility%20and%20Security&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-101
 locales:
 - en
 - ja
 levels:
 - advanced
 skills:
-- Der Inhalt dieser Prüfung wurde am 24. September 2021 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich geändert hat.
-- Implementieren moderner Geräteservices (40-45%)
-- Microsoft 365 Sicherheits- und Bedrohungsmanagement implementieren (20-25%)
-- Microsoft 365-Governance und -Konformität verwalten (35-40%)
+- The content of this exam was updated on November 24, 2021. Please download the exam skills outline below to see what changed.
+- Implement modern device services (40-45%)
+- Implement Microsoft 365 security and threat management (20-25%)
+- Manage Microsoft 365 governance and compliance (35-40%)
 roles:
 - administrator
 products:
@@ -51,24 +59,24 @@ relatedCertifications:
 - related:
     uid: certification.m365-enterprise-administrator
 resources:
-- title: Informieren Sie sich über die Zertifizierungen
+- title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Zertifizierungsposter
-  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Prüfungswiederholung
-  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+  href: https://aka.ms/TrainingCertDeck
+- title: Zertifizierungsübersicht
+  description: Hier finden Sie eine Übersicht über die Basiszertifizierungen, die rollenbasierten Zertifizierungen und die Specialty-Zertifizierungen.
+  href: https://aka.ms/traincertposter
+- title: Examenswiederholung
+  description: Hier finden Sie zwei großartige Angebote, mit denen Sie Ihre Erfolgschancen erhöhen können.
   href: ../deals.md
-- title: Unterstützung bei Zertifizierungsprüfungen
+- title: Unterstützung bei Zertifizierungsexamen
   description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+- title: Beantragen von Hilfsmitteln
+  description: Hier erfahren Sie mehr über das Beantragen von Hilfsmitteln für Ihr Examen.
   href: ../request-accommodations.md
-- title: Prüfungsrichtlinien und häufig gestellten Fragen
-  description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
+- title: Prüfungsrichtlinien und FAQs
+  description: Lesen Sie die Examensrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md

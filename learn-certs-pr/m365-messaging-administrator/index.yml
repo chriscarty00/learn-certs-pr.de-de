@@ -1,44 +1,53 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certified: Messaging Administrator Associate'
+title: 'Microsoft 365 Certified: Messaging Administrator Associate'
 metadata:
-  title: 'Microsoft 365 Certified: Messaging Administrator Associate'
-  description: Microsoft 365 Messaging-Administratoren stellen Empfänger, Berechtigungen, E-Mail-Schutz, Nachrichtenfluss und öffentliche Ordner in Hybrid- und Cloud-Unternehmensumgebungen bereit und konfigurieren, verwalten, beheben und überwachen diese.
+  title: 'Microsoft 365 Certified: Messaging Administrator Associate'
+  description: Microsoft 365 Messaging Administrators stellen Empfänger*innen, Compliance, Bedrohungsschutz und E-Mail-Flows in Hybrid- und Cloud-Unternehmensumgebungen bereit und konfigurieren, verwalten und überwachen diese. Außerdem behandeln sie auftretende Probleme.
+  ms.openlocfilehash: 7aa3241deb25988f416350e396e1e19865c428e5
+  ms.sourcegitcommit: d80173e30006986f164a370573cac47d596ddb52
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/06/2021
+  ms.locfileid: "133742932"
 uid: certification.m365-messaging-administrator
 certificationRenewalUid: renewal.m365-messaging-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft 365 Messaging-Administratoren stellen Empfänger, Berechtigungen, E-Mail-Schutz, Nachrichtenfluss und öffentliche Ordner in Hybrid- und Cloud-Unternehmensumgebungen bereit und konfigurieren, verwalten, beheben und überwachen diese.
-subTitle: Microsoft 365 Messaging-Administratoren stellen Empfänger, Berechtigungen, E-Mail-Schutz, Nachrichtenfluss und öffentliche Ordner in Hybrid- und Cloud-Unternehmensumgebungen bereit und konfigurieren, verwalten, beheben und überwachen diese.
+summary: >-
+  <div><font color='red'><strong>Der Inhalt dieser Zertifizierung wurde am 30. November 2021 aktualisiert. Laden Sie das Dokument zu den bewerteten Qualifikationen von der <a href="/learn/certifications/exams/ms-203">Seite für das Examen MS-203</a> herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
+
+
+  Microsoft 365 Messaging Administrators stellen Empfänger, Compliance, Bedrohungsschutz und E-Mail-Datenflüsse in Hybrid- und Cloud-Unternehmensumgebungen bereit und konfigurieren, verwalten und überwachen diese. Außerdem behandeln sie auftretende Probleme.
+subTitle: Microsoft 365 Messaging Administrators stellen Empfänger*innen, Compliance, Bedrohungsschutz und E-Mail-Flows in Hybrid- und Cloud-Unternehmensumgebungen bereit und konfigurieren, verwalten und überwachen diese. Außerdem behandeln sie auftretende Probleme.
 levels:
 - intermediate
 skills:
-- Verwalten organisatorischer Einstellungen und Ressourcen
-- Planen und verwalten der Mail-Architektur
-- Planen und Implementieren einer hybrid Konfiguration und Migration
-- Sichern der Messaging Umgebung
+- Manage organizational settings and resources
+- Plan and manage the mail transport architecture
+- Plan and implement a hybrid configuration and migration
+- Secure the messaging environment
 roles:
 - administrator
 type: role-based
 products:
 - m365
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
-courses:
-- uid: course.ms-203t00
 paths:
 - uid: learn-m365.m365-messaging-hybrid-migration
 - uid: learn-m365.m365-messaging-architecture
 - uid: learn-m365.m365-messaging-secure-environment
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
+courses:
+- uid: course.ms-203t00
 exams:
 - uid: exam.ms-203
 resources:
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Zertifizierungsposter
-  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
-  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+  href: https://aka.ms/TrainingCertDeck
+- title: Zertifizierungsübersicht
+  description: Hier finden Sie eine Übersicht über die Basiszertifizierungen, die rollenbasierten Zertifizierungen und die Specialty-Zertifizierungen.
+  href: https://aka.ms/traincertposter
+- title: Examenswiederholung
+  description: Hier finden Sie zwei großartige Angebote, mit denen Sie Ihre Erfolgschancen erhöhen können.
   href: ../deals.md
 - title: Unterstützung von Zertifizierungen
   description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
@@ -46,7 +55,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Fordern Sie Ihren Microsoft-Zertifizierungsbadge an, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md
-

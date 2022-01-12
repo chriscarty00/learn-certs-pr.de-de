@@ -2,22 +2,31 @@
 title: 'Microsoft Certified: Security Operations Analyst Associate'
 metadata:
   title: 'Microsoft Certified: Security Operations Analyst Associate'
-  description: Der Microsoft-Analyst für Sicherheitsoperationen arbeitet mit Interessenvertretern des Unternehmens zusammen, um Informationstechnologiesysteme für das Unternehmen zu sichern. Ihr Ziel ist es, das organisatorische Risiko zu reduzieren, indem aktive Angriffe in der Umgebung schnell behoben, Verbesserungen der Bedrohungsschutzpraktiken empfohlen und Verstöße gegen organisatorische Richtlinien an geeignete Interessenvertreter weitergeleitet werden.
+  description: Der Microsoft Security Operations Analyst arbeitet mit Projektbeteiligten im Unternehmen zusammen, um IT-Systeme des Unternehmens zu schützen. Ihr Ziel ist es, Risiken für das Unternehmen zu verringern, indem sie aktive Angriffe in der Umgebung schnell abwehren, Empfehlungen zur Verbesserung der Bedrohungsschutzmethoden aussprechen und Verstöße gegen die Unternehmensrichtlinien an die zuständigen Stellen weiterleiten.
+  ms.openlocfilehash: f1c7f181fc6b653750879981bcdf7df77c6801cc
+  ms.sourcegitcommit: 367335eb84a6583bb7300f39e7d302c9bbd30bea
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/13/2021
+  ms.locfileid: "134694582"
 uid: certification.security-operations-analyst
+certificationRenewalUid: renewal.security-operations-analyst
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am 24. September 2021 aktualisiert. Bitte laden Sie das Dokument über die gemessenen Fähigkeiten auf der <a href="/learn/certifications/exams/az-200">SC-200 Prüfungsseite herunter</a> um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
+summary: >-
+  <div><font color='red'><strong>Der Inhalt dieser Zertifizierung wurde am 29. November 2021 aktualisiert. Laden Sie das Dokument zu den bewerteten Qualifikationen von der <a href="/learn/certifications/exams/sc-200">Seite für das Examen SC-200</a> herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
 
-  Der Microsoft-Analyst für Sicherheitsoperationen arbeitet mit Interessenvertretern des Unternehmens zusammen, um Informationstechnologiesysteme für das Unternehmen zu sichern. Ihr Ziel ist es, das organisatorische Risiko zu reduzieren, indem aktive Angriffe in der Umgebung schnell behoben, Verbesserungen der Bedrohungsschutzpraktiken empfohlen und Verstöße gegen organisatorische Richtlinien an geeignete Interessenvertreter weitergeleitet werden.
-  
-  Zu den Aufgaben gehören das Bedrohungsmanagement, die Überwachung und die Reaktion mit Hilfe einer Vielzahl von Sicherheitslösungen in der gesamten Umgebung. Die Rolle untersucht, reagiert und sucht in erster Linie nach Bedrohungen beim Umgang mit Microsoft Azure Sentinel, Azure Defender, Microsoft 365 Defender und Sicherheitsprodukten von Drittanbietern. Da der Analyst für Sicherheitsoperationen die Betriebsleistung dieser Tools nutzt, ist er auch ein wichtiger Interessenvertreter bei der Konfiguration und Bereitstellung dieser Technologien.
-subTitle: Der Microsoft-Analyst für Sicherheitsoperationen arbeitet mit Interessenvertretern des Unternehmens zusammen, um Informationstechnologiesysteme für das Unternehmen zu sichern. Ihr Ziel ist es, das organisatorische Risiko zu reduzieren, indem aktive Angriffe in der Umgebung schnell behoben, Verbesserungen der Bedrohungsschutzpraktiken empfohlen und Verstöße gegen organisatorische Richtlinien an geeignete Interessenvertreter weitergeleitet werden.
+
+  Der Microsoft Security Operations Analyst arbeitet mit Projektbeteiligten im Unternehmen zusammen, um IT-Systeme des Unternehmens zu schützen. Ihr Ziel ist es, Risiken für das Unternehmen zu verringern, indem sie aktive Angriffe in der Umgebung schnell abwehren, Empfehlungen zur Verbesserung der Bedrohungsschutzmethoden aussprechen und Verstöße gegen die Unternehmensrichtlinien an die zuständigen Stellen weiterleiten.
+
+
+  Zu den Zuständigkeiten gehören das Verwalten, Überwachen und Reagieren auf Bedrohungen durch den Einsatz einer Vielzahl von Sicherheitslösungen in der Umgebung. Hauptaufgaben der Rolle sind die Untersuchung von, Reaktion auf und Suche nach Bedrohungen mithilfe von Microsoft Azure Sentinel, Azure Defender, Microsoft 365 Defender und Sicherheitsprodukten anderer Anbieter. Da die Security Operations Analysts die operative Ausgabe dieser Tools nutzt, sind sie auch wichtige Projektbeteiligte beim Konfigurieren und Bereitstellen dieser Technologien.
+subTitle: Der Microsoft Security Operations Analyst arbeitet mit Projektbeteiligten im Unternehmen zusammen, um IT-Systeme des Unternehmens zu schützen. Ihr Ziel ist es, Risiken für das Unternehmen zu verringern, indem sie aktive Angriffe in der Umgebung schnell abwehren, Empfehlungen zur Verbesserung der Bedrohungsschutzmethoden aussprechen und Verstöße gegen die Unternehmensrichtlinien an die zuständigen Stellen weiterleiten.
 levels:
 - intermediate
 skills:
-- Minimieren von Bedrohungen mit Hilfe von Microsoft 365 Defender
-- Minimieren von Bedrohungen mit Hilfe von Azure Defender
-- Minimieren von Bedrohungen mit Hilfe von Azure Sentinel
+- Mitigate threats using Microsoft 365 Defender
+- Mitigate threats using Azure Defender
+- Mitigate threats using Azure Sentinel
 roles:
 - security-engineer
 - security-operations-analyst
@@ -43,10 +52,10 @@ exams:
 resources:
 - title: Zertifizierungsposter
   description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Dynamics 365 und Power Platform an.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
@@ -56,6 +65,6 @@ resources:
 - title: Unterstützung von Zertifizierungen
   description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Fordern Sie Ihren Microsoft-Zertifizierungsbadge an, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md

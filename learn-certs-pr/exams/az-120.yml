@@ -1,26 +1,37 @@
 ### YamlMime:Examination
-title: 'Planning and Administering Microsoft Azure for SAP Workloads'
+title: Planning and Administering Microsoft Azure for SAP Workloads
 metadata:
-  title: 'Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads'
-  description: 'Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads'
+  title: 'Prüfung AZ-120: Planning and Administering Microsoft Azure for SAP Workloads'
+  description: 'Prüfung AZ-120: Planning and Administering Microsoft Azure for SAP Workloads'
+  ms.openlocfilehash: 5349ae0ca53d6dd2f3daf1f1dc72f225b28c19a5
+  ms.sourcegitcommit: b69a9b2b33f5f8993b5f681e1e6362b5666158e9
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/18/2021
+  ms.locfileid: "135412654"
 uid: exam.az-120
 displayName: AZ-120
-summary: |-
-  <div><div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am Freitag, 24. September 2021 aktualisiert. Bitte laden Sie das unten stehende Dokument mit den bewerteten Fähigkeiten herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div><div><font color='red'>HINWEIS: Punktzahl für einen erfolgreichen Abschluss: 700. Erfahren Sie mehr über Prüfungsergebnisse <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
-  
-  Kandidaten für diese Prüfung sollten Architekten oder Ingenieure mit umfangreichen Erfahrungen und Kenntnissen der SAP Systemlandschaft und Branchenstandards sein, die spezifisch für die anfängliche Migration oder Integration und den langfristigen Betrieb einer SAP Lösung auf Microsoft Azure sind.
-  
-  Zu den Aufgaben eines Architekten oder Ingenieurs für Azure for SAP Workloads gehören Empfehlungen zu Services und die Anpassung von Ressourcen nach Bedarf, für optimale Ausfallsicherheit, Leistung, Skalierbarkeit, Bereitstellung, Größe und Überwachung.
-  
-  Architekten oder Ingenieure für Azure for SAP Workloads arbeiten mit Cloud administratoren, Cloud datenbankadministratoren und Kunden zusammen, um Lösungen zu implementieren.
-  
-  Ein Kandidat für diese Prüfung sollte über umfangreiche Erfahrung und Kenntnisse in SAP Anwendungen verfügen&#58; SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, OS Server für SAP-Anwendungen und -Datenbanken, Azure-Portal, Azure Marketplace, Azure Resource Manager-Vorlagen (ARM-Vorlagen), Virtualisierung, Cloud-Infrastruktur, Speicherstrukturen, Hochverfügbarkeitsdesign, Notfallwiederherstellungs-Design, Datenschutzkonzepte und Networking.
-  
-  Für diese Prüfung wird dringend empfohlen, dass Sie zusätzlich zu den SAP-Zertifizierungen über eine Azure Administrator Associate- oder Azure Solutions Architect Expert-Zertifizierung verfügen.
-subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erledigen: Migrieren Sie SAP-Workloads zu Azure; Entwerfen und Implementieren einer Infrastruktur zur Unterstützung von SAP-Workloads; Entwerfen und Implementieren von High Availability und Disaster Recovery; und Verwalten von SAP-Workloads in Azure.'
+summary: >-
+  <div><div><font color='red'><strong>Der Inhalt dieses Examens wurde am 22. November 2021 aktualisiert. Laden Sie das unten aufgeführte Dokument mit den bewerteten Qualifikationen herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div><div><font color='red'>HINWEIS: Erforderliche Mindestpunktzahl: 700. Weitere Informationen zu Prüfungsergebnissen finden Sie <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
+
+
+  Kandidaten für diese Prüfung sollten Architekten oder Ingenieure mit umfassenden Erfahrungen und Kenntnissen hinsichtlich der SAP-Systemlandschaft und der Branchenstandards sein, die spezifisch für die anfängliche Migration oder Integration und den langfristigen Betrieb einer SAP-Lösung auf Microsoft Azure gelten.
+
+
+  Zu den Aufgaben eines Architekten oder Ingenieurs für Azure für SAP-Workloads gehört es, Empfehlungen zu Diensten zu geben und Ressourcen entsprechend der optimalen Resilienz, Leistung, Skalierung, Bereitstellung, Größe und Überwachung anzupassen.
+
+
+  Architekten oder Ingenieure für Azure für SAP-Workloads arbeiten mit Cloudadministratoren, Administratoren für Clouddatenbanken und Kunden zusammen, um Lösungen zu implementieren.
+
+
+  Ein Kandidat für diese Prüfung sollte über umfangreiche Erfahrungen und Kenntnisse auf dem Gebiet von SAP-Anwendungen, SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, OS Server für SAP-Anwendungen und -Datenbanken, Azure-Portal, Azure Marketplace, Azure Resource Manager-Vorlagen (ARM-Vorlagen), Virtualisierung, Cloudinfrastruktur, Speicherstrukturen, Hochverfügbarkeitsdesign, Notfallwiederherstellungsdesign, Datensicherungskonzepte und Networking verfügen.
+
+
+  Für diese Prüfung wird dringend empfohlen, dass Sie zusätzlich zu den SAP-Zertifizierungen eine Azure Administrator Associate- oder Azure Solutions Architect Expert-Zertifizierung besitzen.
+subTitle: 'Bei dieser Prüfung wird Ihre Fähigkeit bewertet, die folgenden technischen Aufgaben auszuführen: Migrieren von SAP-Workloads zu Azure, Entwerfen und Implementieren einer Infrastruktur zur Unterstützung von SAP-Workloads, Entwerfen und Implementieren von Hochverfügbarkeit und Notfallwiederherstellung und Verwalten von SAP-Workloads in Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
 locales:
 - en
 - ja
@@ -37,11 +48,11 @@ locales:
 levels:
 - advanced
 skills:
-- Der Inhalt dieser Prüfung wurde am 24. September 2021 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich geändert hat.
-- SAP-Workloads nach Azure übertragen (25–30%)
-- Entwerfen und Implementieren einer Infrastruktur zur Unterstützung von SAP-Workloads (25–30%)
-- Design und Implementierung von High Availability und Disaster Recovery (HA/DR) (20–25%)
-- Pflegen Sie SAP-Workloads in Azure (15–20%)
+- The content of this exam was updated on November 22, 2021. Please download the exam skills outline below to see what changed.
+- Migrate SAP Workloads to Azure (25–30%)
+- Design and Implement an Infrastructure to Support SAP Workloads (25–30%)
+- Design and Implement High Availability and Disaster Recovery (HA/DR) (20–25%)
+- Maintain SAP Workloads on Azure (15–20%)
 roles:
 - solution-architect
 - devops-engineer
@@ -51,9 +62,14 @@ products:
 courses:
 - uid: course.az-120t00
 paths:
-- uid: learn.wwl.sap-certified-offerings-azure
-- uid: learn-pr.wwl.planning-azure-sap-workloads
-- uid: learn.wwl.run-azure-sap-workloads
+- uid: learn.wwl.explore-azure-for-sap-workloads
+- uid: learn.wwl.explore-foundations-of-iaas
+- uid: learn.wwl.explore-foundations-of-identity-governance
+- uid: learn.wwl.deploy-sap-azure
+- uid: learn.wwl.ensure-business-continuity-implement-disaster-recovery
+- uid: learn.wwl.migrate-sap-workloads-to-azure
+- uid: learn.wwl.monitor-troubleshoot-azure-for-sap-workloads
+- uid: learn.wwl.explore-sap-hana-azure-large-instances
 relatedCertifications:
 - related:
     uid: certification.azure-for-sap-workloads-specialty
@@ -61,13 +77,13 @@ resources:
 - title: Reise zur Zertifizierung
   description: Informieren Sie sich über Schritte zur Zertifizierung in Azure for SAP Workloads Specialty und über die verfügbaren Ressourcen, die Sie bei der Vorbereitung unterstützen können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
-- title: Informieren Sie sich über die Zertifizierungen
+- title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
   href: https://aka.ms/traincertposter
-- title: Prüfungswiederholung
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
@@ -77,9 +93,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
-- title: Prüfungsrichtlinien und häufig gestellten Fragen
+- title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
-

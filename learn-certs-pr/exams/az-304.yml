@@ -1,25 +1,43 @@
 ### YamlMime:Examination
 title: Microsoft Azure Architect Design
 metadata:
-  title: 'Exam AZ-304: Microsoft Azure Architect Design'
-  description: 'Exam AZ-304: Microsoft Azure Architect Design'
+  title: 'Examen AZ-304: Microsoft Azure Architect Design'
+  description: 'Examen AZ-304: Microsoft Azure Architect Design'
+  ms.openlocfilehash: c0cd20ce964f92577764476cd3bb451a7118c07b
+  ms.sourcegitcommit: b69a9b2b33f5f8993b5f681e1e6362b5666158e9
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/18/2021
+  ms.locfileid: "135412643"
 uid: exam.az-304
 displayName: AZ-304
-summary: |-
-  <div><div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am Freitag, 24. September 2021 aktualisiert. Bitte laden Sie das unten stehende Dokument mit den bewerteten Fähigkeiten herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div><div><font color='red'>HINWEIS: Punktzahl für einen erfolgreichen Abschluss: 700. Erfahren Sie mehr über Prüfungsergebnisse <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
+summary: >-
+  <div><div><strong>WICHTIG: </strong>DIESES EXAMEN LÄUFT AM 31. MÄRZ 2022 AB. Eine Ersatzprüfung (<a href="/learn/certifications/exams/az-305">Exam AZ-305</a>) ist in der Betaversion verfügbar. <br/><br/><strong>Die Zertifizierung <a href="/learn/certifications/azure-solutions-architect/">Microsoft Certified: Azure Solutions Architect Expert</a> wird durch Erfüllen der folgenden Anforderungen erlangt:</strong><ul>
 
-  Kandidaten für diese Prüfung sollten über Fachkenntnisse beim Entwerfen und Implementieren von Lösungen verfügen, die unter Microsoft Azure ausgeführt werden, einschließlich Aspekten wie Computer, Netzwerk, Speicher und Sicherheit. Kandidaten sollten über fortgeschrittene Kenntnisse zur Verwaltung von Azure verfügen. Kandidaten sollten über Azure-Entwicklungs- und DevOps-Prozesse Bescheid wissen.
+  <li>Bestehen der Zertifizierung <a href="/learn/certifications/azure-solutions-architect/">Microsoft Certified: Azure Solutions Architect Expert</a> oder von <a href="/learn/certifications/exams/az-305">Exam AZ-305</a>, <strong>oder</strong></li>
+
+  <li>Bestehen von <a href="/learn/certifications/exams/az-303">Exam AZ-303</a> und <a href="/learn/certifications/exams/az-304">Exam AZ-304</a> <em>(bevor diese am 31. März 2022 ablaufen)</em>, <strong>oder</strong></li>
+
+  <li>Bestehen von <a href="/learn/certifications/exams/az-303">Exam AZ-303</a> <em> (bevor diese am 31. März 2022)</em> und <a href="/learn/certifications/exams/az-305">Exam AZ-305</a> </li>
+
+  </ul>In <a href="https://aka.ms/AzureSlnsArchBlog">diesem Blogbeitrag</a> finden Sie weitere Informationen zu Zertifizierungsmöglichkeiten.<br/><br/><strong>Der Inhalt dieses Examens wurde am 23. November 2021 aktualisiert. Laden Sie das unten aufgeführte Dokument mit den bewerteten Qualifikationen herunter, um zu sehen, was sich geändert hat.</strong><br/><br/></div><div>HINWEIS: Erforderliche Punktzahl: 700. Weitere Informationen zur Prüfungsauswertung finden Sie <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.<br/><br/></div></div>
+
+
+  Kandidaten für dieses examens sollten über Fachkenntnisse beim Entwerfen und Implementieren von Lösungen verfügen, die unter Microsoft Azure ausgeführt werden, einschließlich Aspekten wie Computer, Netzwerk, Speicher und Sicherheit. Kandidat*innen sollten über fortgeschrittene Fähigkeiten im Verwalten von Azure verfügen. Kandidat*innen sollten die Entwicklung mit Azure und DevOps-Prozesse verstehen.
+
 
   Zu den Aufgaben eines Azure Solution Architects gehören die Beratung von Stakeholdern und die Umsetzung von Geschäftsanforderungen in sichere, skalierbare und zuverlässige Cloud-Lösungen.
 
+
   Ein Azure Solution Architect arbeitet mit Cloud-Administratoren, Cloud-Datenbankadministratoren und Clients zusammen, um Lösungen zu implementieren.
 
+
   Ein Kandidat für diese Prüfung sollte über umfassende Erfahrung und Kenntnisse in verschiedenen Aspekten des IT-Betriebs verfügen, einschließlich Netzwerk, Virtualisierung, Identität, Sicherheit, Geschäftskontinuität, Notfallwiederherstellung, Datenmanagement, Budgetierung und Governance. Jemand in dieser Position sollte Entscheidungen in den einzelnen Bereichen steuern, die eine Gesamtlösung beeinflussen. Darüber hinaus sollte diese Rolle über Expertenkenntnisse in der Azure-Verwaltung verfügen und Erfahrung mit der Azure-Entwicklung und den DevOps-Prozessen haben.
-subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Entwurfsüberwachung; Designidentität und Sicherheit; Design-Datenspeicherung; Design Business Continuity; und Infrastruktur entwerfen.'
+subTitle: 'In diesem Examen wird Ihre Fähigkeit abgefragt, die folgenden technischen Aufgaben zu bewältigen: Entwerfen von Überwachung, Identität und Sicherheit, Datenspeichern, Geschäftskontinuität und Infrastruktur.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWz
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-304?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-304&examname=Exam%20AZ-304:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-304
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-304&examname=Exam%20AZ-304:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-304
 locales:
 - en
 - ja
@@ -36,12 +54,13 @@ locales:
 levels:
 - advanced
 skills:
-- Der Inhalt dieser Prüfung wurde am 24. September 2021 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich geändert hat.
+- The content of this exam was updated on November 23, 2021. Please download the exam skills outline below to see what changed.
 - Design monitoring (10-15%)
 - Design identity and security (25-30%)
 - Design data storage (15-20%)
 - Design business continuity (10-15%)
 - Design infrastructure (25-30%)
+retirementDate: 03/31/2022
 roles:
 - solution-architect
 products:
@@ -67,13 +86,13 @@ resources:
 - title: Reise zur Zertifizierung
   description: Informieren Sie sich über die Schritte zur Zertifizierung als Azure Solutions Architect Expert und über die verfügbaren Ressourcen, die Ihnen bei der Vorbereitung helfen können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
-- title: Informieren Sie sich über die Zertifizierungen
+- title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
   href: https://aka.ms/traincertposter
-- title: Prüfungswiederholung
+- title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
 - title: Unterstützung bei Zertifizierungsprüfungen
@@ -83,9 +102,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
-- title: Prüfungsrichtlinien und häufig gestellten Fragen
+- title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
-

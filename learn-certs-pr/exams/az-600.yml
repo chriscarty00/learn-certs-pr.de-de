@@ -1,22 +1,30 @@
 ### YamlMime:Examination
-title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (Konfigurieren und Betreiben einer Hybrid Cloud mit Microsoft Azure Stack Hub)
 metadata:
-  title: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
-  description: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  title: 'Examen AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  description: 'Examen AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  ms.openlocfilehash: 09bcaaff1937b9bb9915d5687e0f59a70f35224c
+  ms.sourcegitcommit: aff11b575edcec99afa93eb5c014d5d58cb81e0b
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133028371"
 uid: exam.az-600
 displayName: AZ-600
-summary: |-
-  <div><div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am Freitag, 24. September 2021 aktualisiert. Bitte laden Sie das unten stehende Dokument mit den bewerteten Fähigkeiten herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div><div><font color='red'>HINWEIS: Punktzahl für einen erfolgreichen Abschluss: 700. Erfahren Sie mehr über Prüfungsergebnisse <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
+summary: >-
+  <div><div><font color='red'><strong>Der Inhalt dieses Examens wurde am 23. November 2021 aktualisiert. Laden Sie das unten aufgeführte Dokument mit den bewerteten Qualifikationen herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div><div><font color='red'>HINWEIS: Erforderliche Mindestpunktzahl: 700. Weitere Informationen zu Prüfungsergebnissen finden Sie <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.</font><br/><br/></div></div>
 
-  Kandidaten für die Prüfung AZ-600 sind Azure administrators oder Azure Stack Hub-Betreiber, die Endbenutzern oder Kunden cloud -Services aus ihrem eigenen Rechenzentrum mit Hilfe von Azure Stack Hub bereitstellen.
-  
-  Kandidaten für diese Prüfung sollten über umfangreiche Erfahrung in der Verwaltung und dem Betrieb von Azure Stack Hub-Umgebungen verfügen. Sie sollten ein umfassendes Verständnis von Azure haben und über Kenntnisse in den Bereichen Virtualisierung, Netzwerk und Identitätsmanagement verfügen. Sie müssen verstehen, wie Azure Stack Hub DevOps-Prozesse und das hybride Entwicklungsmodellsteh ermöglicht.
-subTitle: 'Diese Prüfung misst Ihre Fähigkeit, folgende technische Aufgaben zu erfüllen: Serviceleistungen erbringen; Rechenzentrumsintegration implementieren; Identität und Zugang verwalten und Infrastruktur verwalten.'
+
+  Kandidat*innen für das Examen AZ-600 sind Azure-Administrator*innen und Azure Stack Hub-Betreiber*innen, die Azure-Stack Hub nutzen, um ihren Endbenutzern oder Kunden Clouddienste innerhalb ihres eigenen Rechenzentrums zur Verfügung zu stellen.
+
+
+  Kandidat*innen für dieses Examen sollten über umfangreiche Erfahrung im Verwalten und Betreiben von Azure Stack Hub-Umgebungen verfügen. Sie sollten über ein fundiertes Verständnis von Azure sowie über Kenntnisse in den Bereichen Virtualisierung, Netzwerke und Identitätsverwaltung verfügen. Sie sollten auch wissen, wie Azure Stack Hub DevOps-Prozesse und das hybride Entwicklungsmodell ermöglicht.
+subTitle: 'In diesem Examen wird Ihre Fähigkeit abgefragt, die folgenden technischen Aufgaben zu bewältigen: Bereitstellen von Diensten, Implementieren von Rechenzentrumsintegrationen, Verwalten von Identität und Zugriff sowie Verwalten der Infrastruktur.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Lwq9
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=de-de&examcode=AZ-600&examname=Exam%20AZ-600:%20Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-600
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-600&examname=Exam%20AZ-600:%20Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-600
 locales:
 - en
 - ja
@@ -33,11 +41,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Der Inhalt dieser Prüfung wurde am 24. September 2021 aktualisiert. Bitte laden Sie die unten stehende Übersicht über die Prüfungskompetenzen herunter, um zu sehen, was sich geändert hat.
-- Erbringung von Serviceleistungen (30-35%)
-- Implementierung der Rechenzentrumsintegration (15-20%)
-- Identität und Zugriff verwalten (10-15%)
-- Infrastruktur verwalten (30-35%)
+- The content of this exam was updated on November 23, 2021. Please download the exam skills outline below to see what changed.
+- Provide services (30-35%)
+- Implement data center integration (15-20%)
+- Manage identity and access (10-15%)
+- Manage infrastructure (30-35%)
 roles:
 - administrator
 products:
@@ -56,26 +64,26 @@ relatedCertifications:
     uid: certification.azure-stack-hub-operator
 resources:
 - title: Der Weg zur Zertifizierung
-  description: Informieren Sie sich über die Schritte zur Zertifizierung als Azure Stack Hub Operator Associate und die verfügbaren Ressourcen, die Sie bei der Vorbereitung unterstützen.
+  description: Informieren Sie sich über die Schritte zur Zertifizierung als Azure Stack Hub Operator Associate und die verfügbaren Ressourcen, die Sie bei der Vorbereitung unterstützen können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKD9e
-- title: Informieren Sie sich über die Zertifizierungen
+- title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://aka.ms/TrainingCertDeck
-- title: Zertifizierungsposter
-  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+- title: Zertifizierungsübersicht
+  description: Hier finden Sie eine Übersicht über die Basiszertifizierungen, die rollenbasierten Zertifizierungen und die Specialty-Zertifizierungen.
   href: https://aka.ms/traincertposter
-- title: Prüfungswiederholung
-  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+- title: Examenswiederholung
+  description: Hier finden Sie zwei großartige Angebote, mit denen Sie Ihre Erfolgschancen erhöhen können.
   href: ../deals.md
-- title: Unterstützung bei Zertifizierungsprüfungen
+- title: Unterstützung bei Zertifizierungsexamen
   description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+- title: Beantragen von Hilfsmitteln
+  description: Hier erfahren Sie mehr über das Beantragen von Hilfsmitteln für Ihr Examen.
   href: ../request-accommodations.md
-- title: Prüfungsrichtlinien und häufig gestellten Fragen
-  description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
+- title: Prüfungsrichtlinien und FAQs
+  description: Lesen Sie die Examensrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md

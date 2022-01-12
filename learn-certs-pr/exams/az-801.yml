@@ -1,29 +1,38 @@
 ### YamlMime:Examination
-title: Configuring Windows Server Hybrid Advanced Services (beta)
+title: Konfigurieren von Windows Server Hybrid Advanced Services (beta)
 metadata:
-  title: 'Exam AZ-801: Configuring Windows Server Hybrid Advanced Services (beta)'
-  description: 'Exam AZ-801: Configuring Windows Server Hybrid Advanced Services (beta)'
+  title: 'Examen AZ-801: Konfigurieren von Windows Server Hybrid Advanced Services (beta)'
+  description: 'Examen AZ-801: Konfigurieren von Windows Server Hybrid Advanced Services (beta)'
+  ms.openlocfilehash: 7e1e339241617cbb3202463538856dbd638450a6
+  ms.sourcegitcommit: 9eca3b739709f987540c0877a64f38bbbe27bf50
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/07/2021
+  ms.locfileid: "133989071"
 uid: exam.az-801
 displayName: AZ-801
-summary: |-
-  Kandidaten für diese Prüfung konfigurieren fortgeschrittene Windows Server -Dienste unter Verwendung von On-Premises-, Hybrid- und Cloud-Technologien. Diese Spezialisten sollten über Fachwissen bei der Implementierung und Verwaltung von lokalen und hybriden Lösungen verfügen, einschließlich der Durchführung von Aufgaben in den Bereichen Sicherheit, Migration, Überwachung, Hochverfügbarkeit, Fehlerbehebung und Notfallwiederherstellung. Sie verwenden Verwaltungsinstrumente und -technologien wie z. B. Windows Admin Center, PowerShell, Azure Arc, Azure Automation Update Management, Microsoft Defender for Identity, Azure Security Center, Azure Migrate und Azure Monitor.
-  
-  Kandidaten für diese Zertifizierung sollten über umfangreiche Erfahrungen in der Arbeit mit Windows Server Betriebssystemen haben.
-  
-  <div><br/><font color='red'><strong>HINWEIS: Diese Prüfung wird im Dezember 2021 verfügbar sein.</strong></font></div>
-subTitle: 'Diese Prüfung wird im Dezember 2021 verfügbar sein. Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu bewältigen: Sichern von Windows Server  On-Premises und hybriden Infrastrukturen; Implementieren und Verwalten von Windows Server  Hochverfügbarkeit; Implementieren von Disaster Recovery; Migrieren von Servern und Workloads; und Überwachung und Fehlerbehebung von Windows Server Umgebungen.'
+summary: >-
+  Kandidat*innen für dieses Examen konfigurieren fortgeschrittene Windows Server-Dienste unter Verwendung von lokalen, Hybrid- und Cloudtechnologien. Diese Spezialist*innen sollten über Fachwissen beim Implementieren und Verwalten von lokalen und hybriden Lösungen verfügen, einschließlich dem Ausführen von Aufgaben in den Bereichen Sicherheit, Migration, Überwachung, Hochverfügbarkeit, Problembehandlung und Notfallwiederherstellung. Sie verwenden Verwaltungstools und -technologien wie z. B. Windows Admin Center, PowerShell, Azure Arc, die Azure Automation-Updateverwaltung, Microsoft Defender for Identity, Azure Security Center, den Azure Migrate und Azure Monitor.
+
+
+  Kandidaten für diese Zertifizierung sollten über umfangreiche Erfahrungen in der Arbeit mit Windows Server-Betriebssystemen haben.
+
+
+  <div><br/><font color='red'><strong>HINWEIS: Erforderliche Punktzahl: 700. Weitere Informationen zu den Prüfungsnoten finden Sie <a href="/learn/certifications/beta-exams">hier</a>. Betaprüfungen werden nicht sofort bewertet, da wir Daten zur Qualität der Fragen und der Prüfung sammeln. Erfahren Sie mehr <a href="/learn/certifications/beta-exams">über den Wert und die Wichtigkeit von Betaprüfungen</a>.</strong></font></div>
+subTitle: 'In diesem Examen wird Ihre Fähigkeit bewertet, die folgenden technischen Aufgaben zu bewältigen: Sichern von lokalen und hybriden Windows Server-Infrastrukturen, Implementieren und Verwalten von Windows Server-Hochverfügbarkeit, Implementieren der Notfallwiederherstellung, Migrieren von Servern und Workloads sowie Überwachen und Behandeln von Problemen von Windows Server-Umgebungen.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKPgH
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-801&examname=Exam%20AZ-801:%20Configuring%20Windows%20Server%20Hybrid%20Advanced%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-801
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Sichern von Windows Server Vor-Ort- und Hybrid-Infrastrukturen (25-30%)
-- Umsetzung und Verwaltung des Windows Server Hochverfügbarkeit (10-15%)
-- Implementierung der Notfallwiederherstellung (10-15%)
-- Server und Workloads migrieren (20-25%) 
-- Überwachung und Fehlerbehebung Windows Server Umgebungen (20-25%)
+- Secure Windows Server on-premises and hybrid infrastructures (25-30%)
+- Implement and manage Windows Server high availability (10-15%)
+- Implement disaster recovery (10-15%)
+- Migrate servers and workloads (20-25%)
+- Monitor and troubleshoot Windows Server environments (20-25%)
 roles:
 - administrator
 - identity-access-admin
@@ -54,24 +63,24 @@ relatedCertifications:
 - related:
     uid: certification.windows-server-hybrid-administrator
 resources:
-- title: Informieren Sie sich über die Zertifizierungen
+- title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://aka.ms/TrainingCertDeck
-- title: Zertifizierungsposter
-  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+- title: Zertifizierungsübersicht
+  description: Hier finden Sie eine Übersicht über die Basiszertifizierungen, die rollenbasierten Zertifizierungen und die Specialty-Zertifizierungen.
   href: https://aka.ms/traincertposter
-- title: Prüfungswiederholung
-  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+- title: Examenswiederholung
+  description: Hier finden Sie zwei großartige Angebote, mit denen Sie Ihre Erfolgschancen erhöhen können.
   href: ../deals.md
-- title: Unterstützung bei Zertifizierungsprüfungen
+- title: Unterstützung bei Zertifizierungsexamen
   description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
   href: ../help.md
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+- title: Beantragen von Hilfsmitteln
+  description: Hier erfahren Sie mehr über das Beantragen von Hilfsmitteln für Ihr Examen.
   href: ../request-accommodations.md
-- title: Prüfungsrichtlinien und häufig gestellten Fragen
-  description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
+- title: Prüfungsrichtlinien und FAQs
+  description: Lesen Sie die Examensrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md

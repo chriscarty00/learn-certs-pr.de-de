@@ -2,27 +2,37 @@
 title: 'Microsoft Certified: Azure Stack Hub Operator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Stack Hub Operator Associate'
-  description: 'Kandidaten für die Azure Stack Hub Operator Associate-Zertifizierung sind Azure-Administratoren oder Azure Stack Hub-Betreiber, die Endbenutzern oder Kunden mi Hilfe von Azure Stack Hub Cloud-Services aus ihrem eigenen Rechenzentrum bereitstellen.'
+  description: Die Kandidat*innen für die Zertifizierung „Azure Stack Hub Operator Associate“ sind Azure-Administrator*innen oder Azure Stack Hub-Operator*innen, die Clouddienste für Endbenutzer*innen oder Kund*innen von ihrem eigenen Rechenzentrum aus mithilfe von Azure Stack Hub bereitstellen.
+  ms.openlocfilehash: af52f02246e8b78e9d56910e1b0b715872797cf5
+  ms.sourcegitcommit: aff11b575edcec99afa93eb5c014d5d58cb81e0b
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/24/2021
+  ms.locfileid: "133028340"
 uid: certification.azure-stack-hub-operator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am 24. September 2021 aktualisiert. Bitte laden Sie das Dokument über die gemessenen Fähigkeiten auf der <a href="/learn/certifications/exams/az-600">AZ-600 Prüfungsseite herunter</a> um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
+summary: >-
+  <div><font color='red'><strong>Der Inhalt dieser Zertifizierung wurde am 23. November 2021 aktualisiert. Laden Sie das Dokument zu den bewerteten Qualifikationen von der <a href="/learn/certifications/exams/az-600">Seite für das Examen AZ-600</a> herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
 
-  Kandidaten für die Azure Stack Hub Operator Associate-Zertifizierung sind Azure-Administratoren oder Azure Stack Hub-Betreiber, die Endbenutzern oder Kunden mi Hilfe von Azure Stack Hub Cloud-Services aus ihrem eigenen Rechenzentrum bereitstellen.
-  
-  Ihre Aufgabe besteht darin, die Azure Stack Hub-Infrastruktur zu planen, bereitzustellen, zu verpacken, zu aktualisieren und zu warten. Sie bieten auch hybride Cloud-Ressourcen und angeforderte Services an und verwalten die Infrastruktur-als-Service (IaaS) und die Plattform-als- Service (PaaS).
-  
-  Azure Security-Engineers sind häufig Teil eines größeren Teams, das sich mit Cloud-basierten Verwaltungs- und Sicherheitsumgebungen oder Hybridumgebungen als Teil einer kompletten Infrastruktur befasst.
-  
-  Kandidaten für diese Zertifizierung sollten über umfangreiche Erfahrung in der Verwaltung und dem Betrieb von Azure Stack Hub-Umgebungen verfügen. Sie sollten ein umfassendes Verständnis von Azure haben und über Kenntnisse in den Bereichen Virtualisierung, Netzwerk und Identitätsmanagement verfügen. Sie müssen verstehen, wie Azure Stack Hub DevOps-Prozesse und das hybride Entwicklungsmodellsteh ermöglicht.
-subTitle: Kandidaten für die Azure Stack Hub Operator Associate-Zertifizierung sind Azure-Administratoren oder Azure Stack Hub-Betreiber, die Endbenutzern oder Kunden mi Hilfe von Azure Stack Hub Cloud-Services aus ihrem eigenen Rechenzentrum bereitstellen.
+
+  Die Kandidat*innen für die Zertifizierung „Azure Stack Hub Operator Associate“ sind Azure-Administrator*innen oder Azure Stack Hub-Operator*innen, die Clouddienste für Endbenutzer*innen oder Kund*innen von ihrem eigenen Rechenzentrum aus mithilfe von Azure Stack Hub bereitstellen.
+
+
+  Zu ihren Aufgaben gehören das Planen, Bereitstellen, Packen, Aktualisieren und Warten der Azure Stack Hub-Infrastruktur. Außerdem bieten sie Hybrid Cloud-Ressourcen und angeforderte Dienste an und verwalten Infrastructure-as-a-Service (IaaS) und Platform as a Service (PaaS).
+
+
+  Sie sind häufig Teil eines größeren Teams, das für die cloudbasierte Verwaltung und Sicherheit oder für Hybridumgebungen als Teil einer umfassenden Infrastruktur zuständig ist.
+
+
+  Die Kandidat*innen für dieses Examen sollten über umfangreiche Erfahrung mit der Verwaltung und dem Betrieb von Azure Stack Hub-Umgebungen verfügen. Sie sollten über ein fundiertes Verständnis von Azure sowie über Kenntnisse in den Bereichen Virtualisierung, Netzwerke und Identitätsverwaltung verfügen. Sie sollten auch wissen, wie Azure Stack Hub DevOps-Prozesse und das hybride Entwicklungsmodell ermöglicht.
+subTitle: Die Kandidat*innen für die Zertifizierung „Azure Stack Hub Operator Associate“ sind Azure-Administrator*innen oder Azure Stack Hub-Operator*innen, die Clouddienste für Endbenutzer*innen oder Kund*innen von ihrem eigenen Rechenzentrum aus mithilfe von Azure Stack Hub bereitstellen.
 levels:
 - intermediate
 skills:
-- Erbringung von Serviceleistungen
-- Implementierung der Rechenzentrumsintegration
-- Identität und Zugriff verwalten
-- Infrastruktur verwalten
+- Provide services
+- Implement data center integration
+- Manage identity and access
+- Manage infrastructure
 roles:
 - administrator
 type: role-based
@@ -35,26 +45,24 @@ products:
 - azure-app-service
 - azure-event-hubs
 - azure-active-directory
-courses:
-- uid: course.az-600t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4LyWu
 exams:
 - uid: exam.az-600
 resources:
-- title: Azure-Zertifizierungsplakat
-  description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Azure an.
+- title: Azure-Zertifizierungsübersicht
+  description: Hier finden Sie eine Übersicht über die Basiszertifizierungen, die rollenbasierten Zertifizierungen und die Specialty-Zertifizierungen für Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Der Weg zur Zertifizierung
-  description: Informieren Sie sich über die Schritte zur Zertifizierung als Azure Stack Hub Operator Associate und die verfügbaren Ressourcen, die Sie bei der Vorbereitung unterstützen.
+  description: Informieren Sie sich über die Schritte zur Zertifizierung als Azure Stack Hub Operator Associate und die verfügbaren Ressourcen, die Sie bei der Vorbereitung unterstützen können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKD9e
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://aka.ms/TrainingCertDeck
-- title: Zertifizierungsposter
-  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+- title: Zertifizierungsübersicht
+  description: Hier finden Sie eine Übersicht über die Basiszertifizierungen, die rollenbasierten Zertifizierungen und die Specialty-Zertifizierungen.
   href: https://aka.ms/traincertposter
-- title: Exam Replay
-  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+- title: Examenswiederholung
+  description: Hier finden Sie zwei großartige Angebote, mit denen Sie Ihre Erfolgschancen erhöhen können.
   href: ../deals.md
 - title: Unterstützung von Zertifizierungen
   description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
@@ -62,6 +70,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Fordern Sie Ihren Microsoft-Zertifizierungsbadge an, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md

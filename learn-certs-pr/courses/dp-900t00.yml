@@ -1,146 +1,179 @@
 ### YamlMime:Course
-title: Microsoft Azure-Datengrundlagen
+title: 'Microsoft Azure-Datengrundlagen '
 metadata:
-  title: 'Kurs DP-900T00-A: Microsoft Azure Data Fundamentals'
-  description: 'Kurs DP-900T00-A: Microsoft Azure Data Fundamentals'
-  ms.openlocfilehash: 59c00af4e02f5e835431dc756f79193da4b5380c
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  title: 'Course DP-900T00-A: Microsoft Azure Data Fundamentals '
+  description: 'Course DP-900T00-A: Microsoft Azure Data Fundamentals '
+  ms.openlocfilehash: 30a879d12a0ebad9508f920812add478f391f2bf
+  ms.sourcegitcommit: df42898ed639d3feba24f26e3268c74b3950df7d
+  ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132107475"
+  ms.lasthandoff: 11/17/2021
+  ms.locfileid: "132689164"
 uid: course.dp-900t00
-courseNumber: DP-900T00-A
+courseNumber: DP-900T00
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Beschreiben der wichtigsten Datenkonzepte in Azure
-- skill: Erläutern der Konzepte für relationale Daten in Azure
-- skill: Erläutern der Konzepte für nicht relationale Daten in Azure
-- skill: Identifizieren von Komponenten eines modernen Daten-Warehouses in Azure
+- skill: Erläutern der Konzepte von relationalen Daten in Azure
+- skill: Erläutern der Konzepte von nicht relationalen Daten in Azure
+- skill: Identifizieren von Komponenten eines modernen Data Warehouse in Azure
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
-- ja
-- zh-cn
-- ko
-- de
-- fr
-- es
-- pt-br
-- ru
-- zh-tw
-- it
 levels:
 - beginner
 roles:
 - data-engineer
-- database-administrator
 products:
 - azure
 exams:
 - uid: exam.dp-900
 summary: >-
-  In diesem Kurs lernen die Teilnehmer die Grundlagen von Datenbankkonzepten in einer Cloud-Umgebung kennen, erhalten grundlegende Kenntnisse in Cloud-Daten-Services und bauen grundlegende Kenntnisse über Cloud-Daten-Services in Microsoft Azure auf. Die Teilnehmer identifizieren und beschreiben Kerndatenkonzepte wie relationale, nicht relationale, Big Data und Analysen und untersuchen, wie diese Technologie in Microsoft Azure implementiert wird. Sie werden die Rollen, Aufgaben und Verantwortlichkeiten in der Datenwelt untersuchen. Die Teilnehmer werden Angebote für relationale Daten untersuchen, relationale Datenbanken bereitstellen und einsetzen sowie relationale Daten über Cloud-Datenlösungen mit Microsoft Azure abfragen. Sie werden nicht-relationale Datenangebote untersuchen, nicht-relationale Datenbanken sowie nicht-relationale Datenspeicher für Microsoft Azure bereitstellen und einsetzen. Die Teilnehmer lernen die Verarbeitungsoptionen kennen, die zum Erstellen von Datenanalyselösungen in Azure verfügbar sind. Sie werden Azure Synapse Analytics, Azure Databricks und Azure HDInsight untersuchen. Die Teilnehmer lernen, was Power BI ist, einschließlich seiner Bausteine und wie diese zusammenarbeiten.
+  In diesem Kurs lernen die Kursteilnehmer*innen die Grundlagen von Datenbankkonzepten in einer Cloudumgebung kennen, erwerben grundlegende Qualifikationen im Umgang mit Clouddatendiensten und erarbeiten sich Grundkenntnisse zu Clouddatendiensten in Microsoft Azure. Die Kursteilnehmer*innen identifizieren und beschreiben wichtige Datenkonzepte wie relationale und nicht relationale Daten, Big Data und Analysen, und untersuchen, wie diese Technologie in Microsoft Azure implementiert wird. Sie untersuchen die Rollen, Aufgaben und Zuständigkeiten in der Welt der Daten. Die Kursteilnehmer*innen beschäftigen sich mit relationalen Datenangeboten, dem Bereitstellen relationaler Datenbanken sowie dem Abfragen relationaler Daten über Cloud-Datenlösungen mit Microsoft Azure. Es werden nicht relationale Datenangebote, das Bereitstellen nicht relationaler Datenbanken sowie nicht relationaler Datenspeicher mit Microsoft Azure behandelt. Die Kursteilnehmer*innen lernen die Verarbeitungsoptionen kennen, die beim Erstellen von Datenanalyselösungen in Azure verfügbar sind. Sie beschäftigen sich mit Azure Synapse Analytics, Azure Databricks und Azure HDInsight. Die Kursteilnehmer*innen erfahren, was Power BI ist, wobei auch auf die Bausteine des Diensts eingegangen wird, sowie darauf, wie diese zusammenarbeiten.
 
 
   #### <a name="audience-profile"></a>Zielgruppenprofil
 
-  Die Teilnehmer an diesem Kurs sind Personen, die die Grundlagen von Datenbankkonzepten in einer Cloud-Umgebung erlernen, grundlegende Kenntnisse in Cloud-Daten-Services erwerben und ihr grundlegendes Wissen über Cloud-Daten-Services in Microsoft Azure aufbauen möchten.
-prerequisitesSection: "Vor diesem Kurs ist keine weitere Zertifizierung erforderlich. Erfolgreiche Kursteilnehmer*innen von Azure Data Fundamentals beginnen mit einigen grundlegenden Kenntnissen zu Computing- und Internetkonzepten und Interesse daran, Erkenntnisse aus Daten zu gewinnen.\n\nInsbesondere: \n-   Erfahrung im Verwenden eines Webbrowsers, z. B. [Microsoft Edge](https://support.microsoft.com/microsoft-edge?ocid=DMC-End-User-Support&ui).\n-   Vertrautheit mit grundlegenden datenbezogenen Konzepten, z. B. Arbeiten mit Datentabellen in einem Arbeitsblatt und Visualisieren von Daten mithilfe von Diagrammen.\n-   Bereitschaft, durch praktische Erfahrungen zu lernen."
+
+  Die Zielgruppe dieses Kurses sind Personen, die die Grundlagen von Datenbankkonzepten in einer Cloudumgebung erlernen, grundlegende Qualifikationen in Clouddatendiensten erwerben und sich Grundkenntnisse zu Clouddatendiensten in Microsoft Azure erarbeiten möchten.
+prerequisitesSection: >-
+  Vor diesem Kurs ist keine weitere Zertifizierung erforderlich. Erfolgreiche Kursteilnehmer*innen von Azure Data Fundamentals beginnen mit einigen grundlegenden Kenntnissen zu Computing- und Internetkonzepten und Interesse daran, Erkenntnisse aus Daten zu gewinnen.
+
+
+  Dies betrifft insbesondere:&nbsp; &nbsp;
+   * Erfahrung im Verwenden eines Webbrowsers, z. B. [Microsoft Edge](https://support.microsoft.com/microsoft-edge?ocid=DMC-End-User-Support&amp;ui).
+   * Vertrautheit mit grundlegenden datenbezogenen Konzepten, z. B. Arbeiten mit Datentabellen in einem Arbeitsblatt und Visualisieren von Daten mithilfe von Diagrammen.
+   * Bereitschaft, durch praktische Übungen zu lernen
 outlineSection: >-
-  ### <a name="module-158-explore-core-data-concepts"></a>Modul 1: Untersuchen der wichtigsten Datenkonzepte
+  ### <a name="module-1-explore-core-data-concepts"></a>Modul 1: Untersuchen der wichtigsten Datenkonzepte
 
-  Die Teilnehmer lernen die Grundlagen von Datenbankkonzepten in einer Cloud-Umgebung kennen, erhalten grundlegende Kenntnisse in Cloud-Datendiensten und bauen ihre grundlegenden Kenntnisse über Cloud-Datendienste in Microsoft Azure auf. Die Teilnehmer identifizieren und beschreiben Kerndatenkonzepte wie relationale, nicht-relationale, Big Data und Analysen und untersuchen, wie man diese Technologie in Microsoft Azure implementieren kann. Die Schüler lernen die Rollen, Aufgaben und Verantwortlichkeiten in der Datenwelt kennen.
+
+  Die Kursteilnehmer*innen lernen die Grundlagen von Datenbankkonzepten in einer Cloudumgebung kennen, erwerben grundlegende Qualifikationen im Umgang mit Clouddatendiensten und erarbeiten sich Grundkenntnisse zu Clouddatendiensten in Microsoft Azure. Die Kursteilnehmer*innen identifizieren und beschreiben wichtige Datenkonzepte wie relationale und nicht relationale Daten, Big Data und Analysen, und untersuchen, wie man diese Technologie in Microsoft Azure implementieren kann. Die Kursteilnehmer*innen untersuchen die Rollen, Aufgaben und Zuständigkeiten in der Welt der Daten.
+
 
   #### <a name="lessons"></a>Lektionen
 
-  - Wichtige Datenkonzepte
 
-  - Untersuchen von Rollen und Verantwortlichkeiten in der Datenwelt
-
-  - Konzepte von nicht relationalen Daten
-
-  - Erkunden der Konzepte nicht relationaler Daten
-
-  - Erkunden der Konzepte der Datenanalyse
+  *   Wichtige Datenkonzepte
 
 
-  Nach Abschluss dieses Moduls können die Schüler:
+  *   Untersuchen von Rollen und Verantwortlichkeiten in der Datenwelt
 
-  - Sie verfügen über grundlegende Kenntnisse über Clouddatendienste in Azure.
 
-  - Sie identifizieren und beschreiben Kerndatenkonzepte wie relationale Daten, nicht relationale Daten, Big Data und Analysen.
+  *   Konzepte von nicht relationalen Daten
 
-  - Sie erläutern, wie man diese Technologie mit Azure implementiert.
+
+  *   Erkunden der Konzepte nicht relationaler Daten
+
+
+  *   Erkunden der Konzepte der Datenanalyse
 
 
 
-  ### <a name="module-258-explore-relational-data-in-azure"></a>Modul 2: Untersuchen relationaler Daten in Azure
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer*innen zu Folgendem in der Lage sein:
 
-  Die Teilnehmer lernen die Grundlagen von Datenbankkonzepten in einer Cloud-Umgebung kennen, erhalten grundlegende Kenntnisse in Cloud-Datendiensten und bauen ihre grundlegenden Kenntnisse über Cloud-Datendienste in Microsoft Azure auf. Die Teilnehmer werden Angebote für relationale Daten untersuchen, relationale Datenbanken bereitstellen und einsetzen sowie relationale Daten über Cloud-Datenlösungen mit Azure abfragen.
+
+  *   Sie verfügen über grundlegende Kenntnisse über Clouddatendienste in Azure.
+
+
+  *   Sie identifizieren und beschreiben Kerndatenkonzepte wie relationale Daten, nicht relationale Daten, Big Data und Analysen.
+
+
+  *   Sie erläutern, wie man diese Technologie mit Azure implementiert.
+
+
+
+  ### <a name="module-2-explore-relational-data-in-azure"></a>Modul 2: Untersuchen relationaler Daten in Azure
+
+
+  Die Kursteilnehmer*innen lernen die Grundlagen von Datenbankkonzepten in einer Cloudumgebung kennen, erwerben grundlegende Qualifikationen im Umgang mit Clouddatendiensten und erarbeiten sich Grundkenntnisse zu Clouddatendiensten in Microsoft Azure. Die Kursteilnehmer*innen beschäftigen sich mit relationalen Datenangeboten, dem Bereitstellen relationaler Datenbanken sowie dem Abfragen relationaler Daten über Cloud-Datenlösungen mit Microsoft Azure.
+
 
   #### <a name="lessons"></a>Lektionen
 
-  - Erkunden relationaler Datendienste in Azure
 
-  - Einführung in das Bereitstellen von relationalen Datenbankdiensten in Azure
-
-  - Abfragen relationaler Daten in Azure
+  *   Erkunden relationaler Datendienste in Azure
 
 
-  Nach Abschluss dieses Moduls können die Schüler:
+  *   Einführung in das Bereitstellen von relationalen Datenbankdiensten in Azure
 
-  - Sie beschreiben relationale Datendienste in Azure.
 
-  - Sie erläutern die Bereitstellung relationaler Datenbanken in Azure.
-
-  - Sie fragen relationale Daten über Clouddatenlösungen in Azure ab.
+  *   Abfragen relationaler Daten in Azure
 
 
 
-  ### <a name="module-358-explore-non-relational-data-in-azure"></a>Modul 3: Untersuchen nicht relationaler Daten in Azure
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer*innen zu Folgendem in der Lage sein:
 
-  Die Teilnehmer lernen die Grundlagen von Datenbankkonzepten in einer Cloud-Umgebung kennen, erhalten grundlegende Kenntnisse in Cloud-Datendiensten und bauen ihre grundlegenden Kenntnisse über Cloud-Datendienste in Azure auf. Teilnehmer*innen untersuchen nicht relationale Datendienste, das Bereitstellen von nicht relationale Datenbanken sowie nicht relationale Datenspeicher mit Microsoft Azure.
+
+  *   Sie beschreiben relationale Datendienste in Azure.
+
+
+  *   Sie erläutern die Bereitstellung relationaler Datenbanken in Azure.
+
+
+  *   Sie fragen relationale Daten über Clouddatenlösungen in Azure ab.
+
+
+
+  ### <a name="module-3-explore-non-relational-data-in-azure"></a>Modul 3: Untersuchen nicht relationaler Daten in Azure
+
+
+  Die Kursteilnehmer*innen lernen die Grundlagen von Datenbankkonzepten in einer Cloudumgebung kennen, erwerben grundlegende Qualifikationen im Umgang mit Clouddatendiensten und erarbeiten sich Grundkenntnisse zu Clouddatendiensten in Azure. Teilnehmer*innen untersuchen nicht relationale Datendienste, das Bereitstellen von nicht relationale Datenbanken sowie nicht relationale Datenspeicher mit Microsoft Azure.
+
 
   #### <a name="lessons"></a>Lektionen
 
-  - Untersuchen nicht relationaler Datendienste in Azure
 
-  - Untersuchen der Bereitstellung nicht relationaler Datendienste in Azure
-
-  - Verwalten nicht relationaler Datenspeicher in Azure
+  *   Untersuchen nicht relationaler Datendienste in Azure
 
 
-  Nach Abschluss dieses Moduls können die Schüler:
+  *   Untersuchen der Bereitstellung nicht relationaler Datendienste in Azure
 
-  - Sie untersuchen nicht relationale Datendienste in Azure.
 
-  - Sie erläutern die Bereitstellung nicht relationaler Datenbanken in Azure.
-
-  - Sie beschreiben nicht relationale Datenspeicher in Azure.
+  *   Verwalten nicht relationaler Datenspeicher in Azure
 
 
 
-  ### <a name="module-458-explore-modern-data-warehouse-analytics-in-azure"></a>Modul 4: Untersuchen moderner Data Warehouse-Analysen in Azure
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer*innen zu Folgendem in der Lage sein:
 
-  Die Teilnehmer lernen die Grundlagen von Datenbankkonzepten in einer Cloud-Umgebung kennen, erhalten grundlegende Kenntnisse in Cloud-Datendiensten und bauen ihre grundlegenden Kenntnisse über Cloud-Datendienste in Azure auf. Die Teilnehmer lernen die Verarbeitungsoptionen kennen, die zum Erstellen von Datenanalyselösungen in Azure verfügbar sind. Die Teilnehmer lernen Azure Synapse Analytics, Azure Databricks und Azure HDInsight kennen. Die Teilnehmer lernen, was Power BI ist, einschließlich seiner Bausteine und wie diese zusammenarbeiten.
+
+  *   Sie untersuchen nicht relationale Datendienste in Azure.
+
+
+  *   Sie erläutern die Bereitstellung nicht relationaler Datenbanken in Azure.
+
+
+  *   Sie beschreiben nicht relationale Datenspeicher in Azure.
+
+
+
+  ### <a name="module-4-explore-modern-data-warehouse-analytics-in-azure"></a>Modul 4: Untersuchen moderner Data Warehouse-Analysen in Azure
+
+
+  Die Kursteilnehmer*innen lernen die Grundlagen von Datenbankkonzepten in einer Cloudumgebung kennen, erwerben grundlegende Qualifikationen im Umgang mit Clouddatendiensten und erarbeiten sich Grundkenntnisse zu Clouddatendiensten in Azure. Die Kursteilnehmer*innen lernen die Verarbeitungsoptionen kennen, die beim Erstellen von Datenanalyselösungen in Azure verfügbar sind. Die Kursteilnehmer*innen beschäftigen sich mit Azure Synapse Analytics, Azure Databricks und Azure HDInsight. Die Kursteilnehmer*innen erfahren, was Power BI ist, wobei auch auf die Bausteine des Diensts eingegangen wird, sowie darauf, wie diese zusammenarbeiten.
+
 
   #### <a name="lessons"></a>Lektionen
 
-  - Informationen zu den Komponenten eines modernen Data Warehouse
 
-  - Erkunden der Datenerfassung in Azure
-
-  - Erkunden der Datenspeicherung und -verarbeitung in Azure
-
-  - Erste Schritte beim Erstellen mit Power BI
+  *   Informationen zu den Komponenten eines modernen Data Warehouse
 
 
-  Nach Abschluss dieses Moduls können die Schüler:
+  *   Erkunden umfangreicher Datenanalyse
 
-  - Sie beschreiben die verfügbaren Verarbeitungsoptionen zum Kompilieren von Datenanalyselösungen in Azure.
 
-  - Sie beschreiben Azure Synapse Analytics, Azure Databricks und Azure HDInsight.
+  *   Erste Schritte beim Erstellen mit Power BI
 
-  - Sie erläutern, was Microsoft Power BI ist, einschließlich seiner Bausteine und wie diese zusammenarbeiten:
+
+
+  Nach Abschluss dieses Moduls werden die Kursteilnehmer*innen zu Folgendem in der Lage sein:
+
+
+  *   Sie beschreiben die verfügbaren Verarbeitungsoptionen zum Kompilieren von Datenanalyselösungen in Azure.
+
+
+  *   Sie beschreiben Azure Synapse Analytics, Azure Databricks und Azure HDInsight.
+
+
+  *   Sie erläutern, was Microsoft Power BI ist, einschließlich seiner Bausteine und wie diese zusammenarbeiten:

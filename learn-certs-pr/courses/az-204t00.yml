@@ -1,57 +1,27 @@
 ### YamlMime:Course
-title: Developing solutions for Microsoft Azure
+title: Developing Solutions for Microsoft Azure
 metadata:
-  title: 'AZ-204T00-A: Developing Solutions for Microsoft Azure'
-  description: 'AZ-204T00-A: Developing Solutions for Microsoft Azure'
-  iltScheduling: true
-  ms.openlocfilehash: c7951ac64f0ef14d31a5c10ee44ef0420888a7ac
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  title: 'Course AZ-204T00--A: Developing Solutions for Microsoft Azure'
+  description: 'Course AZ-204T00--A: Developing Solutions for Microsoft Azure'
+  ms.openlocfilehash: 85e3bb7e169f20611bd3fbec979b223ff8de9c6a
+  ms.sourcegitcommit: c14c3a1e24239ac3e56e978ed347f6d7d24e48d3
+  ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132107690"
+  ms.lasthandoff: 12/20/2021
+  ms.locfileid: "135417241"
 uid: course.az-204t00
-courseNumber: AZ-204T00-A
+courseNumber: AZ-204T00
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
-- ja
-- zh-cn
-- ko
 levels:
 - intermediate
 roles:
 - developer
 products:
 - azure
-- azure-active-directory
-- azure-api-management
-- azure-app-service
-- azure-application-gateway
-- azure-automation
-- azure-cdn
-- azure-clis
-- azure-cloud-shell
-- azure-container-instances
-- azure-container-registry
-- azure-cosmos-db
-- azure-event-grid
-- azure-event-hubs
-- azure-functions
-- azure-key-vault
-- azure-logic-apps
-- azure-monitor
-- azure-policy
-- azure-portal
-- azure-resource-manager
-- azure-sdks
-- azure-service-bus
-- azure-storage
-- azure-stream-analytics
-- azure-traffic-manager
-- azure-virtual-machines
 exams:
 - uid: exam.az-204
 summary: >-
@@ -60,209 +30,243 @@ summary: >-
 
   #### <a name="audience-profile"></a>Zielgruppenprofil
 
+
   - Teilnehmer dieses Kurses interessieren sich für Azure-Development oder für das Bestehen des Microsoft Azure Developer Associate-Zertifizierungsexamens.
 prerequisitesSection: >-
   Die Teilnehmer sollten über Folgendes verfügen, um in diesem Kurs erfolgreich zu sein:
 
-  - Praktische Erfahrung mit Azure IaaS- und PaaS-Lösungen und dem Azure-Portal
 
-  - Erfahrung mit dem Programmieren in einer von Azure unterstützten Sprache auf dem Niveau fortgeschrittener Anfänger (C#, JavaScript, Python oder Java)
-
-  - Fähigkeit, Code zu schreiben, um eine Verbindung mit einem SQL- oder NoSQL-Datenbankprodukt herzustellen und Vorgänge darin auszuführen (SQL Server, Oracle, MongoDB, Cassandra oder Ähnliches)
-
-  - Erfahrung auf dem Niveau fortgeschrittener Anfänger, wie Sie Code schreiben, um Authentifizierung, Autorisierung und andere Sicherheitsprinzipien umzusetzen
-
-  - Allgemeine Kenntnisse über HTML, das HTTP-Protokoll und REST-API-Schnittstellen
+  *   Praktische Erfahrung mit Azure IaaS- und PaaS-Lösungen und dem Azure-Portal
 
 
-  Wenn Sie noch nicht mit Azure und Cloud Computing vertraut sind, sollten Sie eine der folgenden Ressourcen in Betracht ziehen:
+  *   Erfahrung mit dem Programmieren in einer von Azure unterstützten Sprache auf dem Niveau fortgeschrittener Anfänger (C#, JavaScript, Python oder Java)
 
-  - Kostenlos online: Azure-Grundlagen (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
 
-  - Präsenzschulung: AZ-900: Azure-Grundlagen (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
+  *   Fähigkeit, Code zu schreiben, um eine Verbindung mit einem SQL- oder NoSQL-Datenbankprodukt herzustellen und Vorgänge darin auszuführen (SQL Server, Oracle, MongoDB, Cassandra oder Ähnliches)
+
+
+  *   Erfahrung auf dem Niveau fortgeschrittener Anfänger, wie Sie Code schreiben, um Authentifizierung, Autorisierung und andere Sicherheitsprinzipien umzusetzen
+
+
+  *   Allgemeine Kenntnisse über HTML, das HTTP-Protokoll und REST-API-Schnittstellen
+
+
+
+  &nbsp;Wenn Sie noch nicht mit Azure und Cloud Computing vertraut sind, sollten Sie eine der folgenden Ressourcen in Betracht ziehen:
+
+
+  *   Kostenloser Online-Lernpfad: Azure-Grundlagen ([https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/))
+
+
+  *   Angeleiteter Kurs: AZ-900: Azure-Grundlagen ([https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01](https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01))
 outlineSection: >-
-  ### <a name="module-158-creating-azure-app-service-web-apps"></a>Modul 1: Erstellen von Azure App Service-Web-Apps
+  ### <a name="module-1-create-azure-app-service-web-apps"></a>Modul 1: Erstellen von Azure App Service-Web-Apps
 
-  Die Teilnehmer lernen, wie sie eine Webanwendung auf der Azure App Service-Plattform erstellen. Sie lernen, wie die Plattform funktioniert und wie man auf der App Service-Plattform erstellt, konfiguriert, skaliert, sichert und bereitstellt.
+
+  Hier erfahren Sie, wie Azure App Service funktioniert und wie Sie eine App erstellen und aktualisieren. Erkunden Sie die App Service-Authentifizierung und -Autorisierung, das Konfigurieren von App-Einstellungen, das Skalieren von Apps und das Verwenden von Bereitstellungsslots.
+
 
   #### <a name="lessons"></a>Lektionen
 
-  - Grundlegende Konzepte von Azure App Service
 
-  - Erstellen einer Azure App Service-Web-App
-
-  - Konfigurieren und Überwachen von App Service-Apps
-
-  - Skalieren von App Service-Apps
-
-  - Azure App Service-Stagingumgebungen
+  *   Erkunden von Azure App Service
 
 
+  *   Konfigurieren von Einstellungen für Web-Apps
 
-  ### <a name="module-258-implement-azure-functions"></a>Modul 2: Implementieren von Azure Functions
 
-  Dieses Modul behandelt das Erstellen von Funktions-Apps und das Integrieren von Triggern und Ein- / Ausgängen in die App.
+  *   Skalieren von Apps in Azure App Service
+
+
+  *   Erkunden von Azure App Service-Bereitstellungsslots
+
+
+
+  ### <a name="module-2-implement-azure-functions"></a>Modul 2: Implementieren von Azure Functions
+
+
+  Erfahren Sie, wie Sie Funktionen mit Azure Functions erstellen und bereitstellen. Erkunden Sie Hostingoptionen, Bindungen, Trigger und die Verwendung von Durable Functions, um zustandsbehaftet Workflows zu definieren.
+
 
   #### <a name="lessons"></a>Lektionen
 
-  - Übersicht zu Azure Functions
 
-  - Entwickeln von Azure Functions
-
-  - Implementieren von Durable Functions
+  *   Erkunden von Azure Functions
 
 
+  *   Entwickeln von Azure Functions
 
-  ### <a name="module-358-develop-solutions-that-use-blob-storage"></a>Modul 3: Entwickeln von Lösungen, die Blob-Speicher verwenden
 
-  Die Teilnehmer lernen, wie der Azure Blob-Speicher funktioniert, wie Daten über den Hot / Cold / Archive-Blob-Speicherlebenszyklus verwaltet werden und wie die Azure Blob-Speicher-Clientbibliothek zum Verwalten von Daten und Metadaten verwendet wird.
+  *   Implementieren von Durable Functions
+
+
+
+  ### <a name="module-3-develop-solutions-that-use-blob-storage"></a>Modul 3: Entwickeln von Lösungen, die Blobspeicher verwenden
+
+
+  Hier erfahren Sie, wie Sie Azure Blob Storage-Ressourcen erstellen, Daten im Blob Storage-Lebenszyklus verwalten und mit Containern sowie Elementen arbeiten, indem Sie die Azure Blob Storage-Clientbibliothek V12 für .NET verwenden.
+
 
   #### <a name="lessons"></a>Lektionen
 
-  - Grundlegende Konzepte von Azure Blob Storage
 
-  - Verwalten des Azure Blob Storage-Lebenszyklus
-
-  - Arbeiten mit Azure Blob Storage
+  *   Einführung in Azure Blob Storage
 
 
+  *   Verwalten des Azure Blob Storage-Lebenszyklus
 
-  ### <a name="module-458-develop-solutions-that-use-cosmos-db-storage"></a>Modul 4: Entwickeln von Lösungen, die Cosmos DB-Speicher verwenden
 
-  Die Schüler lernen, wie Cosmos DB strukturiert ist und wie die Datenkonsistenz verwaltet wird. Die Teilnehmer lernen außerdem, wie man Cosmos DB-Accounts erstellen und Datenbanken, Container und Elemente mit Hilfe einer Mischung aus Azure Portal und der .NET SDK erstellen kann.
+  *   Arbeiten mit Azure Blob Storage
+
+
+
+  ### <a name="module-4-develop-solutions-that-use-azure-cosmos-db"></a>Modul 4: Entwickeln von Lösungen, die Azure Cosmos DB verwenden
+
+
+  Hier erfahren Sie, wie Sie Azure Cosmos DB-Ressourcen mit den entsprechenden Konsistenzebenen erstellen, einen Partitionsschlüssel auswählen und erstellen und Datenvorgänge mit dem .NET SDK V3 für Azure Cosmos DB ausführen.
+
 
   #### <a name="lessons"></a>Lektionen
 
-  - Willkommen bei Azure Cosmos DB
 
-  - Azure Cosmos DB-Datenstruktur
-
-  - Arbeiten mit Azure Cosmos DB-Ressourcen und -Daten
+  *   Einführung in Azure Cosmos DB
 
 
+  *   Implementieren der Partitionierung in Azure Cosmos DB
 
-  ### <a name="module-558-implement-iaas-solutions"></a>Modul 5: Implementieren von IaaS-Lösungen
 
-  Dieses Modul zeigt Teilnehmern, wie man VMs erstellt und Container-Images für ihre Lösungen nutzt. Es umfasst das Erstellen von VMs, das Verwenden von ARM-Vorlagen zum Automatisieren der Ressourcenbereitstellung, das Erstellen und Verwalten von Docker-Images, das Veröffentlichen eines Images in der Azure Container-Registrierung und das Ausführen eines Containers in Azure Container-Instanzen.
+  *   Arbeiten mit Azure Cosmos DB
+
+
+
+  ### <a name="module-5-implement-infrastructure-as-a-service-solutions"></a>Modul 5: Implementieren von Infrastructure-as-a-Service-Lösungen
+
+
+  Hier erfahren Sie, wie Sie virtuelle Computer erstellen und bereitstellen, Ressourcen mithilfe von Azure Resource Manager Vorlagen bereitstellen und Container verwalten und bereitstellen.
+
 
   #### <a name="lessons"></a>Lektionen
 
-  - Bereitstellen von virtuellen Computern in Azure
 
-  - Erstellen und Bereitstellen von ARM-Vorlagen
-
-  - Erstellen von Container-Images für Lösungen
-
-  - Veröffentlichen eines Containerimages in Azure Container Registry
-
-  - Erstellen und Ausführen von Containerimages in Azure Container Instances
+  *   Bereitstellen virtueller Computer in Azure
 
 
+  *   Erstellen und Bereitstellen von Azure Resource Manager-Vorlagen
 
-  ### <a name="module-658-implement-user-authentication-and-authorization"></a>Modul 6: Implementieren von Benutzerauthentifizierung und -autorisierung
 
-  Die Teilnehmer lernen, wie man die Microsoft Identity Platform v2.0 nutzen kann, um die Authentifizierung und den Zugriff auf Ressourcen zu verwalten. Die Teilnehmer lernen außerdem, wie man mit Hilfe der Microsoft-Authentication Library und Microsoft Graph einen Benutzer authentifiziert und in Azure gespeicherte Informationen abruft sowie wie und wann man Shared Access-Signaturen verwendet.
+  *   Verwalten von Containerimages in Azure Container Registry
+
+
+  *   Ausführen von Containerimages in Azure Container Instances
+
+
+
+  ### <a name="module-6-implement-user-authentication-and-authorization"></a>Modul 6: Implementieren der Benutzerauthentifizierung und -autorisierung
+
+
+  Erfahren Sie, wie Sie die Authentifizierung und Autorisierung bei Ressourcen implementieren, indem Sie Microsoft Identity Platform, die Microsoft-Authentifizierungsbibliothek, Shared Access Signatures und Microsoft Graph verwenden.
+
 
   #### <a name="lessons"></a>Lektionen
 
-  - Microsoft Identity Platform 2.0
 
-  - Authentifizierung mit der Microsoft Authentication Library
-
-  - Verwenden von Microsoft Graph
-
-  - Autorisieren von Datenvorgängen in Azure Storage
+  *   Erkunden von Microsoft Identity Platform
 
 
+  *   Implementieren der Authentifizierung mithilfe der Microsoft-Authentifizierungsbibliothek
 
-  ### <a name="module-758-implement-secure-cloud-solutions"></a>Modul 7: Implementieren sicherer Cloudlösungen
 
-  In diesem Modul wird beschrieben, wie man die Informationen (Schlüssel, Geheimnisse, Zertifikate) sicher, die eine Anwendung für den Zugriff auf Ressourcen verwendet. Außerdem werden Informationen zur Anwendungskonfiguration gesichert.
+  *   Implementieren von Shared Access Signatures
+
+
+  *   Erkunden von Microsoft Graph
+
+
+
+  ### <a name="module-7-implement-secure-cloud-solutions"></a>Modul 7: Implementieren sicherer Cloudlösungen
+
+
+  Erfahren Sie, wie Sie Apps in Azure mithilfe von Azure Key Vault, verwalteten Identitäten und Azure App Configuration sicherer bereitstellen.
+
 
   #### <a name="lessons"></a>Lektionen
 
-  - Verwalten von Schlüsseln, Geheimnissen und Zertifikaten mithilfe der KeyVault-API
 
-  - Implementieren von verwalteten Identitäten für Azure-Ressourcen
-
-  - Absichern von Anwendungskonfigurationsdaten mithilfe von Azure App Configuration
+  *   Implementieren von Azure Key Vault
 
 
+  *   Implementieren verwalteter Identitäten
 
-  ### <a name="module-858-implement-api-management"></a>Modul 8: Implementieren von API Management
 
-  Die Teilnehmer lernen, wie man APIs veröffentlichen, Richtlinien zum Verwalten von über die API freigegebenen Informationen erstellen und den Zugriff auf ihre APIs mit Hilfe des Azure-API-Verwaltungsdiensts verwalten kann.
+  *   Implementieren von Azure App Configuration
+
+
+
+  ### <a name="module-8-implement-api-management"></a>Modul 8: Implementieren von API Management
+
+
+  Hier erfahren Sie, wie der API Management-Dienst funktioniert, wie Sie APIs transformieren und sichern und wie Sie eine Back-End-API erstellen.
+
 
   #### <a name="lessons"></a>Lektionen
 
-  - API Management – Übersicht
 
-  - Festlegen von Richtlinien für APIs
-
-  - Absichern von APIs
+  *   Erkunden von API Management
 
 
 
-  ### <a name="module-958-develop-app-service-logic-apps"></a>Modul 9: Entwickeln von App Service Logic Apps
+  ### <a name="module-9-develop-event-based-solutions"></a>Modul 9: Entwickeln ereignisbasierter Lösungen
 
-  In diesem Modul lernen die Teilnehmer, wie man mit Azure Logic Apps Aufgaben, Geschäftsprozesse, Workflows und Services unternehmens- oder organisationsübergreifend planen, automatisieren und koordinieren kann.
+
+  Hier erfahren Sie, wie Sie Anwendungen mit ereignisbasierten Architekturen erstellen, indem Sie Azure Event Grid und Azure Event Hubs in Ihre Lösung integrieren.
+
 
   #### <a name="lessons"></a>Lektionen
 
-  - Azure Logic Apps: Übersicht
 
-  - Erstellen von benutzerdefinierten Connectors für Logic Apps
-
+  *   Erkunden von Azure Event Grid
 
 
-  ### <a name="module-1058-develop-event-based-solutions"></a>Modul 10: Entwickeln ereignisbasierter Lösungen
+  *   Erkunden von Azure Event Hubs
 
-  Die Teilnehmer lernen, wie man Anwendungen mit ereignisbasierten Architekturen erstellen kann.
+
+
+  ### <a name="module-10-develop-message-based-solutions"></a>Modul 10: Entwickeln nachrichtenbasierter Lösungen
+
+
+  Erfahren Sie, wie Sie Anwendungen mit nachrichtenbasierten Architekturen erstellen, indem Sie Azure Service Bus und Azure Queue Storage in Ihre Lösung integrieren.
+
 
   #### <a name="lessons"></a>Lektionen
 
-  - Lösungen implementieren, die Azure Event Grid verwenden.
 
-  - Implementieren von Lösungen, die Azure Event Hubs verwenden
-
-  - Lösungen implementieren, die Azure Notification Hubs verwenden.
+  *   Ermitteln von Azure-Nachrichtenwarteschlangen
 
 
 
-  ### <a name="module-1158-develop-message-based-solutions"></a>Modul 11: Entwickeln nachrichtenbasierter Lösungen
+  ### <a name="module-11-instrument-solutions-to-support-monitoring-and-logging"></a>Modul 11: Instrumentieren von Lösungen zur Unterstützung der Überwachung und Protokollierung
 
-  Die Teilnehmer lernen, wie man Anwendungen mit nachrichten-basierten Architekturen erstellen kann.
+
+  Erfahren Sie, wie Sie Apps so instrumentieren, dass Application Insights zum Überwachen der Leistung und zur Problembehandlung verwendet werden kann.
+
 
   #### <a name="lessons"></a>Lektionen
 
-  - Implementieren von Lösungen, die den Azure Service Bus verwenden.
 
-  - Lösungen implementieren, die Azure Queue Storage Queues verwenden.
-
+  *   Überwachen der App-Leistung
 
 
-  ### <a name="module-1258-monitor-and-optimize-azure-solutions"></a>Modul 12: Überwachen und Optimieren von Azure-Lösungen
 
-  In diesem Modul lernen die Teilnehmer, wie sie ihren Code für Telemetrie instrumentieren und ihre Apps analysieren und Fehler beheben können.
+  ### <a name="module-12-integrate-caching-and-content-delivery-within-solutions"></a>Modul 12: Integrieren von Zwischenspeicherung und Inhaltsübermittlung in Lösungen
+
+
+  Hier erfahren Sie, wie Sie die Leistung und Skalierbarkeit Ihrer Anwendungen verbessern, indem Sie Azure Cache for Redis und Azure Content Delivery Network in Ihre Lösung integrieren.
+
 
   #### <a name="lessons"></a>Lektionen
 
-  - Übersicht über die Überwachung in Azure
 
-  - Instrumentieren einer App zur Überwachung
-
-  - Analysieren und Behandeln von Problemen mit Apps
-
-  - Implementieren von Code, der vorübergehende Fehler behandelt.
+  *   Entwicklung für Azure Cache for Redis
 
 
-
-  ### <a name="module-1358-integrate-caching-and-content-delivery-within-solutions"></a>Modul 13: Integrieren von Zwischenspeicherung und Inhaltsübermittlung in Lösungen
-
-  Die Teilnehmer lernen, wie man verschiedene Caching-Dienste verwendet, um die Leistung ihrer Apps zu verbessern.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Entwicklung für Azure Cache for Redis
-
-  - Entwicklung für Speicher in CDNs
+  *   Entwicklung für Speicher in CDNs

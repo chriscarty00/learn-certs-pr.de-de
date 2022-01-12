@@ -1,31 +1,42 @@
 ### YamlMime:Certification
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
-  title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
-  description: Architekten oder Ingenieure für Azure for SAP Workloads arbeiten mit Cloud- Administratoren, Cloud-Datenbankadministratoren und Kunden zusammen, um Lösungen zu implementieren.
+  title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
+  description: Architekt*innen oder Engineers für Azure for SAP Workloads arbeiten gemeinsam mit Cloudadministrator*innen, Clouddatenbankadministrator*innen und Kund*innen an der Implementierung von Lösungen.
+  ms.openlocfilehash: d4ce7a44d090cbbc3c37785f8ffad3ff2df3f953
+  ms.sourcegitcommit: b69a9b2b33f5f8993b5f681e1e6362b5666158e9
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/18/2021
+  ms.locfileid: "135412621"
 uid: certification.azure-for-sap-workloads-specialty
 certificationRenewalUid: renewal.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
-summary: |-
-  <div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am 24. September 2021 aktualisiert. Bitte laden Sie das Dokument über die gemessenen Fähigkeiten auf der <a href="/learn/certifications/exams/az-120">AZ-120 Prüfungsseite herunter</a> um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
-  
-  Kandidaten für diese Zertifizierung sollten Architekten oder Ingenieure mit umfassender Erfahrung und Kenntnissen der SAP-Systemlandschaft und Branchenstandards sein, die für die anfängliche Migration oder Integration und den langfristigen Betrieb einer SAP-Lösung auf Microsoft Azure spezifisch sind.
-  
-  Zu den Aufgaben eines Architekten oder Ingenieurs für Azure for SAP Workloads gehören Empfehlungen zu Services und die Anpassung von Ressourcen nach Bedarf, für optimale Ausfallsicherheit, Leistung, Skalierbarkeit, Bereitstellung, Größe und Überwachung.
-  
-  Architekten oder Ingenieure für Azure for SAP Workloads arbeiten mit Cloud administratoren, Cloud datenbankadministratoren und Kunden zusammen, um Lösungen zu implementieren.
-  
-  Ein Kandidat für diese Zertifizierung sollte über umfangreiche Erfahrungen und Kenntnisse in SAP-Anwendungen verfügen: SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, OS Server für SAP Anwendungen und Datenbanken, Azure portal, Azure Marketplace, Azure Resource Manager templates (ARM Templates), Virtualisierung, Cloud Infrastruktur, Speicherstrukturen, Hochverfügbarkeits-Design, Notfallwiederherstellungs-Design, Datenschutzkonzepte und Networking.
-  
-  Für die AZ-120-Prüfung wird dringend empfohlen, dass Sie zusätzlich zu den SAP-Zertifizierungen eine Azure Administrator Associate- oder Azure Solutions Architect Expert-Zertifizierung besitzen. 
-subTitle: Architekten oder Ingenieure für Azure for SAP Workloads arbeiten mit Cloud-Administratoren, Cloud-Datenbankadministratoren und Kunden zusammen, um Lösungen zu implementieren.
+summary: >-
+  <div><font color='red'><strong>Der Inhalt dieser Zertifizierung wurde am 22. November 2021 aktualisiert. Laden Sie das Dokument zu den bewerteten Qualifikationen von der <a href="/learn/certifications/exams/az-120">Seite für das Examen AZ-120</a> herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
+
+
+  Kandidat*innen für diese Zertifizierung sollten Architekt*innen oder Engineers mit umfassender Erfahrung und Kenntnissen der SAP-Systemlandschaft und Branchenstandards für die anfängliche Migration oder Integration und den langfristigen Betrieb einer SAP-Lösung in Microsoft Azure.
+
+
+  Zu den Aufgaben von Architekt*innen oder Ingenieur*innen für Azure für SAP-Workloads gehört es, Empfehlungen zu Diensten zu geben und Ressourcen entsprechend der optimalen Resilienz, Leistung, Skalierung, Bereitstellung, Größe und Überwachung anzupassen.
+
+
+  Architekt*innen oder Engineers für Azure for SAP Workloads arbeiten gemeinsam mit Cloudadministrator*innen, Clouddatenbankadministrator*innen und Kund*innen an der Implementierung von Lösungen.
+
+
+  Kandidat*innen für dieses Examen sollten über umfangreiche Erfahrungen und Kenntnisse auf dem Gebiet von SAP-Anwendungen, SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, OS-Server für SAP-Anwendungen und -Datenbanken, Azure-Portal, Azure Marketplace, Azure Resource Manager-Vorlagen (ARM-Vorlagen), Virtualisierung, Cloudinfrastruktur, Speicherstrukturen, Hochverfügbarkeitsentwürfe, Notfallwiederherstellungsdesign, Datensicherungskonzepte und Netzwerke verfügen.
+
+
+  Für Examen AZ-120 wird dringend eine Zertifizierungen als Azure Administrator Associate oder Azure Solutions Architect Expert empfohlen.
+subTitle: Architekt*innen oder Engineers für Azure for SAP Workloads arbeiten gemeinsam mit Cloudadministrator*innen, Clouddatenbankadministrator*innen und Kund*innen an der Implementierung von Lösungen.
 levels:
 - advanced
 skills:
-- SAP-Workloads nach Azure übertragen
-- Entwerfen und Implementieren einer Infrastruktur zur Unterstützung von SAP-Workloads 
-- Design und Implementierung von High Availability und Disaster Recovery (HA/DR)
-- Pflegen Sie SAP-Workloads in Azure
+- Migrate SAP Workloads to Azure
+- Design and Implement an Infrastructure to Support SAP Workloads
+- Design and Implement High Availability and Disaster Recovery (HA/DR)
+- Maintain SAP Workloads on Azure
 roles:
 - administrator
 - solution-architect
@@ -36,9 +47,14 @@ products:
 courses:
 - uid: course.az-120t00
 paths:
-- uid: learn.wwl.sap-certified-offerings-azure
-- uid: learn-pr.wwl.planning-azure-sap-workloads
-- uid: learn.wwl.run-azure-sap-workloads
+- uid: learn.wwl.explore-azure-for-sap-workloads
+- uid: learn.wwl.explore-foundations-of-iaas
+- uid: learn.wwl.explore-foundations-of-identity-governance
+- uid: learn.wwl.deploy-sap-azure
+- uid: learn.wwl.ensure-business-continuity-implement-disaster-recovery
+- uid: learn.wwl.migrate-sap-workloads-to-azure
+- uid: learn.wwl.monitor-troubleshoot-azure-for-sap-workloads
+- uid: learn.wwl.explore-sap-hana-azure-large-instances
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g2b
 exams:
 - uid: exam.az-120
@@ -47,14 +63,14 @@ resources:
   description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Azure an.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Reise zur Zertifizierung
-  description: Informieren Sie sich über Schritte zur Zertifizierung in Azure für SAP Workloads Specialty und über die verfügbaren Ressourcen, die Sie bei der Vorbereitung unterstützen können.
+  description: Informieren Sie sich über Schritte zur Zertifizierung in Azure for SAP Workloads Specialty und über die verfügbaren Ressourcen, die Sie bei der Vorbereitung unterstützen können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Zertifizierungsposter
   description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
   href: ../deals.md
@@ -64,7 +80,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Erhalten Sie Ihren Microsoft-Zertifizierungsbadge, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md
-

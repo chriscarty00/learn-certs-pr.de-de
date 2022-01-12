@@ -2,29 +2,39 @@
 title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Administrator Associate'
-  description: Azure-Administratoren implementieren, verwalten und überwachen die Microsoft Azure-Umgebung eines Unternehmens.
+  description: Azure Administrators implementieren, verwalten und überwachen die Microsoft Azure-Umgebung einer Organisation.
+  ms.openlocfilehash: c78c050980a1626a6bb73c1d192b4e408cdc3984
+  ms.sourcegitcommit: d80173e30006986f164a370573cac47d596ddb52
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/06/2021
+  ms.locfileid: "133742855"
 uid: certification.azure-administrator
 certificationRenewalUid: renewal.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am 24. September 2021 aktualisiert. Bitte laden Sie das Dokument über die gemessenen Fähigkeiten auf der <a href="/learn/certifications/exams/az-104">AZ-104 Prüfungsseite herunter</a> um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
-  
-  Kandidaten für die Azure Administrator Associate-Zertifizierung sollten über Fachkenntnisse in der Implementieren, Verwaltung und Überwachung der Microsoft Azure-Umgebung eines Unternehmens verfügen.
-  
-  Zu den Aufgaben in dieser Position gehören das Implementieren, Verwalten und Überwachen von Identitäts-, Governance-, Speicher-, Compute- und virtuellen Netzwerken in einer Cloud-Umgebung sowie die Bereitstellung, Größe, Überwachung und Anpassung von Ressourcen, je nach Bedarf.
-  
-  Ein Azure-Administrator ist häufig Teil eines größeren Teams, das sich mit der Implementieren der Cloud-Infrastruktur Ihres Unternehmens befasst.
-  
-  Ein Kandidat für Diese Zertifizierung sollte mindestens sechs Monate praktische Erfahrung in der Verwaltung von Azure sowie ein umfassendes Verständnis der wichtigsten Azure-Services, Azure-Workloads, Sicherheit und Governance haben. Darüber hinaus sollte man in dieser Rolle Erfahrung mit PowerShell-, Azure CLI-, Azure Portal- und Azure Resource Manager-Vorlagen haben.
-subTitle: Azure-Administratoren implementieren, verwalten und überwachen die Microsoft Azure-Umgebung eines Unternehmens.
+summary: >-
+  <div><font color='red'><strong>Der Inhalt dieser Zertifizierung wurde am 24. September 2021 aktualisiert. Laden Sie das Dokument zu den bewerteten Qualifikationen von der <a href="/learn/certifications/exams/az-104">Seite für das Examen AZ-104</a> herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
+
+
+  Kandidat*innen für die Zertifizierung „Azure Administrator Associate“ sollten über Fachkenntnisse im Implementieren, Verwalten und Überwachen der Microsoft Azure-Umgebung einer Organisation verfügen.
+
+
+  Zu den Aufgaben in dieser Position gehören das Implementieren, Verwalten und Überwachen von Identitäten, Governance, Speicher, Compute und virtuellen Netzwerken in einer Cloud-Umgebung sowie nach Bedarf das Bereitstellen, das Anpassen der Größe, das Überwachen und das allgemeine Anpassen von Ressourcen.
+
+
+  Ein Azure-Administrator fungiert häufig als Teil eines größeren Teams, das mit der Implementierung der Cloudinfrastruktur einer Organisation betraut ist.
+
+
+  Kandidat*innen für diese Zertifizierung sollte mindestens sechs Monate praktische Erfahrung im Verwalten von Azure sowie ein umfassendes Verständnis der wichtigsten Azure-Dienste, Azure-Workloads, der Sicherheit und Governance besitzen. Darüber hinaus sollten sie in dieser Rolle über Erfahrung mit PowerShell, der Azure CLI, dem Azure-Portal und Azure Resource Manager-Vorlagen verfügen.
+subTitle: Azure Administrators implementieren, verwalten und überwachen die Microsoft Azure-Umgebung einer Organisation.
 levels:
 - intermediate
 skills:
-- Verwalten von Azure-Identitäten und -Governance
-- Speicherplatz implementieren und verwalten
-- Bereitstellen und Verwalten von Azure-Rechenressourcen
-- Virtuelle Netzwerke konfigurieren und verwalten
-- Überwachen und Sichern von Azure-Ressourcen
+- Manage Azure identities and governance
+- Implement and manage storage
+- Deploy and manage Azure compute resources
+- Configure and manage virtual networking
+- Monitor and back up Azure resources
 roles:
 - administrator
 type: role-based
@@ -49,20 +59,20 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwU
 exams:
 - uid: exam.az-104
 resources:
-- title: Azure-Zertifizierungsplakat
-  description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Azure an.
+- title: Azure-Zertifizierungsübersicht
+  description: Hier finden Sie eine Übersicht über die Basiszertifizierungen, die rollenbasierten Zertifizierungen und die Specialty-Zertifizierungen für Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: Reise zur Zertifizierung
-  description: Informieren Sie sich über die nötigen Schritte für eine Zertifizierung als Azure Administrator Associate und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
+- title: Der Weg zur Zertifizierung
+  description: Informieren Sie sich über die nötigen Schritte für eine Zertifizierung als „Azure Administrator Associate“ und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElC
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Zertifizierungsposter
-  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
-  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+  href: https://aka.ms/TrainingCertDeck
+- title: Zertifizierungsübersicht
+  description: Hier finden Sie eine Übersicht über die Basiszertifizierungen, die rollenbasierten Zertifizierungen und die Specialty-Zertifizierungen.
+  href: https://aka.ms/traincertposter
+- title: Examenswiederholung
+  description: Hier finden Sie zwei großartige Angebote, mit denen Sie Ihre Erfolgschancen erhöhen können.
   href: ../deals.md
 - title: Unterstützung von Zertifizierungen
   description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
@@ -70,7 +80,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Fordern Sie Ihren Microsoft-Zertifizierungsbadge an, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md
-

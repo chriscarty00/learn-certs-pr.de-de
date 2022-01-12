@@ -2,25 +2,32 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: 'Ein Microsoft 365 Enterprise Administrator nimmt teil an der Bewertung, Planung, Migration, Bereitstellung und Verwaltung von Microsoft 365 Diensten.'
+  description: Microsoft 365 Enterprise Administrators sind Teil der Vorgänge zum Bewerten, Planen, Migrieren, Bereitstellen und Verwalten von Microsoft 365-Diensten.
+  ms.openlocfilehash: be1b77f95088e704af018e3de723a199b78e8743
+  ms.sourcegitcommit: a2b584eb3752159a44885ce2df4ef8c7263255e4
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133301647"
 uid: certification.m365-enterprise-administrator
 certificationRenewalUid: renewal.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  <div><font color='red'><strong>Der Inhalt dieser Prüfung wurde kürzlich aktualisiert. <a href="/learn/certifications/exams/ms-100">MS-100</a> wurde am 29. September 2021 aktualisiert, und <a href="/learn/certifications/exams/ms-101">MS-101</a> wurde am 24. September 2021 aktualisiert. Bitte laden Sie die Dokumente zur Messung der Fähigkeiten auf den entsprechenden Prüfungsseiten herunter, um die Änderungen zu sehen.</strong></font><br/><br/></div>
+summary: >-
+  <div><font color='red'><strong>Der Inhalt dieser Zertifizierung wurde kürzlich aktualisiert. Das <a href="/learn/certifications/exams/ms-101">Examen MS-101</a> wurde am 24. November 2021 und das <a href="/learn/certifications/exams/ms-100">Examen MS-100</a> am 30. November 2021 aktualisiert. Laden Sie die Dokumente zu den bewerteten Qualifikation auf den zugehörigen Examensseiten herunter, um die Änderung zu sehen.</strong></font><br/><br/></div>
 
-  Microsoft 365 Enterprise Administrators bewerten, planen, migrieren, stellen bereit und verwalten Microsoft 365 Services.
-subTitle: Microsoft 365 Enterprise Administrators bewerten, planen, migrieren, stellen bereit und verwalten Microsoft 365 Services.
+
+  Microsoft 365 Enterprise Administrators bewerten, planen, migrieren, verwalten und stellen Microsoft 365-Dienste bereit.
+subTitle: Microsoft 365 Enterprise Administrators bewerten, planen, migrieren, verwalten und stellen Microsoft 365-Dienste bereit.
 levels:
 - advanced
 skills:
-- Entwerfen und Implementieren von Microsoft 365-Services
-- Benutzeridentität und Rollen verwalten
-- Zugriff und Authentifizierung verwalten
-- Office 365-Workloads und -Anwendungen planen
-- Implementieren moderner Geräteservices
-- Microsoft 365 Sicherheits- und Bedrohungsmanagement implementieren
-- Microsoft 365-Governance und -Konformität verwalten
+- Design and implement Microsoft 365 services
+- Manage user identity and roles
+- Manage access and authentication
+- Plan Office 365 workloads and applications
+- Implement modern device services
+- Implement Microsoft 365 security and threat management
+- Manage Microsoft 365 governance and compliance
 roles:
 - administrator
 type: role-based
@@ -52,7 +59,7 @@ prerequisites:
 - uid: certification.m365-security-administrator
   isOptional: false
 - uid: certification.m365-messaging-administrator
-  isOptional: false                
+  isOptional: false
 - uid: certification.m365-teams-administrator-associate
   isOptional: false
 - uid: certification.identity-and-access-administrator
@@ -62,14 +69,14 @@ exams:
 - uid: exam.ms-100
 - uid: exam.ms-101
 resources:
-- title: Informieren Sie sich über die Zertifizierungen
+- title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://aka.ms/TrainingCertDeck
-- title: Zertifizierungsposter
-  description: Verschaffen Sie sich einen Überblick über die Grundlagen, aufgabenbasierte und fachliche Zertifizierungen.
+- title: Zertifizierungsübersicht
+  description: Hier finden Sie eine Übersicht über die Basiszertifizierungen, die rollenbasierten Zertifizierungen und die Specialty-Zertifizierungen.
   href: https://aka.ms/traincertposter
-- title: Prüfungswiederholung
-  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+- title: Examenswiederholung
+  description: Hier finden Sie zwei großartige Angebote, mit denen Sie Ihre Erfolgschancen erhöhen können.
   href: ../deals.md
 - title: Unterstützung von Zertifizierungen
   description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
@@ -77,7 +84,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Fordern Sie Ihren Microsoft-Zertifizierungsbadge an, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md
-

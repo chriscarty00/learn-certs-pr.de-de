@@ -2,29 +2,38 @@
 title: 'Microsoft Certified: DevOps Engineer Expert'
 metadata:
   title: 'Microsoft Certified: DevOps Engineer Expert'
-  description: 'DevOps-Ingenieure entwerfen und implementieren Strategien für Zusammenarbeit, Code, Infrastruktur, Quellcodeverwaltung, Sicherheit, Compliance, kontinuierliche Integration, Testen, Bereitstellung, Überwachung und Feedback.'
+  description: Technische Fachkräfte für DevOps entwerfen und implementieren Strategien für Zusammenarbeit, Code, Infrastruktur, Quellcodeverwaltung, Sicherheit, Compliance, Continuous Integration, Testen, Bereitstellung, Überwachung und Feedback.
+  ms.openlocfilehash: 03c210e74558d482a2747d98ab1d4e359fc2d5c4
+  ms.sourcegitcommit: 3a53de64ec81bf478275e0a13a80f3a69bc1e586
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/10/2021
+  ms.locfileid: "134680825"
 uid: certification.devops-engineer
 certificationRenewalUid: renewal.devops-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  <div><font color='red'><strong>Der Inhalt dieser Prüfung wurde am Mittwoch, 29. September 2021 aktualisiert. Bitte laden Sie das Dokument über die gemessenen Fähigkeiten auf der <a href="/learn/certifications/exams/az-400">AZ-400 Prüfungsseite herunter</a> um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
-  
+summary: >-
+  <div><font color='red'><strong>Der Inhalt dieser Zertifizierung wurde am 30. November 2021 aktualisiert. Laden Sie das Dokument zu den bewerteten Qualifikationen von der <a href="/learn/certifications/exams/az-400">Seite für das Examen AZ-400</a> herunter, um zu sehen, was sich geändert hat.</strong></font><br/><br/></div>
+
+
   Kandidaten für die DevOps Engineer Expert-Zertifizierung sollten über Fachkenntnisse im Umgang mit Menschen, Prozessen und Technologien verfügen, um kontinuierlich geschäftlichen Nutzen zu erzielen.
-  
+
+
   Zu den Aufgaben für diese Rolle gehören das Entwerfen und Implementieren von Strategien für Zusammenarbeit, Code, Infrastruktur, Quellcodeverwaltung, Sicherheit, Compliance, kontinuierliche Integration, Testen, Bereitstellung, Überwachung und Feedback.
-  
-  Ein Kandidat für diese Zertifizierung muss sowohl mit der Azure-Verwaltung als auch mit der Entwicklung vertraut sein und Experte in mindestens einem dieser Bereiche sein.
-subTitle: DevOps-Ingenieure entwerfen und implementieren Strategien für Zusammenarbeit, Code, Infrastruktur, Quellcodeverwaltung, Sicherheit, Compliance, kontinuierliche Integration, Testen, Bereitstellung, Überwachung und Feedback.
+
+
+  Ein*e Kandidat*in für diese Zertifizierung muss sowohl mit der Azure-Verwaltung als auch mit der Entwicklung vertraut sein und Experte bzw. Expertin in mindestens einem dieser Bereiche sein.
+subTitle: Technische Fachkräfte für DevOps entwerfen und implementieren Strategien für Zusammenarbeit, Code, Infrastruktur, Quellcodeverwaltung, Sicherheit, Compliance, Continuous Integration, Testen, Bereitstellung, Überwachung und Feedback.
 levels:
 - advanced
 skills:
-- Entwickeln Sie eine Instrumentierungsstrategie
-- Entwicklung einer Zuverlässigkeitstechnik (SRE)-Strategie
-- Entwicklung eines Sicherheits- und Compliance-Plans
-- Quellcode verwalten
-- Ermöglichen der Kommunikation und Zusammenarbeit
-- Kontinuierliche Integration definieren und definieren
-- Definieren und implementieren Sie eine kontinuierliche Liefer- und Release-Management-Strategie
+- Develop an instrumentation strategy
+- Develop a Site Reliability Engineering (SRE) strategy
+- Develop a security and compliance plan
+- Manage source control
+- Facilitate communication and collaboration
+- Define and implement continuous integration
+- Define and implement a continuous delivery and release management strategy
 roles:
 - devops-engineer
 type: role-based
@@ -35,12 +44,16 @@ products:
 - azure-container-instances
 - azure-automation
 paths:
-- uid: learn.az-400-develop-instrumentation-strategy
-- uid: learn.az-400-develop-sre-strategy
-- uid: learn.az-400-develop-security-compliance-plan
-- uid: learn.az-400-manage-source-control
-- uid: learn.az-400-facilitate-communication-collaboration
-- uid: learn.az-400-define-implement-continuous-integration
+- uid: learn.wwl.az-400-get-started-devops-transformation-journey
+- uid: learn.wwl.az-400-work-git-for-enterprise-devops
+- uid: learn.wwl.az-400-implement-ci-azure-pipelines-github-actions
+- uid: learn.wwl.az-400-design-implement-release-strategy
+- uid: learn.wwl.az-400-implement-secure-continuous-deployment
+- uid: learn.wwl.az-400-manage-infrastructure-as-code-using-azure
+- uid: learn.wwl.az-400-design-implement-dependency-management-strategy
+- uid: learn.wwl.az-400-create-manage-containers-using-docker-kubernetes
+- uid: learn.wwl.az-400-implement-continuous-feedback
+- uid: learn.wwl.az-400-implement-security-validate-code-basescompliance
 courses:
 - uid: course.az-400t00
 prerequisites:
@@ -56,7 +69,7 @@ resources:
   description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Azure an.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Reise zur Zertifizierung
-  description: Informieren Sie sich über die Schritte zur Zertifizierung als DevOps Engineer Expert und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
+  description: Informieren Sie sich über die Schritte zur Zertifizierung als „DevOps Engineer Expert“ und über die zur Verfügung stehenden Ressourcen, die Ihnen bei der Vorbereitung helfen können.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
 - title: Schulungs- und Zertifizierungsleitfaden
   description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
@@ -73,7 +86,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Fordern Sie Ihren Microsoft-Zertifizierungsbadge an, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md
-

@@ -10,10 +10,10 @@ ms.date: 02/28/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: daa89fc7009fdab390c2aa51356d9ec43bed3603
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111194"
 ---
 # <a name="azure-developers-beta-exam-az-204-is-just-for-you"></a>Betaprüfung AZ-204 für Azure-Entwickler
@@ -24,7 +24,7 @@ ___
 
 Im Rahmen der regelmäßigen Überprüfung unseres Portfolios habe ich bereits vor ein paar Wochen [Azure-Updates und Daten- und KI-Prüfungen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375281) angekündigt. Damit soll eine gleichbleibend hohe technische Relevanz unserer Zertifizierungen sichergestellt werden. Eine solche Überprüfung stellt zudem sicher, dass in Microsoft-Zertifizierungen die für die heutigen cloudbasierten Aufgabenbereiche erforderlichen Fähigkeiten und Qualifikationen bewertet werden. Da sich für Sie mit den entsprechenden Zertifizierungen neue Horizonte eröffnen können, setzen wir alles daran, immer auf dem neuesten Stand zu sein.
 
-Daher freue ich mich sehr, heute das Release der Betaprüfung [AZ-204: Entwickeln von Lösungen für Azure](https://aka.ms/az-204exam) bekanntgeben zu können. Besonders interessant für Cloudentwickler ist dabei die Tatsache, dass diese Prüfung die einzige Voraussetzung für die Rolle[Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/learn/certifications/azure-developer) darstellt. Sie ersetzt die Prüfung AZ-203, die am 31. Mai 2020 eingestellt wird.
+Daher freue ich mich sehr, heute das Release der Betaprüfung [AZ-204: Entwickeln von Lösungen für Azure](https://aka.ms/az-204exam) bekanntgeben zu können. Besonders interessant für Cloudentwickler ist dabei die Tatsache, dass diese Prüfung die einzige Voraussetzung für die Rolle[Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/learn/certifications/azure-developer) darstellt. Sie ersetzt die Prüfung AZ-203, die am 31. Mai 2020 eingestellt wird.
 
 Sie fragen sich nun, ob Sie für die Betaprüfung AZ-204 geeignet sind? Wenn Sie als Cloudentwickler an allen Entwicklungsphasen beteiligt sind, einschließlich der Definition und dem Entwurf von Anforderungen, der Entwicklung, Bereitstellung und Verwaltung – dann lautet die Antwort: ja! Die für die Prüfung relevanten Themenbereiche sind Kenntnisse im Umgang mit Azure SDKs, Datenspeicheroptionen, Datenverbindungen, APIs, App-Authentifizierung und -Autorisierung, Compute- und Containerbereitstellung, Debugging, Leistungsoptimierung und Überwachung.
 

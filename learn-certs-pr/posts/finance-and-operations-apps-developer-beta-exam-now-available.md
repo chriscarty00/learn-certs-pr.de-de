@@ -10,10 +10,10 @@ ms.date: 10/31/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 91e854d72df99c2eab22f03f0c8266f94f3efc5f
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111845"
 ---
 # <a name="are-you-a-microsoft-dynamics-365-finance-and-operations-apps-developer-beta-exam-now-available"></a>Sind Sie Entwickler*in für „Finance and Operations“-Apps in Microsoft Dynamics 365? Das Betaexamen ist jetzt verfügbar
@@ -26,7 +26,7 @@ UPDATE: Der Angebotscode, mit dem Sie 80% Rabatt auf dieses Examen erhalten, is
 
 Sind Sie ein*e Entwickler*in für Finance and Operations in Dynamics 365, der*die Anwendungen implementiert und erweitert, um die Anforderungen eines Unternehmens zu erfüllen? Erstellen Sie vollständig realisierte Lösungen, indem Sie standardisierte Codierungsmuster für Anwendungen, erweiterbare Features und externe Integrationen verwenden? Sind Sie verantwortlich für das Entwickeln der Geschäftslogik mit X++, das Erstellen und Ändern von Dynamics 365-Berichten und -Arbeitsbereichen, das Anpassen von Benutzeroberflächen, das Bereitstellen von Endpunkten und APIs zur Unterstützung von Power Platform-Apps und externen Systemen, das Durchführen von Tests, das Überwachen der Leistung, das Analysieren und Bearbeiten von Daten, das Erstellen von technischen Designs und Implementierungsdetails sowie das Implementieren von Berechtigungsrichtlinien und Sicherheitsanforderungen? Wenn ja, habe ich eine großartige Möglichkeit für Sie, Ihre Qualifikationen zu präsentieren und gewürdigt zu werden. . . absolvieren Sie dieses Betaexamen! 
 
-Die neue Zertifizierung [Microsoft Certified: Dynamics 365: Finance and Operations App Developer Associate](https://docs.microsoft.com/learn/certifications/d365-finance-and-operations-apps-developer-associate?WT.mc_id=mb500blog__cert_d365foappsdeveloper-blog-wwl) beinhaltet ein Examen, das sich derzeit in der Betaversion befindet: [MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer](https://docs.microsoft.com/learn/certifications/exams/mb-500?WT.mc_id=mb500blog__cert_examsmb500-blog-wwl). Um diese Zertifizierung zu erhalten, müssen Sie auch „MB-300: Microsoft Dynamics 365: Core Finance and Operations“ bestehen.
+Die neue Zertifizierung [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](https://docs.microsoft.com/learn/certifications/d365-finance-and-operations-apps-developer-associate?WT.mc_id=mb500blog__cert_d365foappsdeveloper-blog-wwl) beinhaltet ein Examen, das sich derzeit in der Betaversion befindet: [MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer](https://docs.microsoft.com/learn/certifications/exams/mb-500?WT.mc_id=mb500blog__cert_examsmb500-blog-wwl). Um diese Zertifizierung zu erhalten, müssen Sie auch „MB-300: Microsoft Dynamics 365: Core Finance and Operations“ bestehen.
 
 Verwenden Sie den Code **MB-500-AMAZING**, um beim Bezahlen den Rabatt von 80% zu erhalten.
 

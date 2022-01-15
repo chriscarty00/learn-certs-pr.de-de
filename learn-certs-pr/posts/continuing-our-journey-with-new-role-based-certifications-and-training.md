@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 39f2be8b81c622e5a822e11ec3f5950ef17d9b50
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112112"
 ---
 # <a name="catching-up-continuing-our-journey-with-new-role-based-certifications-and-training"></a>Auf den neuesten Stand kommen: Die Reise geht weiter mit neuen rollenbasierten Zertifizierungen und Schulungen
@@ -32,7 +32,7 @@ Im Folgenden finden Sie die neueste Reihe von Zertifizierungen, die herausgegebe
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Flearning%2Fmodern-desktop.aspx&data=02%7C01%7Cv-liwebe%40microsoft.com%7C2093fd7b3d1840814b6808d64a67aba3%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636778206451257026&sdata=jItOj5vCMlHkT91VQdfElgbLg5VVrNONWsvQZ%2BBcK9M%3D&reserved=0)
 - [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/learning/m365-security-administrator.aspx)
 - [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx)
-- [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
+- [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified Fundamentals](https://www.microsoft.com/learning/microsoft-365-fundamentals.aspx)
 - [Microsoft Certified Azure Fundamentals](https://www.microsoft.com/learning/azure-fundamentals.aspx)
 - [Microsoft Certified: Azure AI Engineer Associate](https://www.microsoft.com/learning/azure-ai-engineer.aspx)

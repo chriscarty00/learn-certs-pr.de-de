@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: df515f3561b4b1145bc3549f029fbb07175ee4ce
-ms.sourcegitcommit: 323a3a87c21cb338e05d34ca80341cb6b2e84520
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132113056"
 ---
 # <a name="certification-retirement"></a>Einstellung von Zertifizierungen
@@ -38,7 +38,7 @@ Zertifizierungen, die in den nächsten 12 Monaten eingestellt werden sollen, si
 | [MTA: Introduction to Programming Using Python](/learn/certifications/mta-introduction-to-programming-using-python) | Wird am 30. Juni 2022 eingestellt |
 | [MTA: Networking Fundamentals](/learn/certifications/mta-networking-fundamentals) | Wird am 30. Juni 2022 eingestellt |
 | [MTA: Introduction to Programming Using HTML and CSS](/learn/certifications/mta-introduction-to-programming-using-html-and-css) | Wird am 30. Juni 2022 eingestellt |
-| [MTA: Einführung in die Programmierung mit JavaScript](/learn/certifications/mta-introduction-to-programming-using-javascript) | Wird am 30. Juni 2022 eingestellt |
+| [MTA: Introduction to Programming Using JavaScript](/learn/certifications/mta-introduction-to-programming-using-javascript) | Wird am 30. Juni 2022 eingestellt |
 | [MTA: Mobility and Device Fundamentals](/learn/certifications/mta-mobility-and-device-fundamentals) | Wird am 30. Juni 2022 eingestellt |
 
 ## <a name="recently-retired-certifications"></a>Kürzlich eingestellte Zertifizierungen 
@@ -66,7 +66,7 @@ Legacyzertifizierungen verbleiben bis zum 31. Januar 2023 im Abschnitt „Aktiv
 | [MCSA: SQL 2016 Database Dev](/learn/certifications/mcsa-sql2016-database-development-certification) | 31. Januar 2021 |
 | [MCSA: SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification)         | 31. Januar 2021 |
 | [MCSA: Universal Windows Platform](/learn/certifications/mcsa-universal-windows-platform) | 31. Januar 2021 |
-| [MCSA: Webanwendungen](/learn/certifications/mcsa-web-applications-certification) | 31. Januar 2021 |
+| [MCSA: Web Applications](/learn/certifications/mcsa-web-applications-certification) | 31. Januar 2021 |
 | [MCSA: Windows Server 2012](/learn/certifications/mcsa-windows-server-certification) | 31. Januar 2021 |
 | [MCSA: Windows Server 2016](/learn/certifications/mcsa-windows-server-2016-certification) | 31. Januar 2021 |
 

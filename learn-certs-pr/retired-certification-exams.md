@@ -10,17 +10,17 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 92f47075291b2c9f3ce114d2e755272794c06327
-ms.sourcegitcommit: 468e49f99bce29f3130cccd97af130459746d6c5
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/07/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112840"
 ---
 # <a name="exam-retirement"></a>Einstellung von Examen
 
 ## <a name="why-exams-get-retired"></a>Gründe für die Einstellung von Examen
 
-Technologien und die damit verbundenen Jobrollen ändern sich jedes Jahr schneller. Damit unser Zertifizierungsprogramm relevant bleibt, überprüfen wir unsere Examen und Zertifizierungen kontinuierlich, um sicherzustellen, dass sie die neuesten Qualifikationen und Microsoft-Technologien abbilden, und stellen diejenigen ein, die nicht mehr relevant sind. Unser Ziel ist es, Kandidat*innen zu befähigen, in stark nachgefragten cloudbasierten Positionen auf dem neuesten Stand der Technik zu sein, und wir tun dies, indem wir Zertifizierungen für wichtige Rollen anbieten, die Unternehmen bei ihrer digitalen Transformation unterstützen. Weitere Informationen hierzu finden Sie unter: [Aktualisieren von Microsoft-Zertifizierungen: So halten wir sie relevant – Microsoft Tech-Community](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/updating-microsoft-certifications-how-we-keep-them-relevant/ba-p/1469425).
+Technologien und die damit verbundenen Jobrollen ändern sich jedes Jahr schneller. Damit unser Zertifizierungsprogramm relevant bleibt, überprüfen wir unsere Prüfungen und Zertifizierungen kontinuierlich, um sicherzustellen, dass sie die neuesten Qualifikationen und Microsoft-Technologien abbilden, und stellen diejenigen ein, die nicht mehr relevant sind. Unser Ziel ist es, Kandidaten zu befähigen, in stark nachgefragten cloudbasierten Positionen auf dem neuesten Stand der Technik zu sein, und wir tun dies, indem wir Zertifizierungen für kritische Rollen anbieten, die Unternehmen bei ihrer digitalen Transformation unterstützen. Weitere Informationen hierzu finden Sie unter: [Aktualisieren von Microsoft-Zertifizierungen: So halten wir sie relevant – Microsoft Tech-Community](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/updating-microsoft-certifications-how-we-keep-them-relevant/ba-p/1469425).
 
 ## <a name="exams-scheduled-to-retire"></a>Prüfungen, die bald aus dem Programm genommen werden
 
@@ -92,7 +92,7 @@ Diese Examen wurden im letzten Jahr eingestellt. Zu Referenzzwecken wird zwölf 
 | [70-740](/learn/certifications/exams/70-740) | Installation, Storage, and Compute with Windows Server 2016 | 31. Januar 2021
 | [70-741](/learn/certifications/exams/70-741) | Networking with Windows Server 2016 | 31. Januar 2021
 | [70-742](/learn/certifications/exams/70-742) | Identity with Windows Server 2016 | 31. Januar 2021
-| [70-743](/learn/certifications/exams/70-743) | Upgrading Your Skills to MCSA: Windows Server 2016 | 31. Januar 2021
+| [70-743](/learn/certifications/exams/70-743) | Upgrading Your Skills to MCSA: Windows Server 2016 | 31. Januar 2021
 | [70-744](/learn/certifications/exams/70-744) | Securing Windows Server 2016 | 31. Januar 2021
 | [70-745](/learn/certifications/exams/70-745) | Implementing a Software-Defined Datacenter | 31. Januar 2021
 | [70-761](/learn/certifications/exams/70-761) | \- Abfragen mit Transact-SQL | 31. Januar 2021

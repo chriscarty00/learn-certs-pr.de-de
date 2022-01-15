@@ -10,10 +10,10 @@ ms.date: 05/04/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: f37be2ebf31857e4cdca077eb51f53ca1fc58150
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111110"
 ---
 # <a name="finance-and-operations-skills-needed-get-certified-in-dynamics-365-now"></a>Finance and Operations-Fachkräfte sind gefragt – Lassen Sie sich jetzt für Dynamics 365 zertifizieren!
@@ -31,7 +31,7 @@ Microsoft bietet zwei Zertifizierungen im Bereich Grundlagen und fünf rollenbas
 [Microsoft Certified: Microsoft Dynamics 365 Fundamentals](https://docs.microsoft.com/learn/certifications/d365-fundamentals?wt.mc_id=mim_msl_blg_BLog17_prm_Blog17_202055)  
 [Microsoft Certified: Power Platform Fundamentals](https://docs.microsoft.com/learn/certifications/power-platform-fundamentals?wt.mc_id=mim_msl_blg_Blog17_prm_BLog17_202055)  
 <br/>
-[Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate](https://docs.microsoft.com/learn/certifications/d365-functional-consultant-financials?wt.mc_id=mim_msl_blg_Blog17_prm_Blog17_202055)  
+[Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate](https://docs.microsoft.com/learn/certifications/d365-functional-consultant-financials?wt.mc_id=mim_msl_blg_Blog17_prm_Blog17_202055)  
 [Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate](https://docs.microsoft.com/learn/certifications/d365-functional-consultant-supply-chain-management?wt.mc_id=mim_msl_blg_Blog17_prm_Blog17_202055)  
 <br/>
 [Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate](https://docs.microsoft.com/learn/certifications/d365-functional-consultant-manufacturing?wt.mc_id=mim_msl_blg_Blog17_prm_BLog17_202055)  

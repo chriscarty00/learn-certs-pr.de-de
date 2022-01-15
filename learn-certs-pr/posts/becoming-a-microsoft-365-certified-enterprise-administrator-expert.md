@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: ee106f2f400ac520825861fc3b5700e5f98ec832
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112328"
 ---
 # <a name="becoming-a-microsoft-365-certified-enterprise-administrator-expertthe-final-steps"></a>Werden Sie ein Microsoft 365 Certified Enterprise Administrator Experte - Die letzten Schritte
@@ -22,11 +22,11 @@ Veröffentlicht am 13. Dezember 2018 von **Liberty Munson (Microsoft)**
 
 ___
 
-And now for the rest of the story . . . (Wem sagt dieses Popkultur-Zitat etwas?*) Hier erfahren Sie, wie auch Sie **Microsoft 365 Certified: Enterprise Administrator Expert** werden können.
+And now for the rest of the story . . . (Wem sagt dieses Popkultur-Zitat etwas?*) Hier erfahren Sie, wie auch Sie **Microsoft 365 Certified: Enterprise Administrator Expert** werden können.
 
-Die Zertifizierung [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx) bestätigt Ihre Qualifikation und Erfahrung im Zusammenhang mit modernen Arbeitsplätzen und hilft Ihnen bei der weiteren Optimierung der Interaktion von Benutzern mit Technologie. Um diese Zertifizierung zu erhalten, müssen Sie eine unserer neuen [Workloadzertifizierungen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375179) auf Associate-Ebene ([Modern Desktop Administrator](https://www.microsoft.com/learning/modern-desktop.aspx), [Teamwork Administrator](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx), [Security Administrator](https://www.microsoft.com/learning/m365-security-administrator.aspx) oder [Messaging Administrator](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)) erlangen sowie die Prüfung [MS-100: Microsoft 365 Identity and Services](https://www.microsoft.com/learning/exam-ms-100.aspx) UND die Prüfung [MS-101: Microsoft 365 Mobility and Security](https://www.microsoft.com/learning/exam-ms-101.aspx) bestehen.
+Die Zertifizierung [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx) bestätigt Ihre Qualifikation und Erfahrung im Zusammenhang mit modernen Arbeitsplätzen und hilft Ihnen bei der weiteren Optimierung der Interaktion von Benutzern mit Technologie. Um diese Zertifizierung zu erhalten, müssen Sie eine unserer neuen [Workloadzertifizierungen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375179) auf Associate-Ebene ([Modern Desktop Administrator](https://www.microsoft.com/learning/modern-desktop.aspx), [Teamwork Administrator](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx), [Security Administrator](https://www.microsoft.com/learning/m365-security-administrator.aspx) oder [Messaging Administrator](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)) erlangen sowie die Prüfung [MS-100: Microsoft 365 Identity and Services](https://www.microsoft.com/learning/exam-ms-100.aspx) UND die Prüfung [MS-101: Microsoft 365 Mobility and Security](https://www.microsoft.com/learning/exam-ms-101.aspx) bestehen.
 
-***Verfügen Sie über die Zertifizierung [MCSE: Productivity Solutions Expert](https://www.microsoft.com/learning/mcse-productivity-certification.aspx)?** _ Falls ja, ist dadurch die Workloadanforderung erfüllt. Sie müssen lediglich die Prüfung _ *MS-100: Microsoft 365 Identity and Services** UND die Prüfung **MS-101: Microsoft 365 Mobility and Security** bestehen, um die Zertifizierung „Microsoft 365 Certified: Enterprise Administrator Expert“ zu erlangen.
+***Verfügen Sie über die Zertifizierung [MCSE: Productivity Solutions Expert](https://www.microsoft.com/learning/mcse-productivity-certification.aspx)?** _ Falls ja, ist dadurch die Workloadanforderung erfüllt. Sie müssen lediglich die Prüfung _ *MS-100: Microsoft 365 Identity and Services** UND die Prüfung **MS-101: Microsoft 365 Mobility and Security** bestehen, um die Zertifizierung Microsoft 365 Certified: Enterprise Administrator Expert zu erlangen.
 
 Bei der Prüfung MS-100 wird in erster Linie geprüft, ob Sie Microsoft 365-Lösungen entwerfen und ausführen können – von den Grundlagen der Mandanteneinrichtung über mehrstufige Authentifizierung bis hin zum Konfigurieren von Remotezugriffslösungen für interne und externe Benutzer. Bei der Prüfung MS-101 wird sichergestellt, dass Sie über die nötigen Qualifikationen für die Implementierung sicherer Produktivitätslösungen verfügen. In einer Zeit, in der Datenpannen scheinbar alltäglich geworden sind, ist dies eine Fähigkeit, die jede Organisation dringend benötigt. Durch Bestehen dieser beiden Prüfungen beweisen Sie, dass Sie in der Lage sind, Microsoft 365-Dienste zu bewerten, zu planen, zu migrieren, bereitzustellen und auf sichere Weise zu verwalten.
 

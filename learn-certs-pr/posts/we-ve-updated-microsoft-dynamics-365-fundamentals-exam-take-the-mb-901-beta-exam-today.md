@@ -10,10 +10,10 @@ ms.date: 12/31/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 537183fdee3a53cd425721d0f137808e0ff66b7a
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111644"
 ---
 # <a name="weve-updated-microsoft-dynamics-365-fundamentals-exam-take-the-mb-901-beta-exam-today"></a>Wir haben die Prüfung „Microsoft Dynamics 365 Fundamentals“ aktualisiert: Legen Sie noch heute die Betaprüfung MB-901 ab!
@@ -32,7 +32,7 @@ Möchten Sie die Produktivität steigern, indem Sie Geschäftsprozesse automatis
 
 Haben Sie einige dieser Fragen mit „Ja“ beantwortet? In diesem Fall ist diese Betaprüfung eine ausgezeichnete Gelegenheit für Sie, Ihre Fähigkeiten unter Beweis zu stellen und Anerkennung dafür zu erhalten!
 
-Für die neue Zertifizierung [Microsoft Certified: Dynamics 365 Fundamentals](https://docs.microsoft.com/learn/certifications/d365-fundamentals?WT.mc_id=mb901_mb901blog_cert_dyanmicsfundamentals-blog-wwl) gibt es eine Prüfung, die sich derzeit in der Betaversion befindet: [MB-901: Microsoft Dynamics 365 Fundamentals](https://docs.microsoft.com/learn/certifications/exams/mb-901?WT.mc_id=mb901_mb901blog_cert_exammb901-blog-wwl).
+Für die neue Zertifizierung [Microsoft Certified: Dynamics 365 Fundamentals](https://docs.microsoft.com/learn/certifications/d365-fundamentals?WT.mc_id=mb901_mb901blog_cert_dyanmicsfundamentals-blog-wwl) gibt es eine Prüfung, die sich derzeit in der Betaversion befindet: [MB-901: Microsoft Dynamics 365 Fundamentals](https://docs.microsoft.com/learn/certifications/exams/mb-901?WT.mc_id=mb901_mb901blog_cert_exammb901-blog-wwl).
 
 - Um den Rabatt in Höhe von 80 %* zu erhalten, verwenden Sie den Code **MB901LM57miles**, wenn Sie zur Zahlung aufgefordert werden.
 
@@ -45,13 +45,13 @@ Dies ist **KEIN** privater Zugriffscode. **Sie können diesen Code verwenden, um
 - Sehen Sie sich den [Leitfaden zur Vorbereitung auf MB-901](https://docs.microsoft.com/learn/certifications/exams/mb-901?WT.mc_id=mb901_mb901blog_cert_exammb901-blog-wwl) an, und üben Sie die aufgelisteten Fertigkeiten.
 - [Suchen Sie nach Präsenz- und Onlineschulungen von Microsoft Learning-Partnern](https://www.microsoft.com/learning/course-list.aspx).
 - [Erkunden Sie kostenlose Lernpfade, Kurse und praxisorientierte Lernangebote in Microsoft Learn](https://docs.microsoft.com/learn/browse/).
-- Benötigen Sie weitere Vorschläge zur Vorbereitung? Sehen Sie sich meinen [Blogbeitrag zur Vorbereitung auf Betaprüfungen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374544) an.
+- Benötigen Sie weitere Vorschläge zur Vorbereitung? Sehen Sei sich meinen [Blogbeitrag zur Vorbereitung auf Betaexamen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374544) an.
 
-Wenn Sie an einer Betaprüfung teilnehmen, haben Sie die Möglichkeit, die Fragen mitzugestalten, die in die Prüfung aufgenommen werden, wenn diese veröffentlicht wird. Der Wiederholungsprozess beginnt an dem Tag, an dem die Prüfungen live gehen, und die Endergebnisse werden ca. 10 Tage später veröffentlicht. Folgen Sie mir auf Twitter ([@libertymunson](https://twitter.com/LibertyMunson)), um aktuelle Informationen zum Abschluss der Neubewertung zu erhalten. Wenn Sie Fragen zum Zeitplan für die Bewertung von Betaprüfungen und die Veröffentlichung der Liveprüfung haben, sehen Sie sich die Blogbeiträge [Von der Betaprüfung zur Liveprüfung](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374675) und [Weitere Tipps zu Betaprüfungen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374723) an.
+Wenn Sie an einem Betaexamen teilnehmen, haben Sie die Möglichkeit, die Fragen mitzugestalten, die in das Examen aufgenommen werden, wenn dieses veröffentlicht wird. Der Wiederholungsprozess beginnt an dem Tag, an dem die Prüfungen live gehen, und die Endergebnisse werden ca. 10 Tage später veröffentlicht. Folgen Sie mir auf Twitter ([@libertymunson](https://twitter.com/LibertyMunson)), um aktuelle Informationen zum Abschluss der Neubewertung zu erhalten. Sollten Sie Fragen zum Zeitplan für die Bewertung von Betaexamen und die Veröffentlichung des Examens haben, sehen Sie sich die Blogbeiträge [Vom Betaexamen zum veröffentlichten Examen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374675) und [Weitere Tipps für Betaexamen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374723) an.
 
 Denken Sie daran, dass die Anzahl der Plätze begrenzt ist. Wenn sie weg sind, sind sie weg. Beachten Sie auch, dass der Betacode in einigen Ländern nicht funktioniert (z. B. Türkei, Pakistan, Indien und China). Sie können in diesen Ländern nicht an der Betaprüfung teilnehmen.
 
-Denken Sie auch daran, dass sich diese Prüfungen in der Betaversion befinden, was bedeutet, dass Sie nicht sofort eine Bewertung erhalten. Sie erhalten Ihre endgültige Punktzahl und die Information, ob Sie bestanden haben, sobald die Prüfung live geschaltet ist.
+Denken Sie auch daran, dass sich diese Examen in der Betaversion befinden, was bedeutet, dass Sie nicht sofort eine Bewertung erhalten. Sie erfahren Ihre endgültige Bewertung und Ihren Examensstatus, nachdem Ihr Examen veröffentlicht wurde.
 
 **Zugehörige Ankündigungen**  
 [Teilen von Erkenntnissen zu Cloud- und Arbeitsplatztechnologien](https://docs.microsoft.com/learn/certifications/posts/share-your-insights-on-cloud-and-workplace-technologies)  

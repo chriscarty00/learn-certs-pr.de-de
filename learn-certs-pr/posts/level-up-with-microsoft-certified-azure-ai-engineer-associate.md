@@ -10,10 +10,10 @@ ms.date: 05/20/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 3205a130731d476eb55f4f805196b819fc51b3ef
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112277"
 ---
 # <a name="level-up-with-microsoft-certified-azure-ai-engineer-associate"></a>Entwickeln Sie sich mit Microsoft Certified: Azure AI Engineer Associate
@@ -32,7 +32,7 @@ Darüber hinaus sollten Sie über Kenntnisse und Erfahrung beim Entwerfen und Im
 
 ## <a name="how-can-you-get-ready"></a>Wie können Sie sich vorbereiten?
 
-Sehen Sie sich als Planungshilfe die [Infografik zum Thema „Der Weg zu Microsoft Certified: Azure Developer Associate“](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u) an. Sie finden sie auch im Abschnitt mit den [Zertifizierungsressourcen](https://docs.microsoft.com/learn/certifications/azure-ai-engineer#certification-resources) auf den Zertifizierungs- bzw. Examensseiten, die noch weitere hilfreiche Informationen für Azure AI Engineer Associates enthalten.
+Sehen Sie sich als Planungshilfe die [Infografik zum Thema „Der Weg zu Microsoft Certified: Azure AI Engineer Associate“](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u) an. Sie finden sie auch im Abschnitt mit den [Zertifizierungsressourcen](https://docs.microsoft.com/learn/certifications/azure-ai-engineer#certification-resources) auf den Zertifizierungs- bzw. Examensseiten, die noch weitere hilfreiche Informationen für Azure AI Engineer Associates enthalten.
 
 Halten Sie sich beim Planen an die Reihenfolge in der Infografik. Entscheiden Sie zunächst, ob dies die richtige Zertifizierung für Sie ist.
 

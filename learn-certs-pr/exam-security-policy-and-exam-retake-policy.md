@@ -10,10 +10,10 @@ ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 481c92497219b66f863d8f19fc2c743d2c88d369
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132106539"
 ---
 # <a name="exam-security-policy-and-exam-retake-policy"></a>Sicherheits- und Wiederholungsrichtlinie für Examen
@@ -55,7 +55,7 @@ Nachstehend finden Sie einige Beispiele für solches Fehlverhalten, einschließl
 ## <a name="exam-retake-policy"></a>Richtlinien für die Prüfungswiederholung
 
 1. Allgemeine Richtlinien zur Wiederholung der Microsoft-Zertifizierungsprüfung
-    1. Wenn ein Kandidat bei der erstmaligen Prüfung keinen ausreichenden Punktwert erzielt, muss er 24 Stunden warten, bevor er die Exam Replay kann. Anschließend können sich die Kandidat*innen in ihr [Zertifizierungsdashboard](https://aka.ms/certdashboard) einloggen und das Examen selbst neu ansetzen.
+    1. Wenn ein Kandidat bei der erstmaligen Prüfung keinen ausreichenden Punktwert erzielt, muss er 24 Stunden warten, bevor er die Exam Replay kann. Nach diesem Zeitraum können sich die Kandidaten in ihr [Zertifizierungsdashboard](https://aka.ms/certdashboard) einloggen und die Prüfung selbst neu planen.
     2. Wenn ein Kandidat beim zweiten Prüfungsversuch keinen ausreichenden Punktwert erzielt, muss er mindestens 14 Tage warten, bevor er die Prüfung ein drittes Mal ablegt.
     3. Zwischen dem dritten und vierten Versuch sowie dem vierten und fünften Versuch wird ebenfalls eine Wartezeit von 14 Tagen festgelegt.
     4. Ein Kandidat darf jede Prüfung maximal fünf Mal pro Jahr (12 Monate) ablegen. Dieser Zeitraum von 12 Monaten beginnt mit dem ersten Versuch. Der Kandidat kann die Prüfung 12 Monate nach dem Datum seines ersten Versuchs wiederholen.

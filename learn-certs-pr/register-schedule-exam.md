@@ -9,12 +9,12 @@ ms.workload: NA
 ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 12b1929dea0439a9647482d54f3b72324d1188ab
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.openlocfilehash: 8b6941ae5c42f0c987c0acea96c32dc57994f5f1
+ms.sourcegitcommit: d58330a3c9b4b1a5e9b866fc8ba6af651ab0ed3b
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
-ms.locfileid: "132112197"
+ms.lasthandoff: 12/30/2021
+ms.locfileid: "135638621"
 ---
 # <a name="register-and-schedule-an-exam"></a>Anmelden zur Prüfung und Vereinbaren eines Prüfungstermins
 
@@ -29,17 +29,16 @@ Microsoft arbeitet mit verschiedenen Prüfungsanbietern zusammen, um Zertifizier
 - Für einige Prüfungen steht nur ein Anbieter zur Auswahl. Diese Prüfungen werden von Pearson VUE durchgeführt.
 - Für Prüfungen mit mehreren Anbietern sollten Personen, die eine Zertifizierungsprüfung eigenständig oder im Rahmen eines Schulungsprogramms ablegen, die Option „Zeitplan mit Pearson VUE“ auswählen.
 - Studierende, Angehörige von Bildungseinrichtungen und Kandidaten, die eine Microsoft Office Specialist-Prüfung (MOS) ablegen möchten, sollten die Option „Zeitplan mit Certiport“ auswählen.
-- Arbeitssuchende, die von COVID-19 betroffen sind und Zugang zu einer vergünstigten Prüfung erhalten möchten, wählen „Für USD15 registrieren“ aus und befolgen die Anweisungen, um dieses Angebot zu nutzen. Diese Prüfungen werden ausschließlich als beaufsichtigte Onlineprüfungen angeboten und von PSI durchgeführt.
 
 ## <a name="decide-whether-to-take-your-exam-at-a-test-center-or-use-online-proctoring"></a>Entscheiden Sie, ob Sie Ihre Prüfung in einem Testcenter ablegen oder eine beaufsichtigte Onlineprüfung absolvieren möchten.
 
-Bei einigen Anbietern können Sie bei der Terminvereinbarung auswählen, ob Sie die Prüfung in einem lokalen Testcenter oder online ablegen möchten. Jede Prüfungsform hat ihre Vorteile. Lokale Testcenter bieten eine ruhige Testumgebung und stellen einen Computer bereit, der den Mindeststandards von Microsoft entspricht. Bei einer beaufsichtigten Onlineprüfung können Sie Ihre Prüfung von praktisch jedem Standort ablegen, verwenden jedoch Ihren eigenen Computer. Bitte beachten Sie, dass das USD15-Angebot nur für beaufsichtigte Onlineprüfungen gilt, die von PSI durchgeführt werden.
+Bei einigen Anbietern können Sie bei der Terminvereinbarung auswählen, ob Sie die Prüfung in einem lokalen Testcenter oder online ablegen möchten. Jede Prüfungsform hat ihre Vorteile. Lokale Testcenter bieten eine ruhige Testumgebung und stellen einen Computer bereit, der den Mindeststandards von Microsoft entspricht. Bei einer beaufsichtigten Onlineprüfung können Sie Ihre Prüfung von praktisch jedem Standort ablegen, verwenden jedoch Ihren eigenen Computer.
 
 ## <a name="run-a-system-pre-check"></a>Ausführen einer Vorabprüfung Ihres Systems
 
 Wenn Sie Ihre Prüfung online ablegen möchten, müssen Sie **vor der Anmeldung zur Prüfung** durch eine Systemprüfung sicherstellen, dass Ihr Rechner die Anforderungen erfüllt. Wenn Sie die Prüfung auf einem anderen Computer ablegen, müssen Sie die Systemprüfung auf diesem Rechner durchführen.
 
-Ausführliche Anweisungen zur Durchführung der Systemvorprüfung für den von Ihnen gewählten Prüfungsanbieter finden Sie unter [Informationen zu Onlineprüfungen mit Pearson VUE](/learn/certifications/online-exams) oder [Informationen zu Onlineprüfungen mit PSI](/learn/certifications/online-exams-psi). Certiport bietet derzeit keine beaufsichtigten Onlineprüfungen an.
+Ausführliche Anweisungen zur Durchführung der Systemvorprüfung finden Sie unter: Informationen zu [Onlineprüfungen mit Pearson VUE](/learn/certifications/online-exams). Certiport bietet derzeit keine beaufsichtigten Onlineprüfungen an.
 
 Wenn Sie sich nicht sicher sind, welchen Prüfungsanbieter Sie auswählen sollen, finden Sie weitere Informationen in diesen Abschnitt: [Auswählen eines Prüfungsanbieters](#how-to-choose-an-exam-delivery-provider).
 
@@ -48,7 +47,7 @@ Wenn Sie sich nicht sicher sind, welchen Prüfungsanbieter Sie auswählen sollen
 1. Klicken Sie auf der Detailseite einer beliebigen Zertifizierung oder Prüfung auf die Schaltfläche zur Vereinbarung eines Prüfungstermins bei einem Prüfungsanbieter Ihrer Wahl.
 <br/>
 <br/>
-![Auswahl der Schaltfläche zur Vereinbarung eines Prüfungstermins bei einem Prüfungsanbieter Ihrer Wahl](images/instructions-to-register-for-exam-step-1.png)
+![Auswahl der Schaltfläche zur Vereinbarung eines Prüfungstermins bei einem Prüfungsanbieter Ihrer Wahl](images/step-by-step-instructions-to-register-for-exam-step-1.png)
 <br/>
 <br/>
 2. Sie werden aufgefordert, sich mit einem persönlichen Microsoft-Konto anzumelden. Wenn Sie bereits über ein Zertifizierungsprofil verfügen, verwenden Sie das dem Profil zugeordnete Microsoft-Konto. Wenn Sie noch kein Profil besitzen, können Sie mit Ihrem persönlichen Microsoft-Konto ein Zertifizierungsprofil erstellen.

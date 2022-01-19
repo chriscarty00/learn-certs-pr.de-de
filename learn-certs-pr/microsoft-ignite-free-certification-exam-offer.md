@@ -10,10 +10,10 @@ ms.date: 11/04/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: b07a270aca4e1a478e6f9242df64e8525ec5c455
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111755"
 ---
 # <a name="microsoft-ignite-and-microsoft-ignite-the-tour-free-certification-exam-offer"></a>Microsoft Ignite und Microsoft Ignite The Tour: Angebot einer kostenlosen Zertifizierungsprüfung
@@ -32,14 +32,14 @@ Wenn Sie an der Microsoft Ignite 2019 oder einer Microsoft Ignite, The Tour 2019
 
 Im Folgenden finden Sie schrittweise Anleitungen, wie Sie Ihre kostenlose Prüfung beantragen können.
 
-**Schritt 1**: Wählen Sie eine der [infrage kommenden Prüfungen](#eligible-exams-for-this-offer) aus, und klicken Sie auf die Schaltfläche „Prüfung planen“, um den Onlineregistrierungsprozess zu starten.  
-![Planen einer Prüfung](images/step1.png)
+**Schritt 1**: Wählen Sie eines der [infrage kommenden Examen](#eligible-exams-for-this-offer) aus, und klicken Sie auf die Schaltfläche „Examen planen“, um den Onlineregistrierungsprozess zu starten.  
+![Planen eines Examens](images/step1.png)
 
-**Schritt 2**: Melden Sie sich bei Ihrem vorhandenen Microsoft-Zertifizierungsprofil an, oder erstellen Sie ein Profil mit einem Microsoft-Konto.  
+**Schritt 2**: Melden Sie sich in Ihrem bestehenden Microsoft-Zertifizierungsprofil an, oder erstellen Sie eines mit einem Microsoft-Konto.  
 ![Anmelden mit Microsoft-Konto](images/step-2-2x.png)
 
-**Schritt 3**: Überprüfen Sie nach dem Anmelden, ob die Angaben in Ihrem Zertifizierungsprofil stimmen.  
-![Überprüfen der Details im Microsoft-Zertifizierungsprofil](images/step3.png)
+**Schritt 3**: Bestätigen Sie nach dem Anmelden, dass die Angaben in Ihrem Zertifizierungsprofil stimmen.  
+![Bestätigen der Details im Microsoft-Zertifizierungsprofil](images/step3.png)
 
 **Schritt 4**: Klicken Sie unten auf der Seite „Zertifizierungsprofil“ auf „Speichern und fortfahren“, um zur Seite „Prüfungsrabatte“ zu gelangen.  
 ![Klicken auf „Speichern und fortfahren“ unten auf der Seite mit dem Zertifizierungsprofil](images/step-4-2x.png)
@@ -56,7 +56,7 @@ Im Folgenden finden Sie schrittweise Anleitungen, wie Sie Ihre kostenlose Prüfu
 Wenn Sie sich das nächste Mal anmelden und Anspruch auf Prüfungsrabatte für eines dieser Konten haben, werden die Rabatte automatisch angezeigt. Um ein Konto zu entfernen, rufen Sie das [Zertifizierungsdashboard](https://aka.ms/certdashboard) auf, und klicken Sie auf „Zertifizierungsprofil bearbeiten“.
 
 **Schritt 8**: Oben wird ein Rabatt eingeblendet. Wählen Sie den Rabatt aus, den Sie beanspruchen möchten, und fahren Sie mit dem Auschecken fort, indem Sie auf die Schaltfläche für die geplante Prüfung klicken.  
-![Auswählen des Rabatts und Fortfahren durch Klicken auf die Schaltfläche „Geplante Prüfung“](images/step8-coupon.png)
+![Rabatt auswählen und fortfahren, indem Sie auf die Schaltfläche „Geplante Prüfung“ klicken](images/step8-coupon.png)
 
 **Schritt 9**: Führen Sie die Schritte auf den folgenden Bildschirmen aus, und geben Sie die erforderlichen Details an, um Ihre Prüfung zu planen. Vergewissern Sie sich beim bezahlen, dass der gesamte Betrag $0.00 beträgt und reichen Sie die Bestellung ein.  
 ![Verknüpfen von Konten zum Erhalten von Rabatten](images/step9.png)
@@ -73,13 +73,13 @@ Dieses Angebot umfasst alle Microsoft-Grundlagen, rollenbasierten und spezialisi
 | --- | --- |
 | Azure | [AI-100: Designing and Implementing an Azure AI Solution](/learn/certifications/exams/ai-100)<br/>[AI-900: Microsoft Azure AI Fundamentals](/learn/certifications/exams/ai-900)<br/>[AZ-104: Microsoft Azure Administrator](/learn/certifications/exams/az-104)<br/>[AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](/learn/certifications/exams/az-120)<br/>[AZ-204: Developing Solutions for Microsoft Azure](/learn/certifications/exams/az-204)<br/>[AZ-220: Microsoft Azure IoT Developer](/learn/certifications/exams/az-220)<br/>[AZ-303: Microsoft Azure Architect Technologies](/learn/certifications/exams/az-303)<br/>[AZ-304: Microsoft Azure Architect Design](/learn/certifications/exams/az-304)<br/>[AZ-400: Designing and Implementing Microsoft DevOps Solutions](/learn/certifications/exams/az-400)<br/>[AZ-500: Microsoft Azure Security Technologies](/learn/certifications/exams/az-500)<br/>[AZ-900: Microsoft Azure Fundamentals](/learn/certifications/exams/az-900)<br/>[DA-100: Analyzing Data with Microsoft Power BI](/learn/certifications/exams/da-100)<br/>[DP-100: Designing and Implementing a Data Science Solution on Azure](/learn/certifications/exams/dp-100)<br/>[DP-200: Implementing an Azure Data Solution](/learn/certifications/exams/dp-200)<br/>[DP-201: Designing an Azure Data Solution](/learn/certifications/exams/dp-201)<br/>[DP-300: Administering Relational Databases on Microsoft Azure](/learn/certifications/exams/dp-300)<br/>[DP-900: Microsoft Azure Data Fundamentals](/learn/certifications/exams/dp-900) |
 | Dynamics 365 und Power Platform | [MB-210: Microsoft Dynamics 365 Sales](/learn/certifications/exams/mb-210)<br/>[MB-220: Microsoft Dynamics 365 Marketing](/learn/certifications/exams/mb-220)<br/>[MB-230: Microsoft Dynamics 365 Customer Service](/learn/certifications/exams/mb-230)<br/>[MB-240: Microsoft Dynamics 365 Field Service](/learn/certifications/exams/mb-240)<br/>[MB-300: Microsoft Dynamics 365: Core Finance and Operations](/learn/certifications/exams/mb-300)<br/>[MB-310: Microsoft Dynamics 365 Finance](/learn/certifications/exams/mb-310)<br/>[MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing](/learn/certifications/exams/mb-320)<br/>[MB-330: Microsoft Dynamics 365 Supply Chain Management](/learn/certifications/exams/mb-330)<br/>[MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer](/learn/certifications/exams/mb-500)<br/>[MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect](/learn/certifications/exams/mb-600)<br/>[MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect](/learn/certifications/exams/mb-700)<br/>[MB-800: Microsoft Dynamics 365 Business Central Functional Consultant](/learn/certifications/exams/mb-800)<br/>[MB-901: Microsoft Dynamics 365 Fundamentals](/learn/certifications/exams/mb-901)<br/>[PL-100: Microsoft Power Platform App Maker](/learn/certifications/exams/pl-100)<br/>[PL-200: Microsoft Power Platform Functional Consultant](/learn/certifications/exams/pl-200)<br/>[PL-400: Microsoft Power Platform Developer](/learn/certifications/exams/pl-400)<br/>[PL-900: Microsoft Power Platform Fundamentals](/learn/certifications/exams/pl-900) |
-| Microsoft 365 | [MD-100: Windows 10](/learn/certifications/exams/md-100)<br/>[MD-101: Managing Modern Desktops](/learn/certifications/exams/md-101)<br/>[MS-100: Microsoft 365 Identity and Services](/learn/certifications/exams/ms-100)<br/>[MS-101: Microsoft 365 Mobility and Security](/learn/certifications/exams/ms-101)<br/>[MS-203: Microsoft 365 Messaging](/learn/certifications/exams/ms-203)<br/>[MS-500: Microsoft 365 Security Administration](/learn/certifications/exams/ms-500)<br/>[MS-600: Building Applications and Solutions with Microsoft 365 Core Services](/learn/certifications/exams/ms-600)<br/>[MS-700: Managing Microsoft Teams](/learn/certifications/exams/ms-700)<br/>[MS-900: Microsoft 365 Fundamentals](/learn/certifications/exams/ms-900) |
+| Microsoft 365 | [MD-100: Windows 10](/learn/certifications/exams/md-100)<br/>[MD-101: Managing Modern Desktops](/learn/certifications/exams/md-101)<br/>[MS-100: Microsoft 365 Identity and Services](/learn/certifications/exams/ms-100)<br/>[MS-101: Microsoft 365 Mobility and Security](/learn/certifications/exams/ms-101)<br/>[MS-203: Microsoft 365 Messaging](/learn/certifications/exams/ms-203)<br/>[MS-500: Microsoft 365 Security Administration](/learn/certifications/exams/ms-500)<br/>[MS-600: Building Applications and Solutions with Microsoft 365 Core Services](/learn/certifications/exams/ms-600)<br/>[MS-700: Managing Microsoft Teams](/learn/certifications/exams/ms-700)<br/>[MS-900: Microsoft 365 Fundamentals](/learn/certifications/exams/ms-900) |
 
 ## <a name="faq"></a>Häufig gestellte Fragen
 
 ### <a name="about-the-offer"></a>Informationen zum Angebot
 
-**F: Für wie viele Prüfungen kann ich mich durch dieses Angebot kostenlos anmelden?**
+**F: Für wie viele Examen kann ich mich durch dieses Angebot kostenlos anmelden?**
 
 **A**: Im Rahmen dieses Angebots haben Sie Anspruch auf eine kostenlose Zertifizierungsprüfung. Das Angebot besteht aus einer kostenlosen, berechtigten Prüfung, auch wenn Sie mehrere Microsoft Ignite Veranstaltungen besuchen.
 
@@ -127,9 +127,9 @@ Dieses Angebot umfasst alle Microsoft-Grundlagen, rollenbasierten und spezialisi
 
 ### <a name="cancellation-and-reschedule-policy"></a>Stornierungs- und Neuterminierungsrichtlinie
 
-**F: Kann ich bei Bedarf meinen Prüfungstermin im Rahmen dieses Angebots verschieben?**
+**F: Kann ich bei Bedarf meinen Examenstermin im Rahmen dieses Angebots verschieben?**
 
-**A**: Ja, Sie können Ihren Prüfungstermin verschieben, was allerdings vor Ablauf des Angebots geschehen muss. Weitere Informationen finden Sie unter [Neuplanungsrichtlinie](/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
+**A:** Ja, Sie können Ihren Prüfungstermin verschieben, was allerdings vor Ablauf des Angebots geschehen muss. Weitere Informationen finden Sie unter [Neuplanungsrichtlinie](/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
 
 **F: Fallen Gebühren an, wenn ich meinen Prüfungstermin verschiebe oder absage?**
 
@@ -141,9 +141,9 @@ Dieses Angebot umfasst alle Microsoft-Grundlagen, rollenbasierten und spezialisi
 
 ### <a name="retake-policy"></a>Wiederholungsrichtlinie
 
-**F: Kann ich eine Prüfung kostenlos wiederholen, wenn ich beim ersten Mal bei Inanspruchnahme des Angebots für kostenlose Zertifizierungsprüfungen durchgefallen bin?**
+**F: Kann ich ein Examen kostenlos wiederholen, wenn ich beim ersten Mal bei Inanspruchnahme des Angebots für kostenlose Zertifizierungsexamen durchgefallen bin?**
 
-**A**: Nein, das Angebot ist nur für einen Versuch gültig. Wiederholungen müssen gesondert geplant werden. Weitere Informationen zur Wiederholung von Zertifizierungsprüfungen finden Sie in unserer [Richtlinie zur Prüfungswiederholung](/learn/certifications/certification-exam-policies#security-policies).
+**A**: Nein, das Angebot ist nur für einen Versuch gültig. Wiederholungen müssen gesondert geplant werden. Weitere Informationen zur Wiederholung von Zertifizierungsexamen finden Sie in unserer [Richtlinie zur Examenswiederholung](/learn/certifications/certification-exam-policies#security-policies).
 
 ## <a name="terms-and-conditions"></a><a name="terms-and-conditions"></a> Bestimmungen
 
@@ -155,7 +155,7 @@ Dieses Angebot umfasst alle Microsoft-Grundlagen, rollenbasierten und spezialisi
 - Das Ablaufdatum dieses Prüfungsangebots kann unter keinen Umständen verlängert werden.
 - Dieses Prüfungsangebot ist für folgende Personenkreise nicht gültig und kann durch diese auch nicht eingelöst werden: 1. Mitarbeiter von Behörden, 2. Einwohner von Israel, Deutschland und Schweden.  *Dieses Angebot ist für Behördenmitarbeiter sowie Einwohner bestimmter Gebiete nicht verfügbar – **gemäß Bekanntgabe** –, da es die nach den Richtlinien von Microsoft und der örtlichen Gesetzgebung zulässigen Grenzen überschreitet.
 - Dieses Prüfungsangebot kann nur einmal eingelöst werden. 
-- Dieses Prüfungsangebot kann nicht gegen Bargeld, Guthaben oder Rückerstattung eingelöst oder umgetauscht werden.
-- Dieses Prüfungsangebot ist nicht übertragbar und verfällt, wenn Sie es in irgendeiner Weise ändern, überarbeiten oder übertragen.
+- Dieses Prüfungsangebot kann nicht gegen Bargeld, Kredit oder Rückerstattung eingelöst oder umgetauscht werden.
+- Dieses Examensangebot ist nicht übertragbar und verfällt, wenn Sie es in irgendeiner Weise ändern, überarbeiten oder übertragen.
 
 Weitere Informationen finden Sie in den vollständigen [Microsoft-Nutzungsbedingungen](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1).

@@ -10,10 +10,10 @@ ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 57d22322e84905c3233363cfc230d8176e23dcca
-ms.sourcegitcommit: 08b1477e165d72ac5f008313afadd7374dd2fa49
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112565"
 ---
 # <a name="access-your-certification-dashboard"></a>Zugreifen auf Ihr Zertifizierungsdashboard

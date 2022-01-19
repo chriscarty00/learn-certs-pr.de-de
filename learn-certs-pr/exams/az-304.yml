@@ -1,24 +1,24 @@
 ### YamlMime:Examination
 title: Microsoft Azure Architect Design
 metadata:
-  title: 'Examen AZ-304: Microsoft Azure Architect Design'
-  description: 'Examen AZ-304: Microsoft Azure Architect Design'
-  ms.openlocfilehash: c0cd20ce964f92577764476cd3bb451a7118c07b
-  ms.sourcegitcommit: b69a9b2b33f5f8993b5f681e1e6362b5666158e9
-  ms.translationtype: HT
+  title: 'Prüfung AZ-304: Microsoft Azure Architect Design'
+  description: 'Prüfung AZ-304: Microsoft Azure Architect Design'
+  ms.openlocfilehash: e3e7764e3774185c2a4e019f7c1b44e4e1086130
+  ms.sourcegitcommit: 6491474c7565815a27be28fa0c264bf6c093f5b4
+  ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 12/18/2021
-  ms.locfileid: "135412643"
+  ms.lasthandoff: 12/23/2021
+  ms.locfileid: "135540220"
 uid: exam.az-304
 displayName: AZ-304
 summary: >-
-  <div><div><strong>WICHTIG: </strong>DIESES EXAMEN LÄUFT AM 31. MÄRZ 2022 AB. Eine Ersatzprüfung (<a href="/learn/certifications/exams/az-305">Exam AZ-305</a>) ist in der Betaversion verfügbar. <br/><br/><strong>Die Zertifizierung <a href="/learn/certifications/azure-solutions-architect/">Microsoft Certified: Azure Solutions Architect Expert</a> wird durch Erfüllen der folgenden Anforderungen erlangt:</strong><ul>
+  <div><div><strong>WICHTIG: </strong> DIESE PRÜFUNG WIRD AM 31. MÄRZ 2022 ZURÜCKGEZOGEN. Eine neue Prüfung, <a href="/learn/certifications/exams/az-305">Prüfung AZ-305,</a>ist in der Betaversion verfügbar. <br/><br/><strong>Um die <a href="/learn/certifications/azure-solutions-architect/">Zertifizierung Microsoft Certified: Azure Fachkraft für Lösungsarchitekturen Expert</a> zu erhalten, erfüllen Sie die folgenden Anforderungen:</strong><ul>
 
-  <li>Bestehen der Zertifizierung <a href="/learn/certifications/azure-solutions-architect/">Microsoft Certified: Azure Solutions Architect Expert</a> oder von <a href="/learn/certifications/exams/az-305">Exam AZ-305</a>, <strong>oder</strong></li>
+  <li>Erwerben der Zertifizierung <a href="/learn/certifications/azure-administrator/">Microsoft Certified: Azure Administrator Associate</a> und Bestehen der <a href="/learn/certifications/exams/az-305">Prüfung AZ-305</a> <strong>oder</strong></li>
 
-  <li>Bestehen von <a href="/learn/certifications/exams/az-303">Exam AZ-303</a> und <a href="/learn/certifications/exams/az-304">Exam AZ-304</a> <em>(bevor diese am 31. März 2022 ablaufen)</em>, <strong>oder</strong></li>
+  <li>Bestandene <a href="/learn/certifications/exams/az-303">Prüfung AZ-303</a> und <a href="/learn/certifications/exams/az-304">Prüfung AZ-304</a> (bevor sie am <em>31. März 2022 in Rente gehen)</em> <strong>oder</strong></li>
 
-  <li>Bestehen von <a href="/learn/certifications/exams/az-303">Exam AZ-303</a> <em> (bevor diese am 31. März 2022)</em> und <a href="/learn/certifications/exams/az-305">Exam AZ-305</a> </li>
+  <li>Bestandene <a href="/learn/certifications/exams/az-303">Prüfung AZ-303</a> (bevor sie am <em>31. März 2022</em> in den Abgang geht) und <a href="/learn/certifications/exams/az-305">Prüfung AZ-305</a> </li>
 
   </ul>In <a href="https://aka.ms/AzureSlnsArchBlog">diesem Blogbeitrag</a> finden Sie weitere Informationen zu Zertifizierungsmöglichkeiten.<br/><br/><strong>Der Inhalt dieses Examens wurde am 23. November 2021 aktualisiert. Laden Sie das unten aufgeführte Dokument mit den bewerteten Qualifikationen herunter, um zu sehen, was sich geändert hat.</strong><br/><br/></div><div>HINWEIS: Erforderliche Punktzahl: 700. Weitere Informationen zur Prüfungsauswertung finden Sie <a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">hier</a>.<br/><br/></div></div>
 
@@ -33,11 +33,11 @@ summary: >-
 
 
   Ein Kandidat für diese Prüfung sollte über umfassende Erfahrung und Kenntnisse in verschiedenen Aspekten des IT-Betriebs verfügen, einschließlich Netzwerk, Virtualisierung, Identität, Sicherheit, Geschäftskontinuität, Notfallwiederherstellung, Datenmanagement, Budgetierung und Governance. Jemand in dieser Position sollte Entscheidungen in den einzelnen Bereichen steuern, die eine Gesamtlösung beeinflussen. Darüber hinaus sollte diese Rolle über Expertenkenntnisse in der Azure-Verwaltung verfügen und Erfahrung mit der Azure-Entwicklung und den DevOps-Prozessen haben.
-subTitle: 'In diesem Examen wird Ihre Fähigkeit abgefragt, die folgenden technischen Aufgaben zu bewältigen: Entwerfen von Überwachung, Identität und Sicherheit, Datenspeichern, Geschäftskontinuität und Infrastruktur.'
+subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben auszuführen: Entwurfsüberwachung; Entwerfen von Identität und Sicherheit; Entwerfen der Datenspeicherung; Geschäftskontinuität entwerfen; und Entwerfen der Infrastruktur.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWz
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-304?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-DE&examcode=AZ-304&examname=Exam%20AZ-304:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-304
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-304&examname=Exam%20AZ-304:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-304
 locales:
 - en
 - ja

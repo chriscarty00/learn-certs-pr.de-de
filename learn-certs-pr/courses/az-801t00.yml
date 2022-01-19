@@ -1,0 +1,578 @@
+### YamlMime:Course
+title: Konfigurieren von Windows Server Hybrid Advanced Services
+metadata:
+  title: 'Kurs AZ-801T00--A: Konfigurieren von Windows Server Hybrid Advanced Services'
+  description: 'Kurs AZ-801T00--A: Konfigurieren von Windows Server Hybrid Advanced Services'
+  ms.openlocfilehash: c55d4436d3f9062c869152658bd5ef54eff7859e
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/28/2021
+  ms.locfileid: "135573388"
+uid: course.az-801t00
+courseNumber: AZ-801T00
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Härten Sie die Sicherheitskonfiguration der Windows Server-Betriebssystemumgebung.
+- skill: Verbessern Sie die Hybridsicherheit mit Hilfe von Azure Security Center, Azure Sentinel und Windows Update Management.
+- skill: Wenden Sie Sicherheitsfunktionen an, um kritische Ressourcen zu schützen.
+- skill: Implementieren Sie Lösungen für hohe Verfügbarkeit und Notfallwiederherstellung.
+- skill: Implementieren sie Wiederherstellungsdienste in Hybridszenarien.
+- skill: Planen und implementieren Sie hybride und reine Cloud-Migrations-, Sicherungs- und Wiederherstellungsszenarien.
+- skill: Führen Sie Upgrades und Migrationen in Bezug auf AD DS und Speicher durch.
+- skill: Verwalten und Überwachen von Hybridszenarien mit WAC, Azure Arc, Azure Automation und Azure Monitor.
+- skill: Implementieren Sie die Service- und Leistungsüberwachung und wenden Sie die Fehlerbehebung an.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.az-801
+summary: >-
+  Dieser viertägige kursleitergeleitete Kurs richtet sich an IT-Experten, die erweiterte Windows Serverdienste mit lokalen, hybriden und Cloudtechnologien konfigurieren. Diese Experten verwalten und unterstützen eine Infrastruktur, die lokale und in Azure IaaS gehostete Windows Server-basierte Workloads umfasst. In diesem Kurs erfahren IT-Experten, wie sie die Hybridfunktionen von Azure nutzen, workloads virtueller und physischer Server zu Azure IaaS migrieren und azure-VMs verwalten und schützen, die Windows Server ausgeführt werden. Außerdem wird erläutert, wie Sie Aufgaben im Zusammenhang mit Hochverfügbarkeit, Problembehandlung und Notfallwiederherstellung ausführen. In diesem Kurs werden verschiedene Verwaltungstools und -technologien wie Windows Admin Center, PowerShell, Azure Arc, Azure Automation Updateverwaltung, Microsoft Defender for Identity, Azure Security Center, Azure Migrate und Azure Monitor beschrieben.
+
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+
+  Dieser viertägige Kurs richtet sich an Windows Server-Hybridadministratoren, die erfahrungsgemäß mit Windows Server arbeiten und die Funktionen ihrer lokalen Umgebungen erweitern möchten, indem sie lokale und Hybridtechnologien kombinieren. Windows Server-Hybridadministratoren, die bereits lokale Kerntechnologien implementieren und verwalten, möchten ihre Umgebungen schützen, virtuelle und physische Workloads zu Azure Iaas migrieren, eine hoch verfügbare, vollständig redundante Umgebung aktivieren und Überwachung und Problembehandlung durchführen.
+prerequisitesSection: >-
+  Vor der Teilnahme an diesem Kurs müssen die Teilnehmer folgende Voraussetzungen erfüllen:
+
+
+  *   Erfahrung mit der Verwaltung von Windows Server-Betriebssystemen und Windows Server-Workloads in lokalen Szenarios, einschließlich AD DS, DNS, DFS, Hyper-V und Datei-/Speicherdiensten
+
+
+  *   Erfahrung mit allgemeinen Windows Serververwaltungstools (in der ersten Voraussetzung impliziert).
+
+
+  *   Grundkenntnisse der wichtigsten Compute-, Speicher-, Netzwerk- und Virtualisierungstechnologien von Microsoft (in der ersten Voraussetzung impliziert).
+
+
+  *   Erfahrung und Kenntnisse über grundlegende Netzwerktechnologien wie IP-Adressierung, Namensauflösung und DHCP (Dynamic Host Configuration Protocol)
+
+
+  *   Erfahrung in der Arbeit mit und Kenntnisse über Microsoft Hyper-V und grundlegende Servervirtualisierungskonzepte
+
+
+  *   Ein Bewusstsein für die grundlegenden bewährten Sicherheitsmethoden
+
+
+  *   Grundlegende Kenntnisse zu sicherheitsrelevanten Technologien (Firewalls, Verschlüsselung, mehrstufige Authentifizierung, SIEM/SOAR).
+
+
+  *   Grundlegende Kenntnisse zu auf Windows Server basierenden Compute- und Speichertechnologien für lokale Resilienz (Failoverclustering, Speicherplätze)
+
+
+  *   Grundlegende Kenntnisse zur Implementierung und Verwaltung von IaaS-Diensten in Microsoft Azure
+
+
+  *   Grundlegende Kenntnisse im Umgang mit Azure Active Directory
+
+
+  *   Praktisches Arbeiten mit Windows Clientbetriebssystemen wie Windows 10 oder Windows 11
+
+
+  *   Grundlegende Erfahrung mit Windows PowerShell
+
+
+
+  Ein Verständnis folgender Konzepte im Zusammenhang mit Windows Server-Technologien:
+   * Hochverfügbarkeit und Notfallwiederherstellung
+   * Automatisierung
+   * Überwachung
+   * Problembehandlung
+outlineSection: >-
+  ### <a name="module-1-windows-server-security"></a>Modul 1: Windows Serversicherheit
+
+
+  In diesem Modul wird erläutert, wie Sie eine Active Directory-Umgebung schützen, indem Sie Benutzerkonten mit geringsten Rechten schützen und in der Gruppe Geschützte Benutzer platzieren. In diesem Modul wird erläutert, wie Sie den Authentifizierungsbereich einschränken und potenziell unsichere Konten beheben. Das Modul beschreibt auch, wie die Sicherheitskonfiguration einer Windows Server-Betriebssystemumgebung gehärtet wird. Darüber hinaus wird im Modul die Verwendung von Windows Server Update Services zum Bereitstellen von Betriebssystemupdates auf Computern im Netzwerk erläutert. Schließlich wird im Modul erläutert, wie sie Windows Server-DNS schützen, um die Infrastruktur für die Netzwerknamensauflösung zu schützen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Schützen von Windows Server-Benutzerkonten
+
+
+  *   Härten von Windows Server
+
+
+  *   Windows Server Updateverwaltung
+
+
+  *   Absichern von Windows Server-DNS
+
+
+
+  #### <a name="lab--configuring-security-in-windows-server"></a>Lab: Konfigurieren der Sicherheit in Windows Server
+
+
+  ####
+     *   Konfigurieren von Windows Defender Credential Guard
+     *   Ermitteln problematischer Konten
+     *   Implementieren von LAPS
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Diagnostizieren und Beheben potenzieller Sicherheitsrisiken in Windows Serverressourcen.
+
+
+  *   Härten Sie die Sicherheitskonfiguration der Windows Server-Betriebssystemumgebung.
+
+
+  *   Bereitstellen von Betriebssystemupdates auf Computern in einem Netzwerk mithilfe von Windows Server Update Services.
+
+
+  *   Schützen Sie Windows Server-DNS, um die Infrastruktur für die Netzwerknamensauflösung zu schützen.
+
+
+  *   Implementieren von DNS-Richtlinien.
+
+
+
+  ### <a name="module-2-implementing-security-solutions-in-hybrid-scenarios"></a>Modul 2: Implementieren von Sicherheitslösungen in Hybridszenarien
+
+
+  In diesem Modul wird beschrieben, wie Sie lokale Windows Serverressourcen und Azure IaaS-Workloads schützen. In diesem Modul wird erläutert, wie Sie die Netzwerksicherheit für Windows Virtuelle IaaS-Computer (Infrastructure-as-a-Service) verbessern und Netzwerksicherheitsprobleme mit diesen VMs diagnostizieren. Darüber hinaus führt das Modul Azure Security Center ein und erläutert, wie Windows Servercomputer in Security Center integriert werden. Außerdem wird beschrieben, wie Sie Azure Updateverwaltung aktivieren, Updates bereitstellen, eine Updatebewertung überprüfen und Updates für Azure-VMs verwalten. In den Modulen wird erläutert, wie adaptive Anwendungssteuerungen und BitLocker-Datenträgerverschlüsselung verwendet werden, um Windows Server-IaaS-VMs zu schützen. Schließlich wird im Modul erläutert, wie sie Windows Server-Azure IaaS-VMs auf Änderungen in Dateien und der Registrierung überwachen und Änderungen an der Anwendungssoftware überwachen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Implementieren Sie Windows Server-IaaS-VM-Netzwerksicherheit.
+
+
+  *   Überwachen der Sicherheit von virtuellen Windows Server-IaaS-Computern
+
+
+  *   Verwalten von Azure-Updates
+
+
+  *   Erstellen und Implementieren von Anwendungspositivlisten mit adaptiver Anwendungssteuerung
+
+
+  *   Konfigurieren der BitLocker-Datenträgerverschlüsselung für Windows-IaaS-VMs
+
+
+  *   Implementieren der Änderungsnachverfolgung und Dateiintegritätsüberwachung für Windows Server-IaaS-VMs
+
+
+
+  #### <a name="lab--using-azure-security-center-in-hybrid-scenarios"></a>Lab: Verwenden von Azure Security Center in Hybridszenarien
+
+
+  ####
+     *   Bereitstellen von Azure-VMs, auf denen Windows Server ausgeführt wird
+     *   Konfigurieren von Azure Security Center
+     *   Onboarding eines lokalen Windows-Servers in Azure Security Center
+     *   Überprüfen der Hybridfunktionen von Azure Security Center
+     *   Konfigurieren der Windows Server 2019-Sicherheit in Azure-VMs
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Diagnostizieren von Netzwerksicherheitsproblemen auf Windows virtuellen IaaS-Computern.
+
+
+  *   Integrieren von Windows Server-Computern in Azure Security Center.
+
+
+  *   Stellen Sie Updates für Azure-VMs bereit, und verwalten Sie sie, indem Sie Azure Automation Updateverwaltung aktivieren.
+
+
+  *   Implementieren Sie adaptive Anwendungssteuerungen, um Windows Server-IaaS-VMs zu schützen.
+
+
+  *   Konfigurieren Sie Azure Disk Encryption für Windows virtuelle IaaS-Computer (VMs).
+
+
+  *   Sichern und Wiederherstellen verschlüsselter Daten.
+
+
+  *   Überwachen Sie Windows Server-Azure IaaS-VMs auf Änderungen in Dateien und in der Registrierung.
+
+
+
+  ### <a name="module-3-implementing-high-availability"></a>Modul 3: Implementieren von Hochverfügbarkeit
+
+
+  In diesem Modul werden Technologien und Optionen zum Erstellen einer hoch verfügbaren Windows Server-Umgebung beschrieben. Das Modul führt freigegebene Clustervolumes für den Gemeinsamen Speicherzugriff auf mehrere Clusterknoten ein. Das Modul hebt auch Failoverclustering, Stretchingcluster und Clustergruppen für die Implementierung von Hochverfügbarkeit von Windows Serverworkloads hervor. Anschließend werden hoch verfügbare Bereitstellungen für Hyper-V- und Windows Server-VMs erläutert, z. B. Netzwerklastenausgleich, Livemigration und Speichermigration. Das Modul behandelt auch Hochverfügbarkeitsoptionen für Freigaben, die auf Windows Serverdateiservern gehostet werden. Schließlich wird im Modul beschrieben, wie die Skalierung für VM-Skalierungssätze und VMs mit Lastenausgleich implementiert wird und wie Azure Site Recovery implementiert werden.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Einführung in freigegebene Clustervolumes.
+
+
+  *   Implementieren des Windows Server-Failoverclusterings
+
+
+  *   Implementieren Sie Hochverfügbarkeit von Windows Server-VMs.
+
+
+  *   Implementieren Sie Hochverfügbarkeit für Windows Serverdateiserver.
+
+
+  *   Implementieren Sie Skalierung und Hochverfügbarkeit mit Windows Server-VMs.
+
+
+
+  #### <a name="lab--implementing-failover-clustering"></a>Lab: Implementieren von Failoverclustering
+
+
+  ####
+     *   Konfigurieren von iSCSI-Speicher
+     *   Konfigurieren eines Failoverclusters
+     *   Bereitstellen und Konfigurieren eines hochverfügbaren Dateiservers
+     *   Überprüfen der Bereitstellung eines hochverfügbaren Dateiservers
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Implementieren Sie hoch verfügbare Speichervolumes mithilfe von Clusterfreigabevolumes.
+
+
+  *   Implementieren Sie hoch verfügbare Windows Serverworkloads mithilfe von Failoverclustering.
+
+
+  *   Beschreiben des Lastenausgleichs von Hyper-V-VMs
+
+
+  *   Implementieren Sie die Livemigration von Hyper-V-VMs und die Speichermigration virtueller Hyper-V-Computer.
+
+
+  *   Beschreiben Windows Optionen für hohe Verfügbarkeit des Serverdateiservers.
+
+
+  *   Implementieren Sie die Skalierung für SKALIERUNGEN VIRTUELLER Computer und VMs mit Lastenausgleich.
+
+
+  *   Implementieren von Azure Site Recovery.
+
+
+
+  ### <a name="module-4-disaster-recovery-in-windows-server"></a>Modul 4: Notfallwiederherstellung in Windows Server
+
+
+  In diesem Modul wird Hyper-V-Replikat als Lösung für Geschäftskontinuität und Notfallwiederherstellung für eine virtuelle Umgebung einführen. In diesem Modul werden Hyper-V-Replikatszenarien und Anwendungsfälle sowie die Voraussetzungen für die Verwendung erläutert. Im Modul wird auch erläutert, wie Sie Azure Site Recovery in lokalen Szenarien implementieren, um die Wiederherstellung nach Notfall zu ermöglichen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Implementieren eines Hyper-V-Replikats
+
+
+  *   Schützen Ihrer lokalen Infrastruktur vor Notfällen mit Azure Site Recovery
+
+
+
+  #### <a name="lab--implementing-hyper-v-replica-and-windows-server-backup"></a>Lab: Implementieren der Hyper-V-Replikat- und Windows Serversicherung
+
+
+  ####
+     *   Implementieren von Hyper-V-Replikaten
+     *   Implementieren der Sicherung und Wiederherstellung mit der Windows Server-Sicherung
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Beschreiben des Hyper-V-Replikats, der Voraussetzungen für seine Verwendung sowie seiner architektur- und komponentenbasierten Architektur
+
+
+  *   Beschreiben von Anwendungsfällen und Sicherheitsüberlegungen für Hyper-V-Replikate
+
+
+  *   Konfigurieren von Einstellungen, Systemüberwachung und Failoveroptionen für das Hyper-V-Replikat
+
+
+  *   Beschreiben der erweiterten Replikation
+
+
+  *   Replizieren, Failover und Failback virtueller Computer und physischer Server mit Azure Site Recovery.
+
+
+
+  ### <a name="module-5-implementing-recovery-services-in-hybrid-scenarios"></a>Modul 5: Implementieren von Wiederherstellungsdiensten in Hybridszenarien
+
+
+  Dieses Modul behandelt Tools und Technologien für die Implementierung der Notfallwiederherstellung in Hybridszenarien, während sich das vorherige Modul auf BCDR-Lösungen für lokale Szenarien konzentriert. Das Modul beginnt mit Azure Backup-as-a-Service zum Schützen von Dateien und Ordnern, bevor hervorgehoben wird, wie SieRecovery-Tresore implementieren und Azure Backup können. In diesem Modul wird beschrieben, wie Sie Windows IaaS-VMs wiederherstellen, lokale Workloads sichern und wiederherstellen und Azure-VM-Sicherungen verwalten. In den Modulen wird auch behandelt, wie Sie die Notfallwiederherstellung für die Azure-Infrastruktur bereitstellen, indem Sie Replikation, Failover und Failback von virtuellen Azure-Computern mit Azure Site Recovery.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Implementieren von Hybridsicherung und -wiederherstellung mit IaaS unter Windows Server
+
+
+  *   Schützen Ihrer Azure-Infrastruktur mit Azure Site Recovery
+
+
+  *   Schützen Ihrer virtuellen Computer mithilfe von Azure Backup
+
+
+
+  #### <a name="lab--implementing-azure-based-recovery-services"></a>Lab: Implementieren von Azure-basierten Wiederherstellungsdiensten
+
+
+  ####
+     *   Implementieren der Lab-Umgebung
+     *   Erstellen und Konfigurieren eines Azure Site Recovery-Tresors
+     *   Implementieren des Hyper-V-VM-Schutzes über einen Azure Site Recovery-Tresor
+     *   Implementieren von Azure Backup
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Wiederherstellen Windows virtuellen IaaS-Servercomputern mithilfe Azure Backup.
+
+
+  *   Verwenden Azure Backup, um die Daten für lokale Server und virtualisierte Workloads zu schützen.
+
+
+  *   Implementieren Sie Recovery Vaults und Azure Backup Richtlinien.
+
+
+  *   Schützen sie Azure-VMs mit Azure Site Recovery.
+
+
+  *   Führen Sie eine Notfallwiederherstellungsübung aus, um den Schutz zu überprüfen.
+
+
+  *   Failover und Failback virtueller Azure-Computer.
+
+
+
+  ### <a name="module-6-upgrade-and-migrate-in-windows-server"></a>Modul 6: Upgrade und Migration in Windows Server
+
+
+  In diesem Modul werden Ansätze zum Migrieren Windows Serverworkloads, die in früheren Versionen von Windows Server ausgeführt werden, zu aktuelleren Versionen erläutert. Das Modul behandelt die erforderlichen Strategien zum Verschieben von Domänencontrollern auf Windows Server 2022 und beschreibt, wie das Active Directory-Migrationstool Domänen innerhalb einer Gesamtstruktur konsolidieren oder Domänen zu einer neuen AD DS migrieren kann. Im Modul wird auch die Verwendung von Storage Migration Service erläutert, um Dateien und Dateifreigaben von vorhandenen Dateiservern zu neuen Servern zu migrieren, auf denen Windows Server 2022 ausgeführt wird. Schließlich wird in diesem Modul behandelt, wie sie die Cmdlets der Windows-Servermigrationstools installieren und verwenden, um häufig verwendete Serverrollen aus früheren Versionen von Windows Server zu migrieren.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Active Directory Domain Services Migration
+
+
+  *   Migrieren von Dateiserverworkloads mit Storage Migration Service
+
+
+  *   Migrieren von Windows Server-Rollen
+
+
+
+  #### <a name="lab--migrating-windows-server-workloads-to-iaas-vms"></a>Lab: Migrieren Windows Serverworkloads zu IaaS-VMs
+
+
+  ####
+     *   Bereitstellen AD DS-Domänencontrollern in Azure
+     *   Migrieren von Dateiserverfreigaben mit Storage Migration Service
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Vergleichen Sie das Upgrade AD DS Gesamtstruktur und die Migration zu einer neuen AD DS Gesamtstruktur.
+
+
+  *   Beschreiben sie das Active Directory-Migrationstool (ADMT).
+
+
+  *   Identifizieren Sie die Anforderungen und Überlegungen zur Verwendung von Storage Migration Service.
+
+
+  *   Hier erfahren Sie, wie Sie einen Server mit Speichermigration migrieren.
+
+
+  *   Verwenden Sie die Windows Servermigrationstools, um bestimmte Windows Serverrollen zu migrieren.
+
+
+
+  ### <a name="module-7-implementing-migration-in-hybrid-scenarios"></a>Modul 7: Implementieren der Migration in Hybridszenarien
+
+
+  In diesem Modul werden Ansätze zum Migrieren von Workloads, die in Windows Server ausgeführt werden, zu einem virtuellen IaaS-Computer (Infrastructure-as-a-Service) erläutert. In diesem Modul wird die Verwendung Azure Migrate zum Bewerten und Migrieren von lokalen Windows Serverinstanzen zu Microsoft Azure. Das Modul behandelt auch die Migration einer in Windows Server ausgeführten Workload zu einem virtuellen IaaS-Computer (Infrastructure-as-a-Service) und zu Windows Server 2022 mithilfe von Windows Server-Migrationstools oder dem Storage Migration Service. Schließlich wird in diesem Modul beschrieben, wie Sie das Azure Migrate App Containerization-Tool zum Containerisieren und Migrieren ASP.NET Anwendungen zu Azure App Service.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Migrieren von lokalen Windows Server-Instanzen zu virtuellen Azure-IaaS-Computern
+
+
+  *   Aktualisieren und Migrieren von Windows Server-IaaS-VMs
+
+
+  *   Containerisieren und Migrieren von ASP.NET-Anwendungen zu Azure App Service
+
+
+
+  #### <a name="lab--migrating-on-premises-vms-servers-to-iaas-vms"></a>Lab: Migrieren von lokalen VMs-Servern zu IaaS-VMs
+
+
+  ####
+     *   Implementieren der Bewertung und Ermittlung von Hyper-V-VMs mit Azure Migrate
+     *   Implementieren der Migration von Hyper-V-Workloads mit Azure Migrate
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Planen Sie eine Migrationsstrategie, und wählen Sie die entsprechenden Migrationstools aus.
+
+
+  *   Führen Sie die Serverbewertung und -ermittlung mithilfe Azure Migrate.
+
+
+  *   Migrieren Windows Serverworkloads zu Azure-VM-Workloads mit Azure Migrate.
+
+
+  *   Erläutern der Migration von Workloads mithilfe der Windows Server-Migrationstools.
+
+
+  *   Migrieren von Dateiservern mithilfe von Storage Migration Service.
+
+
+  *   Entdecken und containerisieren Sie ASP.NET, die auf dem Windows.
+
+
+  *   Migrieren einer Containeranwendung zu Azure App Service.
+
+
+
+  ### <a name="module-8-server-and-performance-monitoring-in-windows-server"></a>Modul 8: Server- und Leistungsüberwachung in Windows Server
+
+
+  In diesem Modul wird eine Reihe von Tools zum Überwachen des Betriebssystems und der Anwendungen auf einem Windows Server-Computer sowie die Konfiguration eines Systems zur Optimierung der Effizienz und zur Behebung von Problemen beschrieben. Das Modul behandelt, Ereignisanzeige einen praktischen und zugänglichen Ort zum Beobachten von Ereignissen bietet, die auftreten, und wie die Daten im Ereignisprotokoll interpretiert werden. Das Modul behandelt auch das Überwachen und Diagnostizieren einer Windows Server-Umgebung auf Einhaltung gesetzlicher Bestimmungen, Benutzeraktivitäten und Problembehandlung. Schließlich wird im Modul erläutert, wie Sie AD DS Dienstfehler oder leistungsschädigende Leistung beheben, einschließlich der Wiederherstellung gelöschter Objekte und der AD DS-Datenbank, und wie Sie Probleme bei der Hybridauthentifizierung beheben.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Überwachen der Leistung von Windows Server
+
+
+  *   Verwalten und Überwachen von Windows Server-Ereignisprotokollen
+
+
+  *   Implementieren von Windows Server-Überwachung und -Diagnose
+
+
+  *   Problembehandlung für Active Directory
+
+
+
+  #### <a name="lab--monitoring-and-troubleshooting-windows-server"></a>Lab: Überwachung und Problembehandlung Windows Server
+
+
+  ####
+     *   Festlegen einer Leistungsbaseline
+     *   Identifizieren der Quelle eines Leistungsproblems
+     *   Anzeigen und Konfigurieren zentralisierter Ereignisprotokolle
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erläutern sie die Grundlagen der Serverleistungsoptimierung.
+
+
+  *   Verwenden Sie integrierte Tools in Windows Server, um die Serverleistung zu überwachen.
+
+
+  *   Verwenden des Server-Managers und von Windows Admin Center zum Überprüfen von Ereignisprotokollen
+
+
+  *   Implementieren benutzerdefinierter Ansichten
+
+
+  *   Konfigurieren eines Ereignisabonnements
+
+
+  *   Überwachen von Windows Server-Ereignissen
+
+
+  *   Konfigurieren von Windows Server, um Diagnoseinformationen aufzuzeichnen
+
+
+  *   Stellen Sie die AD DS-Datenbank und -Objekte in AD DS.
+
+
+  *   Problembehandlung AD DS Replikation.
+
+
+  *   Behandeln von Problemen bei der Hybridauthentifizierung.
+
+
+
+  ### <a name="module-9-implementing-operational-monitoring-in-hybrid-scenarios"></a>Modul 9: Implementieren der betriebsbereiten Überwachung in Hybridszenarien
+
+
+  In diesem Modul wird die Verwendung von Überwachungs- und Problembehooingtools, Prozessen und bewährten Methoden behandelt, um die App-Leistung und -Verfügbarkeit von Windows Server-IaaS-VMs und Hybridinstanzen zu optimieren. Das Modul beschreibt, wie Sie Azure Monitor für IaaS-VMs in Azure implementieren, Azure Monitor in lokalen Umgebungen implementieren und Abhängigkeitszuordnungen verwenden. Anschließend wird erläutert, wie Sie die Diagnose aktivieren, um Daten zu einem virtuellen Computer zu erhalten, wie Sie VM-Metriken in Azure Metrik-Explorer anzeigen und eine Metrikwarnung erstellen, um die VM-Leistung zu überwachen. In diesem Modul wird dann behandelt, wie Sie die VM-Leistung mithilfe Azure Monitor VM-Insights. Das Modul beschreibt dann verschiedene Aspekte der Problembehandlung für lokale und hybride Netzwerkkonnektivität, einschließlich der Diagnose häufiger Probleme mit DHCP, Namensauflösung, IP-Konfiguration und Routing. Schließlich untersucht das Modul die Behandlung von Konfigurationsproblemen, die sich auf die Konnektivität mit in Azure gehosteten virtuellen Windows Server-Computern (VMs) auswirken, sowie Ansätze zum Beheben von Problemen mit vm-Start, Erweiterungen, Leistung, Speicher und Verschlüsselung.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Überwachen von IaaS-VMs und -Hybridinstanzen unter Windows Server
+
+
+  *   Überwachen der Integrität Ihrer virtuellen Azure-Computer mithilfe von Azure Metrik-Explorer und Metrikwarnungen
+
+
+  *   Überwachen der Leistung von VMs mithilfe von Azure Monitor VM Insights
+
+
+  *   Problembehandlung für lokale und hybride Netzwerke
+
+
+  *   Behandeln von Problemen bei virtuellen Computern mit Windows Server in Azure
+
+
+
+  #### <a name="lab--monitoring-and-troubleshooting-of-iaas-vms-running-windows-server"></a>Lab: Überwachung und Problembehandlung von IaaS-VMs, auf denen Windows Server ausgeführt wird
+
+
+  ####
+     *   Aktivieren Azure Monitor für virtuelle Computer
+     *   Einrichten eines virtuellen Computers mit Startdiagnose
+     *   Einrichten eines Log Analytics-Arbeitsbereichs und Azure Monitor VM-Insights
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Implementieren Azure Monitor für IaaS-VMs in Azure und in lokalen Umgebungen.
+
+
+  *   Implementieren Azure Monitor für IaaS-VMs in Azure und in lokalen Umgebungen.
+
+
+  *   Zeigen Sie die VM-Metriken im Metrik-Explorer von Azure an.
+
+
+  *   Verwenden Sie Überwachungsdaten, um Probleme zu diagnostizieren.
+
+
+  *   Auswerten Azure Monitor Protokollen und Konfigurieren Azure Monitor VM Insights.
+
+
+  *   Konfigurieren eines Log Analytics-Arbeitsbereichs
+
+
+  *   Behandlung von Konnektivitätsproblemen in lokalen und hybriden Netzwerken
+
+
+  *   Problembehandlung AD DS Dienstfehlern oder Leistungsproblemen.
+
+
+  *   Wiederherstellen gelöschter Sicherheitsobjekte und der AD DS Datenbank.
+
+
+  *   Behandeln von Problemen bei der Hybridauthentifizierung.

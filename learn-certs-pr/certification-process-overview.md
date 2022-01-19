@@ -9,12 +9,12 @@ ms.workload: NA
 ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: ec5b4eee62881de888b66e7c74e50ad65a530423
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.openlocfilehash: 3240dad74194b13e59ea7a9b1179072d2f0e3242
+ms.sourcegitcommit: d58330a3c9b4b1a5e9b866fc8ba6af651ab0ed3b
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
-ms.locfileid: "132110852"
+ms.lasthandoff: 12/30/2021
+ms.locfileid: "135638689"
 ---
 # <a name="certification-process-overview"></a>Übersicht über den Zertifizierungsprozess
 
@@ -52,9 +52,9 @@ Microsoft kooperiert mit mehreren Prüfungsanbietern, um Zertifizierungsprüfung
 
 ## <a name="getting-your-exam-results-and-certifications"></a>Abrufen der Prüfungsergebnisse und Zertifizierungen
 
-Sie erhalten Ihre Ergebnisse innerhalb von wenigen Minuten nach Abschluss der Prüfung. Für Prüfungen bei Pearson VUE erhalten Sie einen Bewertungsbericht über Ihr [Zertifizierungsdashboard](https://aka.ms/certdashboard). Für Prüfungen bei PSI erhalten Sie Ihren Bewertungsbericht per E-Mail.
+Bei Prüfungen, die mit Pearson VUE abgelegt wurden, werden Sie innerhalb weniger Minuten nach Abschluss der Prüfung über Ihre Ergebnisse informiert. Sie können einen Bewertungsbericht aus Ihrem [Zertifizierungsdashboard erhalten.](https://aka.ms/certdashboard) Besuchen Sie: Prüfungsbewertungs- und Bewertungsberichte. Das Ergebnis einer Betaprüfung erhalten Sie etwa zehn Tage nach der Liveschaltung der Prüfung. Besuchen Sie: [Betaprüfungen](/learn/certifications/beta-exams).
 
-Das Ergebnis einer Betaprüfung erhalten Sie etwa zehn Tage nach der Liveschaltung der Prüfung. Weitere Informationen finden Sie unter [Betaprüfungen](/learn/certifications/beta-exams).
+Für Prüfungen, die mit Certiport abgelegt wurden, wird ihnen unmittelbar nach Abschluss der Prüfung ein Ergebnisbildschirm angezeigt, der Ihre Endgültige Bewertung und ihren Bestandens-/Fehlerstatus angibt. Wenn Sie eine Betaprüfung abgelegt haben, erhalten Sie in der Regel sechs bis acht Wochen nach Ende des Betazeitraums Ihre Endgültige Bewertung und den Status "Bestanden/Nicht bestanden". Ihre Ergebnisse sind auch in Ihrem [Certiport-Transkript verfügbar.](https://www.certiport.com/portal/SSL/Login.aspx) Besuchen Sie: [Häufig gestellte Fragen zu Certiport.](https://certiport.pearsonvue.com/About/Developing-a-certification-examination/Certification-examination-FAQs)
 
 Haben Sie alle Prüfungen für eine Zertifizierung erfolgreich abgelegt? Herzlichen Glückwunsch! Sie können Ihre Erfolge als Abzeichen oder Zertifikat anzeigen, herunterladen und freigeben oder sich eine vollständige Aufstellung Ihrer Zertifizierungen und Prüfungen als Transkript für Ihre Microsoft-Zertifizierungen abrufen. Weitere Informationen finden Sie unter [Zugreifen auf Ihre Zertifikate, Abzeichen und Ihr Transkript](/learn/certifications/access-certificates-badges-transcript).
 

@@ -3,12 +3,12 @@ title: Moderne Desktops verwalten
 metadata:
   title: 'Kurs MD-101T00--A: Verwalten moderner Desktops'
   description: 'Kurs MD-101T00--A: Verwalten moderner Desktops'
-  ms.openlocfilehash: 49e6383c834206cf93060c35008abcfa82710495
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.openlocfilehash: 7a0a3fa73e80734a02c8f1b04618da22cf1d3a8f
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132107155"
+  ms.lasthandoff: 12/28/2021
+  ms.locfileid: "135573334"
 uid: course.md-101t00
 courseNumber: MD-101T00
 hoursToComplete: 120
@@ -32,14 +32,14 @@ products:
 exams:
 - uid: exam.md-101
 summary: >-
-  In diesem Kurs lernen die Teilnehmer, wie sie eine Strategie zur Bereitstellung eines Betriebssystems unter Verwendung moderner Bereitstellungsmethoden planen und einrichten, sowie eine Aktualisierungsstrategie einrichten können. Die Teilnehmer werden in die Schlüsselkomponenten moderner Management- und Co-Management-Strategien eingeführt. Dieser Kurs behandelt auch, was es braucht, um Microsoft Intune in Ihre Organisation zu integrieren. Die Teilnehmer lernen auch Methoden für die Bereitstellung und Verwaltung von Anwendungen und browserbasierten Anwendungen kennen. Die Teilnehmer werden in die Schlüsselkonzepte der Sicherheit im modernen Management eingeführt, einschließlich Authentifizierung, Identitäten, Zugriff und Konformitäts-Richtlinien. Die Teilnehmer werden mit Technologien wie Azure Active Directory, Azure Information Protection und Windows Defender Advanced Threat Protection vertraut gemacht und lernen, wie sie zum Schutz von Geräten und Daten eingesetzt werden können.
+  In diesem Kurs lernen die Teilnehmer, wie sie eine Strategie zur Bereitstellung eines Betriebssystems unter Verwendung moderner Bereitstellungsmethoden planen und einrichten, sowie eine Aktualisierungsstrategie einrichten können. Die Teilnehmer werden in die Schlüsselkomponenten moderner Management- und Co-Management-Strategien eingeführt. Dieser Kurs behandelt auch, was es braucht, um Microsoft Intune in Ihre Organisation zu integrieren. Die Teilnehmer lernen auch Methoden für die Bereitstellung und Verwaltung von Anwendungen und browserbasierten Anwendungen kennen. Die Teilnehmer werden in die Schlüsselkonzepte der Sicherheit im modernen Management eingeführt, einschließlich Authentifizierung, Identitäten, Zugriff und Konformitäts-Richtlinien. Die Kursteilnehmer werden mit Technologien wie Azure Active Directory, Azure Information Protection und Microsoft Defender for Endpoint sowie mit deren Nutzung zum Schutz von Geräten und Daten vorgestellt.
 
 
   #### <a name="audience-profile"></a>Zielgruppenprofil
 
 
-  Der Modern Desktop Administrator verteilt, konfiguriert, sichert, verwaltet und überwacht Geräte und Client-Anwendungen in einer Unternehmensumgebung. Zu den Aufgaben gehört die Verwaltung von Identität, Zugriff, Richtlinien, Updates und Anwendungen. Der MDA arbeitet mit dem M365 Enterprise Administrator zusammen, um eine Gerätestrategie zu entwickeln und zu implementieren, die den Geschäftsanforderungen eines modernen Unternehmens entspricht. Der Modern Desktop Administrator muss mit M365-Arbeitslasten vertraut sein und über umfassende Fähigkeiten und Erfahrungen bei der Bereitstellung, Konfiguration und Wartung von Windows 10 und Nicht-Windows-Geräten verfügen. Die Rolle des MDA konzentriert sich auf Cloud Services und nicht auf Technologien für das lokale Management.
-prerequisitesSection: Der Modern Desktop Administrator muss mit M365-Arbeitslasten vertraut sein und über umfassende Fähigkeiten und Erfahrungen bei der Bereitstellung, Konfiguration und Wartung von Windows 10 und Nicht-Windows-Geräten verfügen. Die Rolle des MDA konzentriert sich auf Cloud Services und nicht auf Technologien für das lokale Management. Es wird empfohlen, den Kurs MD-100, Windows 10, vor der Teilnahme an diesem Kurs zu absolvieren.
+  Der Modern Desktop Administrator verteilt, konfiguriert, sichert, verwaltet und überwacht Geräte und Client-Anwendungen in einer Unternehmensumgebung. Zu den Aufgaben gehört die Verwaltung von Identität, Zugriff, Richtlinien, Updates und Anwendungen. Der MDA arbeitet mit dem M365 Enterprise Administrator zusammen, um eine Gerätestrategie zu entwickeln und zu implementieren, die den Geschäftsanforderungen eines modernen Unternehmens entspricht. Der moderne Desktopadministrator muss mit M365-Workloads vertraut sein und über hohe Kenntnisse und Erfahrung im Bereitstellen, Konfigurieren und Verwalten von Windows 10- und höher- und nicht Windows-Geräten verfügen. Die Rolle des MDA konzentriert sich auf Cloud Services und nicht auf Technologien für das lokale Management.
+prerequisitesSection: Der moderne Desktopadministrator muss mit M365-Workloads vertraut sein und über hohe Kenntnisse und Kenntnisse in der Bereitstellung, Konfiguration und Wartung von Windows 10 und höher sowie nicht Windows verfügen. Die Rolle des MDA konzentriert sich auf Cloud Services und nicht auf Technologien für das lokale Management. Es wird empfohlen, dass Kursteilnehmer den Kurs MD-100, Windows Client, abschließen, bevor sie an diesem Kurs teilnahmen.
 outlineSection: >-
   ### <a name="module-1-modern-management"></a>Modul 1: Moderne Verwaltung
 
@@ -70,9 +70,6 @@ outlineSection: >-
 
 
   ####
-
-
-  Nach Abschluss dieses Moduls werden Teilnehmer zu Folgendem in der Lage sein:
 
 
   *   Beschreiben des Lebenszyklus des Unternehmensdesktops
@@ -175,9 +172,6 @@ outlineSection: >-
   ####
 
 
-  Nach Abschluss dieses Moduls sollten Sie zu Folgendem in der Lage sein:&nbsp;
-
-
   *   Beschreiben der verschiedenen Typen von Geräteprofilen in Intune
 
 
@@ -238,9 +232,6 @@ outlineSection: >-
 
 
   ####
-
-
-  Nach Abschluss dieses Moduls werden Teilnehmer zu Folgendem in der Lage sein:
 
 
   *   Beschreiben der Methoden zur Anwendungsverwaltung
@@ -305,9 +296,6 @@ outlineSection: >-
   ####
 
 
-  Nach Abschluss dieses Moduls werden Teilnehmer zu Folgendem in der Lage sein:
-
-
   *   Beschreiben von Windows Hello for Business
 
 
@@ -330,7 +318,7 @@ outlineSection: >-
   ### <a name="module-6-managing-security"></a>Modul 6: Verwalten der Sicherheit
 
 
-  In diesem Modul lernen die Teilnehmer den Datenschutz kennen. Zu den Themen gehören Windows und Azure Information Protection sowie verschiedene unter Windows 10 unterstützte Verschlüsselungstechnologien. Dieses Modul behandelt auch die wichtigsten Funktionen von Windows Defender Advanced Threat Protection und wie Sie diese Funktionen auf Geräten in Ihrem Unternehmen implementieren können. Das Modul schließt die Verwendung von Windows Defender und die Verwendung von Funktionen wie Antivirus, Firewall und Credential Guard ab.
+  In diesem Modul lernen die Teilnehmer den Datenschutz kennen. Die Themen enthalten Windows &amp; Azure Information Protection und verschiedene Verschlüsselungstechnologien, die in Windows unterstützt werden. Dieses Modul behandelt auch die wichtigsten Funktionen von Microsoft Defender für Endpoint und die Implementierung dieser Funktionen auf Geräten in Ihrer Organisation. Das Modul ist mit der Verwendung von Microsoft Defender und Funktionen wie Antivirus, Firewall und Credential Guard abgeschlossen.
 
 
   #### <a name="lessons"></a>Lektionen
@@ -339,10 +327,10 @@ outlineSection: >-
   *   Implementieren des Schutzes von Gerätedaten
 
 
-  *   Verwalten von Windows Defender ATP
+  *   Verwalten von Microsoft Defender für Endpoint
 
 
-  *   Verwalten des Windows Defender unter Windows 10
+  *   Verwalten von Microsoft Defender in Windows Client
 
 
 
@@ -364,16 +352,13 @@ outlineSection: >-
   ####
 
 
-  Nach Abschluss dieses Moduls werden Teilnehmer zu Folgendem in der Lage sein:
+  *   Beschreiben der Methoden zum Schutz von Gerätedaten.
 
 
-  *   Beschreiben der Methoden zum Schützen von Gerätedaten
+  *   Beschreiben sie die Funktionen und Vorteile von Windows ATP.
 
 
-  *   Beschreiben der Möglichkeiten und Vorteile von Windows ATP
-
-
-  *   Bereitstellen und Verwalten von Einstellungen für Windows Defender-Clients
+  *   Bereitstellen und Verwalten von Einstellungen für Windows Defender Clients.
 
 
 
@@ -405,23 +390,20 @@ outlineSection: >-
   ####
 
 
-  Nach Abschluss dieses Moduls werden Teilnehmer zu Folgendem in der Lage sein:
-
-
   *   Beschreiben der Tools zum Planen einer Bereitstellung
 
 
-  *   Bereitstellen von Windows 10 mit dem Microsoft Deployment Toolkit
+  *   Bereitstellen Windows Clients mithilfe der Microsoft Deployment Toolkit
 
 
-  *   Bereitstellen von Windows 10 mit Endpoint Configuration Manager
+  *   Bereitstellen Windows Clients mit endpoint Konfigurations-Manager
 
 
 
   ### <a name="module-8-deployment-using-microsoft-endpoint-manager---part-2"></a>Modul 8: Bereitstellung mit Microsoft Endpoint Manager – Teil 2
 
 
-  In diesem Modul wird die Bereitstellung mit Microsoft Endpoint Manager fortgesetzt. Im zweiten Teil erlernen die Teilnehmer die Verwendung von Windows Autopilot und Bereitstellung mit Microsoft Intune. Dieses Modul umfasst auch dynamische Methoden zur Betriebssystembereitstellung, z. B. Abonnementaktivierung. Zum Abschluss des Moduls wird gezeigt, wie Co-Management für den Übergang zu einem modernen Management genutzt werden kann.
+  In diesem Modul wird die Bereitstellung mit Microsoft Endpoint Manager fortgesetzt. Im zweiten Teil erlernen die Teilnehmer die Verwendung von Windows Autopilot und Bereitstellung mit Microsoft Intune. Dieses Modul umfasst auch dynamische Methoden zur Betriebssystembereitstellung, z. B. Abonnementaktivierung. Zum Abschluss des Moduls wird gezeigt, wie Co-Management für den Übergang zu einem modernen Management genutzt werden kann. Schließlich werden die Kursteilnehmer mit Azure Virtual Desktops und der Konfiguration und Verwaltung von Cloud-PCs mit Windows 365 vorgestellt.
 
 
   #### <a name="lessons"></a>Lektionen
@@ -434,6 +416,9 @@ outlineSection: >-
 
 
   *   Planen einer Umstellung auf moderne Verwaltung
+
+
+  *   Verwalten von virtuellen Desktops
 
 
 
@@ -449,9 +434,6 @@ outlineSection: >-
   ####
 
 
-  Nach Abschluss dieses Moduls werden Teilnehmer zu Folgendem in der Lage sein:
-
-
   *   Bereitstellen von Windows 10 mit Autopilot
 
 
@@ -462,22 +444,25 @@ outlineSection: >-
 
 
 
-  ### <a name="module-9-managing-updates-for-windows-10"></a>Modul 9: Verwalten von Updates für Windows 10
+  ### <a name="module-9-managing-updates-and-using-analytics"></a>Modul 9: Verwalten von Updates und Verwenden von Analysen
 
 
-  Dieses Modul deckt die Verwaltung von Updates für Windows ab. Dieses Modul stellt die Service-Optionen für Windows 10 vor. Die Teilnehmer lernen die verschiedenen Methoden zur Bereitstellung von Updates kennen und erfahren, wie die Update-Richtlinien von Windows konfiguriert werden. Schließlich lernen die Teilnehmer, wie sie mit Desktop Analytics Aktualisierungen sicherstellen und überwachen können.
+  Dieses Modul deckt die Verwaltung von Updates für Windows ab. In diesem Modul werden die Wartungsoptionen für Windows-Clients vorgestellt. Die Teilnehmer lernen die verschiedenen Methoden zur Bereitstellung von Updates kennen und erfahren, wie die Update-Richtlinien von Windows konfiguriert werden. Schließlich lernen die Teilnehmer, wie sie mit Desktop Analytics Aktualisierungen sicherstellen und überwachen können.
 
 
   #### <a name="lessons"></a>Lektionen
 
 
-  *   Aktualisieren von Windows 10
+  *   Aktualisieren Windows Clients
 
 
   *   Windows Update for Business
 
 
   *   Desktop Analytics
+
+
+  *   Endpoint Analytics
 
 
 
@@ -490,7 +475,7 @@ outlineSection: >-
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Beschreiben der Wartungskanäle für Windows 10
+  *   Beschreiben sie die Windows Clientwartungskanäle.
 
 
   *   Konfigurieren einer Windows-Richtlinie mithilfe Gruppenrichtlinie Einstellungen
@@ -500,3 +485,6 @@ outlineSection: >-
 
 
   *   Bewerten der Upgradebereitschaft mit Desktop Analytics
+
+
+  *   Verwenden von Endpoint Analytics zum Überwachen der Benutzererfahrung und Bewerten Windows 11 Bereitschaft

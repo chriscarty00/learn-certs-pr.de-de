@@ -1,29 +1,29 @@
 ### YamlMime:Course
-title: Designing Microsoft Azure Infrastructure Solutions
+title: Entwerfen Microsoft Azure Infrastrukturlösungen
 metadata:
-  title: 'Kurs AZ-305T00--A: Designing Microsoft Azure Infrastructure Solutions'
-  description: 'Kurs AZ-305T00--A: Designing Microsoft Azure Infrastructure Solutions'
+  title: 'Kurs AZ-305T00--A: Entwerfen Microsoft Azure Infrastrukturlösungen'
+  description: 'Kurs AZ-305T00--A: Entwerfen Microsoft Azure Infrastrukturlösungen'
   ms.openlocfilehash: 8efda883e992339775e5d65ad00091c60ea93b8b
-  ms.sourcegitcommit: 9910ee6c567f78305da1d27159bd03c6f3258035
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 11/24/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133079414"
 uid: course.az-305t00
 courseNumber: AZ-305T00
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Entwerfen einer Governancelösung
-- skill: Eine Computelösung zu entwerfen
-- skill: Entwerfen einer Anwendungsarchitektur
-- skill: Entwerfen von nicht relationalen und relationalen Speichern
-- skill: Entwerfen von Datenintegrationslösungen
-- skill: Entwerfen von Authentifizierungs-, Autorisierungs- und Identitätslösungen
-- skill: Netzwerklösungen zu entwerfen
+- skill: Entwerfen sie eine Governancelösung.
+- skill: Entwerfen sie eine Computelösung.
+- skill: Entwerfen sie eine Anwendungsarchitektur.
+- skill: Entwerfen sie Speicher, nicht relational und relational.
+- skill: Entwerfen von Datenintegrationslösungen.
+- skill: Entwerfen sie Authentifizierungs-, Autorisierungs- und Identitätslösungen.
+- skill: Entwerfen sie Netzwerklösungen.
 - skill: Entwerfen von Sicherungs- und Notfallwiederherstellungslösungen
-- skill: Entwerfen von Überwachungslösungen
-- skill: Entwerfen von Migrationslösungen
+- skill: Entwerfen von Überwachungslösungen.
+- skill: Entwerfen sie Migrationslösungen.
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -36,32 +36,32 @@ products:
 exams:
 - uid: exam.az-305
 summary: >-
-  In diesem Kurs erfahren Azure-Lösungsarchitekten, wie Infrastrukturlösungen entworfen werden. In den Kursthemen werden Governance, Compute, Anwendungsarchitektur, Speicher, Datenintegration, Authentifizierung, Netzwerke, Geschäftskontinuität und Migrationen behandelt. In diesem Kurs werden Lektionen mit Fallstudien kombiniert, sodass grundlegende Entwurfsprinzipien für Architekten veranschaulicht werden können.
+  In diesem Kurs erfahren Azure Solution Architects, wie Infrastrukturlösungen entworfen werden. In den Kursthemen werden Governance, Compute, Anwendungsarchitektur, Speicher, Datenintegration, Authentifizierung, Netzwerke, Geschäftskontinuität und Migrationen behandelt. In diesem Kurs werden Lektionen mit Fallstudien kombiniert, um grundlegende Entwurfsprinzipien für Architekten zu veranschaulichen.
 
 
   #### <a name="audience-profile"></a>Zielgruppenprofil
 
 
-  Erfolgreiche Kursteilnehmer sollten über Erfahrung und Wissen im Bereich des IT-Betriebs verfügen, einschließlich Netzwerke, Virtualisierung, Identität, Sicherheit, Geschäftskontinuität, Notfallwiederherstellung, Datenplattformen und Governance. Die Kursteilnehmer verfügen auch über Erfahrung beim Entwerfen und Konzipieren von Lösungen.
+  Erfolgreiche Kursteilnehmer verfügen über Erfahrung und Kenntnisse im IT-Betrieb, einschließlich Netzwerk, Virtualisierung, Identität, Sicherheit, Geschäftskontinuität, Notfallwiederherstellung, Datenplattformen und Governance. Die Kursteilnehmer verfügen auch über Erfahrung beim Entwerfen und Entwerfen von Lösungen.
 prerequisitesSection: >-
-  Bevor sie an diesem Kurs teilnehmen können, müssen die Teilnehmer bereits über Erfahrung mit der Bereitstellung oder Verwaltung von Azure-Ressourcen und konzeptionelle Kenntnisse über Folgendes verfügen:
+  Bevor sie an diesem Kurs teilnehmen können, müssen die Kursteilnehmer bereits über Erfahrung mit der Bereitstellung oder Verwaltung von Azure-Ressourcen und konzeptionellen Kenntnissen über Dies wissen:
 
 
   *   Azure Active Directory
 
 
-  *   Azure-Computetechnologien wie virtuelle Computer, Container und serverlose Lösungen
+  *   Azure-Computetechnologien wie VMs, Container und serverlose Lösungen
 
 
-  *   Virtuelle Azure-Netzwerke mit Lastenausgleichsmodulen
+  *   Virtuelles Azure-Netzwerk mit Load Balancern
 
 
-  *   Azure Storage-Technologien (unstrukturiert und Datenbanken)
+  *   Azure Storage Technologien (unstrukturiert und Datenbanken)
 
 
   *   Allgemeine Anwendungsentwurfskonzepte wie Messaging und Hochverfügbarkeit
 outlineSection: >-
-  ### <a name="module-1-design-governance-and-compute-solutions"></a>Modul 1: Entwerfen von Governance- und Computelösungen
+  ### <a name="module-1-design-governance-and-compute-solutions"></a>Modul 1: Entwerfen von Governance- und Computelösungen
 
 
   In diesem Modul erfahren Sie mehr über Governance- und Computelösungen.
@@ -83,20 +83,20 @@ outlineSection: >-
   ####
 
 
-  Nach Abschluss dieses Moduls sind die Kursteilnehmer*innen in der Lage
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Eine Governancelösung zu entwerfen
+  *   Entwerfen sie eine Governancelösung.
 
 
-  *   Eine Computelösung zu entwerfen
+  *   Entwerfen sie eine Computelösung.
 
 
 
-  ### <a name="module-2-design-storage-and-data-integration-solutions"></a>Modul 2: Entwerfen von Speicher- und Datenintegrationslösungen
+  ### <a name="module-2-design-storage-and-data-integration-solutions"></a>Modul 2: Entwerfen von Speicher- und Datenintegrationslösungen
 
 
-  In diesem Modul erfahren Sie mehr über nicht relationale Speicherlösungen, relationale Speicherlösungen und Datenintegrationslösungen.
+  In diesem Modul erfahren Sie mehr über nicht relationale Speicher-, relationale Speicher- und Datenintegrationslösungen.
 
 
   #### <a name="lessons"></a>Lektionen
@@ -118,23 +118,23 @@ outlineSection: >-
   ####
 
 
-  Nach Abschluss dieses Moduls sind die Kursteilnehmer*innen in der Lage
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Entwerfen einer nicht relationalen Speicherlösung
+  *   Entwerfen sie eine nicht relationale Speicherlösung.
 
 
-  *   Entwerfen einer relationalen Speicherlösung
+  *   Entwerfen sie eine relationale Speicherlösung.
 
 
-  *   Eine Datenintegrationslösung zu entwerfen
+  *   Entwerfen sie eine Datenintegrationslösung.
 
 
 
-  ### <a name="module-3-design-app-architecture-access-and-monitoring-solutions"></a>Modul 3: Entwerfen von Lösungen für App-Architektur, Zugriff und Überwachung
+  ### <a name="module-3-design-app-architecture-access-and-monitoring-solutions"></a>Modul 3: Entwerfen der App-Architektur, des Zugriffs und der Überwachungslösungen
 
 
-  In diesem Modul erfahren Sie mehr über Lösungen für App-Architektur, Authentifizierung und Autorisierung sowie Protokollierung und Überwachung.
+  In diesem Modul erfahren Sie mehr über app-Architektur, Authentifizierung und Autorisierung sowie Protokollierungs- und Überwachungslösungen.
 
 
   #### <a name="lessons"></a>Lektionen
@@ -156,23 +156,23 @@ outlineSection: >-
   ####
 
 
-  Nach Abschluss dieses Moduls sind die Kursteilnehmer*innen in der Lage
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Eine App-Architekturlösung zu entwerfen.
+  *   Entwerfen sie eine App-Architekturlösung.
 
 
   *   Entwerfen von Lösungen für Authentifizierung und Autorisierung
 
 
-  *   Eine Protokollierungs- und Überwachungslösung zu entwerfen.
+  *   Entwerfen sie eine Protokollierungs- und Überwachungslösung.
 
 
 
-  ### <a name="module-4-design-network-continuity-and-migration-solutions"></a>Modul 4: Entwerfen von Netzwerk-, Kontinuitäts- und Migrationslösungen
+  ### <a name="module-4-design-network-continuity-and-migration-solutions"></a>Modul 4: Entwerfen von Netzwerk-, Kontinuitäts- und Migrationslösungen
 
 
-  In diesem Modul erfahren Sie mehr über Lösungen für Netzwerke, Geschäftskontinuität und Migration.
+  In diesem Modul erfahren Sie mehr über Netzwerk-, Geschäftskontinuitäts- und Migrationslösungen.
 
 
   #### <a name="lessons"></a>Lektionen
@@ -181,7 +181,7 @@ outlineSection: >-
   *   Entwerfen einer Netzwerkinfrastrukturlösung
 
 
-  *   Entwerfen einer Lösung für Geschäftskontinuität
+  *   Entwerfen einer Geschäftskontinuitätslösung
 
 
   *   Entwerfen einer Migrationslösung
@@ -194,13 +194,13 @@ outlineSection: >-
   ####
 
 
-  Nach Abschluss dieses Moduls sind die Kursteilnehmer*innen in der Lage
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Eine Netzwerkinfrastrukturlösung zu entwerfen.
+  *   Entwerfen sie eine Netzwerkinfrastrukturlösung.
 
 
-  *   Eine Lösung für Geschäftskontinuität zu entwerfen.
+  *   Entwerfen einer Geschäftskontinuitätslösung.
 
 
-  *   Eine Migrationslösung zu entwerfen.
+  *   Entwerfen sie eine Migrationslösung.

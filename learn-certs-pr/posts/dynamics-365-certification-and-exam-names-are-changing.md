@@ -10,10 +10,10 @@ ms.date: 10/25/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 63f282d2c8b8f556d1c478880acc5c94d879244d
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112088"
 ---
 # <a name="dynamics-365-certification-and-exam-names-are-changing"></a>Namen von Dynamics 365-Zertifizierungen und -Prüfungen ändern sich

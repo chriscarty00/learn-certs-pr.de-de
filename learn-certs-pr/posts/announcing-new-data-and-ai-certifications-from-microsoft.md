@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 9766041c7f207b3e10217c41b829e9582554b167
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111671"
 ---
 # <a name="announcing-new-data-and-ai-certifications-from-microsoft-what-they-are-and-how-to-earn-one"></a>Ankündigung neuer Daten- und KI-Zertifizierungen von Microsoft: worum handelt es sich dabei und wie lässt sich eine erlangen
@@ -47,7 +47,7 @@ Weitere Informationen zu den verfügbaren Zertifizierungen finden Sie auf der Se
 
 Eine Übersicht über unser neu gestaltetes Programm finden Sie in unserer [Blogankündigung zur rollenbasierten Zertifizierung](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375161). Sie können auch die [häufig gestellten Fragen zur Prüfung](https://www.microsoft.com/learning/certification-exam-policies.aspx) lesen, um mehr darüber zu erfahren, was Sie erwartet, wenn Sie zur Prüfung bereit sind.
 
-*Anderson, Cushing. *[Cloud Skills and Organizational Influence: How Cloud Skills Are Accelerating the Careers of IT Professionals](https://download.microsoft.com/download/C/3/0/C3068200-2F9B-4D8D-BF5D-32E1F7ED669A/IDC_Microsoft_How_Cloud_Skills_Are_Accelerating_IT_Pro_Careers_May_2017.pdf)* . IDC/Microsoft, Mai 2017.
+*Anderson, Cushing. *[Cloud Skills and Organizational Influence: How Cloud Skills Are Accelerating the Careers of IT Professionals](https://download.microsoft.com/download/C/3/0/C3068200-2F9B-4D8D-BF5D-32E1F7ED669A/IDC_Microsoft_How_Cloud_Skills_Are_Accelerating_IT_Pro_Careers_May_2017.pdf)* . IDC/Microsoft, Mai 2017.
 
 **Zugehörige Ankündigungen**
 

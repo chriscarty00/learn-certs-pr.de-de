@@ -9,21 +9,18 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 7ad19a8d04ef0b52e200ece1663cc3d19b47bcde
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.openlocfilehash: 769a69f8a37d1e6ceb31c8690da4c26dbd4cc63c
+ms.sourcegitcommit: df7ca43366241a7b990f9e290f62d630f4d65c28
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
-ms.locfileid: "132112192"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "135964288"
 ---
 # <a name="volume-licensing-for-microsoft-training-and-certification-solutions"></a>Volumenlizenzierung für Trainings- und Zertifizierungslösungen von Microsoft
 
 Die Schulungs- und Zertifizierungslösungen von Microsoft unterstützen Unternehmen und akkreditierte akademische Einrichtungen dabei, die Einführung und Nutzung von Microsoft-Technologien zu beschleunigen. Mit diesen unternehmenstauglichen, direkt von der Quelle stammenden Schulungs- und Zertifizierungsressourcen können Ihre Mitarbeiter die Fähigkeiten erwerben, die sie benötigen, um effizienter und produktiver zu arbeiten.
 
-Microsoft-Schulungs- und Zertifizierungslösungen sind über die folgenden Microsoft-Volumenlizenzprogramme erhältlich:
-
-* **Microsoft-Volumenlizenzierung** Ein anpassbares Kaufprogramm für Microsoft-Software, das vergünstigten Zugang zu Microsoft-Schulungs- und Zertifizierungslösungen gewährt.
-* **[Microsoft-Volumenlizenzierung für Software Assurance](/partner-center/software-assurance-lp)** Ein kostengünstiges Programm, das den Zugang zu spezifischem Software Assurance E-Learning und von Trainern geleiteten Schulungen über Ihren bestehenden Software Assurance-Schutz ermöglicht.
+Microsoft-Schulungs- und -Zertifizierungslösungen sind über das **Microsoft-Volumenlizenzierungsprogramm** verfügbar, ein anpassbares Microsoft-Softwarekaufprogramm, das rabattierten Zugriff auf Microsoft-Trainings- und Zertifizierungslösungen gewährt.
 
 Durch die Konsolidierung des Kaufs, der Budgetierung und der Verfolgung der auf dieser Seite beschriebenen Microsoft-Produkte für Trainings- und Zertifizierungslösungen mit anderen Microsoft-Technologiekäufen durch Volumenlizenzierung kann Ihr Unternehmen 20 bis 80 Prozent Kosteneinsparungen erzielen (je nach Produkt und Volumenlizenzvertragsstufe).
 

@@ -9,12 +9,12 @@ ms.workload: NA
 ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: a59e4c61631c5973b93d7213b6745cb9640c2d46
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.openlocfilehash: 68a807408c029a5e8feee27239f08612199f8690
+ms.sourcegitcommit: d58330a3c9b4b1a5e9b866fc8ba6af651ab0ed3b
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
-ms.locfileid: "132106546"
+ms.lasthandoff: 12/30/2021
+ms.locfileid: "135638638"
 ---
 # <a name="exam-scoring-and-score-reports"></a>Prüfungsbewertung und Ergebnisberichte
 
@@ -26,14 +26,16 @@ Wenn Sie an einer Beta-Prüfung teilgenommen haben, erfahren Sie nicht sofort, o
 
 ## <a name="how-to-access-your-score-report"></a><a name="how-to-access-your-score-report"></a> Zugreifen auf Ihren Ergebnisbericht
 
-Bei Prüfungen, die mit PSI abgelegt wurden, wurde Ihr Ergebnisbericht an die in Ihrem Zertifizierungsprofil hinterlegte Kontakt-E-Mail-Adresse gesendet und kann nicht über Ihr Zertifizierungsdashboard aufgerufen werden. Bei Prüfungen, die mit Pearson VUE abgelegt wurden, sind Ergebnisberichte online verfügbar. So greifen Sie auf Ihren Ergebnisbericht zu:
+Bewertungsberichte sind online für Prüfungen verfügbar, die mit Pearson VUE und Certiport abgelegt wurden. 
+
+So greifen Sie auf Ihren Pearson-VUE-Bewertungsbericht zu:
 
 1. Navigieren Sie zum [Zertifizierungsdashboard](https://www.microsoft.com/learning/dashboard.aspx).
 
 2. Wählen Sie im Abschnitt „Anbieter von Prüfungen“ in der Dropdownliste die Option „Pearson VUE“ und anschließend „Los“ aus.
 <br/>
 <br/>
-![Auswählen von „Pearson VUE“ in der Dropdownliste und anschließendes Auswählen von „Los“](images/how-to-access-score-report-step-2.png)
+![Auswählen von „Pearson VUE“ in der Dropdownliste und anschließendes Auswählen von „Los“](images/pearsononly-how-to-access-score-report-step-2.png)
 <br/>
 <br/>
 3. Sie werden zum Dashboard für Pearson VUE umgeleitet. Wählen Sie im Abschnitt „My Account“ (Mein Konto) die Option zum Anzeigen der Ergebnisberichte aus.
@@ -48,6 +50,7 @@ Bei Prüfungen, die mit PSI abgelegt wurden, wurde Ihr Ergebnisbericht an die in
 ![Auswählen der Schaltfläche „View“ (Anzeigen) für den Ergebnisbericht einer bestimmten Prüfung](images/how-to-access-score-report-step-4.png)
 <br/>
 <br/>
+Um auf Ihren Certiport-Bewertungsbericht zu zugreifen, besuchen Sie Ihr [Certiport-Transkript.](https://www.certiport.com/portal/SSL/Login.aspx) Weitere Informationen finden Sie unter Häufig gestellte [Fragen zu Certiport.](https://certiport.pearsonvue.com/About/Developing-a-certification-examination/Certification-examination-FAQs)
 
 ## <a name="how-exams-are-scored"></a>Bewertung von Prüfungen
 

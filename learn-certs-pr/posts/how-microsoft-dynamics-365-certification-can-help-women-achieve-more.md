@@ -1,0 +1,45 @@
+---
+title: Wie die Microsoft Dynamics 365-Zertifizierung Frauen dabei helfen kann, mehr | Microsoft-Dokumentation
+description: Wie die Microsoft Dynamics 365-Zertifizierung Frauen helfen kann, mehr zu erreichen
+documentationcenter: NA
+author: micsullivan
+ms.topic: article
+ms.tgt_pltfrm: NA
+ms.workload: NA
+ms.date: 03/10/2020
+ms.author: msulliv
+ms.prod: non-product-specific
+ms.openlocfilehash: 496f389a055e2d61dcd4416224f21ac83bdcffc8
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 12/28/2021
+ms.locfileid: "132111836"
+---
+# <a name="how-microsoft-dynamics-365-certification-can-help-women-achieve-more"></a>Wie die Microsoft Dynamics 365-Zertifizierung Frauen helfen kann, mehr zu erreichen
+
+Veröffentlicht am 10. März 2020 von **Nancy Tandy, Business Strategy Manager, Worldwide Learning**
+
+___
+
+Frauen stehen in allen Branchen vor Herausforderungen bei der Einstellung und Förderung, und die Geschäftswelt ist keine Ausnahme. Auch wenn die Meinung darüber, was diese Herausforderungen sind und warum sie vorhanden sind, unterschiedlich sein kann, erkennen die meisten Menschen, dass bewusste Schritte – in jeder Phase Ihrer Karriere – zum Demonstrieren Ihrer Qualifikationen und Fähigkeiten Ihnen dabei helfen können, Denkweg zu bieten, den Sie benötigen, und Ihre Chancen auf Erfolg erhöhen können. Hier kommt die Zertifizierung ins System. Unabhängig davon, ob Sie in Ihre Karriere einsteigern, von einem anderen Bereich ins Unternehmen wechseln oder eine Promotion anzielen, kann die Zertifizierung Ihnen helfen, sich auf dem stark umkämpften Markt zu unterscheiden.
+
+## <a name="microsoft-certification-prepares-you-for-tech-roles-and-a-whole-lot-more"></a>Die Microsoft-Zertifizierung bereitet Sie auf technische Rollen und vieles mehr vor.
+
+Die Erfahrung ist sehr gut, und die Kombination mit der richtigen Bildung kann Dazu beitragen, Ihren Vorgesetzten zu überzeugen, dass Sie die richtige Person für diese Position im Unternehmen sind, oder Vorgesetzten zu zeigen, dass Sie am besten für diese Stelle geeignet sind. Wenn Sie als Unternehmens-App-Berater, Entwickler oder Lösungsarchitekt zertifiziert werden, können Sie Ihre Fähigkeiten überprüfen. Es ist immer schwierig zu konkurrieren, und da Frauen nur 25 bis 26 Prozent der professionellen Computeraufträge halten, kann ihnen die Zertifizierung laut [National Center for Women & Information Technology](https://www.ncwit.org/resources/numbers)aufgefallen sein. Lassen Sie sich z. B. in Dynamics 365-Grundlagen oder als Power Apps + Dynamics 365 Developer Associate oder Dynamics 365 Finance and Operations Apps Solution Architect Expert zertifiziert, und sehen Sie sich an, welche Möglichkeiten Ihnen auf den Weg kommen. Die Notwendigkeit von Personen, die mit der Implementierung und Optimierung von Dynamics 365 versiert sind, ist derzeit sehr groß, sodass die Zertifizierung in Dynamics 365 Ihnen einen Vorteil bieten kann. Erkunden Sie alle Dynamics 365-Zertifizierungen.
+
+Sicher, wir benötigen mehr Frauen, die mit Cloud Computing, Cybersicherheit und KI arbeiten. Wir benötigen jedoch auch mehr zertifizierte technisch versierte Frauen im Unternehmen. Nicht-IT- oder nicht technische Aufträge machen tatsächlich die meisten Aufträge [aus,](https://www.breakinto.tech/blog/2015/9/8/do-you-need-tech-skills-to-land-a-tech-job) die technische Fähigkeiten erfordern. In der heutigen Welt von Big Data und Business Intelligence, z. B. Geschäftsrollen wie Data Scientists, Vermarkter und Vertriebsleiter, sowie Kundendienst, Außendienst und Finanz- und Betriebsberater benötigen alle diese technischen Fähigkeiten. Die rollenbasierte Microsoft-Zertifizierung soll Ihnen helfen, die in diesen Rollen benötigten Qualifikationen zu erwerben und ihre Kenntnisse zu demonstrieren. Ihre Zertifizierung in Microsoft Dynamics 365 kann Ihre Fähigkeiten unter Verwendung der neuesten Technologie für Vertrieb, Marketing, Finanzen und Betrieb unter beweis stellen.
+
+Weitere Vorteile sind, dass Sie in Ihrem eigenen Tempo auf die Microsoft-Zertifizierung hinarbeiten und sie nach Ihrem eigenen Zeitplan abschließen können.
+
+## <a name="how-certification-benefits-women"></a>Vorteile der Zertifizierung für Frauen
+
+Die Microsoft-Zertifizierung kann Ihre Karriereziele auf viele Verschiedenes unterstützen. Die Zertifizierung kann in der Tat:
+
+- **Helfen Sie Ihnen, hohe Ziele zu setzen, Ihren Pfad zu planen und Maßnahmen zu ergreifen.** Viele Unternehmens- und Technologieorganisationen, die Frauen bei der erfolgreichen Entwicklung unterstützen, legen den Wert auf das Festlegen hoher Ziele und das anschließende Erstellen eines Plans und das Ergreifen von Schritten, um diese Ziele zu erreichen. Nachdem Sie die Rolle bestimmt haben, in der Sie zertifiziert werden möchten, identifiziert Microsoft Learn die Dynamics 365-Qualifikation, die Sie benötigen, und legt einen eindeutigen Lernpfad für den Erwerb dieser Qualifikationen fest. Dies ist viel effektiver, um Ihre Ziele zu erreichen, als einen Treffer- oder Fehlschlagplan zu kobieren. Lernen Sie Lernpfade für Dynamics 365.
+- **Ermöglichen Sie es Ihnen, die richtigen Tools zu erwerben, um sich zu unterscheiden.** Ganz gleich, ob Sie marketingfunktionaler [Berater,](/learn/certifications/d365-functional-consultant-marketing?wt.mc_id=learningredirect_certs-web-wwl?WT.mc_id=BAblog7__Dynamics-Blog-wwl)Vertriebsfunktionsberater, [](/learn/certifications/d365-functional-consultant-sales?wt.mc_id=learningredirect_certs-web-wwl?WT.mc_id=BAblog7__Dynamics-Blog-wwl)Fachberater für Lieferkettenverwaltung oder Finanzfunktionsberater werden möchten, die Schulungsressourcen bei Microsoft Learn machen es einfach, genau zu erfahren, was Sie tun müssen. [](/learn/certifications/d365-functional-consultant-supply-chain-management?wt.mc_id=learningredirect_certs-web-wwl?WT.mc_id=BAblog7__Dynamics-Blog-wwl) [](/learn/certifications/d365-functional-consultant-financials?wt.mc_id=learningredirect_certs-web-wwl?WT.mc_id=__--)
+- **Überprüfen Sie Ihre Fähigkeiten.** Die Mitarbeiter suchen nach Erfahrung, möchten aber auch wissen, ob eine Person tatsächlich die Aufgaben ausführen kann, die für die gesuchte Rolle erforderlich sind. Wenn Sie beispielsweise als [Dynamics 365 Customer Service Functional Consultant](/learn/certifications/d365-functional-consultant-customer-service?WT.mc_id=__--)zertifiziert sind, verfügen Sie über Kenntnisse in den Folgenden: Planung und Analyse, Verwaltung des UX-Entwurfs, Implementieren von Sicherheit, Konfigurieren der Stimme des Kunden und Verwalten von Fällen, Berechtigungen und SLAs.
+- **Helfen Sie Ihnen, Ihre Karriere zu entwickeln und die Führung zu übernehmen.** Erfolgreiche Frauen sehen Herausforderungen als Chancen, nicht als Hindernisse. Und Herausforderungen erfordern in der Regel neue Qualifikationen. Sie können diese Qualifikationen erwerben, indem Sie zertifiziert werden. Der Erwerb eines neuen Skills oder ein höheres Maß an Fachwissen kann Ihnen helfen, neue Möglichkeiten zu identifizieren, Ihre Organisation für den Start und die Einrichtung neuer Projekte zu bereiten. Ihre Zertifizierung für Dynamics 365 Finance and Operations Apps Developer Associate, z. B. oder Ihre Zertifizierung Power Apps + Dynamics 365 Solution Architect Expert informiert die Mitarbeiter darüber, wie fähig Sie sind.
+- **Steigern Sie Ihr Vertrauen.** Frauen unterschätzen häufig ihre Fähigkeiten, wenn sie sich für Aufträge oder Werbeaktionen bewerben. Warum? Häufig ist dies ihr Konfidenzniveau. [Eine Studie](https://uxdesign.cc/overcoming-the-challenges-of-being-a-woman-in-tech-91930375c40f) zu den Herausforderungen von Frauen in der Technologie hat gezeigt, dass wissenschaftliche Mitarbeiter mit acht Jahren Programmiererfahrung genauso sicher waren wie ihre kollegen mit 0 bis 1 Jahr Programmiererfahrung. Das Vertrauen eines Antragstellers wirkt sich häufig auf das Ergebnis eines Gesprächs aus. Erfolgreiche Frauen in der Tech-Beratung: Konzentrieren Sie sich auf das, was Sie wissen, nicht auf das, was Sie nicht wissen, wenn Sie sich für die Einstellung, für Projekte oder für die Förderung präsentieren. Das Erreichen einer branchenspezifischen Zertifizierung in der von Ihnen gesuchten Rolle kann Ihnen zeigen, was Sie wissen, und Ihnen das Vertrauen geben, das Sie für ihre Arbeit benötigen.
+
+Hören Sie sich einen Podcast zu [](https://mariewiese.com/2019/02/10/women-talk-tech-episode-5-how-to-support-women-in-tech/) _Women Talk Tech_ an, in dem beschrieben wird, wie ein Unternehmen, das im Besitz einer Tochter ist, Experten gewinnen kann, indem es kostenlosen Zugriff auf Onlineschulungen und -ressourcen von Microsoft Dynamics 365 bietet, die den Beratern helfen, ihre Fähigkeiten und Zertifizierungen auf dem neuesten Stand zu halten. Sehen Sie sich weitere [ _Podcasts_](https://mariewiese.com/womentalktech/)zu Women Talk Tech an, z. B.["Be Bold](https://mariewiese.com/2019/03/26/women-talk-tech-episode-8-be-bold/)", von Cathy Tracey, einem globalen Vertriebsleiter für Dynamics 365 mit über 25 Jahren Erfahrung in Vertrieb und Vertriebsführung.

@@ -10,10 +10,10 @@ ms.date: 10/31/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 4fedba3dbaceeaf7c6d5f6a847fa5dfdc40fc0fa
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112221"
 ---
 # <a name="are-you-a-power-apps-developer-its-time-to-be-certified"></a>Sind Sie Power Apps Developer? Zeit für eine Zertifizierung!
@@ -38,22 +38,22 @@ Vorbereitung auf Betaprüfungen
 
 - Sehen Sie sich den [Leitfaden zur Vorbereitung auf MB-400](https://www.microsoft.com/learning/exam-MB-400.aspx) an, und üben Sie die aufgelisteten Fertigkeiten. 
 - [Suchen Sie nach Präsenz- und Onlineschulungen von Microsoft Learning-Partnern](https://www.microsoft.com/learning/course-list.aspx).
-- [Erkunden Sie kostenlose Lernpfade, Kurse und praxisorientierte Lernangebote in Microsoft Learn](https://docs.microsoft.com/learn/browse).
-- Benötigen Sie weitere Vorschläge zur Vorbereitung?Sehen Sie sich meinen [Blogbeitrag zur Vorbereitung auf Betaprüfungen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374544) an.
+- [Sehen Sie sich kostenlose Lernpfade, Kurse und praxisorientierte Lernangebote auf Microsoft Learn an.](https://docs.microsoft.com/learn/browse)
+- Benötigen Sie weitere Vorschläge zur Vorbereitung?Sehen Sei sich meinen [Blogbeitrag zur Vorbereitung auf Betaexamen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374544) an.
 
-Wenn Sie an einer Betaprüfung teilnehmen, haben Sie die Möglichkeit, die Fragen mitzugestalten, die in die Prüfung aufgenommen werden, wenn diese veröffentlicht wird.Der Neubewertungsprozess beginnt an dem Tag, an dem die Prüfungen live geschaltet werden, und die endgültigen Ergebnisse werden etwa zehn Tage später veröffentlicht. Folgen Sie mir auf Twitter ([@libertymunson](https://twitter.com/LibertyMunson)), um aktuelle Informationen zum Abschluss der Neubewertung zu erhalten. Wenn Sie Fragen zum Zeitplan für die Bewertung von Betaprüfungen und die Veröffentlichung der Liveprüfung haben, sehen Sie sich die Blogbeiträge [Von der Betaprüfung zur Liveprüfung](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374675) und [Weitere Tipps zu Betaprüfungen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374723) an.
+Wenn Sie an einem Betaexamen teilnehmen, haben Sie die Möglichkeit, die Fragen mitzugestalten, die in das Examen aufgenommen werden, wenn dieses veröffentlicht wird.Der Wiederholungsprozess beginnt an dem Tag, an dem die Prüfungen live gehen, und die Endergebnisse werden ca. 10 Tage später veröffentlicht. Folgen Sie mir auf Twitter ([@libertymunson](https://twitter.com/LibertyMunson)), um aktuelle Informationen zum Abschluss der Neubewertung zu erhalten. Sollten Sie Fragen zum Zeitplan für die Bewertung von Betaexamen und die Veröffentlichung des Examens haben, sehen Sie sich die Blogbeiträge [Vom Betaexamen zum veröffentlichten Examen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374675) und [Weitere Tipps für Betaexamen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374723) an.
 
 Denken Sie daran, dass die Anzahl der Plätze begrenzt ist. Wenn sie weg sind, sind sie weg. Beachten Sie auch, dass der Betacode in einigen Ländern nicht funktioniert (z. B. Türkei, Pakistan, Indien und China). Sie können in diesen Ländern nicht an der Betaprüfung teilnehmen.
 
-Denken Sie auch daran, dass sich diese Prüfungen in der Betaversion befinden, was bedeutet, dass Sie nicht sofort eine Bewertung erhalten. Sie erhalten Ihre endgültige Punktzahl und die Information, ob Sie bestanden haben, sobald die Prüfung live geschaltet ist.
+Denken Sie auch daran, dass sich diese Examen in der Betaversion befinden, was bedeutet, dass Sie nicht sofort eine Bewertung erhalten. Sie erfahren Ihre endgültige Bewertung und Ihren Examensstatus, nachdem Ihr Examen veröffentlicht wurde.
 
 **Zugehörige Ankündigungen**
 
 [Microsoft Learning: Ihr Weg zum Erfolg](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375243)
 
-[Übersicht über eingestellte Prüfungen und Zertifizierungen, Juli 2019](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375242)
+[Übersicht über ausgemusterte Examen und Zertifizierungen (Juli 2019)](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375242)
 
-[Microsoft 70-xxx-Prüfungen und die neuen rollenbasierten Zertifizierungen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375236)
+[Microsoft 70-xxx-Examen und die neuen rollenbasierten Zertifizierungen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375236)
 
 
 

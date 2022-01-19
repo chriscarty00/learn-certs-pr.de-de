@@ -10,10 +10,10 @@ ms.date: 05/20/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 9663684c514beeddad709e0a338d43a0493b3bbd
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111437"
 ---
 # <a name="level-up-with-microsoft-certified-azure-developer-associate"></a>Weiterentwicklung mit Microsoft Certified: Azure Developer Associate
@@ -56,4 +56,4 @@ Wenn Sie als Entwickler Ihre Azure-Qualifikationen erweitern, können Sie mehr a
 ## <a name="related-announcements"></a>Zugehörige Ankündigungen
 
 [Grundlegendes zu Microsoft Azure-Zertifizierungen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375305)  
-[Ermitteln der richtigen Microsoft Azure-Zertifizierung](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375306)
+[So finden Sie die richtige Microsoft Azure-Zertifizierung für Sie](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375306)

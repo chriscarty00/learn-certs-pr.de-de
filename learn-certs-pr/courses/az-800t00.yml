@@ -1,0 +1,571 @@
+### YamlMime:Course
+title: Verwalten Windows Server Hybrid Core-Infrastruktur
+metadata:
+  title: 'Kurs AZ-800T00--A: Verwalten Windows Server Hybrid Core-Infrastruktur'
+  description: 'Kurs AZ-800T00--A: Verwalten Windows Server Hybrid Core-Infrastruktur'
+  ms.openlocfilehash: c9f38ae187afbff73693ca6c1c5d71c7625e1eb2
+  ms.sourcegitcommit: 5cab29e7d18868fcf8707d060b17c58475ab7374
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/31/2021
+  ms.locfileid: "135700316"
+uid: course.az-800t00
+courseNumber: AZ-800T00
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Verwenden Sie Verwaltungstechniken und -tools in Windows Server.
+- skill: Identifizieren Sie Tools zur Implementierung von Hybridlösungen, einschließlich Windows Admin Center und PowerShell.
+- skill: Implementieren Sie Identitätsdienste in Windows Server.
+- skill: Implementieren Sie Identitäten in Hybridszenarien, einschließlich Azure AD DS in Azure IaaS und verwalteter AD DS.
+- skill: Integrieren von Azure AD DS in Azure AD
+- skill: Verwalten von Netzwerkinfrastruktur-Services.
+- skill: Stellen Sie Azure-VMs bereit, auf denen Windows Server ausgeführt wird, und konfigurieren Sie Netzwerk und Speicher.
+- skill: Remoteverwaltung und Verwaltung Windows Virtuellen IaaS-Servercomputers.
+- skill: Verwalten und Verwalten von Azure-VMs, auf denen Windows Server ausgeführt wird
+- skill: Konfigurieren Sie Dateiserver und Speicher.
+- skill: Implementieren Sie Datei-Services in Hybridszenarien mit Hilfe von Azure-Dateien und Azure-Dateisynchronisierung.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.az-800
+summary: >-
+  In diesem Kurs erfahren IT-Experten, wie Sie kernige Windows Serverworkloads und -dienste mit lokalen, Hybrid- und Cloudtechnologien verwalten. In diesem Kurs erfahren IT-Experten, wie sie lokale und Hybridlösungen wie Identität, Verwaltung, Compute, Netzwerk und Speicher in einer Windows Server-Hybridumgebung implementieren und verwalten.
+
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+
+  Dieser viertägige Kurs richtet sich an Windows Server-Hybridadministratoren, die erfahrungsgemäß mit Windows Server arbeiten und die Funktionen ihrer lokalen Umgebungen erweitern möchten, indem sie lokale und Hybridtechnologien kombinieren. Windows Server-Hybridadministratoren implementieren und verwalten lokale und Hybridlösungen wie Identität, Verwaltung, Compute, Netzwerk und Speicher in einer Windows Server-Hybridumgebung.
+prerequisitesSection: >-
+  Vor der Teilnahme an diesem Kurs müssen die Teilnehmer folgende Voraussetzungen erfüllen:
+
+
+  *   Erfahrung mit der Verwaltung von Windows Server-Betriebssystemen und Windows Server-Workloads in lokalen Szenarios, einschließlich AD DS, DNS, DFS, Hyper-V und Datei-/Speicherdiensten
+
+
+  *   Erfahrung mit allgemeinen Windows Serververwaltungstools (in der ersten Voraussetzung impliziert).
+
+
+  *   Grundkenntnisse der wichtigsten Compute-, Speicher-, Netzwerk- und Virtualisierungstechnologien von Microsoft (in der ersten Voraussetzung impliziert).
+
+
+  *   Erfahrung und Kenntnisse über grundlegende Netzwerktechnologien wie IP-Adressierung, Namensauflösung und DHCP (Dynamic Host Configuration Protocol)
+
+
+  *   Erfahrung in der Arbeit mit und Kenntnisse über Microsoft Hyper-V und grundlegende Servervirtualisierungskonzepte
+
+
+  *   Grundlegende Kenntnisse zur Implementierung und Verwaltung von IaaS-Diensten in Microsoft Azure
+
+
+  *   Grundlegende Kenntnisse im Umgang mit Azure Active Directory
+
+
+  *   Praktisches Arbeiten mit Windows Clientbetriebssystemen wie Windows 10 oder Windows 11
+
+
+  *   Grundlegende Erfahrung mit Windows PowerShell
+outlineSection: >-
+  ### <a name="module-1-identity-services-in-windows-server"></a>Modul 1: Identitätsdienste in Windows Server
+
+
+  Dieses Modul führt Identitäts-Services ein und beschreibt Active Directory-Domain-Services (AD DS) in einer Windows Server-Umgebung. Das Modul beschreibt die Bereitstellung von Domänencontrollern in AD DS sowie Azure Active Directory (AD) und die Vorteile der Integration von Azure AD in AD DS. Das Modul behandelt auch die Grundlagen der Gruppenrichtlinie und das Konfigurieren von Gruppenrichtlinienobjekten (Group Policy Objects, GPOs) in einer Domainumgebung.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Einführung in AD DS
+
+
+  *   Verwalten von AD DS-Domänencontrollern und FSMO-Rollen
+
+
+  *   Implementieren von Gruppenrichtlinienobjekten
+
+
+  *   Verwalten von erweiterten AD DS-Funktionen
+
+
+
+  #### <a name="lab--implementing-identity-services-and-group-policy"></a>Lab: Implementieren von Identitätsdiensten und Gruppenrichtlinie
+
+
+  ####
+     *   Bereitstellen eines neuen Domänencontrollers in Server Core
+     *   Konfigurieren von Gruppenrichtlinien
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Beschreiben von AD DS in einer Windows Server-Umgebung
+
+
+  *   Bereitstellen von Domänencontrollern in AD DS
+
+
+  *   Beschreiben von Azure AD und der Vorteile der Integration von Azure AD in AD DS
+
+
+  *   Erläutern Gruppenrichtlinie Grundlagen und Konfigurieren von Gruppenrichtlinienobjekten in einer Domänenumgebung.
+
+
+
+  ### <a name="module-2-implementing-identity-in-hybrid-scenarios"></a>Modul 2: Implementieren der Identität in Hybridszenarien
+
+
+  In diesem Modul wird erläutert, wie Sie eine Azure-Umgebung so konfigurieren, dass Windows IaaS-Workloads unterstützt werden, die Active Directory erfordern. Das Modul behandelt auch die Integration lokales Active Directory Domain Services-Umgebung (AD DS) in Azure. Schließlich wird im Modul erläutert, wie Sie eine vorhandene Active Directory-Umgebung in Azure erweitern, indem Sie IaaS-VMs, die als Domänencontroller konfiguriert sind, in einem speziell konfigurierten Subnetz des virtuellen Azure-Netzwerks (VNET) platzieren.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Implementieren einer Hybrididentität mit Windows Server
+
+
+  *   Bereitstellen und Verwalten von Azure-IaaS-Active Directory-Domänencontrollern in Azure
+
+
+
+  #### <a name="lab--implementing-integration-between-ad-ds-and-azure-ad"></a>Lab: Implementieren der Integration zwischen AD DS und Azure AD
+
+
+  ####
+     *   Vorbereiten von Azure AD für AD DS Integration
+     *   Vorbereiten einer lokalen AD DS-Instanz für die Azure AD-Integration
+     *   Herunterladen, Installieren und Konfigurieren von Azure AD Connect
+     *   Überprüfen der Integration zwischen AD DS und Azure AD
+     *   Implementieren von Azure AD-Integrationsfunktionen in AD DS
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Integrieren Sie lokales Active Directory Domain Services-Umgebung (AD DS) in Azure.
+
+
+  *   Installieren und Konfigurieren der Verzeichnissynchronisierung mithilfe von Azure AD Connect
+
+
+  *   Implementieren und Konfigurieren von Azure AD DS
+
+
+  *   Implementieren des nahtlosen einmaligen Anmeldens (Single Sign-On, SSO)
+
+
+  *   Implementieren und Konfigurieren von Azure AD DS
+
+
+  *   Installieren einer neuen AD DS-Gesamtstruktur in einem Azure-VNet.
+
+
+
+  ### <a name="module-3-windows-server-administration"></a>Modul 3: Windows Serververwaltung
+
+
+  In diesem Modul wird beschrieben, wie Sie das Prinzip der geringsten Rechte über privileged Access Workstation (PAW) und Just Enough Administration (JEA) implementieren. Das Modul hebt auch einige gängige Windows Server-Verwaltungstools hervor, z. B. Windows Admin Center, Server-Manager und PowerShell. In diesem Modul werden auch der Konfigurationsprozess nach der Installation und tools beschrieben, die für diesen Prozess zur Verfügung stehen, z. B. sconfig und Desired State Configuration (DSC).
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Sichere Verwaltung von Windows Server
+
+
+  *   Beschreiben der Windows Server-Verwaltungstools
+
+
+  *   Konfigurieren von Windows Server nach der Installation
+
+
+  *   Just Enough Administration in Windows Server
+
+
+
+  #### <a name="lab--managing-windows-server"></a>Lab: Verwalten von Windows Server
+
+
+  ####
+     *   Implementieren und Verwenden der Remoteserververwaltung
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erläutern von Verwaltungsmodellen der geringsten Rechte.
+
+
+  *   Entscheiden Sie, wann Arbeitsstationen mit privilegiertem Zugriff verwendet werden sollen.
+
+
+  *   Wählen Sie für eine bestimmte Situation das am besten geeignete Windows Serververwaltungstool aus.
+
+
+  *   Wenden Sie verschiedene Methoden an, um die Konfiguration von Windows Server nach der Installation durchzuführen.
+
+
+  *   Schränken Sie privilegierte Verwaltungsvorgänge mit Just Enough Administration (JEA) ein.
+
+
+
+  ### <a name="module-4-facilitating-hybrid-management"></a>Modul 4: Vereinfachen der Hybridverwaltung
+
+
+  In diesem Modul werden Tools behandelt, die die Remoteverwaltung Windows IaaS-VMs erleichtern. Das Modul behandelt auch die Verwendung von Azure Arc mit lokalen Serverinstanzen, das Bereitstellen von Azure-Richtlinien mit Azure Arc und das Verwenden der rollenbasierten Zugriffssteuerung (Role-Based Access Control, RBAC), um den Zugriff auf Log Analytics-Daten einzuschränken.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Remoteverwaltung und Verwaltung Windows Virtuellen IaaS-Servercomputern
+
+
+  *   Verwalten von Hybridworkloads mit Azure Arc
+
+
+
+  #### <a name="lab--using-windows-admin-center-in-hybrid-scenarios"></a>Lab: Verwenden von Windows Admin Center in Hybridszenarien
+
+
+  ####
+     *   Bereitstellen von Azure-VMs, auf denen Windows Server ausgeführt wird
+     *   Implementieren von Hybridkonnektivität mithilfe des Azure-Netzwerkadapters
+     *   Bereitstellen des Windows Admin Center-Gateways in Azure
+     *   Überprüfen der Funktionalität des Windows Admin Center-Gateways in Azure
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Wählen Sie geeignete Tools und Techniken aus, um Windows IaaS-VMs remote zu verwalten.
+
+
+  *   Erläutern Sie, wie das Onboarding lokaler Windows Server-Instanzen in Azure Arc erfolgt.
+
+
+  *   Verbinden von Hybridcomputern mit Azure über das Azure-Portal.
+
+
+  *   Verwenden von Azure Arc zum Verwalten von Geräten.
+
+
+  *   Beschränken des Zugriffs mithilfe von RBAC.
+
+
+
+  ### <a name="module-5-hyper-v-virtualization-in-windows-server"></a>Modul 5: Hyper-V-Virtualisierung in Windows Server
+
+
+  In diesem Modul wird beschrieben, wie Sie Hyper-V-VMs und -Container implementieren und konfigurieren. Das Modul behandelt die wichtigsten Features von Hyper-V in Windows Server und beschreibt VM-Einstellungen und die Konfiguration von VMs in Hyper-V. Das Modul behandelt auch Sicherheitstechnologien, die mit Virtualisierung verwendet werden, z. B. abgeschirmte VMs, Host-Wächterdienst, vom Administrator vertrauenswürdiger und TPM-vertrauenswürdiger Nachweis sowie Key Protection Service (KPS). Schließlich wird in diesem Modul das Ausführen von Containern und Containerworkloads und das Orchestrieren von Containerworkloads auf Windows Server mit Kubernetes behandelt.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Konfigurieren und Verwalten von Hyper-V
+
+
+  *   Konfigurieren und Verwalten von Hyper-V-VMs
+
+
+  *   Schützen von Hyper-V-Workloads
+
+
+  *   Ausführen von Containern unter Windows Server
+
+
+  *   Orchestrieren von Containern unter Windows Server mithilfe von Kubernetes
+
+
+
+  #### <a name="lab--implementing-and-configuring-virtualization-in-windows-server"></a>Lab: Implementieren und Konfigurieren der Virtualisierung in Windows Server
+
+
+  ####
+     *   Erstellen und Konfigurieren von VMs
+     *   Installieren und Konfigurieren von Containern
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Installieren und konfigurieren Sie Hyper-V auf Windows Server.
+
+
+  *   Konfigurieren und Verwalten virtueller Hyper-V-Computer.
+
+
+  *   Verwenden Sie den Host-Wächterdienst, um virtuelle Computer zu schützen.
+
+
+  *   Erstellen und Bereitstellen abgeschirmter virtueller Computer.
+
+
+  *   Konfigurieren und Verwalten von Containerworkloads.
+
+
+  *   Orchestrieren sie Containerworkloads mithilfe eines Kubernetes-Clusters.
+
+
+
+  ### <a name="module-6-deploying-and-configuring-azure-vms"></a>Modul 6: Bereitstellen und Konfigurieren von Azure-VMs
+
+
+  In diesem Modul werden Azure-Compute- und -Speicherressourcen in Bezug auf Azure-VMs und die Bereitstellung von Azure-VMs mithilfe der Azure-Portal, Azure CLI oder Vorlagen beschrieben. Außerdem wird erläutert, wie Sie neue VMs aus generalisierten Images erstellen und Azure Image Builder-Vorlagen zum Erstellen und Verwalten von Images in Azure verwenden. Schließlich wird in diesem Modul beschrieben, wie Sie Desired State Configuration (DSC)-Erweiterungen bereitstellen, diese Erweiterungen implementieren, um nicht konforme Server zu abhilfemaßnahmen, und benutzerdefinierte Skripterweiterungen verwenden.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Planen und Bereitstellen Windows virtuellen IaaS-Computern auf Server
+
+
+  *   Anpassen Windows Server-IaaS-Images für virtuelle Computer
+
+
+  *   Automatisieren der Konfiguration von Windows Virtuellen IaaS-Computern auf Server
+
+
+
+  #### <a name="lab--deploying-and-configuring-windows-server-on-azure-vms"></a>Lab: Bereitstellen und Konfigurieren von Windows Server auf Azure-VMs
+
+
+  ####
+     *   Erstellen Azure Resource Manager (ARM)-Vorlagen für die Bereitstellung virtueller Azure-Computer
+     *   Ändern von ARM-Vorlagen zum Einbeziehen einer auf VM-Erweiterungen basierenden Konfiguration
+     *   Bereitstellen von Azure-VMs, auf denen Windows Server ausgeführt wird, mithilfe von ARM-Vorlagen
+     *   Konfigurieren des Administratorzugriffs auf Azure-VMs, auf denen Windows Server ausgeführt wird
+     *   Konfigurieren der Windows Serversicherheit auf virtuellen Azure-Computer
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erstellen Sie einen virtuellen Computer Azure-Portal und aus Azure Cloud Shell.
+
+
+  *   Bereitstellen von Azure-VMs mithilfe von Vorlagen.
+
+
+  *   Automatisieren sie die Konfiguration Windows Server-IaaS-VMs.
+
+
+  *   Erkennen und Abhilfemaßnahmen für nicht konforme Server.
+
+
+  *   Erstellen Sie neue VMs aus generalisierten Images.
+
+
+  *   Verwenden Sie Azure Image Builder-Vorlagen, um Images in Azure zu erstellen und zu verwalten.
+
+
+
+  ### <a name="module-7-network-infrastructure-services-in-windows-server"></a>Modul 7: Netzwerkinfrastrukturdienste in Windows Server
+
+
+  In diesem Modul wird beschrieben, wie Sie grundlegende Netzwerkinfrastrukturdienste in Windows Server implementieren, z. B. DHCP und DNS. In diesem Modul wird auch die Implementierung der IP-Adressverwaltung und die Verwendung von Remoteadressen Access Services.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Bereitstellen und Verwalten des DHCP
+
+
+  *   Implementieren von Windows Server-DNS
+
+
+  *   Implementieren der IP-Adressverwaltung
+
+
+  *   Implementieren des Remotezugriffs
+
+
+
+  #### <a name="lab--implementing-and-configuring-network-infrastructure-services-in-windows-server"></a>Lab: Implementieren und Konfigurieren von Netzwerkinfrastrukturdiensten in Windows Server
+
+
+  ####
+     *   Bereitstellen und Konfigurieren von DHCP
+     *   Bereitstellen und Konfigurieren von DNS
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Implementieren Sie die automatische IP-Konfiguration mit DHCP in Windows Server.
+
+
+  *   Bereitstellen und Konfigurieren der Namensauflösung mit Windows Server-DNS.
+
+
+  *   Implementieren IPAM, um die DHCP- und DNS-Server und den IP-Adressraum einer Organisation zu verwalten.
+
+
+  *   Auswählen, Verwenden und Verwalten von Remotezugriffskomponenten.
+
+
+  *   Implementieren Sie web Anwendungsproxy (WAP) als Reverseproxy für interne Webanwendungen.
+
+
+
+  ### <a name="module-8-implementing-hybrid-networking-infrastructure"></a>Modul 8: Implementieren der Hybridnetzwerkinfrastruktur
+
+
+  In diesem Modul wird beschrieben, wie Sie eine lokale Umgebung mit Azure verbinden und DNS für Windows Virtuelle Server-IaaS-Computer konfigurieren. In diesem Modul wird behandelt, wie Sie die geeignete DNS-Lösung für die Anforderungen Ihrer Organisation auswählen und einen DNS-Server auf einem virtuellen Azure IaaS-Computer Windows Server ausführen. Schließlich wird in diesem Modul das Verwalten Microsoft Azure virtuellen Netzwerken (VNETs) und der IP-Adresskonfiguration für virtuelle IaaS-Computer (Infrastructure-as-a-Service) von Windows Server behandelt.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Implementieren einer Hybridnetzwerkinfrastruktur
+
+
+  *   Implementieren von DNS für Windows Server-IaaS-VMs
+
+
+  *   Implementieren von IP-Adressierung und IP-Routing für Windows Server-IaaS-VMs
+
+
+
+  #### <a name="lab--implementing-windows-server-iaas-vm-networking"></a>Lab: Implementieren von Windows Server-IaaS-VM-Netzwerken
+
+
+  ####
+     *   Implementieren des Routings virtueller Netzwerke in Azure
+     *   Implementieren der DNS-Namensauflösung in Azure
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Implementieren eines Azure-VPN (virtuelles privates Netzwerk)
+
+
+  *   Konfigurieren Sie DNS für Windows Server-IaaS-VMs.
+
+
+  *   Führen Sie einen DNS-Server auf einem virtuellen azure-iaaS Windows servercomputer aus.
+
+
+  *   Erstellen Sie ein routenbasiertes VPN-Gateway mithilfe Azure-Portal.
+
+
+  *   Implementieren von Azure ExpressRoute
+
+
+  *   Implementieren eines Azure-WAN (Wide Area Network, Fernnetz)
+
+
+  *   Verwalten Microsoft Azure virtuellen Netzwerken (VNETs).
+
+
+  *   Verwalten der IP-Adresskonfiguration für Windows virtuellen Server-IaaS-Computer (VMs).
+
+
+
+  ### <a name="module-9-file-servers-and-storage-management-in-windows-server"></a>Modul 9: Dateiserver und Speicherverwaltung in Windows Server
+
+
+  Dieses Modul behandelt die Kernfunktionen und Anwendungsfälle von Dateiserver- und Speicherverwaltungstechnologien in Windows Server. In diesem Modul wird erläutert, wie Sie die Windows-Dateiserverrolle konfigurieren und verwalten und wie Sie Speicherplätze und Speicherplätze verwenden. Dieses Modul behandelt auch die Replikation von Volumes zwischen Servern oder Clustern mithilfe Storage Replikats.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Verwalten von Windows Server-Dateiservern
+
+
+  *   Implementieren von „Speicherplätze“ und „Direkte Speicherplätze“
+
+
+  *   Implementieren der Windows Server-Datendeduplizierung
+
+
+  *   Implementieren von iSCSI unter Windows Server
+
+
+  *   Implementieren von Windows Server-Speicherreplikaten
+
+
+
+  #### <a name="lab--implementing-storage-solutions-in-windows-server"></a>Lab: Implementieren von Speicherlösungen in Windows Server
+
+
+  ####
+     *   Implementieren der Datendeduplizierung
+     *   Konfigurieren von iSCSI-Speicher
+     *   Konfigurieren redundanter Speicherplätze
+     *   Implementieren direkter Speicherplätze
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Konfigurieren und verwalten Sie Windows Serverdateiserverrolle.
+
+
+  *   Schützen Von Daten vor Laufwerkausfällen mit Speicherplätze.
+
+
+  *   Erhöhen Sie die Skalierbarkeit und Leistung der Speicherverwaltung mit Speicherplätze Direct.
+
+
+  *   Optimieren sie die Datenträgerauslastung mithilfe der Datendeduplizierung.
+
+
+  *   Konfigurieren sie Hochverfügbarkeit für iSCSI.
+
+
+  *   Aktivieren Sie die Replikation von Volumes zwischen Clustern mithilfe Storage Replikats.
+
+
+  *   Verwenden Sie Storage Replikat, um Resilienz für Daten bereitzustellen, die auf Windows Servervolumes gehostet werden.
+
+
+
+  ### <a name="module-10-implementing-a-hybrid-file-server-infrastructure"></a>Modul 10: Implementieren einer Hybrid-Dateiserverinfrastruktur
+
+
+  In diesem Modul werden Azure-Dateidienste und das Konfigurieren der Konnektivität mit Azure Files vorgestellt. Außerdem wird erläutert, wie sie Azure-Dateisynchronisierung bereitstellen und implementieren, um Azure-Dateifreigaben auf einem lokalen Windows Server-Dateiserver zwischenzuspeichern. In diesem Modul wird auch beschrieben, wie Sie cloudbasiertes Tiering verwalten und von DFSR zu Azure-Dateisynchronisierung migrieren.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Übersicht über Azure-Dateidienste
+
+
+  *   Implementieren der Azure-Dateisynchronisierung
+
+
+
+  #### <a name="lab--implementing-azure-file-sync"></a>Lab: Implementieren von Azure-Dateisynchronisierung
+
+
+  ####
+     *   Implementieren der DFS-Replikation in Ihrer lokalen Umgebung
+     *   Erstellen und Konfigurieren einer Synchronisierungsgruppe
+     *   Ersetzen der DFS-Replikation durch eine auf Dateisynchronisierung basierende Replikation
+     *   Überprüfen der Replikation und Aktivieren von Cloudtiering
+     *   Problembehandlung für Replikationsfehler
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Konfigurieren der Azure-Dateidienste
+
+
+  *   Konfigurieren der Konnektivität mit Azure-Dateidiensten
+
+
+  *   Implementieren der Azure-Dateisynchronisierung
+
+
+  *   Bereitstellen der Azure-Dateisynchronisierung
+
+
+  *   Verwalten des Cloudtierings
+
+
+  *   Migrieren von DFSR zur Azure-Dateisynchronisierung

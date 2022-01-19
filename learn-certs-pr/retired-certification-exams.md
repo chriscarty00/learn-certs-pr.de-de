@@ -9,12 +9,12 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 92f47075291b2c9f3ce114d2e755272794c06327
-ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.openlocfilehash: 6f17a599db26cf3f4aa476788bcc7987ad7f9138
+ms.sourcegitcommit: df7ca43366241a7b990f9e290f62d630f4d65c28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/28/2021
-ms.locfileid: "132112840"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "135964297"
 ---
 # <a name="exam-retirement"></a>Einstellung von Examen
 
@@ -30,6 +30,7 @@ Die Examen, die in den nächsten 12 Monaten eingestellt werden sollen, sind hie
 | --- |
 | [AZ-303](/learn/certifications/exams/az-303): Microsoft Azure Architect Technologies |
 | [AZ-304](/learn/certifications/exams/az-304): Microsoft Azure Architect Design |
+| [DA-100](/learn/certifications/exams/da-100): Analysieren von Daten mit Microsoft Power BI |
 
 | Einstellung am 30. Juni 2022 |
 | --- |
@@ -56,8 +57,6 @@ Diese Examen wurden im letzten Jahr eingestellt. Zu Referenzzwecken wird zwölf 
 | [AI-100](/learn/certifications/exams/ai-100) | Entwerfen und Implementieren einer Azure AI Lösung | 30. Juni 2021
 | [DP-200](/learn/certifications/exams/dp-200) | Implementierung einer Azure-Datenlösung | 31. August 2021
 | [DP-201](/learn/certifications/exams/dp-201) | Entwerfen einer Azure-Datenlösung | 31. August 2021
-| [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | 31. Dezember 2020
-| [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | 31. Dezember 2020
 | [MB-600](/learn/certifications/exams/mb-600) | Microsoft Dynamics 365 + Power Platform Solution Architect | 30. Juni 2021
 | [MB-901](/learn/certifications/exams/mb-901) | Microsoft Dynamics 365 Fundamentals | 30. Juni 2021
 
@@ -128,7 +127,9 @@ Diese Examen wurden im letzten Jahr eingestellt. Zu Referenzzwecken wird zwölf 
 | AZ-203 | Developing Solutions for Microsoft Azure | 31. August 2020
 | AZ-300 | Microsoft Azure Architect Technologies | 30. September 2020
 | AZ-301 | Microsoft Azure Architect Design | 30. September 2020
-| AZ-302 | Microsoft Azure Lösungen Architekt Zertifizierungs-Übergang | 30. Juni 2019
+| AZ-302 | Microsoft Azure Lösungen Architekt Zertifizierungs-Übergang | 30. Juni 2019
+| MB-200 | Microsoft Power Platform + Dynamics 365 Core | 31. Dezember 2020
+| MB-400 | Microsoft Power Apps + Dynamics 365 Developer | 31. Dezember 2020
 | MB-900 | Microsoft Dynamics 365 Fundamentals | 31. Dezember 2019
 | MS-200 | Planen und Konfigurieren einer Messaging-Plattform | 31. August 2020
 | MS-201 | Implementierung einer hybriden und sicheren Messaging-Plattform | 31. August 2020

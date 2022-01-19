@@ -10,10 +10,10 @@ ms.date: 03/01/2021
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: cbb8e895305b627eefc5236b1eda87e294973015
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111275"
 ---
 # <a name="microsoft-ignite-cloud-skills-challenge-2021-free-certification-exam"></a>Microsoft Ignite Cloud Skills Challenge 2021: kostenlose Zertifizierungsprüfung
@@ -25,7 +25,7 @@ Vielen Dank, dass Sie die [Microsoft Ignite Cloud Skills Challenge – März 202
 
 Die kostenlose Zertifizierungsprüfung kann vom 7. April2021 bis zum 30. Juni 2021 abgelegt werden. Wenn Sie innerhalb dieses Zeitraums keine [infrage kommende Prüfung](#eligible-exams) planen und ablegen, können Sie dieses Angebot nicht einlösen.
 
-## <a name="how-to-claim-your-free-exam"></a>So nehmen Sie Ihre kostenlose Prüfung in Anspruch
+## <a name="how-to-claim-your-free-exam"></a>Inanspruchnahme Ihres kostenlosen Examens
 
 Im Folgenden finden Sie schrittweise Anleitungen, wie Sie Ihre kostenlose Prüfung beantragen können.
 
@@ -88,7 +88,7 @@ Wenn Sie sich das nächste Mal anmelden und Anspruch auf Prüfungsrabatte für e
 
 ## <a name="certification-support"></a>Zertifizierungsunterstützung
 
-Wenn Sie Probleme beim Planen Ihrer Prüfung haben, erhalten Sie Hilfe vom [Support für Microsoft-Zertifizierungen](https://trainingsupport.microsoft.com/en-us/mcp/forum). Innerhalb eines Werktages wird Ihnen ein Forenmoderator antworten.
+Wenn Sie Probleme beim Planen Ihres Examens haben, erhalten Sie Hilfe vom [Support für Microsoft-Zertifizierungen](https://trainingsupport.microsoft.com/en-us/mcp/forum). Innerhalb eines Werktages wird Ihnen ein Forenmoderator antworten.
 
 ## <a name="eligible-exams"></a><a name="eligible-exams"></a> Infrage kommende Prüfungen
 
@@ -127,29 +127,29 @@ Zu den infrage kommenden Prüfungen zählen nur die unten aufgeführten.
 
 **A**: Hilfe erhalten Sie, indem Sie sich an den [Support für Microsoft-Zertifizierungen](https://trainingsupport.microsoft.com/en-us/mcp/forum) wenden. Innerhalb eines Werktages wird Ihnen ein Moderator antworten.
 
-**F: Habe ich die Möglichkeit, die geplante Prüfung vor Ort oder online abzulegen?**
+**F: Kann ich auswählen, ob ich das geplante Examen persönlich oder online ablegen möchte?**
 
-**A**: Ja, Sie haben die Möglichkeit, die geplante Prüfung über Pearson Vue vor Ort in einem lokalen Prüfungszentrum (sofern verfügbar) oder [online](/learn/certifications/online-exams) abzulegen. Testzentren können aufgrund von COVID-19-Einschränkungen vorübergehend geschlossen sein. Bleiben Sie auf dem Laufenden mit aktuellen [Informationen zur Verfügbarkeit von Prüfungen von Pearson Vue](https://home.pearsonvue.com/coronavirus-update).
+**A**: Ja, Sie haben die Möglichkeit, das geplante Examen über Pearson Vue persönlich in einem lokalen Prüfungszentrum (sofern verfügbar) oder [online](/learn/certifications/online-exams) abzulegen. Testzentren können aufgrund von COVID-19-Einschränkungen vorübergehend geschlossen sein. Bleiben Sie auf dem Laufenden mit aktuellen [Informationen zur Verfügbarkeit von Examen von Pearson Vue](https://home.pearsonvue.com/coronavirus-update).
 
 ### <a name="cancellation-and-reschedule-policy"></a>Stornierungs- und Neuterminierungsrichtlinie
 
-**F: Kann ich bei Bedarf meinen Prüfungstermin im Rahmen dieses Angebots verschieben?**
+**F: Kann ich bei Bedarf meinen Examenstermin im Rahmen dieses Angebots verschieben?**
 
 **A**: Ja, Sie können Ihren Prüfungstermin verschieben, was allerdings vor Ablauf des Angebots geschehen muss. Weitere Informationen finden Sie unter [Stornierungs- und Neuterminierungsrichtlinie](/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
 
 **F: Fallen Gebühren an, wenn ich meinen Prüfungstermin verschiebe oder absage?**
 
-**A**: Wenn Sie nicht rechtzeitig stornieren, kann das Angebot der kostenlosen Prüfung verfallen. Wenn Sie nicht rechtzeitig Bescheid geben, bevor Sie einen neuen Termin festlegen, wird eine Gebühr erhoben. Weitere Informationen finden Sie unter [Stornierungs- und Neuterminierungsrichtlinie](/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
+**A**: Wenn Sie nicht rechtzeitig stornieren, kann das Angebot des kostenlosen Examens verfallen. Wenn Sie nicht rechtzeitig Bescheid geben, bevor Sie einen neuen Termin festlegen, wird eine Gebühr erhoben. Weitere Informationen finden Sie unter [Stornierungs- und Neuterminierungsrichtlinie](/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
 
-**F: Was passiert, wenn ich meinen Prüfungstermin verpasst und ihn nicht neu vereinbart oder storniert habe?**
+**F: Was passiert, wenn ich meinen Examenstermin verpasst und ihn nicht verschoben oder abgesagt habe?**
 
-**A**: Wenn Sie Ihren Prüfungstermin versäumt haben und Ihren Termin nicht gemäß der [Stornierungs- und Neuterminierungsrichtlinie](/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) verschieben oder stornieren, verfällt Ihre kostenlose Prüfung im Rahmen dieses Angebots möglicherweise.
+**A**: Wenn Sie Ihren Examenstermin versäumt haben und Ihren Termin nicht gemäß der [Stornierungs- und Neuterminierungsrichtlinie](/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) verschieben oder stornieren, verfällt Ihr kostenloses Examen im Rahmen dieses Angebots möglicherweise.
 
 ### <a name="retake-policy"></a>Wiederholungsrichtlinie
 
-**F: Kann ich eine Prüfung kostenlos wiederholen, wenn ich beim ersten Mal bei Inanspruchnahme des Angebots für kostenlose Zertifizierungsprüfungen durchgefallen bin?**
+**F: Kann ich ein Examen kostenlos wiederholen, wenn ich beim ersten Mal bei Inanspruchnahme des Angebots für kostenlose Zertifizierungsexamen durchgefallen bin?**
 
-**A**: Nein, das Angebot ist nur für einen Versuch gültig. Wiederholungen müssen gesondert geplant werden. Weitere Informationen zur Wiederholung von Zertifizierungsprüfungen finden Sie in unserer [Richtlinie zur Prüfungswiederholung](/learn/certifications/certification-exam-policies#security-policies).
+**A**: Nein, das Angebot ist nur für einen Versuch gültig. Wiederholungen müssen gesondert geplant werden. Weitere Informationen zur Wiederholung von Zertifizierungsexamen finden Sie in unserer [Richtlinie zur Examenswiederholung](/learn/certifications/certification-exam-policies#security-policies).
 
 ## <a name="terms-and-conditions"></a><a name="terms-and-conditions"></a> Bestimmungen
 
@@ -157,12 +157,12 @@ Zu den infrage kommenden Prüfungen zählen nur die unten aufgeführten.
 - Sie müssen während der Registrierung für die Microsoft Ignite Cloud Skills Challenge – März 2021 eine E-Mail-Adresse angeben. Sie werden über die von Ihnen angegebene E-Mail-Adresse hinsichtlich der Einzelheiten der kostenlosen Zertifizierung kontaktiert.
 - Dieses Prüfungsangebot steht berechtigten Personen offen, die eine Challenge in der Microsoft Ignite Cloud Skills Challenge – März 2021 absolviert haben.
 - Sie können nur ein Angebot pro Person in Anspruch nehmen, unabhängig von der Anzahl der von Ihnen absolvierten Challenges.
-- Vor dem Einlösen ihrer kostenlosen Zertifizierungsprüfung müssen sich Behördenmitarbeiter bei ihren Dienstherren vergewissern, dass ihre Teilnahme zulässig ist und in Übereinstimmung mit den geltenden Richtlinien und Gesetzen erfolgt.
-- Dieses Prüfungsangebot kann für die Teilnahme an einer (1) Microsoft-Zertifizierungsprüfung eingelöst werden, die in einem autorisierten Pearson Vue-Testzentrum oder über eine Pearson Vue-Website für Onlineprüfungen mit Proctoring durchgeführt wird.
-- Dieses Prüfungsangebot ist prüfungsspezifisch und kann nur für ausgewählte Microsoft-Prüfungen eingelöst werden. Weitere Informationen finden Sie unter [Infrage kommende Prüfungen](#eligible-exams).
+- Vor dem Einlösen ihrer kostenlosen Zertifizierungsprüfung müssen sich Behördenmitarbeiter bei ihrem Dienstherren vergewissern, dass ihre Teilnahme zulässig ist und in Übereinstimmung mit den geltenden Richtlinien und Gesetzen erfolgt.
+- Dieses Prüfungsangebot kann für die Teilnahme an einer (1) Microsoft Certification-Prüfung eingelöst werden, die in einem autorisierten Pearson Vue-Testzentrum oder über eine Pearson Vue-Onlineprüfung unter Aufsicht durchgeführt wird.
+- Dieses Prüfungsangebot ist prüfungsspezifisch und nur für ausgewählte Microsoft-Prüfungen einlösbar. Weitere Informationen finden Sie unter [Infrage kommende Prüfungen](#eligible-exams).
 - Der Zeitraum für die Einlösung von Prüfungsangeboten beginnt am 7. April 2021 und endet am 30. Juni 2021.
 - Das Ablaufdatum dieses Prüfungsangebots kann unter keinen Umständen verlängert werden.
 - Dieses Prüfungsangebot kann nur einmal eingelöst werden.
-- Dieses Prüfungsangebot kann nicht gegen Bargeld, Guthaben oder Rückerstattung eingelöst oder umgetauscht werden.
-- Dieses Prüfungsangebot ist nicht übertragbar und verfällt, wenn Sie es in irgendeiner Weise ändern, überarbeiten oder übertragen.
-- Das Angebot gilt nicht in Kuba, Iran, Nordkorea, Russland, Syrien, der Krimregion und weiteren Regionen, in denen es nicht zugelassen ist.
+- Dieses Prüfungsangebot kann nicht gegen Bargeld, Kredit oder Rückerstattung eingelöst oder umgetauscht werden.
+- Dieses Prüfungsangebot ist nicht übertragbar und entfällt, wenn Sie es in irgendeiner Weise ändern, überarbeiten oder übertragen.
+- Das Angebot gilt nicht in Kuba, Iran, Nordkorea, Russland, Syrien, auf der Halbinsel Krim und in anderen unzulässigen Regionen.

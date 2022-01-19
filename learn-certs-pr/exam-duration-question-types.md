@@ -2,19 +2,19 @@
 title: Prüfungsdauer und Arten von Fragen | Microsoft-Dokumentation
 description: Prüfungsdauer und Arten von Fragen
 documentationcenter: NA
-author: micsullivan
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 03/31/2021
-ms.author: msulliv
+ms.author: venkato
 ms.prod: non-product-specific
-ms.openlocfilehash: 30065cf67d0894f219e0806ff5bcf53b91b6705a
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.openlocfilehash: e604380b5a42023b6c5969aad734b53d06a7f75f
+ms.sourcegitcommit: c306f5c1628e566f7cd042f271c0a4b74e72be7e
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
-ms.locfileid: "132106626"
+ms.lasthandoff: 12/21/2021
+ms.locfileid: "135434683"
 ---
 # <a name="exam-duration-and-question-types"></a>Prüfungsdauer und Arten von Fragen
 
@@ -42,7 +42,15 @@ Eine der besten Möglichkeiten, sich mit Microsoft-Zertifizierungsprüfungen ver
 
 ## <a name="question-types-on-exams"></a>Arten der Fragen in Prüfungen
 
-Zum Schutz der Prüfungssicherheit und des Werts unserer Zertifizierungen geben wir vor der Prüfung keine bestimmten Prüfungsformate oder Arten von Fragen bekannt. Im Folgenden finden Sie einige Beispiele für Fragen, die bei einer Prüfung angezeigt werden können:
+Zum Schutz der Prüfungssicherheit und des Werts unserer Zertifizierungen geben wir vor der Prüfung keine bestimmten Prüfungsformate oder Arten von Fragen bekannt. Sie können die Prüfung jedoch unter "Prüfungss sandbox"[vorführungen.](https://aka.ms/examdemo) Wir haben diese Erfahrung erstellt, um Ihnen die Möglichkeit zu geben, die Prüfung zu erleben, bevor Sie sie ablegen. Sie haben die Möglichkeit, mit den verschiedenen Fragetypen zu interagieren, die während der Prüfung auf der Benutzeroberfläche der Prüfung angezeigt werden. Darüber hinaus umfasst diese Erfahrung die gleichen Einführungsbildschirme, Anweisungen, Hilfeinformationen und NDA, die Sie in Ihrer Prüfung sehen werden. Daher sollte die Verwendung dieser Sandbox Sie besser auf die Prüfung vorbereiten und Ihre Vertrautheit mit der Benutzeroberfläche erhöhen, wie Sie zwischen Seiten navigieren, welche Aktion sie ergreifen müssen, um jeden der verschiedenen Fragetypen zu beantworten, wo sich Informationen zur Prüfung befinden (verbleibende Zeit, verbleibende Fragen usw.), wie Sie Fragen zur Überprüfung markieren.  und wie Kommentare hinterlassen werden.
+
+Wenn Sie Hilfsgeräte verwenden, ist dies eine Gelegenheit zu verstehen, wie diese Hilfsgeräte in der Prüfungsoberfläche verwendet werden können, wie die Tastatur verwendet werden kann, um durch die Prüfung zu navigieren, und so weiter. Darüber hinaus erhalten Sie die Möglichkeit, während des Abschnitts "Elementkommentar" Feedback zur Barrierefreiheit und Nutzbarkeit der Sandboxprüfung bei Ihrem Hilfsgerät zu hinterlassen. Diese Kommentare werden auf zukünftige Verbesserungen der Benutzererfahrung überwacht.
+
+**Beachten** Sie, dass Sie bei Verwendung von Hilfsgeräten eine Aufnahme anfordern müssen, um sie während der Prüfung verwenden zu können. [Erfahren Sie mehr über das Anfordern von Stellen,](/learn/certifications/request-accommodations) bevor Sie sich für Ihre Prüfung registrieren.
+
+Beachten Sie, dass diese Erfahrung zwar dafür konzipiert ist, Sie mit der Prüfung vertraut zu machen und durch sie zu navigieren, aber der sichere Browser, der während einer echten Prüfung gestartet wird, in der Sandbox nicht aktiviert ist. Bei Aktivierung während der Prüfung werden alle Anwendungen von Drittanbietern blockiert, einschließlich Hilfsgeräten ohne vorherige Genehmigung. Aus diesem Grund müssen Sie eine Beherbergung anfordern, wenn Sie eine während Ihrer Prüfung verwenden möchten.
+
+Im Folgenden finden Sie einige Beispiele für Fragen, die bei einer Prüfung angezeigt werden können:
 
 ### <a name="active-screen-044"></a>Active screen (0:44)
 

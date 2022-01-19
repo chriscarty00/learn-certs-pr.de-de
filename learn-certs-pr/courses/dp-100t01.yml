@@ -5,10 +5,10 @@ metadata:
   description: 'Kurs DP-100T01--A: Entwerfen und Implementieren einer Data Science-Lösung in Azure'
   iltScheduling: true
   ms.openlocfilehash: 019463950200cf314b017b2a062aa5af686074f6
-  ms.sourcegitcommit: 44591b9175e3d494b65f91971f9d96ec4040cece
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 11/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132438357"
 uid: course.dp-100t01
 courseNumber: DP-100T01
@@ -29,416 +29,416 @@ products:
 exams:
 - uid: exam.dp-100
 summary: >-
-  Hier erfahren Sie, wie Sie Azure Machine Learning-Lösungen im Cloudmaßstab nutzen. In diesem Kurs lernen Sie, Ihr vorhandenes Wissen über Python und maschinelles Lernen zu nutzen, um die Datenerfassung und -aufbereitung, die Modellschulung und -bereitstellung sowie die Überwachung von Lösungen für maschinelles Lernen in Microsoft Azure zu verwalten.
+  Lernen Sie, wie man mit Azure Machine Learning Lösungen im Cloudmaßstab bedient. In diesem Kurs lernen Sie, Ihr vorhandenes Wissen über Python und maschinelles Lernen zu nutzen, um die Datenaufnahme und -aufbereitung, die Modellschulung und -bereitstellung sowie die Überwachung von maschinellen Lernlösungen in Microsoft Azure zu verwalten.
 
 
   #### <a name="audience-profile"></a>Zielgruppenprofil
 
 
-  Dieser Kurs richtet sich an Data Scientists mit bereits vorhandenen Kenntnissen über Python und Frameworks für maschinelles Lernen wie scikit-learn, PyTorch und Tensorflow, die Lösungen für maschinelles Lernen in der Cloud erstellen und betreiben möchten.
+  Dieser Kurs richtet sich an Datenwissenschaftler mit bereits vorhandenen Kenntnissen über Python und Frameworks für maschinelles Lernen wie ScikitLearn, PyTorch und Tensorflow, die maschinelle Lernlösungen in der Cloud erstellen und betreiben wollen.
 prerequisitesSection: >-
-  Successful Azure Data Scientists start this role with a fundamental knowledge of cloud computing concepts, and experience in general data science and machine learning tools and techniques.<ph id="ph1">&amp;nbsp;</ph>
+  Erfolgreiche Azure Data Scientists haben zu Beginn ihrer Tätigkeit bereits fundierte Kenntnisse zu Cloud Computing-Konzepten und Erfahrung mit allgemeinen Tools und Techniken in den Bereichen Data Science und maschinelles Lernen.&nbsp;
 
 
-  Specifically:
+  Dies gilt insbesondere in folgenden Fällen:
 
 
-  *   Creating cloud resources in Microsoft Azure.
+  *   Erstellen von Cloudressourcen in Microsoft Azure
 
 
-  *   Using Python to explore and visualize data.
+  *   Verwenden von Python zum Untersuchen und Visualisieren von Daten
 
 
-  *   Training and validating machine learning models using common frameworks like Scikit-Learn, PyTorch, and TensorFlow.
+  *   Trainieren und Überprüfen von Machine Learning-Modellen mit gängigen Frameworks wie Scikit-Learn, PyTorch und TensorFlow
 
 
-  *   Working with containers
-
-
-
-  To gain these prerequisite skills, take the following free online training before attending the course:
-
-
-  *   <bpt id="p1">[</bpt>Explore Microsoft cloud concepts<ept id="p1">](https://docs.microsoft.com/learn/paths/explore-microsoft-azure-cloud-concepts/)</ept>.
-
-
-  *   <bpt id="p1">[</bpt>Create machine learning models<ept id="p1">](https://docs.microsoft.com/learn/paths/create-machine-learn-models/)</ept>.
-
-
-  *   <bpt id="p1">[</bpt>Administer containers in Azure<ept id="p1">](https://docs.microsoft.com/learn/paths/administer-containers-in-azure/)</ept>
+  *   Arbeiten mit Containern
 
 
 
-  If you are completely new to data science and machine learning, please complete <bpt id="p1">[</bpt>Microsoft Azure AI Fundamentals<ept id="p1">](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals)</ept> first.
+  Um diese erforderlichen Qualifikationen zu erwerben, sollten Sie vor der Teilnahme an diesem Kurs das folgende kostenlose Onlinetraining absolvieren:
+
+
+  *   [Microsoft-Cloudkonzepte](https://docs.microsoft.com/learn/paths/explore-microsoft-azure-cloud-concepts/)
+
+
+  *   [Erstellen von Machine Learning-Modellen](https://docs.microsoft.com/learn/paths/create-machine-learn-models/)
+
+
+  *   [Verwalten von Containern in Azure](https://docs.microsoft.com/learn/paths/administer-containers-in-azure/)
+
+
+
+  Wenn Sie keine Erfahrung in den Bereichen Data Science und maschinelles Lernen haben, absolvieren Sie zuerst [Microsoft Azure AI Fundamentals](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals).
 outlineSection: >-
-  ### <a name="module-1-getting-started-with-azure-machine-learning"></a>Module 1: Getting Started with Azure Machine Learning
+  ### <a name="module-1-getting-started-with-azure-machine-learning"></a>Modul 1: Erste Schritte mit Azure Machine Learning
 
 
-  In this module, you will learn how to provision an Azure Machine Learning workspace and use it to manage machine learning assets such as data, compute, model training code, logged metrics, and trained models. You will learn how to use the web-based Azure Machine Learning studio interface as well as the Azure Machine Learning SDK and developer tools like Visual Studio Code and Jupyter Notebooks to work with the assets in your workspace.
+  In diesem Modul lernen Sie, wie Sie einen Azure Machine Learning-Arbeitsbereich bereitstellen und diesen zur Verwaltung von maschinellen Lernmitteln wie Daten, Berechnungen, ModellTrainingscode, protokollierten Metriken und trainierten Modellen verwenden. Sie werden lernen, wie Sie die webbasierte Azure Machine Learning-Studioschnittstelle sowie das Azure Machine Learning SDK und Entwicklerwerkzeuge wie Visual Studio Code und Jupyter Notebooks verwenden, um mit den Objekten in Ihrem Arbeitsbereich zu arbeiten.
 
 
-  #### <a name="lessons"></a>Lessons
+  #### <a name="lessons"></a>Lektionen
 
 
-  *   Introduction to Azure Machine Learning
+  *   Einführung in Azure Machine Learning
 
 
-  *   Working with Azure Machine Learning
-
-
-
-  #### <a name="lab--create-an-azure-machine-learning-workspace"></a>Lab : Create an Azure Machine Learning Workspace
-
-
-  ####
-
-
-  After completing this module, you will be able to
-
-
-  *   Provision an Azure Machine Learning workspace
-
-
-  *   Use tools and code to work with Azure Machine Learning
+  *   Arbeiten mit Azure Machine Learning
 
 
 
-  ### <a name="module-2-visual-tools-for-machine-learning"></a>Module 2: Visual Tools for Machine Learning
-
-
-  This module introduces the Automated Machine Learning and Designer visual tools, which you can use to train, evaluate, and deploy machine learning models without writing any code.
-
-
-  #### <a name="lessons"></a>Lessons
-
-
-  *   Automated Machine Learning
-
-
-  *   Azure Machine Learning Designer
-
-
-
-  #### <a name="lab--use-automated-machine-learning"></a>Lab : Use Automated Machine Learning
+  #### <a name="lab--create-an-azure-machine-learning-workspace"></a>Lab: Erstellen eines Azure Machine Learning-Arbeitsbereichs
 
 
   ####
 
 
-  #### <a name="lab--use-azure-machine-learning-designer"></a>Lab : Use Azure Machine Learning Designer
+  Nach Abschluss dieses Moduls sind Sie in der Lage zur
+
+
+  *   Bereitstellung eines Azure Machine Learning-Arbeitsbereichs
+
+
+  *   Verwendung von Werkzeugen und Codes für die Arbeit mit Azure Machine Learning
+
+
+
+  ### <a name="module-2-visual-tools-for-machine-learning"></a>Modul 2: Visuelle Tools für maschinelles Lernen
+
+
+  In diesem Modul werden die visuellen Tools zum automatisierten maschinellen Lernen und das Designer-Tool behandelt, mit denen Sie Machine Learning-Modelle trainieren, auswerten und bereitstellen könne, ohne Code schreiben zu müssen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Automatisiertes maschinelles Lernen
+
+
+  *   Azure Machine Learning-Designer
+
+
+
+  #### <a name="lab--use-automated-machine-learning"></a>Lab: Verwenden des automatisierten maschinellen Lernens
 
 
   ####
 
 
-  After completing this module, you will be able to
-
-
-  *   Use automated machine learning to train a machine learning model
-
-
-  *   Use Azure Machine Learning designer to train a model
-
-
-
-  ### <a name="module-3-running-experiments-and-training-models"></a>Module 3: Running Experiments and Training Models
-
-
-  In this module, you will get started with experiments that encapsulate data processing and model training code, and use them to train machine learning models.
-
-
-  #### <a name="lessons"></a>Lessons
-
-
-  *   Introduction to Experiments
-
-
-  *   Training and Registering Models
-
-
-
-  #### <a name="lab--train-models"></a>Lab : Train Models
+  #### <a name="lab--use-azure-machine-learning-designer"></a>Lab: Verwenden des Azure Machine Learning-Designers
 
 
   ####
 
 
-  #### <a name="lab--run-experiments"></a>Lab : Run Experiments
+  Nach Abschluss dieses Moduls sind Sie in der Lage zur
+
+
+  *   Verwendung des automatisierten maschinellen Lernens zum Trainieren eines Machine Learning-Modells
+
+
+  *   Verwendung des Azure Machine Learning-Designers zum Trainieren eines Modells
+
+
+
+  ### <a name="module-3-running-experiments-and-training-models"></a>Modul 3: Ausführen von Experimenten und Trainieren von Modellen
+
+
+  In diesem Modul werden Sie mit Experimenten beginnen, die Datenverarbeitung und Trainingscode modellieren und diese zum Training von Modellen für maschinelles Lernen verwenden.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Einführung in Experimente
+
+
+  *   Trainieren und Registrieren von Modellen
+
+
+
+  #### <a name="lab--train-models"></a>Lab: Trainieren von Modellen
 
 
   ####
 
 
-  After completing this module, you will be able to
-
-
-  *   Run code-based experiments in an Azure Machine Learning workspace
-
-
-  *   Train and register machine learning models
-
-
-
-  ### <a name="module-4-working-with-data"></a>Module 4: Working with Data
-
-
-  Data is a fundamental element in any machine learning workload, so in this module, you will learn how to create and manage datastores and datasets in an Azure Machine Learning workspace, and how to use them in model training experiments.
-
-
-  #### <a name="lessons"></a>Lessons
-
-
-  *   Working with Datastores
-
-
-  *   Working with Datasets
-
-
-
-  #### <a name="lab--work-with-data"></a>Lab : Work with Data
+  #### <a name="lab--run-experiments"></a>Lab: Ausführen von Experimenten
 
 
   ####
 
 
-  After completing this module, you will be able to
+  Nach Abschluss dieses Moduls sind Sie in der Lage zur
 
 
-  *   Create and use datastores
+  *   Ausführung von auf Code basierenden Experimenten in einem Azure Machine Learning-Arbeitsbereich
 
 
-  *   Create and use datasets
-
-
-
-  ### <a name="module-5-working-with-compute"></a>Module 5: Working with Compute
-
-
-  One of the key benefits of the cloud is the ability to leverage compute resources on demand, and use them to scale machine learning processes to an extent that would be infeasible on your own hardware. In this module, you'll learn how to manage experiment environments that ensure consistent runtime consistency for experiments, and how to create and use compute targets for experiment runs.
-
-
-  #### <a name="lessons"></a>Lessons
-
-
-  *   Working with Environments
-
-
-  *   Working with Compute Targets
+  *   Modelle für maschinelles Lernen trainieren und registrieren
 
 
 
-  #### <a name="lab--work-with-compute"></a>Lab : Work with Compute
+  ### <a name="module-4-working-with-data"></a>Modul 4: Arbeiten mit Daten
 
 
-  ####
+  Daten sind ein grundlegendes Element in jeder Workload mit maschinellem Lernen. Daher erfahren Sie in diesem Modul, wie Sie Datenspeicher und Datasets in einem Azure Machine Learning-Arbeitsbereich erstellen und verwalten und wie Sie sie in Experimenten zum Modelltraining verwenden.
 
 
-  After completing this module, you will be able to
+  #### <a name="lessons"></a>Lektionen
 
 
-  *   Create and use environments
+  *   Arbeiten mit Datenspeichern
 
 
-  *   Create and use compute targets
-
-
-
-  ### <a name="module-6-orchestrating-operations-with-pipelines"></a>Module 6: Orchestrating Operations with Pipelines
-
-
-  Now that you understand the basics of running workloads as experiments that leverage data assets and compute resources, it's time to learn how to orchestrate these workloads as pipelines of connected steps. Pipelines are key to implementing an effective Machine Learning Operationalization (ML Ops) solution in Azure, so you'll explore how to define and run them in this module.
-
-
-  #### <a name="lessons"></a>Lessons
-
-
-  *   Introduction to Pipelines
-
-
-  *   Publishing and Running Pipelines
+  *   Arbeiten mit Datasets
 
 
 
-  #### <a name="lab--create-a-pipeline"></a>Lab : Create a Pipeline
+  #### <a name="lab--work-with-data"></a>Lab: Arbeiten mit Daten
 
 
   ####
 
 
-  After completing this module, you will be able to
+  Nach Abschluss dieses Moduls sind Sie in der Lage zur
 
 
-  *   Create pipelines to automate machine learning workflows
+  *   Erstellen und Verwenden von Datenspeichern
 
 
-  *   Publish and run pipeline services
-
-
-
-  ### <a name="module-7-deploying-and-consuming-models"></a>Module 7: Deploying and Consuming Models
-
-
-  Models are designed to help decision making through predictions, so they're only useful when deployed and available for an application to consume. In this module learn how to deploy models for real-time inferencing, and for batch inferencing.
-
-
-  #### <a name="lessons"></a>Lessons
-
-
-  *   Real-time Inferencing
-
-
-  *   Batch Inferencing
-
-
-  *   Continuous Integration and Delivery
+  *   Erstellen und Verwenden von Datasets
 
 
 
-  #### <a name="lab--create-a-real-time-inferencing-service"></a>Lab : Create a Real-time Inferencing Service
+  ### <a name="module-5-working-with-compute"></a>Modul 5: Arbeiten mit Compute-Ressourcen
+
+
+  Einer der Hauptvorteile der Cloud ist die Möglichkeit, Rechenressourcen nach Bedarf zu nutzen und sie zur Skalierung von maschinellen Lernprozessen in einem Umfang zu nutzen, der auf der eigenen Hardware nicht möglich wäre. In diesem Modul lernen Sie, wie Sie Experimentierumgebungen verwalten können, die eine konsistente Laufzeitkonsistenz für Experimente gewährleisten, und wie Sie Rechenziele für Experimentläufe erstellen und verwenden können.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Arbeiten mit Umgebungen
+
+
+  *   Arbeiten mit Computezielen
+
+
+
+  #### <a name="lab--work-with-compute"></a>Lab: Arbeiten mit Compute-Ressourcen
 
 
   ####
 
 
-  #### <a name="lab--create-a-batch-inferencing-service"></a>Lab : Create a Batch Inferencing Service
+  Nach Abschluss dieses Moduls sind Sie in der Lage zur
+
+
+  *   Erstellen und Verwenden von Umgebungen
+
+
+  *   Erstellen und Verwenden von Computezielen
+
+
+
+  ### <a name="module-6-orchestrating-operations-with-pipelines"></a>Modul 6: Orchestrieren von Operationen mit Pipelines
+
+
+  Jetzt, da Sie die Grundlagen der Ausführung von Workloads als Experimente verstehen, die Datenbestände und Berechnungsressourcen nutzen, ist es an der Zeit zu lernen, wie man diese Workloads als Pipeline zusammenhängender Schritte orchestrieren kann. Weil Pipelines für die Implementierung einer effektiven Lösung für die Machine Learning-Operationalisierung (ML-Ops) in Azure entscheidend sind, werden Sie in diesem Modul erkunden, wie Sie sie definieren und ausführen können.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Einführung in Pipelines
+
+
+  *   Veröffentlichen und Ausführen von Pipelines
+
+
+
+  #### <a name="lab--create-a-pipeline"></a>Lab: Erstellen einer Pipeline
 
 
   ####
 
 
-  After completing this module, you will be able to
+  Nach Abschluss dieses Moduls sind Sie in der Lage zur
 
 
-  *   Publish a model as a real-time inference service
+  *   Erstellung von Pipelines zum Automatisieren von Machine Learning-Workflows
 
 
-  *   Publish a model as a batch inference service
-
-
-  *   Describe techniques to implement continuous integration and delivery
+  *   Veröffentlichung und Ausführung von Pipelinediensten
 
 
 
-  ### <a name="module-8-training-optimal-models"></a>Module 8: Training Optimal Models
+  ### <a name="module-7-deploying-and-consuming-models"></a>Modul 7: Bereitstellen und Nutzen von Modellen
 
 
-  By this stage of the course, you've learned the end-to-end process for training, deploying, and consuming machine learning models; but how do you ensure your model produces the best predictive outputs for your data? In this module, you'll explore how you can use hyperparameter tuning and automated machine learning to take advantage of cloud-scale compute and find the best model for your data.
+  Modelle sollen die Entscheidungsfindung durch Vorhersagen unterstützen, daher sind sie nur dann nützlich, wenn sie eingesetzt werden und für eine Anwendung zur Verfügung stehen. In diesem Modul lernen Sie, wie man Modelle für Echtzeit- und Batch-Inferenzierung einsetzt.
 
 
-  #### <a name="lessons"></a>Lessons
+  #### <a name="lessons"></a>Lektionen
 
 
-  *   Hyperparameter Tuning
+  *   Echtzeitrückschließen
 
 
-  *   Automated Machine Learning
+  *   Batchrückschließen
+
+
+  *   Continuous Integration und Continuous Delivery
 
 
 
-  #### <a name="lab--use-automated-machine-learning-from-the-sdk"></a>Lab : Use Automated Machine Learning from the SDK
-
-
-  ####
-
-
-  #### <a name="lab--tune-hyperparameters"></a>Lab : Tune Hyperparameters
+  #### <a name="lab--create-a-real-time-inferencing-service"></a>Lab: Erstellen eines Echtzeitrückschlussdiensts
 
 
   ####
 
 
-  After completing this module, you will be able to
+  #### <a name="lab--create-a-batch-inferencing-service"></a>Lab: Erstellen eines Batchrückschlussdiensts
 
 
-  *   Optimize hyperparameters for model training
+  ####
 
 
-  *   Use automated machine learning to find the optimal model for your data
+  Nach Abschluss dieses Moduls sind Sie in der Lage zur
+
+
+  *   Veröffentlichung eines Modells als Echtzeitrückschlussdienst
+
+
+  *   Veröffentlichung eines Modells als Batchrückschlussdienst
+
+
+  *   Beschreibung von Techniken zum Implementieren von Continuous Integration und Continuous Delivery
 
 
 
-  ### <a name="module-9-responsible-machine-learning"></a>Module 9: Responsible Machine Learning
+  ### <a name="module-8-training-optimal-models"></a>Modul 8: Trainieren optimaler Modelle
 
 
-  Data scientists have a duty to ensure they analyze data and train machine learning models responsibly; respecting individual privacy, mitigating bias, and ensuring transparency. This module explores some considerations and techniques for applying responsible machine learning principles.
+  In dieser Phase des Kurses haben Sie den End-to-End-Prozess für die Schulung, den Einsatz und die Nutzung von maschinellen Lernmodellen kennen gelernt; aber wie stellen Sie sicher, dass Ihr Modell die besten Vorhersageergebnisse für Ihre Daten liefert? In diesem Modul werden Sie untersuchen, wie Sie Hyperparameter-Tuning und automatisiertes maschinelles Lernen einsetzen können, um die Vorteile der CloudScale-Berechnung zu nutzen und das beste Modell für Ihre Daten zu finden.
 
 
-  #### <a name="lessons"></a>Lessons
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Hyperparameteroptimierung
+
+
+  *   Automatisiertes maschinelles Lernen
+
+
+
+  #### <a name="lab--use-automated-machine-learning-from-the-sdk"></a>Lab: Verwenden des automatisierten maschinellen Lernens über das SDK
+
+
+  ####
+
+
+  #### <a name="lab--tune-hyperparameters"></a>Lab: Optimieren von Hyperparametern
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls sind Sie in der Lage zur
+
+
+  *   Optimierung von Hyperparametern für das Modelltraining
+
+
+  *   Verwendung des automatisierten maschinellen Lernens zum Suchen des optimalen Modells für Ihre Daten
+
+
+
+  ### <a name="module-9-responsible-machine-learning"></a>Modul 9: Verantwortungsvolles maschinelles Lernen
+
+
+  Data Scientists müssen sicherstellen, dass sie verantwortungsvoll Daten analysieren und Machine Learning-Modelle trainieren, indem sie die Privatsphäre von Einzelpersonen respektieren, Vorurteile vermeiden und Transparenz gewährleisten. In diesem Modul werden einige Überlegungen und Techniken zum Anwenden von Prinzipien für verantwortungsvolles maschinelles Lernen untersucht.
+
+
+  #### <a name="lessons"></a>Lektionen
 
 
   *   Differential Privacy
 
 
-  *   Model Interpretability
+  *   Interpretierbarkeit von Modellen
 
 
   *   Fairness
 
 
 
-  #### <a name="lab--explore-differential-provacy"></a>Lab : Explore Differential provacy
+  #### <a name="lab--explore-differential-provacy"></a>Lab: Einführung in die Differential Privacy
 
 
   ####
 
 
-  #### <a name="lab--interpret-models"></a>Lab : Interpret Models
+  #### <a name="lab--interpret-models"></a>Lab: Interpretieren von Modellen
 
 
   ####
 
 
-  #### <a name="lab--detect-and-mitigate-unfairness"></a>Lab : Detect and Mitigate Unfairness
+  #### <a name="lab--detect-and-mitigate-unfairness"></a>Lab: Erkennen und Verringern von Unfairness
 
 
   ####
 
 
-  After completing this module, you will be able to
+  Nach Abschluss dieses Moduls sind Sie in der Lage zur
 
 
-  *   Apply differential provacy to data analysis
+  *   Anwenden der Differential Privacy auf die Datenanalyse
 
 
-  *   Use explainers to interpret machine learning models
+  *   Verwendung von Explainern zur Interpretation von Machine Learning-Modellen
 
 
-  *   Evaluate models for fairness
-
-
-
-  ### <a name="module-10-monitoring-models"></a>Module 10: Monitoring Models
-
-
-  After a model has been deployed, it's important to understand how the model is being used in production, and to detect any degradation in its effectiveness due to data drift. This module describes techniques for monitoring models and their data.
-
-
-  #### <a name="lessons"></a>Lessons
-
-
-  *   Monitoring Models with Application Insights
-
-
-  *   Monitoring Data Drift
+  *   Auswerten von Modellen auf Fairness
 
 
 
-  #### <a name="lab--monitor-data-drift"></a>Lab : Monitor Data Drift
+  ### <a name="module-10-monitoring-models"></a>Modul 10: Überwachen von Modellen
 
 
-  ####
+  Nach der Einführung eines Modells ist es wichtig zu verstehen, wie das Modell in der Produktion eingesetzt wird, und jede Beeinträchtigung seiner Wirksamkeit aufgrund von Datenabweichungen zu erkennen. Dieses Modul beschreibt Techniken zur Überwachung von Modellen und ihren Daten.
 
 
-  #### <a name="lab--monitor-a-model-with-application-insights"></a>Lab : Monitor a Model with Application Insights
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Überwachen von Modellen mit Application Insights
+
+
+  *   Überwachen der Datendrift
+
+
+
+  #### <a name="lab--monitor-data-drift"></a>Lab: Überwachen der Datendrift
 
 
   ####
 
 
-  After completing this module, you will be able to
+  #### <a name="lab--monitor-a-model-with-application-insights"></a>Lab: Überwachen eines Modells mit Application Insights
 
 
-  *   Use Application Insights to monitor a published model
+  ####
 
 
-  *   Monitor data drift
+  Nach Abschluss dieses Moduls sind Sie in der Lage zur
+
+
+  *   Verwenden von Application Insights zur Überwachung eines veröffentlichten Modells
+
+
+  *   Überwachung der Datendrift

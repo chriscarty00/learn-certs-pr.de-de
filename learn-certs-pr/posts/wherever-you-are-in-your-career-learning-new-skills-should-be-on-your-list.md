@@ -10,10 +10,10 @@ ms.date: 12/18/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: f5c565df1decb69c4c00e3645fda5c332ea5f9c6
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111935"
 ---
 # <a name="wherever-you-are-in-your-career-learning-new-skills-should-be-on-your-list"></a>Das Erlernen neuer Fähigkeiten sollte unabhängig vom Stand Ihrer Karriere auf Ihrer Liste stehen

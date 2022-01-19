@@ -1,23 +1,23 @@
 ### YamlMime:Course
-title: Designing and Implementing Microsoft Azure Networking Solutions
+title: Entwerfen und Implementieren von Microsoft Azure-Netzwerklösungen
 metadata:
-  title: 'Course AZ-700T00--A: Designing and Implementing Microsoft Azure Networking Solutions'
-  description: 'Course AZ-700T00--A: Designing and Implementing Microsoft Azure Networking Solutions'
-  ms.openlocfilehash: d7d76778aed0b0b0411cf60f9501d492d2994092
-  ms.sourcegitcommit: 9692ea317681926114208c9658ff58ac8e8d36c4
+  title: 'Kurs AZ-700T00--A: Entwerfen und Implementieren Microsoft Azure Netzwerklösungen'
+  description: 'Kurs AZ-700T00--A: Entwerfen und Implementieren Microsoft Azure Netzwerklösungen'
+  ms.openlocfilehash: c51685f381e488de03c54ee427a3c106a6de2b6b
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 12/02/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "133448665"
 uid: course.az-700t00
 courseNumber: AZ-700T00
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Entwurf, Implementierung und Verwaltung hybrider Netzwerkverbindungen
-- skill: Entwerfen und Implementieren der zentralen Azure-Netzwerkinfrastruktur
-- skill: Entwurf und Implementierung von Routing und Load Balancing in Azure
-- skill: Netzwerke sichern und überwachen
+- skill: Entwerfen, Implementieren und Verwalten von Hybridnetzwerkverbindungen
+- skill: Entwerfen und Implementieren der grundlegenden Azure-Netzwerkinfrastruktur
+- skill: Entwerfen und Implementieren von Routing und Lastenausgleich in Azure
+- skill: Sichern und Überwachen von Netzwerken
 - skill: Entwerfen und Implementieren des privaten Zugriffs auf Azure-Dienste
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -31,30 +31,30 @@ products:
 exams:
 - uid: exam.az-700
 summary: >-
-  Dieser Kurs vermittelt Network Engineers, wie sie Azure-Netzwerklösungen entwerfen, implementieren und warten. Dieser Kurs wird Folgendes behandelt: Entwerfen, Implementieren und Verwalten der grundlegenden Azure-Netzwerkinfrastruktur, hybride Netzwerkverbindungen, Lastenausgleich von Datenverkehr, Netzwerkrouting, privater Zugriff auf Azure-Dienste, Netzwerksicherheit und Überwachung. Hier erfahren Sie, wie Sie eine sichere, zuverlässige Netzwerkinfrastruktur in Azure entwerfen und implementieren und wie Sie hybride Konnektivität, Routing, privaten Zugriff auf Azure-Dienste und Überwachung in Azure etablieren.
+  In diesem Kurs erfahren Netzwerktechniker, wie Sie Azure-Netzwerklösungen entwerfen, implementieren und verwalten. In diesem Kurs wird der Prozess zum Entwerfen, Implementieren und Verwalten der grundlegenden Azure-Netzwerkinfrastruktur, hybride Netzwerkverbindungen, Lastenausgleich für Datenverkehr, Netzwerkrouting, privater Zugriff auf Azure-Dienste, Netzwerksicherheit und -überwachung behandelt. Erfahren Sie, wie Sie eine sichere, zuverlässige Netzwerkinfrastruktur in Azure entwerfen und implementieren und hybride Konnektivität, Routing, privaten Zugriff auf Azure-Dienste und Überwachung in Azure einrichten.
 
 
   #### <a name="audience-profile"></a>Zielgruppenprofil
 
 
-  Dieser Kurs richtet sich an Network Engineers, die sich auf Azure-Netzwerklösungen spezialisieren möchten. Ein Network Engineer für Azure entwirft und implementiert die grundlegende Azure-Netzwerkinfrastruktur, hybride Netzwerkverbindungen, Lastenausgleich von Datenverkehr, Netzwerkrouting, privaten Zugriff auf Azure-Dienste, Netzwerksicherheit und Überwachung. Der Azure-Netzwerktechniker verwaltet Netzwerklösungen für optimale Leistung, Ausfallsicherheit, Skalierung und Sicherheit.
+  Dieser Kurs ist für Netzwerktechniker, die sich auf Azure-Netzwerklösungen spezialisiert haben. Ein Azure-Netzwerktechniker entwirft und implementiert grundlegende Azure-Netzwerkinfrastruktur, Hybridnetzwerkverbindungen, Lastenausgleich für Datenverkehr, Netzwerkrouting, privaten Zugriff auf Azure-Dienste, Netzwerksicherheit und -überwachung. Der Azure-Netzwerktechniker verwaltet Netzwerklösungen für optimale Leistung, Resilienz, Skalierung und Sicherheit.
 prerequisitesSection: >-
-  Erfolgreiche Network Engineers für Azure beginnen diese Position mit Erfahrung in Unternehmensnetzwerken, lokaler oder Cloudinfrastruktur und Netzwerksicherheit.
+  Erfolgreiche Azure-Netzwerktechniker beginnen diese Rolle mit Erfahrung mit Unternehmensnetzwerken, der lokalen oder Cloudinfrastruktur und Netzwerksicherheit.
 
 
-  *   Verständnis&nbsp;lokaler Virtualisierungstechnologien, z. B. VMs, virtuelle Netzwerke und virtuelle Festplatten
+  *   Kenntnisse &nbsp; der lokalen Virtualisierungstechnologien, einschließlich: VMs, virtuelle Netzwerke und virtuelle Festplatten.
 
 
-  *   Verständnis von&nbsp;Netzwerkkonfigurationen, einschließlich TCP/IP, DNS (Domain Name System), VPNs (virtuelle private Netzwerke), Firewalls und Verschlüsselungstechnologien
+  *   Grundlegendes &nbsp; zu Netzwerkkonfigurationen, einschließlich TCP/IP, Domain Name System (DNS), virtuellen privaten Netzwerken (VPNs), Firewalls und Verschlüsselungstechnologien.
 
 
-  *   Verständnis softwaredefinierter Netzwerke
+  *   Grundlegendes zu softwaredefinierten Netzwerken.
 
 
-  *   Verständnis hybrider Netzwerkverbindungsmethoden, wie z. B. VPN
+  *   Grundlegendes zu Hybrid-Netzwerkkonnektivitätsmethoden, z. B. VPN.
 
 
-  *   Verständnis von Resilienz und Notfallwiederherstellung, einschließlich Hochverfügbarkeit und Wiederherstellungsvorgänge
+  *   Grundlegendes zu Resilienz und Notfallwiederherstellung, einschließlich Hochverfügbarkeits- und Wiederherstellungsvorgängen.
 
 
   **Vorausgesetzte Kurse (oder gleichwertige Kenntnisse und praktische Erfahrung):**
@@ -64,16 +64,16 @@ prerequisitesSection: >-
   Diese kostenlose Onlineschulung vermittelt Ihnen die Erfahrung, die Sie benötigen, um in diesem Kurs erfolgreich zu sein.
 
 
-  *   [Azure-Grundlagen – Teil 1: Beschreiben der wichtigsten Azure-Konzepte – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+  *   [Azure-Grundlagen, Teil 1: Beschreiben der wichtigsten Azure-Konzepte – Informationen | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
 
 
-  *   [Azure-Grundlagen – Teil 2: Beschreiben der wichtigsten Azure-Dienste – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
+  *   [Azure-Grundlagen, Teil 2: Beschreiben der wichtigsten Azure-Dienste – Informationen | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
 
 
-  *   [Azure-Grundlagen – Teil 3: Beschreiben grundlegender Lösungen und Verwaltungstools in Azure – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
+  *   [Azure Fundamentals Part 3: Describe core solutions and management tools on Azure – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
 
 
-  *   [Azure-Grundlagen – Teil 4: Beschreiben der allgemeinen Sicherheit und von Netzwerksicherheitsfeatures – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-general-security-network-security-features/)
+  *   [Azure-Grundlagen, Teil 4: Beschreiben allgemeiner Sicherheits- und Netzwerksicherheitsfeatures – Microsoft Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-general-security-network-security-features/)
 
 
   *   [AZ-104: Konfigurieren und Verwalten von virtuellen Netzwerken für Azure-Administratoren – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-virtual-networks/)
@@ -81,7 +81,7 @@ outlineSection: >-
   ### <a name="module-1-introduction-to-azure-virtual-networks"></a>Modul 1: Einführung in virtuelle Azure-Netzwerke
 
 
-  In diesem Modul erfahren Sie, wie Sie grundlegende Azure-Netzwerkressourcen wie beispielsweise virtuelle Netzwerke, öffentliche und private IP-Adressen, DNS, Peering virtueller Netzwerke, Routing und Azure Virtual Network NAT entwerfen und implementieren.
+  In diesem Modul erfahren Sie, wie Sie grundlegende Azure-Netzwerk-Ressourcen wie virtuelle Netzwerke, öffentliche und private IPs, DNS, Peering virtueller Netzwerke, Routing und Azure Virtual NAT entwerfen und implementieren.
 
 
   #### <a name="lessons"></a>Lektionen
@@ -93,10 +93,10 @@ outlineSection: >-
   *   Konfigurieren öffentlicher IP-Dienste
 
 
-  *   Entwerfen der Namensauflösung für ein virtuelles Netzwerk
+  *   Entwurfsnamensauflösung für Virtual Network
 
 
-  *   Aktivieren der VNet-übergreifenden Konnektivität mit Peering
+  *   Aktivieren der VNET-übergreifenden Konnektivität mit Peering
 
 
   *   Implementieren des Datenverkehrsroutings für virtuelle Netzwerke
@@ -106,7 +106,7 @@ outlineSection: >-
 
 
 
-  #### <a name="lab--exercise-design-and-implement-a-virtual-network-in-azure"></a>Lab: Entwerfen und Implementieren eines virtuellen Netzwerks in Azure
+  #### <a name="lab--exercise-design-and-implement-a-virtual-network-in-azure"></a>Lab: Übung: Entwerfen und Implementieren eines Virtual Network in Azure
 
 
   ####
@@ -118,10 +118,13 @@ outlineSection: >-
   ####
 
 
-  #### <a name="lab--exercise-connect-two-azure-virtual-networks-using-global-virtual-network-peering"></a>Lab: Übung: Verbinden von zwei virtuellen Azure-Netzwerke mithilfe des globalen Peerings virtueller Netzwerke
+  #### <a name="lab--exercise-connect-two-azure-virtual-networks-using-global-virtual-network-peering"></a>Lab: Übung: Verbinden von zwei virtuellen Azure-Netzwerken über globales Peering virtueller Netzwerke
 
 
   ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
   *   Implementieren virtueller Netzwerke
@@ -146,7 +149,7 @@ outlineSection: >-
   ### <a name="module-2-design-and-implement-hybrid-networking"></a>Modul 2: Entwerfen und Implementieren von Hybridnetzwerken
 
 
-  In diesem Modul erfahren Sie, wie Sie Hybridnetzwerklösungen wie Site-to-Site-VPN-Verbindungen, Point-to-Site-VPN-Verbindungen, Azure Virtual WAN und Virtual WAN-Hubs entwerfen und implementieren.
+  In diesem Modul erfahren Sie, wie Sie Hybridnetzwerklösungen wie Site-to-Site-VPN-Verbindungen, Point-to-Site-VPN-Verbindungen, Azure Virtual WAN und Virtual WAN implementieren.
 
 
   #### <a name="lessons"></a>Lektionen
@@ -168,7 +171,7 @@ outlineSection: >-
 
 
 
-  #### <a name="lab--exercise-create-a-virtual-wan-by-using-azure-portal"></a>Lab: Übung: Erstellen einer Virtual WAN-Instanz mithilfe des Azure-Portals
+  #### <a name="lab--exercise-create-a-virtual-wan-by-using-azure-portal"></a>Lab: Übung: Erstellen einer Virtual WAN mithilfe des Azure-Portals
 
 
   ####
@@ -180,20 +183,23 @@ outlineSection: >-
   ####
 
 
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
   *   Entwerfen und Implementieren einer Site-to-Site-VPN-Verbindung
 
 
   *   Entwerfen und Implementieren einer Point-to-Site-VPN-Verbindung
 
 
-  *   Entwerfen und Implementieren von Azure Virtual WAN-Ressourcen
+  *   Entwerfen und Implementieren Azure Virtual WAN Ressourcen
 
 
 
-  ### <a name="module-3-design-and-implement-azure-expressroute"></a>Modul 3: Entwerfen und Implementieren von Azure ExpressRoute
+  ### <a name="module-3-design-and-implement-azure-expressroute"></a>Modul 3: Entwerfen und Implementieren Azure ExpressRoute
 
 
-  In diesem Modul erfahren Sie, wie Sie Azure ExpressRoute, ExpressRoute Global Reach, ExpressRoute FastPath und ExpressRoute Peering-Optionen entwerfen und implementieren.
+  In diesem Modul erfahren Sie, wie Sie optionen Azure ExpressRoute, ExpressRoute Global Reach, ExpressRoute FastPath und ExpressRoute Peering entwerfen und implementieren.
 
 
   #### <a name="lessons"></a>Lektionen
@@ -208,7 +214,7 @@ outlineSection: >-
   *   Konfigurieren des Peerings für eine ExpressRoute-Bereitstellung
 
 
-  *   Vernetzen einer ExpressRoute-Verbindung mit einem VNet
+  *   Verbinden einer ExpressRoute-Verbindung mit einem VNET
 
 
   *   Verbinden geografisch verteilter Netzwerke mit ExpressRoute Global Reach
@@ -233,20 +239,23 @@ outlineSection: >-
   ####
 
 
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
   *   Entwerfen und Implementieren von ExpressRoute
 
 
   *   Entwerfen und Implementieren von ExpressRoute Direct
 
 
-  *   Entwerfen und Implementieren von ExpressRoute FastPath
+  *   Entwerfen und Implementieren von Expressroute FastPath
 
 
 
   ### <a name="module-4-load-balancing-non-https-traffic-in-azure"></a>Modul 4: Lastenausgleich für Nicht-HTTP(S)-Datenverkehr in Azure
 
 
-  In diesem Modul lernen Sie, wie man Load Balancing-Lösungen für Nicht-HTTP(S)-Verkehr in Azure mit Azure Load Balancer und Traffic Manager entwirft und implementiert.
+  In diesem Modul erfahren Sie, wie Sie Lastenausgleichslösungen für Nicht-HTTP(S)-Datenverkehr in Azure mit Azure Load Balancer und Traffic Manager.
 
 
   #### <a name="lessons"></a>Lektionen
@@ -262,29 +271,32 @@ outlineSection: >-
 
 
 
-  #### <a name="lab--exercise-create-a-traffic-manager-profile-using-the-azure-portal"></a>Lab: Übung: Erstellen eines Traffic Manager-Profils über das Azure-Portal
+  #### <a name="lab--exercise-create-a-traffic-manager-profile-using-the-azure-portal"></a>Lab: Übung: Erstellen eines Traffic Manager profils mithilfe Azure-Portal
 
 
   ####
 
 
-  #### <a name="lab--exercise-create-and-configure-an-azure-load-balancer"></a>Lab: Übung: Erstellen und Konfigurieren eines Azure-Lastenausgleichs
+  #### <a name="lab--exercise-create-and-configure-an-azure-load-balancer"></a>Lab: Übung: Erstellen und Konfigurieren eines Azure Load Balancers
 
 
   ####
 
 
-  *   Entwerfen und Implementieren von Azure Load Balancer-Instanzen
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Entwerfen und Implementieren von Azure Traffic Manager
+  *   Entwerfen und Implementieren von Azure Laod Balancern
+
+
+  *   Entwerfen und Implementieren Azure Traffic Manager
 
 
 
   ### <a name="module-5-load-balancing-https-traffic-in-azure"></a>Modul 5: Lastenausgleich für HTTP(S)-Datenverkehr in Azure
 
 
-  In diesem Modul lernen Sie, wie man Load Balancing-Lösungen für HTTP(S)-Verkehr in Azure mit Azure Application Gateway und Azure Front Door entwirft und implementiert.
+  In diesem Modul erfahren Sie, wie Sie Lastenausgleichslösungen für HTTP(S)-Datenverkehr in Azure mit Azure-Anwendung Gateway und Azure Front Door.
 
 
   #### <a name="lessons"></a>Lektionen
@@ -306,10 +318,13 @@ outlineSection: >-
   ####
 
 
-  #### <a name="lab--exercise-create-a-front-door-for-a-highly-available-web-application"></a>Lab: Übung: Erstellen einer Front Door-Instanz für eine hochverfügbare Webanwendung
+  #### <a name="lab--exercise-create-a-front-door-for-a-highly-available-web-application"></a>Lab: Übung: Erstellen einer Eingangstür für eine hoch verfügbare Webanwendung
 
 
   ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
   *   Entwerfen und Implementieren von Azure Application Gateway
@@ -322,7 +337,7 @@ outlineSection: >-
   ### <a name="module-6-design-and-implement-network-security"></a>Modul 6: Entwerfen und Implementieren der Netzwerksicherheit
 
 
-  In diesem Modul erfahren Sie, wie Sie Netzwerksicherheitslösungen wie Azure DDoS, Azure Firewall, Netzwerksicherheitsgruppen und Web Application Firewall entwerfen und implementieren.
+  In diesem Modul erfahren Sie, wie Sie Netzwerksicherheitslösungen wie Azure DDoS, Azure Firewalls, Netzwerksicherheitsgruppen und Web Application Firewall entwerfen und darauf reagieren.
 
 
   #### <a name="lessons"></a>Lektionen
@@ -347,22 +362,25 @@ outlineSection: >-
 
 
 
-  #### <a name="lab--exercise-deploy-and-configure-azure-firewall-using-the-azure-portal"></a>Lab: Übung: Bereitstellen und Konfigurieren von Azure Firewall über das Azure-Portal
+  #### <a name="lab--exercise-deploy-and-configure-azure-firewall-using-the-azure-portal"></a>Lab: Übung: Bereitstellen und Konfigurieren Azure Firewall mithilfe der Azure-Portal
 
 
   ####
 
 
-  #### <a name="lab--exercise-secure-your-virtual-hub-using-azure-firewall-manager"></a>Lab: Übung: Schützen virtueller Hubs mit Azure Firewall Manager
+  #### <a name="lab--exercise-secure-your-virtual-hub-using-azure-firewall-manager"></a>Lab: Übung: Schützen Ihres virtuellen Hubs mit Azure Firewall Manager
 
 
   ####
 
 
-  #### <a name="lab--exercise-configure-ddos-protection-on-a-virtual-network-using-the-azure-portal"></a>Lab: Übung: Konfigurieren von DDoS Protection in einem virtuellen Netzwerk mithilfe des Azure-Portals
+  #### <a name="lab--exercise-configure-ddos-protection-on-a-virtual-network-using-the-azure-portal"></a>Lab: Übung: Konfigurieren DDoS Protection in einem virtuellen Netzwerk mithilfe der Azure-Portal
 
 
   ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
   *   Konfigurieren und Überwachen eines Azure DDoS-Schutzplans
@@ -381,7 +399,7 @@ outlineSection: >-
   ### <a name="module-7-design-and-implement-private-access-to-azure-services"></a>Modul 7: Entwerfen und Implementieren des privaten Zugriffs auf Azure-Dienste
 
 
-  In diesem Modul lernen Sie, den privaten Zugang zu Azure Services mit Azure Private Link und virtuellen Netzwerkdienst-Endpunkten zu entwerfen und zu implementieren.
+  In diesem Modul erfahren Sie, wie Sie den privaten Zugriff auf Azure-Dienste mit Azure Private Link und VNS-Dienstendpunkten entwerfen und implementieren.
 
 
   #### <a name="lessons"></a>Lektionen
@@ -400,16 +418,19 @@ outlineSection: >-
 
 
 
-  #### <a name="lab--exercise-create-an-azure-private-endpoint-using-azure-powershell"></a>Lab: Übung: Erstellen eines privaten Endpunkts in Azure mit Azure PowerShell
+  #### <a name="lab--exercise-create-an-azure-private-endpoint-using-azure-powershell"></a>Lab: Übung: Erstellen eines privaten Azure-Endpunkts mit Azure PowerShell
 
 
   ####
 
 
-  #### <a name="lab--exercise-restrict-network-access-to-paas-resources-with-virtual-network-service-endpoints"></a>Lab: Übung: Einschränken des Netzwerkzugriffs auf PaaS-Ressourcen mit VNET-Dienstendpunkten
+  #### <a name="lab--exercise-restrict-network-access-to-paas-resources-with-virtual-network-service-endpoints"></a>Lab: Übung: Einschränken des Netzwerkzugriffs auf PaaS-Ressourcen mit VN-Dienstendpunkten
 
 
   ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
   *   Definieren des Unterschieds zwischen dem Private Link-Dienst und privaten Endpunkten
@@ -434,23 +455,26 @@ outlineSection: >-
   ### <a name="module-8-design-and-implement-network-monitoring"></a>Modul 8: Entwerfen und Implementieren der Netzwerküberwachung
 
 
-  In diesem Modul lernen Sie, wie man Netzwerküberwachungslösungen wie Azure Monitor und Network Watcher entwirft und implementiert.
+  In diesem Modul erfahren Sie, wie Sie Netzwerküberwachungslösungen wie Azure Monitor und Network Watcher entwerfen und implementieren.
 
 
   #### <a name="lessons"></a>Lektionen
 
 
-  *   Überwachen von Netzwerken mit Azure Monitor
+  *   Überwachen Ihrer Netzwerke mit Azure Monitor
 
 
-  *   Überwachen von Netzwerken mit Azure Network Watcher
+  *   Überwachen Ihrer Netzwerke mit Azure Network Watcher
 
 
 
-  #### <a name="lab--exercise-monitor-a-load-balancer-resource-by-using-azure-monitor"></a>Lab: Übung: Überwachen einer Lastenausgleichsressource mit Azure Monitor
+  #### <a name="lab--exercise-monitor-a-load-balancer-resource-by-using-azure-monitor"></a>Lab: Übung: Überwachen einer Load Balancer-Ressource mithilfe von Azure Monitor
 
 
   ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
   *   Konfigurieren von Netzwerkintegritätswarnungen und -protokollierung mithilfe von Azure Monitor

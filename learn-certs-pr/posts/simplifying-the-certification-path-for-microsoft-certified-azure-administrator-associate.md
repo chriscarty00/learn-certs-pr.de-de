@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 5cdddcea7df9716842ee9b79cbbe6cd21bf14b71
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111077"
 ---
 # <a name="simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate"></a>Vereinfachen des Zertifizierungspfads für Microsoft Certified: Azure Administrator Associate
@@ -44,7 +44,7 @@ Nochmals vielen Dank an diejenigen von Ihnen, die mit uns den Sprung in das neue
 
 **Zugehörige Ankündigungen**
 
-[Nutzen Sie die neuen rollenbasierten Schulungen und Zertifizierungen, um Ihre Qualifikationen zu erweitern und sich einen Vorsprung zu verschaffen!](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375161)   
+[Qualifizieren Sie sich, und heben Sie sich von der Masse ab – mit dem neuen rollenbasierten Trainings- und Zertifizierungsangebot!](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375161)   
 [Die neue rollenbasierte Zertifizierung und Schulung ist da, und wir fangen gerade erst an!](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375159)   
 [Den Rückstand aufholen: Die Reise geht weiter mit neuen rollenbasierten Zertifizierungen und Schulungen.](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375200)  
 [Antworten auf Ihre Fragen zur Prüfung „AZ-103: Microsoft Azure-Administrator“](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375225)

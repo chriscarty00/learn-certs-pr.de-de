@@ -10,10 +10,10 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: de58406981503f89d560efc07fd5d032abfccd4f
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111686"
 ---
 # <a name="why-microsoft-beta-exams-are-no-longer-free"></a>Warum Microsoft-Betaprüfungen nicht mehr kostenlos sind

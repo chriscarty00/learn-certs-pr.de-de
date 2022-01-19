@@ -3,12 +3,12 @@ title: Planning and Administering Microsoft Azure for SAP Workloads
 metadata:
   title: 'Kurs AZ-120T00--A: Planen und Verwalten von Microsoft Azure für SAP-Workloads'
   description: 'Kurs AZ-120T00--A: Planen und Verwalten von Microsoft Azure für SAP-Workloads'
-  ms.openlocfilehash: a0533254edb6f56e7ee71efe2b148d7595a3e17a
-  ms.sourcegitcommit: 9ce6bfd5b440f21921db0832e2a560c814478dcb
-  ms.translationtype: HT
+  ms.openlocfilehash: 21b2a95d16e258235cad567d363be3ca86bc53ae
+  ms.sourcegitcommit: 002839b3d184746f9396fb508f4ea29bdbf66a70
+  ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 11/02/2021
-  ms.locfileid: "132113496"
+  ms.lasthandoff: 01/12/2022
+  ms.locfileid: "135801544"
 uid: course.az-120t00
 courseNumber: AZ-120T00
 hoursToComplete: 96
@@ -30,6 +30,17 @@ products:
 - azure
 exams:
 - uid: exam.az-120
+studyGuide:
+- uid: learn.wwl.prepare-for-ai-engineering
+- uid: learn.wwl.provision-manage-azure-cognitive-services
+- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
+- uid: learn.wwl.create-language-understanding-solution
+- uid: learn.wwl.process-translate-text-azure-cognitive-services
+- uid: learn.wwl.build-qna-solution
+- uid: learn.wwl.create-conversational-ai-solutions
+- uid: learn.wwl.create-computer-vision-solutions-azure-cognitive-services
+- uid: learn.wwl.extract-text-from-images-documents
+- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
 summary: >-
   In diesem Kurs lernen IT-Experten mit Erfahrung in SAP-Lösungen, wie sie Azure-Ressourcen nutzen können, einschließlich Bereitstellung und Konfiguration von virtuellen Computern, virtuellen Netzwerken, Speicherkonten und Azure AD, sowie der Implementierung und Verwaltung hybrider Identitäten. Die Teilnehmer dieses Kurses lernen anhand von Konzepten, Szenarien, Verfahren und praktischen Übungen, wie sie Migration und Betrieb einer SAP-Lösung in Azure am besten planen und implementieren können. Sie erhalten Anleitungen zu Abonnements, erstellen und skalieren virtuelle Computer, implementieren Speicherlösungen, konfigurieren virtuelle Netzwerke, sichern Daten und geben sie frei, verbinden Azure und lokale Standorte, verwalten den Netzwerkdatenverkehr, implementieren Azure Active Directory, schützen Identitäten und überwachen Ihre Lösung.
 

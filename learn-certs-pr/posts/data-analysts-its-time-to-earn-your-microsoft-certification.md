@@ -10,10 +10,10 @@ ms.date: 04/09/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 2f2ec1c7635dd1146c6f0f2934f4d394f6f3f658
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112104"
 ---
 # <a name="data-analysts-its-time-to-earn-your-microsoft-certification"></a>Data Analysts: Zeit, sich Ihre Microsoft-Zertifizierung zu verdienen!
@@ -39,8 +39,8 @@ Um den Rabatt zu erhalten, registrieren Sie sich jetzt, und verwenden Sie den Co
 So bereiten Sie sich auf die Beta-(Prüfung) DA-100 vor:
 
 - Sehen Sie sich die ausführlichen Informationen auf der Seite der (Beta-)Prüfung DA-100 an. Dem Dokument mit der Übersicht über die Prüfungskompetenzen können Sie die in der Prüfung abgedeckten Themen entnehmen.
-- Erkunden Sie kostenlose Lernpfade, Kurse und praxisorientierte Lernangebote in [Microsoft Learn](/learn/browse). Folgen Sie [@MicrosoftLearn](https://twitter.com/MicrosoftLearn), um aktuelle Informationen zu Microsoft-Zertifizierungen zu erhalten – einschließlich neuer Inhalte, die Sie bei der Vorbereitung unterstützen.
-- Sind Sie an noch umfassenderen Schulungen interessiert? Setzen Sie sich mit [Microsoft Learning-Partnern](https://aka.ms/LearningPartners) in Ihrer Region in Verbindung, um Informationen zu Präsenzschulungen zu erhalten.
+- Erkunden Sie kostenlose Lernpfade, Kurse und praxisorientierte Lernangebote bei [Microsoft Learn](/learn/browse). Folgen Sie [@MicrosoftLearn](https://twitter.com/MicrosoftLearn), um aktuelle Informationen zu Microsoft-Zertifizierungen zu erhalten – einschließlich neuer Inhalte, die Sie bei der Vorbereitung unterstützen.
+- Sind Sie an noch umfassenderen Schulungen interessiert? Setzen Sie sich mit [Microsoft Learning-Partnern](https://aka.ms/LearningPartners) in Ihrer Region in Verbindung, um persönliche Schulungen zu erhalten.
 - Benötigen Sie weitere Vorschläge zur Vorbereitung? Sehen Sie sich meinen Blogbeitrag zur [Vorbereitung auf Betaprüfungen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374544) an.
 
 ## <a name="beta-exam-conditions"></a>Bedingungen für die Betaprüfung

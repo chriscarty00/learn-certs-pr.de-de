@@ -10,10 +10,10 @@ ms.date: 01/09/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 3651691d469409075a18b7e54f5baf607502fa52
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132111590"
 ---
 # <a name="microsoft-azure-iot-developers-ive-got-something-for-you"></a>Microsoft Azure IoT-Entwickler: Neuigkeiten für Sie!
@@ -41,11 +41,11 @@ Nehmen Sie so schnell wie möglich an der Betaprüfung teil, damit wir Ihre Komm
 - Kostenloses Onlinematerial zur Unterstützung dieser Zertifizierung steht Ende dieses Monats unter [Microsoft Learn](https://www.microsoft.com/learn) zur Verfügung. Folgen Sie [@MicrosoftLearn](https://twitter.com/microsoftlearn), um Inhaltsupdates zu erhalten. 
 - Benötigen Sie weitere Vorschläge zur Vorbereitung?Sehen Sie sich meinen [Blogbeitrag zur Vorbereitung auf Betaprüfungen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374544) an.
 
-Durch Ihre Teilnahme an einer Betaprüfung haben Sie die Möglichkeit, die Fragen mitzugestalten, die bei Veröffentlichung der Prüfung einbezogen werden.Der Neubewertungsprozess beginnt an dem Tag, an dem die Prüfungen live geschaltet werden, und die endgültigen Ergebnisse werden etwa zehn Tage später veröffentlicht. Folgen Sie mir auf Twitter ([@libertymunson](https://twitter.com/LibertyMunson)), um aktuelle Informationen zum Abschluss der Neubewertung zu erhalten. Wenn Sie Fragen zum Zeitplan für die Bewertung von Betaprüfungen und die Veröffentlichung der Liveprüfung haben, sehen Sie sich die Blogbeiträge [Von der Betaprüfung zur Liveprüfung](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374675) und [Weitere Tipps zu Betaprüfungen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374723) an.
+Durch Ihre Teilnahme an einer Betaprüfung haben Sie die Möglichkeit, die Fragen mitzugestalten, die bei Veröffentlichung der Prüfung einbezogen werden.Der Wiederholungsprozess beginnt an dem Tag, an dem die Prüfungen live gehen, und die Endergebnisse werden ca. 10 Tage später veröffentlicht. Folgen Sie mir auf Twitter ([@libertymunson](https://twitter.com/LibertyMunson)), um aktuelle Informationen zum Abschluss der Neubewertung zu erhalten. Sollten Sie Fragen zum Zeitplan für die Bewertung von Betaexamen und die Veröffentlichung des Examens haben, sehen Sie sich die Blogbeiträge [Vom Betaexamen zum veröffentlichten Examen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374675) und [Weitere Tipps für Betaexamen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374723) an.
 
 Denken Sie daran, dass die Anzahl der Plätze begrenzt ist. Wenn sie weg sind, sind sie weg. Beachten Sie auch, dass der Betacode in einigen Ländern nicht funktioniert (z. B. Türkei, Pakistan, Indien und China). Sie können in diesen Ländern nicht an der Betaprüfung teilnehmen.
 
-Denken Sie auch daran, dass sich diese Prüfungen in der Betaversion befinden, was bedeutet, dass Sie nicht sofort eine Bewertung erhalten. Sie erhalten Ihre endgültige Punktzahl und die Information, ob Sie bestanden haben, sobald die Prüfung live geschaltet ist.
+Denken Sie auch daran, dass sich diese Examen in der Betaversion befinden, was bedeutet, dass Sie nicht sofort eine Bewertung erhalten. Sie erfahren Ihre endgültige Bewertung und Ihren Examensstatus, nachdem Ihr Examen veröffentlicht wurde.
 
 **Zugehörige Ankündigungen**  
 [Setzen Sie Ihren Lernweg fort: Interessante neue Zertifizierungen und Schulungserfahrung auf Microsoft Learn](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375268)

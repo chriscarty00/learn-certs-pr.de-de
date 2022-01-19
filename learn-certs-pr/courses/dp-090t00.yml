@@ -3,12 +3,12 @@ title: Implementing a Machine Learning Solution with Microsoft Azure Databricks
 metadata:
   title: 'Kurs DP-090T00--A: Implementing a Machine Learning Solution with Microsoft Azure Databricks'
   description: 'Kurs DP-090T00--A: Implementing a Machine Learning Solution with Microsoft Azure Databricks'
-  ms.openlocfilehash: 0212a86eb1995b8bd8f314e82e4f8bc26b662b37
-  ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-  ms.translationtype: HT
+  ms.openlocfilehash: 14007a362a6725776c54438baac427f76778c9f0
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 09/14/2021
-  ms.locfileid: "132107507"
+  ms.lasthandoff: 12/28/2021
+  ms.locfileid: "135573290"
 uid: course.dp-090t00
 courseNumber: DP-090T00
 hoursToComplete: 24
@@ -18,9 +18,12 @@ skillsGained:
 - skill: Trainieren eines Machine Learning-Modells mit Azure Databricks
 - skill: Verwenden von MLflow zum Nachverfolgen von Experimenten und Verwalten von Machine Learning-Modellen
 - skill: Integrieren von Azure Databricks mit Microsoft Azure Machine Learning
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
+- zh-cn
+- ja
+- ko
 levels:
 - intermediate
 roles:
@@ -36,7 +39,7 @@ summary: >-
 
   Dieser Kurs ist für Data Scientists mit Erfahrung mit Python konzipiert, die lernen müssen, wie sie ihre Kenntnisse in den Bereichen Data Science und Machine Learning auf Azure Databricks anwenden.
 prerequisitesSection: >-
-  Bevor Sie an diesem Kurs teilnehmen, sollten Sie Erfahrung darin haben, wie Sie Python zum Arbeiten mit Daten verwenden, sowie mit Machine Learning-Konzepten vertraut sein. Absolvieren Sie vor der Teilnahme an diesem Kurs den folgenden Lernpfad auf Microsoft Learn: 1613
+  Bevor Sie an diesem Kurs teilnehmen, sollten Sie Erfahrung darin haben, wie Sie Python zum Arbeiten mit Daten verwenden, sowie mit Machine Learning-Konzepten vertraut sein. Bevor Sie an diesem Kurs teilnehmen, führen Sie den folgenden Lernpfad für Microsoft Learn:
 
 
   *   [Erstellen von Machine Learning-Modellen](https://docs.microsoft.com/learn/paths/create-machine-learn-models/)
@@ -54,6 +57,7 @@ outlineSection: >-
 
 
   *   Arbeiten mit Daten in Azure Databricks
+
 
 
   #### <a name="lab--getting-started-with-azure-databricks"></a>Lab: Erste Schritte mit Azure Databricks
@@ -77,6 +81,7 @@ outlineSection: >-
   *   Verwenden von Azure Databricks zum Arbeiten mit Daten
 
 
+
   ### <a name="module-2-training-and-evaluating-machine-learning-models"></a>Modul 2: Trainieren und Auswerten von Machine Learning-Modellen
 
 
@@ -90,6 +95,7 @@ outlineSection: >-
 
 
   *   Trainieren eines Machine Learning-Modells
+
 
 
   #### <a name="lab--training-a-machine-learning-model"></a>Lab: Trainieren eines Machine Learning-Modells
@@ -113,6 +119,7 @@ outlineSection: >-
   *   Trainieren und Überprüfen eines Machine Learning-Modells
 
 
+
   ### <a name="module-3-managing-experiments-and-models"></a>Modul 3: Verwalten von Experimenten und Modellen
 
 
@@ -126,6 +133,7 @@ outlineSection: >-
 
 
   *   Verwalten von Modellen
+
 
 
   #### <a name="lab--using-mlflow-to-track-experiments"></a>Lab: Verwenden von MLflow zum Nachverfolgen von Experimenten
@@ -149,6 +157,7 @@ outlineSection: >-
   *   Verwalten von Modellen
 
 
+
   ### <a name="module-4-integrating-azure-databricks-and-azure-machine-learning"></a>Modul 4: Integrieren von Azure Databricks und Microsoft Azure Machine Learning
 
 
@@ -162,6 +171,7 @@ outlineSection: >-
 
 
   *   Bereitstellen von Modellen
+
 
 
   #### <a name="lab--deploying-models-in-azure-machine-learning"></a>Lab: Bereitstellen von Modellen in Azure Machine Learning

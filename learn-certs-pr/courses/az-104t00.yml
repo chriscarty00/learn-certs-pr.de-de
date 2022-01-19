@@ -5,10 +5,10 @@ metadata:
   description: 'Kurs AZ-104T00--A: Microsoft Azure Administrator'
   iltScheduling: true
   ms.openlocfilehash: 0c8279c3f815276bc462251bdfe46b8df3b16362
-  ms.sourcegitcommit: 44591b9175e3d494b65f91971f9d96ec4040cece
-  ms.translationtype: HT
+  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 11/14/2021
+  ms.lasthandoff: 12/28/2021
   ms.locfileid: "132438379"
 uid: course.az-104t00
 courseNumber: AZ-104T00
@@ -34,208 +34,208 @@ summary: >-
 
   Dieser Kurs ist für Azure-Administrator*innen konzipiert. Der Azure-Administrator implementiert, verwaltet und überwacht die Identität, Governance, den Speicher, Compute und virtuelle Netzwerke in einer Cloudumgebung. Der Azure-Administrator führt je nach Bedarf die Bereitstellung, Dimensionierung, Überwachung und Anpassung von Ressourcen durch.
 prerequisitesSection: >-
-  Successful Azure Administrators start this role with experience in virtualization, networking, identity, and storage.
+  Erfolgreiche Azure-Administratoren starten diese Rolle mit Erfahrung in den Bereichen Virtualisierung, Netzwerk, Identität und Speicher.
 
 
-  *   Understanding of&nbsp;on-premises virtualization technologies, including: VMs, virtual networking,
-
-
-
-  and virtual hard disks.
-
-
-  *   Understanding of&nbsp;network configurations, including TCP/IP, Domain Name System (DNS),
+  *   Kenntnisse über &nbsp; lokale Virtualisierungstechnologien, einschließlich: VMs, virtuelle Netzwerke,
 
 
 
-  virtual private networks (VPNs), firewalls, and encryption technologies.
+  und virtuelle Festplatten.
 
 
-  *   Understanding of&nbsp;Active Directory concepts, including users, groups, and role-based access
-
-
-
-  control.
-
-
-  *   Understanding of resilience and disaster recovery, including backup and restore operations.
-
-
-  **Prerequisite courses (or equivalent knowledge and hands-on experience):**
+  *   Grundlegendes zu &nbsp; Netzwerkkonfigurationen, einschließlich TCP/IP, Domain Name System (DNS),
 
 
 
-  This free online training will give you the experience you need to be successful in this course.
+  virtuelle private Netzwerke (VPNs), Firewalls und Verschlüsselungstechnologien.
 
 
-  *   [Azure Fundamentals part 1: Describe core Azure concepts - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+  *   Grundlegendes zu &nbsp; Active Directory-Konzepten, einschließlich Benutzern, Gruppen und rollenbasiertem Zugriff
 
 
-  *   [Azure Fundamentals part 2: Describe core Azure services - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
+
+  Steuerung.
 
 
-  *   [Azure Fundamentals part 3: Describe core solutions and management tools on Azure - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
+  *   Verständnis von Ausfallsicherheit und Notfallwiederherstellung, u. a. von Sicherungs- und Wiederherstellungsvorgängen
 
 
-  *   [Azure Fundamentals part 4: Describe general security and network security features - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-general-security-network-security-features/)
+  **Vorausgesetzte Kurse (oder gleichwertige Kenntnisse und praktische Erfahrung):**
 
 
-  *   [Azure Fundamentals part 5: Describe identity, governance, privacy, and compliance features](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
+
+  Diese kostenlose Onlineschulung vermittelt Ihnen die Erfahrung, die Sie benötigen, um in diesem Kurs erfolgreich zu sein.
 
 
-  *   [Azure Fundamentals part 6: Describe Azure cost management and service level agreements](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
+  *   [Azure Fundamentals Part 1: Describe core Azure concepts – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
 
 
-  *   [AZ-104: Prerequisites for Azure administrators - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
+  *   [Azure Fundamentals Part 2: Describe core Azure services – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
+
+
+  *   [Azure Fundamentals Part 3: Describe core solutions and management tools on Azure – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
+
+
+  *   [Azure-Grundlagen – Teil 4: Beschreiben allgemeiner Sicherheits- und Netzwerksicherheitsfeatures – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-general-security-network-security-features/)
+
+
+  *   [Azure-Grundlagen – Teil 5: Beschreiben der Features für Identität, Governance, Datenschutz und Compliance](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
+
+
+  *   [Azure-Grundlagen – Teil 6: Beschreiben von Azure Cost Management und der Vereinbarungen zum Servicelevel](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
+
+
+  *   [AZ-104: Voraussetzungen für Azure-Administratoren – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: >-
-  ### Module 1: Identity
+  ### <a name="module-1-identity"></a>Modul 1: Identität
 
 
-  In this module, you will learn how to secure identities with Azure Active Directory, and implement users and groups.
+  In diesem Modul erfahren Sie, wie Sie Identitäten mit Azure Active Directory sichern und Benutzer und Gruppen implementieren.
 
 
-  #### Lessons
+  #### <a name="lessons"></a>Lektionen
 
 
   *   Azure Active Directory
 
 
-  *   Users and Groups
+  *   Benutzer und Gruppen
 
 
 
-  #### Lab : Manage Azure Active Directory Identities
+  #### <a name="lab--manage-azure-active-directory-identities"></a>Lab: Verwalten Azure Active Directory Identitäten
 
 
   ####
 
 
-  After completing this module, students will be able to:
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Secure and manage identities with Azure Active Directory.
+  *   Sichern und Verwalten von Identitäten mit Azure Active Directory.
 
 
-  *   Implement and manage users and groups.
+  *   Implementieren und Verwalten von Benutzern und Gruppen.
 
 
 
-  ### Module 2: Governance and Compliance
+  ### <a name="module-2-governance-and-compliance"></a>Modul 2: Governance und Compliance
 
 
-  In this module, you will learn about managing your subscriptions and accounts, implementing Azure policies, and using Role-Based Access Control.
+  In diesem Modul erfahren Sie, wie Sie Ihre Abonnements und Accounts verwalten, Azure-Richtlinien umsetzen und die rollenbasierte Zugriffssteuerung verwenden.
 
 
-  #### Lessons
+  #### <a name="lessons"></a>Lektionen
 
 
-  *   Subscriptions and Accounts
+  *   Abonnements und Konten
 
 
   *   Azure Policy
 
 
-  *   Role-based Access Control (RBAC)
+  *   Rollenbasierte Zugriffssteuerung (Role-Based Access Control, RBAC)
 
 
 
-  #### Lab : Manage Subscriptions and RBAC
-
-
-  ####
-
-
-  #### Lab : Manage Governance via Azure Policy
+  #### <a name="lab--manage-subscriptions-and-rbac"></a>Lab: Verwalten von Abonnements und RBAC
 
 
   ####
 
 
-  After completing this module, students will be able to:
+  #### <a name="lab--manage-governance-via-azure-policy"></a>Lab: Verwalten der Governance über Azure Policy
 
 
-  *   Implement and manage Azure subscriptions and accounts.
+  ####
 
 
-  *   Implement Azure Policy, including custom policies.
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Use RBAC to assign permissions.
+  *   Implementieren und Verwalten von Azure-Abonnements und -Konten
+
+
+  *   Implementieren Sie Azure Policy, einschließlich benutzerdefinierter Richtlinien.
+
+
+  *   Verwenden Sie RBAC, um Berechtigungen zuzuweisen.
 
 
 
-  ### Module 3: Azure Administration
+  ### <a name="module-3-azure-administration"></a>Modul 3: Azure-Verwaltung
 
 
-  In this module, you will learn about the tools an Azure Administrator uses to manage their infrastructure. This includes the Azure Portal, Cloud Shell, Azure PowerShell, CLI, and Resource Manager Templates. This module includes:
+  In diesem Modul erfahren Sie mehr über die Tools, mit denen ein Azure-Administrator seine Infrastruktur verwaltet. Dies umfasst die Vorlagen für Azure Portal, Cloud Shell, Azure PowerShell, CLI sowie Ressourcenmanager-Vorlagen. Dieses Modul umfasst Folgendes:
 
 
-  #### Lessons
+  #### <a name="lessons"></a>Lektionen
 
 
   *   Azure Resource Manager
 
 
-  *   Azure Administrator Tools
+  *   Azure-Administratortools
 
 
-  *   ARM Templates
+  *   ARM-Vorlagen
 
 
 
-  #### Lab : Manage Azure resources by Using ARM Templates
-
-
-  ####
-
-
-  #### Lab : Manage Azure resources by Using Azure PowerShell (optional)
+  #### <a name="lab--manage-azure-resources-by-using-arm-templates"></a>Lab: Verwalten von Azure-Ressourcen mithilfe von ARM-Vorlagen
 
 
   ####
 
 
-  #### Lab : Manage Azure resources by Using Azure CLI (optional)
+  #### <a name="lab--manage-azure-resources-by-using-azure-powershell-optional"></a>Lab: Verwalten von Azure-Ressourcen mithilfe von Azure PowerShell (optional)
 
 
   ####
 
 
-  #### Lab : Manage Azure resources by Using the Azure Portal
+  #### <a name="lab--manage-azure-resources-by-using-azure-cli-optional"></a>Lab: Verwalten von Azure-Ressourcen mithilfe von Azure CLI (optional)
 
 
   ####
 
 
-  After completing this module, students will be able to:
+  #### <a name="lab--manage-azure-resources-by-using-the-azure-portal"></a>Lab: Verwalten von Azure-Ressourcen mithilfe des Azure-Portals
 
 
-  *   Leverage Azure Resource Manager to organize resources.
+  ####
 
 
-  *   Use the Azure Portal and Cloud Shell.
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Use Azure PowerShell and CLI.
+  *   Nutzen Sie Azure Resource Manager, um Ressourcen zu organisieren.
 
 
-  *   Use ARM Templates to deploy resources.
+  *   Verwenden Sie das Azure-Portal und Cloud Shell.
+
+
+  *   Verwenden Sie Azure PowerShell und cli.
+
+
+  *   Verwenden Sie ARM-Vorlagen zum Bereitstellen von Ressourcen.
 
 
 
-  ### Module 4: Virtual Networking
+  ### <a name="module-4-virtual-networking"></a>Modul 4: Virtuelle Netzwerke
 
 
-  In this module, you will learn about basic virtual networking concepts like virtual networks and subnetting, IP addressing, network security groups, Azure Firewall, and Azure DNS.
+  In diesem Modul lernen Sie grundlegende Konzepte für virtuelle Netzwerke wie z.B. virtuelle Netzwerke und Subnetze, IP-Adressierung, Netzwerksicherheitsgruppen, Azure Firewall und Azure DNS kennen.
 
 
-  #### Lessons
+  #### <a name="lessons"></a>Lektionen
 
 
-  *   Virtual Networks
+  *   Virtuelle Netzwerke
 
 
-  *   Network Security groups
+  *   Netzwerksicherheitsgruppen
 
 
   *   Azure Firewall
@@ -245,76 +245,76 @@ outlineSection: >-
 
 
 
-  #### Lab : Implement Virtual Networking
+  #### <a name="lab--implement-virtual-networking"></a>Lab: Implementieren von virtuellen Netzwerken
 
 
   ####
 
 
-  After completing this module, students will be able to:
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Implement virtual networks and subnets.
+  *   Implementieren sie virtuelle Netzwerke und Subnetze.
 
 
-  *   Configure network security groups.
+  *   Konfigurieren sie Netzwerksicherheitsgruppen.
 
 
-  *   Configure Azure Firewall.
+  *   Konfigurieren sie Azure Firewall.
 
 
-  *   Configure private and public DNS zones.
-
-
-
-  ### Module 5: Intersite Connectivity
-
-
-  In this module, you will learn about intersite connectivity features including VNet Peering, Virtual Network Gateways, and Site-to-Site Connections.
-
-
-  #### Lessons
-
-
-  *   VNet Peering
-
-
-  *   VPN Gateway Connections
-
-
-  *   ExpressRoute and Virtual WAN
+  *   Konfigurieren Sie private und öffentliche DNS-Zonen.
 
 
 
-  #### Lab : Implement Intersite Connectivity
+  ### <a name="module-5-intersite-connectivity"></a>Modul 5: Standortübergreifende Konnektivität
+
+
+  In diesem Modul erfahren Sie mehr über Standortübergreifende Konnektivitätsfeatures wie VNET-Peering, Virtual Network Gateways und Site-to-Site-Verbindungen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   VNET-Peering
+
+
+  *   VPN Gateway Verbindungen
+
+
+  *   ExpressRoute und Virtual WAN
+
+
+
+  #### <a name="lab--implement-intersite-connectivity"></a>Lab: Implementieren der standortübergreifenden Konnektivität
 
 
   ####
 
 
-  After completing this module, students will be able to:
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Configure VNet Peering.
+  *   Konfigurieren sie das VNET-Peering.
 
 
-  *   Configure VPN gateways.
+  *   Konfigurieren von VPN-Gateways.
 
 
-  *   Choose the appropriate intersite connectivity solution.
+  *   Wählen Sie die geeignete Standortübergreifende Konnektivitätslösung aus.
 
 
 
-  ### Module 6: Network Traffic Management
+  ### <a name="module-6-network-traffic-management"></a>Modul 6: Verwaltung des Netzwerkdatenverkehrs
 
 
-  In this module, you will learn about network traffic strategies including network routing and service endpoints, Azure Load Balancer, and Azure Application Gateway.
+  In diesem Modul erfahren Sie mehr über Strategien für Netzwerkdatenverkehr, einschließlich Netzwerkrouting und Dienstendpunkten, Azure Load Balancer und Azure Application Gateway.
 
 
-  #### Lessons
+  #### <a name="lessons"></a>Lektionen
 
 
-  *   Network Routing and Endpoints
+  *   Netzwerkrouting und Endpunkte
 
 
   *   Azure Load Balancer
@@ -324,220 +324,220 @@ outlineSection: >-
 
 
 
-  #### Lab : Implement Traffic Management
+  #### <a name="lab--implement-traffic-management"></a>Lab: Implementieren der Datenverkehrsverwaltung
 
 
   ####
 
 
-  After completing this module, students will be able to:
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Configure network routing including custom routes and service endpoints.
+  *   Konfigurieren Sie das Netzwerkrouting, einschließlich benutzerdefinierter Routen und Dienstendpunkte.
 
 
-  *   Configure an Azure Load Balancer.
+  *   Konfigurieren sie eine Azure Load Balancer.
 
 
-  *   Configure and Azure Application Gateway.
+  *   Konfigurieren und Azure Application Gateway.
 
 
 
-  ### Module 7: Azure Storage
+  ### <a name="module-7-azure-storage"></a>Modul 7: Azure Storage
 
 
-  In this module, you will learn about basic storage features including storage accounts, blob storage, Azure files and File Sync, storage security, and storage tools.
+  In diesem Modul erhalten Sie Informationen zu grundlegenden Speicherfunktionen, einschließlich Speicherkonten, Blob-Speicher, Azure-Dateien und Speichersicherheit.
 
 
-  #### Lessons
+  #### <a name="lessons"></a>Lektionen
 
 
-  *   Storage Accounts
+  *   Speicherkonten
 
 
   *   Blob Storage
 
 
-  *   Storage Security
+  *   Speichersicherheit
 
 
-  *   Azure Files and File Sync
+  *   Azure Files und Dateisynchronisierung
 
 
-  *   Managing Storage
-
-
-
-  #### Lab : Manage Azure storage
-
-
-  ####
-
-
-  After completing this module, students will be able to:
-
-
-  *   Create Azure storage accounts.
-
-
-  *   Configure blob containers.
-
-
-  *   Secure Azure storage.
-
-
-  *   Configure Azure files shares and file sync.
-
-
-  *   Manage storage with tools such as Storage Explorer.
+  *   Verwalten von Speicher
 
 
 
-  ### Module 8: Azure Virtual Machines
-
-
-  In this module, you will learn about Azure virtual machines including planning, creating, availability and extensions.
-
-
-  #### Lessons
-
-
-  *   Virtual Machine Planning
-
-
-  *   Creating Virtual Machines
-
-
-  *   Virtual Machine Availability
-
-
-  *   Virtual Machine Extensions
-
-
-
-  #### Lab : Manage virtual machines
+  #### <a name="lab--manage-azure-storage"></a>Lab: Verwalten von Azure Storage
 
 
   ####
 
 
-  After completing this module, students will be able to:
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Plan for virtual machine implementations.
+  *   Erstellen Sie Azure-Speicherkonten.
 
 
-  *   Create virtual machines.
+  *   Konfigurieren von Blobcontainern.
 
 
-  *   Configure virtual machine availability, including scale sets.
+  *   Schützen sie Azure Storage.
 
 
-  *   Use virtual machine extensions.
+  *   Konfigurieren sie Azure-Dateifreigaben und die Dateisynchronisierung.
+
+
+  *   Verwalten von Speicher mit Tools wie Storage-Explorer.
 
 
 
-  ### Module 9: PaaS Compute Options
+  ### <a name="module-8-azure-virtual-machines"></a>Modul 8: Azure Virtual Machines
 
 
-  In this module, you will learn how to administer serverless computing features like Azure App Service, Azure Container Instances, and Kubernetes.
+  In diesem Modul erhalten Sie Informationen zu virtuellen Azure-Maschinen, einschließlich Planung, Erstellung, Verfügbarkeit und Erweiterungen.
 
 
-  #### Lessons
+  #### <a name="lessons"></a>Lektionen
 
 
-  *   Azure App Service Plans
+  *   Planung virtueller Computer
+
+
+  *   Erstellen virtueller Computer
+
+
+  *   Verfügbarkeit virtueller Computer
+
+
+  *   VM-Erweiterungen
+
+
+
+  #### <a name="lab--manage-virtual-machines"></a>Lab: Verwalten virtueller Computer
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Planen sie Implementierungen für virtuelle Computer.
+
+
+  *   Erstellen sie virtuelle Computer.
+
+
+  *   Konfigurieren sie die Verfügbarkeit virtueller Computer, einschließlich Skalierungsgruppen.
+
+
+  *   Verwenden Sie VM-Erweiterungen.
+
+
+
+  ### <a name="module-9-paas-compute-options"></a>Modul 9: PaaS-Computeoptionen
+
+
+  In diesem Modul erfahren Sie, wie Sie serverlose Computingfunktionen wie Azure App Service, Azure Container Instances und Kubernetes verwalten.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Azure App Service-Pläne
 
 
   *   Azure App Service
 
 
-  *   Container Services
+  *   Containerdienste
 
 
   *   Azure Kubernetes Service
 
 
 
-  #### Lab : Implement Web Apps
+  #### <a name="lab--implement-web-apps"></a>Lab: Implementieren von Web-Apps
 
 
   ####
 
 
-  #### Lab : Implement Azure Kubernetes Service
+  #### <a name="lab--implement-azure-kubernetes-service"></a>Lab: Implementieren von Azure Kubernetes Service
 
 
   ####
 
 
-  #### Lab : Implement Azure Container Instances
+  #### <a name="lab--implement-azure-container-instances"></a>Lab: Implementieren von Azure Container Instances
 
 
   ####
 
 
-  After completing this module, students will be able to:
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Create an app service plan.
+  *   Erstellen Sie einen App Service-Plan.
 
 
-  *   Create a web app.
+  *   Erstellen einer Web-App
 
 
-  *   Implement Azure Container Instances.
+  *   Implementieren Sie Azure Container Instances.
 
 
-  *   Implement Azure Kubernetes Service.
-
-
-
-  ### Module 10: Data Protection
-
-
-  In this module, you will learn about backing up files and folders, and virtual machine backups.
-
-
-  #### Lessons
-
-
-  *   File and Folder Backups
-
-
-  *   Virtual Machine Backups
+  *   Implementieren Sie Azure Kubernetes Service.
 
 
 
-  #### Lab : Implement Data Protection
+  ### <a name="module-10-data-protection"></a>Modul 10: Datenschutz
+
+
+  In diesem Modul erfahren Sie mehr über das Sichern von Dateien und Ordnern sowie über Sicherungen virtueller Computer.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Datei- und Ordnersicherungen
+
+
+  *   Sicherungen virtueller Computer
+
+
+
+  #### <a name="lab--implement-data-protection"></a>Lab: Implementieren des Schutzes von Daten
 
 
   ####
 
 
-  After completing this module, students will be able to:
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Backup and restore file and folders.
+  *   Sichern und Wiederherstellen von Dateien und Ordnern.
 
 
-  *   Backup and restore virtual machines.
+  *   Sichern und Wiederherstellen virtueller Computer.
 
 
 
-  ### Module 11: Monitoring
+  ### <a name="module-11-monitoring"></a>Modul 11: Überwachung
 
 
-  In this module, you will learn about monitoring your Azure infrastructure including Azure Monitor, alerting, and log analytics.
+  In diesem Modul erfahren Sie mehr über die Überwachung Ihrer Azure-Infrastruktur, einschließlich Azure Monitor, Warnungen und Log Analytics.
 
 
-  #### Lessons
+  #### <a name="lessons"></a>Lektionen
 
 
   *   Azure Monitor
 
 
-  *   Azure Alerts
+  *   Azure-Warnungen
 
 
   *   Log Analytics
@@ -547,22 +547,22 @@ outlineSection: >-
 
 
 
-  #### Lab : Implement Monitoring
+  #### <a name="lab--implement-monitoring"></a>Lab: Implementieren der Überwachung
 
 
   ####
 
 
-  After completing this module, students will be able to:
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Use Azure Monitor.
+  *   Verwenden Sie Azure Monitor.
 
 
-  *   Create Azure alerts.
+  *   Erstellen sie Azure-Warnungen.
 
 
-  *   Query using Log Analytics.
+  *   Abfragen mit Log Analytics.
 
 
-  *   Use Network Watcher.
+  *   Verwenden Sie Network Watcher.

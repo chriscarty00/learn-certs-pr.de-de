@@ -10,10 +10,10 @@ ms.date: 04/09/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 3124ed5d81126370ccd51efc4655f837fe6bf4a9
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
+ms.lasthandoff: 12/28/2021
 ms.locfileid: "132112096"
 ---
 # <a name="dbas-show-the-world-youre-a-cloud-ready-database-champion"></a>Datenbankadministratoren: Zeigen Sie der Welt, dass Sie bestens mit cloudfähigen Datenbanken vertraut sind.
@@ -34,14 +34,14 @@ Azure-Datenbankadministratoren implementieren und verwalten die betrieblichen As
 
 **Die ersten 300 Personen, die bis spätestens 31. Mai 2020 die (Beta-)Prüfung DP-300 ablegen, haben die Chance auf einen Preisnachlass in Höhe von 80 Prozent!** (Warum Beta-Prüfungen nicht mehr kostenlos sind, erfahren Sie [hier](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374922).)
 
-Um den Rabatt zu erhalten, registrieren Sie sich jetzt, und **verwenden Sie den Code DP300CAMDEN**, wenn Sie zur Zahlung aufgefordert werden. Dies ist kein privater Zugriffscode. Die Plätze werden nach dem Windhundprinzip vergeben. Die Prüfung muss spätestens am 31. Mai 2020 abgelegt werden.
+Um den Rabatt zu erhalten, registrieren Sie sich jetzt, und **verwenden Sie den Code DP300CAMDEN**, wenn Sie zur Zahlung aufgefordert werden. Dies ist kein privater Zugriffscode. Die Plätze werden in der Reihenfolge des Eingangs der Registrierung vergeben. Die Prüfung muss spätestens am 31. Mai 2020 abgelegt werden.
 
 Einige Anregungen zur Vorbereitung auf die (Beta-)Prüfung DP-300:
 
 - Sehen Sie sich die ausführlichen Informationen auf der Seite der (Beta-)Prüfung DP-300 an. Dem Dokument mit der Übersicht über die Prüfungskompetenzen können Sie die in der Prüfung abgedeckten Themen entnehmen.
 - Erkunden Sie kostenlose Lernpfade, Kurse und praxisorientierte Lernangebote bei [Microsoft Learn](/learn/browse). Folgen Sie [@MicrosoftLearn](https://twitter.com/MicrosoftLearn), um aktuelle Informationen zu Microsoft-Zertifizierungen zu erhalten – einschließlich neuer Inhalte, die Sie bei der Vorbereitung unterstützen.
 - Sind Sie an noch umfassenderen Schulungen interessiert? Setzen Sie sich mit [Microsoft Learning-Partnern](https://aka.ms/LearningPartners) in Ihrer Region in Verbindung, um persönliche Schulungen zu erhalten.
-- Benötigen Sie noch andere Vorbereitungsideen? Sehen Sie sich meinen Blogbeitrag zur [Vorbereitung auf Beta-Prüfungen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374544) an.
+- Benötigen Sie weitere Vorschläge zur Vorbereitung? Sehen Sie sich meinen Blogbeitrag zur [Vorbereitung auf Beta-Prüfungen](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=374544) an.
 
 ## <a name="about-the-beta-exam-process"></a>Informationen zum Beta-Prüfungsprozess
 

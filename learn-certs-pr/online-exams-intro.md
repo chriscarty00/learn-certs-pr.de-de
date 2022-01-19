@@ -9,24 +9,20 @@ ms.workload: NA
 ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: f12bb264978fa8b3c27016d2f50e0dffc6129af8
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.openlocfilehash: 5a33765c260ea91015b7474cf634190b5e7948e4
+ms.sourcegitcommit: d58330a3c9b4b1a5e9b866fc8ba6af651ab0ed3b
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
-ms.locfileid: "132112117"
+ms.lasthandoff: 12/30/2021
+ms.locfileid: "135638607"
 ---
 # <a name="introduction-and-faqs"></a>Einführung und häufig gestellte Fragen
 
 ## <a name="why-take-an-online-proctored-exam"></a>Was spricht für eine beaufsichtigte Onlineprüfung?
 
-Durch beaufsichtigte Onlineprüfungen wird es noch einfacher, nützliche Zertifizierungen zu erwerben. Während sich einige Benutzer dafür entscheiden, ihre Prüfung in einem Testcenter abzulegen, absolvieren viele Teilnehmer die Prüfungen bequem in ihrem eigenen Büro oder zu Hause.
-
-Microsoft arbeitet mit anderen Unternehmen zusammen, um Zertifizierungsprüfungen in Form einer beaufsichtigten Onlineprüfung anzubieten. Diese Partner sind Pearson VUE und PSI.
+Durch beaufsichtigte Onlineprüfungen wird es noch einfacher, nützliche Zertifizierungen zu erwerben. Während sich einige Benutzer dafür entscheiden, ihre Prüfung in einem Testcenter abzulegen, absolvieren viele Teilnehmer die Prüfungen bequem in ihrem eigenen Büro oder zu Hause. Microsoft arbeitet mit Pearson VUE zusammen, um Zertifizierungsprüfungen über Onlineproctoring zu übermitteln.
 
 Besuchen Sie diesen Link: [Informationen zu Onlineprüfungen mit Pearson VUE](/learn/certifications/online-exams)
-
-Besuchen Sie diesen Link: [Informationen zu Onlineprüfungen mit PSI](/learn/certifications/online-exams-psi)
 
 ## <a name="what-to-check-before-registering-for-an-online-proctored-exam"></a>Was ist vor der Anmeldung zu einer Onlineprüfung zu beachten?
 
@@ -45,8 +41,8 @@ Besuchen Sie diesen Link: [Anmeldung und Vereinbarung eines Prüfungstermins](/l
 Wir empfehlen, sich 15 Minuten früher anzumelden, um den Eincheckvorgang zu starten.
 
 1. Melden Sie sich bei Ihrem [Zertifizierungsdashboard](https://aka.ms/certdashboard) mit der E-Mail-Adresse an, die Ihrem Microsoft-Zertifizierungsprofil zugeordnet ist.
-2. Suchen Sie rechts im Abschnitt „Termine“ nach Ihrem Prüfungstermin, und wählen Sie „Onlineprüfung starten“ aus. Sie werden an Ihren Prüfungsanbieter umgeleitet.
-3. Befolgen Sie die Anweisungen auf dem Bildschirm, um Ihren Prüfungstermin zu finden und den sicheren Browser für Ihren Prüfungsanbieter herunterzuladen und zu installieren. Besuchen Sie diesen Link: [Informationen zu Onlineprüfungen mit Pearson VUE](/learn/certifications/online-exams) oder [Informationen zu Onlineprüfungen mit PSI](/learn/certifications/online-exams-psi)
+2. Suchen Sie rechts im Abschnitt „Termine“ nach Ihrem Prüfungstermin, und wählen Sie „Onlineprüfung starten“ aus.
+3. Befolgen Sie die Anweisungen auf dem Bildschirm, um Ihren Prüfungstermin zu finden und den sicheren Browser herunterzuladen und zu installieren. Weitere Informationen finden Sie [unter: Informationen zu Onlineprüfungen mit Pearson VUE.](/learn/certifications/online-exams)
 
 ## <a name="frequently-asked-questions-about-online-proctored-exams-for-microsoft-certification"></a>Häufig gestellte Fragen zu beaufsichtigten Onlineprüfungen zum Erwerb einer Microsoft-Zertifizierung
 
@@ -58,19 +54,18 @@ Wir empfehlen, sich 15 Minuten früher anzumelden, um den Eincheckvorgang zu sta
 
 **Welche Art der Identifizierung ist beim Einchecken erforderlich?**
 <br>Besuchen Sie diesen Link: [Informationen zu Onlineprüfungen mit Pearson VUE](/learn/certifications/online-exams)
-<br>Besuchen Sie diesen Link: [Informationen zu Onlineprüfungen mit PSI](/learn/certifications/online-exams-psi)
 
 **Wie ändere ich den Namen in meinem Microsoft-Zertifizierungsprofil?**
 <br>Besuchen Sie diesen Link: [Verwalten Ihres Zertifizierungsprofils](/learn/certifications/manage-certification-profile)
 
 **Wo finde ich eine Liste der Prüfungsrichtlinien?**
-<br>Besuchen Sie diesen Link: [Richtlinien und Vereinbarung](/learn/certifications/certification-exam-policies)
+<br>Besuchen Sie: [Richtlinien und Vereinbarung.](/learn/certifications/certification-exam-policies)
 
 **Wie lange habe ich nach dem Beginn meiner Prüfung und der Zuweisung eines Prüfers Zeit, um sie abzulegen?**
 <br>Besuchen Sie diesen Link: [Prüfungsdauer und Arten von Fragen](/learn/certifications/exam-duration-question-types)
 
 **Was geschieht, nachdem ich die beaufsichtigte Onlineprüfung gestartet habe?**
-<br>Dies ist je nach Prüfungsanbieter unterschiedlich, aber im Allgemeinen müssen Sie ein Foto Ihres Personalausweises vorlegen und einen Raumscan durchführen. Anschließend wird Ihnen eine Prüfungsaufsicht zugewiesen. Weitere Informationen erhalten Sie über diesen Link: [Informationen zu Onlineprüfungen mit Pearson VUE](/learn/certifications/online-exams) oder [Informationen zu Onlineprüfungen mit PSI](/learn/certifications/online-exams-psi)
+<br>Sie können davon ausgehen, dass Sie ein Foto Ihrer ID übermitteln und einen Raumscan durchführen. Anschließend wird Ihnen eine Prüfungsaufsicht zugewiesen. Weitere Informationen finden Sie [unter: Informationen zu Onlineprüfungen mit Pearson VUE.](/learn/certifications/online-exams)
 
 **Wenn ich mehrere Prüfungen für eine Zertifizierung ablege, muss ich mich dann für eine einzige Prüfungsmethode entscheiden?**
 <br>Nein, Sie können die Prüfungsmethoden kombinieren (online oder vor Ort in einem Testcenter).
@@ -79,15 +74,13 @@ Wir empfehlen, sich 15 Minuten früher anzumelden, um den Eincheckvorgang zu sta
 <br>Nein. Die Prüfungen sind in Bezug auf den Schwierigkeitsgrad gleichwertig.
 
 **Darf ich mir während meiner Onlineprüfung Notizen machen?**
-<br>Sofern Sie Ihre Onlineprüfung bei Pearson VUE ablegen, ja. Sie können sich während der Onlineprüfung Notizen mithilfe der Whiteboardfunktion machen, die Teil der Umgebung für die Onlineprüfung ist (Sie dürfen kein externes Whiteboard verwenden). Die Whiteboard-Funktion bietet die Möglichkeit, Notizen einzugeben oder Formen zu zeichnen. Sie können während der Prüfung auf das Whiteboard zugreifen, indem Sie auf das Radiergummi-Symbol am oberen Bildschirmrand klicken.
-<br>Wenn Sie Ihre Onlineprüfung über PSI ablegen, können Sie sich während der Onlineprüfung keine Notizen machen. Dieses Feature ist über PSI nicht verfügbar.
+<br>Ja, Sie können sich während ihrer Onlineprüfung Notizen machen, indem Sie das Whiteboardfeature verwenden, das Teil der Onlineprüfungserfahrung ist (Sie dürfen kein externes Whiteboard verwenden). Die Whiteboard-Funktion bietet die Möglichkeit, Notizen einzugeben oder Formen zu zeichnen. Sie können während der Prüfung auf das Whiteboard zugreifen, indem Sie auf das Radiergummi-Symbol am oberen Bildschirmrand klicken.
 
 **Kann nicht viel einfacher geschummelt werden, wenn die Prüfung nicht in einem Testcenter stattfindet? Sind beaufsichtigte Onlineprüfungen sicher?**
 <br>Wir unternehmen alles, um die Integrität unserer Prüfungen sicherzustellen, unabhängig davon, wie sie bereitgestellt werden. Wenn Sie eine online beaufsichtigte Prüfung ablegen, müssen Sie zuerst einen sicheren Browser installieren, der strenge Sicherheitsvorkehrungen während des Prüfungsvorgangs erzwingt. Zusätzlich werden Sie während der gesamten Prüfung durch eine Aufsichtsperson per Webcam und Mikrofon überwacht. In Fällen, in denen wir einen Betrugsverdacht haben, überprüfen wir außerdem die Videoaufzeichnungen von Prüfungssitzungen. Wir sind ziemlich gut im Erkennen von Betrug, sodass wir Ihnen nicht empfehlen, es auszuprobieren – wir widerrufen die Zertifizierungen von Betrügern und schließen sie von zukünftigen Prüfungen aus.
 
 **Sind beaufsichtigte Onlineprüfungen in mehreren Sprachen verfügbar?**
-<br>Ja, aber die Aufsichtsperson für eine Prüfung spricht die jeweilige Sprache möglicherweise nicht. Während also der Prüfungsinhalt in verschiedenen Sprachen verfügbar sein kann, stehen **Prüfungsaufsicht und Unterstützung im Allgemeinen nur auf Englisch zur Verfügung**. Wenn Sie mehr über die Sprachunterstützung Ihres Prüfungsanbieters erfahren möchten, besuchen Sie unsere Website: [Informationen zu Onlineprüfungen mit Pearson VUE](/learn/certifications/online-exams) oder [Informationen zu Onlineprüfungen mit PSI](/learn/certifications/online-exams-psi)
+<br>Ja, aber die Aufsichtsperson für eine Prüfung spricht die jeweilige Sprache möglicherweise nicht. Obwohl der Inhalt der Prüfung in verschiedenen Sprachen verfügbar sein kann, **sind Proktoring und Support in der Regel nur auf Englisch oder Japanisch (verfügbarkeitsbeschränkt) verfügbar.** Weitere Informationen zur Sprachunterstützung, die für Ihren Prüfungsübermittlungsanbieter verfügbar ist, finden Sie unter [Informationen zu Onlineprüfungen mit Pearson VUE.](/learn/certifications/online-exams)
 
 **An wen kann ich mich wenden, wenn ich vor, während oder nach der Onlineprüfung technische Probleme habe?**
-<br>**Pearson VUE**: Für Fragen während Ihrer Pearson VUE-Anmeldung besuchen Sie bitte diese Website: [Informationen zu Onlineprüfungen mit Pearson VUE](/learn/certifications/online-exams)
-<br>**PSI**: Für Fragen während Ihrer PSI-Anmeldung besuchen Sie bitte diese Website: [Informationen zu Onlineprüfungen mit PSI](/learn/certifications/online-exams-psi)
+<br>Fragen während der Pearson VUE-Registrierung finden Sie unter [Informationen zu Onlineprüfungen mit Pearson VUE.](/learn/certifications/online-exams)

@@ -9,12 +9,12 @@ ms.workload: NA
 ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 95a400e0a8377582f88fdce241cbb601c288fbd8
-ms.sourcegitcommit: 9732383406c868d1279ca5ca79d423c5b99be073
-ms.translationtype: HT
+ms.openlocfilehash: 26819146b1e346987c753829855b4210a134f2d8
+ms.sourcegitcommit: d58330a3c9b4b1a5e9b866fc8ba6af651ab0ed3b
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2021
-ms.locfileid: "132112173"
+ms.lasthandoff: 12/30/2021
+ms.locfileid: "135638702"
 ---
 # <a name="request-accommodations"></a>Unterkünfte anfordern
 
@@ -56,7 +56,3 @@ Für Testzentren gelten einige Arten von Geräten wie Rollstühle, Hörgeräte u
 ## <a name="testing-accommodations-with-certiport-for-students-and-academic-institutions"></a>Testvorkehrungen bei Certiport (für Kursteilnehmer und Bildungseinrichtungen)
 
 Wenn die Prüfung nicht in Ihrer Muttersprache abgehalten wird und Sie zusätzliche Zeit zum Lesen und Beantworten der Fragen benötigen, eine spezielle Ausrüstung benötigen oder andere Vorkehrungen für die Teilnahme an der Prüfung treffen möchten, können Sie dies beantragen, indem Sie das Verfahren auf der Website [Certiport test accommodations](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations) befolgen. Certiport kann bis zu 10 Werktage benötigen, um Ihre Unterlagen zu prüfen und Ihnen eine Antwort zukommen zu lassen. Sobald eine Vorkehrung bestätigt wurde, kann es mehrere Wochen dauern, bis sie zum Zeitpunkt der Prüfung umgesetzt ist.
-
-## <a name="testing-accommodations-with-psi-for-job-seekers-affected-by-covid-19"></a>Testvorkehrungen bei PSI (für von COVID-19 betroffene Stellensuchende)
-
-Um Vorkehrungen für die Prüfung zu beantragen, reichen Sie [ einen Antrag auf Vorkehrungen bei PSI](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872) ein, bevor Sie eine Prüfung planen. PSI wird auf den Antrag binnen 48 Geschäftsstunden reagieren.

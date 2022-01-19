@@ -9,12 +9,12 @@ ms.workload: NA
 ms.date: 03/31/2021
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 68a807408c029a5e8feee27239f08612199f8690
-ms.sourcegitcommit: d58330a3c9b4b1a5e9b866fc8ba6af651ab0ed3b
+ms.openlocfilehash: 95848f316b1ebf52b8b7d9cc7d355138ede5aaa9
+ms.sourcegitcommit: 002839b3d184746f9396fb508f4ea29bdbf66a70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/30/2021
-ms.locfileid: "135638638"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "135801639"
 ---
 # <a name="exam-scoring-and-score-reports"></a>Prüfungsbewertung und Ergebnisberichte
 
@@ -26,9 +26,9 @@ Wenn Sie an einer Beta-Prüfung teilgenommen haben, erfahren Sie nicht sofort, o
 
 ## <a name="how-to-access-your-score-report"></a><a name="how-to-access-your-score-report"></a> Zugreifen auf Ihren Ergebnisbericht
 
-Bewertungsberichte sind online für Prüfungen verfügbar, die mit Pearson VUE und Certiport abgelegt wurden. 
+Bewertungsberichte sind online für Prüfungen verfügbar, die mit Pearson VUE und Certiport durchgeführt wurden. 
 
-So greifen Sie auf Ihren Pearson-VUE-Bewertungsbericht zu:
+So greifen Sie auf Ihren Pearson VUE-Bewertungsbericht zu:
 
 1. Navigieren Sie zum [Zertifizierungsdashboard](https://www.microsoft.com/learning/dashboard.aspx).
 
@@ -48,9 +48,10 @@ So greifen Sie auf Ihren Pearson-VUE-Bewertungsbericht zu:
 <br/>
 <br/>
 ![Auswählen der Schaltfläche „View“ (Anzeigen) für den Ergebnisbericht einer bestimmten Prüfung](images/how-to-access-score-report-step-4.png)
-<br/>
-<br/>
-Um auf Ihren Certiport-Bewertungsbericht zu zugreifen, besuchen Sie Ihr [Certiport-Transkript.](https://www.certiport.com/portal/SSL/Login.aspx) Weitere Informationen finden Sie unter Häufig gestellte [Fragen zu Certiport.](https://certiport.pearsonvue.com/About/Developing-a-certification-examination/Certification-examination-FAQs)
+
+
+
+Um auf Ihren Certiport-Bewertungsbericht zuzugreifen, besuchen Sie Ihr [Certiport-Transkript.](https://www.certiport.com/portal/SSL/Login.aspx) Weitere Informationen finden Sie unter Häufig [gestellte Fragen zu Certiport.](https://certiport.pearsonvue.com/About/Developing-a-certification-examination/Certification-examination-FAQs)
 
 ## <a name="how-exams-are-scored"></a>Bewertung von Prüfungen
 

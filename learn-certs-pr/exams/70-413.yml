@@ -1,17 +1,31 @@
 ### YamlMime:Examination
 title: Designing and Implementing a Server Infrastructure
 metadata:
-  title: 'Exam 70-413: Designing and Implementing a Server Infrastructure'
-  description: 'Exam 70-413: Designing and Implementing a Server Infrastructure'
+  title: 'Prüfung 70-413: Entwerfen und Implementieren einer Serverinfrastruktur'
+  description: 'Prüfung 70-413: Entwerfen und Implementieren einer Serverinfrastruktur'
+  ms.openlocfilehash: b73a6f863c74fe83092bc3eaf5dcc8eb0109a906
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658851"
 uid: exam.70-413
 displayName: 70-413
-summary: |-
-  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  Diese Prüfung ist die erste von zwei Prüfungen, welche die Fähigkeiten und Kenntnisse testen, die für den Entwurf, die Implementierung und Wartung einer Windows Server 2012-Infrastruktur in einer skalierten, hoch virtualisierten Unternehmensumgebung erforderlich sind. Das Bestehen dieser Prüfung bestätigt die Befähigung eines Kandidaten, die Windows Server 2012-Dienste zu planen, zu konfigurieren und zu implementieren, wie z. B. Serverbereitstellung, Servervirtualisierung, Netzwerkzugang und Infrastruktur. Das Bestehen dieser Prüfung, zusammen mit den anderen Prüfungen, bestätigt, dass der Kandidat über die erforderlichen Fähigkeiten und Kenntnisse für die Entwicklung, Bereitstellung und Wartung von Infrastrukturdiensten in einer Windows Server 2012-Umgebung verfügt.
+  > Dieses Examen wurde am 31. Januar 2021 eingestellt. Die derzeit verfügbaren Optionen finden Sie auf der [Seite Zertifizierungen und Prüfungen durchsuchen.](/learn/certifications/browse/?resource_type=examination)
 
-  <div style='font-weight&#58; bold;'><br/>Ab April 2014 umfasst diese Prüfung folgende Inhalte <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tt8g">Windows Server 2012 R2</a>.</div>
-subTitle: Diese Prüfung ist die erste von zwei Prüfungen, welche die Fähigkeiten und Kenntnisse testen, die für den Entwurf, die Implementierung und Wartung einer Windows Server 2012-Infrastruktur in einer skalierten, hoch virtualisierten Unternehmensumgebung erforderlich sind. Das Bestehen dieser Prüfung bestätigt die Befähigung eines Kandidaten, die Windows Server 2012-Dienste zu planen, zu konfigurieren und zu implementieren, wie z. B. Serverbereitstellung, Servervirtualisierung, Netzwerkzugang und Infrastruktur. Das Bestehen dieser Prüfung, zusammen mit den anderen Prüfungen, bestätigt, dass der Kandidat über die erforderlichen Fähigkeiten und Kenntnisse für die Entwicklung, Bereitstellung und Wartung von Infrastrukturdiensten in einer Windows Server 2012-Umgebung verfügt.
+
+  <br/>
+
+  Diese Prüfung ist Teil 1 einer Reihe von zwei Prüfungen, die die Qualifikationen und Kenntnisse testen, die zum Entwerfen, Implementieren und Verwalten einer Windows Server 2012 Infrastruktur in einer unternehmensweiten, hochgradig virtualisierten Umgebung erforderlich sind. Das Bestehen dieser Prüfung überprüft die Fähigkeit eines Kandidaten, die Windows Server 2012 Dienste wie Serverbereitstellung, Servervirtualisierung sowie Netzwerkzugriff und -infrastruktur zu planen, zu konfigurieren und zu implementieren. Das Bestehen dieser Prüfung zusammen mit der anderen Prüfung bestätigt, dass ein Kandidat über die Qualifikationen und Kenntnisse verfügt, die für das Entwerfen, Bereitstellen und Warten von Infrastrukturdiensten in einer Windows Server 2012 Umgebung erforderlich sind.
+
+
+  > [!IMPORTANT]
+
+  > Ab April 2014 umfasst diese Prüfung Inhalte, die [Windows Server 2012 R2 abdecken.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tt8g)
+subTitle: Diese Prüfung ist Teil 1 einer Reihe von zwei Prüfungen, die die Qualifikationen und Kenntnisse testen, die zum Entwerfen, Implementieren und Verwalten einer Windows Server 2012 Infrastruktur in einer unternehmensweiten, hochgradig virtualisierten Umgebung erforderlich sind. Das Bestehen dieser Prüfung überprüft die Fähigkeit eines Kandidaten, die Windows Server 2012 Dienste wie Serverbereitstellung, Servervirtualisierung sowie Netzwerkzugriff und -infrastruktur zu planen, zu konfigurieren und zu implementieren. Das Bestehen dieser Prüfung zusammen mit der anderen Prüfung bestätigt, dass ein Kandidat über die Qualifikationen und Kenntnisse verfügt, die für das Entwerfen, Bereitstellen und Warten von Infrastrukturdiensten in einer Windows Server 2012 Umgebung erforderlich sind.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixX
 practiceTestUrl: https://www.mindhub.com/70-413-Designing-and-Implementing-a-Server-Infrast-p/mu-70-413_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -25,18 +39,16 @@ locales:
 levels:
 - advanced
 skills:
-- Planung und Bereitstellung einer Server-Infrastruktur (20-25%)
-- Konzeption und Implementierung von Netzwerkinfrastrukturdiensten (20-25%)
-- Konzeption und Implementierung von Netzzugangsdiensten (15-20%)
-- Design und Implementierung einer Active Directory Infrastruktur (logisch) (20-25%)
-- Design und Implementierung einer Active Directory Infrastruktur (physisch) (20-25%)
+- Plan and deploy a server infrastructure (20–25%)
+- Design and implement network infrastructure services (20–25%)
+- Design and implement network access services (15–20%)
+- Design and implement an Active Directory infrastructure (logical) (20–25%)
+- Design and implement an Active Directory infrastructure (physical) (20–25%)
 retirementDate: 01/31/2021
 roles:
 - administrator
 products:
 - windows-server
-courses:
-- uid: course.20413
 relatedCertifications:
 - related:
     uid: certification.mcse-core-infrastructure
@@ -48,9 +60,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

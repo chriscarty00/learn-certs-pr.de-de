@@ -3,41 +3,50 @@ title: 'MCSA: Windows Server 2016'
 metadata:
   title: 'MCSA: Windows Server 2016'
   description: 'MCSA: Windows Server 2016'
+  ms.openlocfilehash: 9436398131b6e5c3f8b062521711af093ef1ede7
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137659071"
 uid: certification.mcsa-windows-server-2016-certification
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>Diese Zertifizierung wurde eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>. Alle Zertifizierungen, die Sie vor deren Einstellung erworben haben, werden weiterhin auf Ihrem Transkript im<a href='https://aka.ms/certdashboard'> Zertifizierungs-Dashboard angezeigt</a>.</strong></font><br/><br/></div>
+iconUrl: /media/learn/certification/badges/mcsa-badge.svg
+summary: >-
+  > [!IMPORTANT]
 
-  Zeigen Sie, dass Sie über die notwendigen Basiskenntnisse zu Windows Server 2016 verfügen, um die IT-Kosten zu senken und einen höheren Geschäftsmehrwert zu leisten.
-subTitle: Zeigen Sie, dass Sie über die notwendigen Basiskenntnisse zu Windows Server 2016 verfügen, um die IT-Kosten zu senken und einen höheren Geschäftsmehrwert zu leisten.
+  > Diese Zertifizierung wurde eingestellt. Die aktuell verfügbaren Optionen finden Sie auf der [Seite Zertifizierungen und Examen durchsuchen](/learn/certifications/browse/). Alle Zertifizierungen, die Sie vor derEnthebung erhalten haben, werden weiterhin in Ihrem Transkript im [Zertifizierungsdashboard angezeigt.](https://aka.ms/certdashboard)
+
+
+  <br/>
+
+
+  Belegen Sie Ihre Kenntnisse der primären Windows Server 2016 Qualifikationen, die erforderlich sind, um DIE IT-Kosten zu senken und einen größeren Geschäftswert zu erzielen.
+subTitle: Belegen Sie Ihre Kenntnisse der primären Windows Server 2016 Qualifikationen, die erforderlich sind, um DIE IT-Kosten zu senken und einen größeren Geschäftswert zu erzielen.
+hideFishboneDiagram: true
 levels:
 - intermediate
 skills:
-- Installieren von Windows-Servern in Host- und Compute-Umgebungen
-- Implementieren von Speicherlösungen 
-- Implementieren von Hyper-V 
-- Implementieren von Windows Containern 
-- Implementieren von Hochverfügbarkeit 
-- Wartung und Überwachung von Serverumgebungen 
-- Implementierung des Domain-Namen-Systems (DNS) 
-- DHCP und IPAM implementieren 
-- Implementieren von Netzwerk-Konnektivität und Remote Access-Lösungen 
-- Implementierung von Kern- und verteilten Netzwerklösungen
-- Implementierung einer fortschrittlichen Netzwerkinfrastruktur 
-- Installieren und Konfigurieren von Active Directory-Domänendiensten (AD DS)
-- Verwalten und Pflegen von AD DS 
-- Erstellen und Verwalten von Gruppenrichtlinien
-- Implementieren von Active Directory-Zertifikatdiensten (Active Directory Certificate Services, AD CS) 
-- Implementieren von Identity Federations- und Access-Lösungen
+- Install Windows Servers in Host and Compute Environments
+- Implement Storage Solutions
+- Implement Hyper-V
+- Implement Windows Containers
+- Implement High Availability
+- Maintain and Monitor Server Environments
+- Implement Domain Name System (DNS)
+- Implement DHCP and IPAM
+- Implement Network Connectivity and Remote Access Solutions
+- Implement Core and Distributed Network Solutions
+- Implement an Advanced Network Infrastructure
+- Install and Configure Active Directory Domain Services (AD DS)
+- Manage and Maintain AD DS
+- Create and Manage Group Policy
+- Implement Active Directory Certificate Services (AD CS)
+- Implement Identity Federation and Access Solutions
 roles:
 - administrator
 type: mcsa
 products:
 - windows-server
-courses:
-- uid: course.20740
-- uid: course.20741
-- uid: course.20742
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlMC
 exams:
 - uid: exam.70-740
@@ -59,7 +68,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Erhalten Sie Ihren Microsoft-Zertifizierungsbadge, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md
-

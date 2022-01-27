@@ -1,22 +1,33 @@
 ### YamlMime:Examination
-title: Designing and Implementing an Azure AI Solution
+title: Entwerfen und Implementieren einer Azure AI Lösung
 metadata:
-  title: 'Exam AI-100: Designing and Implementing an Azure AI Solution'
-  description: 'Exam AI-100: Designing and Implementing an Azure AI Solution'
+  title: 'Exam AI-100: Designing and Implementing an Azure KI Solution'
+  description: 'Exam AI-100: Designing and Implementing an Azure KI Solution'
+  ms.openlocfilehash: d04d3db332912c6f80add728ac293ec35c02ba33
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137656145"
 uid: exam.ai-100
 displayName: AI-100
-summary: |-
-  <div><div><font color="red"><strong>DIESE PRÜFUNG WURDE AM 30. JUNI 2021 EINGESTELLT. Eine Ersatzprüfung, AI-102, ist verfügbar. Weitere Informationen finden Sie auf der Seite <a href='/learn/certifications/exams/ai-102'>AI-102</a> Prüfungsdetails.</strong></font><br/><br/></div>
-  </div>
-  
-  Kandidaten für diese Prüfung sollten über Fachkenntnisse in kognitiven Diensten, maschinellems Lernen und Knowledge-Mining nutzen, um Microsoft exams Lösungen zu entwickeln und zu implementieren, die Verarbeitung natürlicher Sprache, gesprochener Sprache, Computervision und Konversations-AI umfassen.
-  
-  Zu den Aufgaben eines Azure AI-Ingenieurs gehören das Analysieren von Anforderungen für AI-Lösungen, das Empfehlen entsprechender Tools und Technologien sowie das Entwerfen und Implementieren von AI-Lösungen, die die Anforderungen an Skalierbarkeit und Leistung erfüllen.
-  
-  Azure AI Engineers übersetzen die Ideen von Lösungsarchitekten und arbeiten mit Datenwissenschaftlern, Datentechnikern, IoT-Spezialisten und software Entwicklern zusammen, um komplette End-to-End-Lösungen zu entwickeln.
-  
-  Ein Kandidat für diese Prüfung sollte über Kenntnisse und Erfahrung im Entwerfen und Implementieren von KI-Apps und Agenten verfügen, die Microsoft Azure Cognitive Services, Azure Bot-Service, Azure Cognitive Search und Datenspeicherung in Azure verwenden. Darüber hinaus sollten Kandidaten in der Lage sein, Lösungen zu empfehlen, die Open Source-Technologien verwenden, die Komponenten des Azure AI-Portfolios und die verfügbaren Datenspeicheroptionen zu verstehen und zu erkennen, wann eine benutzerdefinierte API entwickelt werden sollte, um bestimmte Anforderungen zu erfüllen.
-subTitle: 'Dieses Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben zu erfüllen: Analyse der Lösungsanforderungen, Entwurf von Lösungen, Integration von AI-Modellen in Lösungen sowie Bereitstellung und Verwaltung von Lösungen.'
+summary: >-
+  > [!IMPORTANT]
+
+  > DIESE PRÜFUNG WURDE AM 30. JUNI 2021 EINGESTELLT. Eine Ersatzprüfung, AI-102, ist verfügbar. Weitere Informationen finden Sie auf der Seite mit den Details zur [AI-102-Prüfung.](/learn/certifications/exams/ai-102)
+
+
+  Die Kandidaten für diese Prüfung sollten über Fachkenntnisse in den Bereichen Cognitive Services, Maschinelles Lernen und Knowledge Mining verfügen, um Ki-Lösungen von Microsoft zu entwerfen und zu implementieren, die Verarbeitung natürlicher Sprache, Sprache, maschinelles Sehen und konversationsgestützte KI betreffen.
+
+
+  Zu den Aufgaben eines Azure KI Engineers gehören die Analyse der Anforderungen für KI-Lösungen, das Empfehlen der geeigneten Tools und Technologien sowie das Entwerfen und Implementieren von KI-Lösungen, die skalierbarkeits- und leistungsanforderungen erfüllen.
+
+
+  Azure KI Engineers übersetzen die Vision von Lösungsarchitekten und arbeiten mit Data Scientists, Datentechnikern, IoT-Spezialisten und Softwareentwicklern zusammen, um vollständige End-to-End-Lösungen zu erstellen.
+
+
+  Ein Kandidat für diese Prüfung sollte über Kenntnisse und Erfahrung beim Entwerfen und Implementieren von KI-Apps und -Agents verfügen, die Microsoft Azure Cognitive Services, Azure Bot Service, Azure Cognitive Search und Datenspeicherung in Azure verwenden. Darüber hinaus sollte ein Kandidat Lösungen empfehlen können, die Open-Source-Technologien verwenden, die Komponenten des Azure KI-Portfolios und die verfügbaren Datenspeicheroptionen verstehen und verstehen, wann eine benutzerdefinierte API entwickelt werden sollte, um bestimmte Anforderungen zu erfüllen.
+subTitle: 'Diese Prüfung misst Ihre Fähigkeit, die folgenden technischen Aufgaben auszuführen: Analysieren der Lösungsanforderungen; Entwerfen von Lösungen; Integrieren von KI-Modellen in Lösungen und Bereitstellen und Verwalten von Lösungen.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
 locales:
@@ -27,9 +38,9 @@ locales:
 levels:
 - intermediate
 skills:
-- Lösungsanforderungen analysieren (25-30%)
-- Konzipieren von AI-Lösungen (40-45%)
-- Implementieren und Überwachen von AI-Lösungen (25-30%)
+- Analyze solution requirements (25-30%)
+- Design AI solutions (40-45%)
+- Implement and monitor AI solutions (25-30%)
 retirementDate: 06/30/2021
 roles:
 - ai-engineer
@@ -65,4 +76,3 @@ resources:
 - title: Prüfungsrichtlinien und FAQs
   description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
   href: ../certification-exam-policies.md
-

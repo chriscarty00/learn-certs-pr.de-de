@@ -3,43 +3,52 @@ title: 'MCSA: Windows Server 2012'
 metadata:
   title: 'MCSA: Windows Server 2012'
   description: 'MCSA: Windows Server 2012'
+  ms.openlocfilehash: 6aec8ea19b0092258cbfe4dae85fbf277c457e32
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137654769"
 uid: certification.mcsa-windows-server-certification
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>Diese Zertifizierung wurde eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>. Alle Zertifizierungen, die Sie vor deren Einstellung erworben haben, werden weiterhin auf Ihrem Transkript im<a href='https://aka.ms/certdashboard'> Zertifizierungs-Dashboard angezeigt</a>.</strong></font><br/><br/></div>
+iconUrl: /media/learn/certification/badges/mcsa-badge.svg
+summary: >-
+  > [!IMPORTANT]
 
-  Zeigen Sie, dass Sie über die notwendigen Basiskenntnisse zu Windows Server 2012 verfügen, um die IT-Kosten zu senken und einen höheren Geschäftsmehrwert zu leisten.
-subTitle: Zeigen Sie, dass Sie über die notwendigen Basiskenntnisse zu Windows Server 2012 verfügen, um die IT-Kosten zu senken und einen höheren Geschäftsmehrwert zu leisten.
+  > Diese Zertifizierung wurde zurückgezogen. Die aktuell verfügbaren Optionen finden Sie auf der [Seite Zertifizierungen und Examen durchsuchen](/learn/certifications/browse/). Alle Zertifizierungen, die Sie vor dem Datum ihrer Abschreibung erhalten haben, werden weiterhin auf Ihrem Transkript im [Zertifizierungsdashboard angezeigt.](https://aka.ms/certdashboard)
+
+
+  <br/>
+
+
+  Belegen Sie Ihre Kenntnisse über den primären Satz von Windows Server 2012, die erforderlich sind, um die IT-Kosten zu senken und einen mehrwertigen Geschäftswert zu bieten.
+subTitle: Belegen Sie Ihre Kenntnisse über den primären Satz von Windows Server 2012, die erforderlich sind, um die IT-Kosten zu senken und einen mehrwertigen Geschäftswert zu bieten.
+hideFishboneDiagram: true
 levels:
 - intermediate
 skills:
-- Installieren und Konfigurieren von Servern
-- Konfigurieren von Serverrollen und -funktionen
-- Hyper-V konfigurieren
-- Bereitstellen und Konfigurieren von Kernnetzwerkdiensten
+- Install and configure servers
+- Configure server roles and features
+- Configure Hyper-V
+- Deploy and configure core network services
 - Install and administer Active Directory
-- Erstellen und Verwalten von Gruppenrichtlinien
-- Bereitstellen, Verwalten und Pflegen von Servern
-- Datei- und Druckdienste konfigurieren
-- Netzwerkdienste und -zugriff konfigurieren
-- Eine Netzwerkrichtlinienserverinfrastruktur konfigurieren
-- Active Directory konfigurieren und verwalten
-- Gruppenrichtlinien konfigurieren und verwalten
-- Hochverfügbarkeit konfigurieren und verwalten
-- Datei- und Speicherlösungen konfigurieren
-- Implementierung von Geschäftskontinuität und Notfallwiederherstellung
-- Netzwerkdienste konfigurieren
-- Active Directory-Infrastruktur konfigurieren
-- Zugriffs- und Informationsschutz-Lösungen konfigurieren
+- Create and manage Group Policy
+- Deploy, Manage, and Maintain Servers
+- Configure File and Print Services
+- Configure Network Services and Access
+- Configure a Network Policy Server Infrastructure
+- Configure and Manage Active Directory
+- Configure and Manage Group Policy
+- Configure and Manage High Availability
+- Configure File and Storage Solutions
+- Implement Business Continuity and Disaster Recovery
+- Configure Network Services
+- Configure the Active Directory Infrastructure
+- Configure Access and Information Protection Solutions
 roles:
 - administrator
 type: mcsa
 products:
 - windows-server
-courses:
-- uid: course.20410
-- uid: course.20411
-- uid: course.20412
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIomH
 exams:
 - uid: exam.70-410
@@ -61,7 +70,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Erhalten Sie Ihren Microsoft-Zertifizierungsbadge, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md
-

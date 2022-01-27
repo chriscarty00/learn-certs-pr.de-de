@@ -1,27 +1,50 @@
 ### YamlMime:Examination
 title: Programming in C#
 metadata:
-  title: 'Exam 70-483: Programming in C#'
-  description: 'Exam 70-483: Programming in C#'
+  title: 'Prüfung 70-483: Programmierung in C #'
+  description: 'Prüfung 70-483: Programmierung in C #'
+  ms.openlocfilehash: 96bcf88a8092bb05dd99f01c9018de737fe8c526
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137657256"
 uid: exam.70-483
 displayName: 70-483
-summary: |+
-  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
+summary: >
+  > [!IMPORTANT]
 
-  Kandidaten für diese Prüfung sind Entwickler mit mindestens einem Jahr Erfahrung in der Programmierung essentieller Geschäftslogik für eine Vielzahl von Anwendungstypen, Hardware- und Softwareplattformen unter Verwendung von C#.
+  > Dieses Examen wurde am 31. Januar 2021 eingestellt. Die derzeit verfügbaren Optionen finden Sie auf der Seite [Zertifizierungen und Prüfungen durchsuchen.](/learn/certifications/browse/?resource_type=examination)
 
-  Die Kandidaten sollten auch über ein gründliches Verständnis der folgenden Punkte verfügen&#58;
-  - Verwalten von Programmabläufen und Ereignissen
+
+  <br/>
+
+  Kandidaten für diese Prüfung sind Entwickler, die mindestens ein Jahr Erfahrung mit der Programmierung grundlegender Geschäftslogik für eine Vielzahl von Anwendungstypen, Hardware und Softwareplattformen mit C# haben.
+
+
+  Kandidaten sollten auch über ein umfassendes Verständnis der folgenden&#58;
+
+  - Verwalten von Programmablauf und Ereignissen
+
   - Asynchrone Programmierung und Threading
-  - Datenprüfung und Arbeit mit Datensammlungen einschließlich LINQ
-  - Behandlung von Fehlern und Ausnahmen
-  - Arbeiten mit Anordnungen und Kollektionen
-  - Arbeiten mit Variablen, Operatoren und Ausdrucksformen
-  - Arbeiten mit Klassen und Methoden
-  - Entscheidungs- und Wiederholungsstatements
 
-  <div style='font-weight&#58; bold;'><br/>Hinweis&#58; Prüfungs-Updates gibt es dem 14. Dezember 2017. Laden Sie den Änderungsbeleg für Prüfung Nr 483 herunter und lesen Sie ihn durch, um mehr über diese Änderungen und deren Auswirkungen auf die Kompetenzbemessung zu erfahren.</div>
-subTitle: Kandidaten für diese Prüfung sind Entwickler mit mindestens einem Jahr Erfahrung in der Programmierung essentieller Geschäftslogik für eine Vielzahl von Anwendungstypen, Hardware- und Softwareplattformen unter Verwendung von C#.
+  - Datenvalidierung und Arbeiten mit Datensammlungen, einschließlich LINQ
+
+  - Behandlung von Fehlern und Ausnahmen
+
+  - Arbeiten mit Arrays und Sammlungen
+
+  - Arbeiten mit Variablen, Operatoren und Ausdrücken
+
+  - Arbeiten mit Klassen und Methoden
+
+  - Entscheidungs- und Iterations-Anweisungen
+
+
+  > [!IMPORTANT]
+
+  > Hinweis&#58; Es gibt Prüfungupdates, die ab dem 14. Dezember 2017 gültig sind. Weitere Informationen zu diesen Änderungen und deren Auswirkungen auf die gemessenen Qualifikationen finden Sie im Dokument zur Änderung der Prüfung 483.
+subTitle: Kandidaten für diese Prüfung sind Entwickler, die mindestens ein Jahr Erfahrung mit der Programmierung grundlegender Geschäftslogik für eine Vielzahl von Anwendungstypen, Hardware und Softwareplattformen mit C# haben.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMh
 practiceTestUrl: https://www.mindhub.com/70-483-Programming-in-C-p/mu-70-483_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -36,17 +59,15 @@ locales:
 levels:
 - intermediate
 skills:
-- Programmablauf verwalten (25-30%)
-- Typen erstellen und verwenden (25-30%)
-- Debuggen von Anwendungen und Implementieren von Sicherheit (25-30%)
-- Datenzugriff implementieren (25-30%)
+- Manage Program Flow (25-30%)
+- Create and Use Types (25-30%)
+- Debug Applications and Implement Security (25-30%)
+- Implement Data Access (25-30%)
 retirementDate: 01/31/2021
 roles:
 - developer
 products:
 - vs
-courses:
-- uid: course.20483
 relatedCertifications:
 - related:
     uid: certification.mcsa-universal-windows-platform
@@ -60,9 +81,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

@@ -1,17 +1,31 @@
 ### YamlMime:Examination
 title: Installing and Configuring Windows Server 2012
 metadata:
-  title: 'Exam 70-410: Installing and Configuring Windows Server 2012'
-  description: 'Exam 70-410: Installing and Configuring Windows Server 2012'
+  title: 'Prüfung 70-410: Installieren und Konfigurieren von Windows Server 2012'
+  description: 'Prüfung 70-410: Installieren und Konfigurieren von Windows Server 2012'
+  ms.openlocfilehash: 470500212472fc5aed6ea430aead87487cd24df9
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137657619"
 uid: exam.70-410
 displayName: 70-410
-summary: |-
-  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  Diese Prüfung ist die erste von drei Prüfungen, welche die erforderlichen Fähigkeiten und Kenntnisse zur Implementierung einer zentralen Infrastruktur für Windows Server 2012 in einer bestehenden Unternehmensumgebung testen. Das Bestehen dieser Prüfung bestätigt die Fähigkeit eines Kandidaten, Windows Server 2012 Kerndienste wie Active Directory und die Netzwerkdienste zu implementieren und zu konfigurieren. Das Bestehen dieser Prüfung, zusammen mit den anderen beiden Prüfungen, bestätigt, dass der Kandidat über die erforderlichen Fähigkeiten und Kenntnisse für die Implementierung, Verwaltung, Wartung und Bereitstellung von Diensten und Infrastruktur in einer Windows Server 2012-Umgebung verfügt.
+  > Dieses Examen wurde am 31. Januar 2021 eingestellt. Die derzeit verfügbaren Optionen finden Sie auf der [Seite Zertifizierungen und Prüfungen durchsuchen.](/learn/certifications/browse/?resource_type=examination)
 
-  <div style='font-weight&#58; bold;'><br/>Ab Januar 2014 umfasst diese Prüfung folgende Inhalte <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLTr">Windows Server 2012 R2</a>.</div>
-subTitle: Diese Prüfung ist die erste von drei Prüfungen, welche die erforderlichen Fähigkeiten und Kenntnisse zur Implementierung einer zentralen Infrastruktur für Windows Server 2012 in einer bestehenden Unternehmensumgebung testen. Das Bestehen dieser Prüfung bestätigt die Fähigkeit eines Kandidaten, Windows Server 2012 Kerndienste wie Active Directory und die Netzwerkdienste zu implementieren und zu konfigurieren. Das Bestehen dieser Prüfung, zusammen mit den anderen beiden Prüfungen, bestätigt, dass der Kandidat über die erforderlichen Fähigkeiten und Kenntnisse für die Implementierung, Verwaltung, Wartung und Bereitstellung von Diensten und Infrastruktur in einer Windows Server 2012-Umgebung verfügt.
+
+  <br/>
+
+  Diese Prüfung ist Der erste Teil einer Reihe von drei Prüfungen, die die Qualifikationen und Kenntnisse testen, die erforderlich sind, um eine kernige Windows Server 2012 Infrastruktur in einer vorhandenen Unternehmensumgebung zu implementieren. Das Bestehen dieser Prüfung überprüft die Fähigkeit eines Kandidaten, Windows Server 2012 Kerndiensten wie Active Directory und den Netzwerkdiensten zu implementieren und zu konfigurieren. Das Bestehen dieser Prüfung zusammen mit den anderen beiden Prüfungen bestätigt, dass ein Kandidat über die Qualifikationen und Kenntnisse verfügt, die für die Implementierung, Verwaltung, Wartung und Bereitstellung von Diensten und Infrastruktur in einer Windows Server 2012 Umgebung erforderlich sind.
+
+
+  > [!IMPORTANT]
+
+  > Ab Januar 2014 umfasst diese Prüfung Inhalte, die [Windows Server 2012 R2 abdecken.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLTr)
+subTitle: Diese Prüfung ist Der erste Teil einer Reihe von drei Prüfungen, die die Qualifikationen und Kenntnisse testen, die erforderlich sind, um eine kernige Windows Server 2012 Infrastruktur in einer vorhandenen Unternehmensumgebung zu implementieren. Das Bestehen dieser Prüfung überprüft die Fähigkeit eines Kandidaten, Windows Server 2012 Kerndiensten wie Active Directory und den Netzwerkdiensten zu implementieren und zu konfigurieren. Das Bestehen dieser Prüfung zusammen mit den anderen beiden Prüfungen bestätigt, dass ein Kandidat über die Qualifikationen und Kenntnisse verfügt, die für die Implementierung, Verwaltung, Wartung und Bereitstellung von Diensten und Infrastruktur in einer Windows Server 2012 Umgebung erforderlich sind.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJk
 practiceTestUrl: https://www.mindhub.com/70-410-Installing-and-Configuring-Windows-Server-p/mu-70-410_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -25,19 +39,17 @@ locales:
 levels:
 - intermediate
 skills:
-- Installieren und Konfigurieren von Servern (15-20%)
-- Konfigurieren von Serverrollen und -funktionen (15-20%)
-- Hyper-V konfigurieren (15-20%)
-- Bereitstellen und Konfigurieren von Kernnetzwerkdiensten (15-20%)
+- Install and configure servers (15–20%)
+- Configure server roles and features (15–20%)
+- Configure Hyper-V (15–20%)
+- Deploy and configure core network services (15–20%)
 - Install and administer Active Directory (15–20%)
-- Erstellen und Verwalten von Gruppenrichtlinien (15-20%)
+- Create and manage Group Policy (15–20%)
 retirementDate: 01/31/2021
 roles:
 - administrator
 products:
 - windows-server
-courses:
-- uid: course.20410
 relatedCertifications:
 - related:
     uid: certification.mcsa-windows-server-certification
@@ -49,9 +61,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

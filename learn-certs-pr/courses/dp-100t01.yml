@@ -4,12 +4,12 @@ metadata:
   title: 'Kurs DP-100T01--A: Entwerfen und Implementieren einer Data Science-Lösung in Azure'
   description: 'Kurs DP-100T01--A: Entwerfen und Implementieren einer Data Science-Lösung in Azure'
   iltScheduling: true
-  ms.openlocfilehash: 019463950200cf314b017b2a062aa5af686074f6
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 97b5ac4d01745afa203dbba9de2105c75c81c018
+  ms.sourcegitcommit: ac658d0294a354cec251bb1835b62222fea53b6f
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132438357"
+  ms.lasthandoff: 01/19/2022
+  ms.locfileid: "136955299"
 uid: course.dp-100t01
 courseNumber: DP-100T01
 hoursToComplete: 72
@@ -28,6 +28,9 @@ products:
 - azure
 exams:
 - uid: exam.dp-100
+studyGuide:
+- uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
+- uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
 summary: >-
   Lernen Sie, wie man mit Azure Machine Learning Lösungen im Cloudmaßstab bedient. In diesem Kurs lernen Sie, Ihr vorhandenes Wissen über Python und maschinelles Lernen zu nutzen, um die Datenaufnahme und -aufbereitung, die Modellschulung und -bereitstellung sowie die Überwachung von maschinellen Lernlösungen in Microsoft Azure zu verwalten.
 

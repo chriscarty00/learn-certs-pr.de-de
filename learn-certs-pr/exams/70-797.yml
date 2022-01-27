@@ -1,45 +1,57 @@
 ### YamlMime:Examination
-title: Configuring Windows Devices (pilot)
+title: Konfigurieren von Windows-Geräten (Pilot)
 metadata:
-  title: 'Exam 70-797: Configuring Windows Devices (pilot)'
-  description: 'Exam 70-797: Configuring Windows Devices (pilot)'
+  title: 'Prüfung 70-797: Konfigurieren von Windows-Geräten (Pilot)'
+  description: 'Prüfung 70-797: Konfigurieren von Windows-Geräten (Pilot)'
+  ms.openlocfilehash: 5f4af71a9103e8280552092daf3b2948afa78100
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658433"
 uid: exam.70-797
 displayName: 70-797
-summary: |-
-  Gegenstand dieser Prüfung sind die grundlegenden Kenntnisse und Fähigkeiten eines Kandidaten im Aufbau fester Identitäten, Schutz von Inhalten (Schutz vor Datenverlust), in der Verwaltungsrichtlinie für mobile Geräte, der Virtualisierung mit Hyper-V, der Anwendungsverwaltung über das Unternehmensportal und den Windows Store. Die Kandidaten werden im Hinblick auf Windows 10-Sicherheit und integrierte Azure-Funktionen bewertet.
+summary: >-
+  > [!IMPORTANT]
 
-  Zusätzlich zu ihrer Berufserfahrung sollten Kandidaten, die die Prüfung ablegen, bereits über die folgenden technischen Kenntnisse verfügen&#58;
+  > DIESE PRÜFUNG WIRD EINGESTELLT. Die aktuell verfügbaren Optionen finden Sie auf der [Seite Zertifizierungen und Examen durchsuchen](/learn/certifications/browse/?resource_type=examination).
 
-  - Erfahrung mit der Windows-Desktopverwaltung, Wartung und Fehlerbehebung
-  - Grundlegende Erfahrungen und Kenntnisse von Windows-Netzwerktechnologien
-  - Grundlegende Kenntnisse über Aktives Verzeichnis und Microsoft Intune
 
-  Bewerber können dieses examens ablegen und die Voraussetzungen erfüllen, indem sie gleichwertige Kenntnisse und Fähigkeiten durch praktische Erfahrung als Windows-Gerätesupporttechniker oder einem Windows-Gerätesystemadministrator sammeln.
-subTitle: Gegenstand dieser Prüfung sind die grundlegenden Kenntnisse und Fähigkeiten eines Kandidaten im Aufbau fester Identitäten, Schutz von Inhalten (Schutz vor Datenverlust), in der Verwaltungsrichtlinie für mobile Geräte, der Virtualisierung mit Hyper-V, der Anwendungsverwaltung über das Unternehmensportal und den Windows Store. Die Kandidaten werden im Hinblick auf Windows 10-Sicherheit und integrierte Azure-Funktionen bewertet.
+  Diese Prüfung überprüft die grundlegenden Kenntnisse und Fähigkeiten eines Kandidaten zum Erstellen solider Identitäten, zum Schutz von Inhalten (Schutz vor Datenverlust), zur Verwaltung mobiler Geräte, zur Virtualisierung mit Hyper-V, zur Anwendungsverwaltung mithilfe der Unternehmensportal und der Windows Store. Kandidaten werden zu Windows 10 Sicherheit und integrierten Azure-Features ausgewertet.
+
+
+  Zusätzlich zu ihrer professionellen Erfahrung sollten Kandidaten, die diese Prüfung absolvieren, bereits über die folgenden technischen Kenntnisse&#58;
+
+
+  - Erfahrung mit Windows Desktopverwaltung, Wartung und Problembehandlung
+
+  - Grundkenntnisse und Kenntnisse Windows Netzwerktechnologien
+
+  - Einführende Kenntnisse zu Active Directory und Microsoft Intune
+
+
+  Kandidaten können an dieser Prüfung teilnehmen und die Voraussetzungen erfüllen, indem sie äquivalente Kenntnisse und Qualifikationen durch praktische Erfahrung als Windows Gerätesupporttechniker oder als Windows Gerätesystemadministrator erwerben.
+subTitle: Diese Prüfung überprüft die grundlegenden Kenntnisse und Fähigkeiten eines Kandidaten zum Erstellen solider Identitäten, zum Schutz von Inhalten (Schutz vor Datenverlust), zur Verwaltung mobiler Geräte, zur Virtualisierung mit Hyper-V, zur Anwendungsverwaltung mithilfe der Unternehmensportal und der Windows Store. Kandidaten werden zu Windows 10 Sicherheit und integrierten Azure-Features ausgewertet.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjT
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=de-de&examcode=797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
 locales:
 - en
 levels:
 - beginner
 skills:
-- Identitäten verwalten (13%)
-- Planen der Desktop- und Gerätebereitstellung (13%)
-- Planen und Implementieren einer Microsoft Intune-Geräteverwaltungslösung (11%)
-- Konfigurieren von Netzwerken (11%)
-- Konfigurieren von Speicher (10%)
-- Verwalten von Datenzugriff und -schutz (11%)
-- Verwalten des Remote-Zugriffs (10%)
-- Verwalten von Apps (11%)
-- Verwalten von Updates und Wiederherstellung (10%)
+- Manage identity (13%)
+- Plan desktop and device deployment (13%)
+- Plan and implement a Microsoft Intune device management solution (11%)
+- Configure networking (11%)
+- Configure storage (10%)
+- Manage data access and protection (11%)
+- Manage remote access (10%)
+- Manage apps (11%)
+- Manage updates and recovery (10%)
 roles:
 - administrator
 products:
 - windows
-relatedCertifications:
-- related:
-    uid: none
 resources:
 - title: Exam Replay
   description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
@@ -53,4 +65,3 @@ resources:
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

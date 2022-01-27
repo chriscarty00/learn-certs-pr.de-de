@@ -3,12 +3,12 @@ title: Data Engineering on Microsoft Azure
 metadata:
   title: 'Kurs DP-203T00--A: Data Engineering on Microsoft Azure'
   description: 'Kurs DP-203T00--A: Data Engineering on Microsoft Azure'
-  ms.openlocfilehash: f7881c24507499d88c68687f4552e5ce67832919
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: b21228280d60dc4636db8acc96c00be9035d5fae
+  ms.sourcegitcommit: ac658d0294a354cec251bb1835b62222fea53b6f
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132113197"
+  ms.lasthandoff: 01/19/2022
+  ms.locfileid: "136955081"
 uid: course.dp-203t00
 courseNumber: DP-203T00
 hoursToComplete: 96
@@ -39,6 +39,38 @@ products:
 - azure
 exams:
 - uid: exam.dp-203
+studyGuide:
+- uid: learn.wwl.introduction-to-azure-synapse-analytics
+- uid: learn.wwl.describe-azure-databricks
+- uid: learn.wwl.describe-azure-databricks-delta-lake-architecture
+- uid: learn.data-ai.introduction-to-azure-data-lake-storage
+- uid: learn.data-ai.introduction-to-data-streaming
+- uid: learn.wwl.explore-azure-synapse-serverless-sql-pools-capabilities
+- uid: learn.wwl.query-data-lake-using-azure-synapse-serverless-sql-pools
+- uid: learn.wwl.create-metadata-objects-azure-synapse-serverless-sql-pools
+- uid: learn.wwl.secure-data-manage-users-azure-synapse-serverless-sql-pools
+- uid: learn.wwl.read-write-data-azure-databricks
+- uid: learn.wwl.work-dataframes-azure-databricks
+- uid: learn.wwl.work-dataframes-advanced-methods-azure-databricks
+- uid: learn.wwl.understand-big-data-engineering-with-apache-spark-azure-synapse-analytics
+- uid: learn.wwl.ingest-data-with-apache-spark-notebooks-azure-synapse-analytics
+- uid: learn.wwl.transform-data-with-dataframes-apache-spark-pools-azure-synapse-analytics
+- uid: learn.wwl.integrate-sql-apache-spark-pools-azure-synapse-analytics
+- uid: learn.wwl.use-data-loading-best-practices-azure-synapse-analytics
+- uid: learn.wwl.petabyte-scale-ingestion-azure-data-factory
+- uid: learn.wwl.integrate-data-azure-data-factory
+- uid: learn.wwl.perform-code-free-transformation-scale-azure-data-factory
+- uid: learn.wwl.orchestrate-data-movement-transformation-azure-data-factory
+- uid: learn.wwl.design-hybrid-transactional-analytical-processing-using-azure-synapse-analytics
+- uid: learn.wwl.configure-azure-synapse-link-with-azure-cosmos-db
+- uid: learn.wwl.query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics
+- uid: learn.wwl.query-azure-cosmos-db-with-sql-serverless-for-azure-synapse-analytics
+- uid: learn.wwl.secure-data-warehouse-azure-synapse-analytics
+- uid: learn.azure-security.configure-and-manage-azure-key-vault
+- uid: learn.wwl.implement-compliance-controls-for-sensitive-data
+- uid: learn.enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs
+- uid: learn.data-ai.transform-data-with-azure-stream-analytics
+- uid: learn.wwl.process-streaming-data-azure-databricks-structured-streaming
 summary: >-
   In diesem Kurs erfahren die Kursteilnehmer mehr über die Datentechnik in Bezug auf die Arbeit mit Batch- und Echtzeit-Analyselösungen unter Verwendung von Azure-Datenplattformtechnologien. Die Teilnehmer beginnen mit Grundlagen der wichtigsten Computer- und Speichertechnologien, die zum Erstellen einer analytischen Lösung verwendet werden. Die Teilnehmer lernen, wie man Daten, die in Dateien in einem Datenmeer gespeichert sind, interaktiv untersuchen kann. Sie lernen die verschiedenen Erfassungstechniken kennen, die zum Laden von Daten mit der Apache Spark-Funktion in Azure Synapse Analytics oder Azure Databricks verwendet werden können, und erfahren, wie Sie mithilfe von Azure Data Factory oder Azure Synapse-Pipelines die Erfassung durchführen. Die Teilnehmer lernen auch die verschiedenen Möglichkeiten kennen, Daten mit denselben Technologien zu transformieren, mit denen sie aufgenommen werden. Sie werden verstehen, wie wichtig es ist, Sicherheit zu implementieren, um sicherzustellen, dass die Daten in Ruhe oder während des Transports geschützt sind. Anschließend wird gezeigt, wie man ein Echtzeit-Analysesystem zur Erstellung von Echtzeit-Analyselösungen erstellt.
 

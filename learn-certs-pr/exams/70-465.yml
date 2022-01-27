@@ -1,17 +1,31 @@
 ### YamlMime:Examination
 title: Designing Database Solutions for Microsoft SQL Server
 metadata:
-  title: 'Exam 70-465: Designing Database Solutions for Microsoft SQL Server'
-  description: 'Exam 70-465: Designing Database Solutions for Microsoft SQL Server'
+  title: 'Prüfung 70-465: Entwerfen von Datenbanklösungen für Microsoft SQL Server'
+  description: 'Prüfung 70-465: Entwerfen von Datenbanklösungen für Microsoft SQL Server'
+  ms.openlocfilehash: e38db4edc637ea29f2732393b9524dae55cb49d2
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137657245"
 uid: exam.70-465
 displayName: 70-465
-summary: |-
-  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  Diese Prüfung ist für Datenbankexperten gedacht, die mit der Entwicklung und der Erstellung von Datenbanklösungen im Unternehmen betraut sind. Sie sind für die Erstellung der Pläne und Entwürfe für die Datenbankstruktur, den Speicher, der Objekte und Server zuständig. Sie erstellen den Plan für die Umgebung, in der die Datenbanklösung ausgeführt wird.
+  > Dieses Examen wurde am 31. Januar 2021 eingestellt. Die derzeit verfügbaren Optionen finden Sie auf der Seite [Zertifizierungen und Prüfungen durchsuchen.](/learn/certifications/browse/?resource_type=examination)
 
-  <div style='font-weight&#58; bold;'><br/>Ab dem 18. Februar 2016 umfasst diese Prüfung Inhalte, die sowohl SQL Server 2012 als auch 2014 abdecken. Bitte beachten Sie, dass diese Prüfung keine Fragen zu Funktionen oder Fähigkeiten enthält, die nur im Produkt SQL Server 2012 enthalten sind. Für weitere Informationen <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLUO">dladen Sie bitte dieses Dokument herunter und lesen Sie es durch</a>.</div>
-subTitle: Diese Prüfung ist für Datenbankexperten gedacht, die mit der Entwicklung und der Erstellung von Datenbanklösungen im Unternehmen betraut sind. Sie sind für die Erstellung der Pläne und Entwürfe für die Datenbankstruktur, den Speicher, der Objekte und Server zuständig. Sie erstellen den Plan für die Umgebung, in der die Datenbanklösung ausgeführt wird.
+
+  <br/>
+
+  Diese Prüfung richtet sich an Datenbankexperten, die Datenbanklösungen in der Organisation entwerfen und erstellen. Sie sind für die Erstellung von Plänen und Entwürfen für Datenbankstruktur, Speicher, Objekte und Server verantwortlich. Sie erstellen den Plan für die Umgebung, in der die Datenbanklösung ausgeführt wird.
+
+
+  > [!IMPORTANT]
+
+  > Ab dem 18. Februar 2016 enthält diese Prüfung Inhalte, die sowohl SQL Server 2012 als auch 2014 abdecken. Beachten Sie, dass diese Prüfung keine Fragen zu Features oder Funktionen enthält, die nur im Produkt SQL Server 2012 vorhanden sind. Weitere Informationen finden Sie in [diesem Dokument.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLUO)
+subTitle: Diese Prüfung richtet sich an Datenbankexperten, die Datenbanklösungen in der Organisation entwerfen und erstellen. Sie sind für die Erstellung von Plänen und Entwürfen für Datenbankstruktur, Speicher, Objekte und Server verantwortlich. Sie erstellen den Plan für die Umgebung, in der die Datenbanklösung ausgeführt wird.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t560
 locales:
@@ -24,17 +38,15 @@ locales:
 levels:
 - advanced
 skills:
-- Entwerfen einer Datenbankstruktur (25-30%)
-- Entwerfen von Datenbanken und Datenbankobjekten (30-35%)
-- Entwurf der Datenbanksicherheit (10-15%)
-- Entwurf einer Lösung zur Fehlerbehebung und Optimierung (25-30%)
+- Design a database structure (25-30%)
+- Design databases and database objects (30-35%)
+- Design database security (10-15%)
+- Design a troubleshooting and optimization solution (25-30%)
 retirementDate: 01/31/2021
 roles:
 - data-engineer
 products:
 - sql-server
-courses:
-- uid: course.20465
 relatedCertifications:
 - related:
     uid: certification.mcse-data-management-analytics
@@ -46,9 +58,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

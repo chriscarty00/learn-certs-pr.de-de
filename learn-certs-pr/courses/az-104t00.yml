@@ -4,12 +4,12 @@ metadata:
   title: 'Kurs AZ-104T00--A: Microsoft Azure Administrator'
   description: 'Kurs AZ-104T00--A: Microsoft Azure Administrator'
   iltScheduling: true
-  ms.openlocfilehash: 0c8279c3f815276bc462251bdfe46b8df3b16362
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: a6bf3e88ef63f22617ed6d0eb152e462581bae81
+  ms.sourcegitcommit: 7d58303fd1a712a89a6ae3b5b62a972702f71b13
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132438379"
+  ms.lasthandoff: 01/19/2022
+  ms.locfileid: "136970713"
 uid: course.az-104t00
 courseNumber: AZ-104T00
 hoursToComplete: 96
@@ -25,6 +25,43 @@ products:
 - azure
 exams:
 - uid: exam.az-104
+studyGuide:
+- uid: learn.wwl.configure-azure-active-directory
+- uid: learn.wwl.configure-user-group-accounts
+- uid: learn.wwl.configure-subscriptions
+- uid: learn.wwl.configure-azure-policy
+- uid: learn.wwl.configure-role-based-access-control
+- uid: learn.wwl.configure-azure-resources-tools
+- uid: learn.wwl.use-azure-resource-manager
+- uid: learn.wwl.configure-resources-arm-templates
+- uid: learn.wwl.configure-virtual-networks
+- uid: learn.wwl.configure-network-security-groups
+- uid: learn.wwl.configure-azure-firewall
+- uid: learn.wwl.configure-azure-dns
+- uid: learn.wwl.configure-vnet-peering
+- uid: learn.wwl.configure-vpn-gateway
+- uid: learn.wwl.configure-expressroute-virtual-wan
+- uid: learn.wwl.configure-network-routing-endpoints
+- uid: learn.wwl.configure-azure-load-balancer
+- uid: learn.wwl.configure-azure-application-gateway
+- uid: learn.wwl.configure-storage-accounts
+- uid: learn.wwl.configure-blob-storage
+- uid: learn.wwl.configure-storage-security
+- uid: learn.wwl.configure-azure-files-file-sync
+- uid: learn.wwl.configure-storage-tools
+- uid: learn.wwl.configure-virtual-machines
+- uid: learn.wwl.configure-virtual-machine-availability
+- uid: learn.wwl.configure-virtual-machine-extensions
+- uid: learn.wwl.configure-app-service-plans
+- uid: learn.wwl.configure-azure-app-services
+- uid: learn.wwl.configure-azure-container-instances
+- uid: learn.wwl.configure-azure-kubernetes-service
+- uid: learn.wwl.configure-file-folder-backups
+- uid: learn.wwl.configure-virtual-machine-backups
+- uid: learn.wwl.configure-azure-monitor
+- uid: learn.wwl.configure-azure-alerts
+- uid: learn.wwl.configure-log-analytics
+- uid: learn.wwl.configure-network-watcher
 summary: >-
   In diesem Kurs lernen IT-Expert*innen, wie sie ihre Azure-Abonnements verwalten, Identitäten sichern, die Infrastruktur verwalten, virtuelle Netzwerke konfigurieren, Azure und lokale Sites verbinden, Netzwerkdatenverkehr verwalten, Speicherlösungen implementieren, VMs erstellen und skalieren, Web-Apps und Container implementieren, Daten sichern und freigeben sowie Ihre Lösung überwachen können.
 
@@ -34,24 +71,24 @@ summary: >-
 
   Dieser Kurs ist für Azure-Administrator*innen konzipiert. Der Azure-Administrator implementiert, verwaltet und überwacht die Identität, Governance, den Speicher, Compute und virtuelle Netzwerke in einer Cloudumgebung. Der Azure-Administrator führt je nach Bedarf die Bereitstellung, Dimensionierung, Überwachung und Anpassung von Ressourcen durch.
 prerequisitesSection: >-
-  Erfolgreiche Azure-Administratoren starten diese Rolle mit Erfahrung in den Bereichen Virtualisierung, Netzwerk, Identität und Speicher.
+  Erfolgreiche Azure-Administratoren beginnen diese Rolle mit Erfahrung in Virtualisierung, Netzwerk, Identität und Speicher.
 
 
-  *   Kenntnisse über &nbsp; lokale Virtualisierungstechnologien, einschließlich: VMs, virtuelle Netzwerke,
+  *   Kenntnisse &nbsp; der lokalen Virtualisierungstechnologien, einschließlich: VMs, virtuelle Netzwerke,
 
 
 
   und virtuelle Festplatten.
 
 
-  *   Grundlegendes zu &nbsp; Netzwerkkonfigurationen, einschließlich TCP/IP, Domain Name System (DNS),
+  *   Grundlegendes &nbsp; zu Netzwerkkonfigurationen, einschließlich TCP/IP, Domain Name System (DNS),
 
 
 
   virtuelle private Netzwerke (VPNs), Firewalls und Verschlüsselungstechnologien.
 
 
-  *   Grundlegendes zu &nbsp; Active Directory-Konzepten, einschließlich Benutzern, Gruppen und rollenbasiertem Zugriff
+  *   Grundlegendes &nbsp; zu Active Directory-Konzepten, einschließlich Benutzern, Gruppen und rollenbasiertem Zugriff
 
 
 
@@ -68,16 +105,16 @@ prerequisitesSection: >-
   Diese kostenlose Onlineschulung vermittelt Ihnen die Erfahrung, die Sie benötigen, um in diesem Kurs erfolgreich zu sein.
 
 
-  *   [Azure Fundamentals Part 1: Describe core Azure concepts – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+  *   [Azure-Grundlagen – Teil 1: Beschreiben der wichtigsten Azure-Konzepte – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
 
 
-  *   [Azure Fundamentals Part 2: Describe core Azure services – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
+  *   [Azure-Grundlagen – Teil 2: Beschreiben der wichtigsten Azure-Dienste – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
 
 
-  *   [Azure Fundamentals Part 3: Describe core solutions and management tools on Azure – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
+  *   [Azure-Grundlagen – Teil 3: Beschreiben grundlegender Lösungen und Verwaltungstools in Azure – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
 
 
-  *   [Azure-Grundlagen – Teil 4: Beschreiben allgemeiner Sicherheits- und Netzwerksicherheitsfeatures – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-general-security-network-security-features/)
+  *   [Azure-Grundlagen – Teil 4: Beschreiben der allgemeinen Sicherheit und von Netzwerksicherheitsfeatures – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-general-security-network-security-features/)
 
 
   *   [Azure-Grundlagen – Teil 5: Beschreiben der Features für Identität, Governance, Datenschutz und Compliance](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
@@ -86,7 +123,7 @@ prerequisitesSection: >-
   *   [Azure-Grundlagen – Teil 6: Beschreiben von Azure Cost Management und der Vereinbarungen zum Servicelevel](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
 
 
-  *   [AZ-104: Voraussetzungen für Azure-Administratoren – Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
+  *   [AZ-104: Voraussetzungen für Azure-Administratoren – Microsoft Learn | Microsoft-Dokumentation](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: >-
   ### <a name="module-1-identity"></a>Modul 1: Identität
 
@@ -154,13 +191,13 @@ outlineSection: >-
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Implementieren und Verwalten von Azure-Abonnements und -Konten
+  *   Implementieren und Verwalten von Azure-Abonnements und -Konten.
 
 
-  *   Implementieren Sie Azure Policy, einschließlich benutzerdefinierter Richtlinien.
+  *   Implementieren Azure Policy, einschließlich benutzerdefinierter Richtlinien.
 
 
-  *   Verwenden Sie RBAC, um Berechtigungen zuzuweisen.
+  *   Verwenden Sie RBAC zum Zuweisen von Berechtigungen.
 
 
 
@@ -189,13 +226,13 @@ outlineSection: >-
   ####
 
 
-  #### <a name="lab--manage-azure-resources-by-using-azure-powershell-optional"></a>Lab: Verwalten von Azure-Ressourcen mithilfe von Azure PowerShell (optional)
+  #### <a name="lab--manage-azure-resources-by-using-azure-powershell-optional"></a>Lab: Verwalten von Azure-Ressourcen mit Azure PowerShell (optional)
 
 
   ####
 
 
-  #### <a name="lab--manage-azure-resources-by-using-azure-cli-optional"></a>Lab: Verwalten von Azure-Ressourcen mithilfe von Azure CLI (optional)
+  #### <a name="lab--manage-azure-resources-by-using-azure-cli-optional"></a>Lab: Verwalten von Azure-Ressourcen mit Azure CLI (optional)
 
 
   ####
@@ -210,16 +247,16 @@ outlineSection: >-
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Nutzen Sie Azure Resource Manager, um Ressourcen zu organisieren.
+  *   Nutzen Azure Resource Manager zum Organisieren von Ressourcen.
 
 
   *   Verwenden Sie das Azure-Portal und Cloud Shell.
 
 
-  *   Verwenden Sie Azure PowerShell und cli.
+  *   Verwenden Azure PowerShell und CLI.
 
 
-  *   Verwenden Sie ARM-Vorlagen zum Bereitstellen von Ressourcen.
+  *   Verwenden Sie ARM-Vorlagen, um Ressourcen bereitzustellen.
 
 
 
@@ -254,13 +291,13 @@ outlineSection: >-
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Implementieren sie virtuelle Netzwerke und Subnetze.
+  *   Implementieren Sie virtuelle Netzwerke und Subnetze.
 
 
-  *   Konfigurieren sie Netzwerksicherheitsgruppen.
+  *   Konfigurieren Sie Netzwerksicherheitsgruppen.
 
 
-  *   Konfigurieren sie Azure Firewall.
+  *   Konfigurieren Azure Firewall.
 
 
   *   Konfigurieren Sie private und öffentliche DNS-Zonen.
@@ -270,7 +307,7 @@ outlineSection: >-
   ### <a name="module-5-intersite-connectivity"></a>Modul 5: Standortübergreifende Konnektivität
 
 
-  In diesem Modul erfahren Sie mehr über Standortübergreifende Konnektivitätsfeatures wie VNET-Peering, Virtual Network Gateways und Site-to-Site-Verbindungen.
+  In diesem Modul erfahren Sie mehr über die Features der standortübergreifenden Konnektivität, einschließlich VNET-Peering, Virtual Network Gateways und Site-to-Site-Verbindungen.
 
 
   #### <a name="lessons"></a>Lektionen
@@ -295,20 +332,20 @@ outlineSection: >-
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
 
-  *   Konfigurieren sie das VNET-Peering.
+  *   Konfigurieren Sie das VNET-Peering.
 
 
-  *   Konfigurieren von VPN-Gateways.
+  *   Konfigurieren Sie VPN-Gateways.
 
 
-  *   Wählen Sie die geeignete Standortübergreifende Konnektivitätslösung aus.
+  *   Wählen Sie die entsprechende Standortkonnektivitätslösung aus.
 
 
 
   ### <a name="module-6-network-traffic-management"></a>Modul 6: Verwaltung des Netzwerkdatenverkehrs
 
 
-  In diesem Modul erfahren Sie mehr über Strategien für Netzwerkdatenverkehr, einschließlich Netzwerkrouting und Dienstendpunkten, Azure Load Balancer und Azure Application Gateway.
+  In diesem Modul erfahren Sie mehr über Strategien für den Netzwerkdatenverkehr, einschließlich Netzwerkrouting und Dienstendpunkte, Azure Load Balancer und Azure Application Gateway.
 
 
   #### <a name="lessons"></a>Lektionen
@@ -465,7 +502,7 @@ outlineSection: >-
   ####
 
 
-  #### <a name="lab--implement-azure-kubernetes-service"></a>Lab: Implementieren von Azure Kubernetes Service
+  #### <a name="lab--implement-azure-kubernetes-service"></a>Lab: Implementieren Azure Kubernetes Service
 
 
   ####

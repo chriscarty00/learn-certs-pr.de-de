@@ -1,21 +1,35 @@
 ### YamlMime:Examination
-title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (Konfigurieren und Betreiben einer Hybrid Cloud mit Microsoft Azure Stack Hub)
 metadata:
-  title: 'Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
-  description: 'Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  title: 'Prüfung 70-537: Konfigurieren und Betreiben einer Hybrid Cloud mit Microsoft Azure Stack Hub'
+  description: 'Prüfung 70-537: Konfigurieren und Betreiben einer Hybrid Cloud mit Microsoft Azure Stack Hub'
+  ms.openlocfilehash: 7a9c31bbe586aaf1311df739b329c46a1b18425c
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137659137"
 uid: exam.70-537
 displayName: 70-537
-summary: |-
-  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Eine Ersatzprüfung, AZ-600<a href='/learn/certifications/exams/AZ-600'></a>, ist verfügbar.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  Kandidaten für diese Prüfung sind Azure-Administratoren und Azure-Stack-Hub Betreiber, die Azure-Stack Hub nutzen, um ihren Endbenutzern oder Kunden Cloud-Dienste innerhalb ihres eigenen Rechenzentrums zur Verfügung zu stellen.
+  > Dieses Examen wurde am 31. Januar 2021 eingestellt. Eine Ersatzprüfung, [AZ-600,](/learn/certifications/exams/AZ-600)ist verfügbar.
 
-  Kandidaten für diese Prüfung sollten über umfangreiche Erfahrung im Management und Betrieb von Azure Stack Hub-Umgebungen verfügen. Die Kandidaten sollten über ein tiefes Verständnis von Azure sowie über Kenntnisse in den Bereichen Virtualisierung, Networking und Identitätsmanagement verfügen. Kandidaten sollten auch verstehen, wie Azure Stack Hub DevOps Prozesse und das hybride Entwicklungsmodell ermöglicht.
 
-  Von den Kandidaten für diese Prüfung wird erwartet, dass sie die Fähigkeit nachweisen, die Azure Stack Hub-Infrastruktur zu planen, zu implementieren, zu verpacken, zu aktualisieren und zu warten. Die Kandidaten müssen außerdem die Fähigkeit nachweisen, hybride Cloud-Ressourcen und angeforderte Dienste anzubieten und Infrastruktur als Service (IaaS) sowie Plattform als Service (PaaS) zu verwalten.
+  Kandidaten für diese Prüfung sind Azure-Administratoren und Azure Stack Hub Operatoren, die Azure Stack Hub verwenden, um Ihren Endbenutzern oder Kunden Clouddienste aus ihrem eigenen Rechenzentrum bereitzustellen.
 
-  <div style='font-weight&#58; bold;'><br/>Am 14. Januar 2020 wurde dieses Examen aktualisiert. Laden Sie den Änderungsbeleg für Prüfung Nr 70 -537 herunter und lesen Sie ihn durch, um mehr über diese Änderungen und deren Auswirkungen auf die Kompetenzbemessung zu erfahren.</div>
-subTitle: Kandidaten für diese Prüfung sind Azure-Administratoren und Azure-Stack-Hub Betreiber, die Azure-Stack Hub nutzen, um ihren Endbenutzern oder Kunden Cloud-Dienste innerhalb ihres eigenen Rechenzentrums zur Verfügung zu stellen.
+
+  Kandidat*innen für dieses Examen sollten über umfangreiche Erfahrung im Verwalten und Betreiben von Azure Stack Hub-Umgebungen verfügen. Kandidaten sollten über ein fundiertes Verständnis von Azure sowie über Kenntnisse in den Bereichen Virtualisierung, Netzwerk und Identitätsverwaltung verfügen. Kandidaten sollten auch verstehen, wie Azure Stack Hub DevOps Prozesse und das Hybridentwicklungsmodell ermöglicht.
+
+
+  Es wird erwartet, dass die Kandidaten für diese Prüfung die Fähigkeit zum Planen, Bereitstellen, Packen, Aktualisieren und Verwalten der Azure Stack Hub-Infrastruktur veranschaulichen. Kandidaten müssen auch die Fähigkeit demonstrieren, Hybrid Cloud-Ressourcen und angeforderte Dienste anzubieten und Infrastructure-as-a-Service (IaaS) und Platform-as-a-Service (PaaS) zu verwalten.
+
+
+  > [!IMPORTANT]
+
+  > Am 14. Januar 2020 wurde diese Prüfung aktualisiert. Um mehr über diese Änderungen zu erfahren und zu erfahren, wie sie sich auf die gemessenen Qualifikationen auswirken, laden Sie das Dokument zur Änderung der Prüfung 70-537 herunter, und lesen Sie es.
+subTitle: Kandidaten für diese Prüfung sind Azure-Administratoren und Azure Stack Hub Operatoren, die Azure Stack Hub verwenden, um Ihren Endbenutzern oder Kunden Clouddienste aus ihrem eigenen Rechenzentrum bereitzustellen.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfKQ
 locales:
@@ -23,10 +37,10 @@ locales:
 levels:
 - advanced
 skills:
-- Bereitstellen und Integrieren einer Azure-Stapel Umgebung (20-25%)
-- Konfiguration von PaaS und IaaS für eine Azure-Stapel-Umgebung (25-30%)
-- Bereitstellen von Diensten und Aktivieren von DevOps für Azure Stack Hub-Benutzer (25-30%)
-- Wartung und Monitoring einer Azure-Stapel Umgebung (20-25%)
+- Deploying and Integrating an Azure Stack Hub Environment (20-25%)
+- Configuring PaaS and IaaS for an Azure Stack Hub Environment (25-30%)
+- Providing Services to and Enabling DevOps for Azure Stack Hub Users (25-30%)
+- Maintaining and Monitoring an Azure Stack Hub Environment (20-25%)
 retirementDate: 01/31/2021
 roles:
 - administrator
@@ -43,9 +57,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

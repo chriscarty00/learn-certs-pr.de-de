@@ -1,17 +1,31 @@
 ### YamlMime:Examination
 title: Implementing Data Models and Reports with Microsoft SQL Server
 metadata:
-  title: 'Exam 70-466: Implementing Data Models and Reports with Microsoft SQL Server'
-  description: 'Exam 70-466: Implementing Data Models and Reports with Microsoft SQL Server'
+  title: 'Prüfung 70-466: Implementieren von Datenmodellen und Berichten mit Microsoft SQL Server'
+  description: 'Prüfung 70-466: Implementieren von Datenmodellen und Berichten mit Microsoft SQL Server'
+  ms.openlocfilehash: 43fa822f77a7540e817b81963638d4fc40d7ce87
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137657146"
 uid: exam.70-466
 displayName: 70-466
-summary: |-
-  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  Diese Prüfung ist für Business-Intelligence (BI)-Entwickler gedacht, mit Schwerpunkt auf der Erstellung von BI-Lösungen, für die mehrdimensionale Datenmodelle implementiert, OLAP-Cubes implementiert und verwaltet sowie Informationsanzeigen für die geschäftliche Entscheidungsfindung erstellt werden müssen.
+  > Dieses Examen wurde am 31. Januar 2021 eingestellt. Die derzeit verfügbaren Optionen finden Sie auf der [Seite Zertifizierungen und Prüfungen durchsuchen.](/learn/certifications/browse/?resource_type=examination)
 
-  <div style='font-weight&#58; bold;'><br/>Ab dem 18. Februar 2016 umfasst diese Prüfung Inhalte, die sowohl SQL Server 2012 als auch 2014 abdecken. Bitte beachten Sie, dass diese Prüfung keine Fragen zu Funktionen oder Fähigkeiten enthält, die nur im Produkt SQL Server 2012 enthalten sind. Für weitere Informationen <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLUU">dladen Sie bitte dieses Dokument herunter und lesen Sie es durch</a>.</div>
-subTitle: Diese Prüfung ist für Business-Intelligence (BI)-Entwickler gedacht, mit Schwerpunkt auf der Erstellung von BI-Lösungen, für die mehrdimensionale Datenmodelle implementiert, OLAP-Cubes implementiert und verwaltet sowie Informationsanzeigen für die geschäftliche Entscheidungsfindung erstellt werden müssen.
+
+  <br/>
+
+  Diese Prüfung richtet sich an Business Intelligence-Entwickler (BI), die sich auf die Erstellung von BI-Lösungen konzentrieren, die die Implementierung von mehrdimensionalen Datenmodellen, das Implementieren und Verwalten von OLAP-Cubes und das Erstellen von Informationen erfordern, die bei der Entscheidungsfindung im Unternehmen verwendet werden.
+
+
+  > [!IMPORTANT]
+
+  > Ab dem 18. Februar 2016 umfasst diese Prüfung Inhalte, die sowohl SQL Server 2012 als auch 2014 abdecken. Beachten Sie, dass diese Prüfung keine Fragen zu Features oder Funktionen enthält, die nur im produkt SQL Server 2012 vorhanden sind. Weitere Informationen finden Sie in [diesem Dokument.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLUU)
+subTitle: Diese Prüfung richtet sich an Business Intelligence-Entwickler (BI), die sich auf die Erstellung von BI-Lösungen konzentrieren, die die Implementierung von mehrdimensionalen Datenmodellen, das Implementieren und Verwalten von OLAP-Cubes und das Erstellen von Informationen erfordern, die bei der Entscheidungsfindung im Unternehmen verwendet werden.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkJ
 locales:
@@ -24,17 +38,15 @@ locales:
 levels:
 - advanced
 skills:
-- Aufbau einer multidimensionalen Datenbank für Analysedienste (35-40%)
-- Verwaltung, Wartung und Fehlerbehebung einer SQL Server Analysis Services (SSAS)-Datenbank (15-20%)
-- Aufbau eines tabellarischen Datenmodells (15-20%)
-- Erstellen eines Berichts mit SQL Server Reporting Services (SSRS) (25-30%)
+- Build an analysis services multidimensional database (35-40%)
+- Manage, maintain, and troubleshoot a SQL Server Analysis Services (SSAS) database (15-20%)
+- Build a tabular data model (15-20%)
+- Build a report with SQL Server Reporting Services (SSRS) (25-30%)
 retirementDate: 01/31/2021
 roles:
 - data-engineer
 products:
 - sql-server
-courses:
-- uid: course.20466
 relatedCertifications:
 - related:
     uid: certification.mcse-data-management-analytics
@@ -46,9 +58,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

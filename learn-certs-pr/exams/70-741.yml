@@ -1,19 +1,34 @@
 ### YamlMime:Examination
 title: Networking with Windows Server 2016
 metadata:
-  title: 'Exam 70-741: Networking with Windows Server 2016'
-  description: 'Exam 70-741: Networking with Windows Server 2016'
+  title: 'Prüfung 70-741: Netzwerkbetrieb mit Windows Server 2016'
+  description: 'Prüfung 70-741: Netzwerkbetrieb mit Windows Server 2016'
+  ms.openlocfilehash: a87506930bae2ba53d3bc5dec127b18f271718b5
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137657718"
 uid: exam.70-741
 displayName: 70-741
-summary: |-
-  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  Kandidaten für diese Prüfung führen Aufgaben im Zusammenhang mit den Netzwerkfunktionen und Merkmalen von Windows Server 2016 aus. Die Kandidaten sollten mit der Implementierung und Verwaltung von DNS, DHCP und IPAM sowie mit der Implementierung von Remote Access-Lösungen wie VPN und RADIUS vertraut sein.
+  > Dieses Examen wurde am 31. Januar 2021 eingestellt. Die derzeit verfügbaren Optionen finden Sie auf der [Seite Zertifizierungen und Prüfungen durchsuchen.](/learn/certifications/browse/?resource_type=examination)
 
-  Die Kandidaten sollten außerdem Erfahrung im Management von DFS- und Branch-Cache-Lösungen, in der Konfiguration von leistungsstarken Netzwerkmerkmalen und -funktionen sowie in der Implementierung von Software definierten Networking (SDN)-Lösungen wie Hyper-V Network Virtualization (HNV) und Network Controller haben.
 
-  <div style='font-weight&#58; bold;'><br/>Hinweis&#58; Prüfungs-Updates gibt es dem 13. März 2019. Laden Sie den Änderungsbeleg für Prüfung Nr 741 herunter und lesen Sie ihn durch, um mehr über diese Änderungen und deren Auswirkungen auf die Kompetenzbemessung zu erfahren.</div>
-subTitle: Kandidaten für diese Prüfung führen Aufgaben im Zusammenhang mit den Netzwerkfunktionen und Merkmalen von Windows Server 2016 aus. Die Kandidaten sollten mit der Implementierung und Verwaltung von DNS, DHCP und IPAM sowie mit der Implementierung von Remote Access-Lösungen wie VPN und RADIUS vertraut sein.
+  <br/>
+
+  Kandidaten für diese Prüfung führen Aufgaben im Zusammenhang mit den Netzwerkfeatures und -funktionen aus, die in Windows Server 2016 verfügbar sind. Kandidaten sollten mit der Implementierung und Verwaltung von DNS, DHCP und IPAM sowie mit der Bereitstellung von Remotezugriffslösungen wie VPN und RADIUS vertraut sein.
+
+
+  Kandidaten sollten auch erfahrungsgemäß mit der Verwaltung von DFS- und Branchcachelösungen, dem Konfigurieren von Leistungsstarken Netzwerkfeatures und -funktionen und der Implementierung von SDN-Lösungen (Software Defined Networking) wie Hyper-V-Netzwerkvirtualisierung (HNV) und Netzwerkcontrollern arbeiten.
+
+
+  > [!IMPORTANT]
+
+  > Hinweis&#58; Ab dem 13. März 2019 gelten Updates für Prüfungen. Um mehr über diese Änderungen zu erfahren und zu erfahren, wie sie sich auf die gemessenen Qualifikationen auswirken, laden Sie das Dokument zur Änderung der Prüfung 741 herunter, und lesen Sie es.
+subTitle: Kandidaten für diese Prüfung führen Aufgaben im Zusammenhang mit den Netzwerkfeatures und -funktionen aus, die in Windows Server 2016 verfügbar sind. Kandidaten sollten mit der Implementierung und Verwaltung von DNS, DHCP und IPAM sowie mit der Bereitstellung von Remotezugriffslösungen wie VPN und RADIUS vertraut sein.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IW1D
 practiceTestUrl: https://www.mindhub.com/70-741-Networking-with-Windows-Server-2016-p/mu-70-741_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -29,18 +44,16 @@ locales:
 levels:
 - intermediate
 skills:
-- Implementierung des Domain-Namen-Systems (DNS) (15-20%)
-- DHCP und IPAM implementieren (25-30%)
-- Implementieren von Netzwerk-Konnektivität und Remote Access-Lösungen (20-25%)
-- Implementierung von Kern- und verteilten Netzwerklösungen (15-20%)
-- Implementierung einer fortschrittlichen Netzwerkinfrastruktur (15-20%)
+- Implement Domain Name System (DNS) (15-20%)
+- Implement DHCP and IPAM (25-30%)
+- Implement Network Connectivity and Remote Access Solutions (20-25%)
+- Implement Core and Distributed Network Solutions (15-20%)
+- Implement an Advanced Network Infrastructure (15-20%)
 retirementDate: 01/31/2021
 roles:
 - administrator
 products:
 - windows-server
-courses:
-- uid: course.20741
 relatedCertifications:
 - related:
     uid: certification.mcsa-windows-server-2016-certification
@@ -52,9 +65,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

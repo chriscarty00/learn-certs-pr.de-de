@@ -1,15 +1,26 @@
 ### YamlMime:Examination
-title: Developing SQL Data Models
+title: SQL-Datenmodelle entwickeln
 metadata:
-  title: 'Exam 70-768: Developing SQL Data Models'
-  description: 'Exam 70-768: Developing SQL Data Models'
+  title: 'Prüfung 70-768: Entwickeln SQL Datenmodelle'
+  description: 'Prüfung 70-768: Entwickeln SQL Datenmodelle'
+  ms.openlocfilehash: 1bf64933dcf9f9358457d266f7d154c926095634
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137654768"
 uid: exam.70-768
 displayName: 70-768
-summary: |-
-  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  Diese Prüfung ist für Business Intelligence-(BI-)Entwickler gedacht, deren Schwerpunkt auf der Erstellung von BI-Lösungen liegt, für die eine Implementierung mehrdimensionaler Datenmodelle, Implementierung und Verwaltung von OLAP-Cubes und eine Implementierung tabellarischer Datenmodelle erforderlich ist.
-subTitle: Diese Prüfung ist für Business Intelligence-(BI-)Entwickler gedacht, deren Schwerpunkt auf der Erstellung von BI-Lösungen liegt, für die eine Implementierung mehrdimensionaler Datenmodelle, Implementierung und Verwaltung von OLAP-Cubes und eine Implementierung tabellarischer Datenmodelle erforderlich ist.
+  > Dieses Examen wurde am 31. Januar 2021 eingestellt. Die derzeit verfügbaren Optionen finden Sie auf der [Seite Zertifizierungen und Prüfungen durchsuchen.](/learn/certifications/browse/?resource_type=examination)
+
+
+  <br/>
+
+  Diese Prüfung richtet sich an Business Intelligence-Entwickler (BI), die sich auf die Erstellung von BI-Lösungen konzentrieren, die die Implementierung mehrdimensionaler Datenmodelle, die Implementierung und Wartung von OLAP-Cubes und die Implementierung tabellarischer Datenmodelle erfordern.
+subTitle: Diese Prüfung richtet sich an Business Intelligence-Entwickler (BI), die sich auf die Erstellung von BI-Lösungen konzentrieren, die die Implementierung mehrdimensionaler Datenmodelle, die Implementierung und Wartung von OLAP-Cubes und die Implementierung tabellarischer Datenmodelle erfordern.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjR
 practiceTestUrl: https://www.mindhub.com/70-768-Developing-SQL-Data-Models-p/mu-70-768_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -18,17 +29,15 @@ locales:
 levels:
 - intermediate
 skills:
-- Ein mehrdimensionales, semantisches BI-(Business Intelligence-)Modell entwerfen (25-30%)
-- Ein tabellarisches semantisches BI-Modell entwerfen (20-25%)
-- Abfragen mit Multidimensional Expressions (MDX) und Data Analysis Expressions (DAX) entwickeln (15-20%)
-- SQL Server Analysis Services (SSAS) konfigurieren und pflegen (30-35%)
+- Design a multidimensional business intelligence (BI) semantic model (25-30%)
+- Design a tabular BI semantic model (20-25%)
+- Develop queries using Multidimensional Expressions (MDX) and Data Analysis Expressions (DAX) (15-20%)
+- Configure and maintain SQL Server Analysis Services (SSAS) (30-35%)
 retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:
 - sql-server
-courses:
-- uid: course.20768
 relatedCertifications:
 - related:
     uid: certification.mcsa-sql2016-business-intelligence-certification
@@ -42,9 +51,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

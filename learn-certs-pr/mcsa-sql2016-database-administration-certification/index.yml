@@ -1,33 +1,43 @@
 ### YamlMime:Certification
-title: 'MCSA: SQL 2016 Database Administration'
+title: 'MCSA: SQL 2016-Datenbankverwaltung'
 metadata:
-  title: 'MCSA: SQL 2016 Database Administration'
-  description: 'MCSA: SQL 2016 Database Administration'
+  title: 'MCSA: SQL 2016-Datenbankverwaltung'
+  description: 'MCSA: SQL 2016-Datenbankverwaltung'
+  ms.openlocfilehash: efe58f593a8e9e4a6f3d985537c79ac05ffeb265
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137659214"
 uid: certification.mcsa-sql2016-database-administration-certification
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>Diese Zertifizierung wurde eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>. Alle Zertifizierungen, die Sie vor deren Einstellung erworben haben, werden weiterhin auf Ihrem Transkript im<a href='https://aka.ms/certdashboard'> Zertifizierungs-Dashboard angezeigt</a>.</strong></font><br/><br/></div>
+iconUrl: /media/learn/certification/badges/mcsa-badge.svg
+summary: >-
+  > [!IMPORTANT]
 
-  Diese Zertifizierung zeigt Ihre Fähigkeiten, mit Datenbankinstallation, Wartung, Konfiguration und Bereitstellung von Aufgaben umzugehen.
-subTitle: Diese Zertifizierung zeigt Ihre Fähigkeiten, mit Datenbankinstallation, Wartung, Konfiguration und Bereitstellung von Aufgaben umzugehen.
+  > Diese Zertifizierung wurde zurückgezogen. Die aktuell verfügbaren Optionen finden Sie auf der [Seite Zertifizierungen und Examen durchsuchen](/learn/certifications/browse/). Alle Zertifizierungen, die Sie vor dem Datum ihrer Abschreibung erhalten haben, werden weiterhin auf Ihrem Transkript im [Zertifizierungsdashboard angezeigt.](https://aka.ms/certdashboard)
+
+
+  <br/>
+
+
+  Diese Zertifizierung veranschaulicht Ihre Kenntnisse im Zusammenhang mit Datenbankinstallations-, Wartungs-, Konfigurations- und Bereitstellungsaufgaben.
+subTitle: Diese Zertifizierung veranschaulicht Ihre Kenntnisse im Zusammenhang mit Datenbankinstallations-, Wartungs-, Konfigurations- und Bereitstellungsaufgaben.
+hideFishboneDiagram: true
 levels:
 - intermediate
 skills:
-- Datenzugriff und -überwachung konfigurieren
-- Sicherung und Wiederherstellung von Datenbanken verwalten 
-- SQL Server-Instanzen verwalten und überwachen 
-- Hochverfügbarkeit und Notfallwiederherstellung verwalten 
-- SQL in Azure implementieren
-- Datenbanken und Instanzen verwalten
-- Verwalten von Speicherplatz
+- Configure data access and auditing
+- Manage backup and restore of databases
+- Manage and monitor SQL Server instances
+- Manage high availability and disaster recovery
+- Implement SQL in Azure
+- Manage databases and instances
+- Manage Storage
 roles:
 - database-administrator
 type: mcsa
 products:
 - sql-server
-courses:
-- uid: course.20764
-- uid: course.20765
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlME
 exams:
 - uid: exam.70-764
@@ -48,7 +58,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Erhalten Sie Ihren Microsoft-Zertifizierungsbadge, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md
-

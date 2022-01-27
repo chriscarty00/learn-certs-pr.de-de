@@ -3,31 +3,41 @@ title: 'MCSA: SQL 2016 BI Development'
 metadata:
   title: 'MCSA: SQL 2016 BI Development'
   description: 'MCSA: SQL 2016 BI Development'
+  ms.openlocfilehash: 757c4581571c0093cd9a2de4d7989a894c06760e
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658939"
 uid: certification.mcsa-sql2016-business-intelligence-certification
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>Diese Zertifizierung wurde eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>. Alle Zertifizierungen, die Sie vor deren Einstellung erworben haben, werden weiterhin auf Ihrem Transkript im<a href='https://aka.ms/certdashboard'> Zertifizierungs-Dashboard angezeigt</a>.</strong></font><br/><br/></div>
+iconUrl: /media/learn/certification/badges/mcsa-badge.svg
+summary: >-
+  > [!IMPORTANT]
 
-  Diese Zertifizierung validiert Ihre Extrakt-, Transformations- und Last- (ETL-) und Daten-Warehouse-Fähigkeiten sowie die Implementierung von BI-Lösungen mit multidimensionalen und tabellarischen Datenmodellen und OLAP-Cubes (Online Analytical Processing).
-subTitle: Diese Zertifizierung validiert Ihre Extrakt-, Transformations- und Last- (ETL-) und Daten-Warehouse-Fähigkeiten sowie die Implementierung von BI-Lösungen mit multidimensionalen und tabellarischen Datenmodellen und OLAP-Cubes (Online Analytical Processing).
+  > Diese Zertifizierung wurde zurückgezogen. Die aktuell verfügbaren Optionen finden Sie auf der [Seite Zertifizierungen und Examen durchsuchen](/learn/certifications/browse/). Alle Zertifizierungen, die Sie vor dem Datum ihrer Abschreibung erhalten haben, werden weiterhin auf Ihrem Transkript im [Zertifizierungsdashboard angezeigt.](https://aka.ms/certdashboard)
+
+
+  <br/>
+
+
+  Diese Zertifizierung überprüft Ihre ETL- und Data Warehouse-Kenntnisse (Extrahieren, Transformieren und Laden) sowie die Qualifikationen für die Implementierung von BI-Lösungen mit mehrdimensionalen und tabellarischen Datenmodellen und OLAP-Cubes (Online Analytical Processing).
+subTitle: Diese Zertifizierung überprüft Ihre ETL- und Data Warehouse-Kenntnisse (Extrahieren, Transformieren und Laden) sowie die Qualifikationen für die Implementierung von BI-Lösungen mit mehrdimensionalen und tabellarischen Datenmodellen und OLAP-Cubes (Online Analytical Processing).
+hideFishboneDiagram: true
 levels:
 - intermediate
 skills:
-- Entwerfen, Implementierung und Wartung eines Data Warehouse
-- Extrahieren, Transformieren und Laden von Daten
-- Erstellung von Datenqualitätslösungen
-- Ein mehrdimensionales, semantisches BI-(Business Intelligence-)Modell entwerfen
-- Ein tabellarisches semantisches BI-Modell entwerfen
-- Abfragen mit Multidimensional Expressions (MDX) und Data Analysis Expressions (DAX) entwickeln
-- SQL Server Analysis Services (SSAS) konfigurieren und pflegen
+- Design, implement, and maintain a data warehouse
+- Extract, transform, and load data
+- Build data quality solutions
+- Design a multidimensional business intelligence (BI) semantic model
+- Design a tabular BI semantic model
+- Develop queries using Multidimensional Expressions (MDX) and Data Analysis Expressions (DAX)
+- Configure and maintain SQL Server Analysis Services (SSAS)
 roles:
 - data-analyst
 type: mcsa
 products:
 - sql-server
-courses:
-- uid: course.20767
-- uid: course.20768
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIdYZ
 exams:
 - uid: exam.70-767
@@ -48,7 +58,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Erhalten Sie Ihren Microsoft-Zertifizierungsbadge, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md
-

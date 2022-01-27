@@ -3,34 +3,45 @@ title: 'MCSA: Universal Windows Platform'
 metadata:
   title: 'MCSA: Universal Windows Platform'
   description: 'MCSA: Universal Windows Platform'
+  ms.openlocfilehash: a7d0edd52cd2cf1a6b4d7f5ad4a49fe50878629b
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658092"
 uid: certification.mcsa-universal-windows-platform
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>Diese Zertifizierung wurde eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>. Alle Zertifizierungen, die Sie vor deren Einstellung erworben haben, werden weiterhin auf Ihrem Transkript im<a href='https://aka.ms/certdashboard'> Zertifizierungs-Dashboard angezeigt</a>.</strong></font><br/><br/></div>
+iconUrl: /media/learn/certification/badges/mcsa-badge.svg
+summary: >-
+  > [!IMPORTANT]
 
-  Diese Zertifizierung zeigt Ihre Expertise bei der Implementierung von Universal Windows Platform Apps, die eine überzeugende Benutzererfahrung auf verschiedensten Windows-Geräten bieten.
-subTitle: Diese Zertifizierung zeigt Ihre Expertise bei der Implementierung von Universal Windows Platform Apps, die eine überzeugende Benutzererfahrung auf verschiedensten Windows-Geräten bieten.
+  > Diese Zertifizierung wurde eingestellt. Die aktuell verfügbaren Optionen finden Sie auf der [Seite Zertifizierungen und Examen durchsuchen](/learn/certifications/browse/). Alle Zertifizierungen, die Sie vor derEnthebung erhalten haben, werden weiterhin in Ihrem Transkript im [Zertifizierungsdashboard angezeigt.](https://aka.ms/certdashboard)
+
+
+  <br/>
+
+
+  Diese Zertifizierung zeigt Ihr Fachwissen bei der Implementierung von Universal Windows Platform-Apps, die eine überzeugende Benutzererfahrung für eine Vielzahl von Windows Geräten bieten.
+subTitle: Diese Zertifizierung zeigt Ihr Fachwissen bei der Implementierung von Universal Windows Platform-Apps, die eine überzeugende Benutzererfahrung für eine Vielzahl von Windows Geräten bieten.
+hideFishboneDiagram: true
 levels:
 - intermediate
 skills:
-- Programmablauf verwalten
-- Typen erstellen und verwenden
-- Debuggen von Anwendungen und Implementieren von Sicherheit
-- Datenzugriff implementieren
-- Entwickeln eines XAML-Seitenlayouts für eine anpassungsfähige Benutzeroberfläche (UI) 
-- Implementieren von Seitennavigation und Ereignissen im Lebenszyklus
-- Implementieren von Datenzugriff und Datenbindung 
-- Implementieren von Funktionserkennung für anpassungsfähige Programmierung
-- Verwalten von Benutzereingaben und benutzerdefinierten Benutzerinteraktionen
-- Verwalten von Authentifizierung und Identitätsverwaltung
-- Implementieren von Benachrichtigungen, Hintergrundaufgaben und wiederverwendbaren Komponenten
+- Manage Program Flow
+- Create and Use Types
+- Debug Applications and Implement Security
+- Implement Data Access
+- Develop a XAML page layout for an adaptive UI
+- Implement page navigation and lifecycle events
+- Implement data access and data binding
+- Implement feature detection for adaptive coding
+- Manage user input and custom user interactions
+- Manage authentication and identity management
+- Implement notifications, background tasks, and reusable components
 roles:
 - administrator
 type: mcsa
 products:
 - vs
-courses:
-- uid: course.20483
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlMD
 exams:
 - uid: exam.70-483
@@ -51,7 +62,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Erhalten Sie Ihren Microsoft-Zertifizierungsbadge, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md
-

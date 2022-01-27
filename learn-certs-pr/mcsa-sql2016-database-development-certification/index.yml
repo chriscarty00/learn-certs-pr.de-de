@@ -1,33 +1,43 @@
 ### YamlMime:Certification
-title: 'MCSA: SQL 2016 Database Development'
+title: 'MCSA: SQL 2016-Datenbankentwicklung'
 metadata:
-  title: 'MCSA: SQL 2016 Database Development'
-  description: 'MCSA: SQL 2016 Database Development'
+  title: 'MCSA: SQL 2016-Datenbankentwicklung'
+  description: 'MCSA: SQL 2016-Datenbankentwicklung'
+  ms.openlocfilehash: 404a8ef75eef94520e2a0d80efd498d1643b3218
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658521"
 uid: certification.mcsa-sql2016-database-development-certification
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>Diese Zertifizierung wurde eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>. Alle Zertifizierungen, die Sie vor deren Einstellung erworben haben, werden weiterhin auf Ihrem Transkript im<a href='https://aka.ms/certdashboard'> Zertifizierungs-Dashboard angezeigt</a>.</strong></font><br/><br/></div>
+iconUrl: /media/learn/certification/badges/mcsa-badge.svg
+summary: >-
+  > [!IMPORTANT]
 
-  Diese Zertifizierung belegt Ihre Fähigkeiten als Datenbankprofi, sowohl für lokale als auch für Cloud-basierte Datenbanken.
-subTitle: Diese Zertifizierung belegt Ihre Fähigkeiten als Datenbankprofi, sowohl für lokale als auch für Cloud-basierte Datenbanken.
+  > Diese Zertifizierung wurde zurückgezogen. Die aktuell verfügbaren Optionen finden Sie auf der [Seite Zertifizierungen und Examen durchsuchen](/learn/certifications/browse/). Alle Zertifizierungen, die Sie vor dem Datum ihrer Abschreibung erhalten haben, werden weiterhin auf Ihrem Transkript im [Zertifizierungsdashboard angezeigt.](https://aka.ms/certdashboard)
+
+
+  <br/>
+
+
+  Diese Zertifizierung veranschaulicht Ihre Kenntnisse als Datenbankprofi sowohl für lokale als auch für cloudbasierte Datenbanken.
+subTitle: Diese Zertifizierung veranschaulicht Ihre Kenntnisse als Datenbankprofi sowohl für lokale als auch für cloudbasierte Datenbanken.
+hideFishboneDiagram: true
 levels:
 - advanced
 skills:
-- Daten verwalten mit Transact-SQL
-- Daten mit erweiterten Transact-SQL-Komponenten abfragen 
-- Mit Transact-SQL Datenbanken programmieren
-- Datenbankobjekte entwerfen und implementieren 
-- Programmierbarkeitsobjekte implementieren 
-- Gleichzeitigkeit von Datenbanken verwalten 
-- Datenbankobjekte und SQL-Infrastruktur optimieren 
+- Manage data with Transact-SQL
+- Query data with advanced Transact-SQL components
+- Program databases by using Transact-SQL
+- Design and implement database objects
+- Implement programmability objects
+- Manage database concurrency
+- Optimize database objects and SQL infrastructure
 roles:
 - developer
 type: mcsa
 products:
 - sql-server
-courses:
-- uid: course.20761
-- uid: course.20762
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIomL
 exams:
 - uid: exam.70-761
@@ -48,7 +58,6 @@ resources:
 - title: Zertifizierungsdashboard
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Teilen Sie Ihre Zertifizierungsabzeichen
-  description: Feiern Sie Ihre Leistung mit Ihrem Netzwerk. Fordern Sie Ihr  Microsoft-Certification an und fügen Sie es LinkedIn, Ihrem Lebenslauf und anderem hinzu.
+- title: Teilen Sie Ihre Zertifizierungsbadges.
+  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Erhalten Sie Ihren Microsoft-Zertifizierungsbadge, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
   href: ../badges.md
-

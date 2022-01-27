@@ -3,12 +3,12 @@ title: Implementing a Machine Learning Solution with Microsoft Azure Databricks
 metadata:
   title: 'Kurs DP-090T00--A: Implementing a Machine Learning Solution with Microsoft Azure Databricks'
   description: 'Kurs DP-090T00--A: Implementing a Machine Learning Solution with Microsoft Azure Databricks'
-  ms.openlocfilehash: 14007a362a6725776c54438baac427f76778c9f0
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+  ms.openlocfilehash: 7ff954790ef619740503ab434d914240363e79c4
+  ms.sourcegitcommit: ac658d0294a354cec251bb1835b62222fea53b6f
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "135573290"
+  ms.lasthandoff: 01/19/2022
+  ms.locfileid: "136955284"
 uid: course.dp-090t00
 courseNumber: DP-090T00
 hoursToComplete: 24
@@ -30,6 +30,15 @@ roles:
 - data-scientist
 products:
 - azure
+studyGuide:
+- uid: learn.wwl.get-started-azure-databricks
+- uid: learn.wwl.work-data-azure-databricks
+- uid: learn.wwl.prepare-data-for-machine-learning-azure-databricks
+- uid: learn.wwl.train-machine-learning-model-azure-databricks
+- uid: learn.wwl.use-mlflow-to-track-experiments-azure-databricks
+- uid: learn.wwl.manage-machine-learning-models-azure-databricks
+- uid: learn.wwl.track-azure-databricks-experiments-azure-machine-learning
+- uid: learn.wwl.deploy-azure-databricks-models-azure-machine-learning
 summary: >-
   Azure Databricks ist eine Plattform im Cloudmaßstab für Datenanalyse und Machine Learning. In diesem eintägigen Kurs erfahren Sie, wie Sie Azure Databricks verwenden, um Daten zu untersuchen, vorzubereiten und zu modellieren, und wie Sie Databricks-Prozesse für Machine Learning mit Microsoft Azure Machine Learning integrieren.
 

@@ -3,15 +3,29 @@ title: Administering Microsoft SQL Server 2012/2014 Databases
 metadata:
   title: 'Exam 70-462: Administering Microsoft SQL Server 2012/2014 Databases'
   description: 'Exam 70-462: Administering Microsoft SQL Server 2012/2014 Databases'
+  ms.openlocfilehash: cf6b1c3ae41f6633ce3fe48bbf9f8122f237679e
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658972"
 uid: exam.70-462
 displayName: 70-462
-summary: |-
-  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  Diese Prüfung ist für Datenbankexperten bestimmt, die Aufgaben zur Installation, Wartung und Konfiguration durchführen. Weitere Aufgaben betreffen die Einrichtung von Datenbanksystemen, sicherzustellen, dass diese Systeme wirksam funktionieren, sowie regelmäßiges Speichern, Sichern und Schützen der Daten vor unbefugtem Zugriff.
+  > Dieses Examen wurde am 31. Januar 2021 eingestellt. Die derzeit verfügbaren Optionen finden Sie auf der Seite [Zertifizierungen und Prüfungen durchsuchen.](/learn/certifications/browse/?resource_type=examination)
 
-  <div style='font-weight&#58; bold;'><br/>Ab dem 18. Februar 2016 umfasst diese Prüfung Inhalte, die sowohl SQL Server 2012 als auch 2014 abdecken. Bitte beachten Sie, dass diese Prüfung keine Fragen zu Funktionen oder Fähigkeiten enthält, die nur im Produkt SQL Server 2012 enthalten sind. Für weitere Informationen <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tCcP">dladen Sie bitte dieses Dokument herunter und lesen Sie es durch</a>.</div>
-subTitle: Diese Prüfung ist für Datenbankexperten bestimmt, die Aufgaben zur Installation, Wartung und Konfiguration durchführen. Weitere Aufgaben betreffen die Einrichtung von Datenbanksystemen, sicherzustellen, dass diese Systeme wirksam funktionieren, sowie regelmäßiges Speichern, Sichern und Schützen der Daten vor unbefugtem Zugriff.
+
+  <br/>
+
+  Diese Prüfung richtet sich an Datenbankexperten, die Installations-, Wartungs- und Konfigurationsaufgaben ausführen. Weitere Zuständigkeiten sind das Einrichten von Datenbanksystemen, das sicherstellen, dass diese Systeme effizient funktionieren, und das regelmäßige Speichern, Sichern und Schützen von Daten vor nicht autorisiertem Zugriff.
+
+
+  > [!IMPORTANT]
+
+  > Ab dem 18. Februar 2016 enthält diese Prüfung Inhalte, die sowohl SQL Server 2012 als auch 2014 abdecken. Beachten Sie, dass diese Prüfung keine Fragen zu Features oder Funktionen enthält, die nur im Produkt SQL Server 2012 vorhanden sind. Weitere Informationen finden Sie in [diesem Dokument.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tCcP)
+subTitle: Diese Prüfung richtet sich an Datenbankexperten, die Installations-, Wartungs- und Konfigurationsaufgaben ausführen. Weitere Zuständigkeiten sind das Einrichten von Datenbanksystemen, das sicherstellen, dass diese Systeme effizient funktionieren, und das regelmäßige Speichern, Sichern und Schützen von Daten vor nicht autorisiertem Zugriff.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIN
 locales:
@@ -24,19 +38,17 @@ locales:
 levels:
 - advanced
 skills:
-- Installieren und konfigurieren (20-25%)
-- Instanzen und Datenbanken pflegen (15-20%)
-- Optimierung und Fehlerbehebung (15-20%)
-- Verwalten von Daten (20-25%)
-- Sicherheit implementieren (15-20%)
-- Implementieren von Hochverfügbarkeit (5-10%)
+- Install and configure (20–25%)
+- Maintain instances and databases (15–20%)
+- Optimize and troubleshoot (15–20%)
+- Manage data (20–25%)
+- Implement security (15–20%)
+- Implement high availability (5–10%)
 retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:
 - sql-server
-courses:
-- uid: course.20462
 relatedCertifications:
 - related:
     uid: certification.mcsa-sql-certification
@@ -48,9 +60,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

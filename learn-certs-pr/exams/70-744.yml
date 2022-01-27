@@ -1,21 +1,37 @@
 ### YamlMime:Examination
 title: Securing Windows Server 2016
 metadata:
-  title: 'Exam 70-744: Securing Windows Server 2016'
-  description: 'Exam 70-744: Securing Windows Server 2016'
+  title: 'Prüfung 70-744: Securing Windows Server 2016'
+  description: 'Prüfung 70-744: Securing Windows Server 2016'
+  ms.openlocfilehash: c0cf640493959c59384ccbaad2f9919b0d81003a
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658774"
 uid: exam.70-744
 displayName: 70-744
-summary: |-
-  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  Kandidaten für diese Prüfung sichern Windows Server 2016-Umgebungen. Die Kandidaten sind mit den Methoden und Technologien vertraut, die verwendet werden, um Serverumgebungen zu härten und Infrastrukturen virtueller Maschinen mit Hilfe von abgeschirmten und verschlüsselten virtuellen Maschinen und Guarded-Fabric zu sichern.
+  > Dieses Examen wurde am 31. Januar 2021 eingestellt. Die derzeit verfügbaren Optionen finden Sie auf der Seite [Zertifizierungen und Prüfungen durchsuchen.](/learn/certifications/browse/?resource_type=examination)
 
-  Kandidaten verwalten den Schutz des aktiven Verzeichnisses- und Identität-Infrastrukturen und verwalten privilegierte Identitäten mit Hilfe von Just In Time (JIT) und Just Enough Administration (JEA) -Ansätzen. Außerdem können Sie Privileged Access Workstations (PAWs) implementieren und Server mit Hilfe der LAPS (Local Administrator Password Solution) sichern.
 
-  Die Kandidaten sollten außerdem in der Lage sein, Bedrohungserkennungslösungen wie den Zugriffsaudit zu nutzen, Advanced Threat Analytics (ATA) zu implementieren, Operations Management Suite (OMS) Lösungen zu implementieren und Lösungen für spezifische Workloads zu identifizieren.
+  <br/>
 
-  <div style='font-weight&#58; bold;'><br/>Hinweis&#58; Prüfungs-Updates gibt es dem 2. November 2018. Laden Sie den Änderungsbeleg für Prüfung Nr 744 herunter und lesen Sie ihn durch, um mehr über diese Änderungen und deren Auswirkungen auf die Kompetenzbemessung zu erfahren.</div>
-subTitle: Kandidaten für diese Prüfung sichern Windows Server 2016-Umgebungen. Die Kandidaten sind mit den Methoden und Technologien vertraut, die verwendet werden, um Serverumgebungen zu härten und Infrastrukturen virtueller Maschinen mit Hilfe von abgeschirmten und verschlüsselten virtuellen Maschinen und Guarded-Fabric zu sichern.
+  Kandidaten für diese Prüfung sichern Windows Server 2016 Umgebungen. Kandidaten sind mit den Methoden und Technologien vertraut, die verwendet werden, um Serverumgebungen zu härten und virtuelle Computerinfrastrukturen mit abgeschirmten und verschlüsselungsgestützten virtuellen Computern und Geschützter Fabric zu schützen.
+
+
+  Kandidaten verwalten den Schutz von Active Directory- und Identitätsinfrastrukturen und privilegierte Identitäten mithilfe von Just-in-Time-Ansätzen (JIT) und Just Enough Administration (JEA) sowie implementieren Privileged Access Workstations (PAWs) und sichere Server mithilfe von Local Administrator Password Solution (LAPS).
+
+
+  Kandidaten sollten auch In der Lage sein, Bedrohungserkennungslösungen wie die Überwachung des Zugriffs, die Implementierung von Advanced Threat Analytics (ATA), die Bereitstellung von Operations Management Suite-Lösungen (OMS) und das Identifizieren von Lösungen für bestimmte Workloads zu verwenden.
+
+
+  > [!IMPORTANT]
+
+  > Hinweis&#58; Es gibt Prüfungupdates, die ab dem 2. November 2018 gültig sind. Weitere Informationen zu diesen Änderungen und deren Auswirkungen auf die gemessenen Qualifikationen finden Sie im Dokument zur Änderung der Prüfung 744.
+subTitle: Kandidaten für diese Prüfung sichern Windows Server 2016 Umgebungen. Kandidaten sind mit den Methoden und Technologien vertraut, die verwendet werden, um Serverumgebungen zu härten und virtuelle Computerinfrastrukturen mit abgeschirmten und verschlüsselungsgestützten virtuellen Computern und Geschützter Fabric zu schützen.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IDM3
 practiceTestUrl: https://www.mindhub.com/70-744-Securing-Windows-Server-2016-p/mu-70-744_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -31,19 +47,17 @@ locales:
 levels:
 - advanced
 skills:
-- Implementieren von Server Hardening-Lösungen (25-30%)
-- Sichern einer Virtualisierungsinfrastruktur (5-10%)
-- Sichern Sie eine Netzwerkinfrastruktur (10-15%)
-- Privilegierte Identitäten verwalten (25-30%)
-- Implementieren von Threat-Detection-Lösungen (15-20%)
-- Implementieren einer Workload-spezifischen Sicherheit (5-10%)
+- Implement Server Hardening Solutions (25-30%)
+- Secure a Virtualization Infrastructure (5-10%)
+- Secure a Network Infrastructure (10-15%)
+- Manage Privileged Identities (25-30%)
+- Implement Threat Detection Solutions (15-20%)
+- Implement Workload-Specific Security (5-10%)
 retirementDate: 01/31/2021
 roles:
 - administrator
 products:
 - windows-server
-courses:
-- uid: course.20744
 relatedCertifications:
 - related:
     uid: certification.mcse-core-infrastructure
@@ -55,9 +69,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

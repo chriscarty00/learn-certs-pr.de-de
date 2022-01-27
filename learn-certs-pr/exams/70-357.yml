@@ -1,17 +1,29 @@
 ### YamlMime:Examination
 title: Developing Mobile Apps
 metadata:
-  title: 'Exam 70-357: Developing Mobile Apps'
-  description: 'Exam 70-357: Developing Mobile Apps'
+  title: 'Prüfung 70-357: Entwickeln Mobile Apps'
+  description: 'Prüfung 70-357: Entwickeln Mobile Apps'
+  ms.openlocfilehash: c81ebdc18ee8bffb063041e6924027b8e0995f5f
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658125"
 uid: exam.70-357
 displayName: 70-357
-summary: |-
-  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  Kandidaten für diese Prüfung sind erfahrene Entwickler, die Windows 10-Apps für die Bereitstellung entweder im Windows Store oder im Windows Store for Business entwerfen und entwickeln.
+  > Dieses Examen wurde am 31. Januar 2021 eingestellt. Die derzeit verfügbaren Optionen finden Sie auf der Seite [Zertifizierungen und Prüfungen durchsuchen.](/learn/certifications/browse/?resource_type=examination)
 
-  Kandidaten haben üblicherweise mehr als zwei Jahre Erfahrung in der Entwicklung von Windows-Apps mit C# und XAML und verfügen daneben über Erfahrungen mit WPF oder Silverlight für Windows Phone. Kandidaten sollten außerdem Erfahrung mit der Modelansicht ViewModel (MVVM) Entwurfsmuster und mit Entity Framework sowie mit Authentifizierungstechnologien haben. Erfahrung mit Visual Studio 2015 ist dringend empfehlenswert.
-subTitle: Kandidaten für diese Prüfung sind erfahrene Entwickler, die Windows 10-Apps für die Bereitstellung entweder im Windows Store oder im Windows Store for Business entwerfen und entwickeln.
+
+  <br/>
+
+  Kandidaten für diese Prüfung sind erfahrene Entwickler, die Windows 10-Apps für die Bereitstellung im Windows Store oder Windows Store Business entwerfen und entwickeln.
+
+
+  Kandidaten verfügen in der Regel über mehr als zwei Jahre Erfahrung beim Entwickeln von Windows-Apps mit C# und XAML sowie über Erfahrung mit WPF oder Silverlight für Windows Phone. Kandidaten sollten auch Erfahrung mit dem MVVM-Entwurfsmuster (Model-View-ViewModel) und Entity Framework sowie mit Authentifizierungstechnologien haben. Visual Studio 2015 wird dringend empfohlen.
+subTitle: Kandidaten für diese Prüfung sind erfahrene Entwickler, die Windows 10-Apps für die Bereitstellung im Windows Store oder Windows Store Business entwerfen und entwickeln.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjH
 practiceTestUrl: https://www.mindhub.com/70-357-developing-mobile-apps-microsoft-official/p/MU-70-357?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -28,13 +40,13 @@ locales:
 levels:
 - intermediate
 skills:
-- Entwickeln eines XAML-Seitenlayouts für eine anpassungsfähige Benutzeroberfläche (UI) (10–15%)
-- Implementieren von Seitennavigation und Ereignissen im Lebenszyklus (10–15%)
-- Implementieren von Datenzugriff und Datenbindung (20–25%)
-- Implementieren von Funktionserkennung für anpassungsfähige Programmierung (10–15%)
-- Verwalten von Benutzereingaben und benutzerdefinierten Benutzerinteraktionen (10–15%)
-- Verwalten von Authentifizierung und Identitätsverwaltung (10–15%)
-- Implementieren von Benachrichtigungen, Hintergrundaufgaben und wiederverwendbaren Komponenten (15-20%)
+- Develop a XAML page layout for an adaptive UI (10–15%)
+- Implement page navigation and lifecycle events (10–15%)
+- Implement data access and data binding (20–25%)
+- Implement feature detection for adaptive coding (10–15%)
+- Manage user input and custom user interactions (10–15%)
+- Manage authentication and identity management (10–15%)
+- Implement notifications, background tasks, and reusable components (15–20%)
 retirementDate: 01/31/2021
 roles:
 - developer
@@ -53,9 +65,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

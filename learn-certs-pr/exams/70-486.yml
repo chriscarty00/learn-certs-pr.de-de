@@ -1,24 +1,44 @@
 ### YamlMime:Examination
 title: Developing ASP.NET MVC Web Applications
 metadata:
-  title: 'Exam 70-486: Developing ASP.NET MVC Web Applications'
-  description: 'Exam 70-486: Developing ASP.NET MVC Web Applications'
+  title: 'Prüfung 70-486: Entwickeln ASP.NET MVC-Webanwendungen'
+  description: 'Prüfung 70-486: Entwickeln ASP.NET MVC-Webanwendungen'
+  ms.openlocfilehash: 556c786f4cd3f3c3bdf8416d4d27be2ed26b62ec
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137656200"
 uid: exam.70-486
 displayName: 70-486
-summary: |+
-  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
+summary: >
+  > [!IMPORTANT]
 
-  Kandidaten für diese Prüfung sind professionelle Entwickler, die mit Microsoft Visual Studio 2017 und ASP.NET Web-Lösungen entwerfen und entwickeln. Kandidaten sollten mindestens drei bis fünf Jahre Erfahrung in der Entwicklung von Microsoft ASP.NET MVC-basierten Lösungen und Kenntnisse der Microsoft Azure Web Apps haben.
+  > Dieses Examen wurde am 31. Januar 2021 eingestellt. Die derzeit verfügbaren Optionen finden Sie auf der [Seite Zertifizierungen und Prüfungen durchsuchen.](/learn/certifications/browse/?resource_type=examination)
 
-  Die Kandidaten sollten auch die folgenden Erfahrungen mitbringen&#58;
-  Entwerfen und Entwickeln von Webanwendungen in einem ASP.NET MVC-Modell
-  Planung und Gestaltung von Benutzerinteraktionslösungen auf der Grundlage von Geschäftsanforderungen
+
+  <br/>
+
+  Kandidaten für diese Prüfung sind professionelle Entwickler, die Microsoft Visual Studio 2017 und ASP.NET verwenden, um Weblösungen zu entwerfen und zu entwickeln. Kandidaten sollten mindestens drei bis fünf Jahre Erfahrung mit der Entwicklung Microsoft ASP.NET MVC-basierten Lösungen und Kenntnissen Microsoft Azure Web-Apps haben.
+
+
+  Kandidaten sollten außerdem über folgende Erfahrungen&#58;
+
+  - Entwerfen und Entwickeln von Webanwendungen in einem ASP.NET MVC-Modell
+
+  - Planen und Entwerfen von Lösungen für die Benutzerinteraktion basierend auf Geschäftsanforderungen
+
   - Erfahrung mit dem gesamten Lebenszyklus der Softwareentwicklung von Webanwendungen
-  - Entwicklung und Bereitstellung in mehrstufigen Umgebungen, einschließlich Azure
-  - Konzeption und Entwicklung von asynchronen Lösungen
 
-  <div><strong><br/>Hinweis&#58; Ab dem 15. Januar 2018 gibt es Prüfungsaktualisierungen. Laden Sie den Änderungsbeleg für Prüfung Nr 486 herunter und lesen Sie ihn durch, um mehr über diese Änderungen und deren Auswirkungen auf die Kompetenzbemessung zu erfahren.</strong></div>
-subTitle: Kandidaten für diese Prüfung sind professionelle Entwickler, die mit Microsoft Visual Studio 2017 und ASP.NET Web-Lösungen entwerfen und entwickeln. Kandidaten sollten mindestens drei bis fünf Jahre Erfahrung in der Entwicklung von Microsoft ASP.NET MVC-basierten Lösungen und Kenntnisse der Microsoft Azure Web Apps haben.
+  - Entwickeln und Bereitstellen in Umgebungen mit mehreren Ebenen, einschließlich Azure
+
+  - Entwerfen und Entwickeln asynchroner Lösungen
+
+
+  > [!IMPORTANT]
+
+  > Hinweis&#58; Ab dem 15. Januar 2018 gelten Updates für Prüfungen. Um mehr über diese Änderungen zu erfahren und zu erfahren, wie sie sich auf die gemessenen Qualifikationen auswirken, laden Sie das Dokument zur Änderung der Prüfung 486 herunter, und lesen Sie es.
+subTitle: Kandidaten für diese Prüfung sind professionelle Entwickler, die Microsoft Visual Studio 2017 und ASP.NET verwenden, um Weblösungen zu entwerfen und zu entwickeln. Kandidaten sollten mindestens drei bis fünf Jahre Erfahrung mit der Entwicklung Microsoft ASP.NET MVC-basierten Lösungen und Kenntnissen Microsoft Azure Web-Apps haben.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkK
 practiceTestUrl: https://www.mindhub.com/70-486-developing-asppnet-mvc-web-applications/p/MU-70-486?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -33,12 +53,12 @@ locales:
 levels:
 - advanced
 skills:
-- Entwerfen der Anwendungsarchitektur (15-20%)
-- Entwurf der Erstellungs- und Bereitstellungsarchitektur (10-15%)
-- Gestaltung der Benutzererfahrung (15-20%)
-- Entwickeln der Benutzerfreundlichkeit (15-20%)
-- Fehlerbehebung und Debugging von Webanwendungen (20-25%)
-- Entwerfen und Implementieren von Sicherheit (15-20%)
+- Design the application architecture (15-20%)
+- Design the build and deployment architecture (10-15%)
+- Design the User Experience (15-20%)
+- Develop the User Experience (15-20%)
+- Troubleshoot and Debug Web Applications (20-25%)
+- Design and Implement Security (15-20%)
 retirementDate: 01/31/2021
 roles:
 - developer
@@ -60,9 +80,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

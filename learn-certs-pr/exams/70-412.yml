@@ -1,17 +1,31 @@
 ### YamlMime:Examination
 title: Configuring Advanced Windows Server 2012 Services
 metadata:
-  title: 'Exam 70-412: Configuring Advanced Windows Server 2012 Services'
-  description: 'Exam 70-412: Configuring Advanced Windows Server 2012 Services'
+  title: 'Prüfung 70-412: Konfigurieren erweiterter Windows Server 2012 Services'
+  description: 'Prüfung 70-412: Konfigurieren erweiterter Windows Server 2012 Services'
+  ms.openlocfilehash: 7eda398404d6625098b7cf55e8da445e9118db43
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137659104"
 uid: exam.70-412
 displayName: 70-412
-summary: |-
-  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  Diese Prüfung ist die dritte von drei Prüfungen, welche die erforderlichen Fähigkeiten und Kenntnisse zur Administration der Windows Server 2012-Infrastruktur in einer Unternehmensumgebung testen. Das Bestehen dieser Prüfung bestätigt die Fähigkeit eines Kandidaten, die erforderlichen Aufgaben zur erweiterten Konfiguration für das Bereitstellen, Verwalten und Warten einer Windows Server 2012-Infrastruktur durchzuführen. Dazu gehören u. a. Fehlertoleranz, Zertifikatsdienste und Identitätsverbund. Das Bestehen dieser Prüfung, zusammen mit den anderen beiden Prüfungen, bestätigt, dass der Kandidat über die erforderlichen Fähigkeiten und Kenntnisse für die Implementierung, Verwaltung, Wartung und Bereitstellung von Diensten und Infrastruktur in einer Windows Server 2012-Umgebung verfügt.
+  > Dieses Examen wurde am 31. Januar 2021 eingestellt. Die derzeit verfügbaren Optionen finden Sie auf der Seite [Zertifizierungen und Prüfungen durchsuchen.](/learn/certifications/browse/?resource_type=examination)
 
-  <div style='font-weight&#58; bold;'><br/>Prüfungs-Updates gibt es dem 19. April 2018. Laden Sie den Änderungsbeleg für Prüfung Nr 412 herunter und lesen Sie ihn durch, um mehr über diese Änderungen und deren Auswirkungen auf die Kompetenzbemessung zu erfahren.</div>
-subTitle: Diese Prüfung ist die dritte von drei Prüfungen, welche die erforderlichen Fähigkeiten und Kenntnisse zur Administration der Windows Server 2012-Infrastruktur in einer Unternehmensumgebung testen. Das Bestehen dieser Prüfung bestätigt die Fähigkeit eines Kandidaten, die erforderlichen Aufgaben zur erweiterten Konfiguration für das Bereitstellen, Verwalten und Warten einer Windows Server 2012-Infrastruktur durchzuführen. Dazu gehören u. a. Fehlertoleranz, Zertifikatsdienste und Identitätsverbund. Das Bestehen dieser Prüfung, zusammen mit den anderen beiden Prüfungen, bestätigt, dass der Kandidat über die erforderlichen Fähigkeiten und Kenntnisse für die Implementierung, Verwaltung, Wartung und Bereitstellung von Diensten und Infrastruktur in einer Windows Server 2012-Umgebung verfügt.
+
+  <br/>
+
+  Diese Prüfung ist der dritte Teil einer Reihe von drei Prüfungen, die die Qualifikationen und das Wissen testen, die zum Verwalten einer Windows Server 2012 Infrastruktur in einer Unternehmensumgebung erforderlich sind. Das Bestehen dieser Prüfung überprüft die Fähigkeit eines Kandidaten, die erweiterten Konfigurationsaufgaben auszuführen, die zum Bereitstellen, Verwalten und Verwalten einer Windows Server 2012-Infrastruktur erforderlich sind, z. B. Fehlertoleranz, Zertifikatdienste und Identitätsverbund. Das Bestehen dieser Prüfung zusammen mit den anderen beiden Prüfungen bestätigt, dass ein Kandidat über die Qualifikationen und Kenntnisse verfügt, die für die Implementierung, Verwaltung, Wartung und Bereitstellung von Diensten und Infrastrukturen in einer Windows Server 2012 sind.
+
+
+  > [!IMPORTANT]
+
+  > Ab dem 19. April 2018 gibt es Prüfungupdates. Weitere Informationen zu diesen Änderungen und deren Auswirkungen auf die gemessenen Qualifikationen finden Sie im Dokument zur Änderung der Prüfung 412.
+subTitle: Diese Prüfung ist der dritte Teil einer Reihe von drei Prüfungen, die die Qualifikationen und das Wissen testen, die zum Verwalten einer Windows Server 2012 Infrastruktur in einer Unternehmensumgebung erforderlich sind. Das Bestehen dieser Prüfung überprüft die Fähigkeit eines Kandidaten, die erweiterten Konfigurationsaufgaben auszuführen, die zum Bereitstellen, Verwalten und Verwalten einer Windows Server 2012-Infrastruktur erforderlich sind, z. B. Fehlertoleranz, Zertifikatdienste und Identitätsverbund. Das Bestehen dieser Prüfung zusammen mit den anderen beiden Prüfungen bestätigt, dass ein Kandidat über die Qualifikationen und Kenntnisse verfügt, die für die Implementierung, Verwaltung, Wartung und Bereitstellung von Diensten und Infrastrukturen in einer Windows Server 2012 sind.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixW
 practiceTestUrl: https://www.mindhub.com/70-412-Configuring-Advanced-Windows-Server-2012-Se-p/mu-70-412_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -25,19 +39,17 @@ locales:
 levels:
 - intermediate
 skills:
-- Hochverfügbarkeit konfigurieren und verwalten
-- Datei- und Speicherlösungen konfigurieren
-- Implementierung von Geschäftskontinuität und Notfallwiederherstellung
-- Netzwerkdienste konfigurieren
-- Active Directory-Infrastruktur konfigurieren
-- Zugriffs- und Informationsschutz-Lösungen konfigurieren
+- Configure and Manage High Availability
+- Configure File and Storage Solutions
+- Implement Business Continuity and Disaster Recovery
+- Configure Network Services
+- Configure the Active Directory Infrastructure
+- Configure Access and Information Protection Solutions
 retirementDate: 01/31/2021
 roles:
 - administrator
 products:
 - windows-server
-courses:
-- uid: course.20412
 relatedCertifications:
 - related:
     uid: certification.mcsa-windows-server-certification
@@ -49,9 +61,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

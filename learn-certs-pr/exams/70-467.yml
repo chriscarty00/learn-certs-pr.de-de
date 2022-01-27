@@ -1,17 +1,31 @@
 ### YamlMime:Examination
 title: Designing Business Intelligence Solutions with Microsoft SQL Server
 metadata:
-  title: 'Exam 70-467: Designing Business Intelligence Solutions with Microsoft SQL Server'
-  description: 'Exam 70-467: Designing Business Intelligence Solutions with Microsoft SQL Server'
+  title: 'Prüfung 70-467: Entwerfen von Business Intelligence-Lösungen mit Microsoft SQL Server'
+  description: 'Prüfung 70-467: Entwerfen von Business Intelligence-Lösungen mit Microsoft SQL Server'
+  ms.openlocfilehash: e55603d2eb0d424219f7558c696775160bb7898f
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137656420"
 uid: exam.70-467
 displayName: 70-467
-summary: |-
-  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  Diese Prüfung ist für Business-Intelligence (BI)-Architekten gedacht, die für die Gestaltung einer BI-Infrastruktur und die Beziehungen zu anderen verwendeten Datensystemen verantwortlich sind.
+  > Dieses Examen wurde am 31. Januar 2021 eingestellt. Die derzeit verfügbaren Optionen finden Sie auf der Seite [Zertifizierungen und Prüfungen durchsuchen.](/learn/certifications/browse/?resource_type=examination)
 
-  <div style='font-weight&#58; bold;'><br/>Ab dem 18. Februar 2016 umfasst diese Prüfung Inhalte, die sowohl SQL Server 2012 als auch 2014 abdecken. Bitte beachten Sie, dass diese Prüfung keine Fragen zu Funktionen oder Fähigkeiten enthält, die nur im Produkt SQL Server 2012 enthalten sind. Für weitere Informationen <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tt8Z">dladen Sie bitte dieses Dokument herunter und lesen Sie es durch</a>.</div>
-subTitle: Diese Prüfung ist für Business-Intelligence (BI)-Architekten gedacht, die für die Gestaltung einer BI-Infrastruktur und die Beziehungen zu anderen verwendeten Datensystemen verantwortlich sind.
+
+  <br/>
+
+  Diese Prüfung richtet sich an Business Intelligence-Architekten (BI), die für den Gesamtententwurf einer BI-Infrastruktur und deren Zusammenhang mit anderen in Gebrauchen eingesetzten Datensystemen verantwortlich sind.
+
+
+  > [!IMPORTANT]
+
+  > Ab dem 18. Februar 2016 enthält diese Prüfung Inhalte, die sowohl SQL Server 2012 als auch 2014 abdecken. Beachten Sie, dass diese Prüfung keine Fragen zu Features oder Funktionen enthält, die nur im Produkt SQL Server 2012 vorhanden sind. Weitere Informationen finden Sie in [diesem Dokument.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tt8Z)
+subTitle: Diese Prüfung richtet sich an Business Intelligence-Architekten (BI), die für den Gesamtententwurf einer BI-Infrastruktur und deren Zusammenhang mit anderen in Gebrauchen eingesetzten Datensystemen verantwortlich sind.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXf
 locales:
@@ -24,18 +38,16 @@ locales:
 levels:
 - advanced
 skills:
-- Planung der Business Intelligence (BI) Infrastruktur (15-20%)
-- Design der BI-Infrastruktur (15–20%)
-- Entwurf einer Berichtslösung (20–25%)
-- BI-Datenmodelle entwerfen (30–35%)
-- Entwurf einer ETL-Lösung (10–15%)
+- Plan business intelligence (BI) infrastructure (15–20%)
+- Design BI infrastructure (15–20%)
+- Design a reporting solution (20–25%)
+- Design BI data models (30–35%)
+- Design an ETL solution (10–15%)
 retirementDate: 01/31/2021
 roles:
 - data-engineer
 products:
 - sql-server
-courses:
-- uid: course.20467
 relatedCertifications:
 - related:
     uid: certification.mcse-data-management-analytics
@@ -47,9 +59,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

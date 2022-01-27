@@ -1,19 +1,34 @@
 ### YamlMime:Examination
 title: Identity with Windows Server 2016
 metadata:
-  title: 'Exam 70-742: Identity with Windows Server 2016'
-  description: 'Exam 70-742: Identity with Windows Server 2016'
+  title: 'Prüfung 70-742: Identität mit Windows Server 2016'
+  description: 'Prüfung 70-742: Identität mit Windows Server 2016'
+  ms.openlocfilehash: a1e5cb9f86e4d1cc11a2ad3a918043d9d4ea7953
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137659126"
 uid: exam.70-742
 displayName: 70-742
-summary: |-
-  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  Die Kandidaten für diese Prüfung verwalten Identitäten mit Hilfe der Funktionalitäten von Windows Server 2016. Die Kandidaten installieren, konfigurieren, verwalten und warten der Active Directory Domain Services (AD DS) und implementieren von Group Policy Objekten (GPOs).
+  > Dieses Examen wurde am 31. Januar 2021 eingestellt. Die derzeit verfügbaren Optionen finden Sie auf der [Seite Zertifizierungen und Prüfungen durchsuchen.](/learn/certifications/browse/?resource_type=examination)
 
-  Die Kandidaten sollten auch mit der Implementierung und Verwaltung des Active Directory Certificate Services (AD CS), Active Directory Federation Services (AD FS), Active Directory Rights Management Services (AD RMS) und Web Application Proxy vertraut sein.
 
-  <div style='font-weight&#58; bold;'><br/>Hinweis&#58; Prüfungs-Updates gibt es dem 3. November 2017. Laden Sie den Änderungsbeleg für Prüfung Nr 742 herunter und lesen Sie ihn durch, um mehr über diese Änderungen und deren Auswirkungen auf die Kompetenzbemessung zu erfahren.</div>
-subTitle: Die Kandidaten für diese Prüfung verwalten Identitäten mit Hilfe der Funktionalitäten von Windows Server 2016. Die Kandidaten installieren, konfigurieren, verwalten und warten der Active Directory Domain Services (AD DS) und implementieren von Group Policy Objekten (GPOs).
+  <br/>
+
+  Kandidaten für diese Prüfung verwalten Identitäten mithilfe der Funktionen in Windows Server 2016. Kandidaten installieren, konfigurieren, verwalten und verwalten Active Directory Domain Services (AD DS) und implementieren Gruppenrichtlinie Objects (GPOs).
+
+
+  Kandidaten sollten auch mit der Implementierung und Verwaltung von Active Directory-Zertifikatdienste (AD CS), Active Directory-Verbunddiensten (AD FS), Active Directory Rights Management Services (AD RMS) und Webanwendungsproxy vertraut sein.
+
+
+  > [!IMPORTANT]
+
+  > Hinweis&#58; Ab dem 3. November 2017 gelten Updates für Prüfungen. Um mehr über diese Änderungen zu erfahren und zu erfahren, wie sie sich auf die gemessenen Qualifikationen auswirken, laden Sie das Dokument zur Änderung der Prüfung 742 herunter, und lesen Sie es.
+subTitle: Kandidaten für diese Prüfung verwalten Identitäten mithilfe der Funktionen in Windows Server 2016. Kandidaten installieren, konfigurieren, verwalten und verwalten Active Directory Domain Services (AD DS) und implementieren Gruppenrichtlinie Objects (GPOs).
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1l
 practiceTestUrl: https://www.mindhub.com/70-742-Identity-with-Windows-Server-2016-Microsoft-p/mu-70-742_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -29,18 +44,16 @@ locales:
 levels:
 - intermediate
 skills:
-- Installieren und Konfigurieren von Active Directory-Domänendiensten (AD DS) (20-25%)
-- Verwalten und Pflegen von AD DS (15-20%)
-- Erstellen und Verwalten von Gruppenrichtlinien (25-30%)
-- Implementieren von Active Directory-Zertifikatdiensten (Active Directory Certificate Services, AD CS) (10-15%)
-- Implementieren von Identity Federations- und Access-Lösungen (15-20%)
+- Install and Configure Active Directory Domain Services (AD DS) (20-25%)
+- Manage and Maintain AD DS (15-20%)
+- Create and Manage Group Policy (25-30%)
+- Implement Active Directory Certificate Services (AD CS) (10-15%)
+- Implement Identity Federation and Access Solutions (15-20%)
 retirementDate: 01/31/2021
 roles:
 - administrator
 products:
 - windows-server
-courses:
-- uid: course.20742
 relatedCertifications:
 - related:
     uid: certification.mcsa-windows-server-2016-certification
@@ -52,9 +65,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

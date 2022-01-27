@@ -1,17 +1,31 @@
 ### YamlMime:Examination
 title: Administering Windows Server 2012
 metadata:
-  title: 'Exam 70-411: Administering Windows Server 2012'
-  description: 'Exam 70-411: Administering Windows Server 2012'
+  title: 'Prüfung 70-411: Verwalten von Windows Server 2012'
+  description: 'Prüfung 70-411: Verwalten von Windows Server 2012'
+  ms.openlocfilehash: 1247cf3776ec40dae8f8774a21d554f3ca5f0441
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137654814"
 uid: exam.70-411
 displayName: 70-411
-summary: |-
-  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  Diese Prüfung ist die zweite von drei Prüfungen, welche die erforderlichen Fähigkeiten und Kenntnisse zur Administration der Windows Server 2012-Infrastruktur in einer Unternehmensumgebung testen. Das Bestehen dieser Prüfung bestätigt die Fähigkeit eines Kandidaten, die erforderlichen Aufgaben zum Verwalten einer Windows Server 2012-Infrastruktur durchzuführen, z. B. Benutzer- und Gruppenverwaltung, Zugriff auf das Netzwerk und die Sicherheit von Daten. Das Bestehen dieser Prüfung, zusammen mit den anderen beiden Prüfungen, bestätigt, dass der Kandidat über die erforderlichen Fähigkeiten und Kenntnisse für die Implementierung, Verwaltung, Wartung und Bereitstellung von Diensten und Infrastruktur in einer Windows Server 2012-Umgebung verfügt.
+  > Dieses Examen wurde am 31. Januar 2021 eingestellt. Die derzeit verfügbaren Optionen finden Sie auf der [Seite Zertifizierungen und Prüfungen durchsuchen.](/learn/certifications/browse/?resource_type=examination)
 
-  <div style='font-weight&#58; bold;'><br/>Prüfungs-Updates gibt es dem 19. April 2018. Laden Sie den Änderungsbeleg für Prüfung Nr 411 herunter und lesen Sie ihn durch, um mehr über diese Änderungen und deren Auswirkungen auf die Kompetenzbemessung zu erfahren.</div>
-subTitle: Diese Prüfung ist die zweite von drei Prüfungen, welche die erforderlichen Fähigkeiten und Kenntnisse zur Administration der Windows Server 2012-Infrastruktur in einer Unternehmensumgebung testen. Das Bestehen dieser Prüfung bestätigt die Fähigkeit eines Kandidaten, die erforderlichen Aufgaben zum Verwalten einer Windows Server 2012-Infrastruktur durchzuführen, z. B. Benutzer- und Gruppenverwaltung, Zugriff auf das Netzwerk und die Sicherheit von Daten. Das Bestehen dieser Prüfung, zusammen mit den anderen beiden Prüfungen, bestätigt, dass der Kandidat über die erforderlichen Fähigkeiten und Kenntnisse für die Implementierung, Verwaltung, Wartung und Bereitstellung von Diensten und Infrastruktur in einer Windows Server 2012-Umgebung verfügt.
+
+  <br/>
+
+  Diese Prüfung ist der zweite Teil einer Reihe von drei Prüfungen, die die Qualifikationen und Kenntnisse testen, die zum Verwalten einer Windows Server 2012 Infrastruktur in einer Unternehmensumgebung erforderlich sind. Durch das Bestehen dieser Prüfung wird überprüft, ob ein Kandidat die Aufgaben verwalten kann, die zum Verwalten einer Windows Server 2012 Infrastruktur erforderlich sind, z. B. Benutzer- und Gruppenverwaltung, Netzwerkzugriff und Datensicherheit. Das Bestehen dieser Prüfung zusammen mit den anderen beiden Prüfungen bestätigt, dass ein Kandidat über die Qualifikationen und Kenntnisse verfügt, die für die Implementierung, Verwaltung, Wartung und Bereitstellung von Diensten und Infrastruktur in einer Windows Server 2012 Umgebung erforderlich sind.
+
+
+  > [!IMPORTANT]
+
+  > Ab dem 19. April 2018 gelten Updates für Prüfungen. Um mehr über diese Änderungen zu erfahren und zu erfahren, wie sie sich auf die gemessenen Qualifikationen auswirken, laden Sie das Dokument zur Änderung der Prüfung 411 herunter, und lesen Sie es.
+subTitle: Diese Prüfung ist der zweite Teil einer Reihe von drei Prüfungen, die die Qualifikationen und Kenntnisse testen, die zum Verwalten einer Windows Server 2012 Infrastruktur in einer Unternehmensumgebung erforderlich sind. Durch das Bestehen dieser Prüfung wird überprüft, ob ein Kandidat die Aufgaben verwalten kann, die zum Verwalten einer Windows Server 2012 Infrastruktur erforderlich sind, z. B. Benutzer- und Gruppenverwaltung, Netzwerkzugriff und Datensicherheit. Das Bestehen dieser Prüfung zusammen mit den anderen beiden Prüfungen bestätigt, dass ein Kandidat über die Qualifikationen und Kenntnisse verfügt, die für die Implementierung, Verwaltung, Wartung und Bereitstellung von Diensten und Infrastruktur in einer Windows Server 2012 Umgebung erforderlich sind.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7jV
 practiceTestUrl: https://www.mindhub.com/70-411-Administering-Windows-Server-2012-p/mu-70-411_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -25,19 +39,17 @@ locales:
 levels:
 - intermediate
 skills:
-- Bereitstellen, Verwalten und Pflegen von Servern
-- Datei- und Druckdienste konfigurieren
-- Netzwerkdienste und -zugriff konfigurieren
-- Eine Netzwerkrichtlinienserverinfrastruktur konfigurieren
-- Active Directory konfigurieren und verwalten
-- Gruppenrichtlinien konfigurieren und verwalten
+- Deploy, Manage, and Maintain Servers
+- Configure File and Print Services
+- Configure Network Services and Access
+- Configure a Network Policy Server Infrastructure
+- Configure and Manage Active Directory
+- Configure and Manage Group Policy
 retirementDate: 01/31/2021
 roles:
 - administrator
 products:
 - windows-server
-courses:
-- uid: course.20411
 relatedCertifications:
 - related:
     uid: certification.mcsa-windows-server-certification
@@ -49,9 +61,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

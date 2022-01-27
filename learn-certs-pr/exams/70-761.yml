@@ -1,15 +1,26 @@
 ### YamlMime:Examination
-title: Querying Data with Transact-SQL
+title: '\- Abfragen mit Transact-SQL'
 metadata:
-  title: 'Exam 70-761: Querying Data with Transact-SQL'
-  description: 'Exam 70-761: Querying Data with Transact-SQL'
+  title: 'Prüfung 70-761: Abfragen von Daten mit Transact-SQL'
+  description: 'Prüfung 70-761: Abfragen von Daten mit Transact-SQL'
+  ms.openlocfilehash: 6cee8baa0e5683db42acfdd0e57197db7c34d363
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137659181"
 uid: exam.70-761
 displayName: 70-761
-summary: |-
-  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  Diese Prüfung ist für Administratoren, Systemingenieure und Entwickler von SQL- Server-Datenbanken mit mindestens zwei Jahren Erfahrung konzipiert, die ihre Fähigkeiten und Kenntnisse im Schreiben von Abfragen bestätigen möchten.
-subTitle: Diese Prüfung ist für Administratoren, Systemingenieure und Entwickler von SQL- Server-Datenbanken mit mindestens zwei Jahren Erfahrung konzipiert, die ihre Fähigkeiten und Kenntnisse im Schreiben von Abfragen bestätigen möchten.
+  > Dieses Examen wurde am 31. Januar 2021 eingestellt. Die derzeit verfügbaren Optionen finden Sie auf der [Seite Zertifizierungen und Prüfungen durchsuchen.](/learn/certifications/browse/?resource_type=examination)
+
+
+  <br/>
+
+  Diese Prüfung richtet sich an SQL Server Datenbankadministratoren, Systemtechniker und Entwickler mit zwei oder mehr Jahren Erfahrung, die ihre Fähigkeiten und Kenntnisse beim Schreiben von Abfragen überprüfen möchten.
+subTitle: Diese Prüfung richtet sich an SQL Server Datenbankadministratoren, Systemtechniker und Entwickler mit zwei oder mehr Jahren Erfahrung, die ihre Fähigkeiten und Kenntnisse beim Schreiben von Abfragen überprüfen möchten.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiOm
 practiceTestUrl: https://www.mindhub.com/search?query=70-761&amp;categoryId=11284?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -18,16 +29,14 @@ locales:
 levels:
 - intermediate
 skills:
-- Daten verwalten mit Transact-SQL (40-45%)
-- Daten mit erweiterten Transact-SQL-Komponenten abfragen (30-35%)
-- Mit Transact-SQL Datenbanken programmieren (25-30%)
+- Manage data with Transact-SQL (40-45%)
+- Query data with advanced Transact-SQL components (30-35%)
+- Program databases by using Transact-SQL (25-30%)
 retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:
 - sql-server
-courses:
-- uid: course.20761
 relatedCertifications:
 - related:
     uid: certification.mcsa-sql2016-database-development-certification
@@ -39,9 +48,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

@@ -1,15 +1,26 @@
 ### YamlMime:Examination
-title: Developing SQL Databases
+title: SQL-Datenbanken entwickeln
 metadata:
-  title: 'Exam 70-762: Developing SQL Databases'
-  description: 'Exam 70-762: Developing SQL Databases'
+  title: 'Prüfung 70-762: Entwickeln SQL Datenbanken'
+  description: 'Prüfung 70-762: Entwickeln SQL Datenbanken'
+  ms.openlocfilehash: e63f3405b95187c11742c86713020e66317c0f21
+  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "137658268"
 uid: exam.70-762
 displayName: 70-762
-summary: |-
-  <div><font color='red'><strong>Diese Prüfung wurde am 31. Januar 2021 eingestellt. Informationen zu derzeit verfügbaren Optionen finden Sie auf der <a href='/learn/certifications/browse/?resource_type=examination'>Seite „Zertifizierungen und Prüfungen durchsuchen"</a>.<br/><br/></strong></font></div>
+summary: >-
+  > [!IMPORTANT]
 
-  Diese Prüfung ist für Datenbankexperten bestimmt, die Datenbanken entwickeln und unternehmensweit implementieren und die eine hohe Datenverfügbarkeit sicherstellen. Ihre Aufgaben umfassen&#58; Erstellung von Datenbankdateien, Datentypen und Tabellen; Planen, Erstellen und Optimieren von Indizes; Gewährleistung der Datenintegrität; Implementierung von Ansichten, gespeicherten Prozeduren und Funktionen; Verwaltung von Transaktionen und Sperren.
-subTitle: 'Diese Prüfung ist für Datenbankexperten bestimmt, die Datenbanken entwickeln und unternehmensweit implementieren und die eine hohe Datenverfügbarkeit sicherstellen. Ihre Aufgaben umfassen: Erstellung von Datenbankdateien, Datentypen und Tabellen; Planen, Erstellen und Optimieren von Indizes; Gewährleistung der Datenintegrität; Implementierung von Ansichten, gespeicherten Prozeduren und Funktionen; Verwaltung von Transaktionen und Sperren.'
+  > Dieses Examen wurde am 31. Januar 2021 eingestellt. Die derzeit verfügbaren Optionen finden Sie auf der Seite [Zertifizierungen und Prüfungen durchsuchen.](/learn/certifications/browse/?resource_type=examination)
+
+
+  <br/>
+
+  Diese Prüfung richtet sich an Datenbankexperten, die Datenbanken in verschiedenen Organisationen erstellen und implementieren und ein hohes Maß an Datenverfügbarkeit sicherstellen. Zu ihren Zuständigkeiten gehören das Erstellen von Datenbankdateien, Datentypen und Tabellen. Planen, Erstellen und Optimieren von Indizes; Sicherstellen der Datenintegrität; Implementieren von Sichten, gespeicherten Prozeduren und Funktionen; und verwalten Transaktionen und Sperren.
+subTitle: Diese Prüfung richtet sich an Datenbankexperten, die Datenbanken in verschiedenen Organisationen erstellen und implementieren und ein hohes Maß an Datenverfügbarkeit sicherstellen. Zu ihren Zuständigkeiten gehören das Erstellen von Datenbankdateien, Datentypen und Tabellen. Planen, Erstellen und Optimieren von Indizes; Sicherstellen der Datenintegrität; Implementieren von Sichten, gespeicherten Prozeduren und Funktionen; und verwalten Transaktionen und Sperren.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXU
 practiceTestUrl: https://www.mindhub.com/70-762-Developing-SQL-Databases-p/mu-70-762_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -18,17 +29,15 @@ locales:
 levels:
 - advanced
 skills:
-- Datenbankobjekte entwerfen und implementieren (25-30%)
-- Programmierbarkeitsobjekte implementieren (20-25%)
-- Gleichzeitigkeit von Datenbanken verwalten (25-30%)
-- Datenbankobjekte und SQL-Infrastruktur optimieren (20-25%)
+- Design and implement database objects (25-30%)
+- Implement programmability objects (20-25%)
+- Manage database concurrency (25-30%)
+- Optimize database objects and SQL infrastructure (20-25%)
 retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:
 - sql-server
-courses:
-- uid: course.20762
 relatedCertifications:
 - related:
     uid: certification.mcse-data-management-analytics
@@ -42,9 +51,8 @@ resources:
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Unterkünfte anfordern
-  description: Erfahren Sie mehr über die Anforderung einer Unterkunft für Ihre Prüfung.
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
   href: ../request-accommodations.md
 - title: Prüfungsrichtlinien und FAQs
   description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
   href: ../certification-exam-policies.md
-

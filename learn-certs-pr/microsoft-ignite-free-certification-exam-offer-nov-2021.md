@@ -9,16 +9,16 @@ ms.workload: NA
 ms.date: 11/01/2021
 ms.author: venkato
 ms.prod: non-product-specific
-ms.openlocfilehash: cb0426b4288b7c229c0b7b7e34553c925dea07c1
-ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
+ms.openlocfilehash: 6c6b9ffe8b0e8d7f4373496d52f5deb593660ae0
+ms.sourcegitcommit: 506a51e91385fac41755ea8082b4a6f8097773e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/28/2021
-ms.locfileid: "133742899"
+ms.lasthandoff: 01/24/2022
+ms.locfileid: "137647567"
 ---
 # <a name="microsoft-ignite-cloud-skills-challenge--november-2021-free-certification-exam"></a>Microsoft Ignite Cloud Skills Challenge – November 2021: kostenlose Zertifizierungsprüfung
 
-Vielen Dank, dass Sie die [Microsoft Ignite Cloud Skills Challenge – November 2021](https://aka.ms/ignitecsc)abgeschlossen haben. Alle Teilnehmer, die mindestens eine Challenge abgeschlossen haben, haben Anspruch auf eine kostenlose Zertifizierungsprüfung, vorbehaltlich dieser [Bestimmungen](#terms-and-conditions), damit sie ihre Kenntnisse weiter verbessern und ihr technisches Fachwissen gegenüber Arbeitgebern und Kollegen unter Beweis stellen können.
+Vielen Dank für Ihre Teilnahme an der [Microsoft Ignite Cloud Skills Challenge – November 2021](https://aka.ms/ignitecsc). Alle Teilnehmer, die mindestens eine Challenge abgeschlossen haben, haben Anspruch auf eine kostenlose Zertifizierungsprüfung, vorbehaltlich dieser [Bestimmungen](#terms-and-conditions), damit sie ihre Kenntnisse weiter verbessern und ihr technisches Fachwissen gegenüber Arbeitgebern und Kollegen unter Beweis stellen können.
 
 ## <a name="details"></a>Details
 
@@ -34,7 +34,7 @@ Im Folgenden finden Sie schrittweise Anleitungen, wie Sie Ihre kostenlose Prüfu
 ![Klicken Sie auf die Schaltfläche „Mit Pearson VUE planen“, um den Onlineregistrierungsprozess zu starten.](images/microsoft-ignite-free-certification-exam-offer-march-2021-step-1.png)
 <br/>
 <br/>
-2. Melden Sie sich bei Ihrem vorhandenen Microsoft-Zertifizierungsprofil an, oder erstellen Sie eins mit einem Microsoft-Konto.
+2. Melden Sie sich bei Ihrem vorhandenen Microsoft-Zertifizierungsprofil an, oder erstellen Sie ein Profil mit einem Microsoft-Konto.
 <br/>
 <br/>
 ![Anmelden beim Microsoft-Zertifizierungsprofil](images/microsoft-ignite-free-certification-exam-offer-march-2021-step-2.png)
@@ -87,7 +87,7 @@ Wenn Sie sich das nächste Mal anmelden und Anspruch auf Prüfungsrabatte für e
 
 ## <a name="certification-support"></a>Zertifizierungsunterstützung
 
-Bei Problemen bei der Planung Ihrer Prüfung erhalten Sie Hilfe über den [Microsoft-Zertifizierungssupport.](https://aka.ms/CertificationSupport) Innerhalb eines Werktages wird Ihnen ein Forenmoderator antworten.
+Bei Problemen mit dem Anspruch auf Ihren Rabatt und der Planung Ihrer Prüfung erhalten Sie Hilfe über [cloudskillshelp@microsoft.com](mailto:cloudskillshelp@microsoft.com) . Ein Moderator antwortet innerhalb von drei Werktagen.
 
 ## <a name="eligible-exams"></a><a name="eligible-exams"></a> Infrage kommende Prüfungen
 
@@ -115,21 +115,21 @@ Zu den infrage kommenden Prüfungen zählen nur die unten aufgeführten.
 
 **F: Kann ich dieses Angebot auch in Anspruch nehmen, wenn ich mich für Microsoft Ignite registriert habe, mich aber nicht für die Cloud Skills Challenge angemeldet oder diese abgeschlossen habe?**
 
-**Eine:** Nein, dieses Angebot gilt nur für diejenigen, die eine der Herausforderungen innerhalb der Microsoft Ignite Cloud Skills Challenge – 2021 abgeschlossen haben.
+**A**: Nein, dieses Angebot gilt nur für Personen, die eine der Challenges im Rahmen der „Microsoft Ignite Cloud Skills Challenge – 2021“ abgeschlossen haben.
 
 ### <a name="scheduling-your-free-exam"></a>Planen Ihres kostenlosen Examens
 
-**F: Muss ich die Prüfung am oder vor dem 15. März 2022 ablegen?**
+**F: Muss ich das Examen am oder vor dem 15. März 2022 ablegen?**
 
-**Eine:** Ja, Sie müssen die Prüfung am oder vor dem 15. März 2022 ablegen.
+**A**: Ja, Sie müssen das Examen spätestens am 15. März 2022 ablegen.
 
 **F: Ich habe Probleme beim Planen meines kostenlosen Examens. Wo kann ich Support erhalten?**
 
-**Eine:** Hilfe erhalten Sie, indem Sie sich an den [Microsoft-Zertifizierungssupport wenden.](https://aka.ms/CertificationSupport) Innerhalb eines Werktages wird Ihnen ein Moderator antworten.
+**A**: Hilfe erhalten Sie, indem Sie sich an den [Microsoft Zertifizierungssupport](https://aka.ms/CertificationSupport) wenden. Innerhalb eines Werktages wird Ihnen ein Moderator antworten.
 
 **F: Kann ich auswählen, ob ich das geplante Examen persönlich oder online ablegen möchte?**
 
-**Eine:** Ja, Sie haben die Möglichkeit, die geplante Prüfung über Pearson Vue persönlich in einem lokalen Testcenter (sofern verfügbar) oder über [online](/learn/certifications/online-exams)zu absolvieren. Testzentren können aufgrund von COVID-19-Einschränkungen vorübergehend geschlossen sein. Bleiben Sie mit aktuellen [Testverfügbarkeitsinformationen von Pearson Vue](https://home.pearsonvue.com/coronavirus-update) auf dem laufenden.
+**A**: Ja, Sie haben die Möglichkeit, das geplante Examen über Pearson Vue persönlich in einem lokalen Prüfungszentrum (sofern verfügbar) oder [online](/learn/certifications/online-exams) abzulegen. Testzentren können aufgrund von COVID-19-Einschränkungen vorübergehend geschlossen sein. Bleiben Sie mit aktuellen [Informationen zur Verfügbarkeit von Examen von Pearson Vue](https://home.pearsonvue.com/coronavirus-update) auf dem Laufenden.
 
 ### <a name="cancellation-and-reschedule-policy"></a>Stornierungs- und Neuterminierungsrichtlinie
 
@@ -153,7 +153,7 @@ Zu den infrage kommenden Prüfungen zählen nur die unten aufgeführten.
 
 ## <a name="terms-and-conditions"></a><a name="terms-and-conditions"></a> Geschäftsbedingungen
 
-- Die Microsoft Ignite Cloud Skills Challenge – November 2021 begann am 2. November 2021 um 16:00 Uhr UTC (16:00) und endet am 30. November 2021 um 16:00 Uhr UTC (16:00).
+- Die Microsoft Ignite Cloud Skills Challenge – November 2021 begann am 2. November 2021 um 16:00 Uhr UTC und endete am 30. November 2021 um 16:00 Uhr UTC.
 - Sie müssen während der Registrierung für die Microsoft Ignite Cloud Skills Challenge – November 2021 eine E-Mail-Adresse angeben. Sie werden über die von Ihnen angegebene E-Mail-Adresse hinsichtlich der Einzelheiten der kostenlosen Zertifizierung kontaktiert.
 - Dieses Prüfungsangebot steht berechtigten Personen offen, die eine Challenge in der Microsoft Ignite Cloud Skills Challenge – November 2021 absolvieren.
 - Sie können nur ein Angebot pro Person in Anspruch nehmen, unabhängig von der Anzahl der von Ihnen absolvierten Challenges.

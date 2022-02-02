@@ -11,7 +11,7 @@ ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 769a69f8a37d1e6ceb31c8690da4c26dbd4cc63c
 ms.sourcegitcommit: df7ca43366241a7b990f9e290f62d630f4d65c28
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 01/12/2022
 ms.locfileid: "135964288"
@@ -20,7 +20,7 @@ ms.locfileid: "135964288"
 
 Die Schulungs- und Zertifizierungslösungen von Microsoft unterstützen Unternehmen und akkreditierte akademische Einrichtungen dabei, die Einführung und Nutzung von Microsoft-Technologien zu beschleunigen. Mit diesen unternehmenstauglichen, direkt von der Quelle stammenden Schulungs- und Zertifizierungsressourcen können Ihre Mitarbeiter die Fähigkeiten erwerben, die sie benötigen, um effizienter und produktiver zu arbeiten.
 
-Microsoft-Schulungs- und -Zertifizierungslösungen sind über das **Microsoft-Volumenlizenzierungsprogramm** verfügbar, ein anpassbares Microsoft-Softwarekaufprogramm, das rabattierten Zugriff auf Microsoft-Trainings- und Zertifizierungslösungen gewährt.
+Schulungs- und Zertifizierungslösungen von Microsoft sind über das Programm für die **Microsoft-Volumenlizenzierung** verfügbar, ein anpassbares Microsoft-Programm für den Softwareerwerb, das vergünstigten Zugang zu Schulungs- und Zertifizierungslösungen von Microsoft gewährt.
 
 Durch die Konsolidierung des Kaufs, der Budgetierung und der Verfolgung der auf dieser Seite beschriebenen Microsoft-Produkte für Trainings- und Zertifizierungslösungen mit anderen Microsoft-Technologiekäufen durch Volumenlizenzierung kann Ihr Unternehmen 20 bis 80 Prozent Kosteneinsparungen erzielen (je nach Produkt und Volumenlizenzvertragsstufe).
 

@@ -1,14 +1,20 @@
 ### YamlMime:Course
-title: 'Microsoft Cloud Workshop: Big Data &amp; Visualization'
+title: 'Microsoft Cloud Workshop: Big data analytics and visualization'
 metadata:
-  title: 'Course 40502-G: Microsoft Cloud Workshop: Big Data &amp; Visualization'
-  description: 'Course 40502-G: Microsoft Cloud Workshop: Big Data &amp; Visualization'
+  title: 'Kurs 40502-G: Microsoft Cloud Workshop: Big data analytics and visualization'
+  description: 'Kurs 40502-G: Microsoft Cloud Workshop: Big data analytics and visualization'
+  ms.openlocfilehash: 2ae69c7833ec9ce1393e7805592695482bb6fdec
+  ms.sourcegitcommit: 6491474c7565815a27be28fa0c264bf6c093f5b4
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/23/2021
+  ms.locfileid: "135540187"
 uid: course.40502
-courseNumber: '40502-G'
+courseNumber: 40502-G
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Am Ende dieses Workshops werden Sie besser in der Lage sein, ein komplettes maschinelles Lernmodell in Azure Databricks zu erstellen, um vorherzusagen, ob ein bevorstehender Flug Verspätungen haben wird. Außerdem lernen Sie, wie Sie das trainierte Modell im Azure Machine Learning Model Management speichern, dann in Docker-Containern für skalierbare On-Demand-Vorhersagen bereitstellen, verwenden Azure Data Factory (ADF) zur Datenbewegung und Operationalisierung ML Scoring, Daten zusammenfassen mit Azure Databricks und Spark SQL, und visualisieren Sie Chargenvorhersagen auf einer Karte mit Power BI.
+- skill: Am Ende dieses Workshops können Sie ein vollständiges Machine Learning-Modell in Azure Databricks erstellen, um vorherzusagen, ob es bei einem anstehenden Flug zu Verzögerungen kommt. Außerdem lernen Sie, wie Sie das trainierte Modell in der Azure Machine Learning-Modellverwaltung speichern, dann in Docker-Containern für skalierbare On-Demand-Vorhersagen bereitstellen, Azure Data Factory (ADF) zur Datenverschiebung und Operationalisierung von ML-Bewertungen verwenden, Daten mit Azure Databricks und Spark SQL zusammenfassen und Batchvorhersagen auf einer Karte mit Power BI visualisieren.
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -18,26 +24,42 @@ roles:
 - data-engineer
 products:
 - azure
-summary: |-
-  In diesem Workshop werden Sie eine Web-App mithilfe von Machine Learning (ML) einsetzen, um Reiseverspätungen anhand von Flugverspätungsdaten und Wetterbedingungen vorherzusagen. Planen Sie einen Bulk-Datenimport, gefolgt von der Vorbereitung, wie Bereinigung und Manipulation der Daten zum Testen, und dem Training Ihres Machine Learning-Modells.
-
-  #### Zielgruppenprofil
-  Dieser Workshop richtet sich an Cloud Architects und IT-Fachleute, die über architektonisches Fachwissen im Bereich Infrastruktur- und Lösungsdesign für Cloud-Technologien verfügen und mehr über Azure und Azure -Services erfahren möchten, wie in den Bereichen „Zusammenfassung" und „Erlernte Kompetenzen" beschrieben. Wer an diesem Workshop teilnimmt, sollte auch Erfahrung mit anderen Nicht-Microsoft Cloud-Technologien haben, die Kursvoraussetzungen erfüllen und ein Cross-Training auf Azure durchführen wollen.
-outlineSection: |-
-  ### Modul 1&#58; Whiteboard Design-Sitzung - Große Daten und Visualisierung
-  #### Lektionen
-  - Überprüfung der Kundenfallstudie
-  - Entwerfen einer Proof-of-Concept-Lösung
-  - Präsentieren Sie die Lösung
+summary: >-
+  In diesem Workshop stellen Sie eine Web-App mithilfe von Machine Learning (ML) zur Vorhersage von Reiseverspätungen anhand von Flugverspätungsdaten und Wetterbedingungen zur Verfügung. Planen Sie einen Massenimportvorgang für Daten, gefolgt von der Vorbereitung (etwa Bereinigung und Bearbeitung der Daten) zum Testen und dem Training Ihres Machine Learning-Modells.
 
 
-  ### Modul 2&#58; Praxislabor - Große Daten und Visualisierung
-  #### Lektionen
-  - Konstruieren eines Machine Learning Model
-  - Einrichten der Azure Data Factory
-  - Einsatz Ihres machine learning model with Azure ML
-  - Entwicklung einer Data-Factory-Pipeline für die Datenbewegung
-  - Operationalisieren Sie ML-Scoring mit Azure Databricks und Data Factory
-  - Zusammenfassen von Daten mit Azure Databricks
-  - Visualisierung in Power BI Desktop
-  - Intelligente Web-App bereitstellen
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+  Dieser Workshop richtet sich an Cloudarchitekten und IT-Experten, die über Architekturkenntnisse im Infrastruktur- und Lösungsentwurf in Cloudtechnologien verfügen und mehr über Azure- und Azure-Dienste erfahren möchten, wie in den Bereichen „Informationen zu diesem Kurs“ und „Erlernte Kompetenzen“ beschrieben.  Die Teilnehmer an diesem Workshop sollten auch Erfahrung mit anderen Cloudtechnologien haben, die nicht von Microsoft stammen, die Kursvoraussetzungen erfüllen und an einem Cross-Training in Azure interessiert sein.
+outlineSection: >-
+  ### <a name="module-158-whiteboard-design-session---big-data-analytics-and-visualization"></a>Modul 1&#58; Whiteboard-Entwurfssitzung: Big Data-Analyse und -Visualisierung
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Überprüfen der Fallstudie für Kunden
+
+  - Entwerfen einer Proof of Concept-Lösung
+
+  - Präsentieren der Lösung
+
+
+
+  ### <a name="module-258-hands-on-lab---big-data-analytics-and-visualization"></a>Module 2&#58; Praxislab: Big Data-Analyse und -Visualisierung
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Abrufen von Labumgebungsinformationen und Erstellen eines Databricks-Clusters
+
+  - Laden von Beispieldaten und Databricks-Notebooks
+
+  - Einrichten von Azure Data Factory
+
+  - Entwickeln einer Data Factory-Pipeline für die Datenverschiebung
+
+  - Operationalisieren der ML-Bewertung mit Azure Databricks und Data Factory
+
+  - Zusammenfassen von Daten mithilfe von Azure Databricks
+
+  - Visualisieren in Power BI Desktop
+
+  - Bereitstellen einer intelligenten Web-App (optional)

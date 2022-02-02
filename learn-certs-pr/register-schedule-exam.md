@@ -11,7 +11,7 @@ ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 8b6941ae5c42f0c987c0acea96c32dc57994f5f1
 ms.sourcegitcommit: d58330a3c9b4b1a5e9b866fc8ba6af651ab0ed3b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 12/30/2021
 ms.locfileid: "135638621"
@@ -38,7 +38,7 @@ Bei einigen Anbietern können Sie bei der Terminvereinbarung auswählen, ob Sie 
 
 Wenn Sie Ihre Prüfung online ablegen möchten, müssen Sie **vor der Anmeldung zur Prüfung** durch eine Systemprüfung sicherstellen, dass Ihr Rechner die Anforderungen erfüllt. Wenn Sie die Prüfung auf einem anderen Computer ablegen, müssen Sie die Systemprüfung auf diesem Rechner durchführen.
 
-Ausführliche Anweisungen zur Durchführung der Systemvorprüfung finden Sie unter: Informationen zu [Onlineprüfungen mit Pearson VUE](/learn/certifications/online-exams). Certiport bietet derzeit keine beaufsichtigten Onlineprüfungen an.
+Ausführliche Anweisungen zur Durchführung der Systemvorprüfung finden Sie unter [Informationen zu Onlineprüfungen mit Pearson VUE](/learn/certifications/online-exams). Certiport bietet derzeit keine beaufsichtigten Onlineprüfungen an.
 
 Wenn Sie sich nicht sicher sind, welchen Prüfungsanbieter Sie auswählen sollen, finden Sie weitere Informationen in diesen Abschnitt: [Auswählen eines Prüfungsanbieters](#how-to-choose-an-exam-delivery-provider).
 

@@ -1,0 +1,57 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Analyzing text with Azure Machine Learning and Cognitive Services'
+metadata:
+  title: 'Kurs 40530-G: Microsoft Cloud Workshop: Analyzing text with Azure Machine Learning and Cognitive Services'
+  description: 'Kurs 40530-G: Microsoft Cloud Workshop: Analyzing text with Azure Machine Learning and Cognitive Services'
+  ms.openlocfilehash: d73191092540260d15b5f849747b96d4560d2e65
+  ms.sourcegitcommit: 6491474c7565815a27be28fa0c264bf6c093f5b4
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 12/23/2021
+  ms.locfileid: "135540198"
+uid: course.40530
+courseNumber: 40530-G
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Am Ende dieses Workshops werden Sie besser in der Lage sein, Lösungen zu präsentieren, die Azure Machine Learning Services und Cognitive Services nutzen.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: >-
+  In diesem Workshop erfahren Sie, wie Sie sowohl vorgefertigte künstliche Intelligenz (KI) (in Form verschiedener Cognitive Services-Dienste) mit benutzerdefinierter KI (in Form von Diensten, die mit Azure Machine Learning Services erstellt und bereitgestellt werden) kombinieren. Sie erfahren, wie Sie intelligente Lösungen auf der Grundlage unstrukturierter Textdaten erstellen, indem Sie eine Textanalysepipeline entwerfen und implementieren. Außerdem erfahren Sie, wie Sie eine binäre Klassifizierung mithilfe eines einfachen neuronalen Netzwerks erstellen, das zum Klassifizieren der Textdaten verwendet werden kann. Sie lernen zudem, wie Sie mehrere Arten von Vorhersagediensten mit Azure Machine Learning bereitstellen und die Integration in die Maschinelles Sehen-API und die Textanalyse-API von Cognitive Services durchführen.
+
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+  Dieser Workshop richtet sich an Cloudarchitekten und IT-Experten, die über Architekturkenntnisse im Infrastruktur- und Lösungsdesign für Cloudtechnologien verfügen und mehr über Azure und Azure-Dienste erfahren möchten, wie in den Bereichen „Informationen zu diesem Kurs“ und „Erlernte Kompetenzen“ beschrieben.  Die Teilnehmer an diesem Workshop sollten auch Erfahrung mit anderen Cloudtechnologien haben, die nicht von Microsoft stammen, die Kursvoraussetzungen erfüllen und an einem Cross-Training in Azure interessiert sein.
+outlineSection: >-
+  ### <a name="module-158-whiteboard-design-session---analyzing-text-with-azure-machine-learning-and-cognitive-services"></a>Modul 1&#58; Whiteboard-Entwurfssitzung: Analysieren von Text mit Azure Machine Learning und Cognitive Services
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Überprüfen der Fallstudie für Kunden
+
+  - Entwerfen einer Proof of Concept-Lösung
+
+  - Präsentieren der Lösung
+
+
+
+  ### <a name="module-258-hands-on-lab---analyzing-text-with-azure-machine-learning-and-cognitive-services"></a>Modul 2&#58; Praxislab: Analysieren von Text mit Azure Machine Learning und Cognitive Services
+
+  #### <a name="lessons"></a>Lektionen
+
+  - Erstellen und Bereitstellen eines Zusammenfassungsdiensts
+
+  - Erstellen und Bereitstellen eines benutzerdefinierten Deep Learning-Modells mit Keras
+
+  - Textklassifizierung mit automatisiertem maschinellem Lernen von Azure
+
+  - Fertigstellen der Lösung

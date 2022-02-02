@@ -11,7 +11,7 @@ ms.author: venkato
 ms.prod: non-product-specific
 ms.openlocfilehash: 6c6b9ffe8b0e8d7f4373496d52f5deb593660ae0
 ms.sourcegitcommit: 506a51e91385fac41755ea8082b4a6f8097773e9
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 01/24/2022
 ms.locfileid: "137647567"
@@ -87,7 +87,7 @@ Wenn Sie sich das nächste Mal anmelden und Anspruch auf Prüfungsrabatte für e
 
 ## <a name="certification-support"></a>Zertifizierungsunterstützung
 
-Bei Problemen mit dem Anspruch auf Ihren Rabatt und der Planung Ihrer Prüfung erhalten Sie Hilfe über [cloudskillshelp@microsoft.com](mailto:cloudskillshelp@microsoft.com) . Ein Moderator antwortet innerhalb von drei Werktagen.
+Wenn Sie Probleme beim Anfordern Ihres Rabatts und beim Planen Ihres Examens haben, erhalten Sie Hilfe über [cloudskillshelp@microsoft.com](mailto:cloudskillshelp@microsoft.com). Ein Moderator antworten Ihnen innerhalb von drei Werktagen.
 
 ## <a name="eligible-exams"></a><a name="eligible-exams"></a> Infrage kommende Prüfungen
 

@@ -11,7 +11,7 @@ ms.author: msulliv
 ms.prod: non-product-specific
 ms.openlocfilehash: 6f17a599db26cf3f4aa476788bcc7987ad7f9138
 ms.sourcegitcommit: df7ca43366241a7b990f9e290f62d630f4d65c28
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 01/12/2022
 ms.locfileid: "135964297"
@@ -30,7 +30,7 @@ Die Examen, die in den nächsten 12 Monaten eingestellt werden sollen, sind hie
 | --- |
 | [AZ-303](/learn/certifications/exams/az-303): Microsoft Azure Architect Technologies |
 | [AZ-304](/learn/certifications/exams/az-304): Microsoft Azure Architect Design |
-| [DA-100](/learn/certifications/exams/da-100): Analysieren von Daten mit Microsoft Power BI |
+| [DA-100:](/learn/certifications/exams/da-100) Analyzing Data with Microsoft Power BI |
 
 | Einstellung am 30. Juni 2022 |
 | --- |
@@ -91,7 +91,7 @@ Diese Examen wurden im letzten Jahr eingestellt. Zu Referenzzwecken wird zwölf 
 | [70-740](/learn/certifications/exams/70-740) | Installation, Storage, and Compute with Windows Server 2016 | 31. Januar 2021
 | [70-741](/learn/certifications/exams/70-741) | Networking with Windows Server 2016 | 31. Januar 2021
 | [70-742](/learn/certifications/exams/70-742) | Identity with Windows Server 2016 | 31. Januar 2021
-| [70-743](/learn/certifications/exams/70-743) | Upgrading Your Skills to MCSA: Windows Server 2016 | 31. Januar 2021
+| [70-743](/learn/certifications/exams/70-743) | Upgrading Your Skills to MCSA: Windows Server 2016 | 31. Januar 2021
 | [70-744](/learn/certifications/exams/70-744) | Securing Windows Server 2016 | 31. Januar 2021
 | [70-745](/learn/certifications/exams/70-745) | Implementing a Software-Defined Datacenter | 31. Januar 2021
 | [70-761](/learn/certifications/exams/70-761) | \- Abfragen mit Transact-SQL | 31. Januar 2021

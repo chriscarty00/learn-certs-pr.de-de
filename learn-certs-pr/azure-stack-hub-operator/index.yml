@@ -3,12 +3,12 @@ title: 'Microsoft Certified: Azure Stack Hub Operator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Stack Hub Operator Associate'
   description: Die Kandidat*innen für die Zertifizierung „Azure Stack Hub Operator Associate“ sind Azure-Administrator*innen oder Azure Stack Hub-Operator*innen, die Clouddienste für Endbenutzer*innen oder Kund*innen von ihrem eigenen Rechenzentrum aus mithilfe von Azure Stack Hub bereitstellen.
-  ms.openlocfilehash: b732c932e2a550a8593dd04950885bcc6d445610
-  ms.sourcegitcommit: a99616c85658bcdbb3b95b115da620965190777e
+  ms.openlocfilehash: 778e58bddf43bb789c64e384724d106ff0d5a960
+  ms.sourcegitcommit: fd55a80afc282528952dc1782d93c51fffc57cb4
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 01/25/2022
-  ms.locfileid: "137685490"
+  ms.lasthandoff: 01/28/2022
+  ms.locfileid: "137818384"
 uid: certification.azure-stack-hub-operator
 certificationRenewalUid: renewal.azure-stack-hub-operator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
@@ -33,6 +33,14 @@ products:
 - azure-app-service
 - azure-event-hubs
 - azure-active-directory
+courses:
+- uid: course.az-600t00
+paths:
+- uid: learn.wwl.overview-of-azure-stack-hub
+- uid: learn.wwl.provide-services-for-azure-stack-hub
+- uid: learn.wwl.implement-data-center-integration-for-azure-stack-hub
+- uid: learn.wwl.manage-identity-access-for-azure-stack-hub
+- uid: learn.wwl.manage-infrastructure-for-azure-stack-hub
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4LyWu
 exams:
 - uid: exam.az-600

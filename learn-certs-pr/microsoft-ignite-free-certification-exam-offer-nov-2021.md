@@ -9,12 +9,12 @@ ms.workload: NA
 ms.date: 11/01/2021
 ms.author: venkato
 ms.prod: non-product-specific
-ms.openlocfilehash: 6c6b9ffe8b0e8d7f4373496d52f5deb593660ae0
-ms.sourcegitcommit: 506a51e91385fac41755ea8082b4a6f8097773e9
+ms.openlocfilehash: 222aad3fe50bbddee4023137dfbc4b1847693031
+ms.sourcegitcommit: 7f4eed93623014c8773df17f68152c44d1e02806
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "137647567"
+ms.lasthandoff: 01/31/2022
+ms.locfileid: "137861002"
 ---
 # <a name="microsoft-ignite-cloud-skills-challenge--november-2021-free-certification-exam"></a>Microsoft Ignite Cloud Skills Challenge – November 2021: kostenlose Zertifizierungsprüfung
 
@@ -122,10 +122,6 @@ Zu den infrage kommenden Prüfungen zählen nur die unten aufgeführten.
 **F: Muss ich das Examen am oder vor dem 15. März 2022 ablegen?**
 
 **A**: Ja, Sie müssen das Examen spätestens am 15. März 2022 ablegen.
-
-**F: Ich habe Probleme beim Planen meines kostenlosen Examens. Wo kann ich Support erhalten?**
-
-**A**: Hilfe erhalten Sie, indem Sie sich an den [Microsoft Zertifizierungssupport](https://aka.ms/CertificationSupport) wenden. Innerhalb eines Werktages wird Ihnen ein Moderator antworten.
 
 **F: Kann ich auswählen, ob ich das geplante Examen persönlich oder online ablegen möchte?**
 

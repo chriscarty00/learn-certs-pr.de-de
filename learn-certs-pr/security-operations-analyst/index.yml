@@ -2,73 +2,56 @@
 title: 'Microsoft Certified: Security Operations Analyst Associate'
 metadata:
   title: 'Microsoft Certified: Security Operations Analyst Associate'
-  description: Der Microsoft Security Operations Analyst arbeitet mit Projektbeteiligten im Unternehmen zusammen, um IT-Systeme des Unternehmens zu schützen. Ihr Ziel ist es, Risiken für das Unternehmen zu verringern, indem sie aktive Angriffe in der Umgebung schnell abwehren, Empfehlungen zur Verbesserung der Bedrohungsschutzmethoden aussprechen und Verstöße gegen die Unternehmensrichtlinien an die zuständigen Stellen weiterleiten.
-  ms.openlocfilehash: 664fa4c339593924599a0bb73842807849b4a4a7
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
-  ms.translationtype: HT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137658895"
+  description: 'Der Microsoft Security Operations Analyst arbeitet mit Projektbeteiligten im Unternehmen zusammen, um IT-Systeme des Unternehmens zu schützen. Ihr Ziel ist es, Risiken für das Unternehmen zu verringern, indem sie aktive Angriffe in der Umgebung schnell abwehren, Empfehlungen zur Verbesserung der Bedrohungsschutzmethoden aussprechen und Verstöße gegen die Unternehmensrichtlinien an die zuständigen Stellen weiterleiten.'
 uid: certification.security-operations-analyst
 certificationRenewalUid: renewal.security-operations-analyst
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: >-
-  > [!IMPORTANT]
-
-  > Die englischsprachige Version dieser Zertifizierung wird am 28. Januar 2022 aktualisiert. Laden Sie das Dokument zur Kompetenzmessung auf der Seite [Prüfung SC-200](/learn/certifications/exams/sc-200) herunter, um zu sehen, was sich ändern wird.
-
-
-  <br/>
-
-  Der Microsoft Security Operations Analyst arbeitet mit Projektbeteiligten im Unternehmen zusammen, um IT-Systeme des Unternehmens zu schützen. Ihr Ziel ist es, Risiken für das Unternehmen zu verringern, indem sie aktive Angriffe in der Umgebung schnell abwehren, Empfehlungen zur Verbesserung der Bedrohungsschutzmethoden aussprechen und Verstöße gegen die Unternehmensrichtlinien an die zuständigen Stellen weiterleiten.
-
-
-  Zu den Zuständigkeiten gehören das Verwalten, Überwachen und Reagieren auf Bedrohungen durch den Einsatz einer Vielzahl von Sicherheitslösungen in der Umgebung. Hauptaufgaben der Rolle sind die Untersuchung von, Reaktion auf und Suche nach Bedrohungen mithilfe von Microsoft Azure Sentinel, Azure Defender, Microsoft 365 Defender und Sicherheitsprodukten anderer Anbieter. Da die Security Operations Analysts die operative Ausgabe dieser Tools nutzt, sind sie auch wichtige Projektbeteiligte beim Konfigurieren und Bereitstellen dieser Technologien.
-subTitle: Der Microsoft Security Operations Analyst arbeitet mit Projektbeteiligten im Unternehmen zusammen, um IT-Systeme des Unternehmens zu schützen. Ihr Ziel ist es, Risiken für das Unternehmen zu verringern, indem sie aktive Angriffe in der Umgebung schnell abwehren, Empfehlungen zur Verbesserung der Bedrohungsschutzmethoden aussprechen und Verstöße gegen die Unternehmensrichtlinien an die zuständigen Stellen weiterleiten.
+summary: "> [!IMPORTANT]\n> Die englischsprachige Version dieser Zertifizierung wurde am 28.\_Januar\_2022 aktualisiert. Laden Sie das Dokument zur Kompetenzmessung auf der Seite [Prüfung SC-200](/learn/certifications/exams/sc-200) herunter, um zu sehen, was sich geändert hat.\n\n<br/>\nDer Microsoft Security Operations Analyst arbeitet mit Projektbeteiligten im Unternehmen zusammen, um IT-Systeme des Unternehmens zu schützen. Ihr Ziel ist es, Risiken für das Unternehmen zu verringern, indem sie aktive Angriffe in der Umgebung schnell abwehren, Empfehlungen zur Verbesserung der Bedrohungsschutzmethoden aussprechen und Verstöße gegen die Unternehmensrichtlinien an die zuständigen Stellen weiterleiten.\n\nZu den Zuständigkeiten gehören das Verwalten, Überwachen und Reagieren auf Bedrohungen durch den Einsatz einer Vielzahl von Sicherheitslösungen in der Umgebung. Hauptaufgaben der Rolle sind die Untersuchung von, Reaktion auf und Suche nach Bedrohungen mithilfe von Microsoft Azure Sentinel, Azure Defender, Microsoft 365 Defender und Sicherheitsprodukten anderer Anbieter. Da die Security Operations Analysts die operative Ausgabe dieser Tools nutzt, sind sie auch wichtige Projektbeteiligte beim Konfigurieren und Bereitstellen dieser Technologien."
+subTitle: 'Der Microsoft Security Operations Analyst arbeitet mit Projektbeteiligten im Unternehmen zusammen, um IT-Systeme des Unternehmens zu schützen. Ihr Ziel ist es, Risiken für das Unternehmen zu verringern, indem sie aktive Angriffe in der Umgebung schnell abwehren, Empfehlungen zur Verbesserung der Bedrohungsschutzmethoden aussprechen und Verstöße gegen die Unternehmensrichtlinien an die zuständigen Stellen weiterleiten.'
 levels:
-- intermediate
+  - intermediate
 skills:
-- Mitigate threats using Microsoft 365 Defender
-- Mitigate threats using Azure Defender
-- Mitigate threats using Azure Sentinel
+  - Mitigate threats using Microsoft 365 Defender
+  - Mitigate threats using Microsoft Defender for Cloud
+  - Mitigate threats using Microsoft Sentinel
 roles:
-- security-engineer
-- security-operations-analyst
+  - security-engineer
+  - security-operations-analyst
 type: role-based
 products:
-- azure
-- azure-sentinel
-- m365-threat-protection
+  - azure
+  - azure-sentinel
+  - m365-threat-protection
 courses:
-- uid: course.sc-200t00
+  - uid: course.sc-200t00
 paths:
-- uid: learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint
-- uid: learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender
-- uid: learn.wwl.sc-200-mitigate-threats-using-azure-defender
-- uid: learn.wwl.sc-200-utilize-kql-for-azure-sentinel
-- uid: learn.wwl.sc-200-configure-your-azure-sentinel-environment
-- uid: learn.wwl.sc-200-connect-logs-to-azure-sentinel
-- uid: learn.wwl.sc-200-create-detections-perform-investigations-azure-sentinel
-- uid: learn.wwl.sc-200-perform-threat-hunting-azure-sentinel
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp4
+  - uid: learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint
+  - uid: learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender
+  - uid: learn.wwl.sc-200-mitigate-threats-using-azure-defender
+  - uid: learn.wwl.sc-200-utilize-kql-for-azure-sentinel
+  - uid: learn.wwl.sc-200-configure-your-azure-sentinel-environment
+  - uid: learn.wwl.sc-200-connect-logs-to-azure-sentinel
+  - uid: learn.wwl.sc-200-create-detections-perform-investigations-azure-sentinel
+  - uid: learn.wwl.sc-200-perform-threat-hunting-azure-sentinel
+pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp4'
 exams:
-- uid: exam.sc-200
+  - uid: exam.sc-200
 resources:
-- title: Zertifizierungsposter
-  description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Dynamics 365 und Power Platform an.
-  href: https://aka.ms/traincertposter
-- title: Schulungs- und Zertifizierungsleitfaden
-  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-  href: https://aka.ms/TrainingCertDeck
-- title: Exam Replay
-  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
-  href: ../deals.md
-- title: Zertifizierungsdashboard
-  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
-  href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Unterstützung von Zertifizierungen
-  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
-  href: ../help.md
-- title: Teilen Sie Ihre Zertifizierungsbadges.
-  description: Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Erhalten Sie Ihren Microsoft-Zertifizierungsbadge, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.
-  href: ../badges.md
+  - title: Zertifizierungsposter
+    description: 'Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Dynamics 365 und Power Platform an.'
+    href: 'https://aka.ms/traincertposter'
+  - title: Schulungs- und Zertifizierungsleitfaden
+    description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+    href: 'https://aka.ms/TrainingCertDeck'
+  - title: Exam Replay
+    description: 'Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.'
+    href: ../deals.md
+  - title: Zertifizierungsdashboard
+    description: 'Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.'
+    href: 'https://www.microsoft.com/learning/dashboard.aspx'
+  - title: Unterstützung von Zertifizierungen
+    description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+    href: ../help.md
+  - title: Teilen Sie Ihre Zertifizierungsbadges.
+    description: 'Feiern Sie Ihren Erfolg mit Ihrem Netzwerk. Erhalten Sie Ihren Microsoft-Zertifizierungsbadge, und fügen Sie ihn beispielsweise in LinkedIn oder in Ihrem Lebenslauf hinzu.'
+    href: ../badges.md

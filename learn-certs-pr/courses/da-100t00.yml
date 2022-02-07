@@ -3,485 +3,62 @@ title: Analyzing Data with Power BI
 metadata:
   title: 'Kurs DA-100T00-A: Analysieren von Daten mit Power BI'
   description: 'Kurs DA-100T00-A: Analysieren von Daten mit Power BI'
-  ms.openlocfilehash: 1918006ab43b2ad132f3792355ad1f136e0d52e1
-  ms.sourcegitcommit: 7d58303fd1a712a89a6ae3b5b62a972702f71b13
-  ms.translationtype: MT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "136970746"
+  iltScheduling: true
 uid: course.da-100t00
 courseNumber: DA-100T00-A
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Daten aufnehmen, bereinigen und transformieren
-- skill: Modellieren von Daten für Leistung und Skalierbarkeit
-- skill: Entwerfen und Erstellen von Berichten für die Datenanalyse
-- skill: Anwenden und Ausführen erweiterter Berichtsanalysen
-- skill: Berichtsressourcen verwalten und freigeben
-- skill: Erstellen paginierter Berichte in Power BI
+  - skill: 'Daten aufnehmen, bereinigen und transformieren'
+  - skill: Modellieren von Daten für Leistung und Skalierbarkeit
+  - skill: Entwerfen und Erstellen von Berichten für die Datenanalyse
+  - skill: Anwenden und Ausführen erweiterter Berichtsanalysen
+  - skill: Berichtsressourcen verwalten und freigeben
+  - skill: Erstellen paginierter Berichte in Power BI
 learningPartnersLink: /learn/certifications/partners
 locales:
-- en
-- ja
-- zh-cn
-- ko
+  - en
+  - ja
+  - zh-cn
+  - ko
 levels:
-- intermediate
+  - intermediate
 roles:
-- data-analyst
+  - data-analyst
 products:
-- sql-server
+  - sql-server
 exams:
-- uid: exam.da-100
+  - uid: exam.da-100
 studyGuide:
-- uid: learn-bizapps.data-analytics-microsoft
-- uid: learn-bizapps.get-started-with-power-bi
-- uid: learn-bizapps.get-data
-- uid: learn-bizapps.clean-data-power-bi
-- uid: learn-bizapps.design-model-power-bi
-- uid: learn-bizapps.create-measures-dax-power-bi
-- uid: learn-bizapps.optimize-model-power-bi
-- uid: learn-bizapps.visuals-power-bi
-- uid: learn-bizapps.data-driven-story-power-bi
-- uid: learn-bizapps.create-dashboards-power-bi
-- uid: learn-bizapps.create-paginated-reports-power-bi
-- uid: learn-bizapps.perform-analytics-power-bi
-- uid: learn-bizapps.ai-visuals-power-bi
-- uid: learn-bizapps.create-manage-workspaces-power-bi
-- uid: learn-bizapps.manage-datasets-power-bi
-- uid: learn-bizapps.row-level-security-power-bi
-summary: >-
+  - uid: learn-bizapps.data-analytics-microsoft
+  - uid: learn-bizapps.get-started-with-power-bi
+  - uid: learn-bizapps.get-data
+  - uid: learn-bizapps.clean-data-power-bi
+  - uid: learn-bizapps.design-model-power-bi
+  - uid: learn-bizapps.create-measures-dax-power-bi
+  - uid: learn-bizapps.optimize-model-power-bi
+  - uid: learn-bizapps.visuals-power-bi
+  - uid: learn-bizapps.data-driven-story-power-bi
+  - uid: learn-bizapps.create-dashboards-power-bi
+  - uid: learn-bizapps.create-paginated-reports-power-bi
+  - uid: learn-bizapps.perform-analytics-power-bi
+  - uid: learn-bizapps.ai-visuals-power-bi
+  - uid: learn-bizapps.create-manage-workspaces-power-bi
+  - uid: learn-bizapps.manage-datasets-power-bi
+  - uid: learn-bizapps.row-level-security-power-bi
+summary: |-
   In diesem Kurs werden die verschiedenen Methoden sowie die beste Vorgehensweise erläutert, die den geschäftlichen und technischen Anforderungen für die Modellierung, Visualisierung und Analyse von Daten mit Power BI entsprechen. Der Kurs zeigt auch, wie auf Daten aus einer Reihe von Datenquellen zugegriffen und diese verarbeitet werden können, einschließlich relationaler und nicht relationaler Daten. In diesem Kurs wird auch erläutert, wie geeignete Sicherheitsstandards und -richtlinien im gesamten Power BI-Spektrum, einschließlich Datensätzen und Gruppen, implementiert werden. In diesem Kurs wird auch erläutert, wie man Berichte und Dashboards für die Freigabe und Verteilung von Inhalten verwalten und bereitstellen kann. Schließlich wird in diesem Kurs gezeigt, wie paginierte Berichte innerhalb des Power BI-Services erstellt und in einem Arbeitsbereich zur Aufnahme in Power BI veröffentlicht werden.
 
-
   #### <a name="audience-profile"></a>Zielgruppenprofil
-
   Die Zielgruppe für diesen Kurs sind Datenprofis und Business Intelligence-Experten, die lernen möchten, wie man akkurate Datenanalysen mit Power BI drchführen kann. Dieser Kurs richtet sich auch an Personen, die Berichte entwickeln, die Daten aus Datenplattformtechnologien visualisieren, die sowohl in der Cloud als auch lokal vorhanden sind.
-prerequisitesSection: "Erfolgreiche Data Analysts benötigen für diese Rolle Erfahrung im Arbeiten mit Daten in der Cloud.\n\nInsbesondere&#58; \n- Verständnis der wichtigsten Datenbankkonzepte\n- Kenntnisse zur Arbeit mit relationalen Daten in der Cloud\n- Kenntnisse zur Arbeit mit nicht relationalen Daten in der Cloud\n- Kenntnisse zu Datenanalyse- und Visualisierungskonzepten \n\nSie können die Voraussetzungen erfüllen und einen besseren Einblick in die Arbeit mit Daten in Azure erlangen, indem Sie [Microsoft Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals) abschließen, bevor Sie an diesem Kurs teil nehmen."
-outlineSection: >-
-  ### <a name="module-158-get-started-with-microsoft-data-analytics"></a>Modul 1&#58; Erste Schritte mit der Microsoft-Datenanalyse
-
-  In diesem Modul werden die verschiedenen Rollen im Datenbereich untersucht, die wichtigen Rollen und Verantwortlichkeiten eines Datenanalysten erläutert und anschließend die Landschaft des Power BI-Portfolios untersucht.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Datenanalyse und Microsoft
-
-  - Erste Schritte mit Power BI
-
-
-  #### <a name="lab-58-getting-started"></a>Lab&#58; Erste Schritte
-
-  - Erste Schritte
-
-
-  Nach Abschluss dieses Moduls können Sie:
-
-  - Untersuchen der verschiedenen Rollen im Datenbereich
-
-  - Identifizieren der von einem Data Analyst ausgeführten Aufgaben
-
-  - Beschreiben der Power BI-Landschaft von Produkten und Diensten
-
-  - Verwenden des Power BI-Diensts
-
-
-
-  ### <a name="module-258-prepare-data-in-power-bi"></a>Modul 2&#58; Vorbereiten von Daten in Power BI
-
-  Dieses Modul untersucht das Identifizieren und Abrufen von Daten aus verschiedenen Datenquellen. Sie lernen auch die Optionen für Konnektivität und Datenspeicherung kennen und können die Unterschiede und Auswirkungen auf die Leistung verstehen, wenn Sie eine direkte Verbindung zu Daten herstellen oder diese importieren.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Abrufen von Daten aus verschiedenen Datenquellen
-
-  - Optimieren der Leistung
-
-  - Beheben von Datenfehlern
-
-
-  #### <a name="lab-58-preparing-data-in-power-bi-desktop"></a>Lab&#58; Vorbereiten von Daten in Power BI Desktop
-
-  - Vorbereiten von Daten
-
-
-  Nach Abschluss dieses Moduls können Sie:
-
-  - Identifizieren und Abrufen von Daten aus verschiedenen Datenquellen
-
-  - Verstehen der Verbindungsmethoden und deren Auswirkungen auf die Leistung
-
-  - Optimieren der Abfrageleistung
-
-  - Lösen von Datenimportfehlern
-
-
-
-  ### <a name="module-358-clean-transform-and-load-data-in-power-bi"></a>Modul 3&#58; Bereinigen, Transformieren und Laden von Daten in Power BI
-
-  In diesem Modul lernen Sie, wie man den Zustand der Daten profiliert und versteht. Sie lernen, wie man Anomalien identifiziert, die Größe und Form ihrer Daten untersucht und die richtigen Schritte zur Datenbereinigung und -transformation durchführt, um die Daten für das Laden in das Modell vorzubereiten.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Datenstrukturierung
-
-  - Verbessern der Datenstruktur
-
-  - Datenprofilerstellung
-
-
-  #### <a name="lab-58-transforming-and-loading-data"></a>Lab&#58; Transformieren und Laden von Daten
-
-  - Laden von Daten
-
-
-  Nach Abschluss dieses Moduls können die Schüler:
-
-  - Anwenden von Datenstrukturtransformationen
-
-  - Verbessern der Struktur der Daten
-
-  - Erstellen eines Profils und Untersuchen der Daten
-
-
-
-  ### <a name="module-458-design-a-data-model-in-power-bi"></a>Modul 4&#58; Entwerfen eines Datenmodells in Power BI
-
-  In diesem Modul werden die grundlegenden Konzepte zum Entwerfen eines Datenmodells für eine ordnungsgemäße Leistung und Skalierbarkeit vermittelt. Dieses Modul hilft Ihnen auch dabei, viele der gängigen Datenmodellierungsprobleme zu verstehen und anzugehen, einschließlich Beziehungen, Sicherheit und Leistung.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Einführung in die Datenmodellierung
-
-  - Arbeiten mit Tabellen
-
-  - Dimensionen und Hierarchien
-
-
-  #### <a name="lab-58-data-modeling-in-power-bi-desktop"></a>Lab&#58; Datenmodellierung in Power BI Desktop
-
-  - Erstellen von Modellbeziehungen
-
-  - Konfigurieren von Tabellen
-
-  - Überprüfen der Benutzeroberfläche des Modells
-
-  - Erstellen von Quickmeasures
-
-
-  #### <a name="lab-58-advanced-data-modeling-in-power-bi-desktop"></a>Lab&#58; Erweiterte Datenmodellierung in Power BI Desktop
-
-  - Wie m:n-Beziehungen konfiguriert werden
-
-  - Erzwingen von Sicherheit auf Zeilenebene
-
-
-  Nach Abschluss dieses Moduls können Sie:
-
-  - Verstehen der Grundlagen der Datenmodellierung
-
-  - Definieren von Beziehungen und deren Kardinalität
-
-  - Implementieren von Dimensionen und Hierarchien
-
-  - Erstellen von Histogrammen und Bewertungen
-
-
-
-  ### <a name="module-558-create-model-calculations-using-dax-in-power-bi"></a>Modul 5&#58; Erstellen von Modellberechnungen mithilfe von DAX in Power BI
-
-  Dieses Modul führt Sie in die Welt von DAX und seiner wahren Leistungsfähigkeit zur Verbesserung eines Modells ein. Sie lernen Aggregationen und die Konzepte von Kennzahlen, berechneten Spalten und Tabellen sowie Time Intelligence-Funktionen zur Lösung von Berechnungs- und Datenanalyseproblemen kennen.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Einführung in DAX
-
-  - DAX-Kontext
-
-  - DAX (erweitert)
-
-
-  #### <a name="lab-58-introduction-to-dax-in-power-bi-desktop"></a>Lab&#58; Einführung in DAX in Power BI Desktop
-
-  - Erstellen berechneter Tabellen
-
-  - Erstellen berechneter Spalten
-
-  - Erstellen von Measures
-
-
-  #### <a name="lab-58-advanced-dax-in-power-bi-desktop"></a>Lab&#58; Erweiterte DAX in Power BI Desktop
-
-  - Ändern von Filtern mit der Funktion CALCULATE()
-
-  - Verwenden von Zeitintelligenzfunktionen
-
-
-  Nach Abschluss dieses Moduls können Sie:
-
-  - Verstehen von DAX
-
-  - Verwenden von DAX für einfache Formeln und Ausdrücke
-
-  - Erstellen berechneter Tabellen und Measures
-
-  - Erstellen einfacher Measures
-
-  - Arbeiten mit Zeitintelligenz und Key Performance Indicators
-
-
-
-  ### <a name="module-658-optimize-model-performance"></a>Modul 6&#58; Optimieren der Modellleistung
-
-  In diesem Modul werden Sie mit Schritten, Prozessen, Konzepten und bewährte Praktiken für die Datenmodellierung vertraut gemacht, die zur Optimierung eines Datenmodells für die Performance auf Unternehmensebene erforderlich sind.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Optimieren des Modells für die Leistung
-
-  - Optimieren von DirectQuery-Modellen
-
-  - Erstellen und Verwalten von Aggregationen
-
-
-  Nach Abschluss dieses Moduls können Sie:
-
-  - Verstehen der Bedeutung von Variablen
-
-  - Verbessern des Datenmodells
-
-  - Optimieren des Speichermodells
-
-  - Implementieren von Aggregationen
-
-
-
-  ### <a name="module-758-create-reports"></a>Modul 7&#58; Erstellen von Berichten
-
-  Dieses Modul führt Teilnehmer in die grundlegenden Konzepte und Prinzipien des Berichtserstellung ein, einschließlich Auswahl der richtigen Grafiken, Entwurf eines Seitenlayouts und Anwendung grundlegender, aber kritischer Funktionen wie Schneiden und Filtern. Das wichtige Thema der Gestaltung für Zugänglichkeit wird ebenfalls behandelt.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Entwerfen eines Berichts
-
-  - Verbessern des Berichts
-
-
-  #### <a name="lab-58-designing-a-report-in-power-bi"></a>Lab&#58; Entwerfen eines Berichts in Power BI
-
-  - Erstellen einer Liveverbindung in Power BI Desktop
-
-  - Entwerfen eines Berichts
-
-  - Konfigurieren von Feldern und Formatierungseigenschaften für Visuals
-
-
-  #### <a name="lab-58-enhancing-power-bi-reports-with-interaction-and-formatting"></a>Lab&#58; Verbessern von Power BI-Berichten durch Interaktion und Formatierung
-
-  - Erstellen und Konfigurieren von Synchronisierungsslicern
-
-  - Erstellen einer Drillthroughseite
-
-  - Anwenden von bedingter Formatierung
-
-  - Erstellen und Verwenden von Lesezeichen
-
-
-  Nach Abschluss dieses Moduls können Sie:
-
-  - Entwerfen eines Berichtsseitenlayouts
-
-  - Auswählen und Hinzufügen effektiver Visualisierungen
-
-  - Hinzufügen grundlegender Berichtsfunktionen
-
-  - Hinzufügen von Berichtsnavigation und -interaktionen
-
-  - Verbessern der Berichtsleistung
-
-  - Entwerfen für Barrierefreiheit
-
-
-
-  ### <a name="module-858-create-dashboards"></a>Modul 8&#58; Erstellen von Dashboards
-
-  In diesem Modul lernen Sie, wie man mit Hilfe von Dashboards und den verschiedenen verfügbaren Navigationstools für die Navigation eine überzeugende Geschichte erzählen kann. Sie werden in Features und Funktionen eingeführt und erfahren, wie man Dashboards für Benutzerfreundlichkeit und Einblicke verbessern kann.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Erstellen eines Dashboards
-
-  - Echtzeitdashboards
-
-  - Erweitern eines Dashboards
-
-
-  #### <a name="lab-58-designing-a-report-in-power-bi-desktop---part-1"></a>Lab&#58; Entwerfen eines Berichts in Power BI Desktop – Teil 1
-
-  - Erstellen eines Dashboards
-
-  - Anheften von Visuals an ein Dashboard
-
-  - Konfigurieren einer Warnung für eine Dashboardkachel
-
-  - Verwenden von Q&A zum Erstellen einer Dashboardkachel
-
-
-  Nach Abschluss dieses Moduls können die Schüler:
-
-  - Erstellen eines Dashboards
-
-  - Verstehen von Echtzeitdashboards
-
-  - Verbessern der Benutzerfreundlichkeit von Dashboards
-
-
-
-  ### <a name="module-958-create-paginated-reports-in-power-bi"></a>Modul 9&#58; Erstellen paginierter Berichte in Power BI
-
-  In diesem Modul erfahren Sie mehr über paginierte Berichte, einschließlich der Art und Weise, wie sie in Power BI hineinpassen. Anschließend erfahren Sie, wie man einen Bericht erstellt und veröffentlichten.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Übersicht über paginierte Berichte
-
-  - Erstellen paginierter Berichte
-
-
-  #### <a name="lab-58-creating-a-paginated-report"></a>Lab&#58; Erstellen eines paginierten Berichts
-
-  - Verwenden von Power BI Report Builder
-
-  - Entwerfen eines mehrseitigen Berichtslayouts
-
-  - Definieren einer Datenquelle
-
-  - Definieren eines Datasets
-
-  - Erstellen eines Berichtsparameters
-
-  - Exportieren eines Berichts nach PDF
-
-
-  Nach Abschluss dieses Moduls können Sie:
-
-  - Erläutern paginierter Berichte
-
-  - Erstellen eines paginierten Berichts
-
-  - Erstellen und Konfigurieren einer Datenquelle und eines Datasets
-
-  - Arbeiten mit Diagrammen und Tabellen
-
-  - Veröffentlichen eines Berichts
-
-
-
-  ### <a name="module-1058-perform-advanced-analytics"></a>Modul 10&#58; Ausführen erweiterter Analysen
-
-  Dieses Modul hilft dem Teilnehmer, zusätzliche Funktionen anzuwenden, um den Bericht für analytische Einblicke in die Daten zu verbessern, und gibt dem Teilnehmer die Möglichkeit, den Bericht für die eigentliche Datenanalyse zu verwenden. Sie werden auch erweiterte Analysen mit Hilfe von KI-Grafiken im Bericht durchführen, um noch tiefere und aussagekräftigere Dateneinblicke zu erhalten.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Erweiterte Analyse
-
-  - Datenerkenntnisse anhand von KI-Visuals
-
-
-  #### <a name="lab-58-data-analysis-in-power-bi-desktop"></a>Lab&#58; Datenanalyse in Power BI Desktop
-
-  - Erstellen von animierten Punktdiagrammen
-
-  - Verwenden eines Visuals zum Vorhersagen von Werten
-
-  - Arbeiten mit dem Visual „Analysebaum“
-
-  - Arbeiten mit dem Visual „Wichtigste Einflussfaktoren“
-
-
-  Nach Abschluss dieses Moduls können Sie:
-
-  - Untersuchen statistischer Zusammenfassungen
-
-  - Verwenden des Features „Analysieren“
-
-  - Identifizieren von Ausreißern in Daten
-
-  - Durchführen einer Zeitreihenanalyse
-
-  - Verwenden der KI-Visuals
-
-  - Verwenden des benutzerdefinierten Visuals „Erweiterte Analyse“
-
-
-
-  ### <a name="module-1158-create-and-manage-workspaces"></a>Modul 11&#58; Erstellen und Verwalten von Arbeitsbereichen
-
-  Dieses Modul führt Sie in Arbeitsbereiche ein, einschließlich deren Erstellung und Verwaltung. Außerdem erfahren Sie, wie Sie Inhalte freigeben, einschließlich Berichte und Dashboards, und anschließend, wie man eine App verteilt.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Erstellen von Arbeitsbereichen
-
-  - Teilen und Verwalten von Ressourcen
-
-
-  #### <a name="lab-58-publishing-and-sharing-power-bi-content"></a>Lab&#58; Veröffentlichen und Teilen von Power BI-Inhalten
-
-  - Zuordnen von Sicherheitsprinzipals zu Datasetrollen
-
-  - Freigeben eines Dashboards
-
-  - Veröffentlichen einer App
-
-
-  Nach Abschluss dieses Moduls können Sie:
-
-  - Erstellen und Verwalten eines Arbeitsbereichs
-
-  - Verstehen der Zusammenarbeit in Arbeitsbereichen
-
-  - Überwachen der Nutzung und Leistung von Arbeitsbereichen
-
-  - Verteilen einer App
-
-
-
-  ### <a name="module-1258-manage-datasets-in-power-bi"></a>Modul 12&#58; Verwalten von Datasets in Power BI
-
-  In diesem Modul lernen Sie die Konzepte zum Verwalten von Power BI-Assets kennen, einschließlich Datensätzen und Arbeitsbereichen. Sie werde auch Datensätze im Power BI-Service veröffentlichen und diese dann aktualisieren und sichern.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Parameter
-
-  - Datasets
-
-
-  Nach Abschluss dieses Moduls können Sie:
-
-  - Erstellen von und Arbeiten mit Parametern
-
-  - Verwalten von Datasets
-
-  - Konfigurieren der Datasetaktualisierung
-
-  - Behandeln von Problemen mit der Gatewaykonnektivität
-
-
-
-  ### <a name="module-1358-row-level-security"></a>Modul 13&#58; Sicherheit auf Zeilenebene
-
-  In diesem Modul erfahren Sie, wie man die Sicherheit in Power BI implementiert und konfiguriert, um Power BI-Assets zu sichern.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Sicherheit in Power BI
-
-
-  Nach Abschluss dieses Moduls können Sie:
-
-  - Verstehen der Aspekte der Power BI-Sicherheit
-
-  - Konfigurieren von Sicherheitsrollen auf Zeilenebene und Gruppenmitgliedschaften
+prerequisitesSection: |-
+  Erfolgreiche Data Analysts benötigen für diese Rolle Erfahrung im Arbeiten mit Daten in der Cloud.
+
+  Insbesondere&#58; 
+  - Verständnis der wichtigsten Datenbankkonzepte
+  - Kenntnisse zur Arbeit mit relationalen Daten in der Cloud
+  - Kenntnisse zur Arbeit mit nicht relationalen Daten in der Cloud
+  - Kenntnisse zu Datenanalyse- und Visualisierungskonzepten 
+
+  Sie können die Voraussetzungen erfüllen und einen besseren Einblick in die Arbeit mit Daten in Azure erlangen, indem Sie [Microsoft Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals) abschließen, bevor Sie an diesem Kurs teil nehmen.
+outlineSection: "### <a name=\"module-158-get-started-with-microsoft-data-analytics\"></a>Modul 1&#58; Erste Schritte mit der Microsoft-Datenanalyse\nIn diesem Modul werden die verschiedenen Rollen im Datenbereich untersucht, die wichtigen Rollen und Verantwortlichkeiten eines Datenanalysten erläutert und anschließend die Landschaft des Power BI-Portfolios untersucht.\n#### <a name=\"lessons\"></a>Lektionen\n- Datenanalyse und Microsoft\n- Erste Schritte mit Power BI\n\n#### <a name=\"lab-58-getting-started\"></a>Lab&#58; Erste Schritte\n- Erste Schritte\n\nNach Abschluss dieses Moduls können Sie:\n- Untersuchen der verschiedenen Rollen im Datenbereich\n- Identifizieren der von einem Data Analyst ausgeführten Aufgaben\n- Beschreiben der Power BI-Landschaft von Produkten und Diensten\n- Verwenden des Power BI-Diensts\n\n\n### <a name=\"module-258-prepare-data-in-power-bi\"></a>Modul 2&#58; Vorbereiten von Daten in Power BI\nDieses Modul untersucht das Identifizieren und Abrufen von Daten aus verschiedenen Datenquellen. Sie lernen auch die Optionen für Konnektivität und Datenspeicherung kennen und können die Unterschiede und Auswirkungen auf die Leistung verstehen, wenn Sie eine direkte Verbindung zu Daten herstellen oder diese importieren.\n#### <a name=\"lessons\"></a>Lektionen\n- Abrufen von Daten aus verschiedenen Datenquellen\n- Optimieren der Leistung\n- Beheben von Datenfehlern\n\n#### <a name=\"lab-58-preparing-data-in-power-bi-desktop\"></a>Lab&#58; Vorbereiten von Daten in Power BI Desktop\n- Vorbereiten von Daten\n\nNach Abschluss dieses Moduls können Sie:\n- Identifizieren und Abrufen von Daten aus verschiedenen Datenquellen\n- Verstehen der Verbindungsmethoden und deren Auswirkungen auf die Leistung\n- Optimieren der Abfrageleistung\n- Lösen von Datenimportfehlern\n\n\n### <a name=\"module-358-clean-transform-and-load-data-in-power-bi\"></a>Modul 3&#58; Bereinigen, Transformieren und Laden von Daten in Power BI\nIn diesem Modul lernen Sie, wie man den Zustand der Daten profiliert und versteht. Sie lernen, wie man Anomalien identifiziert, die Größe und Form ihrer Daten untersucht und die richtigen Schritte zur Datenbereinigung und -transformation durchführt, um die Daten für das Laden in das Modell vorzubereiten.\n#### <a name=\"lessons\"></a>Lektionen\n- Datenstrukturierung\n- Verbessern der Datenstruktur\n- Datenprofilerstellung\n\n#### <a name=\"lab-58-transforming-and-loading-data\"></a>Lab&#58; Transformieren und Laden von Daten\n- Laden von Daten\n\nNach Abschluss dieses Moduls können die Schüler:\n- Anwenden von Datenstrukturtransformationen\n- Verbessern der Struktur der Daten\n- Erstellen eines Profils und Untersuchen der Daten\n\n\n### <a name=\"module-458-design-a-data-model-in-power-bi\"></a>Modul 4&#58; Entwerfen eines Datenmodells in Power BI\nIn diesem Modul werden die grundlegenden Konzepte zum Entwerfen eines Datenmodells für eine ordnungsgemäße Leistung und Skalierbarkeit vermittelt. Dieses Modul hilft Ihnen auch dabei, viele der gängigen Datenmodellierungsprobleme zu verstehen und anzugehen, einschließlich Beziehungen, Sicherheit und Leistung.\n#### <a name=\"lessons\"></a>Lektionen\n- Einführung in die Datenmodellierung\n- Arbeiten mit Tabellen\n- Dimensionen und Hierarchien\n\n#### <a name=\"lab-58-data-modeling-in-power-bi-desktop\"></a>Lab&#58; Datenmodellierung in Power BI Desktop\n- Erstellen von Modellbeziehungen\n- Konfigurieren von Tabellen\n- Überprüfen der Benutzeroberfläche des Modells\n- Erstellen von Quickmeasures\n\n#### <a name=\"lab-58-advanced-data-modeling-in-power-bi-desktop\"></a>Lab&#58; Erweiterte Datenmodellierung in Power BI Desktop\n- Wie m:n-Beziehungen konfiguriert werden\n- Erzwingen von Sicherheit auf Zeilenebene\n\nNach Abschluss dieses Moduls können Sie:\n- Verstehen der Grundlagen der Datenmodellierung\n- Definieren von Beziehungen und deren Kardinalität\n- Implementieren von Dimensionen und Hierarchien\n- Erstellen von Histogrammen und Bewertungen\n\n\n### <a name=\"module-558-create-model-calculations-using-dax-in-power-bi\"></a>Modul 5&#58; Erstellen von Modellberechnungen mithilfe von DAX in Power BI\nDieses Modul führt Sie in die Welt von DAX und seiner wahren Leistungsfähigkeit zur Verbesserung eines Modells ein. Sie lernen Aggregationen und die Konzepte von Kennzahlen, berechneten Spalten und Tabellen sowie Time Intelligence-Funktionen zur Lösung von Berechnungs- und Datenanalyseproblemen kennen.\n#### <a name=\"lessons\"></a>Lektionen\n- Einführung in DAX\n- DAX-Kontext\n- DAX (erweitert)\n\n#### <a name=\"lab-58-introduction-to-dax-in-power-bi-desktop\"></a>Lab&#58; Einführung in DAX in Power BI Desktop\n- Erstellen berechneter Tabellen\n- Erstellen berechneter Spalten\n- Erstellen von Measures\n\n#### <a name=\"lab-58-advanced-dax-in-power-bi-desktop\"></a>Lab&#58; Erweiterte DAX in Power BI Desktop\n- Ändern von Filtern mit der Funktion CALCULATE()\n- Verwenden von Zeitintelligenzfunktionen\n\nNach Abschluss dieses Moduls können Sie:\n- Verstehen von DAX\n- Verwenden von DAX für einfache Formeln und Ausdrücke\n- Erstellen berechneter Tabellen und Measures\n- Erstellen einfacher Measures\n- Arbeiten mit Zeitintelligenz und Key Performance Indicators\n\n\n### <a name=\"module-658-optimize-model-performance\"></a>Modul 6&#58; Optimieren der Modellleistung\nIn diesem Modul werden Sie mit Schritten, Prozessen, Konzepten und bewährte Praktiken für die Datenmodellierung vertraut gemacht, die zur Optimierung eines Datenmodells für die Performance auf Unternehmensebene erforderlich sind.\n#### <a name=\"lessons\"></a>Lektionen\n- Optimieren des Modells für die Leistung\n- Optimieren von DirectQuery-Modellen\n- Erstellen und Verwalten von Aggregationen\n\nNach Abschluss dieses Moduls können Sie:\n- Verstehen der Bedeutung von Variablen\n- Verbessern des Datenmodells\n- Optimieren des Speichermodells\n- Implementieren von Aggregationen\n\n\n### <a name=\"module-758-create-reports\"></a>Modul 7&#58; Erstellen von Berichten\nDieses Modul führt Teilnehmer in die grundlegenden Konzepte und Prinzipien des Berichtserstellung ein, einschließlich Auswahl der richtigen Grafiken, Entwurf eines Seitenlayouts und Anwendung grundlegender, aber kritischer Funktionen wie Schneiden und Filtern. Das wichtige Thema der Gestaltung für Zugänglichkeit wird ebenfalls behandelt.\n#### <a name=\"lessons\"></a>Lektionen\n- Entwerfen eines Berichts\n- Verbessern des Berichts\n\n#### <a name=\"lab-58-designing-a-report-in-power-bi\"></a>Lab&#58; Entwerfen eines Berichts in Power BI\n- Erstellen einer Liveverbindung in Power\_BI Desktop\n- Entwerfen eines Berichts\n- Konfigurieren von Feldern und Formatierungseigenschaften für Visuals\n\n#### <a name=\"lab-58-enhancing-power-bi-reports-with-interaction-and-formatting\"></a>Lab&#58; Verbessern von Power BI-Berichten durch Interaktion und Formatierung\n- Erstellen und Konfigurieren von Synchronisierungsslicern\n- Erstellen einer Drillthroughseite\n- Anwenden von bedingter Formatierung\n- Erstellen und Verwenden von Lesezeichen\n\nNach Abschluss dieses Moduls können Sie:\n- Entwerfen eines Berichtsseitenlayouts\n- Auswählen und Hinzufügen effektiver Visualisierungen\n- Hinzufügen grundlegender Berichtsfunktionen\n- Hinzufügen von Berichtsnavigation und -interaktionen\n- Verbessern der Berichtsleistung\n- Entwerfen für Barrierefreiheit\n\n\n### <a name=\"module-858-create-dashboards\"></a>Modul 8&#58; Erstellen von Dashboards\nIn diesem Modul lernen Sie, wie man mit Hilfe von Dashboards und den verschiedenen verfügbaren Navigationstools für die Navigation eine überzeugende Geschichte erzählen kann. Sie werden in Features und Funktionen eingeführt und erfahren, wie man Dashboards für Benutzerfreundlichkeit und Einblicke verbessern kann.\n#### <a name=\"lessons\"></a>Lektionen\n- Erstellen eines Dashboards\n- Echtzeitdashboards\n- Erweitern eines Dashboards\n\n#### <a name=\"lab-58-designing-a-report-in-power-bi-desktop---part-1\"></a>Lab&#58; Entwerfen eines Berichts in Power BI Desktop – Teil 1\n- Erstellen eines Dashboards\n- Anheften von Visuals an ein Dashboard\n- Konfigurieren einer Warnung für eine Dashboardkachel\n- Verwenden von Q&A zum Erstellen einer Dashboardkachel\n\nNach Abschluss dieses Moduls können die Schüler:\n- Erstellen eines Dashboards\n- Verstehen von Echtzeitdashboards\n- Verbessern der Benutzerfreundlichkeit von Dashboards\n\n\n### <a name=\"module-958-create-paginated-reports-in-power-bi\"></a>Modul 9&#58; Erstellen paginierter Berichte in Power BI\nIn diesem Modul erfahren Sie mehr über paginierte Berichte, einschließlich der Art und Weise, wie sie in Power BI hineinpassen. Anschließend erfahren Sie, wie man einen Bericht erstellt und veröffentlichten.\n#### <a name=\"lessons\"></a>Lektionen\n- Übersicht über paginierte Berichte\n- Erstellen paginierter Berichte\n\n#### <a name=\"lab-58-creating-a-paginated-report\"></a>Lab&#58; Erstellen eines paginierten Berichts\n- Verwenden von Power\_BI\_Report\_Builder\n- Entwerfen eines mehrseitigen Berichtslayouts\n- Definieren einer Datenquelle\n- Definieren eines Datasets\n- Erstellen eines Berichtsparameters\n- Exportieren eines Berichts nach PDF\n\nNach Abschluss dieses Moduls können Sie:\n- Erläutern paginierter Berichte\n- Erstellen eines paginierten Berichts\n- Erstellen und Konfigurieren einer Datenquelle und eines Datasets\n- Arbeiten mit Diagrammen und Tabellen\n- Veröffentlichen eines Berichts\n\n\n### <a name=\"module-1058-perform-advanced-analytics\"></a>Modul 10&#58; Ausführen erweiterter Analysen\nDieses Modul hilft dem Teilnehmer, zusätzliche Funktionen anzuwenden, um den Bericht für analytische Einblicke in die Daten zu verbessern, und gibt dem Teilnehmer die Möglichkeit, den Bericht für die eigentliche Datenanalyse zu verwenden. Sie werden auch erweiterte Analysen mit Hilfe von KI-Grafiken im Bericht durchführen, um noch tiefere und aussagekräftigere Dateneinblicke zu erhalten.\n#### <a name=\"lessons\"></a>Lektionen\n- Erweiterte Analyse\n- Datenerkenntnisse anhand von KI-Visuals\n\n#### <a name=\"lab-58-data-analysis-in-power-bi-desktop\"></a>Lab&#58; Datenanalyse in Power BI Desktop\n- Erstellen von animierten Punktdiagrammen\n- Verwenden eines Visuals zum Vorhersagen von Werten\n- Arbeiten mit dem Visual „Analysebaum“\n- Arbeiten mit dem Visual „Wichtigste Einflussfaktoren“\n\nNach Abschluss dieses Moduls können Sie:\n- Untersuchen statistischer Zusammenfassungen\n- Verwenden des Features „Analysieren“\n- Identifizieren von Ausreißern in Daten\n- Durchführen einer Zeitreihenanalyse\n- Verwenden der KI-Visuals\n- Verwenden des benutzerdefinierten Visuals „Erweiterte Analyse“\n\n\n### <a name=\"module-1158-create-and-manage-workspaces\"></a>Modul 11&#58; Erstellen und Verwalten von Arbeitsbereichen\nDieses Modul führt Sie in Arbeitsbereiche ein, einschließlich deren Erstellung und Verwaltung. Außerdem erfahren Sie, wie Sie Inhalte freigeben, einschließlich Berichte und Dashboards, und anschließend, wie man eine App verteilt.\n#### <a name=\"lessons\"></a>Lektionen\n- Erstellen von Arbeitsbereichen\n- Teilen und Verwalten von Ressourcen\n\n#### <a name=\"lab-58-publishing-and-sharing-power-bi-content\"></a>Lab&#58; Veröffentlichen und Teilen von Power BI-Inhalten\n- Zuordnen von Sicherheitsprinzipals zu Datasetrollen\n- Freigeben eines Dashboards\n- Veröffentlichen einer App\n\nNach Abschluss dieses Moduls können Sie:\n- Erstellen und Verwalten eines Arbeitsbereichs\n- Verstehen der Zusammenarbeit in Arbeitsbereichen\n- Überwachen der Nutzung und Leistung von Arbeitsbereichen\n- Verteilen einer App\n\n\n### <a name=\"module-1258-manage-datasets-in-power-bi\"></a>Modul 12&#58; Verwalten von Datasets in Power BI\nIn diesem Modul lernen Sie die Konzepte zum Verwalten von Power BI-Assets kennen, einschließlich Datensätzen und Arbeitsbereichen. Sie werde auch Datensätze im Power BI-Service veröffentlichen und diese dann aktualisieren und sichern.\n#### <a name=\"lessons\"></a>Lektionen\n- Parameter\n- Datasets\n\nNach Abschluss dieses Moduls können Sie:\n- Erstellen von und Arbeiten mit Parametern\n- Verwalten von Datasets\n- Konfigurieren der Datasetaktualisierung\n- Behandeln von Problemen mit der Gatewaykonnektivität\n\n\n### <a name=\"module-1358-row-level-security\"></a>Modul 13&#58; Sicherheit auf Zeilenebene\nIn diesem Modul erfahren Sie, wie man die Sicherheit in Power BI implementiert und konfiguriert, um Power BI-Assets zu sichern.\n#### <a name=\"lessons\"></a>Lektionen\n- Sicherheit in Power\_BI\n\nNach Abschluss dieses Moduls können Sie:\n- Verstehen der Aspekte der Power BI-Sicherheit\n- Konfigurieren von Sicherheitsrollen auf Zeilenebene und Gruppenmitgliedschaften"

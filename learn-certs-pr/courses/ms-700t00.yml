@@ -3,216 +3,52 @@ title: Verwalten von Microsoft Teams
 metadata:
   title: 'Kurs MS-700T00-A: Verwalten von Microsoft Teams'
   description: 'Kurs MS-700T00-A: Verwalten von Microsoft Teams'
-  ms.openlocfilehash: b2cc7708e008bff33d38af522a73f9982fe3b868
-  ms.sourcegitcommit: 7d58303fd1a712a89a6ae3b5b62a972702f71b13
-  ms.translationtype: MT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "136970768"
+  iltScheduling: true
 uid: course.ms-700t00
 courseNumber: MS-700T00
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Was sind Microsoft-Teams und wie arbeiten die Komponenten zusammen?
-- skill: Wie man Governance, Sicherheit und Konformität für Microsoft Teams implementiert
-- skill: Wie Sie eine Unternehmensumgebung für eine Microsoft Teams-Bereitstellung vorbereiten
-- skill: Wie man Teams einsetzt und verwaltet
-- skill: Verwalten der Zusammenarbeit und Kommunikation in Microsoft Teams
-- skill: Techniken zur Verwaltung und Fehlerbehebung bei der Kommunikation in Microsoft Teams
+  - skill: Was sind Microsoft-Teams und wie arbeiten die Komponenten zusammen?
+  - skill: 'Wie man Governance, Sicherheit und Konformität für Microsoft Teams implementiert'
+  - skill: Wie Sie eine Unternehmensumgebung für eine Microsoft Teams-Bereitstellung vorbereiten
+  - skill: Wie man Teams einsetzt und verwaltet
+  - skill: Verwalten der Zusammenarbeit und Kommunikation in Microsoft Teams
+  - skill: Techniken zur Verwaltung und Fehlerbehebung bei der Kommunikation in Microsoft Teams
 learningPartnersLink: /learn/certifications/partners
 locales:
-- en
+  - en
 levels:
-- intermediate
+  - intermediate
 roles:
-- administrator
+  - administrator
 products:
-- m365
+  - m365
 exams:
-- uid: exam.ms-700
+  - uid: exam.ms-700
 studyGuide:
-- uid: learn.wwl.explore-teams
-- uid: learn.wwl.plan-deploy-microsoft-teams
-- uid: learn.wwl.implement-lifecycle-management-governance-for-microsoft-teams
-- uid: learn.wwl.monitor-your-microsoft-teams-environment
-- uid: learn.wwl.manage-access-for-external-users
-- uid: learn.wwl.implement-security-for-microsoft-teams
-- uid: learn.wwl.implement-compliance-for-microsoft-teams
-- uid: learn.wwl.transition-from-skype-for-business-to-microsoft-teams
-- uid: learn.wwl.plan-configure-network-settings-for-microsoft-teams
-- uid: learn.wwl.create-manage-teams
-- uid: learn.wwl.manage-collaboration-experiences-for-chat-channels
-- uid: learn.wwl.manage-apps-for-microsoft-teams
-- uid: learn.wwl.manage-meetings-virtual-events-experiences
-- uid: learn.wwl.configure-manage-microsoft-teams-devices
-- uid: learn.wwl.manage-phone-numbers
-- uid: learn.wwl.manage-phone-system-for-microsoft-teams
-- uid: learn.wwl.troubleshoot-audio-video-client-issues
-summary: >-
+  - uid: learn.wwl.explore-teams
+  - uid: learn.wwl.plan-deploy-microsoft-teams
+  - uid: learn.wwl.implement-lifecycle-management-governance-for-microsoft-teams
+  - uid: learn.wwl.monitor-your-microsoft-teams-environment
+  - uid: learn.wwl.manage-access-for-external-users
+  - uid: learn.wwl.implement-security-for-microsoft-teams
+  - uid: learn.wwl.implement-compliance-for-microsoft-teams
+  - uid: learn.wwl.transition-from-skype-for-business-to-microsoft-teams
+  - uid: learn.wwl.plan-configure-network-settings-for-microsoft-teams
+  - uid: learn.wwl.create-manage-teams
+  - uid: learn.wwl.manage-collaboration-experiences-for-chat-channels
+  - uid: learn.wwl.manage-apps-for-microsoft-teams
+  - uid: learn.wwl.manage-meetings-virtual-events-experiences
+  - uid: learn.wwl.configure-manage-microsoft-teams-devices
+  - uid: learn.wwl.manage-phone-numbers
+  - uid: learn.wwl.manage-phone-system-for-microsoft-teams
+  - uid: learn.wwl.troubleshoot-audio-video-client-issues
+summary: |-
   In diesem Kurs erfahren Sie mehr über verschiedene Teams-Verwaltungstools, Sicherheits- und Compliance-Funktionen für Teams, Netzwerkanforderungen für die Bereitstellung von Teams sowie verschiedene Teams-Einstellungen und Richtlinien für das Verwalten der Zusammenarbeit und Kommunikation in Teams. Hier werden Sie die Architektur von Teams kennenlernen. Insbesondere werden Sie die Integration zwischen Microsoft Teams und verschiedenen Workloads und Services in Microsoft 365 kennenlernen. Sie lernen die Sicherheits- und Compliance-Funktionen für Teams kennen, einschließlich Zugriffskontrolle, MFA, Bedrohungen, Warnungen, DLP-Richtlinien, eDiscovery und Richtlinien zur Informationssperre. Sie erfahren auch, wie Sie die Umgebung für eine Microsoft Teams-Bereitstellung vorbereiten, einschließlich der Aktualisierung von Skype for Business zu Microsoft Teams, der Netzwerkeinstellungen und der Verwaltung von Microsoft Teams-Endpunkten. Schließlich lernen Sie, wie man Teams erstellt und verwaltet, die Mitgliedschaft verwaltet, einschließlich interner und externer Benutzer. Außerdem lernen Sie verschiedene Einstellungen und Richtlinien kennen, um die Zusammenarbeit und Kommunikation in Microsoft Teams zu verwalten.
-
 
   #### <a name="audience-profile"></a>Zielgruppenprofil
 
-
   Die Teilnehmer dieses Kurses sind an Microsoft Teams oder am Bestehen der Zertifizierungsprüfung zum Microsoft Teams Administrator Associate interessiert. Ein Microsoft Teams-Administrator plant, implementiert, konfiguriert und verwaltet Microsoft Teams, um sich auf eine effiziente und effektive Zusammenarbeit und Kommunikation in einer Microsoft 365-Umgebung zu konzentrieren. Ein Microsoft Teams-Administrator muss in der Lage sein, Teams, Chats, Apps, Kanäle, Meetings, Audio-/Videokonferenzen, Live-Events, Anrufe und für Teams zertifizierte Geräte zu planen, bereitzustellen und zu verwalten. Ein Microsoft Teams-Administrator hat Erfahrung in der Integration von Microsoft Teams mit SharePoint, OneDrive, Exchange, Microsoft 365 Groups und anderen Microsoft-, Drittanbieter- und benutzerdefinierten Anwendungen. Ein*e Microsoft Teams-Administrator*in versteht andere Workloads und Rollen, wie Netzwerk, Sprache, Identität, Zugriff, Geräte, Lizenzierung, Sicherheit, Compliance, Informationsmanagement und Benutzerakzeptanz, und arbeitet mit ihnen zusammen.
-prerequisitesSection: >-
-  *   Ein fundiertes Verständnis der grundlegenden Funktionen von Microsoft 365-Diensten
-
-
-  *   Ein fundiertes Verständnis allgemeiner IT-Methoden, einschließlich des Verwendens von PowerShell
-outlineSection: >-
-  ### <a name="module-1-get-started-with-managing-microsoft-teams"></a>Modul 1: Erste Schritte beim Verwalten von Microsoft Teams
-
-
-  In diesem Modul erhalten Sie einen Überblick über Microsoft Teams, einschließlich der Teams-Architektur und der damit verbundenen Microsoft 365-Workloads. Außerdem lernen Sie die Verwaltungstools für Teams kennen und erfahren, wie Sie den Lebenszyklus von Teams steuern und verwalten können.
-
-
-  #### <a name="lessons"></a>Lektionen
-
-
-  *   Funktionen von Microsoft Teams
-
-
-  *   Bereitstellen und Verwalten von Microsoft Teams
-
-
-  *   Implementieren der Governance und der Lebenszyklusverwaltung für Microsoft Teams
-
-
-
-  #### <a name="lab--manage-microsoft-teams"></a>Lab: Verwalten von Microsoft Teams
-
-
-  ####
-     *   Vorbereiten von Teamrollen und Lizenzen
-     *   Grundlegendes zu Teams-Verwaltungstools
-     *   Erstellen von Gruppen und Teams
-     *   Implementieren der Governance und der Lebenszyklusverwaltung für Microsoft Teams
-
-  ### <a name="module-2-implement-security-and-compliance-for-microsoft-teams"></a>Modul 2: Implementieren von Sicherheit und Compliance für Microsoft Teams
-
-
-  In diesem Modul lernen Sie, wie Sie den Zugriff von externen Benutzern aus verschiedenen Verwaltungszentren in Microsoft 365 verwalten können und welche Sicherheits- und Compliance-Funktionen zum Schutz der Teams-Umgebung erforderlich sind, einschließlich bedingter Zugriff, MFA, Threat Management für Microsoft Teams, DLP-Richtlinien, eDiscovery-Fälle und Kommunikations-Compliance.
-
-
-  #### <a name="lessons"></a>Lektionen
-
-
-  *   Verwalten des Zugriffs für externe Benutzer
-
-
-  *   Implementieren von Sicherheit für Microsoft Teams
-
-
-  *   Implementieren von Konformität für Microsoft Teams
-
-
-
-  #### <a name="lab--configure-security-and-compliance-for-microsoft-teams"></a>Lab: Konfigurieren von Sicherheit und Compliance für Microsoft Teams
-
-
-  ####
-     *   Verwalten des Gastzugriffs für Microsoft Teams
-     *   Implementieren von Sicherheit für Microsoft Teams
-     *   Implementieren von Konformität für Microsoft Teams
-
-  ### <a name="module-3-prepare-the-environment-for-a-microsoft-teams-deployment"></a>Modul 3: Vorbereiten der Umgebung für eine Microsoft Teams-Bereitstellung
-
-
-  In diesem Modul lernen Sie die verschiedenen Aktualisierungs-Pfade für Koexistenz und Aktualisierungs-Modi für den Übergang von Skype for Business zu Microsoft Teams kennen. Außerdem lernen Sie, wie Sie Netzwerkeinstellungen für Microsoft Teams planen und konfigurieren.
-
-
-  #### <a name="lessons"></a>Lektionen
-
-
-  *   Übergang von Skype for Business zu Microsoft Teams
-
-
-  *   Planen und Konfigurieren von Netzwerkeinstellungen für Microsoft-Teams
-
-
-
-  #### <a name="lab--plan-and-configure-network-settings-for-microsoft-teams"></a>Lab: Planen und Konfigurieren von Netzwerkeinstellungen für Microsoft Teams
-
-
-  ####
-     *   Berechnen von Netzwerkfunktionen
-
-  ### <a name="module-4-manage-chat-teams-channels-and-apps-in-microsoft-teams"></a>Modul 4: Verwalten von Chats, Teams, Kanälen und Apps in Microsoft Teams
-
-
-  In diesem Modul lernen Sie, wie Sie Teams und Mitgliedschaften mit verschiedenen Ansätzen erstellen und verwalten, die Zusammenarbeit in Chats und Kanälen verwalten und Apps für Microsoft Teams verwalten.
-
-
-  #### <a name="lessons"></a>Lektionen
-
-
-  *   Erstellen und Verwalten von Teams
-
-
-  *   Verwalten von Zusammenarbeitsfunktionen für Chats und Kanäle
-
-
-  *   Verwalten von Apps für Microsoft Teams
-
-
-
-  #### <a name="lab--manage-teams-and-collaboration-settings-for-teams"></a>Lab: Verwalten von Teams und Einstellungen für die Zusammenarbeit für Teams
-
-
-  ####
-     *   Verwalten von Teamressourcen
-     *   Konfigurieren von Kanal- und Messagingrichtlinien
-     *   Verwalten von App-Einstellungen
-     *   Testen von konfigurierten Richtlinieneinstellungen
-
-  ### <a name="module-5-manage-meetings-and-virtual-events-in-microsoft-teams"></a>Modul 5: Verwalten von Besprechungen und virtuellen Ereignissen in Microsoft Teams
-
-
-  In diesem Modul lernen Sie, wie Sie Besprechungen und virtuelle Veranstaltungen mit verschiedenen Richtlinien und Einstellungen verwalten können. Außerdem lernen Sie, wie Sie Teams-Geräte, einschließlich Teams Room, bereitstellen.
-
-
-  #### <a name="lessons"></a>Lektionen
-
-
-  *   Verwalten von Funktionen für Besprechungen und virtuelle Ereignisse
-
-
-  *   Konfigurieren und Verwalten von Microsoft Teams-Geräten
-
-
-
-  #### <a name="lab--manage-teams-meetings-experiences"></a>Lab: Verwalten von Teams-Besprechungen
-
-
-  ####
-     *   Verwalten von Funktionen für Besprechungen und virtuelle Ereignisse
-     *   Bereitstellen von Teams-Geräteprofilen
-
-  ### <a name="module-6-manage-calling-in-microsoft-teams"></a>Modul 6: Verwalten von Anrufen in Microsoft Teams
-
-
-  In diesem Modul lernen Sie, wie Sie Telefonnummern und das Telefonsystem für Anrufe in Microsoft Teams verwalten und wie Sie Audio-, Video- und Client-Probleme beheben können.
-
-
-  #### <a name="lessons"></a>Lektionen
-
-
-  *   Verwalten von Telefonnummern
-
-
-  *   Verwalten des Telefonsystems für Microsoft Teams
-
-
-  *   Problembehandlung bei Audio-, Video- und Clientproblemen
-
-
-
-  #### <a name="lab--manage-calling-in-microsoft-teams"></a>Lab: Verwalten von Anrufen in Microsoft Teams
-
-
-  ####
-     *   Erstellen eines Anrufplans (Optional)
-     *   Verwalten des Telefonsystems für Microsoft Teams
+prerequisitesSection: "*   Ein fundiertes Verständnis der grundlegenden Funktionen von Microsoft\_365-Diensten\n\n*   Ein fundiertes Verständnis allgemeiner IT-Methoden, einschließlich des Verwendens von PowerShell"
+outlineSection: "### <a name=\"module-1-get-started-with-managing-microsoft-teams\"></a>Modul\_1: Erste Schritte beim Verwalten von Microsoft Teams\n\nIn diesem Modul erhalten Sie einen Überblick über Microsoft Teams, einschließlich der Teams-Architektur und der damit verbundenen Microsoft 365-Workloads. Außerdem lernen Sie die Verwaltungstools für Teams kennen und erfahren, wie Sie den Lebenszyklus von Teams steuern und verwalten können.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Funktionen von Microsoft Teams\n\n*   Bereitstellen und Verwalten von Microsoft\_Teams\n\n*   Implementieren der Governance und der Lebenszyklusverwaltung für Microsoft\_Teams\n\n\n#### <a name=\"lab--manage-microsoft-teams\"></a>Lab: Verwalten von Microsoft\_Teams\n\n####\n   *   Vorbereiten von Teamrollen und Lizenzen\n   *   Grundlegendes zu Teams-Verwaltungstools\n   *   Erstellen von Gruppen und Teams\n   *   Implementieren der Governance und der Lebenszyklusverwaltung für Microsoft\_Teams\n\n### <a name=\"module-2-implement-security-and-compliance-for-microsoft-teams\"></a>Modul\_2: Implementieren von Sicherheit und Compliance für Microsoft\_Teams\n\nIn diesem Modul lernen Sie, wie Sie den Zugriff von externen Benutzern aus verschiedenen Verwaltungszentren in Microsoft 365 verwalten können und welche Sicherheits- und Compliance-Funktionen zum Schutz der Teams-Umgebung erforderlich sind, einschließlich bedingter Zugriff, MFA, Threat Management für Microsoft Teams, DLP-Richtlinien, eDiscovery-Fälle und Kommunikations-Compliance.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Verwalten des Zugriffs für externe Benutzer\n\n*   Implementieren von Sicherheit für Microsoft\_Teams\n\n*   Implementieren von Konformität für Microsoft Teams\n\n\n#### <a name=\"lab--configure-security-and-compliance-for-microsoft-teams\"></a>Lab: Konfigurieren von Sicherheit und Compliance für Microsoft\_Teams\n\n####\n   *   Verwalten des Gastzugriffs für Microsoft\_Teams\n   *   Implementieren von Sicherheit für Microsoft\_Teams\n   *   Implementieren von Konformität für Microsoft Teams\n\n### <a name=\"module-3-prepare-the-environment-for-a-microsoft-teams-deployment\"></a>Modul\_3: Vorbereiten der Umgebung für eine Microsoft\_Teams-Bereitstellung\n\nIn diesem Modul lernen Sie die verschiedenen Aktualisierungs-Pfade für Koexistenz und Aktualisierungs-Modi für den Übergang von Skype for Business zu Microsoft Teams kennen. Außerdem lernen Sie, wie Sie Netzwerkeinstellungen für Microsoft Teams planen und konfigurieren.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Übergang von Skype for Business zu Microsoft\_Teams\n\n*   Planen und Konfigurieren von Netzwerkeinstellungen für Microsoft-Teams\n\n\n#### <a name=\"lab--plan-and-configure-network-settings-for-microsoft-teams\"></a>Lab: Planen und Konfigurieren von Netzwerkeinstellungen für Microsoft\_Teams\n\n####\n   *   Berechnen von Netzwerkfunktionen\n\n### <a name=\"module-4-manage-chat-teams-channels-and-apps-in-microsoft-teams\"></a>Modul\_4: Verwalten von Chats, Teams, Kanälen und Apps in Microsoft\_Teams\n\nIn diesem Modul lernen Sie, wie Sie Teams und Mitgliedschaften mit verschiedenen Ansätzen erstellen und verwalten, die Zusammenarbeit in Chats und Kanälen verwalten und Apps für Microsoft Teams verwalten.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Erstellen und Verwalten von Teams\n\n*   Verwalten von Zusammenarbeitsfunktionen für Chats und Kanäle\n\n*   Verwalten von Apps für Microsoft Teams\n\n\n#### <a name=\"lab--manage-teams-and-collaboration-settings-for-teams\"></a>Lab: Verwalten von Teams und Einstellungen für die Zusammenarbeit für Teams\n\n####\n   *   Verwalten von Teamressourcen\n   *   Konfigurieren von Kanal- und Messagingrichtlinien\n   *   Verwalten von App-Einstellungen\n   *   Testen von konfigurierten Richtlinieneinstellungen\n\n### <a name=\"module-5-manage-meetings-and-virtual-events-in-microsoft-teams\"></a>Modul\_5: Verwalten von Besprechungen und virtuellen Ereignissen in Microsoft\_Teams\n\nIn diesem Modul lernen Sie, wie Sie Besprechungen und virtuelle Veranstaltungen mit verschiedenen Richtlinien und Einstellungen verwalten können. Außerdem lernen Sie, wie Sie Teams-Geräte, einschließlich Teams Room, bereitstellen.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Verwalten von Funktionen für Besprechungen und virtuelle Ereignisse\n\n*   Konfigurieren und Verwalten von Microsoft Teams-Geräten\n\n\n#### <a name=\"lab--manage-teams-meetings-experiences\"></a>Lab: Verwalten von Teams-Besprechungen\n\n####\n   *   Verwalten von Funktionen für Besprechungen und virtuelle Ereignisse\n   *   Bereitstellen von Teams-Geräteprofilen\n\n### <a name=\"module-6-manage-calling-in-microsoft-teams\"></a>Modul\_6: Verwalten von Anrufen in Microsoft\_Teams\n\nIn diesem Modul lernen Sie, wie Sie Telefonnummern und das Telefonsystem für Anrufe in Microsoft Teams verwalten und wie Sie Audio-, Video- und Client-Probleme beheben können.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Verwalten von Telefonnummern\n\n*   Verwalten des Telefonsystems für Microsoft Teams\n\n*   Problembehandlung bei Audio-, Video- und Clientproblemen\n\n\n#### <a name=\"lab--manage-calling-in-microsoft-teams\"></a>Lab: Verwalten von Anrufen in Microsoft\_Teams\n\n####\n   *   Erstellen eines Anrufplans (Optional)\n   *   Verwalten des Telefonsystems für Microsoft\_Teams"

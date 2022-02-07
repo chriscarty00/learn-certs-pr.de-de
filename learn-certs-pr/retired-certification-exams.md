@@ -9,12 +9,6 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 6f17a599db26cf3f4aa476788bcc7987ad7f9138
-ms.sourcegitcommit: df7ca43366241a7b990f9e290f62d630f4d65c28
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "135964297"
 ---
 # <a name="exam-retirement"></a>Einstellung von Examen
 
@@ -60,58 +54,6 @@ Diese Examen wurden im letzten Jahr eingestellt. Zu Referenzzwecken wird zwölf 
 | [MB-600](/learn/certifications/exams/mb-600) | Microsoft Dynamics 365 + Power Platform Solution Architect | 30. Juni 2021
 | [MB-901](/learn/certifications/exams/mb-901) | Microsoft Dynamics 365 Fundamentals | 30. Juni 2021
 
-<br/>
-
-| ITPro / Entwickler| | |
-| --- | --- | --- |
-| [70-333](/learn/certifications/exams/70-333) | Deploying Enterprise Voice with Skype for Business 2015 | 31. Januar 2021
-| [70-334](/learn/certifications/exams/70-334) | Core Solutions of Microsoft Skype for Business 2015 | 31. Januar 2021
-| [70-339](/learn/certifications/exams/70-339) | Managing Microsoft SharePoint Server 2016 | 31. Januar 2021
-| [70-345](/learn/certifications/exams/70-345) | Designing and Deploying Microsoft Exchange Server 2016 | 31. Januar 2021
-| [70-357](/learn/certifications/exams/70-357) | Developing Mobile Apps | 31. Januar 2021
-| [70-410](/learn/certifications/exams/70-410) | Installing and Configuring Windows Server 2012 | 31. Januar 2021
-| [70-411](/learn/certifications/exams/70-411) | Administering Windows Server 2012 | 31. Januar 2021
-| [70-412](/learn/certifications/exams/70-412) | Configuring Advanced Windows Server 2012 Services  | 31. Januar 2021
-| [70-413](/learn/certifications/exams/70-413) | Designing and Implementing a Server Infrastructure | 31. Januar 2021
-| [70-414](/learn/certifications/exams/70-414) | Implementing an Advanced Server Infrastructure | 31. Januar 2021
-| [70-417](/learn/certifications/exams/70-417) | Upgrading Your Skills to MCSA Windows Server 2012 | 31. Januar 2021
-| [70-461](/learn/certifications/exams/70-461) | Querying Microsoft SQL Server 2012/2014 | 31. Januar 2021
-| [70-462](/learn/certifications/exams/70-462) | Administering Microsoft SQL Server 2012/2014 Databases | 31. Januar 2021
-| [70-463](/learn/certifications/exams/70-463) | Implementing a Data Warehouse with Microsoft SQL Server 2012/2014 | 31. Januar 2021
-| [70-464](/learn/certifications/exams/70-464) | Developing Microsoft SQL Server Databases | 31. Januar 2021
-| [70-465](/learn/certifications/exams/70-465) | Designing Database Solutions for Microsoft SQL Server | 31. Januar 2021
-| [70-466](/learn/certifications/exams/70-466) | Implementing Data Models and Reports with Microsoft SQL Server | 31. Januar 2021
-| [70-467](/learn/certifications/exams/70-467) | Designing Business Intelligence Solutions with Microsoft SQL Server | 31. Januar 2021
-| [70-480](/learn/certifications/exams/70-480) | Programming in HTML5 with JavaScript and CSS3 | 31. Januar 2021
-| [70-483](/learn/certifications/exams/70-483) | Programming in C# | 31. Januar 2021
-| [70-486](/learn/certifications/exams/70-486) | Developing ASP.NET MVC Web Applications | 31. Januar 2021
-| [70-487](/learn/certifications/exams/70-487) | Developing Microsoft Azure and Web Services | 31. Januar 2021
-| [70-537](/learn/certifications/exams/70-537) | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (Konfigurieren und Betreiben einer Hybrid Cloud mit Microsoft Azure Stack Hub) | 31. Januar 2021
-| [70-705](/learn/certifications/exams/70-705) | Designing and Providing Microsoft Licensing Solutions to Large Organizations | 31. Januar 2021
-| [70-740](/learn/certifications/exams/70-740) | Installation, Storage, and Compute with Windows Server 2016 | 31. Januar 2021
-| [70-741](/learn/certifications/exams/70-741) | Networking with Windows Server 2016 | 31. Januar 2021
-| [70-742](/learn/certifications/exams/70-742) | Identity with Windows Server 2016 | 31. Januar 2021
-| [70-743](/learn/certifications/exams/70-743) | Upgrading Your Skills to MCSA: Windows Server 2016 | 31. Januar 2021
-| [70-744](/learn/certifications/exams/70-744) | Securing Windows Server 2016 | 31. Januar 2021
-| [70-745](/learn/certifications/exams/70-745) | Implementing a Software-Defined Datacenter | 31. Januar 2021
-| [70-761](/learn/certifications/exams/70-761) | \- Abfragen mit Transact-SQL | 31. Januar 2021
-| [70-762](/learn/certifications/exams/70-762) | SQL-Datenbanken entwickeln | 31. Januar 2021
-| [70-764](/learn/certifications/exams/70-764) | Verwalten einer SQL-Datenbankinfrastruktur | 31. Januar 2021
-| [70-765](/learn/certifications/exams/70-765) | Bereitstellung von SQL-Datenbanken | 31. Januar 2021
-| [70-767](/learn/certifications/exams/70-767) | Implementing a Data Warehouse using SQL | 31. Januar 2021
-| [70-768](/learn/certifications/exams/70-768) | SQL-Datenmodelle entwickeln | 31. Januar 2021
-| [70-777](/learn/certifications/exams/70-777) | Implementieren von Microsoft Azure Cosmos DB-Lösungen | 31. Januar 2021
-| [70-778](/learn/certifications/exams/70-778) | Analysieren und Visualisieren von Daten mit Power BI | 31. Januar 2021
-| [70-779](/learn/certifications/exams/70-779) | Analysieren und Visualisieren von Daten mit Microsoft Excel | 31. Januar 2021
-
-<br/>
-
-| Microsoft Dynamics 365 | | |
-| --- | --- | --- |
-| [MB2-716](/learn/certifications/exams/mb2-716) | Microsoft Dynamics 365 Customization and Configuration | 31. Januar 2021
-| [MB6-894](/learn/certifications/exams/mb6-894) | Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance | 31. Januar 2021
-| [MB6-897](/learn/certifications/exams/mb6-897) | Microsoft Dynamics 365 for Retail | 31. Januar 2021
-| [MB6-898](/learn/certifications/exams/mb6-898) | Microsoft Dynamics 365 for Talent | 31. Januar 2021
 
 ## <a name="exams-retired-more-than-12-months-ago"></a>Vor mehr als zwölf Monaten eingestellte Examen
 
@@ -207,11 +149,15 @@ Diese Examen wurden im letzten Jahr eingestellt. Zu Referenzzwecken wird zwölf 
 | 70-330 | Implementieren der Sicherheit von Apps mit Microsoft Visual Basic .NET | 31. März 2009
 | 70-331 | Kernlösungen für Microsoft SharePoint Server 2013 | 31. März 2019
 | 70-332 | Fortgeschrittene Lösungen für Microsoft SharePoint Server 2013 | 31. März 2019
+| 70-333 | Deploying Enterprise Voice with Skype for Business 2015 | 31. Januar 2021
+| 70-334 | Core Solutions of Microsoft Skype for Business 2015 | 31. Januar 2021
 | 70-336 | Kernlösungen von Microsoft Lync Server 2013 | 30. März 2016
 | 70-337 | Enterprise Voice & Online Services mit Microsoft Lync Server 2013 | 30. März 2016
+| 70-339 | Managing Microsoft SharePoint Server 2016 | 31. Januar 2021
 | 70-340 | Implementieren der Sicherheit von Apps mit Microsoft Visual C# .NET | 31. März 2009
 | 70-341 | Kernlösungen von Microsoft Exchange Server 2013 | 31. März 2019
 | 70-342 | Fortgeschrittene Lösungen von Microsoft Exchange Server 2013 | 31. März 2019
+| 70-345 | Designing and Deploying Microsoft Exchange Server 2016 | 31. Januar 2021
 | 70-346 | Verwalten von Office 365-Identitäten und -Anforderungen | 30. April 2019
 | 70-347 | Aktivieren von Office 365-Diensten | 30. April 2019
 | 70-348 | Managing Projects and Portfolios with Microsoft PPM | 31. Dezember 2019
@@ -219,6 +165,7 @@ Diese Examen wurden im letzten Jahr eingestellt. Zu Referenzzwecken wird zwölf 
 | 70-351 | TS: Microsoft Internet Security and Acceleration Server 2006, Configuring | 31. März 2011
 | 70-354 | Universal Windows Platform – App Architektur und UX/UI | 30. September 2017
 | 70-355 | Universal Windows Platform – App Daten, Services, und Codierungsmuster | 30. September 2017
+| 70-357 | Developing Mobile Apps | 31. Januar 2021
 | 70-383 | Rezertifizierung für MCSE: SharePoint | 31. März 2017
 | 70-384 | Rezertifizierung für MCSE: Communication | 31. März 2017
 | 70-385 | Rezertifizierung für MCSE: Messaging | 31. März 2017
@@ -226,8 +173,14 @@ Diese Examen wurden im letzten Jahr eingestellt. Zu Referenzzwecken wird zwölf 
 | 70-400 | TS: Microsoft System Center Operations Manager 2007, Configuring | 31. Juli 2013
 | 70-401 | TS: Microsoft System Center Configuration Manager 2007, Configuring | 31. Juli 2013
 | 70-403 | TS: System Center Virtual Machine Manager 2008, Configuring | 30. September 2011
+| 70-410 | Installing and Configuring Windows Server 2012 | 31. Januar 2021
+| 70-411 | Administering Windows Server 2012 | 31. Januar 2021
+| 70-412 | Configuring Advanced Windows Server 2012 Services  | 31. Januar 2021
+| 70-413 | Designing and Implementing a Server Infrastructure | 31. Januar 2021
+| 70-414 | Implementing an Advanced Server Infrastructure | 31. Januar 2021
 | 70-415 | Implementierung einer Desktop Infrastructure | 31. Januar 2016
 | 70-416 | Implementierung einer Desktop Anwendungs Environments | 31. Januar 2016
+| 70-417 | Upgrading Your Skills to MCSA Windows Server 2012 | 31. Januar 2021
 | 70-431 | TS: Microsoft SQL Server 2005 ‒ Implementation and Maintenance | 30. Juni 2011
 | 70-432 | Microsoft SQL Server 2008, Implementierung und Wartung | 31. Juli 2016
 | 70-433 | TS: Microsoft SQL Server 2008, Database Development | 31. Juli 2015
@@ -250,14 +203,25 @@ Diese Examen wurden im letzten Jahr eingestellt. Zu Referenzzwecken wird zwölf 
 | 70-458 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012, Teil 2 | 31. Juli 2016
 | 70-459 | Wechseln Sie Ihre MCITP: Datenbankadministrator 2008 oder MCITP: Datenbankentwickler 2008 zu MCSE: Datenplattform | 31. Januar 2016
 | 70-460 | Wechseln Sie Ihre MCITP: Business Intelligence Developer 2008 zu MCSE: Business Intelligence | 31. Januar 2016
+| 70-461 | Querying Microsoft SQL Server 2012/2014 | 31. Januar 2021
+| 70-462 | Administering Microsoft SQL Server 2012/2014 Databases | 31. Januar 2021
+| 70-463 | Implementing a Data Warehouse with Microsoft SQL Server 2012/2014 | 31. Januar 2021
+| 70-464 | Developing Microsoft SQL Server Databases | 31. Januar 2021
+| 70-465 | Designing Database Solutions for Microsoft SQL Server | 31. Januar 2021
+| 70-466 | Implementing Data Models and Reports with Microsoft SQL Server | 31. Januar 2021
+| 70-467 | Designing Business Intelligence Solutions with Microsoft SQL Server | 31. Januar 2021
 | 70-469 | Rezertifizierung für MCSE: Data Platform | 31. März 2017
 | 70-470 | Rezertifizierung für MCSE: Business Intelligence | 31. März 2017
 | 70-473 | Entwurf und Implementieren von Cloud-Datenplattform-Lösungen | 30. Juni 2019
 | 70-475 | Entwerfen und Implementieren von Große Datenmengenanalyse -Lösungen | 30. Juni 2019
+| 70-480 | Programming in HTML5 with JavaScript and CSS3 | 31. Januar 2021
 | 70-481 | Grundlagen der Entwicklung von Windows Store Anwendungen mit HTML5 und JavaScript | 30. September 2016
 | 70-482 | Fortgeschrittene Windows Store Anwendungsentwicklung mit Hilfe von HTML5 und JavaScript | 30. September 2016
+| 70-483 | Programming in C# | 31. Januar 2021
 | 70-484 | Grundlagen der Entwicklung von Windows Store Anwendungen mit C# | 30. September 2016
 | 70-485 | Fortgeschrittene Windows Store Anwendungs Entwicklung mit C# | 30. September 2016
+| 70-486 | Developing ASP.NET MVC Web Applications | 31. Januar 2021
+| 70-487 | Developing Microsoft Azure and Web Services | 31. Januar 2021
 | 70-488 | Entwickeln von SharePoint Server 2013 Core Solutions | 31. Juli 2018
 | 70-489 | Entwickeln von SharePoint Server 2013 Advanced Solutions | 31. Juli 2018
 | 70-490 | Recertification for MCSD: Windows Store Apps Using HTML5 | 31. März 2017
@@ -292,6 +256,7 @@ Diese Examen wurden im letzten Jahr eingestellt. Zu Referenzzwecken wird zwölf 
 | 70-534 | Entwurf der Architektur von Microsoft Azure Lösungen | 31. Dezember 2017
 | 70-535 | Entwurf der Architektur von Microsoft Azure Lösungen | 31. Dezember 2018
 | 70-536 | TS: Microsoft .NET Framework – Application Development Foundation | 31. Juli 2013
+| 70-537 | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (Konfigurieren und Betreiben einer Hybrid Cloud mit Microsoft Azure Stack Hub) | 31. Januar 2021
 | 70-540 | TS: Microsoft Windows Mobile 5.0 – Application Development | 31. März 2011
 | 70-541 | TS: Microsoft Windows SharePoint Services 3.0 – Application Development | 30. Juni 2011
 | 70-542 | TS: Microsoft Office SharePoint Server 2007 – Application Development | 31. Januar 2013
@@ -388,13 +353,29 @@ Diese Examen wurden im letzten Jahr eingestellt. Zu Referenzzwecken wird zwölf 
 | 70-698 | Installing and Configuring Windows 10 | 31. März 2019
 | 70-699 | Aktualisierung der Windows Server 2003, MCSA Security Specialization Fertigkeiten | 31. Juli 2013
 | 70-703 | Administering Microsoft System Center Configuration Manager and Cloud Services Integration | 31. Dezember 2019
+| 70-705 | Designing and Providing Microsoft Licensing Solutions to Large Organizations | 31. Januar 2021
 | 70-713 | Software Asset Management (SAM) - Core | 31. Dezember 2019
 | 70-734 | OEM-Vorinstallation für Windows 10 | 31. August 2017
 | 70-735 | OEM Manufacturing and Deployment for Windows 10 | 31. Dezember 2019
+| 70-740 | Installation, Storage, and Compute with Windows Server 2016 | 31. Januar 2021
+| 70-741 | Networking with Windows Server 2016 | 31. Januar 2021
+| 70-742 | Identity with Windows Server 2016 | 31. Januar 2021
+| 70-743 | Upgrading Your Skills to MCSA: Windows Server 2016 | 31. Januar 2021
+| 70-744 | Securing Windows Server 2016 | 31. Januar 2021
+| 70-745 | Implementing a Software-Defined Datacenter | 31. Januar 2021
+| 70-761 | \- Abfragen mit Transact-SQL | 31. Januar 2021
+| 70-762 | SQL-Datenbanken entwickeln | 31. Januar 2021
+| 70-764 | Verwalten einer SQL-Datenbankinfrastruktur | 31. Januar 2021
+| 70-765 | Bereitstellung von SQL-Datenbanken | 31. Januar 2021
+| 70-767 | Implementing a Data Warehouse using SQL | 31. Januar 2021
+| 70-768 | SQL-Datenmodelle entwickeln | 31. Januar 2021
 | 70-773 | Analyse großer Datenmengen mit Microsoft R | 30. Juni 2019
 | 70-774 | Führen Sie Cloud Data Science mit Azure Machine Learning durch | 30. Juni 2019
 | 70-775 | Führen Sie Daten Engineering auf Microsoft Azure HDInsight durch | 30. Juni 2019
 | 70-776 | Führen Sie Big Data Engineering auf Microsoft Cloud Services durch | 30. Juni 2019
+| 70-777 | Implementieren von Microsoft Azure Cosmos DB-Lösungen | 31. Januar 2021
+| 70-778 | Analysieren und Visualisieren von Daten mit Power BI | 31. Januar 2021
+| 70-779 | Analysieren und Visualisieren von Daten mit Microsoft Excel | 31. Januar 2021
 | 70-980 | Rezertifizierung für MCSE: Server Infrastructure | 31. März 2017
 | 70-981 | Rezertifizierung für MCSE: Private Cloud | 31. März 2017
 | 70-982 | Rezertifizierung für MCSE: Desktop Infrastructure | 5. Oktober 2015
@@ -474,6 +455,7 @@ Diese Examen wurden im letzten Jahr eingestellt. Zu Referenzzwecken wird zwölf 
 | MB2-713 | Microsoft Dynamics CRM 2016 Sales | 31. Dezember 2019
 | MB2-714 | Microsoft Dynamics CRM 2016 Customer Service | 31. Dezember 2019
 | MB2-715 | Microsoft Dynamics 365 Kundenbindung Online-Bereitstellung | 30. Juni 2019
+| MB2-716 | Microsoft Dynamics 365 Customization and Configuration | 31. Januar 2021
 | MB2-717 | Microsoft Dynamics 365 for Sales | 30. Juni 2019
 | MB2-718 | Microsoft Dynamics 365 für den Kundenservice | 31. August 2019
 | MB2-719 | Microsoft Dynamics 365 für das Marketing | 31. August 2019
@@ -578,8 +560,11 @@ Diese Examen wurden im letzten Jahr eingestellt. Zu Referenzzwecken wird zwölf 
 | MB6-890 | Microsoft Dynamics AX Einführung in die Entwicklung | 31. Dezember 2017
 | MB6-892 | Microsoft Dynamics AX Vertrieb und Handel | 31. Dezember 2017
 | MB6-893 | Microsoft Dynamics AX Finanzprodukte | 31. Dezember 2017
+| MB6-894 | Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance | 31. Januar 2021
 | MB6-895 | Finanzmanagement in Microsoft Dynamics 365 für Finanzen und Betriebsabläufe | 31. August 2019
 | MB6-896 | Vertrieb und Handel mit Microsoft Dynamics 365 für Finanzwesen und Betriebsführung | 31. August 2019
+| MB6-897 | Microsoft Dynamics 365 for Retail | 31. Januar 2021
+| MB6-898 | Microsoft Dynamics 365 for Talent | 31. Januar 2021
 | MB7-221 | Navision 4.0 C/SIDE Einführung | 12. Januar 2010
 | MB7-222 | NAV 4,0 C/SIDE Lösungsentwicklung | 12. Januar 2010
 | MB7-223 | Navision 4.0 Warenhaus-Management | 12. Januar 2010

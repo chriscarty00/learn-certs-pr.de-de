@@ -3,174 +3,68 @@ title: Planning and Administering Microsoft Azure for SAP Workloads
 metadata:
   title: 'Kurs AZ-120T00--A: Planen und Verwalten von Microsoft Azure für SAP-Workloads'
   description: 'Kurs AZ-120T00--A: Planen und Verwalten von Microsoft Azure für SAP-Workloads'
-  ms.openlocfilehash: 744f39c5f1fe377017d899958f0f2d7502918077
-  ms.sourcegitcommit: 7d58303fd1a712a89a6ae3b5b62a972702f71b13
-  ms.translationtype: MT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "136970729"
 uid: course.az-120t00
 courseNumber: AZ-120T00
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Migrieren von SAP-Workloads zu Azure
-- skill: Entwerfen einer Azure-Lösung zur Unterstützung von SAP-Workloads
-- skill: Erstellen und Bereitstellen von SAP-Workloads in Azure
-- skill: Überprüfen der Azure-Infrastruktur für SAP-Workloads
-- skill: Operationalisierung der Azure SAP-Architektur
+  - skill: Migrieren von SAP-Workloads zu Azure
+  - skill: Entwerfen einer Azure-Lösung zur Unterstützung von SAP-Workloads
+  - skill: Erstellen und Bereitstellen von SAP-Workloads in Azure
+  - skill: Überprüfen der Azure-Infrastruktur für SAP-Workloads
+  - skill: Operationalisierung der Azure SAP-Architektur
 learningPartnersLink: /learn/certifications/partners
 locales:
-- en
+  - en
+  - zh-cn
+  - ja
+  - ko
 levels:
-- advanced
+  - advanced
 roles:
-- solution-architect
+  - solution-architect
 products:
-- azure
+  - azure
 exams:
-- uid: exam.az-120
+  - uid: exam.az-120
 studyGuide:
-- uid: learn.wwl.explore-azure-sap-workloads
-- uid: learn.wwl.discover-common-terms-meanings
-- uid: learn.wwl.identify-sap-certified-configurations
-- uid: learn.wwl.examine-sap-netweaver-anydb
-- uid: learn.wwl.examine-sap-s4hana-azure-virtual-machines
-- uid: learn.wwl.explore-azure-compute
-- uid: learn.wwl.explore-azure-networking
-- uid: learn.wwl.explore-azure-storage
-- uid: learn.wwl.explore-azure-databases
-- uid: learn.wwl.explore-identity-services
-- uid: learn.wwl.explore-azure-remote-management
-- uid: learn.wwl.explore-azure-governance-manageability
-- uid: learn.wwl.deploy-single-instance-implementations-2-tier-3-tier
-- uid: learn.wwl.implement-ha-sap-netweaver-anydb
-- uid: learn.wwl.implement-high-availability-for-sap-workloads-azure
-- uid: learn.wwl.implement-disaster-recovery-for-sap-workloads-azure
-- uid: learn.wwl.perform-backups-restores
-- uid: learn.wwl.use-sap-workload-planning-deployment-checklist
-- uid: learn.wwl.explore-migration-options
-- uid: learn.wwl.migrate-very-large-databases-vldb-to-azure
-- uid: learn.wwl.explore-monitoring-requirements-of-azure-for-sap-workloads
-- uid: learn.wwl.configure-azure-enhanced-monitoring-extension-for-sap
-- uid: learn.wwl.explore-licensing-pricing-support
-- uid: learn.wwl.identify-sap-hana-azure-large-instances-certified-offerings
-- uid: learn.wwl.examine-sap-hana-azure-large-instances-sample-architecture
-- uid: learn.wwl.plan-sap-hana-azure-large-instances-deployments
-- uid: learn.wwl.plan-sap-hana-azure-large-instances-high-availability-disaster-recovery
-- uid: learn.wwl.backup-security-licensing-support-considerations-sap-hana-azure
-- uid: learn.wwl.implement-deploy-sap-hana-azure-large-instances
-- uid: learn.wwl.manage-sap-hana-azure-large-instances
-- uid: learn.wwl.monitor-troubleshoot-sap-hana-azure-large-instances
-- uid: learn.wwl.implement-business-continuity-disaster-recovery-backup
-summary: >-
+  - uid: learn.wwl.explore-azure-sap-workloads
+  - uid: learn.wwl.discover-common-terms-meanings
+  - uid: learn.wwl.identify-sap-certified-configurations
+  - uid: learn.wwl.examine-sap-netweaver-anydb
+  - uid: learn.wwl.examine-sap-s4hana-azure-virtual-machines
+  - uid: learn.wwl.explore-azure-compute
+  - uid: learn.wwl.explore-azure-networking
+  - uid: learn.wwl.explore-azure-storage
+  - uid: learn.wwl.explore-azure-databases
+  - uid: learn.wwl.explore-identity-services
+  - uid: learn.wwl.explore-azure-remote-management
+  - uid: learn.wwl.explore-azure-governance-manageability
+  - uid: learn.wwl.deploy-single-instance-implementations-2-tier-3-tier
+  - uid: learn.wwl.implement-ha-sap-netweaver-anydb
+  - uid: learn.wwl.implement-high-availability-for-sap-workloads-azure
+  - uid: learn.wwl.implement-disaster-recovery-for-sap-workloads-azure
+  - uid: learn.wwl.perform-backups-restores
+  - uid: learn.wwl.use-sap-workload-planning-deployment-checklist
+  - uid: learn.wwl.explore-migration-options
+  - uid: learn.wwl.migrate-very-large-databases-vldb-to-azure
+  - uid: learn.wwl.explore-monitoring-requirements-of-azure-for-sap-workloads
+  - uid: learn.wwl.configure-azure-enhanced-monitoring-extension-for-sap
+  - uid: learn.wwl.explore-licensing-pricing-support
+  - uid: learn.wwl.identify-sap-hana-azure-large-instances-certified-offerings
+  - uid: learn.wwl.examine-sap-hana-azure-large-instances-sample-architecture
+  - uid: learn.wwl.plan-sap-hana-azure-large-instances-deployments
+  - uid: learn.wwl.plan-sap-hana-azure-large-instances-high-availability-disaster-recovery
+  - uid: learn.wwl.backup-security-licensing-support-considerations-sap-hana-azure
+  - uid: learn.wwl.implement-deploy-sap-hana-azure-large-instances
+  - uid: learn.wwl.manage-sap-hana-azure-large-instances
+  - uid: learn.wwl.monitor-troubleshoot-sap-hana-azure-large-instances
+  - uid: learn.wwl.implement-business-continuity-disaster-recovery-backup
+summary: |-
   In diesem Kurs lernen IT-Experten mit Erfahrung in SAP-Lösungen, wie sie Azure-Ressourcen nutzen können, einschließlich Bereitstellung und Konfiguration von virtuellen Computern, virtuellen Netzwerken, Speicherkonten und Azure AD, sowie der Implementierung und Verwaltung hybrider Identitäten. Die Teilnehmer dieses Kurses lernen anhand von Konzepten, Szenarien, Verfahren und praktischen Übungen, wie sie Migration und Betrieb einer SAP-Lösung in Azure am besten planen und implementieren können. Sie erhalten Anleitungen zu Abonnements, erstellen und skalieren virtuelle Computer, implementieren Speicherlösungen, konfigurieren virtuelle Netzwerke, sichern Daten und geben sie frei, verbinden Azure und lokale Standorte, verwalten den Netzwerkdatenverkehr, implementieren Azure Active Directory, schützen Identitäten und überwachen Ihre Lösung.
-
 
   #### <a name="audience-profile"></a>Zielgruppenprofil
 
-
   Dieser Kurs richtet sich an Azure-Administratoren, die SAP-Lösungen zu Azure migrieren und verwalten. Azure-Administratoren verwalten die Clouddienste für die Bereiche Speicher, Netzwerk und Computing der Cloud und verfügen über umfassende Kenntnisse in Bezug auf die einzelnen Dienste und den gesamten IT-Lebenszyklus. Sie nehmen Anfragen von Endbenutzern zu neuen Cloudanwendungen entgegen und geben Empfehlungen zu Diensten, die zur Erzielung einer optimalen Leistung und Skalierung verwendet werden sollten, sowie ggf. zur Bereitstellung, Dimensionierung, Überwachung und Anpassung dieser Dienste. Diese Rolle erfordert die Kommunikation und Koordination mit Anbietern. Azure-Administratoren verwenden das Azure-Portal. Mit zunehmender Kompetenz verwenden sie PowerShell und die Befehlszeilenschnittstelle.
-prerequisitesSection: >-
-  Vor der Teilnahme an diesem Kurs sollten die Teilnehmer über Folgendes verfügen:
-
-
-  *   Praktische Erfahrung mit Azure IaaS- und PaaS-Lösungen, einschließlich VM, VNet, Lastenausgleich, Speicher (Blob, Dateien, Datenträger)
-
-
-  *   Kenntnisse lokaler und Cloudvirtualisierungstechnologien, z. B. VMs, virtuelle Netzwerke und virtuelle Festplatten
-
-
-  *   Verständnis der Netzwerkkonfiguration, einschließlich TCP/IP, Domain Name System (DNS), virtuellen privaten Netzwerken (VPNs), Firewalls und Verschlüsselungstechnologien
-
-
-  *   Grundlegendes Verständnis von Active Directory-Konzepten
-
-
-  *   Erfahrung mit Linux-/Unix-Umgebungen
-
-
-  *   Solide Kenntnisse über SAP-Anwendungen, SAP HANA, S/4HANA, SAP NetWeaver, SAP BW, OS&nbsp; Server für SAP -Anwendungen und Datenbanken
-
-
-  *   Verständnis der SAP HANA-Bereitstellung und -Konfiguration
-
-
-  *   Praktische Erfahrung mit der SAP HANA-Verwaltung
-
-
-
-  Vorausgesetzte Kurse (oder gleichwertige Kenntnisse und praktische Erfahrung):
-   * AZ-104 Azure Administrator
-   * Kenntnisse zu SAP-Produkten wie SAP HANA oder SAP NetWeaver
-outlineSection: >-
-  ### <a name="module-1-explore-azure-for-sap-workloads"></a>Modul 1: Erkunden von Azure für SAP-Workloads
-
-
-  Enthält Lektionen über Azure in SAP-Workloads, allgemeine SAP- und Azure-Begriffe und deren Bedeutung, SAP-zertifizierte Konfigurationen und Architekturen sowohl für SAP NetWeaver mit AnyDB als auch für SAP S4 HANA auf virtuellen Azure-Computern.
-
-
-  ### <a name="module-2-explore-the-foundations-of-infrastructure-as-a-service-iaas"></a>Modul 2: Erkunden der Grundlagen von Infrastructure-as-a-Service (IaaS)
-
-
-  Enthält Lektionen zu den Themen Compute, Speicher, Netzwerke und Datenbanken in Azure.
-
-
-  ### <a name="module-3-explore-the-foundations-of-identity-and-governance"></a>Modul 3: Erkunden der Grundlagen von Identität und Governance
-
-
-  Enthält Lektionen zu Identitätsdiensten, Azure-Remoteverwaltung, Azure-Governance und Verwaltbarkeit.
-
-
-  #### <a name="lab--implementing-linux-clustering-on-azure-vms"></a>Lab: Implementieren von Linux-Clustering auf Azure-VMs
-
-
-  ####
-
-
-  #### <a name="lab--implementing-windows-clustering-on-azure-vms"></a>Lab: Implementieren von Windows-Clustering auf Azure-VMs
-
-
-  ####
-
-
-  ### <a name="module-4-deploy-sap-on-azure"></a>Modul 4: Bereitstellen von SAP in Azure
-
-
-  Enthält Lektionen zur Bereitstellung von Einzelinstanzimplementierungen (mit 2 und 3 Schichten) sowie zur Implementierung von Hochverfügbarkeit in SAP NetWeaver mit AnyDB auf virtuellen Azure-Computern.
-
-
-  #### <a name="lab--implement-sap-architecture-on-azure-vms-running-windows"></a>Lab: Implementieren der SAP-Architektur auf Azure-VMs unter Windows
-
-
-  ####
-
-
-  #### <a name="lab--implement-sap-architecture-on-azure-vms-running-linux"></a>Lab: Implementieren der SAP-Architektur auf Azure-VMs unter Linux
-
-
-  ####
-
-
-  ### <a name="module-5-ensure-business-continuity-and-implement-disaster-recovery-for-sap-solutions-on-azure"></a>Modul 5: Sicherstellen von Geschäftskontinuität und Implementieren der Notfallwiederherstellung für SAP-Lösungen in Azure
-
-
-  Enthält Lektionen zur Implementierung von Hochverfügbarkeit für SAP-Workloads in Azure, Notfallwiederherstellung für SAP-Workloads in Azure sowie zu Sicherungen und Wiederherstellungen.
-
-
-  ### <a name="module-6-migrate-sap-workloads-to-azure"></a>Modul 6: Migrieren von SAP-Workloads zu Azure
-
-
-  Enthält Lektionen zur Verwendung der Checkliste für die Planung und Bereitstellung von SAP-Workloads, Migrationsoptionen – einschließlich Datenbankmigrationsoptionen (DMO) und Cloudmigrationsoptionen – sowie zur Migration sehr großer Datenbanken (VLDB) zu Azure.
-
-
-  ### <a name="module-7-monitor-and-troubleshoot-azure-for-sap-workloads"></a>Modul 7: Überwachen von Azure für SAP-Workloads und Problembehandlung
-
-
-  Enthält Lektionen zu Überwachungsanforderungen von Azure für SAP-Workloads, zur Konfiguration von Azure Enhanced Monitoring Extension für SAP und zu Lizenzierung, Preisen und Support für virtuelle Azure-Computer.
-
-
-  ### <a name="module-8-explore-sap-hana-on-azure-large-instances"></a>Modul 8: Erkunden von SAP HANA in Azure (große Instanzen)
-
-
-  Enthält Lektionen zum Erkunden der Grundlagen von SAP HANA in Azure (große Instanzen), zu zertifizierten Angeboten für SAP HANA in Azure (große Instanzen), eine Beispielarchitektur für SAP HANA in Azure (große Instanzen), Planungsüberlegungen zu SAP HANA in Azure (große Instanzen), Hochverfügbarkeit und Notfallwiederherstellung für SAP HANA in Azure (große Instanzen), Überlegungen zu &quot;Sicherung, Sicherheit, Lizenzierung und Support&quot; für SAP HANA in Azure (große Instanzen), Implementierung und Bereitstellung von SAP HANA in Azure (große Instanzen), Verwaltung von SAP HANA in Azure (große Instanzen), Überwachung und Problembehandlung für SAP HANA in Azure (große Instanzen), Implementierung von Geschäftskontinuität, Notfallwiederherstellung und Sicherung.
+prerequisitesSection: "Vor der Teilnahme an diesem Kurs sollten die Teilnehmer über Folgendes verfügen:\n\n*   Praktische Erfahrung mit Azure IaaS- und PaaS-Lösungen, einschließlich VM, VNet, Lastenausgleich, Speicher (Blob, Dateien, Datenträger)\n\n*   Kenntnisse lokaler und Cloudvirtualisierungstechnologien, z.\_B. VMs, virtuelle Netzwerke und virtuelle Festplatten\n\n*   Verständnis der Netzwerkkonfiguration, einschließlich TCP/IP, Domain Name System (DNS), virtuellen privaten Netzwerken (VPNs), Firewalls und Verschlüsselungstechnologien\n\n*   Grundlegendes Verständnis von Active Directory-Konzepten\n\n*   Erfahrung mit Linux-/Unix-Umgebungen\n\n*   Solide Kenntnisse über SAP-Anwendungen, SAP HANA, S/4HANA, SAP NetWeaver, SAP BW, OS&nbsp; Server für SAP -Anwendungen und Datenbanken\n\n*   Verständnis der SAP HANA-Bereitstellung und -Konfiguration\n\n*   Praktische Erfahrung mit der SAP HANA-Verwaltung\n\n\nVorausgesetzte Kurse (oder gleichwertige Kenntnisse und praktische Erfahrung):\n * AZ-104 Azure Administrator\n * Kenntnisse zu SAP-Produkten wie SAP HANA oder SAP NetWeaver"
+outlineSection: "### <a name=\"module-1-explore-azure-for-sap-workloads\"></a>Modul 1: Erkunden von Azure für SAP-Workloads\n\nEnthält Lektionen über Azure in SAP-Workloads, allgemeine SAP- und Azure-Begriffe und deren Bedeutung, SAP-zertifizierte Konfigurationen und Architekturen sowohl für SAP NetWeaver mit AnyDB als auch für SAP S4 HANA auf virtuellen Azure-Computern.\n\n### <a name=\"module-2-explore-the-foundations-of-infrastructure-as-a-service-iaas\"></a>Modul 2: Erkunden der Grundlagen von Infrastructure-as-a-Service (IaaS)\n\nEnthält Lektionen zu den Themen Compute, Speicher, Netzwerke und Datenbanken in Azure.\n\n### <a name=\"module-3-explore-the-foundations-of-identity-and-governance\"></a>Modul 3: Erkunden der Grundlagen von Identität und Governance\n\nEnthält Lektionen zu Identitätsdiensten, Azure-Remoteverwaltung, Azure-Governance und Verwaltbarkeit.\n\n#### <a name=\"lab--implementing-linux-clustering-on-azure-vms\"></a>Lab: Implementieren von Linux-Clustering auf Azure-VMs\n\n####\n\n#### <a name=\"lab--implementing-windows-clustering-on-azure-vms\"></a>Lab: Implementieren von Windows-Clustering auf Azure-VMs\n\n####\n\n### <a name=\"module-4-deploy-sap-on-azure\"></a>Modul 4: Bereitstellen von SAP in Azure\n\nEnthält Lektionen zur Bereitstellung von Einzelinstanzimplementierungen (mit 2 und 3\_Schichten) sowie zur Implementierung von Hochverfügbarkeit in SAP NetWeaver mit AnyDB auf virtuellen Azure-Computern.\n\n#### <a name=\"lab--implement-sap-architecture-on-azure-vms-running-windows\"></a>Lab: Implementieren der SAP-Architektur auf Azure-VMs unter Windows\n\n####\n\n#### <a name=\"lab--implement-sap-architecture-on-azure-vms-running-linux\"></a>Lab: Implementieren der SAP-Architektur auf Azure-VMs unter Linux\n\n####\n\n### <a name=\"module-5-ensure-business-continuity-and-implement-disaster-recovery-for-sap-solutions-on-azure\"></a>Modul 5: Sicherstellen von Geschäftskontinuität und Implementieren der Notfallwiederherstellung für SAP-Lösungen in Azure\n\nEnthält Lektionen zur Implementierung von Hochverfügbarkeit für SAP-Workloads in Azure, Notfallwiederherstellung für SAP-Workloads in Azure sowie zu Sicherungen und Wiederherstellungen.\n\n### <a name=\"module-6-migrate-sap-workloads-to-azure\"></a>Modul\_6: Migrieren von SAP-Workloads zu Azure\n\nEnthält Lektionen zur Verwendung der Checkliste für die Planung und Bereitstellung von SAP-Workloads, Migrationsoptionen – einschließlich Datenbankmigrationsoptionen (DMO) und Cloudmigrationsoptionen – sowie zur Migration sehr großer Datenbanken (VLDB) zu Azure.\n\n### <a name=\"module-7-monitor-and-troubleshoot-azure-for-sap-workloads\"></a>Modul 7: Überwachen von Azure für SAP-Workloads und Problembehandlung\n\nEnthält Lektionen zu Überwachungsanforderungen von Azure für SAP-Workloads, zur Konfiguration von Azure Enhanced Monitoring Extension für SAP und zu Lizenzierung, Preisen und Support für virtuelle Azure-Computer.\n\n### <a name=\"module-8-explore-sap-hana-on-azure-large-instances\"></a>Modul 8: Erkunden von SAP HANA in Azure (große Instanzen)\n\nEnthält Lektionen zum Erkunden der Grundlagen von SAP HANA in Azure (große Instanzen), zu zertifizierten Angeboten für SAP HANA in Azure (große Instanzen), eine Beispielarchitektur für SAP HANA in Azure (große Instanzen), Planungsüberlegungen zu SAP HANA in Azure (große Instanzen), Hochverfügbarkeit und Notfallwiederherstellung für SAP HANA in Azure (große Instanzen), Überlegungen zu &quot;Sicherung, Sicherheit, Lizenzierung und Support&quot; für SAP HANA in Azure (große Instanzen), Implementierung und Bereitstellung von SAP HANA in Azure (große Instanzen), Verwaltung von SAP HANA in Azure (große Instanzen), Überwachung und Problembehandlung für SAP HANA in Azure (große Instanzen), Implementierung von Geschäftskontinuität, Notfallwiederherstellung und Sicherung."

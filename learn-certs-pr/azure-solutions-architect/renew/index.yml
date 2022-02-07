@@ -2,32 +2,25 @@
 title: 'Erneuerung von Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
   title: 'Erneuerung von Microsoft Certified: Azure Solutions Architect Expert'
-  description: Wenn Sie diese Zertifizierung besitzen und sie innerhalb von sechs Monaten abläuft, können Sie sie erneuern.
-  ms.openlocfilehash: 9716c10bdf37dd332ce12f0325c28d452e56d19e
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
-  ms.translationtype: MT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132110902"
+  description: 'Wenn Sie diese Zertifizierung besitzen und sie innerhalb von sechs Monaten abläuft, können Sie sie erneuern.'
 uid: renewal.azure-solutions-architect
 certificationUid: certification.azure-solutions-architect
 assessmentId: 16c15d1b-16a4-4eaa-aac3-d6c42189bc3c
 durationInMinutes: 45
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: Wenn Sie diese Zertifizierung besitzen und sie innerhalb von sechs Monaten abläuft, können Sie sie erneuern. Zeigen Sie, dass Sie sich über die neuesten Azure-Aktualisierungen auf dem Laufenden gehalten haben, indem Sie das Erneuerungsexamen bestehen. Sie können sich auch mit der kuratierten Sammlung von Lernmodulen auf die Erneuerung vorbereiten.
+summary: 'Wenn Sie diese Zertifizierung besitzen und sie innerhalb von sechs Monaten abläuft, können Sie sie erneuern. Zeigen Sie, dass Sie sich über die neuesten Azure-Aktualisierungen auf dem Laufenden gehalten haben, indem Sie das Erneuerungsexamen bestehen. Sie können sich auch mit der kuratierten Sammlung von Lernmodulen auf die Erneuerung vorbereiten.'
 skills:
-- Design a holistic monitoring strategy on Azure
-- Microsoft Azure Well-Architected Framework - Performance efficiency
-- Microsoft Azure Well-Architected Framework - Security
-- Protect your Azure infrastructure with Azure Site Recovery
-- Protect your virtual machines by using Azure Backup
-- Back up and restore your Azure SQL database
-- Use monitoring and analytics to gain cost insights
-- Analyze your Azure infrastructure by using Azure Monitor logs
+  - Design a data storage solution for relational data
+  - Design a data storage solution for non-relational data
+  - Design for high availability
+  - Design a compute solution
+  - Design an application architecture
+  - Design network solutions
+  - Design data integration
 examsPassed:
-- az-303, az-304
+  - 'az-303, az-304'
 studyGuideDescription: 'Verwenden Sie diese Lernmodule, um sich auf das Erneuerungsexamen „Microsoft Certified: Azure Solutions Architect Expert“ vorzubereiten.'
 resources:
-- title: Informationen zur Zertifizierungserneuerung
-  summary: Grundlagen zum Prozess und zu den Anforderungen der Onlineverlängerung Ihrer Zertifizierungen
-  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification
+  - title: Informationen zur Zertifizierungserneuerung
+    summary: Grundlagen zum Prozess und zu den Anforderungen der Onlineverlängerung Ihrer Zertifizierungen
+    url: 'https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification'

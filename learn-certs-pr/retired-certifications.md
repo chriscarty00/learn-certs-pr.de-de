@@ -9,12 +9,6 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: b6dd5c2902cc9b622e7d792beadd61a64a0c3380
-ms.sourcegitcommit: 002839b3d184746f9396fb508f4ea29bdbf66a70
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "135801793"
 ---
 # <a name="certification-retirement"></a>Einstellung von Zertifizierungen
 
@@ -52,31 +46,5 @@ Legacyzertifizierungen verbleiben bis zum 31. Januar 2023 im Abschnitt „Aktiv
 | [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 30. Juni 2021 |
 | [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | 30. Juni 2021 |
 
-| Microsoft Certified Solutions Developer                                            |                    |
-| ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSD: App Builder](/learn/certifications/mcsd-app-builder-certification)          | 31. Januar 2021 |
-
-| Microsoft Certified Solutions Mitarbeiter                                            |                    |
-| ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSA: BI Reporting](/learn/certifications/mcsa-bi-reporting)                      | 31. Januar 2021 |
-| [MCSA: Dynamics 365 for Operations](/learn/certifications/mcsa-microsoft-dynamics-365-for-operations) | 31. Januar 2021 |
-| [MCSA: SQL 2016 Database Admin](/learn/certifications/mcsa-sql2016-database-administration-certification) | 31. Januar 2021 |
-| [MCSA: SQL 2016 BI Development](/learn/certifications/mcsa-sql2016-business-intelligence-certification) | 31. Januar 2021 |
-| [MCSA: SQL 2016 Database Dev](/learn/certifications/mcsa-sql2016-database-development-certification) | 31. Januar 2021 |
-| [MCSA: SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification)         | 31. Januar 2021 |
-| [MCSA: Universal Windows Platform](/learn/certifications/mcsa-universal-windows-platform) | 31. Januar 2021 |
-| [MCSA: Web Applications](/learn/certifications/mcsa-web-applications-certification) | 31. Januar 2021 |
-| [MCSA: Windows Server 2012](/learn/certifications/mcsa-windows-server-certification) | 31. Januar 2021 |
-| [MCSA: Windows Server 2016](/learn/certifications/mcsa-windows-server-2016-certification) | 31. Januar 2021 |
-
-| Microsoft Certified Solutions Expert                                               |                    |
-| ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSE: Business Applications](/learn/certifications/mcse-business-applications)    | 31. Januar 2021 |
-| [MCSE: Core Infrastructure](/learn/certifications/mcse-core-infrastructure)        | 31. Januar 2021 |
-| [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | 31. Januar 2021 |
-| [MCSE: Productivity](/learn/certifications/mcse-productivity-certification)        | 31. Januar 2021 |
-
-| Microsoft Technology-Mitarbeiter                                                     |                    |
-| ---------------------------------------------------------------------------------- | ------------------ |
 
 ___

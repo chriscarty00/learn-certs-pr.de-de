@@ -9,12 +9,6 @@ ms.workload: NA
 ms.date: 02/29/2020
 ms.author: msulliv
 ms.prod: non-product-specific
-ms.openlocfilehash: 186dabf51008c8a4e35a5dc235b69d35c1cca591
-ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 12/28/2021
-ms.locfileid: "132112488"
 ---
 # <a name="about-online-exams-with-pearson-vue"></a>Über Online-Prüfungen mit Pearson VUE
 
@@ -23,7 +17,7 @@ ms.locfileid: "132112488"
 Pearson VUE ist ein Unternehmen, mit dem Microsoft bei der Durchführung von Prüfungen zusammenarbeitet. Sie können zahlreiche Microsoft-Zertifizierungsprüfung bei OnVUE online und bequem von zu Hause oder vom Büro aus ablegen. Bei der Onlineprüfung wird die Integrität der Prüfungsergebnisse dadurch gewahrt, dass die Prüfung von einer Aufsichtsperson per Webcam und Mikrofon überwacht wird.
 <br/><br/>
 
-> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4IFBp]
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4IFBp]
 
 ## <a name="participating-countriesregions-and-supported-languages"></a>Teilnehmende Länder/Regionen und unterstützte Sprachen
 
@@ -155,7 +149,7 @@ Führen Sie einen Systemtest auf dem gleichen Computer und am gleichen Arbeitspl
 
 ### <a name="software-and-permissions"></a>Software und Berechtigungen
 
-- Das Benutzerkonto, das bei dem von Ihnen verwendeten Computer angemeldet ist, muss über lokale Administratorberechtigungen verfügen. Hilfe zum Aktivieren von Administratorberechtigungen finden Sie in der jeweiligen Dokumentation für [Windows](https://support.microsoft.com/en-us/windows/how-do-i-log-on-as-an-administrator-63267a09-9926-991a-1c77-d203160c8563) und [Mac](https://support.apple.com/en-lk/guide/mac-help/mtusr001/mac).
+- Das Benutzerkonto, das bei dem von Ihnen verwendeten Computer angemeldet ist, muss über lokale Administratorberechtigungen verfügen. Hilfe zum Aktivieren von Administratorberechtigungen finden Sie in der jeweiligen Dokumentation für [Windows](https://support.microsoft.com/windows/how-do-i-log-on-as-an-administrator-63267a09-9926-991a-1c77-d203160c8563) und [Mac](https://support.apple.com/en-lk/guide/mac-help/mtusr001/mac).
 - Führen Sie den Test auf einem PC und nicht auf einem Arbeitscomputer durch, da auf Arbeitscomputern häufig Software installiert ist, die den Start der OnVUE-Software verhindert.
 - Unter Umständen müssen Sie in Ihrer Internetsicherheits- und Antivirussoftware eine Ausnahme für die ausführbare OnVUE Secure Browser-Datei konfigurieren.
 - Einige Antivirussoftware-Produkte können zu Leistungsproblemen führen. Deaktivieren Sie ggf. alle Antivirenprogramme während der Prüfung.
@@ -268,4 +262,4 @@ Informationen hierzu finden Sie unter [Zugreifen auf Ihren Ergebnisbericht](/lea
 
 ## <a name="remove-proctor-software"></a>Entfernen der Aufsichtssoftware
 
-Wenn Ihre Prüfung beendet ist, sollten Sie alle ausführbaren Dateien und Zusatzdateien entfernen, einschließlich von **Pearson VUE Secure Browser**. Führen Sie zum Entfernen von Pearson VUE Secure Browser den Standardprozess zur [Deinstallation unter Windows](https://support.microsoft.com/en-us/windows/uninstall-or-remove-apps-and-programs-in-windows-10-4b55f974-2cc6-2d2b-d092-5905080eaf98) oder zur [Deinstallation unter Mac](https://support.apple.com/en-us/HT202235) aus.
+Wenn Ihre Prüfung beendet ist, sollten Sie alle ausführbaren Dateien und Zusatzdateien entfernen, einschließlich von **Pearson VUE Secure Browser**. Führen Sie zum Entfernen von Pearson VUE Secure Browser den Standardprozess zur [Deinstallation unter Windows](https://support.microsoft.com/windows/uninstall-or-remove-apps-and-programs-in-windows-10-4b55f974-2cc6-2d2b-d092-5905080eaf98) oder zur [Deinstallation unter Mac](https://support.apple.com/HT202235) aus.

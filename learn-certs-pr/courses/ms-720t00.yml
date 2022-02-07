@@ -3,162 +3,47 @@ title: Microsoft Teams Voice Engineer
 metadata:
   title: 'Kurs MS-720T00--A: Microsoft Teams Voice Engineer'
   description: 'Kurs MS-720T00--A: Microsoft Teams Voice Engineer'
-  ms.openlocfilehash: 8154ba7d639f71c9221c754d90a7baf87f256c27
-  ms.sourcegitcommit: c14c3a1e24239ac3e56e978ed347f6d7d24e48d3
-  ms.translationtype: MT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 12/20/2021
-  ms.locfileid: "135417182"
 uid: course.ms-720t00
 courseNumber: MS-720T00
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Planen und Konfigurieren von Microsoft Teams Telefon
-- skill: Planen und Optimieren der Netzwerkleistung für Teams Telefon
-- skill: Konfigurieren und Bereitstellen von Direct Routing
-- skill: Konfigurieren, Bereitstellen und Verwalten von Teams-Geräten
-- skill: Überwachen und Behandeln von Problemen von Teams Telefon
+  - skill: Planen und Konfigurieren von Microsoft Teams Telefon
+  - skill: Die Netzwerkleistung für Teams Telefon zu planen und zu optimieren
+  - skill: Konfigurieren und Bereitstellen von Direct Routing
+  - skill: 'Konfigurieren, Bereitstellen und Verwalten von Teams-Geräten'
+  - skill: Überwachen und Behandeln von Problemen von Teams Telefon
 learningPartnersLink: /learn/certifications/partners
 locales:
-- en
+  - en
 levels:
-- advanced
+  - advanced
 roles:
-- administrator
+  - administrator
 products:
-- m365
+  - m365
 exams:
-- uid: exam.ms-720
-summary: >-
-  In diesem Kurs lernen Sie, wie Sie eine integrierte Kommunikationslösung in einem Unternehmen planen, entwerfen, konfigurieren, warten und entsprechende Probleme mit Microsoft Teams beheben. Der Kurs behandelt Teams Telefon mit Anrufplänen, Direct Routing und Operator Connect, zusätzlich zu Teams-Geräten, Audio-/Videokonferenzen und Sprachmigration. Die Teilnehmer lernen Methoden zur Fehlerbehebung kennen und erfahren, wie sie gängige Telefonie- und Sprachprobleme beheben können.
-
-
-  #### <a name="audience-profile"></a>Zielgruppenprofil
-
-
-  Der Microsoft Teams Voice Engineer plant, entwirft, konfiguriert und wartet eine integrierte Kommunikationslösung in einer Organisation und behebt diesbezügliche Probleme. Der Microsoft Teams Voice Engineer muss in der Lage sein, Geschäftsanforderungen in technische Architekturen und Entwürfe für Kommunikationslösungen zu übersetzen. Der Microsoft Teams Voice Engineer ist mit Telekommunikationstechnologien vertraut und hat Erfahrung in Microsoft Teams, Microsoft 365 und PowerShell. Der Microsoft Teams Voice Engineer muss in der Lage sein, Microsoft Teams Telefon mit PSTN-Konnektivität über Direct Routing, Operator Connect und Teams Calling Plans bereitzustellen und zu konfigurieren. Der Microsoft Teams Voice Engineer verwaltet Teams-zertifizierte Geräte, Audio-/Videokonferenzen und Sprachmigration. Der Microsoft Teams Voice Engineer arbeitet mit Telefonieanbietern und Drittanbietern zusammen, um erweiterte Sprachfeatures in Microsoft Teams verfügbar zu machen. Der Microsoft Teams Voice Engineer arbeitet auch mit Administratoren für andere Workloads zusammen, einschließlich Netzwerk, Identität, Lizenzierung, Sicherheit und Konformität. Damit sie die Microsoft Teams Voice Engineer-Zertifizierung erhalten können, müssen die Kandidaten zusätzlich zur MS-720-Prüfung die Prüfung MS-700: Managing Microsoft Teams bestehen.
-prerequisitesSection: >-
+  - uid: exam.ms-720
+studyGuide:
+  - uid: learn.wwl.plan-teams-phone-system
+  - uid: learn.wwl.plan-optimize-network-performance-for-teams-phone-system
+  - uid: learn.wwl.migrate-voice-services-from-skype-for-business-server-to-teams
+  - uid: learn.wwl.configure-teams-phone-system
+  - uid: learn.wwl.configure-auto-attendants-call-queues
+  - uid: learn.wwl.configure-deploy-direct-routing
+  - uid: learn.wwl.extend-teams-phone-system-additional-services
+  - uid: learn.wwl.configure-manage-voice-users
+  - uid: learn.wwl.configure-deploy-manage-teams-devices
+  - uid: learn.wwl.monitor-troubleshoot-teams-phone-system
+summary: "In diesem Kurs lernen Sie, wie Sie eine integrierte Kommunikationslösung in einem Unternehmen planen, entwerfen, konfigurieren, warten und entsprechende Probleme mit Microsoft Teams beheben. Der Kurs behandelt Teams Telefon mit Anrufplänen, Direct Routing und Operator Connect, zusätzlich zu Teams-Geräten, Audio-/Videokonferenzen und Sprachmigration. Die Teilnehmer lernen Methoden zur Fehlerbehebung kennen und erfahren, wie sie gängige Telefonie- und Sprachprobleme beheben können.\n\n#### <a name=\"audience-profile\"></a>Zielgruppenprofil\n\nDer Microsoft Teams Voice Engineer plant, entwirft, konfiguriert und wartet eine integrierte Kommunikationslösung in einer Organisation und behebt diesbezügliche Probleme. Der Microsoft Teams Voice Engineer muss in der Lage sein, Geschäftsanforderungen in technische Architekturen und Entwürfe für Kommunikationslösungen zu übersetzen. Der Microsoft Teams Voice Engineer ist mit Telekommunikationstechnologien vertraut und hat Erfahrung in Microsoft Teams, Microsoft\_365 und PowerShell. Der Microsoft Teams Voice Engineer muss in der Lage sein, Microsoft Teams Telefon mit PSTN-Konnektivität über Direct Routing, Operator Connect und Teams Calling Plans bereitzustellen und zu konfigurieren. Der Microsoft Teams Voice Engineer verwaltet Teams-zertifizierte Geräte, Audio-/Videokonferenzen und Sprachmigration. Der Microsoft Teams Voice Engineer arbeitet mit Telefonieanbietern und Drittanbietern zusammen, um erweiterte Sprachfeatures in Microsoft Teams verfügbar zu machen. Der Microsoft Teams Voice Engineer arbeitet auch mit Administratoren für andere Workloads zusammen, einschließlich Netzwerk, Identität, Lizenzierung, Sicherheit und Konformität. Damit sie die Microsoft Teams Voice Engineer-Zertifizierung erhalten können, müssen die Kandidaten zusätzlich zur MS-720-Prüfung die Prüfung MS-700: Managing Microsoft Teams bestehen."
+prerequisitesSection: |-
   Vor der Teilnahme an diesem Kurs benötigen die Kursteilnehmer vorzugsweise Kenntnisse auf dem Niveau fortgeschrittener Anfänger hinsichtlich der folgenden Themen aus dem Kurs MS-700: Managing Microsoft Teams:
-
 
   *   Planen und Konfigurieren einer Microsoft Teams-Umgebung
 
-
   *   Verwalten von Chats, Teams, Channels und Apps
-
 
   *   Verwalten von Anrufen und Meetings
 
-
   *   Überwachen einer Microsoft Teams-Umgebung und entsprechende Problembehandlung
-outlineSection: >-
-  ### <a name="module-1-plan-and-configure-teams-phone"></a>Modul 1: Planen und Konfigurieren von Teams Telefon
-
-
-  Nach Abschluss dieses Moduls wissen die Teilnehmer, wie sie Teams Telefon planen und konfigurieren können, u. a. Anrufpläne, Direct Routing, automatische Telefonzentralen, Anrufwarteschlangen und Operator Connect, und wie sie Teams Telefon mit zusätzlichen Diensten erweitern können.
-
-
-  #### <a name="lessons"></a>Lektionen
-
-
-  *   Planen von Teams Telefon
-
-
-  *   Planen und Optimieren der Netzwerkleistung für Teams Telefon
-
-
-  *   Migrieren von Sprachdiensten von Skype for Business Server zu Teams
-
-
-  *   Konfigurieren von Teams Telefon
-
-
-  *   Konfigurieren automatischer Telefonzentralen und Anrufwarteschlangen
-
-
-  *   Konfigurieren und Bereitstellen von Direct Routing
-
-
-  *   Erweitern von Teams Telefon mit zusätzlichen Diensten
-
-
-
-  #### <a name="lab--prepare-the-lab-environment"></a>Lab: Vorbereiten der Laborumgebung
-
-
-  ####
-     *   Konfigurieren der Laborumgebung
-     *   Zuweisen von Berechtigungen
-     *   Überprüfen und Verwalten von Lizenzen
-     *   Einrichten von PowerShell für die Microsoft Teams-Verwaltung
-
-  #### <a name="lab--configure-your-environment-for-teams-phone"></a>Lab: Konfigurieren der Umgebung für Teams Telefon
-
-
-  ####
-     *   Auswerten von Netzwerkanforderungen mit dem Netzwerkplaner
-     *   Verwenden des Teams-Tools für die Netzwerkbewertung
-     *   Konfigurieren einer grundlegenden Netzwerktopologie für dynamische Notrufe
-     *   Konfigurieren von Sprachrichtlinien
-     *   Vorbereiten von Benutzern für Anrufe
-     *   Konfigurieren von Audiokonferenzeinstellungen
-     *   Konfigurieren von Anrufwarteschlangen und automatischen Telefonzentralen
-
-  #### <a name="lab--expand-your-teams-voice-environment-to-use-direct-routing"></a>Lab: Erweitern Ihrer Teams Voice-Umgebung zur Verwendung von Direct Routing
-
-
-  ####
-     *   Konfigurieren des Sitzungsrahmencontrollers
-     *   Konfigurieren von Einstellungen für direktes Routing
-
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
-
-
-  *   Microsoft Teams Telefon zu planen und zu konfigurieren
-
-
-  *   Die Netzwerkleistung für Teams Telefon zu planen und zu optimieren
-
-
-  *   Direct Routing zu konfigurieren und bereitzustellen
-
-
-
-  ### <a name="module-2-manage-teams-phone"></a>Modul 2: Verwalten von Teams Telefon
-
-
-  In diesem Modul lernen die Kursteilnehmer, wie sie Teams Telefon-Benutzer und -Geräte konfigurieren und Teams Telefon-Sprachprobleme beheben können.
-
-
-  #### <a name="lessons"></a>Lektionen
-
-
-  *   Konfigurieren und Verwalten von Sprachbenutzern
-
-
-  *   Konfigurieren, Bereitstellen und Verwalten von Teams-Geräten
-
-
-  *   Überwachen von Teams Telefon und entsprechende Problembehandlung
-
-
-
-  #### <a name="lab--manage-your-teams-phone-environment"></a>Lab: Verwalten der Teams Telefon-Umgebung
-
-
-  ####
-     *   Verwalten von Sprachbenutzern
-     *   Verwalten von Teams-Geräten
-     *   Überwachen von Teams Telefon und entsprechende Problembehandlung
-
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
-
-
-  *   Sprachbenutzer zu verwalten
-
-
-  *   Teams-Geräte zu konfigurieren, bereitzustellen und zu verwalten
-
-
-  *   Teams Telefon zu überwachen und entsprechende Probleme zu behandeln
+outlineSection: "### <a name=\"module-1-plan-and-configure-teams-phone\"></a>Modul\_1: Planen und Konfigurieren von Teams Telefon\n\nNach Abschluss dieses Moduls wissen die Teilnehmer, wie sie Teams Telefon planen und konfigurieren können, u.\_a. Anrufpläne, Direct Routing, automatische Telefonzentralen, Anrufwarteschlangen und Operator Connect, und wie sie Teams Telefon mit zusätzlichen Diensten erweitern können.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Planen von Teams Telefon\n\n*   Planen und Optimieren der Netzwerkleistung für Teams Telefon\n\n*   Migrieren von Sprachdiensten von Skype for Business Server zu Teams\n\n*   Konfigurieren von Teams Telefon\n\n*   Konfigurieren automatischer Telefonzentralen und Anrufwarteschlangen\n\n*   Konfigurieren und Bereitstellen von Direct Routing\n\n*   Erweitern von Teams Telefon mit zusätzlichen Diensten\n\n\n#### <a name=\"lab--prepare-the-lab-environment\"></a>Lab: Vorbereiten der Laborumgebung\n\n####\n   *   Konfigurieren der Laborumgebung\n   *   Zuweisen von Berechtigungen\n   *   Überprüfen und Verwalten von Lizenzen\n   *   Einrichten von PowerShell für die Microsoft Teams-Verwaltung\n\n#### <a name=\"lab--configure-your-environment-for-teams-phone\"></a>Lab: Konfigurieren der Umgebung für Teams Telefon\n\n####\n   *   Auswerten von Netzwerkanforderungen mit dem Netzwerkplaner\n   *   Verwenden des Teams-Tools für die Netzwerkbewertung\n   *   Konfigurieren einer grundlegenden Netzwerktopologie für dynamische Notrufe\n   *   Konfigurieren von Sprachrichtlinien\n   *   Vorbereiten von Benutzern für Anrufe\n   *   Konfigurieren von Audiokonferenzeinstellungen\n   *   Konfigurieren von Anrufwarteschlangen und automatischen Telefonzentralen\n\n#### <a name=\"lab--expand-your-teams-voice-environment-to-use-direct-routing\"></a>Lab: Erweitern Ihrer Teams Voice-Umgebung zur Verwendung von Direct Routing\n\n####\n   *   Konfigurieren des Sitzungsrahmencontrollers\n   *   Konfigurieren von Einstellungen für direktes Routing\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Microsoft Teams Telefon zu planen und zu konfigurieren\n\n*   Planen und Optimieren der Netzwerkleistung für Teams Telefon\n\n*   Direct Routing zu konfigurieren und bereitzustellen\n\n\n### <a name=\"module-2-manage-teams-phone\"></a>Modul\_2: Verwalten von Teams Telefon\n\nIn diesem Modul lernen die Kursteilnehmer, wie sie Teams Telefon-Benutzer und -Geräte konfigurieren und Teams Telefon-Sprachprobleme beheben können.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Konfigurieren und Verwalten von Sprachbenutzern\n\n*   Konfigurieren, Bereitstellen und Verwalten von Teams-Geräten\n\n*   Überwachen von Teams Telefon und entsprechende Problembehandlung\n\n\n#### <a name=\"lab--manage-your-teams-phone-environment\"></a>Lab: Verwalten der Teams Telefon-Umgebung\n\n####\n   *   Verwalten von Sprachbenutzern\n   *   Verwalten von Teams-Geräten\n   *   Überwachen von Teams Telefon und entsprechende Problembehandlung\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Sprachbenutzer zu verwalten\n\n*   Teams-Geräte zu konfigurieren, bereitzustellen und zu verwalten\n\n*   Teams Telefon zu überwachen und entsprechende Probleme zu behandeln"

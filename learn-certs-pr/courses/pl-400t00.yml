@@ -1,217 +1,77 @@
 ### YamlMime:Course
 title: Microsoft Power Platform Developer
 metadata:
-  title: 'Kurs PL-400T00-A: Microsoft Power Platform Developer'
-  description: 'Kurs PL-400T00-A: Microsoft Power Platform Developer'
-  ms.openlocfilehash: b211e12fc2568619c1ba51d8a294dff9bcaa06aa
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
-  ms.translationtype: MT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132107010"
+  title: "Kurs\_PL-400T00-A: Microsoft Power Platform Developer"
+  description: "Kurs\_PL-400T00-A: Microsoft Power Platform Developer"
 uid: course.pl-400t00
 courseNumber: PL-400T00-A
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Erstellen eines technischen Entwurfs
-- skill: Konfigurieren von Common Data Service
-- skill: Erstellen und Konfigurieren von Power Apps
-- skill: Konfigurieren der Automatisierung von Geschäftsprozessen
-- skill: Erweitern der Benutzererfahrung
-- skill: Erweitern der Plattform
-- skill: Entwickeln von Integrationen
+  - skill: Erstellen eines technischen Entwurfs
+  - skill: Konfigurieren von Common Data Service
+  - skill: Erstellen und Konfigurieren von Power Apps
+  - skill: Konfigurieren der Automatisierung von Geschäftsprozessen
+  - skill: Erweitern der Benutzererfahrung
+  - skill: Erweitern der Plattform
+  - skill: Entwickeln von Integrationen
 learningPartnersLink: /learn/certifications/partners
 locales:
-- en
+  - en
 levels:
-- advanced
+  - advanced
 roles:
-- developer
+  - developer
 products:
-- power-platform
+  - power-platform
 exams:
-- uid: exam.pl-400
-summary: >-
-  Mithilfe von Microsoft Power Platform können Organisationen ihre Abläufe optimieren, indem sie Geschäftsaufgaben und -prozesse vereinfachen, automatisieren und transformieren. In diesem Kurs erfahren sie Kursteilnehmer, wie Sie Power Apps erstellen, Abläufe automatisieren und die Plattform erweitern, um Geschäftsanforderungen zu erfüllen und komplexe Geschäftsprobleme zu lösen.
-
-
-  #### <a name="audience-profile"></a>Zielgruppenprofil
-
-  Kandidaten für diesen Kurs entwerfen, entwickeln und schützen Power Platform-Lösungen und kümmern sich um die Behandlung entsprechender Probleme. Die Kandidaten implementieren die Komponenten einer Lösung, zu denen Anwendungserweiterungen, individuelle Benutzererlebnisse, Systemintegrationen, Datenkonvertierungen, benutzerdefinierte Prozessautomatisierung und benutzerdefinierte Visualisierungen gehören. Den Kandidaten werden praktische Kenntnisse zu Power Platform-Diensten vermittelt – einschließlich eines umfassenden Verständnisses der Funktionen, Grenzen und Einschränkungen. Kandidaten müssen über Entwicklungserfahrung in folgenden Bereichen verfügen: JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, RESTful Web Services, ASP.NET und Power BI.
-prerequisitesSection: >-
-  - Kandidaten müssen über Power Platfom-Grundkenntnisse verfügen.
-
-  - Die Kandidaten müssen über Entwicklungserfahrung in folgenden Bereichen verfügen: JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, RESTful Web Services, ASP.NET und Power BI.
-outlineSection: >-
-  ### <a name="module-158-create-a-model-driven-application-in-power-apps"></a>Modul 1: Erstellen einer modellgesteuerten Anwendung in Power Apps
-
-  Dieses Modul führt Sie in die Erstellung einer modellgetriebenen App in Power Apps ein, die gemeinsame Daten-Services verwendet.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Einführung in modellgesteuerte Apps und Common Data Service
-
-  - Erste Schritte mit modellgesteuerten Apps in Power Apps
-
-  - Erstellen und Verwalten von Entitäten in Common Data Service
-
-  - Erstellen und Verwalten von Feldern innerhalb einer Entität in Common Data Service
-
-  - Verwenden von Optionssätzen in Common Data Service
-
-  - Erstellen einer Beziehung zwischen Entitäten in Common Data Service
-
-  - Definieren und Erstellen von Geschäftsregeln in Common Data Service
-
-  - Erstellen und Definieren von Berechnungs- oder Rollupfeldern in Common Data Service
-
-  - Erste Schritte mit Sicherheitsrollen in Common Data Service
-
-
-
-  ### <a name="module-258-create-a-canvas-app-in-power-apps"></a>Modul 2: Erstellen einer Canvas-App in Power Apps
-
-  Dieses Modul führt Sie in Power Apps ein, hilft Ihnen beim Erstellen und Anpassen einer App sowie beim Verwalten und Verteilen. Außerdem erfahren Sie hier, wie Sie eine optimale App-Navigation bereitstellen und eine optimale Benutzeroberfläche mit Themen, Symbolen, Bildern, Personalisierung, verschiedenen Formfaktoren und Steuerelementen erstellen.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Erste Schritte mit Power Apps
-
-  - Anpassen einer Canvas-App in Power Apps
-
-  - Verwalten von Apps in Power Apps
-
-  - Navigation in einer Canvas-App in Power Apps
-
-  - Erstellen der Benutzeroberfläche in einer Canvas-App in Power Apps
-
-  - Verwenden von und Grundlegendes zu Steuerelementen in einer Canvas-App in Power Apps
-
-  - Dokumentieren und Testen Ihrer Power Apps-Anwendung
-
-
-
-  ### <a name="module-358-master-advance-techniques-and-data-options-in-canvas-apps"></a>Module 3: Beherrschen erweiterter Verfahren und Datenoptionen in Canvas-Apps
-
-  Dieses Modul hilft Ihnen bei der Verwendung erweiterter Formeln sowie bei der Durchführung benutzerdefinierter Aktualisierungen, Leistungsprüfungen und Tests. Es hilft Ihnen auch dabei, die Benutzerfreundlichkeit zu verbessern, benutzerdefinierte Connectors zu verwenden und sich auf die Arbeit mit Datenquellengrenzwerten zu konzentrieren.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Verwenden von imperativen Entwicklungsverfahren für Canvas-Apps in Power Apps
-
-  - Erstellen einer erweiterten Formel, die Tabellen, Datensätze und Sammlungen in einer Canvas-App in Power Apps verwendet
-
-  - Ausführen von benutzerdefinierten Updates in einer Power Apps-Canvas-App
-
-  - Durchführen von Tests und Leistungsprüfungen in einer Power Apps-Canvas-App
-
-  - Arbeiten mit relationalen Daten in einer Power Apps-Canvas-App
-
-  - Arbeiten mit Datenquellengrenzwerten (Delegationsgrenzen) in einer Power Apps-Canvas-App
-
-  - Herstellen einer Verbindung mit anderen Daten in einer Power Apps-Canvas-App
-
-  - Verwenden von benutzerdefinierten Connectors in Power Apps
-
-
-
-  ### <a name="module-458-automate-a-business-process-using-power-automate"></a>Module 4: Automatisieren eines Geschäftsprozesses mithilfe von Power Automate
-
-  Dieses Modul führt Sie in Power Automate ein, zeigt Ihnen, wie Sie Workflows erstellen und Flows verwalten.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Erste Schritte mit Power Automate
-
-  - Erstellen komplexerer Flows mit Power Automate
-
-  - Einführung in Geschäftsprozessflows in Power Automate
-
-  - Erstellen eines immersiven Geschäftsprozessflows in Power Automate
-
-  - Grundlegendes zu den Konzepten für erweiterte Geschäftsprozessflows in Power Automate
-
-  - Einführung in Ausdrücke in Power Automate
-
-
-
-  ### <a name="module-558-introduction-to-developing-with-power-platform"></a>Modul 5: Einführung in die Entwicklung mit Power Platform
-
-  Dieses Modul ist der erste Schritt, um sich mit der Plattform, den Tools und dem Ökosystem von Power Platform vertraut zu machen.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Einführung in Ressourcen für Power Platform-Entwickler
-
-  - Verwenden von Entwicklertools zum Erweitern von Power Platform
-
-  - Einführung in das Erweitern von Microsoft Power Platform
-
-
-
-  ### <a name="module-658-extending-the-power-platform-common-data-service"></a>Modul 6: Erweitern von Common Data Service für Power Platform
-
-  In diesem Modul werden die Tools und Ressourcen behandelt, die zum Erweitern von Power Platform benötigt werden. Zunächst werden das SDK, das Erweiterbarkeitsmodell und das Ereignisframework behandelt. In diesem Lernpfad werden neben der Verwendung von Plug-Ins auch die Konfiguration von Plug-Ins sowie die Registrierung und Bereitstellung von Plug-Ins behandelt.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Einführung in Common Data Service für Entwickler
-
-  - Erweitern von Plug-Ins
-
-
-
-  ### <a name="module-758-extending-the-power-platform-user-experience-model-driven-apps"></a>Modul 7: Erweitern der Benutzeroberfläche von Power Platform mit modellgesteuerten Apps
-
-  In diesem Modul erfahren Sie, wie Sie Clientskripts erstellen, allgemeine Aktionen mit Clientskripts ausführen und den Geschäftsprozessflow mithilfe von Clientskripts automatisieren. Sie erhalten Informationen zu den Möglichkeiten von Clientskripts sowie zu Regeln und zur Verwaltung von Skripts. Außerdem erfahren Sie, wann Clientskripts verwendet werden und wann nicht.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Einführung in Webressourcen
-
-  - Ausführen allgemeiner Aktionen mit Clientskripts
-
-  - Automatisieren von Geschäftsprozessflows mit Clientskripts
-
-
-
-  ### <a name="module-858-create-components-with-power-apps-component-framework"></a>Modul 8: Erstellen von Komponenten mit dem Power Apps-Komponentenframework
-
-  In diesem Modul werden die ersten Schritte mit dem Power Apps-Komponentenframework beschrieben, und es gibt ein Einführungsmodul zu den grundlegenden Konzepten und Komponenten. Anschließend wird gezeigt, wie Sie eine Komponente erstellen und erweiterte Features des Power Apps-Komponentenframeworks nutzen.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Erste Schritte mit dem Power Apps-Komponentenframework
-
-  - Erstellen einer Power Apps-Komponente
-
-  - Verwenden erweiterter Features mit dem Power Apps-Komponentenframework
-
-
-
-  ### <a name="module-958-extend-power-apps-portals"></a>Modul 9: Erweitern von Power Apps-Portalen
-
-  In diesem Modul erfahren Sie, wie Sie ein Inhaltsportal in eine vollwertige Web-App transformieren, die mit Common Data Service interagiert. Außerdem werden die Optionen behandelt, mit denen Anpasser und Entwickler die Portalfunktionen erweitern und eine Integration für Office 365-, Power Platform- und Azure-Komponenten einrichten können.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Einführung in Power Apps-Portale
-
-  - Zugreifen auf Common Data Service in Power Apps-Portalen
-
-  - Erweitern von Power Apps-Portalen
-
-  - Erstellen von Webvorlagen für benutzerdefinierte Power Apps-Portale
-
-
-
-  ### <a name="module-1058-integrate-with-power-platform-and-common-data-service"></a>Modul 10: Integrieren von Power Platform und Common Data Service
-
-  In diesem Modul erfahren Sie, wie Sie Common Data Service mithilfe von Code integrieren. Hierzu werden Informationen zur Common Data Service-API vermittelt. Verschaffen Sie sich einen detaillierten Überblick über die verfügbaren Common Data Service-Optionen zum Integrieren von Daten und Ereignissen in Azure.
-
-  #### <a name="lessons"></a>Lektionen
-
-  - Verwenden der Common Data Service-Web-API
-
-  - Integrieren von Common Data Service-Azure-Lösungen
+  - uid: exam.pl-400
+studyGuide:
+  - uid: learn-bizapps.intro-model-driven-apps-common-data-service
+  - uid: learn-bizapps.powerapps-design-model-driven-apps
+  - uid: learn-dynamics.create-manage-entities
+  - uid: learn-dynamics.create-manage-fields-within-entity
+  - uid: learn-dynamics.working-with-option-sets
+  - uid: learn-dynamics.create-relationship-between-cds-entities
+  - uid: learn-dynamics.define-create-business-rules
+  - uid: learn-dynamics.create-define-calculation-rollup-fields
+  - uid: learn-dynamics.get-started-security-roles
+  - uid: learn-bizapps.powerapps-get-started
+  - uid: learn-bizapps.powerapps-customize
+  - uid: learn-bizapps.powerapps-manage
+  - uid: learn-bizapps.navigation-canvas-app
+  - uid: learn-bizapps.how-to-build-ui-canvas-app
+  - uid: learn-bizapps.controls-canvas-apps
+  - uid: learn-bizapps.use-documentation
+  - uid: learn-bizapps.use-imperative-dev-techniques
+  - uid: learn-bizapps.author-advanced-formulas
+  - uid: learn-bizapps.perform-custom-updates
+  - uid: learn-bizapps.testing-performance-checks
+  - uid: learn-bizapps.work-with-relational-data
+  - uid: learn-bizapps.data-source-limits
+  - uid: learn-bizapps.connect-other-data
+  - uid: learn-bizapps.custom-connectors
+  - uid: learn-bizapps.flow-get-started
+  - uid: learn-bizapps.build-approval-flows
+  - uid: learn-bizapps.intro-business-process-flows
+  - uid: learn-bizapps.create-immersive-flow
+  - uid: learn-bizapps.advanced-business-process-flows
+  - uid: learn-bizapps.introduction-expressions
+  - uid: learn-dynamics.introduction-developing-power-platform
+  - uid: learn-dynamics.use-developer-tools-extend
+  - uid: learn-dynamics.introduction-power-platform-extensibility-model
+  - uid: learn-dynamics.intro-cds-developers-power-platform
+  - uid: learn-dynamics.plug-ins-extend-power-platform
+  - uid: learn-dynamics.common-actions-client-script-power-platform
+  - uid: learn-dynamics.automate-business-process-flow-client-script-power-platform
+  - uid: learn-dynamics.get-started-component-framework
+  - uid: learn-dynamics.build-power-app-component
+  - uid: learn-dynamics.component-framework-advanced-topics
+  - uid: learn-bizapps.portals-access-common-data-service
+  - uid: learn-bizapps.extend-power-app-portals
+  - uid: learn-bizapps.portal-custom-web
+  - uid: learn-dynamics.common-data-service-web-api
+  - uid: learn-dynamics.integrate-common-data-service-azure-solutions
+summary: "Mithilfe von Microsoft Power Platform können Organisationen ihre Abläufe optimieren, indem sie Geschäftsaufgaben und -prozesse vereinfachen, automatisieren und transformieren. In diesem Kurs erfahren sie Kursteilnehmer, wie Sie Power Apps erstellen, Abläufe automatisieren und die Plattform erweitern, um Geschäftsanforderungen zu erfüllen und komplexe Geschäftsprobleme zu lösen.\n\n#### <a name=\"audience-profile\"></a>Zielgruppenprofil\nKandidaten für diesen Kurs entwerfen, entwickeln und schützen Power\_Platform-Lösungen und kümmern sich um die Behandlung entsprechender Probleme. Die Kandidaten implementieren die Komponenten einer Lösung, zu denen Anwendungserweiterungen, individuelle Benutzererlebnisse, Systemintegrationen, Datenkonvertierungen, benutzerdefinierte Prozessautomatisierung und benutzerdefinierte Visualisierungen gehören. Den Kandidaten werden praktische Kenntnisse zu Power\_Platform-Diensten vermittelt\_– einschließlich eines umfassenden Verständnisses der Funktionen, Grenzen und Einschränkungen. Kandidaten müssen über Entwicklungserfahrung in folgenden Bereichen verfügen: JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft\_365, RESTful Web Services, ASP.NET und Power\_BI."
+prerequisitesSection: "- Kandidaten müssen über Power\_Platfom-Grundkenntnisse verfügen.\n- Die Kandidaten müssen über Entwicklungserfahrung in folgenden Bereichen verfügen: JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft\_365, RESTful Web Services, ASP.NET und Power\_BI."
+outlineSection: "### <a name=\"module-158-create-a-model-driven-application-in-power-apps\"></a>Modul\_1: Erstellen einer modellgesteuerten Anwendung in Power Apps\nDieses Modul führt Sie in die Erstellung einer modellgetriebenen App in Power Apps ein, die gemeinsame Daten-Services verwendet.\n#### <a name=\"lessons\"></a>Lektionen\n- Einführung in modellgesteuerte Apps und Common Data Service\n- Erste Schritte mit modellgesteuerten Apps in Power Apps\n- Erstellen und Verwalten von Entitäten in Common Data Service\n- Erstellen und Verwalten von Feldern innerhalb einer Entität in Common Data Service\n- Verwenden von Optionssätzen in Common Data Service\n- Erstellen einer Beziehung zwischen Entitäten in Common Data Service\n- Definieren und Erstellen von Geschäftsregeln in Common Data Service\n- Erstellen und Definieren von Berechnungs- oder Rollupfeldern in Common Data Service\n- Erste Schritte mit Sicherheitsrollen in Common Data Service\n\n\n### <a name=\"module-258-create-a-canvas-app-in-power-apps\"></a>Modul\_2: Erstellen einer Canvas-App in Power Apps\nDieses Modul führt Sie in Power Apps ein, hilft Ihnen beim Erstellen und Anpassen einer App sowie beim Verwalten und Verteilen. Außerdem erfahren Sie hier, wie Sie eine optimale App-Navigation bereitstellen und eine optimale Benutzeroberfläche mit Themen, Symbolen, Bildern, Personalisierung, verschiedenen Formfaktoren und Steuerelementen erstellen.\n#### <a name=\"lessons\"></a>Lektionen\n- Erste Schritte mit Power Apps\n- Anpassen einer Canvas-App in Power Apps\n- Verwalten von Apps in Power Apps\n- Navigation in einer Canvas-App in Power Apps\n- Erstellen der Benutzeroberfläche in einer Canvas-App in Power Apps\n- Verwenden von und Grundlegendes zu Steuerelementen in einer Canvas-App in Power Apps\n- Dokumentieren und Testen Ihrer Power Apps-Anwendung\n\n\n### <a name=\"module-358-master-advance-techniques-and-data-options-in-canvas-apps\"></a>Module\_3: Beherrschen erweiterter Verfahren und Datenoptionen in Canvas-Apps\nDieses Modul hilft Ihnen bei der Verwendung erweiterter Formeln sowie bei der Durchführung benutzerdefinierter Aktualisierungen, Leistungsprüfungen und Tests. Es hilft Ihnen auch dabei, die Benutzerfreundlichkeit zu verbessern, benutzerdefinierte Connectors zu verwenden und sich auf die Arbeit mit Datenquellengrenzwerten zu konzentrieren.\n#### <a name=\"lessons\"></a>Lektionen\n- Verwenden von imperativen Entwicklungsverfahren für Canvas-Apps in Power Apps\n- Erstellen einer erweiterten Formel, die Tabellen, Datensätze und Sammlungen in einer Canvas-App in Power Apps verwendet\n- Ausführen von benutzerdefinierten Updates in einer Power Apps-Canvas-App\n- Durchführen von Tests und Leistungsprüfungen in einer Power Apps-Canvas-App\n- Arbeiten mit relationalen Daten in einer Power Apps-Canvas-App\n- Arbeiten mit Datenquellengrenzwerten (Delegationsgrenzen) in einer Power Apps-Canvas-App\n- Herstellen einer Verbindung mit anderen Daten in einer Power Apps-Canvas-App\n- Verwenden von benutzerdefinierten Connectors in Power Apps\n\n\n### <a name=\"module-458-automate-a-business-process-using-power-automate\"></a>Module\_4: Automatisieren eines Geschäftsprozesses mithilfe von Power Automate\nDieses Modul führt Sie in Power Automate ein, zeigt Ihnen, wie Sie Workflows erstellen und Flows verwalten.\n#### <a name=\"lessons\"></a>Lektionen\n- Erste Schritte mit Power Automate\n- Erstellen komplexerer Flows mit Power Automate\n- Einführung in Geschäftsprozessflows in Power Automate\n- Erstellen eines immersiven Geschäftsprozessflows in Power Automate\n- Grundlegendes zu den Konzepten für erweiterte Geschäftsprozessflows in Power Automate\n- Einführung in Ausdrücke in Power Automate\n\n\n### <a name=\"module-558-introduction-to-developing-with-power-platform\"></a>Modul\_5: Einführung in die Entwicklung mit Power Platform\nDieses Modul ist der erste Schritt, um sich mit der Plattform, den Tools und dem Ökosystem von Power Platform vertraut zu machen.\n#### <a name=\"lessons\"></a>Lektionen\n- Einführung in Ressourcen für Power\_Platform-Entwickler\n- Verwenden von Entwicklertools zum Erweitern von Power Platform\n- Einführung in das Erweitern von Microsoft Power Platform\n\n\n### <a name=\"module-658-extending-the-power-platform-common-data-service\"></a>Modul\_6: Erweitern von Common Data Service für Power Platform\nIn diesem Modul werden die Tools und Ressourcen behandelt, die zum Erweitern von Power Platform benötigt werden. Zunächst werden das SDK, das Erweiterbarkeitsmodell und das Ereignisframework behandelt. In diesem Lernpfad werden neben der Verwendung von Plug-Ins auch die Konfiguration von Plug-Ins sowie die Registrierung und Bereitstellung von Plug-Ins behandelt.\n#### <a name=\"lessons\"></a>Lektionen\n- Einführung in Common Data Service für Entwickler\n- Erweitern von Plug-Ins\n\n\n### <a name=\"module-758-extending-the-power-platform-user-experience-model-driven-apps\"></a>Modul\_7: Erweitern der Benutzeroberfläche von Power Platform mit modellgesteuerten Apps\nIn diesem Modul erfahren Sie, wie Sie Clientskripts erstellen, allgemeine Aktionen mit Clientskripts ausführen und den Geschäftsprozessflow mithilfe von Clientskripts automatisieren. Sie erhalten Informationen zu den Möglichkeiten von Clientskripts sowie zu Regeln und zur Verwaltung von Skripts. Außerdem erfahren Sie, wann Clientskripts verwendet werden und wann nicht.\n#### <a name=\"lessons\"></a>Lektionen\n- Einführung in Webressourcen\n- Ausführen allgemeiner Aktionen mit Clientskripts\n- Automatisieren von Geschäftsprozessflows mit Clientskripts\n\n\n### <a name=\"module-858-create-components-with-power-apps-component-framework\"></a>Modul\_8: Erstellen von Komponenten mit dem Power\_Apps-Komponentenframework\nIn diesem Modul werden die ersten Schritte mit dem Power\_Apps-Komponentenframework beschrieben, und es gibt ein Einführungsmodul zu den grundlegenden Konzepten und Komponenten. Anschließend wird gezeigt, wie Sie eine Komponente erstellen und erweiterte Features des Power\_Apps-Komponentenframeworks nutzen.\n#### <a name=\"lessons\"></a>Lektionen\n- Erste Schritte mit dem Power\_Apps-Komponentenframework\n- Erstellen einer Power\_Apps-Komponente\n- Verwenden erweiterter Features mit dem Power\_Apps-Komponentenframework\n\n\n### <a name=\"module-958-extend-power-apps-portals\"></a>Modul\_9: Erweitern von Power\_Apps-Portalen\nIn diesem Modul erfahren Sie, wie Sie ein Inhaltsportal in eine vollwertige Web-App transformieren, die mit Common Data Service interagiert. Außerdem werden die Optionen behandelt, mit denen Anpasser und Entwickler die Portalfunktionen erweitern und eine Integration für Office\_365-, Power Platform- und Azure-Komponenten einrichten können.\n#### <a name=\"lessons\"></a>Lektionen\n- Einführung in Power\_Apps-Portale\n- Zugreifen auf Common Data Service in Power\_Apps-Portalen\n- Erweitern von Power\_Apps-Portalen\n- Erstellen von Webvorlagen für benutzerdefinierte Power\_Apps-Portale\n\n\n### <a name=\"module-1058-integrate-with-power-platform-and-common-data-service\"></a>Modul\_10: Integrieren von Power Platform und Common Data Service\nIn diesem Modul erfahren Sie, wie Sie Common Data Service mithilfe von Code integrieren. Hierzu werden Informationen zur Common\_Data\_Service-API vermittelt. Verschaffen Sie sich einen detaillierten Überblick über die verfügbaren Common\_Data\_Service-Optionen zum Integrieren von Daten und Ereignissen in Azure.\n#### <a name=\"lessons\"></a>Lektionen\n- Verwenden der Common\_Data\_Service-Web-API\n- Integrieren von Common\_Data\_Service-Azure-Lösungen"

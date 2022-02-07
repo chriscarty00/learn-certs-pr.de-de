@@ -3,289 +3,40 @@ title: Microsoft Power Platform-Grundlagen
 metadata:
   title: 'Kurs PL-900T00--A: Grundlagen der Microsoft Power Platform'
   description: 'Kurs PL-900T00--A: Grundlagen der Microsoft Power Platform'
-  ms.openlocfilehash: b81e2d15219b2b9ff871be65bdb4a2248cb4ab9b
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
-  ms.translationtype: MT
-  ms.contentlocale: de-DE
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132106994"
+  iltScheduling: true
 uid: course.pl-900t00
 courseNumber: PL-900T00
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Beschreiben der Komponenten der Microsoft Power Platform
-- skill: Beschreiben von Microsoft Dataverse, Connectors und AI Builder
-- skill: Beschreiben von Cloud-übergreifenden Szenarien für M365-, Dynamics 365-, Microsoft Azure- und Drittanbieter-Dienste
-- skill: Identifizieren der Vorteile und Möglichkeiten der Microsoft Power Platform
-- skill: Identifizieren der grundlegenden Funktionalität und des Geschäftswerts der Microsoft Power Platform-Komponenten
-- skill: Implementieren einfacher Lösungen mit Power Apps, Power Automate, Power BI und Power Virtual Agents
+  - skill: Beschreiben der Komponenten der Microsoft Power Platform
+  - skill: 'Beschreiben von Microsoft Dataverse, Connectors und AI Builder'
+  - skill: 'Beschreiben von Cloud-übergreifenden Szenarien für M365-, Dynamics 365-, Microsoft Azure- und Drittanbieter-Dienste'
+  - skill: Identifizieren der Vorteile und Möglichkeiten der Microsoft Power Platform
+  - skill: Identifizieren der grundlegenden Funktionalität und des Geschäftswerts der Microsoft Power Platform-Komponenten
+  - skill: 'Implementieren einfacher Lösungen mit Power Apps, Power Automate, Power BI und Power Virtual Agents'
 learningPartnersLink: /learn/certifications/partners
 locales:
-- en
-- ja
-- zh-cn
-- ko
-- de
-- fr
-- es
-- pt-br
-- ru
-- zh-tw
-- it
+  - en
+  - ar
+  - zh-cn
+  - zh-tw
+  - fr
+  - de
+  - it
+  - ja
+  - ko
+  - pt-br
+  - ru
+  - es
 levels:
-- beginner
+  - beginner
 roles:
-- student
+  - student
 products:
-- power-platform
+  - power-platform
 exams:
-- uid: exam.pl-900
-summary: >-
-  Kennenlernen des Geschäftswerts und der Produktfunktionen der Microsoft Power Platform Erstellen einfacher Power Apps, Verbinden von Daten mit Dataverse, Erstellen eines Power BI-Dashboards, Automatisieren von Prozessen mit Power Automate und Aufbau eines Chatbots mit Power Virtual Agents
-
-
-  #### <a name="audience-profile"></a>Zielgruppenprofil
-
-
-  Kandidaten für diese Prüfung sind Anwender, die eine Produktivitätssteigerung durch Automatisierung von Geschäftsprozessen, durch Datenanalyse zum Erlangen geschäftlicher Erkenntnisse und durch effektiveres Handeln durch Erstellen einfacher App-Funktionen anstreben.
+  - uid: exam.pl-900
+summary: "Kennenlernen des Geschäftswerts und der Produktfunktionen der Microsoft Power Platform Erstellen einfacher Power Apps, Verbinden von Daten mit Dataverse, Erstellen eines Power\_BI-Dashboards, Automatisieren von Prozessen mit Power Automate und Aufbau eines Chatbots mit Power Virtual Agents\n\n#### <a name=\"audience-profile\"></a>Zielgruppenprofil\n\nKandidaten für diese Prüfung sind Anwender, die eine Produktivitätssteigerung durch Automatisierung von Geschäftsprozessen, durch Datenanalyse zum Erlangen geschäftlicher Erkenntnisse und durch effektiveres Handeln durch Erstellen einfacher App-Funktionen anstreben."
 prerequisitesSection: Keine Vorbedingungen für diesen Kurs
-outlineSection: >-
-  ### <a name="module-1-introduction-to-microsoft-power-platform"></a>Modul 1: Einführung in Microsoft Power Platform
-
-
-  Lernen Sie die Komponenten von Microsoft Power Platform sowie Möglichkeiten zum Verbinden von Daten und Optionen kennen und erfahren Sie, wie Unternehmen diese Technologie nutzen können, um Geschäftslösungen zu erstellen.
-
-
-  #### <a name="lessons"></a>Lektionen
-
-
-  *   Übersicht über Microsoft Power Platform
-
-
-  *   Zusammenfassung des Moduls
-
-
-
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
-
-
-  *   Identifizieren, wann welche Microsoft Power Platform-Komponentenanwendung zum Erstellen von Geschäftslösungen verwendet werden sollte
-
-
-  *   Kennen der Vorteile der Nutzung von Microsoft Power Platform zum Erstellen von Geschäftslösungen
-
-
-  *   Kennen der Komponenten und Features von Microsoft Power Platform
-
-
-
-  ### <a name="module-2-introduction-to-microsoft-dataverse"></a>Modul 2: Einführung in Microsoft Dataverse
-
-
-  Mit Dataverse können Sie leistungsstarke, skalierbare Datenlösungen in der Cloud erkunden. Finden Sie heraus, wie Dataverse funktioniert und mit Microsoft Power Platform zusammenarbeiten kann, um einzigartige und effiziente Geschäftslösungen zu erstellen.
-
-
-  #### <a name="lessons"></a>Lektionen
-
-
-  *   Übersicht über Microsoft Dataverse
-
-
-  *   Zusammenfassung des Moduls
-
-
-
-  #### <a name="lab--data-modeling"></a>Lab: Datenmodellierung
-
-
-  ####
-     *   Projektmappe erstellen
-     *   Hinzufügen vorhandener und Erstellen neuer Tabellen
-     *   Beziehungen erstellen
-     *   Importieren von Daten
-
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
-
-
-  *   Beschreiben des Unterschieds zwischen Dataverse und dem Common Data Model
-
-
-  *   Erläutern von Anwendungsfällen und Einschränkungen von Geschäftsregeln und Prozessabläufen
-
-
-  *   Erläutern, welche Umgebungen, Tabellen, Spalten und Beziehungen es in Dataverse gibt
-
-
-
-  ### <a name="module-3-get-started-with-power-apps"></a>Modul 3: Erste Schritte mit Power Apps
-
-
-  Erfahren Sie mehr über den Wert und die Funktionen von Power Apps und darüber, wie andere Unternehmen diese Technologie nutzen, um einfache Anwendungen für ihr Unternehmen zu erstellen.
-
-
-  #### <a name="lessons"></a>Lektionen
-
-
-  *   Einführung in Power Apps
-
-
-  *   Erstellen einer Canvas-App
-
-
-  *   Erstellen einer modellgesteuerten App
-
-
-  *   Einführung in Power Apps-Portale
-
-
-
-  #### <a name="lab--how-to-build-a-canvas-app-part-1"></a>Lab: Erstellen einer Canvas-App, Teil 1
-
-
-  ####
-     *   Erstellen einer Canvas-App für Mitarbeiter
-     *   Vervollständigen der App
-
-  #### <a name="lab--how-to-build-a-canvas-app-part-2"></a>Lab: Erstellen einer Canvas-App, Teil 2
-
-
-  ####
-     *   Erstellen einer Sicherheits-Canvas-App
-
-  #### <a name="lab--how-to-build-a-model-driven-app"></a>Lab: Erstellen einer modellgesteuerten App
-
-
-  ####
-     *   Anpassen von Ansichten und Formularen
-     *   Erstellen einer modellgesteuerten Anwendung
-
-  #### <a name="lab--how-to-build-a-power-apps-portal"></a>Lab: Erstellen eines Power Apps-Portals
-
-
-  ####
-     *   Bereitstellen eines Power Apps-Portals
-     *   Erstellen einer Portalwebseite
-     *   Ändern des Portaldesigns
-
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
-
-
-  *   Wissen, wie andere Organisationen ihre Prozesse mit Power Apps digitalisieren
-
-
-  *   Erleben von Power Apps in Aktion und Kennenlernen der Optionen für die Erstellung Ihrer ersten App
-
-
-  *   Erfahren Sie, was Power Apps ist und welchen geschäftlichen Wert es hat
-
-
-
-  ### <a name="module-4-get-started-with-power-automate"></a>Modul 4: Erste Schritte mit Power Automate
-
-
-  Erfahren Sie, wie Benutzer Power Automate zur Verbesserung der Effizienz und Produktivität von Unternehmen einsetzen können.
-
-
-  #### <a name="lessons"></a>Lektionen
-
-
-  *   Übersicht über Power Automate
-
-
-  *   Erstellen einer automatisierten Lösung
-
-
-
-  #### <a name="lab--power-automate"></a>Lab: Power Automate
-
-
-  ####
-     *   Erstellen des Flows „Visit Notification“
-     *   Erstellen des Flows „Security Sweep“
-
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
-
-
-  *   Erleben, wie Power Automate aus Benutzersicht funktioniert und aussieht
-
-
-  *   Erstellen eines einfachen Flows
-
-
-  *   Lernen Sie den geschäftlichen Nutzen und die Funktionen von Power Automate kennen
-
-
-
-  ### <a name="module-5-get-started-with-power-bi"></a>Modul 5: Erste Schritte mit Power BI
-
-
-  Erfahren Sie, wie Unternehmen Power BI nutzen können, um Daten einfach zu bereinigen, anzuzeigen und zu verstehen, um besser informierte Entscheidungen zu gewährleisten.
-
-
-  #### <a name="lessons"></a>Lektionen
-
-
-  *   Übersicht über Power BI
-
-
-  *   Erstellen eines einfachen Dashboards
-
-
-
-  #### <a name="lab--how-to-build-a-simple-dashboard"></a>Lab: Erstellen eines einfachen Dashboards
-
-
-  ####
-     *   Erstellen eines Power BI-Berichts
-     *   Erstellen eines Power BI-Dashboards
-
-  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
-
-
-  *   Erleben, wie Power BI aus Benutzersicht funktioniert und aussieht
-
-
-  *   Erfahren, wie ein einfaches Power BI-Dashboard erstellt wird
-
-
-  *   Grundlegendes zu Power BI, seinen Features und seinem Wert für Unternehmen
-
-
-
-  ### <a name="module-6-introduction-to-power-virtual-agents"></a>Modul 6: Einführung in Power Virtual Agents
-
-
-  Erfahren Sie mehr über den Wert und die Funktionen von Power Virtual Agents sowie Möglichkeiten, wie Organisationen diese Technologie nutzen können, um Chatbotlösungen für ihr Business zu erstellen.
-
-
-  #### <a name="lessons"></a>Lektionen
-
-
-  *   Übersicht über Power Virtual Agents
-
-
-  *   Erstellen eines Chatbots
-
-
-
-  #### <a name="lab--how-to-build-a-basic-chatbot"></a>Lab: Erstellen eines einfachen Chatbots
-
-
-  ####
-     *   Registrieren für Power Virtual Agents und Erstellen eines neuen Bots
-     *   Erstellen von Themen
-     *   Testen von Themen
-     *   Ändern der Begrüßung
-     *   Veröffentlichen des Bots
-
-  Nach Abschluss dieses Moduls werden die Kursteilnehmer*innen zu Folgendem in der Lage sein:
-
-
-  *   Beschreiben des Geschäftswerts und der Features von Power Virtual Agents
-
-
-  *   Erstellen eines einfachen Chatbots
-
-
-  *   Kennen der grundlegenden Komponenten von Power Virtual Agents und Chatbots
+outlineSection: "### <a name=\"module-1-introduction-to-microsoft-power-platform\"></a>Modul\_1: Einführung in Microsoft Power Platform\n\nLernen Sie die Komponenten von Microsoft Power Platform sowie Möglichkeiten zum Verbinden von Daten und Optionen kennen und erfahren Sie, wie Unternehmen diese Technologie nutzen können, um Geschäftslösungen zu erstellen.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Übersicht über Microsoft Power Platform\n\n*   Zusammenfassung des Moduls\n\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Identifizieren, wann welche Microsoft Power Platform-Komponentenanwendung zum Erstellen von Geschäftslösungen verwendet werden sollte\n\n*   Kennen der Vorteile der Nutzung von Microsoft Power Platform zum Erstellen von Geschäftslösungen\n\n*   Kennen der Komponenten und Features von Microsoft Power Platform\n\n\n### <a name=\"module-2-introduction-to-microsoft-dataverse\"></a>Modul\_2: Einführung in Microsoft Dataverse\n\nMit Dataverse können Sie leistungsstarke, skalierbare Datenlösungen in der Cloud erkunden. Finden Sie heraus, wie Dataverse funktioniert und mit Microsoft Power Platform zusammenarbeiten kann, um einzigartige und effiziente Geschäftslösungen zu erstellen.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Übersicht über Microsoft Dataverse\n\n*   Zusammenfassung des Moduls\n\n\n#### <a name=\"lab--data-modeling\"></a>Lab: Datenmodellierung\n\n####\n   *   Projektmappe erstellen\n   *   Hinzufügen vorhandener und Erstellen neuer Tabellen\n   *   Beziehungen erstellen\n   *   Importieren von Daten\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Beschreiben des Unterschieds zwischen Dataverse und dem Common Data Model\n\n*   Erläutern von Anwendungsfällen und Einschränkungen von Geschäftsregeln und Prozessabläufen\n\n*   Erläutern, welche Umgebungen, Tabellen, Spalten und Beziehungen es in Dataverse gibt\n\n\n### <a name=\"module-3-get-started-with-power-apps\"></a>Modul\_3: Erste Schritte mit Power Apps\n\nErfahren Sie mehr über den Wert und die Funktionen von Power Apps und darüber, wie andere Unternehmen diese Technologie nutzen, um einfache Anwendungen für ihr Unternehmen zu erstellen.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Einführung in Power Apps\n\n*   Erstellen einer Canvas-App\n\n*   Erstellen einer modellgesteuerten App\n\n*   Einführung in Power Apps-Portale\n\n\n#### <a name=\"lab--how-to-build-a-canvas-app-part-1\"></a>Lab: Erstellen einer Canvas-App, Teil\_1\n\n####\n   *   Erstellen einer Canvas-App für Mitarbeiter\n   *   Vervollständigen der App\n\n#### <a name=\"lab--how-to-build-a-canvas-app-part-2\"></a>Lab: Erstellen einer Canvas-App, Teil\_2\n\n####\n   *   Erstellen einer Sicherheits-Canvas-App\n\n#### <a name=\"lab--how-to-build-a-model-driven-app\"></a>Lab: Erstellen einer modellgesteuerten App\n\n####\n   *   Anpassen von Ansichten und Formularen\n   *   Erstellen einer modellgesteuerten Anwendung\n\n#### <a name=\"lab--how-to-build-a-power-apps-portal\"></a>Lab: Erstellen eines Power Apps-Portals\n\n####\n   *   Bereitstellen eines Power Apps-Portals\n   *   Erstellen einer Portalwebseite\n   *   Ändern des Portaldesigns\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Wissen, wie andere Organisationen ihre Prozesse mit Power Apps digitalisieren\n\n*   Erleben von Power Apps in Aktion und Kennenlernen der Optionen für die Erstellung Ihrer ersten App\n\n*   Erfahren Sie, was Power Apps ist und welchen geschäftlichen Wert es hat\n\n\n### <a name=\"module-4-get-started-with-power-automate\"></a>Modul\_4: Erste Schritte mit Power Automate\n\nErfahren Sie, wie Benutzer Power Automate zur Verbesserung der Effizienz und Produktivität von Unternehmen einsetzen können.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Übersicht über Power Automate\n\n*   Erstellen einer automatisierten Lösung\n\n\n#### <a name=\"lab--power-automate\"></a>Lab: Power Automate\n\n####\n   *   Erstellen des Flows „Visit Notification“\n   *   Erstellen des Flows „Security Sweep“\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Erleben, wie Power Automate aus Benutzersicht funktioniert und aussieht\n\n*   Erstellen eines einfachen Flows\n\n*   Lernen Sie den geschäftlichen Nutzen und die Funktionen von Power Automate kennen\n\n\n### <a name=\"module-5-get-started-with-power-bi\"></a>Modul\_5: Erste Schritte mit Power\_BI\n\nErfahren Sie, wie Unternehmen Power BI nutzen können, um Daten einfach zu bereinigen, anzuzeigen und zu verstehen, um besser informierte Entscheidungen zu gewährleisten.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Übersicht über Power\_BI\n\n*   Erstellen eines einfachen Dashboards\n\n\n#### <a name=\"lab--how-to-build-a-simple-dashboard\"></a>Lab: Erstellen eines einfachen Dashboards\n\n####\n   *   Erstellen eines Power\_BI-Berichts\n   *   Erstellen eines Power\_BI-Dashboards\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Erleben, wie Power\_BI aus Benutzersicht funktioniert und aussieht\n\n*   Erfahren, wie ein einfaches Power\_BI-Dashboard erstellt wird\n\n*   Grundlegendes zu Power BI, seinen Features und seinem Wert für Unternehmen\n\n\n### <a name=\"module-6-introduction-to-power-virtual-agents\"></a>Modul\_6: Einführung in Power Virtual Agents\n\nErfahren Sie mehr über den Wert und die Funktionen von Power Virtual Agents sowie Möglichkeiten, wie Organisationen diese Technologie nutzen können, um Chatbotlösungen für ihr Business zu erstellen.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Übersicht über Power Virtual Agents\n\n*   Erstellen eines Chatbots\n\n\n#### <a name=\"lab--how-to-build-a-basic-chatbot\"></a>Lab: Erstellen eines einfachen Chatbots\n\n####\n   *   Registrieren für Power Virtual Agents und Erstellen eines neuen Bots\n   *   Erstellen von Themen\n   *   Testen von Themen\n   *   Ändern der Begrüßung\n   *   Veröffentlichen des Bots\n\nNach Abschluss dieses Moduls werden die Kursteilnehmer*innen zu Folgendem in der Lage sein:\n\n*   Beschreiben des Geschäftswerts und der Features von Power Virtual Agents\n\n*   Erstellen eines einfachen Chatbots\n\n*   Kennen der grundlegenden Komponenten von Power Virtual Agents und Chatbots"

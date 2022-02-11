@@ -1,62 +1,337 @@
 ### YamlMime:Course
 title: Microsoft Azure Fundamentals (2 Tage)
 metadata:
-  title: 'Kurs AZ-900T00-A: Grundlagen zu Microsoft Azure (2 Tage)'
-  description: 'Kurs AZ-900T00-A: Grundlagen zu Microsoft Azure (2 Tage)'
+  title: 'Kurs AZ-900T00-A: Microsoft Azure Fundamentals (2 Tage)'
+  description: 'Kurs AZ-900T00-A: Microsoft Azure Fundamentals (2 Tage)'
   iltScheduling: true
-  ms.openlocfilehash: d73f08b5a68140ba34d27acf51813eb61242e8c8
-  ms.sourcegitcommit: ac658d0294a354cec251bb1835b62222fea53b6f
-  ms.translationtype: MT
+  ms.openlocfilehash: 53144f42f0ab7064efdc00381715efb66bca7bb4
+  ms.sourcegitcommit: 1697f2407cfde13fb572fd4e41dcd90cb093b487
+  ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "136955268"
+  ms.lasthandoff: 02/04/2022
+  ms.locfileid: "138024655"
 uid: course.az-900t00
-courseNumber: AZ-900T00-A
+courseNumber: AZ-900T00
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
-- ja
+- ar
 - zh-cn
-- ko
-- de
+- zh-tw
 - fr
-- es
+- de
+- id
+- it
+- ja
+- ko
 - pt-br
 - ru
-- zh-tw
-- it
+- es
 levels:
 - beginner
 roles:
 - administrator
-- ai-engineer
-- data-analyst
-- data-engineer
-- data-scientist
-- database-administrator
-- developer
-- security-engineer
 products:
 - azure
 exams:
 - uid: exam.az-900
 studyGuide:
-- uid: learn.az-900-describe-cloud-concepts
-- uid: learn.az-900-describe-core-azure-services
-- uid: learn.az-900-describe-core-solutions-management-tools-azure
-- uid: learn.az-900-describe-general-security-network-security-features
-- uid: learn.az-900-describe-identity-governance-privacy-compliance-features
-- uid: learn.az-900-describe-azure-cost-management-service-level-agreements
+- uid: learn.azure.intro-to-azure-fundamentals
+- uid: learn.azure.fundamental-azure-concepts
+- uid: learn.azure.azure-architecture-fundamentals
+- uid: learn.azure.azure-database-fundamentals
+- uid: learn.azure.azure-compute-fundamentals
+- uid: learn.azure.azure-storage-fundamentals
+- uid: learn.azure.azure-networking-fundamentals
+- uid: learn.azure.ai-machine-learning-fundamentals
+- uid: learn.azure.azure-devops-devtest-labs
+- uid: learn.azure.monitoring-fundamentals
+- uid: learn.azure.management-fundamentals
+- uid: learn.azure.serverless-fundamentals
+- uid: learn.azure.iot-fundamentals
+- uid: learn.azure.protect-against-security-threats-azure
+- uid: learn.azure.secure-network-connectivity-azure
+- uid: learn.azure.secure-access-azure-identity-services
+- uid: learn.azure.build-cloud-governance-strategy-azure
+- uid: learn.azure.examine-privacy-compliance-data-protection-standards
+- uid: learn.azure.plan-manage-azure-costs
+- uid: learn.azure.choose-azure-services-sla-lifecycle
 summary: >-
-  Dieser zweitägige Kurs vermittelt grundlegende Kenntnisse zu den wichtigsten Konzepten und Diensten von Azure, zu wichtigsten Lösungen und Verwaltungstools, zur allgemeinen Sicherheit und Netzwerksicherheit, zu Governance-, Datenschutz- und Compliancefeatures, zur Azure-Kostenverwaltung und zu Vereinbarungen zum Servicelevel.
-
-  Hinweis&#58; Dieser Kurs bietet einen Azure-Pass und Zeit für die Teilnahme an praktischen Übungen. Wenn Sie keine praktische Erfahrung benötigen, sollten Sie den Kurs AZ -900T01: Microsoft Azure Fundamentals (1 Tag) in Betracht ziehen. Der Inhalt für beide Kurse richtet sich nach der Zieldomäne der AZ-900-Prüfung.
+  Dieser zweitägige Kurs vermittelt grundlegende Kenntnisse zu den wichtigsten Konzepten und Diensten von Azure, zu wichtigsten Lösungen und Verwaltungstools, zur allgemeinen Sicherheit und Netzwerksicherheit, zu Governance-, Datenschutz- und Compliancefeatures, zur Azure-Kostenverwaltung und zu Vereinbarungen zum Servicelevel. Hinweis: Dieser Kurs beinhaltet Azure Pass und die Zeit für die Teilnahme an Praxislabs für die Teilnehmer*innen. Wenn Sie keine praktische Erfahrung benötigen, sollten Sie den Kurs AZ -900T01: Microsoft Azure Fundamentals (1 Tag) in Betracht ziehen. Der Inhalt für beide Kurse richtet sich nach der Zieldomäne der AZ-900-Prüfung.
 
 
   #### <a name="audience-profile"></a>Zielgruppenprofil
 
+
   Dieser Kurs eignet sich für IT-Mitarbeiter, die gerade erst mit Azure arbeiten. Dieses Publikum möchte mehr über unsere Angebote erfahren und praktische Erfahrungen mit dem Produkt sammeln. Dieser Kurs verwendet hauptsächlich das Azure-Portal zum Erstellen von Diensten und erfordert keine Skriptkenntnisse. Die Teilnehmer dieses Kurses gewinnen Vertrauen in andere rollenbasierte Kurse und Zertifizierungen, z. B. Azure Administrator. Dieser Kurs bietet einen Azure-Pass und eine optionale Laborumgebung. Dieser Kurs kombiniert Vorlesungen, Demonstrationen und praktische Übungen. Dieser Kurs hilft auch dabei, jemanden auf die AZ-900-Prüfung vorzubereiten.
-prerequisitesSection: Es gibt keine Voraussetzungen für die Teilnahme am Kurs. Je mehr technisches Wissen die Kursteilnehmer jedoch haben, desto besser werden sie die Cloud verstehen.
-outlineSection: "### <a name=\"module-158-describe-core-azure-concepts\"></a>Modul 1&#58; Beschreiben der wichtigsten Azure-Konzepte\nIn diesem Modul erhalten Sie einen allgemeinen Überblick für Einsteiger über Azure und die dort verfügbaren Funktionen. Es stellt eine solide Grundlage für die Bearbeitung der verfügbaren Module zu Azure-Grundlagen dar.\n#### <a name=\"lessons\"></a>Lektionen\n- Einführung in Azure-Grundlagen\n- Grundlegende Konzepte von Azure\n- Beschreiben der wichtigsten Architekturkomponenten in Azure\n\nNach Abschluss dieses Moduls können die Schüler:\n- Die Vorteile des Cloud Computing in Azure (z. B. Zeit- und Geldersparnis)\n- Vermitteln von Konzepten wie Hochverfügbarkeit, Skalierbarkeit, Elastizität, Agilität und Notfallwiederherstellung\n- Beschreiben der Azure-Architekturkomponenten, z. B. Abonnements, Verwaltungsgruppen und Ressourcen \n- Zusammenfassen von Konzepten zur geografischen Verteilung, z. B. Azure-Regionen, Regionspaare und Verfügbarkeitszonen\n\n\n### <a name=\"module-258-describe-core-azure-services\"></a>Modul 2&#58: Beschreiben der wichtigsten Azure-Dienste\nIn diesem Modul erfahren Sie mehr über die wichtigsten Azure-Dienste wie Azure-Datenbank, Azure Compute, Azure Storage und Azure-Netzwerk.\n#### <a name=\"lessons\"></a>Lektionen\n- Einführung in Azure-Datenbank- und Analysedienste\n- Erkunden von Azure-Computediensten\n- Informationen zu Azure Storage-Diensten\n- Grundlagen zu Azure-Netzwerkdiensten\n\nNach Abschluss dieses Moduls können die Schüler:\n- Kenntnis des in Azure verfügbaren umfangreichen Dienstangebots für Computing, Netzwerke, Speicher und Datenbanken\n- Identifizieren von Virtualisierungsdiensten wie Azure Virtual Machines, Azure Container Instances und Azure Kubernetes\n- Vergleichen der Azure-Datenbankdienste wie Azure Cosmos DB, Azure SQL und Azure Database for MySQL\n- Überprüfen der Azure-Netzwerkressourcen wie virtuelle Netzwerke, VPN-Gateways und Azure ExpressRoute\n- Zusammenfassen der Azure-Speicherdienste wie Azure Blob Storage, Azure Disk Storage und Azure File Storage\n\n### <a name=\"module-358-describe-core-solutions-and-management-tools-on-azure\"></a>Modul 3&#58; Beschreiben der wichtigsten Lösungen und Verwaltungstools in Azure\nIn diesem Modul erfahren Sie mehr über maschinelles Lernen mit KI, Azure DevOps, Grundlagen der Überwachung, Grundlagen der Verwaltung, Grundlagen des serverloses Computings und IoT-Grundlagen.\n\n#### <a name=\"lessons\"></a>Lektionen\n- Auswählen der besten KI-Dienste für Ihre Anforderungen\n- Entscheidung für geeignete Tools, mit denen Organisationen bessere Lösungen entwickeln können\n- Auswählen des besten Überwachungsdiensts für Sichtbarkeit und Erkenntnisse sowie zur Entschärfung von Ausfällen\n- Auswählen des besten Tools zum Verwalten und Konfigurieren Ihrer Azure-Umgebung\n- Auswählen der besten serverlosen Azure-Technologie für Ihr Geschäftsszenario\n- Auswählen des besten Azure IoT-Diensts für Ihre Anwendung\n\nNach Abschluss dieses Moduls können die Schüler:\n- Auswählen des geeigneten KI-Diensts in Azure für unterschiedliche geschäftliche Herausforderungen\n- Sie können die besten Tools und Dienste für den Softwareentwicklungsprozess für ein bestimmtes Geschäftsszenario auswählen.\n- Sie können den richtigen Cloudüberwachungsdienst auswählen, um unterschiedliche geschäftliche Herausforderungen zu erfüllen.\n- Auswählen des richtigen Azure-Verwaltungstools für verschiedene technische Anforderungen und Herausforderungen\n- Sie können die richtige Technologie für serverloses Computing für Ihr Geschäftsszenario auswählen.\n- Zuletzt können Sie den besten Azure IoT-Dienst für ein bestimmtes Geschäftsszenario auswählen.\n\n### <a name=\"module-458-describe-general-security-and-network-security-features\"></a>Modul 4&#58; Beschreiben der Features für allgemeine Sicherheit und Netzwerksicherheit\nIn diesem Modul erfahren Sie, wie Sie sich vor Sicherheitsbedrohungen schützen und Ihre Netzwerke mit Azure sichern.\n#### <a name=\"lessons\"></a>Lektionen\n- Schutz vor Sicherheitsbedrohungen in Azure\n- Sichere Netzwerkkonnektivität in Azure\n\nNach Abschluss dieses Moduls können die Schüler:\n- Stärken Ihres Sicherheitsstatus und Schützen vor Bedrohungen mithilfe des Azure Security Center\n- Sammeln von Sicherheitsdaten aus verschiedenen Quellen mithilfe von Azure Sentinel und anschließendes Ergreifen von Maßnahmen\n- Verwalten dedizierter physischer Server zum Hosten Ihrer Azure-VMs für Windows und Linux mithilfe von Azure Dedicated Host\n- Identifizieren der Schichten einer *Defense-in-Depth*-Strategie.\n- Erklären, wie mit Azure Firewall gesteuert werden kann, welcher Datenverkehr im Netzwerk zulässig ist\n- Konfigurieren von Netzwerksicherheitsgruppen zum Filtern des Netzwerkdatenverkehrs zwischen Azure-Ressourcen\n- Erklären, wie Azure DDoS Protection Sie beim Schutz Ihrer Azure-Ressourcen vor DDoS-Angriffen unterstützt\n\n### <a name=\"module-558-describe-identity-governance-privacy-and-compliance-features\"></a>Modul 5&#58; Beschreiben der Features für Identität, Governance, Datenschutz und Compliance\nIn diesem Modul erfahren Sie mehr über Azure-Identitätsdienste, das Entwickeln einer Cloudgovernancestrategie sowie Datenschutz-, Compliance- und Sicherheitsstandards in Azure.\n#### <a name=\"lessons\"></a>Lektionen\n- Sichern des Zugriffs auf Ihre Anwendungen mithilfe von Azure-Identitätsdiensten\n- Erstellen einer Strategie für Cloudgovernance in Azure\n- Überprüfen von Datenschutz- und Compliancestandards in Azure\n\nNach Abschluss dieses Moduls können die Schüler:\n- Erläutern des Unterschieds zwischen Authentifizierung und Autorisierung.\n- Beschreiben, wie Azure Active Directory Identitäts- und Zugriffsverwaltung bereitstellt.\n- Erläutern, welche Rolle einmaliges Anmelden (Single Sign-On, SSO), mehrstufige Authentifizierung und bedingter Zugriff spielen\n- Treffen von organisatorischen Entscheidungen für Ihre Cloudumgebung mithilfe des CAF für Azure\n- Definieren, wer auf Cloudressourcen zugreifen kann, mithilfe von rollenbasierter Azure-Zugriffssteuerung.\n- Anwenden einer Ressourcensperre, um ein versehentliches Löschen kritischer Azure-Ressourcen zu verhindern.\n- Anwenden von Tags auf Ihre Azure-Ressourcen an, um ihren Zweck zu beschreiben.\n- Steuern und Überwachen mit Azure Policy, wie Ihre Ressourcen erstellt werden.\n- Aktivieren von entsprechender Governance über mehrere Azure-Abonnements hinweg mithilfe von Azure Blueprints.\n- Erläutern der Typen von Complianceangeboten, die in Azure zur Verfügung stehen.\n- Erhalten des Einblicks in gesetzliche Standards und Compliance in Azure\n- Erläutern der Azure-Funktionen, die für Regierungsbehörden spezifisch sind.\n\n### <a name=\"module-658-describe-azure-cost-management-and-service-level-agreements\"></a>Modul 6&#58; Beschreiben von Azure-Kostenmanagement und Vereinbarungen zum Servicelevel\nIn diesem Modul erfahren Sie, wie Sie Azure-Kosten planen und verwalten und wie Sie über SLAs und den Dienstlebenszyklus die richtigen Azure-Dienste auswählen.\n#### <a name=\"lessons\"></a>Lektionen\n- Planen und Verwalten Ihrer Azure-Kosten\n- Auswählen der richtigen Azure-Dienste durch Untersuchen der SLAs und des Dienstlebenszyklus\n\nNach Abschluss dieses Moduls können die Schüler:\n- Verwenden des Gesamtkostenrechners\n- Beschreiben der unterschiedlichen Arten, in denen Sie Azure-Produkte und -Dienste kaufen können.\n- Verwenden des Preisrechners, um die monatlichen Kosten der Ausführung Ihrer Cloudworkloads abzuschätzen.\n- Definieren der Hauptfaktoren, die sich auf die Gesamtkosten auswirken, sowie Anwenden empfohlener Vorgehensweisen zum Minimieren von Kosten\n- Beschreiben, was eine Vereinbarung zum Service Level (SLA) ist, und warum SLAs wichtig sind.\n- Identifizieren von Faktoren, z. B. der von Ihnen gewählten Dienstebene, die sich auf eine SLA auswirken können.\n- Kombinieren Sie SLAs, um eine zusammengesetzte SLA zu berechnen.\n- Beschreiben des Dienstlebenszyklus in Azure"
+prerequisitesSection: Es gibt keine Voraussetzungen für die Teilnahme am Kurs. Vertrautheit mit Cloud Computing ist hilfreich, aber nicht unbedingt erforderlich.
+outlineSection: >-
+  ### <a name="module-1-cloud-concepts"></a>Modul 1: Cloudkonzepte
+
+
+  In diesem Modul erhalten Sie einen allgemeinen Überblick für Einsteiger über Azure und die dort verfügbaren Funktionen. Es stellt eine solide Grundlage für die Bearbeitung der verfügbaren Module zu Azure-Grundlagen dar.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Einführung in Azure-Grundlagen
+
+
+  *   Grundlegende Azure-Konzepte
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Die Vorteile des Cloud Computing in Azure (z. B. Zeit- und Geldersparnis)
+
+
+  *   Vermitteln von Konzepten wie Hochverfügbarkeit, Skalierbarkeit, Elastizität, Agilität und Notfallwiederherstellung
+
+
+
+  ### <a name="module-2-core-azure-services"></a>Modul 2: Wichtige Azure-Dienste
+
+
+  In diesem Modul erfahren Sie mehr über wichtige Azure-Dienste wie Azure-Datenbank, Azure Compute, Azure Storage und Azure-Netzwerk.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Wichtige Azure-Architekturkomponenten
+
+
+  *   Wichtige Azure-Workloadprodukte
+
+
+  *   Azure-Netzwerkdienste
+
+
+  *   Azure-Speicherdienste
+
+
+  *   Azure-Datenbankdienste
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Beschreiben von Azure-Architekturkomponenten, z. B. Abonnements, Verwaltungsgruppen und Ressourcen
+
+
+  *   Zusammenfassen geografischer Verteilungskonzepte, z. B. Azure-Regionen, Regionspaare und Verfügbarkeitszonen
+
+
+  *   Erläutern der in Azure verfügbaren Dienste für Computing, Netzwerke, Speicher und Datenbanken
+
+
+  *   Identifizieren von Diensten wie Azure Virtual Machines, Azure Container Instances und Azure Kubernetes
+
+
+  *   Vergleichen von Azure-Datenbankdiensten wie Azure Cosmos DB, Azure SQL und Azure Database for MySQL
+
+
+  *   Überprüfen der Azure-Netzwerkressourcen wie virtuelle Netzwerke, VPN-Gateways und Azure ExpressRoute
+
+
+  *   Zusammenfassen der Azure-Speicherdienste wie Azure Blob Storage, Azure Disk Storage und Azure File Storage
+
+
+
+  ### <a name="module-3-core-solutions"></a>Modul 3: Grundlegende Lösungen
+
+
+  In diesem Modul erfahren Sie mehr über maschinelles Lernen mit KI, Azure DevOps, Grundlagen der Überwachung, Verwaltungsgrundlagen, Grundlagen von serverlosem Computing und IoT-Grundlagen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Auswählen des besten Azure IoT-Diensts
+
+
+  *   Auswählen des besten KI-Diensts
+
+
+  *   Auswählen der besten serverlosen Azure-Technologie
+
+
+  *   Auswählen der besten Tools mit DevOps und GitHub
+
+
+  *   Auswählen der besten Verwaltungstools
+
+
+  *   Auswählen des besten Azure-Überwachungsdiensts
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Auswählen des geeigneten KI-Diensts in Azure für unterschiedliche geschäftliche Herausforderungen
+
+
+  *   Auswählen der geeigneten Tools und Dienste für den Softwareentwicklungsprozess für ein bestimmtes Geschäftsszenario
+
+
+  *   Auswählen des richtigen Cloudüberwachungsdiensts für verschiedene geschäftliche Herausforderungen
+
+
+  *   Auswählen des geeigneten Azure-Verwaltungstools, um unterschiedliche technische Anforderungen und Herausforderungen zu erfüllen
+
+
+  *   Auswählen der geeigneten serverlosen Computingtechnologie für Ihr Geschäftsszenario
+
+
+  *   Auswählen des besten Azure IoT-Diensts für ein bestimmtes Geschäftsszenario
+
+
+
+  ### <a name="module-4-general-security-and-networking-features"></a>Modul 4: Allgemeine Sicherheits- und Netzwerkfeatures
+
+
+  In diesem Modul erfahren Sie, wie Sie sich vor Sicherheitsbedrohungen und Ihre Netzwerke mit Azure schützen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Sicherheitstools und -features
+
+
+  *   Sichere Netzwerkkonnektivität
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Stärken Ihres Sicherheitsstatus und Schützen vor Bedrohungen mithilfe von Azure Security Center
+
+
+  *   Sammeln von Sicherheitsdaten aus verschiedenen Quellen mithilfe von Azure Sentinel und anschließendes Ergreifen von Maßnahmen
+
+
+  *   Verwalten dedizierter physischer Server zum Hosten Ihrer Azure-VMs mithilfe von Azure Dedicated Host
+
+
+  *   Identifizieren der Schichten einer &nbsp;*Defense-in-Depth*&nbsp;-Strategie
+
+
+  *   Erklären, wie mit Azure Firewall gesteuert werden kann, welcher Datenverkehr im Netzwerk zulässig ist
+
+
+  *   Konfigurieren von Netzwerksicherheitsgruppen zum Filtern des Netzwerkdatenverkehrs zu und aus Azure-Ressourcen
+
+
+  *   Erklären, wie Azure DDoS Protection Sie beim Schützen Ihrer Azure-Ressourcen vor DDoS-Angriffen unterstützt
+
+
+
+  ### <a name="module-5-identity-governance-privacy-and-compliance"></a>Modul 5: Identität, Governance, Privatsphäre und Compliance
+
+
+  In diesem Modul erfahren Sie mehr über Azure-Identitätsdienste, das Entwickeln einer Cloudgovernancestrategie sowie Datenschutz-, Compliance- und Datensicherheitsstandards in Azure.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Wichtige Azure-Identitätsdienste
+
+
+  *   Azure-Governancemethodiken
+
+
+  *   Privatsphären-, Compliance- und Datenschutzstandards
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erläutern des Unterschieds zwischen Authentifizierung und Autorisierung
+
+
+  *   Beschreiben, wie Azure Active Directory die Identitäts- und Zugriffsverwaltung bereitstellt
+
+
+  *   Erläutern, welche Rolle das einmalige Anmelden (SSO), die Multi-Faktor-Authentifizierung und der bedingte Zugriff spielen
+
+
+  *   Treffen organisatorischer Entscheidungen für Ihre Cloudumgebung mithilfe des CAF für Azure
+
+
+  *   Definieren des Zugriffs auf Cloudressourcen mithilfe der rollenbasierten Zugriffssteuerung in Azure
+
+
+  *   Anwenden einer Ressourcensperre, um ein versehentliches Löschen kritischer Azure-Ressourcen zu verhindern
+
+
+  *   Anwenden von Tags auf Ihre Azure-Ressourcen, um ihren Zweck zu beschreiben
+
+
+  *   Steuern und Überwachen der Erstellung Ihrer Ressourcen mithilfe von Azure Policy
+
+
+  *   Ermöglichen der entsprechenden Governance in mehreren Azure-Abonnements mithilfe von Azure Blueprints
+
+
+  *   Erläutern der Typen von Complianceangeboten, die in Azure zur Verfügung stehen
+
+
+  *   Gewinnen von Einblicken in gesetzliche Normen und die Compliance in Azure
+
+
+  *   Erläutern von Azure-Funktionen, die für Regierungsbehörden spezifisch sind
+
+
+
+  ### <a name="module-6-azure-pricing-and-lifecycle"></a>Modul 6: Preise und Lebenszyklus von Azure
+
+
+  In diesem Modul erfahren Sie, wie Sie Azure-Kosten planen und verwalten und wie Sie die richtigen Azure-Dienste über SLAs und den Dienstlebenszyklus auswählen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Planung und Kostenverwaltung
+
+
+  *   Vereinbarungen zum Servicelevel (SLAs)
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Verwenden des Gesamtkostenrechners
+
+
+  *   Beschreiben der unterschiedlichen Arten, mit denen Sie Azure-Produkte und -Dienste kaufen können
+
+
+  *   Verwenden des Preisrechners, um die monatlichen Kosten der Ausführung Ihrer Cloudworkloads abzuschätzen
+
+
+  *   Definieren der Hauptfaktoren, die sich auf die Gesamtkosten auswirken, und Anwenden empfohlener Vorgehensweisen zum Minimieren von Kosten
+
+
+  *   Beschreiben, was eine Vereinbarung zum Servicelevel (SLA) ist und warum SLAs wichtig sind
+
+
+  *   Identifizieren von Faktoren (z. B. die gewählte Dienstebene), die sich auf eine SLA auswirken können
+
+
+  *   Kombinieren von SLAs, um eine zusammengesetzte SLA zu berechnen
+
+
+  *   Beschreiben des Dienstlebenszyklus in Azure

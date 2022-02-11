@@ -3,12 +3,12 @@ title: Administering Windows Server Hybrid Core Infrastructure
 metadata:
   title: 'Kurs AZ-800T00--A: Administering Windows Server Hybrid Core Infrastructure'
   description: 'Kurs AZ-800T00--A: Administering Windows Server Hybrid Core Infrastructure'
-  ms.openlocfilehash: c9f38ae187afbff73693ca6c1c5d71c7625e1eb2
-  ms.sourcegitcommit: 5cab29e7d18868fcf8707d060b17c58475ab7374
+  ms.openlocfilehash: fa1476c9225abfa05740c6c57fa4ef1f7501a03f
+  ms.sourcegitcommit: 7e6fc74e4763408d05db0d7f5b43abda1533e6e7
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 12/31/2021
-  ms.locfileid: "135700316"
+  ms.lasthandoff: 02/04/2022
+  ms.locfileid: "138019114"
 uid: course.az-800t00
 courseNumber: AZ-800T00
 hoursToComplete: 96
@@ -122,7 +122,7 @@ outlineSection: >-
   ### <a name="module-2-implementing-identity-in-hybrid-scenarios"></a>Modul 2: Implementieren von Identitäten in Hybridszenarien
 
 
-  In diesem Modul wird erläutert, wie Sie eine Azure-Umgebung so konfigurieren, dass Windows IaaS-Workloads unterstützt werden, für die Active Directory benötigt wird. Das Modul behandelt außerdem die Integration einer lokalen Active Directory Domain Services-Umgebung (AD DS) in Azure. Abschließend wird im Modul erläutert, wie Sie eine vorhandene Active Directory-Umgebung in Azure erweitern, indem Sie als Domänencontroller konfigurierte IaaS-VMs in einem speziell konfigurierten virtuellen Azure-Subnetz (VNet) platzieren.
+  In diesem Modul wird erläutert, wie Sie eine Azure-Umgebung so konfigurieren, dass Windows IaaS-Workloads unterstützt werden, für die Active Directory benötigt wird. Das Modul behandelt außerdem die Integration einer lokalen Active Directory Domain Services-Umgebung (AD DS) in Azure. Abschließend wird im Modul erläutert, wie Sie eine vorhandene Active Directory-Umgebung in Azure erweitern, indem Sie als Domänencontroller konfigurierte IaaS-VMs in einem speziell konfigurierten virtuellen Azure-Subnetz platzieren.
 
 
   #### <a name="lessons"></a>Lektionen
@@ -170,7 +170,7 @@ outlineSection: >-
   ### <a name="module-3-windows-server-administration"></a>Modul 3: Windows Server-Verwaltung
 
 
-  In diesem Modul wird beschrieben, wie Sie das Prinzip der geringsten Rechte über Privileged Access Workstation (PAW) und Just Enough Administration (JEA) implementieren. Im Modul werden zudem verschiedene allgemeine Windows Server-Verwaltungstools vorgestellt, etwa Windows Admin Center, Server-Manager und PowerShell. In diesem Modul werden außerdem der Konfigurationsprozess nach der Installation und Tools beschrieben, die für diesen Prozess verwendet werden können, z. B. sconfig und Desired State Configuration (DSC).
+  In diesem Modul wird beschrieben, wie Sie das Prinzip der geringsten Rechte über Privileged Access Workstation (PAW) und Just Enough Administration (JEA) implementieren. Im Modul werden zudem verschiedene allgemeine Windows Server-Verwaltungstools vorgestellt, etwa Windows Admin Center, Server-Manager und PowerShell. In diesem Modul werden außerdem der Konfigurationsprozess nach der Installation und Tools beschrieben, die für diesen Prozess verwendet werden können, z. B. „sconfig“ und Desired State Configuration (DSC).
 
 
   #### <a name="lessons"></a>Lektionen
@@ -366,7 +366,7 @@ outlineSection: >-
   ### <a name="module-7-network-infrastructure-services-in-windows-server"></a>Modul 7: Netzwerkinfrastrukturdienste in Windows Server
 
 
-  In diesem Modul wird beschrieben, wie zentrale Netzwerkinfrastrukturdienste in Windows Server implementiert werden, z. B. DHCP und DNS. Dieses Modul behandelt außerdem die Implementierung der IP-Adressverwaltung und die Verwendung von RAS-Diensten.
+  In diesem Modul wird beschrieben, wie zentrale Netzwerkinfrastrukturdienste in Windows Server implementiert werden, z. B. DHCP und DNS. Dieses Modul behandelt außerdem das Implementieren der IP-Adressverwaltung und das Verwenden von RAS-Diensten.
 
 
   #### <a name="lessons"></a>Lektionen
@@ -414,7 +414,7 @@ outlineSection: >-
   ### <a name="module-8-implementing-hybrid-networking-infrastructure"></a>Modul 8: Implementieren der Hybridnetzwerkinfrastruktur
 
 
-  In diesem Modul wird beschrieben, wie Sie eine lokale Umgebung mit Azure verbinden und DNS für Windows Server-IaaS-VMs konfigurieren. In diesem Modul wird erläutert, wie Sie die geeignete DNS-Lösung für die Anforderungen Ihrer Organisation auswählen und einen DNS-Server auf einer Windows Server-Azure-IaaS-VM ausführen. Schließlich lernen Sie in diesem Modul, wie Sie virtuelle Microsoft Azure-Netzwerke (VNets) und IP-Adresskonfigurationen für Windows Server-IaaS-VMs (Infrastructure-as-a-Service) verwalten.
+  In diesem Modul wird beschrieben, wie Sie eine lokale Umgebung mit Azure verbinden und DNS für Windows Server-IaaS-VMs konfigurieren. In diesem Modul wird erläutert, wie Sie die geeignete DNS-Lösung für die Anforderungen Ihrer Organisation auswählen und einen DNS-Server auf einer Windows Server-Azure-IaaS-VM ausführen. Schließlich lernen Sie in diesem Modul, wie Sie virtuelle Microsoft Azure-Netzwerke und IP-Adresskonfigurationen für Windows Server-IaaS-VMs (Infrastructure-as-a-Service) verwalten.
 
 
   #### <a name="lessons"></a>Lektionen

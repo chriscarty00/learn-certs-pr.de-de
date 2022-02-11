@@ -1,16 +1,17 @@
 ### YamlMime:Course
 title: Designing and Implementing Microsoft DevOps solutions
 metadata:
-  title: 'Kurs AZ-400T00-A: Entwerfen und Implementieren von Microsoft DevOps-Lösungen'
-  description: 'Kurs AZ-400T00-A: Entwerfen und Implementieren von Microsoft DevOps-Lösungen'
-  ms.openlocfilehash: bea3f9cb0a54a9471430cffa1f1b3f7644c0c6ff
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
-  ms.translationtype: MT
+  title: 'Kurs AZ-400T00-A: Designing and Implementing Microsoft DevOps solutions'
+  description: 'Kurs AZ-400T00-A: Designing and Implementing Microsoft DevOps solutions'
+  iltScheduling: true
+  ms.openlocfilehash: a1d47bb1403bdf97f9b03ed6adc5e77cc6dc7036
+  ms.sourcegitcommit: 1697f2407cfde13fb572fd4e41dcd90cb093b487
+  ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132107635"
+  ms.lasthandoff: 02/04/2022
+  ms.locfileid: "138024633"
 uid: course.az-400t00
-courseNumber: AZ-400T00-A
+courseNumber: AZ-400T00
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -18,7 +19,7 @@ skillsGained:
 - skill: Auswählen eines Projekts und Identifizieren von Projektmetriken und Leistungskennzahlen (Key Performance Indicators, KPIs)
 - skill: Erstellen eines Teams und einer agilen Organisationsstruktur
 - skill: Entwickeln einer Tool-Integrationsstrategie
-- skill: Entwerfen einer Lizenzverwaltungsstrategie (z. B. Azure DevOps- und GitHub-Benutzer)
+- skill: Entwerfen einer Lizenzverwaltungsstrategie (z. B. für Azure DevOps- und GitHub-Benutzer*innen)
 - skill: Entwerfen einer Strategie für die End-to-End Rückverfolgbarkeit von Arbeitsaufgaben zu Arbeitssoftware
 - skill: Entwickeln einer Anmeldungs- und Zugriffsstrategie
 - skill: Entwickeln einer Strageie zur Integrierung von Vor-Ort und Cloud-Resourssen
@@ -51,8 +52,8 @@ skillsGained:
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
-- ja
 - zh-cn
+- ja
 - ko
 levels:
 - advanced
@@ -60,18 +61,806 @@ roles:
 - devops-engineer
 products:
 - azure
-- azure-devops
-- azure-kubernetes-service
-- azure-container-instances
-- azure-automation
 exams:
 - uid: exam.az-400
+studyGuide:
+- uid: learn.wwl.introduction-to-devops
+- uid: learn.wwl.choose-right-project
+- uid: learn.wwl.describe-team-structures
+- uid: learn.wwl.migrate-to-devops
+- uid: learn.wwl.introduction-to-source-control
+- uid: learn.wwl.describe-types-of-source-control-systems
+- uid: learn.wwl.work-azure-repos-github
+- uid: learn.wwl.structure-your-git-repo
+- uid: learn.wwl.manage-git-branches-workflows
+- uid: learn.wwl.collaborate-pull-requests-azure-repos
+- uid: learn.wwl.explore-git-hooks
+- uid: learn.wwl.plan-foster-inner-source
+- uid: learn.wwl.manage-git-repositories
+- uid: learn.wwl.explore-azure-pipelines
+- uid: learn.wwl.manage-azure-pipeline-agents-pools
+- uid: learn.wwl.describe-pipelines-concurrency
+- uid: learn.wwl.explore-continuous-integration
+- uid: learn.wwl.implement-pipeline-strategy
+- uid: learn.wwl.integrate-azure-pipelines
+- uid: learn.wwl.introduction-to-github-actions
+- uid: learn.wwl.learn-continuous-integration-github-actions
+- uid: learn.wwl.introduction-to-continuous-delivery
+- uid: learn.wwl.explore-release-strategy-recommendations
+- uid: learn.wwl.build-high-quality-release-pipeline
+- uid: learn.wwl.introduction-to-deployment-patterns
+- uid: learn.wwl.implement-blue-green-deployment-feature-toggles
+- uid: learn.wwl.implement-canary-releases-dark-launching
+- uid: learn.wwl.implement-testing-progressive-exposure-deployment
+- uid: learn.wwl.create-release-pipeline
+- uid: learn.wwl.configure-provision-environments
+- uid: learn.wwl.manage-modularize-tasks-templates
+- uid: learn.wwl.automate-inspection-of-health
+- uid: learn.wwl.introduction-security-development-process
+- uid: learn.wwl.manage-application-configuration-data
+- uid: learn.wwl.integrate-identity-management-systems
+- uid: learn.wwl.implement-application-configuration
+- uid: learn.wwl.explore-infrastructure-as-code-configuration-management
+- uid: learn.wwl.create-azure-resources-using-azure-resource-manager-templates
+- uid: learn.wwl.create-azure-resources-by-using-azure-cli
+- uid: learn.wwl.explore-azure-automation-devops
+- uid: learn.wwl.implement-desired-state-configuration-dsc
+- uid: learn.wwl.introduction-to-chef-puppet
+- uid: learn.wwl.implement-ansible
+- uid: learn.wwl.implement-terraform
+- uid: learn.wwl.explore-package-dependencies
+- uid: learn.wwl.understand-package-management
+- uid: learn.wwl.migrate-consolidating-secure-artifacts
+- uid: learn.wwl.implement-versioning-strategy
+- uid: learn.wwl.design-container-build-strategy
+- uid: learn.wwl.implement-docker-multi-stage-builds
+- uid: learn.wwl.implement-azure-kubernetes-service-aks
+- uid: learn.wwl.explore-kubernetes-tooling
+- uid: learn.wwl.integrate-aks-pipelines
+- uid: learn.wwl.implement-tools-to-track-usage-flow
+- uid: learn.wwl.implement-route-for-mobile-application-crash-report-data
+- uid: learn.wwl.develop-monitor-status-dashboards
+- uid: learn.wwl.share-knowledge-within-teams
+- uid: learn.wwl.explore-sre-design-practices-to-measure-end-user-satisfaction
+- uid: learn.wwl.design-processes-to-capture-analyze-user-feedback
+- uid: learn.wwl.design-processes-to-automate-application-analytics
+- uid: learn.wwl.manage-alerts-blameless-retrospectives-just-culture
+- uid: learn.wwl.understand-security-pipeline
+- uid: learn.wwl.introduction-to-azure-security-center
+- uid: learn.wwl.implement-open-source-software
+- uid: learn.wwl.manage-anti-malware-spam-policies
+- uid: learn.wwl.integrate-license-vulnerability-scans
+- uid: learn.wwl.identify-technical-debt
 summary: >-
-  Dieser Kurs vermittelt die Kenntnisse und Fähigkeiten zur Entwicklung und Umsetzung von DevOps-Prozessen und -praktiken. Die Teilnehmer lernen, wie sie DevOps planen, Quellcodeverwaltung verwenden, Git für ein Unternehmen skalieren, Artefakte konsolidieren, eine Strategie für das Abhängigkeitsmanagement entwerfen, Geheimnisse verwalten, eine kontinuierliche Integration implementieren, eine Strategie zum Erstellen von Containern implementieren, eine Freigabe-Strategie entwerfen und einen Freigabe-Management-Workflow einrichten, ein Bereitstellungsmuster umsetzen und Feedback-Mechanismen optimieren.
+  Dieser Kurs vermittelt die Kenntnisse und Fähigkeiten zur Entwicklung und Umsetzung von DevOps-Prozessen und -praktiken. Die Teilnehmer*innen lernen, wie sie DevOps planen, Quellcodeverwaltung verwenden, Git für ein Unternehmen skalieren, Artefakte konsolidieren, eine Strategie für das Abhängigkeitsmanagement entwerfen, Geheimnisse verwalten, Continuous-Integration-Ansätze und eine Strategie zum Erstellen von Containern implementieren, eine Releasestrategie entwerfen, einen Releaseverwaltungsworkflow einrichten, ein Bereitstellungsmuster implementieren und Feedbackmechanismen optimieren.
 
 
   #### <a name="audience-profile"></a>Zielgruppenprofil
 
+
   Die Teilnehmer dieses Kurses sind daran interessiert, DevOps-Prozesse zu entwerfen und zu implementieren oder die Zertifizierungsprüfung für Microsoft Azure DevOps-Lösungen abzulegen.
-prerequisitesSection: "Für eine erfolgreiche Kursteilnehmer sind die folgenden Vorkenntnisse erforderlich:\n- Verständnis von Cloud Computing-Konzepten, einschließlich PaaS-, SaaS- und IaaS-Implementierungen\n- Erfahrung in Bezug auf Azure-Verwaltung und Azure-Entwicklung mit nachgewiesenen Kenntnissen in mindestens einem dieser Bereiche\n- Kenntnisse in Bezug auf Versionskontrolle, agile Softwareentwicklung und die wichtigsten Prinzipien der Softwareentwicklung Es wäre hilfreich, Erfahrung in einem Unternehmen zu haben, das Software liefert.\n\nWenn Sie sich mit Azure und Cloud Computing noch nicht auskennen, sollten Sie eine der folgenden Ressourcen nutzen:\n- Kostenloser Onlinekurs: Azure-Grundlagen (https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) \n- Präsenzschulung: AZ-900: Azure-Grundlagen (https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01)\n\nWenn Sie noch nicht mit der Azure-Verwaltung vertraut sind, ziehen Sie die folgenden Trainings in Betracht:\n- Kostenloser Onlinekurs: Voraussetzungen für Azure-Administratoren (https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)\n- Präsenzschulungen: AZ-104: Microsoft Azure-Administrator (https://docs.microsoft.com/en-us/learn/certifications/courses/az-104t00) und AZ-010: Azure-Verwaltung für AWS-SysOps (https://docs.microsoft.com/en-us/learn/certifications/courses/az-010t00)\n\nAls Neueinsteiger in der Azure-Entwicklung sollten Sie folgende Trainings erwägen:\n- Kostenloser Onlinekurs: Erstellen von serverlosen Anwendungen (https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)\n- Präsenzschulungen: AZ-204: Entwickeln von Lösungen für Microsoft Azure (https://docs.microsoft.com/en-us/learn/certifications/courses/az-204t00) und AZ-020: Microsoft Azure-Lösungen für AWS-Entwickler (https://docs.microsoft.com/en-us/learn/certifications/courses/az-020t00)"
-outlineSection: "### <a name=\"module-158-planning-for-devops\"></a>Modul 1: DevOps-Planung\n#### <a name=\"lessons\"></a>Lektionen\n- Transformationsplanung\n- Projektauswahl\n- Teamstrukturen\n- Migration zu Azure DevOps\n\n#### <a name=\"lab-58-agile-planning-and-portfolio-management-with-azure-boards\"></a>Lab: Agile Planung and Portfoliomanagement mit Azure Boards\n\nNach Abschluss dieses Moduls können die Schüler:\n- Transformation mit geteilten Zielen und Fristen planen\n- Auswählen eines Projekts und Identifizieren von Projektmetriken und Leistungskennzahlen (Key Performance Indicators, KPIs)\n- Erstellen eines Teams und einer agilen Organisationsstruktur\n- Entwickeln einer Tool-Integrationsstrategie\n- Entwerfen einer Lizenzverwaltungsstrategie (z. B. Azure DevOps- und GitHub-Benutzer)\n- Entwerfen einer Strategie für die End-to-End Rückverfolgbarkeit von Arbeitsaufgaben zu Arbeitssoftware\n- Entwickeln einer Anmeldungs- und Zugriffsstrategie\n- Entwickeln einer Strageie zur Integrierung von Vor-Ort und Cloud-Resourssen\n\n\n### <a name=\"module-258-getting-started-with-source-control\"></a>Modul 2: Erste Schritte mit der Quellcodeverwaltung\n#### <a name=\"lessons\"></a>Lektionen\n- Was ist Quellcodeverwaltung?\n- Vorteile der Quellcodeverwaltung\n- Arten der Quellcodeverwaltung\n- Einführung in Azure Repos\n- Einführung in GitHub\n- Migration von TFVC (Team Foundation Version Control) zu Git in Azure Repos\n\n#### <a name=\"lab-58-version-controlling-with-git-in-azure-repos\"></a>Lab: Versionskontrolle mit Git in Azure Repos\n\nNach Abschluss dieses Moduls können die Schüler:\n- Vorteile bei der Nutzung einer Lösungskontrolle beschreiben \n- Beschreiben von Azure Repos und GitHub\n- Migrieren von der TFVC nach Git\n\n\n### <a name=\"module-358-managing-technical-debt\"></a>Modul 3: Verwalten von technischen Schulen\n#### <a name=\"lessons\"></a>Lektionen\n- Identifizieren technischer Schulden\n- Wissensaustausch innerhalb des Teams\n- Modernisieren von Entwicklungsumgebungen mit Codespaces\n\n#### <a name=\"lab-58-sharing-team-knowledge-using-azure-project-wikis\"></a>Lab: Wissensaustausch im Team mithilfe von Azure-Projekt-Wikis\n\nNach Abschluss dieses Moduls können die Schüler:\n- Verwalten der Codequalität, einschließlich technischer Schulden, SonarCloud und anderer Tools\n- Aufbau von Organisationswissen über die Codequalität\n\n\n### <a name=\"module-458-working-with-git-for-enterprise-devops\"></a>Modul 4: Arbeiten mit Git für DevOps in Unternehmen\n#### <a name=\"lessons\"></a>Lektionen\n- Strukturieren von Git-Repositorys\n- Verzweigte Git-Workflows\n- Zusammenarbeit mit Pull Requests in Azure Repos\n- Gründe für die Verwendung von Git-Hooks\n- Fördern des Inner-Source-Ansatzes\n- Verwalten von Git-Repositorys\n\n#### <a name=\"lab-58-version-controlling-with-git-in-azure-repos\"></a>Lab: Versionskontrolle mit Git in Azure Repos\n\nNach Abschluss dieses Moduls können die Schüler:\n- Erläutern der Strukturierung von Git-Repositorys \n- Beschreiben von verzweigten Git-Workflows\n- Nutzen von Pull Requests für Zusammenarbeit und Codeüberprüfungen \n- Nutzen von Git-Hooks für die Automatisierung \n- Verwenden von Git zum Fördern des Inner-Source-Ansatzes innerhalb einer Organisation\n\n\n### <a name=\"module-558-configuring-azure-pipelines\"></a>Modul 5: Konfigurieren von Azure Pipelines\n#### <a name=\"lessons\"></a>Lektionen\n- Das Konzept von Pipelines in DevOps\n- Azure Pipelines\n- Bewerten der Verwendung von gehosteten Agents im Vergleich zu selbstgehosteten Agents\n- Agentpools\n- Pipelines und Nebenläufigkeit\n- Azure DevOps und Open-Source-Projekte (öffentliche Projekte)\n- Azure Pipelines-YAML und Visual Designer im Vergleich\n\n#### <a name=\"lab-58-configuring-agent-pools-and-understanding-pipeline-styles\"></a>Lab: Konfigurieren von Agent-Pools und Verstehen von Pipelinearten\n\nNach Abschluss dieses Moduls können die Schüler:\n- Erläutern der Rolle von Azure Pipelines und seiner Komponenten\n- Konfigurieren von Agents für die Verwendung in Azure Pipelines\n\n\n### <a name=\"module-658-implementing-continuous-integration-using-azure-pipelines\"></a>Modul 6: Implementieren von Continuous Integration (CI) mit Azure Pipelines\n#### <a name=\"lessons\"></a>Lektionen\n- Übersicht über Continuous Integration (CI)\n- Implementieren einer Buildstrategie\n- Integration in Azure Pipelines\n- Integrieren einer externen Quellcodeverwaltung mit Azure Pipelines\n- Einrichten von selbstgehosteten Agents\n\n#### <a name=\"lab-58-enabling-continuous-integration-with-azure-pipelines\"></a>Lab : Aktivieren von Continuous Integration (CI) mit Azure Pipelines\n\n#### <a name=\"lab-58-integrating-external-source-control-with-azure-pipelines\"></a>Lab: Integrieren einer externen Quellcodeverwaltung mit Azure Pipelines\n\nNach Abschluss dieses Moduls können die Schüler:\n- Erklären, warum kontinuierliche Integration wichtig ist \n- Implementieren von CI (Continuous Integration) mit Azure Pipelines\n\n\n### <a name=\"module-758-managing-application-configuration-and-secrets\"></a>Modul 7: Verwalten von Anwendungskonfiguration und Geheimnissen\n#### <a name=\"lessons\"></a>Lektionen\n- Einführung in Sicherheit\n- Implementieren eines sicheren Entwicklungsprozesses\n- Überdenken der Anwendungskonfigurationsdaten\n- Verwalten von Geheimnissen, Token und Zertifikaten\n- Integration in Identitätsverwaltungssysteme\n- Implementieren der Anwendungskonfiguration\n\n#### <a name=\"lab-58-integrating-azure-key-vault-with-azure-devops\"></a>Lab: Integrieren von Azure Key Vault in Azure DevOps\n\nNach Abschluss dieses Moduls können die Schüler:\n- Verwalten von Anwendungskonfiguration und Geheimnissen\n- Integrieren von Azure Key Vault in eine Pipeline \n\n\n### <a name=\"module-858-implementing-continuous-integration-with-github-actions\"></a>Modul 8: Implementieren von Continous Integration (CI) mit GitHub Actions\n#### <a name=\"lessons\"></a>Lektionen\n- GitHub Actions\n- Continuous Integration (CI) mit GitHub Actions\n- Schützen von Geheimnissen für GitHub Actions\n\n#### <a name=\"lab-58-github-actions-continuous-integration\"></a>Lab: GitHub Actions für Continuous Integration (CI)\n\nNach Abschluss dieses Moduls können die Schüler:\n- Erstellen von und Arbeiten mit GitHub Actions und Workflows\n- Implementieren von Continuous Integration (CI) mit GitHub Actions\n\n\n### <a name=\"module-958-designing-and-implementing-a-dependency-management-strategy\"></a>Modul 9: Entwerfen und Implementieren einer Strategie für die Abhängigkeitsverwaltung\n#### <a name=\"lessons\"></a>Lektionen\n- Paketabhängigkeiten\n- Verwalten von Paketen\n- Migrieren und Konsolidieren von Artefakten\n- Paketsicherheit\n- Implementieren einer Versionsverwaltungsstrategie\n\n#### <a name=\"lab-58-package-management-with-azure-artifacts\"></a>Lab: Paketverwaltung mit Azure Artifacts\n\nNach Abschluss dieses Moduls können die Schüler:\n- Empfehlen der Artefakt Managementtools und Praktiken\n- Abstrahieren von common packages zur aktivierung von sharing und wiederverwendung\n- Artifakte migrieren und konsolidieren\n- Source-Kontrollmaßnahmen migrieren und integrieren\n\n\n### <a name=\"module-1058-designing-a-release-strategy\"></a>Modul 10: Entwerfen einer Releasestrategie\n#### <a name=\"lessons\"></a>Lektionen\n- Einführung in Continuous Delivery (CD)\n- Empfehlungen für eine Releasestrategie\n- Aufbau einer qualitativ hochwertigen Releasepipeline\n- Auswählen des richtigen Tools für die Releaseverwaltung\n\n#### <a name=\"lab-58-controlling-deployments-using-release-gates\"></a>Lab: Steuern von Bereitstellungen mithilfe von Releasegates\n\n#### <a name=\"lab-58-creating-a-release-dashboard\"></a>Lab: Erstellen eines Releasedashboards\n\nNach Abschluss dieses Moduls können die Schüler:\n- Zwischen Freigabe und Bereitstellung unterscheiden\n- Komponenten der Freigabe-Pipeline definieren\n- Wichtige Überlegungen für die Erstellung einer Freigabestrategie erklären\n- Klassifizieren eines Release im Vergleich zu einem Releaseprozess und Erläutern, wie die Qualität beider Prozesse kontrolliert werden kann\n- Beschreiben des Prinzips der Releasegates beschreiben und wie man mit Versionshinweisen und Dokumentation umgeht\n- Freigabe-Managementtool auswählen\n\n\n### <a name=\"module-1158-implementing-continuous-deployment-using-azure-pipelines\"></a>Modul 11: Implementieren von Continuous Deployment (CD) mit Azure Pipelines\n#### <a name=\"lessons\"></a>Lektionen\n- Erstellen einer Releasepipeline\n- Bereitstellen und Konfigurieren von Umgebungen\n- Verwalten und Modularisieren von Aufgaben und Vorlagen\n- Konfigurieren einer automatisierten Integration und Funktionstestautomatisierung\n- Automatisieren der Integritätsprüfung\n\n#### <a name=\"lab-58-configuring-pipelines-as-code-with-yaml\"></a>Lab: Konfigurieren von Pipelines-as-Code mit YAML\n\n#### <a name=\"lab-58-setting-up-and-running-functional-tests\"></a>Lab: Einrichten und Ausführen von Funktionstests\n\nNach Abschluss dieses Moduls können die Schüler:\n- Terminologie erklären, die in Azure-DevOps und anderen Freigabe-Managementtools verwendet wird\n- Erklären, was Build- und Freigabe-Aufgaben sind, was sie können und einige verfügbare Bereitstellungsaufgaben\n- Erklären, warum zuweilen mehrere Freigabeaufträge in einer Freigabe-Pipeline benötigt werden\n- Zwischen Multi-Agent und Multi-Konfigurations-Freigabeauftrag unterscheiden\n- Freigabe-Variablen und Stufen-Variablen in der Freigabe-Pipeline verwenden\n- Eine Umgebung sicher durch eine Serviceverbindung bereitstellen\n- Die verschiedenen Möglichkeiten auflisten, den Zustand Ihrer Pipeline und die Freigabe mit Hilfe von Warnungen, Service-Hooks und Berichten zu überprüfen.\n\n\n### <a name=\"module-1258-implementing-an-appropriate-deployment-pattern\"></a>Modul 12: Implementieren eines geeigneten Bereitstellungsmusters\n#### <a name=\"lessons\"></a>Lektionen\n- Einführung in Bereitstellungsmuster\n- Implementieren einer Blau-Grün-Bereitstellung\n- Feature Toggles\n- Canary-Releases\n- Dark Launching\n- A/B-Test\n- Bereitstellung mit progressiver Exposition\n\n#### <a name=\"lab-58-feature-flag-management-with-launchdarkly-and-azure-devops\"></a>Lab: Verwalten von Featureflags mit LaunchDarkly und Azure DevOps\n\nNach Abschluss dieses Moduls können die Schüler:\n- Bereitstellungsmuster beschreiben\n- Implementieren einer Blau-Grün-Bereitstellung\n- Canary-Freigabe umsetzen\n- Implementieren einer progressiven Belastungs-Bereitstellung\n\n\n### <a name=\"module-1358-managing-infrastructure-and-configuration-using-azure-tools\"></a>Modul 13: Verwalten von Infrastruktur und Konfiguration mithilfe von Azure-Tools\n#### <a name=\"lessons\"></a>Lektionen\n- Infrastructure-as-Code (IaC) und Konfigurationsverwaltung\n- Erstellen von Azure-Ressourcen mithilfe von ARM-Vorlagen\n- Erstellen von Azure-Ressourcen mit der Azure CLI\n- Azure Automation mit DevOps\n- Konfigurieren des gewünschten Zustands (Desired State Configuration, DSC)\n\n#### <a name=\"lab-58-azure-deployments-using-resource-manager-templates\"></a>Lab: Azure-Bereitstellungen mithilfe von Resource Manager-Vorlagen\n\nNach Abschluss dieses Moduls können die Schüler:\n- Infrastruktur und Konfiguration als Code-Richtlinien anwenden.\n- Infrastruktur mit Microsoft Automatisierungstechnologien, wie z.B. ARM-Vorlagen, PowerShell und Azure CLI bereitstellen und verwalten \n\n\n### <a name=\"module-1458-third-party-infrastructure-as-code-tools-available-with-azure\"></a>Modul 14: In Azure verfügbare IaC-Tools (Infrastructure-as-Code) von Drittanbietern\n#### <a name=\"lessons\"></a>Lektionen\n- Chef\n- Puppet\n- Ansible\n- Terraform\n\n#### <a name=\"lab-58-automating-infrastructure-deployments-in-the-cloud-with-terraform-and-azure-pipelines\"></a>Lab: Automatisieren von Infrastrukturbereitstellungen in der Cloud mit Terraform und Azure Pipelines\n\n#### <a name=\"lab-58-deploying-apps-with-chef-on-azure\"></a>Lab: Bereitstellen von Apps mit Chef in Azure\n\n#### <a name=\"lab-58-deploy-app-with-puppet-on-azure\"></a>Lab: Bereitstellen von Apps mit Puppet in Azure\n\n#### <a name=\"lab-58-ansible-with-azure\"></a>Lab: Ansible mit Azure\n\nNach Abschluss dieses Moduls können die Schüler:\n- Bereitstellen und Konfigurieren der Infrastruktur mit Tools und Diensten von Drittanbietern, z. B. Azure, Chef, Puppet, Ansible und Terraform\n\n\n### <a name=\"module-1558-managing-containers-using-docker\"></a>Modul 15: Verwalten von Containern mithilfe von Docker\n#### <a name=\"lessons\"></a>Lektionen\n- Implementieren einer Containerbuildstrategie\n- Verwenden von mehrstufigen Docker-Builds\n\n#### <a name=\"lab-58-modernizing-existing-aspnet-apps-with-azure\"></a>Lab: Modernisieren vorhandener ASP.NET-Apps mit Azure\n\nNach Abschluss dieses Moduls können die Schüler:\n- Eine Container-Strategie umsetzen, einschließlich der Unterschiede zwischen Containern und virtuellen Maschinen und der Verwendung von Containern durch Microservices\n- Container mit Docker umsetzen\n- Implementieren von mehrstufigen Docker-Builds\n\n\n### <a name=\"module-1658-creating-and-managing-kubernetes-service-infrastructure\"></a>Modul 16: Erstellen und Verwalten der Kubernetes Service-Infrastruktur\n#### <a name=\"lessons\"></a>Lektionen\n- Azure Kubernetes Service\n- Kubernetes-Tools\n- Integrieren von AKS in Pipelines\n\n#### <a name=\"lab-58-deploying-a-multi-container-application-to-azure-kubernetes-service\"></a>Bereitstellen einer Anwendung mit mehreren Containern in Azure Kubernetes Service\n\nNach Abschluss dieses Moduls können die Schüler:\n- Verwaltete Kubernetes-Cluster bereitstellen und konfigurieren \n\n\n\n### <a name=\"module-1758-implementing-feedback-for-development-teams\"></a>Modul 17: Implementieren von Feedback für die Entwicklungteams\n#### <a name=\"lessons\"></a>Lektionen\n- Implementieren von Tools zur Verfolgung von Systemnutzung, Featurenutzung und Datenfluss\n- Implementieren des Routings für Absturzberichtsdaten von Mobilanwendungen\n- Entwickeln von Überwachungs- und Statusdashboards\n- Integrieren und Konfigurieren von Ticketsystemen\n\n#### <a name=\"lab-58-monitoring-application-performance-with-application-insights\"></a>Lab: Überwachen der Anwendungsleistung mit Application Insights\n\nNach Abschluss dieses Moduls können die Schüler:\n- Tools anwenden, die die Systemnutzung, Funktionsnutzung und den Fluss verfolgen\n- Konfigurieren der Crash Report-Integration für Client Apps\n- Implementierung eines Routings für die Daten des Crash-Berichts der Client-Anwendung\n- Entwickeln von Überwachungs- und Statusdashboards\n- Integration und Konfiguration von Ticketingsystemen mit dem Arbeitsmanagementsystem des Entwicklungsteams\n\n\n### <a name=\"module-1858-implementing-system-feedback-mechanisms\"></a>Modul 18: Implementieren von Mechanismen für Systemfeedback\n#### <a name=\"lessons\"></a>Lektionen\n- Websitezuverlässigkeits-Engineering (Site Reliability Engineering)\n- Entwurfsmethoden zum Messen der Endbenutzerzufriedenheit\n- Entwerfen von Prozessen zum Erfassen und Analysieren von Benutzerfeedback\n- Entwurfsprozesse zur Automatisierung der Anwendungsanalyse\n- Verwalten von Warnungen\n- Vorwurfsfreie Nachbesprechungen und Fairnesskultur\n\n#### <a name=\"lab-58-integration-between-azure-devops-and-teams\"></a>Lab: Integration zwischen Azure DevOps und Teams\n\nNach Abschluss dieses Moduls können die Schüler:\n- Definieren von Site Reliability Engineering (SRE)\n- Entwurfsprozesse zum Messen der Endbenutzerzufriedenheit und Analysieren von Benutzerfeedback\n- Entwurfsprozesse zur Automatisierung der Anwendungsanalyse\n- Verwalten von Warnmeldungen und Reduzieren von unnötigen und nicht relevanten Warnmeldungen\n- Durchführen von Nachbesprechungen ohne Schuldzuweisungen und Schaffung einer Fairnesskultur\n\n\n### <a name=\"module-1958-implementing-security-in-devops-projects\"></a>Modul 19: Implementieren von Sicherheit in DevOps Projects\n#### <a name=\"lessons\"></a>Lektionen\n- Sicherheit in der Pipeline\n- Azure Security Center\n\n#### <a name=\"lab-58-implement-security-and-compliance-in-an-azure-devops-pipeline\"></a>Lab: Implementieren von Sicherheit und Compliance in einer Azure DevOps-Pipeline\n\nNach Abschluss dieses Moduls können die Schüler:\n- Infrastruktur und Konfigurationsstrategien und die richtigen Werkzeuge für eine Freigabepipeline und Anwendungsinfrastruktur definieren\n- Compliance und Sicherheit in Ihre Anwendungsinfrastruktur implementieren\n\n\n\n### <a name=\"module-2058-validating-code-bases-for-compliance\"></a>Modul 20: Überprüfen der Codebasis auf Konformität\n#### <a name=\"lessons\"></a>Lektionen\n- Open-Source-Software\n- Verwalten von Sicherheits- und Konformitätsrichtlinien\n- Integrieren von Lizenz- und Sicherheitsrisikoüberprüfungen\n\n#### <a name=\"lab-58-managing-technical-debt-with-sonarqube-and-azure-devops\"></a>Lab: Verwalten technischer Schulden mit SonarQube und Azure DevOps\n\nNach Abschluss dieses Moduls können die Schüler:\n- Beschreiben der potenziellen Herausforderungen bei der Integration von Open-Source-Software\n- Überprüfen von Open-Source-Softwarepaketen auf Sicherheit und Lizenzkonformität\n- Verwalten von Sicherheits- und Compliancerichtlinien der Organisation\n- Integrieren von Lizenz- und Sicherheitsrisikoüberprüfungen in Build- und Bereitstellungspipelines\n- Konfigurieren von Buildpipelines für den Zugriff auf Paketsicherheits- und Lizenzbewertung"
+prerequisitesSection: >-
+  Erfolgreiche Kursteilnehmer verfügen über die folgenden Vorkenntnisse und Kenntnisse:&nbsp;
+   * Verständnis von Cloud Computing-Konzepten, einschließlich PaaS-, SaaS- und IaaS-Implementierungen
+   * Erfahrung in Bezug auf Azure-Verwaltung und Azure-Entwicklung mit nachgewiesenen Kenntnissen in mindestens einem dieser Bereiche
+   * Kenntnisse in Bezug auf Versionskontrolle, agile Softwareentwicklung und die wichtigsten Prinzipien der Softwareentwicklung Erfahrung in einer Organisation, die Software bereitstellt, ist hilfreich.&nbsp;Wenn Sie noch nicht mit Azure und Cloud Computing arbeiten, sollten Sie eine der folgenden Ressourcen in Betracht ziehen:&nbsp;
+   * Kostenloser Onlinekurs: Azure Fundamentals ([https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/))&nbsp;
+   * Präsenzkurs: AZ-900: Azure Fundamentals ([https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01](https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01)) Wenn Sie noch nicht mit der Azure-Verwaltung arbeiten, sollten Sie die folgenden Kurse erwägen:
+   * Kostenloser Onlinekurs: Prerequisites for Azure Administrators ([https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/))
+   * Präsenzkurs: AZ-104: Microsoft Azure Administrator ([https://docs.microsoft.com/en-us/learn/certifications/courses/az-104t00](https://docs.microsoft.com/en-us/learn/certifications/courses/az-104t00)) und &nbsp;AZ-010: Azure Administration for AWS SysOps ([https://docs.microsoft.com/en-us/learn/certifications/courses/az-010t00](https://docs.microsoft.com/en-us/learn/certifications/courses/az-010t00)) Wenn Sie noch nicht mit Azure Developer arbeiten, sollten Sie die folgenden Kurse erwägen:
+   * Kostenloser Onlinekurs: Create serverless applications ([https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/))
+   * Präsenzkurs: AZ-204: Developing Solutions for Microsoft Azure ([https://docs.microsoft.com/en-us/learn/certifications/courses/az-204t00](https://docs.microsoft.com/en-us/learn/certifications/courses/az-204t00)) und &nbsp;AZ-020: Microsoft Azure Solutions for AWS Developers ([https://docs.microsoft.com/en-us/learn/certifications/courses/az-020t00](https://docs.microsoft.com/en-us/learn/certifications/courses/az-020t00))
+outlineSection: >-
+  ### <a name="module-1-get-started-on-a-devops-transformation-journey"></a>Modul 1: Erste Schritte zur DevOps-Transformation
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Einführung in DevOps
+
+
+  *   Auswählen des richtigen Projekts
+
+
+  *   Beschreiben von Teamstrukturen
+
+
+  *   Migrieren zu DevOps
+
+
+  *   Einführung in die Quellcodeverwaltung
+
+
+  *   Beschreiben von Typen von Quellcodeverwaltungssystemen
+
+
+  *   Arbeiten mit Azure Repos und GitHub
+
+
+
+  #### <a name="lab--agile-planning-and-portfolio-management-with-azure-boards"></a>Lab: Agile Planung und Portfoliomanagement mit Azure Boards
+
+
+  ####
+
+
+  #### <a name="lab--version-controlling-with-git-in-azure-repos"></a>Lab: Versionskontrolle mit Git in Azure Repos
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Verstehen, was DevOps ist und welche Schritte erforderlich sind, um DevOps zu erreichen
+
+
+  *   Identifizieren von Teams für die Implementierung des Prozesses
+
+
+  *   Planen der Transformation mit gemeinsamen Zielen und Zeitplänen
+
+
+  *   Planen und Definieren von Zeitplänen für Ziele
+
+
+  *   Verstehen der verschiedenen Projekte und Systeme als Einstieg in die Journey
+
+
+  *   Auswählen eines Projekts zum Starten der DevOps-Transformation
+
+
+  *   Identifizieren von Gruppen zum Minimieren anfänglicher Widerstände
+
+
+  *   Identifizieren von Projektmetriken und Key Performance Indicators (KPI)
+
+
+  *   Grundlegendes zu agilen Verfahren und Prinzipien der agilen Entwicklung
+
+
+  *   Erstellen eines Teams und einer agilen Organisationsstruktur
+
+
+
+  ### <a name="module-2-work-with-git-for-enterprise-devops"></a>Modul 2: Arbeiten mit Git für DevOps in Unternehmen
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Strukturieren Ihres Git-Repositorys
+
+
+  *   Verwalten von Git-Verzweigungen und -Workflows
+
+
+  *   Zusammenarbeiten über Pull Requests in Azure Repos
+
+
+  *   Erkunden von Git-Hooks
+
+
+  *   Planen der Förderung der inneren Quelle
+
+
+  *   Git-Repositorys verwalten
+
+
+
+  #### <a name="lab--version-controlling-with-git-in-azure-repos"></a>Lab: Versionskontrolle mit Git in Azure Repos
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Grundlegendes zu Git-Repositorys
+
+
+  *   Implementieren eines Monorepositorys oder mehrerer Repositorys
+
+
+  *   Erläutern der Strukturierung von Git-Repositorys
+
+
+  *   Implementieren eines Änderungsprotokolls
+
+
+  *   Beschreiben von Git-Verzweigungsworkflows
+
+
+  *   Implementieren von Featurebranches
+
+
+  *   Implementieren von GitFlow
+
+
+  *   Forken eines Repositorys
+
+
+  *   Nutzen von Pull Requests für Zusammenarbeit und Codeüberprüfungen
+
+
+  *   Senden von Feedback mithilfe von Pull Requests
+
+
+
+  ### <a name="module-3-implement-ci-with-azure-pipelines-and-github-actions"></a>Modul 3: Implementieren von CI mit Azure Pipelines und GitHub Actions
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Erkunden von Azure Pipelines
+
+
+  *   Verwalten von Azure Pipeline-Agents und Agentpools
+
+
+  *   Beschreiben von Pipelines und Parallelität
+
+
+  *   Erkunden von Continuous Integration
+
+
+  *   Implementieren einer Pipelinestrategie
+
+
+  *   Integration in Azure Pipelines
+
+
+  *   Einführung in GitHub-Aktionen
+
+
+  *   Informationen zu Continuous Integration (CI) mit GitHub Actions
+
+
+
+  #### <a name="lab--configuring-agent-pools-and-understanding-pipeline-styles"></a>Lab: Konfigurieren von Agent-Pools und Verstehen von Pipelinearten
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Beschreiben von Azure Pipelines
+
+
+  *   Erläutern der Rolle von Azure Pipelines und seiner Komponenten
+
+
+  *   Entscheiden über die Zuständigkeit für die Pipelineautomatisierung
+
+
+  *   Grundlegendes zu Azure Pipeline-Schlüsselbegriffen
+
+
+  *   Auswählen zwischen von Microsoft gehosteten und selbstgehosteten Agents
+
+
+  *   Installieren und Konfigurieren von Azure Pipelines-Agents
+
+
+  *   Konfigurieren von Agentpools
+
+
+  *   Schützen der Agents und Pools
+
+
+  *   Verwenden und Schätzen von Parallelaufträgen
+
+
+
+  ### <a name="module-4-design-and-implement-a-release-strategy"></a>Modul 4: Entwerfen und Implementieren einer Releasestrategie
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Einführung in Continuous Delivery (CD)
+
+
+  *   Kennenlernen der Empfehlungen für eine Releasestrategie
+
+
+  *   Erstellen einer qualitativ hochwertigen Releasepipeline
+
+
+  *   Einführung in Bereitstellungsmuster
+
+
+  *   Implementieren von Blau-Grün-Bereitstellung und Feature Toggles
+
+
+  *   Implementieren von Canary-Releases und Dark Launching
+
+
+  *   Implementieren von A/B-Tests und der fortlaufenden Bereitstellung
+
+
+
+  #### <a name="lab--controlling-deployments-using-release-gates"></a>Lab: Steuern von Bereitstellungen mithilfe von Releasegates
+
+
+  ####
+
+
+  #### <a name="lab--creating-a-release-dashboard"></a>Lab: Erstellen eines Releasedashboards
+
+
+  ####
+
+
+  #### <a name="lab--feature-flag-management-with-launchdarkly-and-azure-devops"></a>Lab: Verwalten von Featureflags mit LaunchDarkly und Azure DevOps
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erläutern der Continuous Delivery-Konzepte
+
+
+  *   Implementieren von Continuous Delivery in dem Entwicklungszyklus
+
+
+  *   Informationen zu Releases und Bereitstellungen
+
+
+  *   Identifizieren von Projektmöglichkeiten zum Anwenden von CD
+
+
+  *   Erläutern, was beim Entwerfen einer Releasestrategie zu berücksichtigen ist
+
+
+  *   Definieren der Komponenten einer Releasepipeline und Verwenden von Artefaktquellen
+
+
+  *   Erstellen eines Releasegenehmigungsplans
+
+
+  *   Implementieren von Release Gates
+
+
+  *   Zwischen Freigabe und Bereitstellung unterscheiden
+
+
+
+  ### <a name="module-5-implement-a-secure-continuous-deployment-using-azure-pipelines"></a>Modul 5: Implementieren eines sicheren Continuous-Deployment-Prozesses mit Azure Pipelines
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Erstellen einer Releasepipeline
+
+
+  *   Konfigurieren und Bereitstellen von Umgebungen
+
+
+  *   Verwalten und Modularisieren von Aufgaben und Vorlagen
+
+
+  *   Automatisieren der Integritätsprüfung
+
+
+  *   Einführung in den sicheren Entwicklungsprozess
+
+
+  *   Verwalten von Anwendungskonfigurationsdaten
+
+
+  *   Integration mit Identitätsverwaltungssystemen
+
+
+  *   Implementieren der Anwendungskonfiguration
+
+
+
+  #### <a name="lab--integrating-azure-key-vault-with-azure-devops"></a>Lab: Integrieren von Azure Key Vault mit Azure DevOps
+
+
+  ####
+
+
+  #### <a name="lab--setting-up-and-running-functional-tests"></a>Lab: Einrichten und Ausführen von Funktionstests
+
+
+  ####
+
+
+  #### <a name="lab--configuring-pipelines-as-code-with-yaml"></a>Lab: Konfigurieren von Pipelines-as-Code mit YAML
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Terminologie erklären, die in Azure-DevOps und anderen Freigabe-Managementtools verwendet wird
+
+
+  *   Beschreiben, was Build- und Releaseaufgaben sind, was sie können und einige verfügbare Bereitstellungsaufgaben
+
+
+  *   Implementieren von Releaseaufträgen
+
+
+  *   Unterscheiden zwischen Multi-Agent- und Multi-Konfigurations-Releaseaufträgen
+
+
+  *   Bereitstellen und Konfigurieren der Zielumgebung
+
+
+  *   Sicheres Bereitstellen in einer Umgebung mithilfe einer Dienstverbindung
+
+
+  *   Konfigurieren der Automatisierung von Funktionstests und Ausführen von Verfügbarkeitstests
+
+
+  *   Einrichten der Testinfrastruktur
+
+
+  *   Verwenden und Verwalten von Aufgaben- und Variablengruppen
+
+
+
+  ### <a name="module-6-manage-infrastructure-as-code-using-azure-dsc-and-third-party-tools"></a>Modul 6: Verwalten von Infrastructure-as-Code mithilfe von Azure, DSC und Drittanbietertools
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Erkunden von Infrastructure-as-Code und Konfigurationsverwaltung
+
+
+  *   Erstellen von Azure-Ressourcen mithilfe von Azure Resource Manager-Vorlagen
+
+
+  *   Erstellen von Azure-Ressourcen mit der Azure CLI
+
+
+  *   Erkunden von Azure Automation mit DevOps
+
+
+  *   Implementieren von Desired State Configuration (DSC)
+
+
+  *   Einführung in Chef und Puppet
+
+
+  *   Implementieren von Ansible
+
+
+  *   Implementieren von Terraform
+
+
+
+  #### <a name="lab--deployments-using-azure-resource-manager-templates"></a>Lab: Bereitstellungen mithilfe von Azure Resource Manager-Vorlagen
+
+
+  ####
+
+
+  #### <a name="lab--ansible-with-azure"></a>Lab: Ansible mit Azure
+
+
+  ####
+
+
+  #### <a name="lab--automating-infrastructure-deployments-in-the-cloud-with-terraform-and-azure-pipelines"></a>Lab: Automatisieren von Infrastrukturbereitstellungen in der Cloud mit Terraform und Azure Pipelines
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Grundlegendes zum Bereitstellen Ihrer Umgebung
+
+
+  *   Planen Ihrer Umgebungskonfiguration
+
+
+  *   Auswählen zwischen imperativer und deklarativer Konfiguration
+
+
+  *   Erläutern der idempotenten Konfiguration
+
+
+  *   Erstellen von Azure-Ressourcen mithilfe von ARM-Vorlagen
+
+
+  *   Verstehen von ARM-Vorlagen und Vorlagenkomponenten
+
+
+  *   Verwalten von Abhängigkeiten und Geheimnissen in Vorlagen
+
+
+  *   Organisieren und Modularisieren von Vorlagen
+
+
+  *   Erstellen von Azure-Ressourcen mit der Azure CLI
+
+
+
+  ### <a name="module-7-design-and-implement-a-dependency-management-strategy"></a>Modul 7: Entwerfen und Implementieren einer Strategie für die Abhängigkeitsverwaltung
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Erkunden von Paketabhängigkeiten
+
+
+  *   Grundlegendes zur Paketverwaltung
+
+
+  *   Migrieren, Konsolidieren und Sichern von Artefakten
+
+
+  *   Implementieren einer Versionsverwaltungsstrategie
+
+
+
+  #### <a name="lab--package-management-with-azure-artifacts"></a>Lab: Paketverwaltung mit Azure Artifacts
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Strategien zur Abhängigkeitsverwaltung definieren
+
+
+  *   Ermitteln von Abhängigkeiten
+
+
+  *   Elemente und Komponentisierung der Abhängigkeitsverwaltung beschreiben
+
+
+  *   Ihre Codebasis auf Abhängigkeiten überprüfen
+
+
+  *   Implementieren der Paketverwaltung
+
+
+  *   Verwalten von Paketfeeds
+
+
+  *   Verwenden und Erstellen von Paketen
+
+
+  *   Veröffentlichen von Paketen
+
+
+  *   Identifizieren von Artefaktrepositorys
+
+
+  *   Migrieren und Integrieren von Artefaktrepositorys
+
+
+
+  ### <a name="module-8-create-and-manage-containers-using-docker-and-kubernetes"></a>Modul 8: Erstellen und Verwalten von Containern mit Docker und Kubernetes
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Entwerfen einer Strategie zur Containererstellung
+
+
+  *   Implementieren mehrstufiger Docker-Builds
+
+
+  *   Implementieren von Azure Kubernetes Service (AKS)
+
+
+  *   Erkunden von Kubernetes-Tools
+
+
+  *   Integrieren von AKS mit Pipelines
+
+
+
+  #### <a name="lab--deploying-docker-containers-to-azure-app-service-web-apps"></a>Lab: Bereitstellen von Docker-Containern für Azure App Service-Web-Apps
+
+
+  ####
+
+
+  #### <a name="lab--deploying-a-multi-container-application-to-azure-kubernetes-services"></a>Lab: Bereitstellen einer Anwendung mit mehreren Containern in Azure Kubernetes Service
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Entwerfen einer Containerstrategie
+
+
+  *   Arbeiten mit Docker-Containern
+
+
+  *   Erstellen einer Azure-Containerregistrierung
+
+
+  *   Erläutern von Docker-Microservices und -Containern
+
+
+  *   Implementieren mehrstufiger Builds mit Docker
+
+
+  *   Grundlegendes zu Buildmustern
+
+
+  *   Verwalten mehrerer Projekte und Projektlösungen
+
+
+  *   Hinzufügen von Docker-Unterstützung zu einer vorhandenen Anwendung
+
+
+  *   Implementieren von Azure Kubernetes Service (AKS)
+
+
+  *   Bereitstellen und Herstellen einer Verbindung mit einem AKS-Cluster
+
+
+
+  ### <a name="module-9-implement-continuous-feedback"></a>Modul 9: Implementieren eines kontinuierlichen Feedbacks
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Implementieren von Tools zum Nachverfolgen von Verbrauch und Flow
+
+
+  *   Implementieren der Route für Absturzberichtsdaten mobiler Anwendungen
+
+
+  *   Entwickeln von Überwachungs- und Statusdashboards
+
+
+  *   Teilen von Wissen innerhalb von Teams
+
+
+  *   SRE und Entwurfsmethoden zum Messen der Endbenutzerzufriedenheit
+
+
+  *   Entwerfen von Prozessen zum Erfassen und Analysieren von Benutzerfeedback
+
+
+  *   Entwurfsprozesse zur Automatisierung der Anwendungsanalyse
+
+
+  *   Verwalten von Warnungen, vorwurfsfreien Nachbesprechungen und einer Fairnesskultur
+
+
+
+  #### <a name="lab--integration-between-azure-devops-and-microsoft-teams"></a>Lab: Integration zwischen Azure DevOps und Microsoft Teams
+
+
+  ####
+
+
+  #### <a name="lab--monitoring-application-performance-with-application-insights"></a>Lab: Überwachen der Anwendungsleistung mit Application Insights
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Implementieren von Tools zum Nachverfolgen von Feedback
+
+
+  *   Planen der kontinuierlichen Überwachung
+
+
+  *   Implementieren von Application Insights
+
+
+  *   Verwenden der Kusto-Abfragesprache (KQL)
+
+
+  *   Implementieren des Routings für mobile Anwendungen
+
+
+  *   Konfigurieren der App Center-Diagnose
+
+
+  *   Konfigurieren von Warnungen
+
+
+  *   Erstellen eines Bugtrackers
+
+
+  *   Konfigurieren von Azure Dashboards
+
+
+  *   Verwenden des Ansichts-Designers in Azure Monitor
+
+
+
+  ### <a name="module-10-implement-security-and-validate-code-bases-for-compliance"></a>Modul 10: Implementieren der Sicherheit und Überprüfen von Codebasen auf Compliance
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Grundlegendes zur Sicherheit in der Pipeline
+
+
+  *   Einführung in Azure Security Center
+
+
+  *   Implementieren von Open-Source-Software
+
+
+  *   Verwalten von Richtlinien für Antischadsoftware und Spamschutz
+
+
+  *   Integrieren von Lizenz- und Sicherheitsrisikoüberprüfungen
+
+
+  *   Identifizieren technischer Schulden
+
+
+
+  #### <a name="lab--implement-security-and-compliance-in-azure-devops-pipelines"></a>Lab: Implementieren von Sicherheit und Compliance in Azure DevOps-Pipelines
+
+
+  ####
+
+
+  #### <a name="lab--managing-technical-debt-with-sonarqube-and-azure-devops"></a>Lab: Verwalten technischer Schulden mit SonarQube und Azure DevOps
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Integrieren von Sicherheitstools wie WhiteSource, Micro Focus, Checkmarx und Veracode in Azure DevOps
+
+
+  *   Implementieren von Pipelinesicherheit
+
+
+  *   Verwenden des Secure DevOps Kit für Azure (AzSK)
+
+
+  *   Konfigurieren von Azure Security Center
+
+
+  *   Verstehen von Azure-Richtlinien
+
+
+  *   Beschreiben von Initiativen, Ressourcensperren und Azure Blueprints
+
+
+  *   Arbeiten mit Azure Advanced Threat Protection (ATP)
+
+
+  *   Implementieren von Open-Source-Software
+
+
+  *   Erläutern von Bedenken seitens Unternehmen hinsichtlich Open-Source-Komponenten

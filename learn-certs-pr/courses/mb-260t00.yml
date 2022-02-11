@@ -1,0 +1,257 @@
+### YamlMime:Course
+title: Microsoft Customer Data Platform Specialty
+metadata:
+  title: 'Kurs MB-260T00-A: Microsoft Customer Data Platform Specialty'
+  description: 'Kurs MB-260T00-A: Microsoft Customer Data Platform Specialty'
+  ms.openlocfilehash: 0e3ce48dd1081682069e8430862ac353d7093227
+  ms.sourcegitcommit: 7e6fc74e4763408d05db0d7f5b43abda1533e6e7
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 02/04/2022
+  ms.locfileid: "138018905"
+uid: course.mb-260t00
+courseNumber: MB-260T00
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Bereinigen, Transformieren und Erfassen von Daten in Dynamics 365 for Customer Insights
+- skill: Erstellen eines einheitlichen Kundenprofils
+- skill: Arbeiten mit Dynamics 365 Audience Insights
+- skill: Anreichern von Daten und Vorhersagen
+- skill: Einrichten und Verwalten externer Verbindungen
+- skill: Verwalten und Überwachen von Customer Insights
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- azure
+exams:
+- uid: exam.mb-260
+summary: >-
+  Customer Data Platform Specialists implementieren Lösungen, die Einblick in Kundenprofile gewähren und mit denen Kundenbindungsaktivitäten nachverfolgt werden können, sodass die Nutzung für Kund*innen verbessert und die Kundenbindung gesteigert werden kann. In diesem Kurs erfahren die Teilnehmer*innen mehr über die Dynamics 365 for Customer Insights-Lösung. Dazu gehört auch, wie Kundendaten mit vordefinierten Connectors vereinheitlicht, Kundenabsichten mit einer umfangreichen Segmentierung vorhergesagt und die Kontrolle über Kundendaten behalten wird. Dieser Expertenkurs beginnt damit, ein einheitliches Profil zu erstellen und dann mit Kundendaten zu arbeiten.
+
+
+  #### <a name="audience-profile"></a>Zielgruppenprofil
+
+
+  Kandidat*innen sollten mit Dynamics 365 for Customer Insights vertraut sein und Erfahrung im Umgang mit mindestens einer weiteren Dynamics 365-App, mit Power Query, Microsoft Dataverse, Common Data Model und Microsoft Power Platform haben. Darüber hinaus sollten sie über praktische Kenntnisse über Verfahren im Zusammenhang mit Datenschutz, Compliance, Einwilligung, Sicherheit, verantwortungsvoller KI und Datenaufbewahrungsrichtlinien verfügen.
+prerequisitesSection: >-
+  Vor der Teilnahme an diesem Kurs müssen die Teilnehmer folgende Voraussetzungen erfüllen:
+
+
+  *   Vertrautheit mit Dynamics 365 for Customer Insights&nbsp;
+
+
+  *   Erfahrung mit einer oder mehreren Dynamics 365-Apps, Power Query, Microsoft Dataverse, Common Data Model und Microsoft Power Platform
+outlineSection: >-
+  ### <a name="module-1-get-started-with-the-customer-data-platform"></a>Modul 1: Erste Schritte mit der Kundendatenplattform
+
+
+  In diesem Modul geht es um den Geschäftswert einer Kundendatenplattform und die Benutzeroberfläche von Dynamics 365 for Customer Insights.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Einführung in die Kundendatenplattform
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Beschreiben des Nutzens einer Kundendatenplattform
+
+
+  *   Beschreiben der Funktionalität von Dynamics 365 for Customer Insights
+
+
+
+  ### <a name="module-2-ingest-data-into-customer-insights"></a>Modul 2: Erfassen von Daten in Customer Insights
+
+
+  In diesem Modul wird das Bereinigen, Transformieren und Importieren von Daten in Customer Insights behandelt.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Importieren und Transformieren von Daten
+
+
+  *   Verbindung mit Datenquellen herstellen
+
+
+  *   Arbeiten mit Daten
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Durchführen von Datentransformationen und Importieren von Daten mit Power Query
+
+
+  *   Herstellen von Verbindungen mit Microsoft Dataverse- und Common Data Model-Quellen
+
+
+  *   Einrichten von Datenaktualisierungen
+
+
+
+  ### <a name="module-3-create-a-unified-customer-profile-in-dynamics-365-audience-insights"></a>Modul 3: Erstellen eines einheitlichen Kundenprofils in Dynamics 365 Audience Insights
+
+
+  In diesem Modul erfahren Sie, wie Sie Daten zuordnen, abgleichen und zusammenführen, um ein einheitliches Kundenprofil zu erstellen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Kartendaten
+
+
+  *   Abgleichen von Daten
+
+
+  *   Zusammenführen von Daten
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Zuordnen von Daten, auch unter Verwendung von intelligenten Zuordnungen, Primärschlüsseln und Attributtypen
+
+
+  *   Abgleichen von Daten sowie Angeben von Reihenfolge, Regeln, Bedingungen und Deduplizierung
+
+
+  *   Zusammenführen von Daten mithilfe von Systemempfehlungen oder manuelles Zusammenführen
+
+
+
+  ### <a name="module-4-work-with-dynamics-365-audience-insights"></a>Modul 4: Arbeiten mit Dynamics 365 Audience Insights
+
+
+  In diesem Modul werden Such- und Filterindizes, Beziehungen, Aktivitäten, Measures und Segmente behandelt.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Einführung in Audience Insights
+
+
+  *   Konfigurieren von Such- und Filterindizes
+
+
+  *   Definieren von Beziehungen und Aktivitäten
+
+
+  *   Arbeiten mit Measures
+
+
+  *   Arbeiten mit Segmenten
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Suchen von und Filtern nach Kund*innen
+
+
+  *   Definieren von Aktivitäten
+
+
+  *   Definieren von Beziehungen
+
+
+  *   Erstellen von Measures von Grund auf oder unter Verwendung einer Vorlage
+
+
+  *   Verwalten von Segmenten und Abrufen vorgeschlagener Segmente
+
+
+
+  ### <a name="module-5-enrich-data-and-predictions-with-audience-insights"></a>Modul 5: Anreichern von Daten und Vorhersagen mit Audience Insights
+
+
+  In diesem Modul wird das Anreichern von Daten, einschließlich des Anreicherns von Marken und Interessen, das Verwenden von Vorhersagen und das Verwenden von Machine Learning-Modellen behandelt.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Anreichern von Daten
+
+
+  *   Verwenden von Vorhersagen
+
+
+  *   Verwenden von Machine Learning-Modellen
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Identifizieren der verschiedenen Optionen für die Datenanreicherung
+
+
+  *   Anreichern der Kundendaten
+
+
+  *   Definieren von Vorhersagen
+
+
+  *   Vorhersagen der Abonnementabwanderung
+
+
+  *   Verwenden von Machine Learning-Modellen
+
+
+  *   Beschreiben der Prinzipien für verantwortungsvolle KI
+
+
+
+  ### <a name="module-6-manage-external-connections-with-customer-data-platform"></a>Modul 6: Verwalten externer Verbindungen mit einer Kundendatenplattform
+
+
+  In diesem Modul werden Erweiterungsoptionen für Customer Insights-Daten behandelt, einschließlich Informationen dazu, wie Daten in Dynamics 365-Anwendungen und Microsoft Power Platform gewonnen werden.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Exportieren von Customer Insights-Daten
+
+
+  *   Anzeigen von Customer Insights-Daten in Dynamics 365-Apps
+
+
+  *   Verwenden von Customer Insights mit Microsoft Power Platform
+
+
+  *   Weitere Möglichkeiten zum Erweitern von Customer Insights
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Gewinnen von Customer Insights-Daten in Dynamics 365
+
+
+  *   Verwenden von Customer Insights mit Power Apps, Power Automate und Power BI
+
+
+  *   Verwenden von Customer Insights mit Azure Synapse Analytics
+
+
+  *   Verstehen von Anwendungsfällen für Customer Insights-APIs

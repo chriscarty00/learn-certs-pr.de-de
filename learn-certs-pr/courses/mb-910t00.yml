@@ -1,14 +1,15 @@
 ### YamlMime:Course
-title: 'Microsoft Certified: Dynamics 365 Fundamentals (CRM)'
+title: Microsoft Dynamics 365 Fundamentals (CRM)
 metadata:
-  title: 'Kurs MB-910T00--A: Microsoft Certified: Dynamics 365 Fundamentals (CRM)'
-  description: 'Kurs MB-910T00--A: Microsoft Certified: Dynamics 365 Fundamentals (CRM)'
-  ms.openlocfilehash: bcb4fbab9fff918734880aa117ad3e1504fe4b4f
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
-  ms.translationtype: MT
+  title: 'Kurs MB-910T00-A: Microsoft Dynamics 365 Fundamentals (CRM)'
+  description: 'Kurs MB-910T00-A: Microsoft Dynamics 365 Fundamentals (CRM)'
+  iltScheduling: true
+  ms.openlocfilehash: b7214a38d717a5cf9786a37f65ca6539b9cdcf16
+  ms.sourcegitcommit: 1697f2407cfde13fb572fd4e41dcd90cb093b487
+  ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "132113589"
+  ms.lasthandoff: 02/04/2022
+  ms.locfileid: "138024622"
 uid: course.mb-910t00
 courseNumber: MB-910T00
 hoursToComplete: 48
@@ -19,19 +20,20 @@ skillsGained:
 - skill: Beschreiben der Funktionen von Dynamics 365 for Customer Service
 - skill: Beschreiben der Funktionen von Dynamics 365 for Field Service
 - skill: Beschreiben der Funktionen von Dynamics 365 for Project Operations (CRM)
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
-- ja
+- ar
 - zh-cn
-- ko
-- de
+- zh-tw
 - fr
-- es
+- de
+- it
+- ja
+- ko
 - pt-br
 - ru
-- zh-tw
-- it
+- es
 levels:
 - beginner
 roles:
@@ -71,6 +73,7 @@ outlineSection: >-
   *   Kennenlernen zusätzlicher Marketing-Apps
 
 
+
   #### <a name="lab--working-with-customer-engagement-apps"></a>Lab: Arbeiten mit Apps zur Kundenbindung
 
 
@@ -93,16 +96,9 @@ outlineSection: >-
 
 
   ####
-
-
-  *   Erstellen einer Marketing-E-Mail
-
-
-  *   Erstellen eines Segments in Dynamics 365 for Marketing
-
-
-  *   Erstellen einer Customer Journey
-
+     *   Erstellen einer Marketing-E-Mail
+     *   Erstellen eines Segments in Dynamics 365 for Marketing
+     *   Erstellen einer Customer Journey
 
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
@@ -117,6 +113,7 @@ outlineSection: >-
 
 
   *   Beschreiben zusätzlicher Marketing-Apps
+
 
 
   ### <a name="module-2-learn-the-fundamentals-of-dynamics-365-sales"></a>Modul 2: Grundlegende Informationen zu Dynamics 365 for Sales
@@ -137,17 +134,13 @@ outlineSection: >-
   *   Kennenlernen zusätzlicher Vertriebs-Apps
 
 
+
   #### <a name="lab--dynamics-365-sales-capstone-lab"></a>Lab: Dynamics 365 for Sales – Abschluss-Lab
 
 
   ####
-
-
-  *   Erstellen und Qualifizieren eines Leads
-
-
-  *   Verwalten einer Verkaufschance
-
+     *   Erstellen und Qualifizieren eines Leads
+     *   Verwalten einer Verkaufschance
 
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
@@ -159,6 +152,7 @@ outlineSection: >-
 
 
   *   Beschreiben zusätzlicher Vertriebs-Apps wie Sales Insights und Sales Navigator
+
 
 
   ### <a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Modul 3: Grundlegende Informationen zu Dynamics 365 for Customer Service
@@ -179,17 +173,13 @@ outlineSection: >-
   *   Kennenlernen zusätzlicher Kundendienst-Apps
 
 
+
   #### <a name="lab--dynamics-365-capstone-lab"></a>Lab: Dynamics 365 – Abschluss-Lab
 
 
   ####
-
-
-  *   Erstellen und Veröffentlichen eines Knowledge-Artikels
-
-
-  *   Verwalten eines Supportfalls während seines Lebenszyklus
-
+     *   Erstellen und Veröffentlichen eines Knowledge-Artikels
+     *   Verwalten eines Supportfalls während seines Lebenszyklus
 
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
@@ -201,6 +191,7 @@ outlineSection: >-
 
 
   *   Beschreiben zusätzlicher Vertriebs-Apps wie Sales Insights und Sales Navigator
+
 
 
   ### <a name="module-4-learn-the-fundamentals-of-dynamics-365-field-service"></a>Modul 4: Grundlegende Informationen zu Dynamics 365 for Field Service
@@ -227,17 +218,13 @@ outlineSection: >-
   *   Kennenlernen der Anlagenverwaltungsfeatures von Dynamics 365 for Field Service
 
 
+
   #### <a name="lab--dynamics-365-capstone-lab"></a>Lab: Dynamics 365 – Abschluss-Lab
 
 
   ####
-
-
-  *   Erstellen einer Anfrage und Eskalation zu einem Arbeitsauftrag
-
-
-  *   Planen von Elementen mit Dynamics 365 for Field Service
-
+     *   Erstellen einer Anfrage und Eskalation zu einem Arbeitsauftrag
+     *   Planen von Elementen mit Dynamics 365 for Field Service
 
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
@@ -255,6 +242,7 @@ outlineSection: >-
 
 
   *   Beschreiben der Anlagenverwaltungsfeatures von Dynamics 365 for Field Service
+
 
 
   ### <a name="module-5-learn-the-fundamentals-of-dynamics-365-project-operations-crm"></a>Modul 5: Grundlegende Informationen zu Dynamics 365 for Project Operations (CRM)
@@ -278,20 +266,14 @@ outlineSection: >-
   *   Kennenlernen der Ressourcennutzungsfunktionen von Dynamics 365 for Project Operations
 
 
+
   #### <a name="lab--dynamics-365-project-operations-capstone-lab"></a>Lab: Dynamics 365 for Project Operations – Abschluss-Lab
 
 
   ####
-
-
-  *   Erstellen eines projektbasierten Leads
-
-
-  *   Verwalten einer projektbasierten Verkaufschance
-
-
-  *   Erstellen eines Projektangebots und einer Projektschätzung
-
+     *   Erstellen eines projektbasierten Leads
+     *   Verwalten einer projektbasierten Verkaufschance
+     *   Erstellen eines Projektangebots und einer Projektschätzung
 
   Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
 
@@ -306,6 +288,7 @@ outlineSection: >-
 
 
   *   Beschreiben der Ressourcennutzungsfunktionen von Dynamics 365 for Project Operations
+
 
 
   #### <a name="additional-reading"></a>Weiterführende Lektüre

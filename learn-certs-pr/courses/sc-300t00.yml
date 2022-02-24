@@ -3,12 +3,12 @@ title: Microsoft Identity and Access Administrator
 metadata:
   title: 'Kurs SC-300T00--A: Microsoft Identity and Access Administrator'
   description: 'Kurs SC-300T00--A: Microsoft Identity and Access Administrator'
-  ms.openlocfilehash: 5f026b7342b5fcd747c09842d507a623e5e85c0f
-  ms.sourcegitcommit: 7d58303fd1a712a89a6ae3b5b62a972702f71b13
-  ms.translationtype: MT
+  ms.openlocfilehash: 3cb28fa00982c55badedea3babc25c569b16a2b4
+  ms.sourcegitcommit: 3cc70fa27b69d927057ce19978fd294786ea75fb
+  ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 01/19/2022
-  ms.locfileid: "136970878"
+  ms.lasthandoff: 02/14/2022
+  ms.locfileid: "138645992"
 uid: course.sc-300t00
 courseNumber: SC-300T00
 hoursToComplete: 96
@@ -21,8 +21,8 @@ skillsGained:
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
-- ja
 - zh-cn
+- ja
 - ko
 levels:
 - intermediate
@@ -72,6 +72,7 @@ prerequisitesSection: >-
   *   Erfahrung mit Windows- und Linux-Betriebssystemen und Skriptsprachen ist hilfreich, aber nicht erforderlich. Kurslabs können PowerShell und die CLI verwenden.
 
 
+
   Vorausgesetzte Kurse (oder gleichwertige Kenntnisse und praktische Erfahrung):
 
 
@@ -111,6 +112,7 @@ outlineSection: >-
 
 
   *   Implementieren und Verwalten der Hybrididentität
+
 
 
   #### <a name="lab--manage-user-roles"></a>Lab: Verwalten von Benutzerrollen
@@ -185,6 +187,7 @@ outlineSection: >-
   *   Implementieren einer Hybrididentitätslösung
 
 
+
   ### <a name="module-2-implement-an-authentication-and-access-management-solution"></a>Modul 2: Implementieren einer Lösung für Authentifizierung und Zugriffsverwaltung
 
 
@@ -204,6 +207,7 @@ outlineSection: >-
 
 
   *   Verwalten von Azure AD Identity Protection
+
 
 
   #### <a name="lab--configure-azure-ad-mfa-authentication-registration-policy"></a>Lab: Konfigurieren einer Registrierungsrichtlinie für die Azure AD MFA-Authentifizierung
@@ -266,6 +270,7 @@ outlineSection: >-
   *   Verwenden von Azure AD Identity Protection zum Schutz Ihrer Organisation
 
 
+
   ### <a name="module-3-implement-access-management-for-apps"></a>Modul 3: Implementieren der Zugriffsverwaltung für Apps
 
 
@@ -282,6 +287,7 @@ outlineSection: >-
 
 
   *   Implementieren der App-Registrierung
+
 
 
   #### <a name="lab--implement-access-management-for-apps"></a>Lab: Implementieren der Zugriffsverwaltung für Apps
@@ -326,6 +332,7 @@ outlineSection: >-
   *   Überwachen und Verwalten von Unternehmensanwendungen
 
 
+
   ### <a name="module-4-plan-and-implement-an-identity-governancy-strategy"></a>Modul 4: Planen und Implementieren einer Strategie für Identity Governance
 
 
@@ -347,6 +354,7 @@ outlineSection: >-
   *   Überwachen und Verwalten von Azure AD
 
 
+
   #### <a name="lab--configure-pim-for-azure-ad-roles"></a>Lab: Konfigurieren von PIM für Azure AD-Rollen
 
 
@@ -360,12 +368,6 @@ outlineSection: >-
 
 
   #### <a name="lab--assign-azure-resource-roles-in-pim"></a>Lab: Zuweisen von Azure-Ressourcenrollen in PIM
-
-
-  ####
-
-
-  #### <a name="lab--connect-data-from-azure-ad-to-azure-sentinel"></a>Lab: Verbinden von Daten in Azure AD mit Azure Sentinel
 
 
   ####

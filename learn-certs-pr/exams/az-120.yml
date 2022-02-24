@@ -3,12 +3,12 @@ title: Planning and Administering Microsoft Azure for SAP Workloads
 metadata:
   title: 'Prüfung AZ-120: Planning and Administering Microsoft Azure for SAP Workloads'
   description: 'Prüfung AZ-120: Planning and Administering Microsoft Azure for SAP Workloads'
-  ms.openlocfilehash: 7d7bde2da7ff04ef9f4525103f5d6f5370ebe475
-  ms.sourcegitcommit: fd55a80afc282528952dc1782d93c51fffc57cb4
+  ms.openlocfilehash: a3f65a11a77d232815aaef5062b4c0753e0fd221
+  ms.sourcegitcommit: ef9a0c1f50da246efe27cc7eeb22866997f9574d
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 01/28/2022
-  ms.locfileid: "137818605"
+  ms.lasthandoff: 02/16/2022
+  ms.locfileid: "138813670"
 uid: exam.az-120
 displayName: AZ-120
 summary: "> [!IMPORTANT]\n> Die englischsprachige Version dieser Prüfung wurde am 24. Januar 2022 aktualisiert. Bitte laden Sie das unten gezeigte Dokument zur Kompetenzmessung herunter, um zu sehen, was sich geändert hat.\n> \n> HINWEIS: Erforderliche Punktzahl: 700. Weitere Informationen zur Prüfungsauswertung finden Sie [hier](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams).\n\n<br/>  \nKandidaten für diese Prüfung sollten Architekten oder Ingenieure mit umfassenden Erfahrungen und Kenntnissen hinsichtlich der SAP-Systemlandschaft und der Branchenstandards sein, die spezifisch für die anfängliche Migration oder Integration und den langfristigen Betrieb einer SAP-Lösung auf Microsoft Azure gelten.\n\nZu den Aufgaben eines Architekten oder Ingenieurs für Azure für SAP-Workloads gehört es, Empfehlungen zu Diensten zu geben und Ressourcen entsprechend der optimalen Resilienz, Leistung, Skalierung, Bereitstellung, Größe und Überwachung anzupassen.\n\nArchitekten oder Ingenieure für Azure für SAP-Workloads arbeiten mit Cloudadministratoren, Administratoren für Clouddatenbanken und Kunden zusammen, um Lösungen zu implementieren.\n\nEin Kandidat für diese Prüfung sollte über umfangreiche Erfahrungen und Kenntnisse auf dem Gebiet von SAP-Anwendungen, SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, OS Server für SAP-Anwendungen und -Datenbanken, Azure-Portal, Azure Marketplace, Azure Resource Manager-Vorlagen (ARM-Vorlagen), Virtualisierung, Cloudinfrastruktur, Speicherstrukturen, Hochverfügbarkeitsdesign, Notfallwiederherstellungsdesign, Datensicherungskonzepte und Networking verfügen.\n\nFür diese Prüfung wird dringend empfohlen, dass Sie zusätzlich zu den SAP-Zertifizierungen eine Azure Administrator Associate- oder Azure Solutions Architect Expert-Zertifizierung besitzen."
@@ -16,7 +16,7 @@ subTitle: 'Bei dieser Prüfung wird Ihre Fähigkeit bewertet, die folgenden tech
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
 practiceTestUrl: https://in.mindhub.com/az-120-planning-and-administering-microsoft-azure-for-sap-workloads-microsoft-official-practice-test/p/MU-AZ-120?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-DE&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
 locales:
 - en
 - ja
@@ -46,7 +46,7 @@ products:
 - azure-sap
 courses:
 - uid: course.az-120t00
-paths:
+studyGuide:
 - uid: learn.wwl.explore-azure-for-sap-workloads
 - uid: learn.wwl.explore-foundations-of-iaas
 - uid: learn.wwl.explore-foundations-of-identity-governance

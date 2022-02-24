@@ -2,13 +2,13 @@
 title: 'Microsoft Certified: Azure Data Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Engineer Associate'
-  description: Azure-Datentechniker integrieren, transformieren und konsolidieren Daten aus verschiedenen strukturierten und unstrukturierten Datensystemen in Strukturen, die für die Entwicklung von Analyselösungen geeignet sind.
-  ms.openlocfilehash: 00e4f08310ba976118ca22b620cac90e8d09640d
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
-  ms.translationtype: MT
+  description: Azure Data Engineers integrieren, transformieren und konsolidieren Daten aus verschiedenen strukturierten und unstrukturierten Datensystemen in Strukturen, die für die Erstellung von Analyselösungen geeignet sind.
+  ms.openlocfilehash: 3fc72f5d40ed9e080282a4d0d0052914eedce0a6
+  ms.sourcegitcommit: 3feaef9b7c87a66f0ae514838177b6a3b911a3f0
+  ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "133078600"
+  ms.lasthandoff: 02/17/2022
+  ms.locfileid: "139044921"
 uid: certification.azure-data-engineer
 certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
@@ -19,11 +19,11 @@ summary: >-
   Zu den Zuständigkeiten dieser Rolle gehört es, Projektbeteiligten zu helfen, die Daten durch Exploration sowie Konzeption und Pflege sicherer und konformer Datenverarbeitungspipelines mithilfe verschiedener Tools und Techniken zu verstehen. Diese Fachkräfte für Daten nutzen verschiedene Azure-Datendienste und Sprachen, um bereinigte und erweiterte Datasets für die Analyse zu speichern und zu erstellen.
 
 
-  Ein Azure-Datentechniker trägt außerdem dazu bei, dass Datenpipelines und Datenspeicher bei bestimmten Geschäftlichen Anforderungen und Einschränkungen leistungsfähig, effizient, organisiert und zuverlässig sind. Diese Fachkräfte kümmern sich zeitnah um unerwartete Probleme und minimieren Datenverluste. Ein Azure-Datentechniker entwirft, implementiert, überwacht und optimiert auch Datenplattformen, um die Anforderungen der Datenpipeline zu erfüllen.
+  Azure Data Engineers stellen außerdem sicher, dass Datenpipelines und Datenspeicher unter Berücksichtigung einer bestimmten Reihe von Geschäftsanforderungen und -einschränkungen leistungsstark, effizient, organisiert und zuverlässig sind. Diese Fachkräfte kümmern sich zeitnah um unerwartete Probleme und minimieren Datenverluste. Azure Data Engineers entwerfen, implementieren, überwachen und optimieren außerdem Datenplattformen, damit die Anforderungen der Datenpipeline erfüllt werden.
 
 
   Kandidaten für diese Zertifizierung müssen über fundierte Kenntnisse über Datenverarbeitungssprachen wie SQL, Python oder Scala verfügen und Muster der Parallelverarbeitung und der Datenarchitektur verstehen.
-subTitle: Azure-Datentechniker integrieren, transformieren und konsolidieren Daten aus verschiedenen strukturierten und unstrukturierten Datensystemen in Strukturen, die für die Entwicklung von Analyselösungen geeignet sind.
+subTitle: Azure Data Engineers integrieren, transformieren und konsolidieren Daten aus verschiedenen strukturierten und unstrukturierten Datensystemen in Strukturen, die für die Erstellung von Analyselösungen geeignet sind.
 levels:
 - intermediate
 skills:
@@ -41,19 +41,6 @@ products:
 - azure-event-hubs
 - azure-data-lake
 - azure-databricks
-courses:
-- uid: course.dp-203t00
-paths:
-- uid: learn.data-ai.azure-for-the-data-engineer
-- uid: learn.store-data-in-azure
-- uid: learn.wwl.data-integration-scale-azure-data-factory
-- uid: learn.wwl.realize-integrated-analytical-solutions-with-azure-synapse-analytics
-- uid: learn.wwl.work-with-data-warehouses-using-azure-synapse-analytics
-- uid: learn.wwl.perform-data-engineering-with-azure-synapse-apache-spark-pools
-- uid: learn.wwl.work-with-hybrid-transactional-analytical-processing-solutions
-- uid: learn.wwl.data-engineer-azure-databricks
-- uid: learn.data-ai.data-processing-with-azure-adls
-- uid: learn.data-ai.implement-data-streaming-with-asa
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUG
 exams:
 - uid: exam.dp-203

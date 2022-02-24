@@ -3,12 +3,12 @@ title: Erstellen von Anwendungen und Lösungen mit Microsoft 365 Core Services
 metadata:
   title: 'Prüfung MS-600: Building Applications and Solutions with Microsoft 365 Core Services'
   description: 'Prüfung MS-600: Building Applications and Solutions with Microsoft 365 Core Services'
-  ms.openlocfilehash: 6d3746f8260aa74d8fc03e29d2b4f7f8a5bfd561
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.openlocfilehash: cde6185079ae5f8ff53ff406600557fd5a7c36ac
+  ms.sourcegitcommit: ef9a0c1f50da246efe27cc7eeb22866997f9574d
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137656508"
+  ms.lasthandoff: 02/16/2022
+  ms.locfileid: "138813220"
 uid: exam.ms-600
 displayName: MS-600
 summary: "> [!IMPORTANT]\n> Der Inhalt dieser Prüfung wurde am 29. November 2021 aktualisiert. Bitte laden Sie das unten gezeigte Dokument zur Kompetenzmessung herunter, um zu sehen, was sich geändert hat.\n> \n> HINWEIS: Erforderliche Punktzahl: 700. Weitere Informationen zur Prüfungsauswertung finden Sie [hier](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams).\n\nKandidat*innen für dieses Examen sind Microsoft 365 Developers, die Anwendungen und Lösungen entwerfen, erstellen, testen und warten, die für die Produktivitäts- und Kollaborationsanforderungen von Organisationen optimiert sind, die die Microsoft 365-Plattform nutzen.\n\nKandidat*innen für dieses Examen beherrschen Microsoft Identity, Microsoft Graph und die Erstellung von Anwendungen für Microsoft Teams. Sie verfügen über allgemeine Kenntnisse über Elemente der Benutzeroberfläche (einschließlich Fluent UI (Office UI Fabric), Integrationspunkte (einschließlich Office Add-Ins, SharePoint Framework, Actionable Messages) und die Bestimmung von Workload-Plattformzielen.\n\nKandidat*innen sollten Erfahrung im Entwickeln von Lösungen für Microsoft Teams, Office oder SharePoint in allen Phasen der Softwareentwicklung haben. Sie sollten über ein grundlegendes Verständnis von REST-APIs, JSON, OAuth2, OData, OpenID Connect, Microsoft-Identitäten – einschließlich Azure AD- und Microsoft-Konten – Azure AD B2C und Berechtigungs- und Genehmigungskonzepten verfügen."
@@ -18,7 +18,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43CZ
 practiceTestUrl: https://www.mindhub.com/ms-600-building-applications-and-solutions-with-microsoft-365-core-services-microsoft-official-practice-test/p/MU-MS-600?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=de-DE&examcode=MS-600&examname=Exam%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-600
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-600&examname=Exam%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-600
 locales:
 - en
 levels:
@@ -36,7 +36,7 @@ products:
 - m365
 courses:
 - uid: course.ms-600t00
-paths:
+studyGuide:
 - uid: learn-m365.m365-extend-fundamental
 - uid: learn-m365.msgraph-associate
 - uid: learn-m365.identity-associate

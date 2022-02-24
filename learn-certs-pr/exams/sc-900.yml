@@ -1,94 +1,121 @@
 ### YamlMime:Examination
-title: 'Grundlagen zu Sicherheit, Compliance und Identität'
+title: Grundlagen zu Sicherheit, Compliance und Identität
 metadata:
   title: 'Examen SC-900: Microsoft Security, Compliance, and Identity Fundamentals'
   description: 'Examen SC-900: Microsoft Security, Compliance, and Identity Fundamentals'
+  ms.openlocfilehash: 04617230285c11c91fa9aa0bc98ab1b5c2b15183
+  ms.sourcegitcommit: ef9a0c1f50da246efe27cc7eeb22866997f9574d
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 02/16/2022
+  ms.locfileid: "138814319"
 uid: exam.sc-900
 displayName: SC-900
-summary: "> [!IMPORTANT]\n> Die englischsprachige Version dieser Prüfung wurde am 28.\_Januar\_2022 aktualisiert. Bitte laden Sie das unten gezeigte Dokument zur Kompetenzmessung herunter, um zu sehen, was sich geändert hat.\n>\n> Notwendige Punktzahl: 700. Weitere Informationen zur Prüfungsauswertung finden Sie [hier](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams).\n\n<br/>\nDieses Examen richtet sich an Personen, die sich mit den Grundlagen von Sicherheit, Compliance und Identität (SCI) in cloudbasierten und verwandten Microsoft-Diensten vertraut machen möchten.\n\nHierbei handelt es sich um eine breite Zielgruppe, zu der Beteiligte im Unternehmen, neue oder vorhandene IT-Expert*innen oder Studierende gehören können, die ein Interesse an Sicherheits-, Compliance- und Identitätslösungen von Microsoft haben.\n\nKandidat*innen sollten mit Microsoft Azure und Microsoft 365 vertraut sein und ein Interesse daran haben, zu verstehen, wie die Microsoft-Lösungen für Sicherheit, Compliance und Identität diese Bereiche abdecken, um eine ganzheitliche Lösung zu bieten.\n\n> [!TIP]\n> [Laden Sie kostenlose Beispielfragen herunter, um sich auf diese Prüfung vorzubereiten.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWSulJ)"
+summary: >-
+  Dieses Examen richtet sich an Personen, die sich mit den Grundlagen von Sicherheit, Compliance und Identität (SCI) in cloudbasierten und verwandten Microsoft-Diensten vertraut machen möchten.
+
+
+  Hierbei handelt es sich um eine breite Zielgruppe, zu der Beteiligte im Unternehmen, neue oder vorhandene IT-Expert*innen oder Studierende gehören können, die ein Interesse an Sicherheits-, Compliance- und Identitätslösungen von Microsoft haben.
+
+
+  Kandidat*innen sollten mit Microsoft Azure und Microsoft 365 vertraut sein und ein Interesse daran haben, zu verstehen, wie die Microsoft-Lösungen für Sicherheit, Compliance und Identität diese Bereiche abdecken, um eine ganzheitliche Lösung zu bieten.
+
+
+  > [!IMPORTANT]
+
+  > Die englischsprachige Version dieser Prüfung wurde am 28. Januar 2022 aktualisiert. Bitte laden Sie das unten gezeigte Dokument zur Kompetenzmessung herunter, um zu sehen, was sich geändert hat.
+
+  >
+
+  > Notwendige Punktzahl: 700. Weitere Informationen zur Prüfungsauswertung finden Sie [hier](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams).
+
+
+  > [!TIP]
+
+  > [Laden Sie kostenlose Beispielfragen herunter, um sich auf diese Prüfung vorzubereiten.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWSulJ)
 subTitle: 'In diesem Examen wird Ihre Fähigkeit abgefragt, Folgendes zu beschreiben: Sicherheits-, Compliance- und Identitätskonzepte; Funktionen von Microsoft-Identitäts- und Zugriffsverwaltungslösungen, Funktionen von Microsoft-Sicherheitslösungen; und Funktionen von Microsoft-Compliancelösungen.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-pdfDownloadUrl: 'https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81'
-practiceTestUrl: 'https://in.mindhub.com/sc-900-microsoft-security-compliance-and-identity-fundamentals-microsoft-official-practice-test/p/MU-SC-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice'
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81
+practiceTestUrl: https://in.mindhub.com/sc-900-microsoft-security-compliance-and-identity-fundamentals-microsoft-official-practice-test/p/MU-SC-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-  - providerType: pearson-vue
-    examUrl: 'https://examregistration.microsoft.com/?locale=de-DE&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900'
-  - providerType: certiport
-    examUrl: 'http://www.certiport.com/locator'
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
-  - en
-  - ja
-  - zh-cn
-  - ko
-  - fr
-  - es
-  - pt-br
-  - ru
-  - ar-sa
-  - id-id
-  - de
-  - zh-tw
-  - it
+- en
+- ja
+- zh-cn
+- ko
+- fr
+- es
+- pt-br
+- ru
+- ar-sa
+- id-id
+- de
+- zh-tw
+- it
 levels:
-  - beginner
+- beginner
 skills:
-  - 'The English language version of this exam was updated on January 28, 2022. Please download the exam skills outline below to see what changed.'
-  - 'Describe the concepts of security, compliance, and identity (10-15%)'
-  - Describe the capabilities of Microsoft identity and access management solutions (30-35%)
-  - Describe the capabilities of Microsoft security solutions (35-40%)
-  - Describe the capabilities of Microsoft compliance solutions (25-30%)
+- The English language version of this exam was updated on January 28, 2022. Please download the exam skills outline below to see what changed.
+- Describe the concepts of security, compliance, and identity (10-15%)
+- Describe the capabilities of Microsoft identity and access management solutions (30-35%)
+- Describe the capabilities of Microsoft security solutions (35-40%)
+- Describe the capabilities of Microsoft compliance solutions (25-30%)
 roles:
-  - business-user
-  - student
+- business-user
+- student
 products:
-  - azure
-  - azure-active-directory
-  - azure-bastion
-  - azure-blueprints
-  - azure-ddos-protection
-  - azure-firewall
-  - azure-policy
-  - azure-security-center
-  - azure-sentinel
-  - azure-web-application-firewall
-  - m365
-  - mem-intune
-  - m365-ems-cloud-app-security
-  - m365-threat-protection
-  - m365-security-score
-  - m365-security-center
-  - mdatp
-  - mem
-  - office-365-atp
-paths:
-  - uid: learn.wwl.describe-concepts-of-security-compliance-identity
-  - uid: learn.wwl.describe-capabilities-of-microsoft-identity-access-management-solutions
-  - uid: learn.wwl.describe-capabilities-of-microsoft-security-solutions
-  - uid: learn.wwl.describe-capabilities-of-microsoft-compliance-solutions
+- azure
+- azure-active-directory
+- azure-bastion
+- azure-blueprints
+- azure-ddos-protection
+- azure-firewall
+- azure-policy
+- azure-security-center
+- azure-sentinel
+- azure-web-application-firewall
+- m365
+- mem-intune
+- m365-ems-cloud-app-security
+- m365-threat-protection
+- m365-security-score
+- m365-security-center
+- mdatp
+- mem
+- office-365-atp
+studyGuide:
+- uid: learn.wwl.describe-concepts-of-security-compliance-identity
+- uid: learn.wwl.describe-capabilities-of-microsoft-identity-access-management-solutions
+- uid: learn.wwl.describe-capabilities-of-microsoft-security-solutions
+- uid: learn.wwl.describe-capabilities-of-microsoft-compliance-solutions
 courses:
-  - uid: course.sc-900t00
+- uid: course.sc-900t00
 relatedCertifications:
-  - related:
-      uid: certification.security-compliance-and-identity-fundamentals
+- related:
+    uid: certification.security-compliance-and-identity-fundamentals
 resources:
-  - title: Schulungs- und Zertifizierungsleitfaden
-    description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
-    href: 'https://aka.ms/TrainingCertDeck'
-  - title: Zertifizierungsposter
-    description: 'Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Dynamics 365 und Power Platform an.'
-    href: 'https://aka.ms/traincertposter'
-  - title: Exam Replay
-    description: 'Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.'
-    href: ../deals.md
-  - title: Unterstützung bei Zertifizierungsprüfungen
-    description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
-    href: ../help.md
-  - title: Zertifizierungsdashboard
-    description: 'Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.'
-    href: 'https://www.microsoft.com/learning/dashboard.aspx'
-  - title: Unterkünfte anfordern
-    description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
-    href: ../request-accommodations.md
-  - title: Prüfungsrichtlinien und FAQs
-    description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
-    href: ../certification-exam-policies.md
+- title: Schulungs- und Zertifizierungsleitfaden
+  description: Informieren Sie sich über die Zertifizierungen in einem übersichtlichen Schulungs- und Zertifizierungsleitfaden.
+  href: https://aka.ms/TrainingCertDeck
+- title: Zertifizierungsposter
+  description: Sehen Sie sich eine Übersicht mit Grundlagen, rollenbasierten Zertifizierungen und Spezialzertifizierungen für Dynamics 365 und Power Platform an.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: Sehen Sie sich zwei großartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhöhen.
+  href: ../deals.md
+- title: Unterstützung bei Zertifizierungsprüfungen
+  description: Erhalten Sie Hilfe in Microsoft Certification Support-Foren. Ein Forenmoderator wird Ihnen an einem Werktag (Montag-Freitag) antworten.
+  href: ../help.md
+- title: Zertifizierungsdashboard
+  description: Überprüfen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Unterkünfte anfordern
+  description: Mehr erfahren über die Anforderung einer Unterkunft für Ihre Prüfung.
+  href: ../request-accommodations.md
+- title: Prüfungsrichtlinien und FAQs
+  description: Lesen Sie die Prüfungsrichtlinien und die häufig gestellten Fragen.
+  href: ../certification-exam-policies.md

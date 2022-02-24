@@ -1,25 +1,25 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure Cosmos DB Developers'
+title: 'Microsoft Certified: Azure Cosmos DB Developer Specialty'
 metadata:
-  title: 'Microsoft Certified: Azure Cosmos DB Developers'
-  description: Azure Cosmos DB-Entwickler entwerfen und implementieren Datenmodelle und die Datenverteilung, laden Daten in eine Azure Cosmos DB-Datenbank und optimieren und warten die Lösung.
-  ms.openlocfilehash: 84065ffd9d110ef96b80644343880e866a9ece91
-  ms.sourcegitcommit: b69fd4d0c808e4780010278f0cb189c2246f8dc0
-  ms.translationtype: MT
+  title: 'Microsoft Certified: Azure Cosmos DB Developer Specialty'
+  description: Azure Cosmos DB Developers entwerfen und implementieren Datenmodelle und die Datenverteilung, laden Daten in eine Azure Cosmos DB-Datenbank und optimieren und warten die Lösung.
+  ms.openlocfilehash: ef5493bcccc5e326b90ac2bd476a5a388034edc2
+  ms.sourcegitcommit: 3feaef9b7c87a66f0ae514838177b6a3b911a3f0
+  ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 12/28/2021
-  ms.locfileid: "133560213"
+  ms.lasthandoff: 02/17/2022
+  ms.locfileid: "139044470"
 uid: certification.azure-cosmos-db-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: >-
-  Kandidaten für die Zertifizierung "Azure Cosmos DB Developer Expertise" sollten über Fachwissen beim Entwerfen, Implementieren und Überwachen cloudnativer Anwendungen verfügen, die Daten speichern und verwalten.
+  Die Kandidat*innen für die Zertifizierung „Azure Cosmos DB Developer Specialty“ sollten über Fachwissen zum Entwerfen, Implementieren und Überwachen von cloudnativen Anwendungen verfügen, die Daten speichern und verwalten.
 
 
-  Zu den Zuständigkeiten für diese Rolle gehören das Entwerfen und Implementieren von Datenmodellen und der Datenverteilung, das Laden von Daten in eine Azure Cosmos-Datenbank und das Optimieren und Verwalten der Lösung. Diese Experten integrieren die Lösung in andere Azure-Dienste. Außerdem entwerfen, implementieren und überwachen sie Lösungen, die Sicherheits-, Verfügbarkeits-, Resilienz- und Leistungsanforderungen berücksichtigen.
+  Zu den Zuständigkeiten dieser Rolle gehören das Entwerfen und Implementieren von Datenmodellen und der Datenverteilung, das Laden von Daten in eine Azure Cosmos DB-Datenbank und das Optimieren und Verwalten der Lösung. Diese Expert*innen integrieren die Lösung in andere Azure-Dienste. Darüber hinaus entwerfen, implementieren und überwachen sie Lösungen mit Sicherheits-, Verfügbarkeits-, Resilienz- und Leistungsanforderungen.
 
 
-  Kandidaten für diese Zertifizierung müssen über solide Kenntnisse und Erfahrung beim Entwickeln von Apps für Azure und beim Arbeiten mit Azure Cosmos DB-Datenbanktechnologien verfügen. Sie sollten mit der Entwicklung von Anwendungen vertraut sein, indem sie die Core-API (SQL) und SDKs verwenden, effiziente Abfragen schreiben und geeignete Indexrichtlinien erstellen, Ressourcen in Azure bereitstellen und verwalten sowie serverseitige Objekte mit JavaScript erstellen. Sie sollten JSON interpretieren, C#- oder Java-Code lesen und PowerShell verwenden können.
-subTitle: Azure Cosmos DB-Entwickler entwerfen und implementieren Datenmodelle und die Datenverteilung, laden Daten in eine Azure Cosmos DB-Datenbank und optimieren und warten die Lösung.
+  Die Kandidat*innen für dieses Zertifizierung benötigen solide Kenntnisse und Erfahrung beim Entwickeln von Apps für Azure und beim Arbeiten mit Azure Cosmos DB-Datenbanktechnologien. Sie sollten mit der Entwicklung von Anwendungen mithilfe der Core-API (SQL) und SDKs vertraut sein, effiziente Abfragen schreiben und geeignete Indexrichtlinien erstellen, Ressourcen in Azure bereitstellen und verwalten sowie serverseitige Objekte mit JavaScript erstellen können. Sie sollten JSON interpretieren, C#- oder Java-Code lesen und PowerShell verwenden können.
+subTitle: Azure Cosmos DB Developers entwerfen und implementieren Datenmodelle und die Datenverteilung, laden Daten in eine Azure Cosmos DB-Datenbank und optimieren und warten die Lösung.
 levels:
 - intermediate
 skills:
@@ -36,22 +36,6 @@ type: specialty
 products:
 - azure
 - azure-cosmos-db
-paths:
-- uid: learn.wwl.get-started-azure-cosmos-db-sql-api
-- uid: learn.wwl.plan-implement-azure-cosmos-db-sql-api
-- uid: learn.wwl.connect-to-azure-cosmos-db-sql-api-sdk
-- uid: learn.wwl.access-manage-data-azure-cosmos-db-sql-api-sdks
-- uid: learn.wwl.execute-queries-azure-cosmos-db-sql-api
-- uid: learn.wwl.define-implement-indexing-strategy-cosmos-db-sql-api
-- uid: learn.wwl.integrate-azure-cosmos-db-sql-api-azure-services
-- uid: learn.wwl.implement-modeling-partitioning-azure-cosmos-db-sql-api
-- uid: learn.wwl.design-implement-replication-strategy-cosmos-db-sql-api
-- uid: learn.wwl.optimize-query-performance-azure-cosmos-db-sql-api
-- uid: learn.wwl.monitor-troubleshoot-azure-cosmos-db-sql-api-solution
-- uid: learn.wwl.manage-cosmos-db-sql-api-solution-using-devops-practices
-- uid: learn.wwl.create-server-side-programming-azure-cosmos-db-sql-api
-courses:
-- uid: course.dp-420t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWN6ga
 exams:
 - uid: exam.dp-420

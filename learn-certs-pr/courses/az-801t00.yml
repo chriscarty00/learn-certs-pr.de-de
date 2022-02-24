@@ -3,12 +3,12 @@ title: Configuring Windows Server Hybrid Advanced Services
 metadata:
   title: 'Kurs AZ-801T00--A: Configuring Windows Server Hybrid Advanced Services'
   description: 'Kurs AZ-801T00--A: Configuring Windows Server Hybrid Advanced Services'
-  ms.openlocfilehash: a562ee4e1455314f270c643297f744137bbf3f8f
-  ms.sourcegitcommit: 7e6fc74e4763408d05db0d7f5b43abda1533e6e7
+  ms.openlocfilehash: 692502e338f5eda22c87e938ace987a7f2086abe
+  ms.sourcegitcommit: 3feaef9b7c87a66f0ae514838177b6a3b911a3f0
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 02/04/2022
-  ms.locfileid: "138019081"
+  ms.lasthandoff: 02/17/2022
+  ms.locfileid: "139045174"
 uid: course.az-801t00
 courseNumber: AZ-801T00
 hoursToComplete: 96
@@ -34,6 +34,42 @@ products:
 - windows-server
 exams:
 - uid: exam.az-801
+studyGuide:
+- uid: learn.wwl.secure-windows-server-user-accounts
+- uid: learn.wwl.hardening-windows-server
+- uid: learn.wwl.windows-server-update-management
+- uid: learn.wwl.secure-windows-server-dns
+- uid: learn.wwl.implement-windows-server-iaas-vm-network-security
+- uid: learn.wwl.audit-security-of-windows-server-iaas-vms
+- uid: learn.wwl.manage-azure-updates
+- uid: learn.wwl.create-implement-application-allowlists-with-adaptive-application-control
+- uid: learn.wwl.configure-bitlocker-disk-encryption-for-windows-iaas-vms
+- uid: learn.wwl.implement-change-tracking-file-integrity-monitoring-for-windows-iaas-vms
+- uid: learn.wwl.introduction-to-cluster-shared-volumes
+- uid: learn.wwl.implement-windows-server-failover-clustering
+- uid: learn.wwl.implement-high-availability-of-windows-server-vms
+- uid: learn.wwl.implement-windows-server-file-server-high-availability
+- uid: learn.wwl.implement-scale-high-availability-with-windows-server-vm
+- uid: learn.wwl.implement-hyper-v-replica
+- uid: learn.protect-on-premises-infrastructure-with-azure-site-recovery
+- uid: learn.wwl.implement-hybrid-backup-recovery-with-windows-server-iaas
+- uid: learn.protect-infrastructure-with-azure-site-recovery
+- uid: learn.protect-virtual-machines-with-azure-backup
+- uid: learn.wwl.active-directory-domain-services-migration
+- uid: learn.wwl.migrate-file-server-workloads-using-storage-migration-service
+- uid: learn.wwl.migrate-windows-server-roles
+- uid: learn.wwl.migrate-premises-windows-server-instances-to-azure-iaas-vms
+- uid: learn.wwl.upgrade-migrate-windows-server-iaas-virtual-machines
+- uid: learn.azure.migrate-aspnet-app-azure-app-service
+- uid: learn.wwl.monitor-windows-server-performance
+- uid: learn.wwl.manage-monitor-event-logs
+- uid: learn.wwl.implement-windows-server-auditing-diagnostics
+- uid: learn.wwl.troubleshoot-active-directory
+- uid: learn.wwl.monitor-windows-server-iaas-vms-hybrid-instances
+- uid: learn.azure.monitor-azure-vm-using-diagnostic-data
+- uid: learn.monitor-vm-performance-using-azure-monitor-for-vms
+- uid: learn.wwl.troubleshoot-premises-hybrid-networking
+- uid: learn.wwl.troubleshoot-windows-server-virtual-machines-azure
 summary: >-
   In diesem Kurs erfahren IT-Expert*innen, wie sie fortgeschrittene Windows Server-Dienste mithilfe lokaler, hybrider und cloudbasierter Technologien konfigurieren. In diesem Kurs erfahren IT-Expert*innen, wie Sie die Hybridfunktionen von Azure nutzen können, virtuelle und physische Serverworkloads zu Azure IaaS migrieren und Azure-VMs unter Windows Server schützen. In diesem Kurs erfahren IT-Expert*innen auch, wie sie Aufgaben im Zusammenhang mit Hochverfügbarkeit, Problembehandlung und Notfallwiederherstellung ausführen. In diesem Kurs werden Verwaltungstools und -technologien wie Windows Admin Center, PowerShell, Azure Arc, die Azure Automation-Updateverwaltung, Microsoft Defender for Identity, Azure Security Center, Azure Migrate und Azure Monitor vorgestellt.
 

@@ -3,12 +3,12 @@ title: Administering Windows Server Hybrid Core Infrastructure
 metadata:
   title: 'Kurs AZ-800T00--A: Administering Windows Server Hybrid Core Infrastructure'
   description: 'Kurs AZ-800T00--A: Administering Windows Server Hybrid Core Infrastructure'
-  ms.openlocfilehash: fa1476c9225abfa05740c6c57fa4ef1f7501a03f
-  ms.sourcegitcommit: 7e6fc74e4763408d05db0d7f5b43abda1533e6e7
+  ms.openlocfilehash: 151ac91ce1815d4f8cbeb1d94638b338b42a2d39
+  ms.sourcegitcommit: 3feaef9b7c87a66f0ae514838177b6a3b911a3f0
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 02/04/2022
-  ms.locfileid: "138019114"
+  ms.lasthandoff: 02/17/2022
+  ms.locfileid: "139045372"
 uid: course.az-800t00
 courseNumber: AZ-800T00
 hoursToComplete: 96
@@ -36,6 +36,40 @@ products:
 - windows-server
 exams:
 - uid: exam.az-800
+studyGuide:
+- uid: learn.wwl.introduction-to-ad-ds
+- uid: learn.wwl.manage-ad-ds-domain-controllers-fsmo-roles
+- uid: learn.wwl.implement-group-policy-objects
+- uid: learn.wwl.manage-advanced-features-of-ad-ds
+- uid: learn.wwl.implement-hybrid-identity-with-windows-server
+- uid: learn.wwl.deploy-manage-azure-iaas-active-directory-domain-controllers-azure
+- uid: learn.wwl.perform-windows-server-secure-administration
+- uid: learn.wwl.describe-windows-server-administration-tools
+- uid: learn.wwl.perform-post-installation-configuration-of-windows-server
+- uid: learn.wwl.just-enough-administration-windows-server
+- uid: learn.wwl.administer-manage-windows-server-iaas-vm-remotely
+- uid: learn.wwl.manage-hybrid-workloads-with-azure-arc
+- uid: learn.wwl.configure-manage-hyper-v
+- uid: learn.wwl.configure-manage-hyper-v-virtual-machines
+- uid: learn.wwl.secure-hyper-v-workloads
+- uid: learn.wwl.run-containers-windows-server
+- uid: learn.wwl.orchestrate-containers-windows-server-using-kubernetes
+- uid: learn.wwl.plan-deploy-windows-server-iaas-vms
+- uid: learn.wwl.customize-windows-server-iaas-vm-images
+- uid: learn.wwl.automate-configuration-of-windows-server-iaas-vms
+- uid: learn.wwl.deploy-manage-dhcp
+- uid: learn.wwl.implement-windows-server-dns
+- uid: learn.wwl.implement-ip-address-management
+- uid: learn.wwl.implement-remote-access
+- uid: learn.wwl.implement-hybrid-network-infrastructure
+- uid: learn.wwl.implement-dns-for-windows-server-iaas-vms
+- uid: learn.wwl.implement-windows-server-iaas-vm-ip-addressing-routing
+- uid: learn.wwl.manage-windows-server-file-servers
+- uid: learn.wwl.implement-storage-spaces-storage-spaces-direct
+- uid: learn.wwl.implement-windows-server-data-deduplication
+- uid: learn.wwl.implement-windows-server-iscsi
+- uid: learn.wwl.implement-windows-server-storage-replica
+- uid: learn.wwl.implement-hybrid-file-server-infrastructure
 summary: >-
   In diesem Kurs erfahren IT-Experten, wie sie zentrale Windows Server-Workloads und -Dienste mithilfe lokaler, hybrider und cloudbasierter Technologien verwalten. In diesem Kurs erfahren IT-Experten, wie sie lokale und hybride Lösungen (etwa in den Bereichen Identität, Verwaltung, Compute, Netzwerk und Speicher) in einer Windows Server-Hybridumgebung implementieren und verwalten.
 

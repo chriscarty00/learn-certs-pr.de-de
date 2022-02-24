@@ -3,12 +3,12 @@ title: 'Microsoft Certified: DevOps Engineer Expert'
 metadata:
   title: 'Microsoft Certified: DevOps Engineer Expert'
   description: Technische Fachkräfte für DevOps entwerfen und implementieren Strategien für Zusammenarbeit, Code, Infrastruktur, Quellcodeverwaltung, Sicherheit, Compliance, Continuous Integration, Testen, Bereitstellung, Überwachung und Feedback.
-  ms.openlocfilehash: 23204ae10df3861252066a022aa8cee2125ce68b
-  ms.sourcegitcommit: efdb661b670d6c27e481808027d3b99dd5e023d6
+  ms.openlocfilehash: ed68a1a68556f6cd080a36e2f7219aa144248c91
+  ms.sourcegitcommit: 3feaef9b7c87a66f0ae514838177b6a3b911a3f0
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 01/24/2022
-  ms.locfileid: "137654803"
+  ms.lasthandoff: 02/17/2022
+  ms.locfileid: "139044459"
 uid: certification.devops-engineer
 certificationRenewalUid: renewal.devops-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
@@ -47,19 +47,6 @@ products:
 - azure-kubernetes-service
 - azure-container-instances
 - azure-automation
-paths:
-- uid: learn.wwl.az-400-get-started-devops-transformation-journey
-- uid: learn.wwl.az-400-work-git-for-enterprise-devops
-- uid: learn.wwl.az-400-implement-ci-azure-pipelines-github-actions
-- uid: learn.wwl.az-400-design-implement-release-strategy
-- uid: learn.wwl.az-400-implement-secure-continuous-deployment
-- uid: learn.wwl.az-400-manage-infrastructure-as-code-using-azure
-- uid: learn.wwl.az-400-design-implement-dependency-management-strategy
-- uid: learn.wwl.az-400-create-manage-containers-using-docker-kubernetes
-- uid: learn.wwl.az-400-implement-continuous-feedback
-- uid: learn.wwl.az-400-implement-security-validate-code-basescompliance
-courses:
-- uid: course.az-400t00
 prerequisites:
 - uid: certification.azure-administrator
   isOptional: false

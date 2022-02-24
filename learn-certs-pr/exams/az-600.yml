@@ -3,12 +3,12 @@ title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (
 metadata:
   title: 'Examen AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
   description: 'Examen AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
-  ms.openlocfilehash: 2f7c0bc61e6e3a253d07df4d51471850310685fd
-  ms.sourcegitcommit: fd55a80afc282528952dc1782d93c51fffc57cb4
+  ms.openlocfilehash: ca7c25c53bc05b1f68ef9e09fc0854f173c3ebe0
+  ms.sourcegitcommit: ef9a0c1f50da246efe27cc7eeb22866997f9574d
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 01/28/2022
-  ms.locfileid: "137818594"
+  ms.lasthandoff: 02/16/2022
+  ms.locfileid: "138813978"
 uid: exam.az-600
 displayName: AZ-600
 summary: "> [!IMPORTANT]\n> Der Inhalt dieser Prüfung wurde am 23. November 2021 aktualisiert. Bitte laden Sie das unten gezeigte Dokument zur Kompetenzmessung herunter, um zu sehen, was sich geändert hat.\n> \n> HINWEIS: Erforderliche Punktzahl: 700. Weitere Informationen zur Prüfungsauswertung finden Sie [hier](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams).\n\nKandidat*innen für das Examen AZ-600 sind Azure-Administrator*innen und Azure Stack Hub-Betreiber*innen, die Azure-Stack Hub nutzen, um ihren Endbenutzern oder Kunden Clouddienste innerhalb ihres eigenen Rechenzentrums zur Verfügung zu stellen.\n\nKandidat*innen für dieses Examen sollten über umfangreiche Erfahrung im Verwalten und Betreiben von Azure Stack Hub-Umgebungen verfügen. Sie sollten über ein fundiertes Verständnis von Azure sowie über Kenntnisse in den Bereichen Virtualisierung, Netzwerke und Identitätsverwaltung verfügen. Sie sollten auch wissen, wie Azure Stack Hub DevOps-Prozesse und das hybride Entwicklungsmodell ermöglicht."
@@ -17,7 +17,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Lwq9
 providers:
 - providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=de-DE&examcode=AZ-600&examname=Exam%20AZ-600:%20Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-600
+  examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-600&examname=Exam%20AZ-600:%20Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-600
 locales:
 - en
 - ja
@@ -52,7 +52,7 @@ products:
 - azure-active-directory
 courses:
 - uid: course.az-600t00
-paths:
+studyGuide:
 - uid: learn.wwl.overview-of-azure-stack-hub
 - uid: learn.wwl.provide-services-for-azure-stack-hub
 - uid: learn.wwl.implement-data-center-integration-for-azure-stack-hub

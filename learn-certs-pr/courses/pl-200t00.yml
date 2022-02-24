@@ -4,89 +4,648 @@ metadata:
   title: 'Kurs PL-200T00--A: Microsoft Power Platform Functional Consultant'
   description: 'Kurs PL-200T00--A: Microsoft Power Platform Functional Consultant'
   iltScheduling: true
+  ms.openlocfilehash: 6c34847761b6f89072ebf8e017a7f828173a6c19
+  ms.sourcegitcommit: 88e6fa5b2e7935f79a304a392c6e9b319d9bf4e2
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 02/09/2022
+  ms.locfileid: "138356505"
 uid: course.pl-200t00
 courseNumber: PL-200T00
-hoursToComplete: 120
+hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-  - skill: 'Arbeiten Sie mit einem Unternehmen zusammen, um Anforderungen zu sammeln und Microsoft Power Platform-Lösungen zu implementieren.'
-  - skill: Erstellen modellgesteuerter Canvas- und Portal-Apps
-  - skill: Erstellen von Power Automate-Flows
-  - skill: Entwerfen eines einfachen Chatbots mithilfe von Power Virtual Agents
-  - skill: "Analysieren von Daten mithilfe von Power\_BI-Visualisierungen und -Dashboards"
+- skill: Arbeiten Sie mit einem Unternehmen zusammen, um Anforderungen zu sammeln und Microsoft Power Platform-Lösungen zu implementieren.
+- skill: Erstellen modellgesteuerter Canvas- und Portal-Apps
+- skill: Erstellen von Power Automate-Flows
+- skill: Entwerfen eines einfachen Chatbots mithilfe von Power Virtual Agents
+- skill: Analysieren von Daten mithilfe von Power BI-Visualisierungen und -Dashboards
 learningPartnersLink: /learn/certifications/partners
 locales:
-  - en
+- en
 levels:
-  - intermediate
+- intermediate
 roles:
-  - functional-consultant
+- functional-consultant
 products:
-  - power-platform
+- power-platform
 exams:
-  - uid: exam.pl-200
+- uid: exam.pl-200
 studyGuide:
-  - uid: learn-bizapps.wwl.introduction-power-platform
-  - uid: learn-bizapps.powerapps-common-data-service
-  - uid: learn-dynamics.create-manage-entities
-  - uid: learn-dynamics.create-manage-fields-within-entity
-  - uid: learn-dynamics.create-relationship-between-cds-entities
-  - uid: learn-dynamics.working-with-option-sets
-  - uid: learn-dynamics.get-started-security-roles
-  - uid: learn-dynamics.use-admin-options-cds
-  - uid: learn.wwl.manage-dynamics-365-model-driven-app-settings-security
-  - uid: learn-bizapps.security-governance-intro
-  - uid: learn-bizapps.powerapps-design-model-driven-apps
-  - uid: learn-dynamics.configure-model-driven-apps-customer-engagement
-  - uid: learn-bizapps.powerapps-get-started
-  - uid: learn-bizapps.connect-other-data
-  - uid: learn-bizapps.how-to-build-ui-canvas-app
-  - uid: learn-bizapps.powerapps-manage
-  - uid: learn-bizapps.build-app-dataverse-teams
-  - uid: learn-bizapps.intro-portals
-  - uid: learn-bizapps.explore-portals
-  - uid: learn-bizapps.portals-architecture
-  - uid: learn-bizapps.portals-access-common-data-service
-  - uid: learn-bizapps.authentication-user-management
-  - uid: learn-bizapps.portals-maintenance-troubleshooting
-  - uid: learn-dynamics.define-create-business-rules
-  - uid: learn-bizapps.flow-get-started
-  - uid: learn-bizapps.flow-administration
-  - uid: learn-bizapps.dataverse-triggers-actions
-  - uid: learn-bizapps.extend-dataverse-power-automate
-  - uid: learn-bizapps.introduction-expressions
-  - uid: learn-bizapps.build-first-desktop-flow
-  - uid: learn-bizapps.flow-unattended-mode
-  - uid: learn-bizapps.intro-business-process-flows
-  - uid: learn-bizapps.create-immersive-flow
-  - uid: learn-bizapps.advanced-business-process-flows
-  - uid: learn-bizapps.business-process-optimization-process-advisor
-  - uid: learn-bizapps.power-virtual-agent-bots
-  - uid: learn-bizapps.enhance-power-virtual-agent-bots
-  - uid: learn-bizapps.manage-power-virtual-agent-topics
-  - uid: learn-bizapps.implement-power-virtual-agents
-  - uid: learn-bizapps.get-started-with-power-bi
-  - uid: learn-bizapps.get-data-power-bi
-  - uid: learn-bizapps.model-data-power-bi
-  - uid: learn-bizapps.visuals-in-power-bi
-  - uid: learn-bizapps.explore-data-power-bi
-  - uid: learn-bizapps.publish-share-power-bi
-  - uid: learn-bizapps.manage-solutions-power-automate
-  - uid: learn-dynamics.load-export-data-create-data-views
-  - uid: learn-bizapps.get-started-with-ai-builder
-  - uid: learn-bizapps.manage-models
-  - uid: learn-bizapps.ai-builder-power-automate
-  - uid: learn.wwl.functional-consultant-skills
-summary: |-
+- uid: learn-bizapps.wwl.introduction-power-platform
+- uid: learn-bizapps.powerapps-common-data-service
+- uid: learn-dynamics.create-manage-entities
+- uid: learn-dynamics.create-manage-fields-within-entity
+- uid: learn-dynamics.create-relationship-between-cds-entities
+- uid: learn-dynamics.working-with-option-sets
+- uid: learn-dynamics.get-started-security-roles
+- uid: learn-dynamics.use-admin-options-cds
+- uid: learn.wwl.manage-dynamics-365-model-driven-app-settings-security
+- uid: learn-bizapps.security-governance-intro
+- uid: learn-bizapps.powerapps-design-model-driven-apps
+- uid: learn-dynamics.configure-model-driven-apps-customer-engagement
+- uid: learn-bizapps.powerapps-get-started
+- uid: learn-bizapps.connect-other-data
+- uid: learn-bizapps.how-to-build-ui-canvas-app
+- uid: learn-bizapps.powerapps-manage
+- uid: learn-bizapps.build-app-dataverse-teams
+- uid: learn-bizapps.intro-portals
+- uid: learn-bizapps.explore-portals
+- uid: learn-bizapps.portals-architecture
+- uid: learn-bizapps.portals-access-common-data-service
+- uid: learn-bizapps.authentication-user-management
+- uid: learn-bizapps.portals-maintenance-troubleshooting
+- uid: learn-dynamics.define-create-business-rules
+- uid: learn-bizapps.flow-get-started
+- uid: learn-bizapps.flow-administration
+- uid: learn-bizapps.dataverse-triggers-actions
+- uid: learn-bizapps.extend-dataverse-power-automate
+- uid: learn-bizapps.introduction-expressions
+- uid: learn-bizapps.build-first-desktop-flow
+- uid: learn-bizapps.flow-unattended-mode
+- uid: learn-bizapps.intro-business-process-flows
+- uid: learn-bizapps.create-immersive-flow
+- uid: learn-bizapps.advanced-business-process-flows
+- uid: learn-bizapps.business-process-optimization-process-advisor
+- uid: learn-bizapps.power-virtual-agent-bots
+- uid: learn-bizapps.enhance-power-virtual-agent-bots
+- uid: learn-bizapps.manage-power-virtual-agent-topics
+- uid: learn-bizapps.implement-power-virtual-agents
+- uid: learn-bizapps.get-started-with-power-bi
+- uid: learn-bizapps.get-data-power-bi
+- uid: learn-bizapps.model-data-power-bi
+- uid: learn-bizapps.visuals-in-power-bi
+- uid: learn-bizapps.explore-data-power-bi
+- uid: learn-bizapps.publish-share-power-bi
+- uid: learn-bizapps.manage-solutions-power-automate
+- uid: learn-dynamics.load-export-data-create-data-views
+- uid: learn-bizapps.get-started-with-ai-builder
+- uid: learn-bizapps.manage-models
+- uid: learn-bizapps.ai-builder-power-automate
+- uid: learn.wwl.functional-consultant-skills
+summary: >-
   Microsoft Power Platform ermöglicht es Unternehmen, Geschäftsprozesse zu automatisieren, ihre eigenen umfassenden App-Umgebungen zu entwickeln und besser und schneller mit Kunden in Kontakt zu treten. In diesem Kurs lernen die Teilnehmer, wie sie eine Ermittlung durchführen, Anforderungen erfassen, Fachexperten und Projektbeteiligte einbinden, Anforderungen übersetzen und Microsoft Power Platform-Lösungen und Apps konfigurieren. Sie ergänzen das Gelernte mit praktischen Übungen zur Erstellung von Anwendungserweiterungen, kundenspezifischen Benutzererfahrungen, Systemintegrationen, Datenkonvertierungen, kundenspezifischer Prozessautomatisierung und kundenspezifischen Visualisierungen. Microsoft Power Platform setzt sich aus vier Hauptprodukten zusammen: Power Apps, Power Automate, Power BI und Power Virtual Agents. In diesem Kurs werden wir diese vier Anwendungen eingehend behandeln, mit zusätzlichem Schwerpunkt auf Microsoft Dataverse, AI Builder, Konnektoren und Portalen.
+
 
   #### <a name="audience-profile"></a>Zielgruppenprofil
 
+
   Ein Microsoft Power Platform Functional Consultant ist für das Erstellen und Konfigurieren von Apps, Automatisierungen und Lösungen zuständig. Er fungiert als Bindeglied zwischen Anwendern und dem Implementierungsteam. Der funktionale Berater fördert die Nutzung von Lösungen innerhalb einer Organisation. Der Functional Consultant kann Untersuchungen durchführen, Fachexperten und Stakeholder einbeziehen, Anforderungen erfassen und Anforderungen auf Funktionen abbilden. Er implementiert Komponenten einer Lösung, einschließlich Anwendungserweiterungen, kundenspezifischer Benutzererfahrungen, Systemintegrationen, Datenkonvertierungen, kundenspezifischer Prozessautomatisierung und einfacher Visualisierungen.
-prerequisitesSection: |-
+prerequisitesSection: >-
   *   Erfahrung als IT-Fachkraft oder -Student
+
 
   *   Gute Kenntnisse über Microsoft Power Platform und der wichtigsten Komponenten
 
+
   *   Kenntnisse über &nbsp;Microsoft&nbsp;Dataverse (oder allgemeiner Datenmodellierung)&nbsp;und Sicherheitskonzepte
-outlineSection: "### <a name=\"module-1-introduction-to-microsoft-power-platform\"></a>Modul\_1: Einführung in Microsoft Power Platform\n\nDieses Modul vermittelt den Lernenden Hintergrundwissen über Microsoft Power Platform und die vier Hauptkomponenten: Power Apps, Power Automate, Power BI, und Power Virtual Agents.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Übersicht über Microsoft Power Platform\n\n\n#### <a name=\"lab--validate-lab-environment\"></a>Lab: Überprüfen der Laborumgebung\n\n####\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Identifizieren der Hauptkomponenten von Microsoft Power Platform\n\n\n### <a name=\"module-2-work-with-dataverse\"></a>Modul\_2: Arbeiten mit Dataverse\n\nIn diesem Modul lernen die Kursteilnehmer das Erstellen eines Datenmodells in Microsoft Dataverse und erfahren u.\_a., wie sie Daten importieren, tabellarische Berichterstellungsoptionen verwenden und Sicherheit konfigurieren. Außerdem erfahren sie mehr über die Erstellung einfacher KI mit AI Builder.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Arbeiten mit Tabellen\n\n*   Grundlegendes zu Datentypen und Verhalten\n\n*   Konfigurieren der Sicherheitseinstellungen\n\n\n#### <a name=\"lab--create-an-app\"></a>Lab: Erstellen einer App\n\n####\n\n#### <a name=\"lab--create-tables-and-columns\"></a>Lab: Erstellen von Tabellen und Spalten\n\n####\n\n#### <a name=\"lab--create-relationships\"></a>Lab: Erstellen von Beziehungen\n\n####\n\n#### <a name=\"lab--additional-table-settings\"></a>Lab: Zusätzliche Tabelleneinstellungen\n\n####\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Grundlegendes zu Tabellen, Spalten, Zeilen und Beziehungen\n\n*   Konfigurieren eines Datenmodells in Dataverse\n\n*   Arbeiten in einer Umgebung innerhalb von Microsoft Power Platform Admin Center\n\n\n### <a name=\"module-3-make-model-driven-apps-with-power-apps\"></a>Modul\_3: Erstellen modellgesteuerter Apps mit Power Apps\n\nIn diesem Modul erfahren die Kursteilnehmer*innen mehr über den Geschäftswert von modellgesteuerten Power Apps-Apps. Anschließend lernen sie, wie diese konfiguriert und gestaltet werden, wobei auch auf Überlegungen zur Benutzeroberfläche eingegangen wird.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Bausteine modellgesteuerter Apps\n\n*   Entwerfen modellgesteuerter Apps\n\n*   Formulare und Ansichten\n\n\n#### <a name=\"lab--modify-views\"></a>Lab: Ändern von Ansichten\n\n####\n\n#### <a name=\"lab--modify-forms\"></a>Lab: Ändern von Formularen\n\n####\n\n#### <a name=\"lab--app-designer\"></a>Lab: App-Designer\n\n####\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Verbinden mit Daten in Power Apps\n\n*   Eine modellgesteuerte Power Apps-App zu erstellen\n\n*   Entwerfen einer Anwendungsbenutzeroberfläche\n\n\n### <a name=\"module-4-make-canvas-apps-with-power-apps\"></a>Modul\_4: Erstellen von Canvas-Apps mit Power\_Apps\n\nIn diesem Modul erfahren die Kursteilnehmer*innen mehr über den Geschäftswert von mit Power\_Apps erstellten Canvas-Apps. Anschließend lernen sie, wie diese konfiguriert und gestaltet werden, wobei auch auf Überlegungen zur Benutzeroberfläche eingegangen wird.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Power\_Apps\_Studio\n\n*   Funktionen von Canvas-Apps\n\n*   Benutzererfahrung\n\n\n#### <a name=\"lab--build-a-canvas-app\"></a>Lab: Erstellen einer Canvas-App\n\n####\n\n#### <a name=\"lab--work-with-data-and-services\"></a>Lab: Arbeiten mit Daten und Diensten\n\n####\n\n#### <a name=\"lab--user-experience\"></a>Lab: Benutzeroberfläche\n\n####\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Eine Canvas-App mit Power\_Apps zu erstellen\n\n*   Die Benutzeroberfläche in einer Canvas-App zu konfigurieren\n\n*   Die Bausteinen einer Canvas-App zu verstehen\n\n\n### <a name=\"module-5-make-portals-with-power-apps\"></a>Modul\_5: Erstellen von Portalen mit Power\_Apps\n\nIn diesem Modul erfahren die Kursteilnehmer*innen mehr über den Geschäftswert von Power\_Apps-Portalen. Anschließend lernen sie, wie sie auf Dataverse-Daten in einem Portal zugreifen und wie die Portalauthentifizierung funktioniert.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Architektur eines Power\_Apps-Portals\n\n*   Zugreifen auf Microsoft\_Dataverse in Ihrem Portal\n\n*   Authentifizierung und Benutzerverwaltung\n\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Die Verwendung von Dataverse-Daten in einem Portal zu verstehen\n\n*   Die Typen von Power\_Apps-Portalen für verschiedene Zielgruppen zu erkennen\n\n*   Benutzer für den Portalzugriff zu registrieren\n\n\n### <a name=\"module-6-introduction-to-automation\"></a>Modul\_6: Einführung in die Automatisierung\n\nIn diesem Modul lernen die Kursteilnehmer*innen mehr über Geschäftsregeln und erfahren, wann sie verwendet werden können. Den Kursteilnehmer*innen wird auch eine Übersicht über Power\_Automate geboten.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Geschäftsregeln\n\n*   Übersicht über Power\_Automate\n\n\n#### <a name=\"lab--configure-a-new-business-rule\"></a>Lab: Konfigurieren einer neuen Geschäftsregel\n\n####\n\n#### <a name=\"lab--create-security-roles\"></a>Lab: Erstellen von Sicherheitsrollen\n\n####\n\n#### <a name=\"lab--create-users\"></a>Lab: Erstellen von Benutzern\n\n####\n\n#### <a name=\"lab--advanced-business-rules\"></a>Lab: Erweiterte Geschäftsregeln\n\n####\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Benutzer zu erstellen und Sicherheitsrollen zu gewähren\n\n*   Sicherheitsrollen zu erstellen und zu konfigurieren\n\n*   Erweiterte Geschäftsregeln zu erstellen und zu konfigurieren\n\n\n### <a name=\"module-7-build-power-automate-cloud-flows\"></a>Modul\_7: Erstellen von Power\_Automate-Cloud-Flows\n\nIn diesem Modul lernen die Kursteilnehmer*innen die Grundlagen von Cloud-Flows kennen, wobei auch auf Trigger und Flows eingegangen wird. Sie erstellen zwei Flows, einschließlich eines Genehmigungsflows.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Grundlagen von Cloud-Flows\n\n*   Trigger\n\n*   Aktionen\n\n\n#### <a name=\"lab--create-a-flow\"></a>Lab: Erstellen eines Flows\n\n####\n\n#### <a name=\"lab--build-an-approval-flow\"></a>Lab: Erstellen eines Genehmigungsflows\n\n####\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Cloud-Flows zu erstellen\n\n*   Die Grundlagen von Cloud-Flows zu verstehen\n\n*   Verwenden von Triggern und Aktionen\n\n\n### <a name=\"module-8-build-power-automate-desktop-flows\"></a>Modul\_8: Erstellen eines Power\_Automate-Desktop-Flows\n\nIn diesem Modul lernen die Kursteilnehmer*innen, was Desktop-Flows sind und wie sie erstellt werden. Die Kursteilnehmer*innen erfahren außerdem, wie Desktop-Flows verwendet werden und wie sie den Prozessratgeber verwenden können, um besser zu verstehen, an welcher Stelle Workflows verbessert werden können.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Erstellen von Desktop-Flows\n\n*   Verwenden von Desktop-Flows\n\n*   Prozessratgeber\n\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Den Nutzen von Desktop-Flows zu verstehen\n\n*   Zu ermitteln, wann Desktop-Flows verwendet werden sollen und wie der Prozessratgeber dabei von Nutzen sein kann\n\n\n### <a name=\"module-9-build-business-process-flows\"></a>Modul\_9: Erstellen von Geschäftsprozessflows\n\nIn diesem Modul erfahren die Kursteilnehmer*innen mehr über den Nutzen von Geschäftsprozessflows und die Verwendung des Geschäftsprozessflow-Designers. Außerdem üben sie das Erstellen von Geschäftsprozessflows und lernen, wie sie automatisiert werden können.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Gründe für die Verwendung von Geschäftsprozessflows\n\n*   Verwenden des Geschäftsprozessflow-Designers\n\n*   Automatisieren Ihres Geschäftsprozessflows\n\n\n#### <a name=\"lab--build-a-branching-business-process-flow\"></a>Lab: Erstellen eines Verzweigungs-Geschäftsprozessflows\n\n####\n\n#### <a name=\"lab--build-a-business-process-flow\"></a>Lab: Erstellen eines Geschäftsprozessflows\n\n####\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Geschäftsprozessflows zu erstellen.\n\n*   Den Geschäftsprozessflow-Designer zu verwenden\n\n*   Automatisierung zu einem Geschäftsprozessflow hinzuzufügen\n\n\n### <a name=\"module-10-build-chatbots-with-power-virtual-agents\"></a>Modul\_10: Erstellen von Chatbots mit Power\_Virtual\_Agents\n\nIn diesem Modul erfahren die Kursteilnehmer, wie Kundeninteraktionen mit einem Chatbot mithilfe von Power Virtual Agents automatisiert werden.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Erstellen eines Chatbots\n\n*   Konfigurieren von Themen\n\n*   Automatisieren und Integrieren\n\n*   Konfigurieren von Entitäten\n\n*   Testen und Veröffentlichen von Chatbots\n\n\n#### <a name=\"lab--build-a-chatbot\"></a>Lab: Erstellen eines Chatbots\n\n####\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Erstellen eines Chatbots\n\n*   Einschließen eines Flows in einen Chatbot\n\n*   Erstellen von Themen und Entitäten\n\n\n### <a name=\"module-11-analyze-data-with-power-bi\"></a>Modul\_11: Analysieren von Daten mit Power\_BI\n\nIn diesem Modul erfahren die Kursteilnehmer, wie sie mit Power BI Desktop und dem Power BI-Dienst Daten analysieren und Visualisierungen erstellen.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Verwenden tabellarischer Berichterstellungsoptionen in Dataverse\n\n*   Verwenden von Diagrammen und Dashboards in Dataverse\n\n*   Erste Schritte mit Power BI\n\n*   Modellieren von Daten in Power BI\n\n*   Erstellen von Visualisierungen und Dashboards\n\n*   Veröffentlichen und Freigeben in Power BI\n\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Erstellen von Visualisierungen\n\n*   Daten in Power\_BI zu nutzen.\n\n*   Datenvisualisierungen für Projektbeteiligte zu exportieren.\n\n\n### <a name=\"module-12-putting-it-all-together\"></a>Modul\_12: Zusammenhang zwischen den Konzepten\n\nIn diesem Modul erfahren die Kursteilnehmer*innen, wie die in diesem Kurs vorgestellten Konzepte zusammenhängen und wie sie Functional Consultant-Qualifikationen bei Microsoft Power Platform-Projekten einsetzen können. Außerdem erfahren sie, wie Lösungen in Microsoft\_Power\_Platform verwendet werden und werden in AI\_Builder eingeführt.\n\n#### <a name=\"lessons\"></a>Lektionen\n\n*   Verwenden von Lösungen\n\n*   AI Builder\n\n*   Beraterqualifikationen\n\n\n#### <a name=\"lab--build-charts\"></a>Lab: Erstellen von Diagrammen\n\n####\n\n#### <a name=\"lab--build-dashboards\"></a>Lab: Erstellen von Dashboards\n\n####\n\n#### <a name=\"lab--build-delete-data\"></a>Lab: Erstellen einer Datenlöschung\n\n####\n\n#### <a name=\"lab--build-a-word-template\"></a>Lab: Erstellen einer Word-Vorlage\n\n####\n\n#### <a name=\"lab--build-an-excel-template\"></a>Lab: Erstellen einer Excel-Vorlage\n\n####\n\n#### <a name=\"lab--duplicate-detection\"></a>Lab: Duplikaterkennung\n\n####\n\n#### <a name=\"lab--import-data\"></a>Lab: Importieren von Daten\n\n####\n\n#### <a name=\"lab--export-data\"></a>Lab: Exportieren von Daten\n\n####\n\nNach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:\n\n*   Die Zusammenhänge der in diesem Kurs vorgestellten Konzepte zu verstehen\n\n*   Lösungen in Microsoft\_Power\_Platform zu verwalten\n\n*   AI\_Builder zum Erstellen und Verwalten von Modellen zu verwenden\n\n*   Functional\_Consultant-Qualifikationen anzuwenden"
+outlineSection: >-
+  ### <a name="module-1-introduction-to-microsoft-power-platform"></a>Modul 1: Einführung in Microsoft Power Platform
+
+
+  Dieses Modul vermittelt den Lernenden Hintergrundwissen über Microsoft Power Platform und die vier Hauptkomponenten: Power Apps, Power Automate, Power BI, und Power Virtual Agents.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Übersicht über Microsoft Power Platform
+
+
+
+  #### <a name="lab--validate-lab-environment"></a>Lab: Überprüfen der Laborumgebung
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Identifizieren der Hauptkomponenten von Microsoft Power Platform
+
+
+
+  ### <a name="module-2-work-with-dataverse"></a>Modul 2: Arbeiten mit Dataverse
+
+
+  In diesem Modul lernen die Kursteilnehmer das Erstellen eines Datenmodells in Microsoft Dataverse und erfahren u. a., wie sie Daten importieren, tabellarische Berichterstellungsoptionen verwenden und Sicherheit konfigurieren. Außerdem erfahren sie mehr über die Erstellung einfacher KI mit AI Builder.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Arbeiten mit Tabellen
+
+
+  *   Grundlegendes zu Datentypen und Verhalten
+
+
+  *   Konfigurieren der Sicherheitseinstellungen
+
+
+
+  #### <a name="lab--create-an-app"></a>Lab: Erstellen einer App
+
+
+  ####
+
+
+  #### <a name="lab--create-tables-and-columns"></a>Lab: Erstellen von Tabellen und Spalten
+
+
+  ####
+
+
+  #### <a name="lab--create-relationships"></a>Lab: Erstellen von Beziehungen
+
+
+  ####
+
+
+  #### <a name="lab--additional-table-settings"></a>Lab: Zusätzliche Tabelleneinstellungen
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Grundlegendes zu Tabellen, Spalten, Zeilen und Beziehungen
+
+
+  *   Konfigurieren eines Datenmodells in Dataverse
+
+
+  *   Arbeiten in einer Umgebung innerhalb von Microsoft Power Platform Admin Center
+
+
+
+  ### <a name="module-3-make-model-driven-apps-with-power-apps"></a>Modul 3: Erstellen modellgesteuerter Apps mit Power Apps
+
+
+  In diesem Modul erfahren die Kursteilnehmer*innen mehr über den Geschäftswert von modellgesteuerten Power Apps-Apps. Anschließend lernen sie, wie diese konfiguriert und gestaltet werden, wobei auch auf Überlegungen zur Benutzeroberfläche eingegangen wird.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Bausteine modellgesteuerter Apps
+
+
+  *   Entwerfen modellgesteuerter Apps
+
+
+  *   Formulare und Ansichten
+
+
+
+  #### <a name="lab--modify-views"></a>Lab: Ändern von Ansichten
+
+
+  ####
+
+
+  #### <a name="lab--modify-forms"></a>Lab: Ändern von Formularen
+
+
+  ####
+
+
+  #### <a name="lab--app-designer"></a>Lab: App-Designer
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Verbinden mit Daten in Power Apps
+
+
+  *   Eine modellgesteuerte Power Apps-App zu erstellen
+
+
+  *   Entwerfen einer Anwendungsbenutzeroberfläche
+
+
+
+  ### <a name="module-4-make-canvas-apps-with-power-apps"></a>Modul 4: Erstellen von Canvas-Apps mit Power Apps
+
+
+  In diesem Modul erfahren die Kursteilnehmer*innen mehr über den Geschäftswert von mit Power Apps erstellten Canvas-Apps. Anschließend lernen sie, wie diese konfiguriert und gestaltet werden, wobei auch auf Überlegungen zur Benutzeroberfläche eingegangen wird.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Power Apps Studio
+
+
+  *   Funktionen von Canvas-Apps
+
+
+  *   Benutzererfahrung
+
+
+
+  #### <a name="lab--build-a-canvas-app"></a>Lab: Erstellen einer Canvas-App
+
+
+  ####
+
+
+  #### <a name="lab--work-with-data-and-services"></a>Lab: Arbeiten mit Daten und Diensten
+
+
+  ####
+
+
+  #### <a name="lab--user-experience"></a>Lab: Benutzeroberfläche
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Eine Canvas-App mit Power Apps zu erstellen
+
+
+  *   Die Benutzeroberfläche in einer Canvas-App zu konfigurieren
+
+
+  *   Die Bausteinen einer Canvas-App zu verstehen
+
+
+
+  ### <a name="module-5-make-portals-with-power-apps"></a>Modul 5: Erstellen von Portalen mit Power Apps
+
+
+  In diesem Modul erfahren die Kursteilnehmer*innen mehr über den Geschäftswert von Power Apps-Portalen. Anschließend lernen sie, wie sie auf Dataverse-Daten in einem Portal zugreifen und wie die Portalauthentifizierung funktioniert.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Architektur eines Power Apps-Portals
+
+
+  *   Zugreifen auf Microsoft Dataverse in Ihrem Portal
+
+
+  *   Authentifizierung und Benutzerverwaltung
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Die Verwendung von Dataverse-Daten in einem Portal zu verstehen
+
+
+  *   Die Typen von Power Apps-Portalen für verschiedene Zielgruppen zu erkennen
+
+
+  *   Benutzer für den Portalzugriff zu registrieren
+
+
+
+  ### <a name="module-6-introduction-to-automation"></a>Modul 6: Einführung in die Automatisierung
+
+
+  In diesem Modul lernen die Kursteilnehmer*innen mehr über Geschäftsregeln und erfahren, wann sie verwendet werden können. Den Kursteilnehmer*innen wird auch eine Übersicht über Power Automate geboten.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Geschäftsregeln
+
+
+  *   Übersicht über Power Automate
+
+
+
+  #### <a name="lab--configure-a-new-business-rule"></a>Lab: Konfigurieren einer neuen Geschäftsregel
+
+
+  ####
+
+
+  #### <a name="lab--create-security-roles"></a>Lab: Erstellen von Sicherheitsrollen
+
+
+  ####
+
+
+  #### <a name="lab--create-users"></a>Lab: Erstellen von Benutzern
+
+
+  ####
+
+
+  #### <a name="lab--advanced-business-rules"></a>Lab: Erweiterte Geschäftsregeln
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Benutzer zu erstellen und Sicherheitsrollen zu gewähren
+
+
+  *   Sicherheitsrollen zu erstellen und zu konfigurieren
+
+
+  *   Erweiterte Geschäftsregeln zu erstellen und zu konfigurieren
+
+
+
+  ### <a name="module-7-build-power-automate-cloud-flows"></a>Modul 7: Erstellen von Power Automate-Cloud-Flows
+
+
+  In diesem Modul lernen die Kursteilnehmer*innen die Grundlagen von Cloud-Flows kennen, wobei auch auf Trigger und Flows eingegangen wird. Sie erstellen zwei Flows, einschließlich eines Genehmigungsflows.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Grundlagen von Cloud-Flows
+
+
+  *   Trigger
+
+
+  *   Aktionen
+
+
+
+  #### <a name="lab--create-a-flow"></a>Lab: Erstellen eines Flows
+
+
+  ####
+
+
+  #### <a name="lab--build-an-approval-flow"></a>Lab: Erstellen eines Genehmigungsflows
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Cloud-Flows zu erstellen
+
+
+  *   Die Grundlagen von Cloud-Flows zu verstehen
+
+
+  *   Verwenden von Triggern und Aktionen
+
+
+
+  ### <a name="module-8-build-power-automate-desktop-flows"></a>Modul 8: Erstellen eines Power Automate-Desktop-Flows
+
+
+  In diesem Modul lernen die Kursteilnehmer*innen, was Desktop-Flows sind und wie sie erstellt werden. Die Kursteilnehmer*innen erfahren außerdem, wie Desktop-Flows verwendet werden und wie sie den Prozessratgeber verwenden können, um besser zu verstehen, an welcher Stelle Workflows verbessert werden können.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Erstellen von Desktop-Flows
+
+
+  *   Verwenden von Desktop-Flows
+
+
+  *   Prozessratgeber
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Den Nutzen von Desktop-Flows zu verstehen
+
+
+  *   Zu ermitteln, wann Desktop-Flows verwendet werden sollen und wie der Prozessratgeber dabei von Nutzen sein kann
+
+
+
+  ### <a name="module-9-build-business-process-flows"></a>Modul 9: Erstellen von Geschäftsprozessflows
+
+
+  In diesem Modul erfahren die Kursteilnehmer*innen mehr über den Nutzen von Geschäftsprozessflows und die Verwendung des Geschäftsprozessflow-Designers. Außerdem üben sie das Erstellen von Geschäftsprozessflows und lernen, wie sie automatisiert werden können.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Gründe für die Verwendung von Geschäftsprozessflows
+
+
+  *   Verwenden des Geschäftsprozessflow-Designers
+
+
+  *   Automatisieren Ihres Geschäftsprozessflows
+
+
+
+  #### <a name="lab--build-a-branching-business-process-flow"></a>Lab: Erstellen eines Verzweigungs-Geschäftsprozessflows
+
+
+  ####
+
+
+  #### <a name="lab--build-a-business-process-flow"></a>Lab: Erstellen eines Geschäftsprozessflows
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Geschäftsprozessflows zu erstellen.
+
+
+  *   Den Geschäftsprozessflow-Designer zu verwenden
+
+
+  *   Automatisierung zu einem Geschäftsprozessflow hinzuzufügen
+
+
+
+  ### <a name="module-10-build-chatbots-with-power-virtual-agents"></a>Modul 10: Erstellen von Chatbots mit Power Virtual Agents
+
+
+  In diesem Modul erfahren die Kursteilnehmer, wie Kundeninteraktionen mit einem Chatbot mithilfe von Power Virtual Agents automatisiert werden.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Erstellen eines Chatbots
+
+
+  *   Konfigurieren von Themen
+
+
+  *   Automatisieren und Integrieren
+
+
+  *   Konfigurieren von Entitäten
+
+
+  *   Testen und Veröffentlichen von Chatbots
+
+
+
+  #### <a name="lab--build-a-chatbot"></a>Lab: Erstellen eines Chatbots
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erstellen eines Chatbots
+
+
+  *   Einschließen eines Flows in einen Chatbot
+
+
+  *   Erstellen von Themen und Entitäten
+
+
+
+  ### <a name="module-11-analyze-data-with-power-bi"></a>Modul 11: Analysieren von Daten mit Power BI
+
+
+  In diesem Modul erfahren die Kursteilnehmer, wie sie mit Power BI Desktop und dem Power BI-Dienst Daten analysieren und Visualisierungen erstellen.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Verwenden tabellarischer Berichterstellungsoptionen in Dataverse
+
+
+  *   Verwenden von Diagrammen und Dashboards in Dataverse
+
+
+  *   Erste Schritte mit Power BI
+
+
+  *   Modellieren von Daten in Power BI
+
+
+  *   Erstellen von Visualisierungen und Dashboards
+
+
+  *   Veröffentlichen und Freigeben in Power BI
+
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Erstellen von Visualisierungen
+
+
+  *   Daten in Power BI zu nutzen.
+
+
+  *   Datenvisualisierungen für Projektbeteiligte zu exportieren.
+
+
+
+  ### <a name="module-12-putting-it-all-together"></a>Modul 12: Zusammenhang zwischen den Konzepten
+
+
+  In diesem Modul erfahren die Kursteilnehmer*innen, wie die in diesem Kurs vorgestellten Konzepte zusammenhängen und wie sie Functional Consultant-Qualifikationen bei Microsoft Power Platform-Projekten einsetzen können. Außerdem erfahren sie, wie Lösungen in Microsoft Power Platform verwendet werden und werden in AI Builder eingeführt.
+
+
+  #### <a name="lessons"></a>Lektionen
+
+
+  *   Verwenden von Lösungen
+
+
+  *   AI Builder
+
+
+  *   Beraterqualifikationen
+
+
+
+  #### <a name="lab--build-charts"></a>Lab: Erstellen von Diagrammen
+
+
+  ####
+
+
+  #### <a name="lab--build-dashboards"></a>Lab: Erstellen von Dashboards
+
+
+  ####
+
+
+  #### <a name="lab--build-delete-data"></a>Lab: Erstellen einer Datenlöschung
+
+
+  ####
+
+
+  #### <a name="lab--build-a-word-template"></a>Lab: Erstellen einer Word-Vorlage
+
+
+  ####
+
+
+  #### <a name="lab--build-an-excel-template"></a>Lab: Erstellen einer Excel-Vorlage
+
+
+  ####
+
+
+  #### <a name="lab--duplicate-detection"></a>Lab: Duplikaterkennung
+
+
+  ####
+
+
+  #### <a name="lab--import-data"></a>Lab: Importieren von Daten
+
+
+  ####
+
+
+  #### <a name="lab--export-data"></a>Lab: Exportieren von Daten
+
+
+  ####
+
+
+  Nach Abschluss dieses Moduls werden die Teilnehmer in der Lage sein:
+
+
+  *   Die Zusammenhänge der in diesem Kurs vorgestellten Konzepte zu verstehen
+
+
+  *   Lösungen in Microsoft Power Platform zu verwalten
+
+
+  *   AI Builder zum Erstellen und Verwalten von Modellen zu verwenden
+
+
+  *   Functional Consultant-Qualifikationen anzuwenden

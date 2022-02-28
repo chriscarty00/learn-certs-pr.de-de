@@ -3,41 +3,26 @@ title: Microsoft Power Platform Solution Architect
 metadata:
   title: 'Examen PL-600: Microsoft Power Platform Solution Architect'
   description: 'Examen PL-600: Microsoft Power Platform Solution Architect'
-  ms.openlocfilehash: f075f6d3b0ae2e3c9cd3739058bf06ab6beec835
-  ms.sourcegitcommit: a99616c85658bcdbb3b95b115da620965190777e
+  ms.openlocfilehash: 2f6b8cf97ca186aad09dbfedd080454a947f8050
+  ms.sourcegitcommit: 3cc70fa27b69d927057ce19978fd294786ea75fb
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 01/25/2022
-  ms.locfileid: "137685501"
+  ms.lasthandoff: 02/14/2022
+  ms.locfileid: "138646048"
 uid: exam.pl-600
 displayName: PL-600
-summary: >-
-  > [!NOTE]
-
-  > Das Produktteam hat kürzlich die Umbenennung von Common Data Service in Microsoft Dataverse abgeschlossen. Die Sicherheitsrolle „Common Data Service-Benutzer“ heißt nun „Basic-Benutzer“. Der Common Data Service-Connector ist jetzt der Microsoft Dataverse-Connector.
-
-
-  <br/>
-
-  Microsoft Power Platform Solution Architects führen erfolgreiche Implementierungen durch und konzentrieren sich darauf, wie Lösungen allgemeine geschäftliche und technische Anforderungen von Unternehmen erfüllen.
-
-
-  <br/>
-
-  Ein*e Solution Architect verfügt über fachliche und technische Kenntnisse zu Power Platform, Dynamics 365 Customer Engagement-Apps, zugehörigen Microsoft-Cloudlösungen und Technologien von Drittanbietern. Ein Solution Architect setzt seine Kenntnisse und Erfahrungen während des gesamten Kundenprojekts ein. Ein Solution Architect agiert proaktiv und präventiv, um den Wert der Kundeninvestition zu steigern und die Integrität des Unternehmens zu fördern. Diese Position erfordert die Fähigkeit, Möglichkeiten zur Lösung von Geschäftsproblemen zu identifizieren.
-
-
-  Solution Architects haben Erfahrung in den fachlichen und technischen Disziplinen von Power Platform. Solution Architects sollen in der Lage sein, Entwurfsentscheidungen in den Bereichen Entwicklung, Konfiguration, Integration, Infrastruktur, Sicherheit, Verfügbarkeit, Speicher und Change Management zu unterstützen. In dieser Rolle stellen Lösungsarchitekten die Balance zwischen den fachlichen und nicht-fachlichen geschäftlichen Anforderungen eines Projekts her.
+summary: "Microsoft Power Platform Solution Architects führen erfolgreiche Implementierungen durch und konzentrieren sich darauf, wie Lösungen allgemeine geschäftliche und technische Anforderungen von Unternehmen erfüllen.\n\n<br/>\nEin*e Solution Architect verfügt über fachliche und technische Kenntnisse zu Power Platform, Dynamics 365 Customer Engagement-Apps, zugehörigen Microsoft-Cloudlösungen und Technologien von Drittanbietern. Ein Solution Architect setzt seine Kenntnisse und Erfahrungen während des gesamten Kundenprojekts ein. Ein Solution Architect agiert proaktiv und präventiv, um den Wert der Kundeninvestition zu steigern und die Integrität des Unternehmens zu fördern. Diese Position erfordert die Fähigkeit, Möglichkeiten zur Lösung von Geschäftsproblemen zu identifizieren.\n\nSolution Architects haben Erfahrung in den fachlichen und technischen Disziplinen von Power Platform. Solution Architects sollen in der Lage sein, Entwurfsentscheidungen in den Bereichen Entwicklung, Konfiguration, Integration, Infrastruktur, Sicherheit, Verfügbarkeit, Speicher und Change Management zu unterstützen. In dieser Rolle stellen Lösungsarchitekten die Balance zwischen den fachlichen und nicht-fachlichen geschäftlichen Anforderungen eines Projekts her.\n\n> [!IMPORTANT]\n> Die englischsprachige Version dieser Prüfung wird am 14. März 2022 aktualisiert. Laden Sie das unten gezeigte Dokument zur Kompetenzmessung herunter, um zu sehen, was sich ändern wird.\n> \n> Notwendige Punktzahl: 700. [Weitere Informationen zur Prüfungsauswertung finden Sie hier.](/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)"
 subTitle: 'In diesem Examen wird Ihre Fähigkeit abgefragt, die folgenden technischen Aufgaben zu bewältigen: Durchführen von Lösungsbereitstellung und Anforderungsanalyse, Konzipieren von Lösungen sowie Entwicklung und Implementieren der Lösung.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-600?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=de-DE&examcode=PL-600&examname=Exam%20PL-600:%20Microsoft%20Power%20Platform%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-600
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=PL-600&examname=Exam%20PL-600:%20Microsoft%20Power%20Platform%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-600
 locales:
 - en
 levels:
 - advanced
 skills:
+- The English language version of this exam will be updated on March 14, 2022. Please download the exam skills outline below to see what’s changing.
 - Perform solution envisioning and requirement analyses (35-40%)
 - Architect a solution (40-45%)
 - Implement the solution (15-20%)
@@ -61,7 +46,7 @@ products:
 - azure-api-apps
 - azure-app-configuration
 - azure-app-service
-paths:
+studyGuide:
 - uid: learn-dynamics.become-solution-architect
 - uid: learn-bizapps.solution-architect-design
 courses:
